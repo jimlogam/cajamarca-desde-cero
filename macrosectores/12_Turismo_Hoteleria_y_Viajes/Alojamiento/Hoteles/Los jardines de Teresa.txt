@@ -1,0 +1,16 @@
+Nombre: Los jardines de Teresa
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Residencial El Prado, Carr. a Shultin, Baños del Inca 06001
+Teléfono: 976 832 313
+Rating: 4.3
+Reseñas: 62
+Sitio web: 
+Latitud: -7.134278999999999
+Longitud: -78.4964327
+Google Maps: https://www.google.com/maps?cid=10084417243400398971
+Place Id: ChIJmQQKNbxaspERe2i0pw0M84s
+Fotos: Los jardines de Teresa.jpg
+

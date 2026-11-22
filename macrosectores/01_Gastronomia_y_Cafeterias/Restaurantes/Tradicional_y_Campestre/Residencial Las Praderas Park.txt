@@ -1,0 +1,17 @@
+Nombre: Residencial Las Praderas Park
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Condominio
+Dirección: RFVX+M3R, Cajamarca 06002
+Teléfono: +41 76 519 79 12
+Rating: 4.5
+Reseñas: 84
+Sitio web: 
+Latitud: -7.155761
+Longitud: -78.502349
+Google Maps: https://www.google.com/maps?cid=3903128448209137384
+Place Id: ChIJhSAtkOZaspER6C463KSyKjY
+Fotos: Residencial Las Praderas Park.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

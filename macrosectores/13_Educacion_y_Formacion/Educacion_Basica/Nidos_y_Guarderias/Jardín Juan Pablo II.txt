@@ -1,0 +1,16 @@
+Nombre: Jardín Juan Pablo II
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Centro educativo
+Dirección: Hacienda Huacariz,06003, Cajamarca 06003
+Teléfono: 972 401 492
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1799405
+Longitud: -78.4776754
+Google Maps: https://www.google.com/maps?cid=17544125815590110702
+Place Id: ChIJkYmEm8ZbspER7kUC_XlBefM
+Fotos: Sin foto en Maps
+

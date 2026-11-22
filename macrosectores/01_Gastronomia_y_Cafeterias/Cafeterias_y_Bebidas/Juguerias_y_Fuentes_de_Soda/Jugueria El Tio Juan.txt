@@ -1,0 +1,16 @@
+Nombre: Jugueria El Tio Juan
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Cafetería
+Dirección: Av. Mario Urteaga 633, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.155086
+Longitud: -78.51454389999999
+Google Maps: https://www.google.com/maps?cid=4587207795056885400
+Place Id: ChIJ4TgNL_paspERmL5Efy8JqT8
+Fotos: Jugueria El Tio Juan.jpg
+

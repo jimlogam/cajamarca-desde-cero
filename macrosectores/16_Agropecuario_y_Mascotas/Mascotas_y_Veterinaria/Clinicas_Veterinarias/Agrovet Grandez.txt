@@ -1,0 +1,16 @@
+Nombre: Agrovet Grandez
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Servicio de urgencias veterinarias
+Dirección: Prol. Revilla Perez 108, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1534938
+Longitud: -78.5150452
+Google Maps: https://www.google.com/maps?cid=1547458007440055010
+Place Id: ChIJHTvA-PlaspER4lpM5tuseRU
+Fotos: Agrovet Grandez.jpg
+

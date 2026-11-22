@@ -1,0 +1,16 @@
+Nombre: Lopetines
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: Jirón del Comercio 815, Cajamarca 06002
+Teléfono: 
+Rating: 4.6
+Reseñas: 11
+Sitio web: 
+Latitud: -7.1576515999999994
+Longitud: -78.517864
+Google Maps: https://www.google.com/maps?cid=13825203713544356443
+Place Id: ChIJDZ-HKuJbspERWwI5RYf93L8
+Fotos: Lopetines.jpg
+

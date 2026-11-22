@@ -1,0 +1,16 @@
+Nombre: Panadería Pan de Vida
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Colonial 310, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1723227
+Longitud: -78.49678689999999
+Google Maps: https://www.google.com/maps?cid=18251537744818277208
+Place Id: ChIJWZrzUABbspERWAuHzOB8Sv0
+Fotos: Panadería Pan de Vida.jpg
+

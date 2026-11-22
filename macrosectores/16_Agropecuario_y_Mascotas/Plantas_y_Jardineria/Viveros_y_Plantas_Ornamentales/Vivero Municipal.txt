@@ -1,0 +1,17 @@
+Nombre: Vivero Municipal
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1424341
+Longitud: -78.5078582
+Google Maps: https://www.google.com/maps?cid=7427244299151046302
+Place Id: ChIJPUA9rHNbspERnnbxvlbfEmc
+Fotos: Vivero Municipal.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

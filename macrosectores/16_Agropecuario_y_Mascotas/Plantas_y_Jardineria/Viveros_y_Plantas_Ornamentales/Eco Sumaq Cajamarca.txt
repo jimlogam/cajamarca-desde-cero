@@ -1,0 +1,17 @@
+Nombre: Eco Sumaq Cajamarca
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: RH76+JCG, Huayrapongo 06300
+Teléfono: 949 337 673
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.185931699999999
+Longitud: -78.438907
+Google Maps: https://www.google.com/maps?cid=18078491281345150148
+Place Id: ChIJP7FRLRlFspERxPySUwm04_o
+Fotos: Eco Sumaq Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

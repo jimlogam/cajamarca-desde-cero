@@ -1,0 +1,16 @@
+Nombre: Agroveterinaria "Mundo Animal"
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: Av San Martín de Porres 1894, Cajamarca 06003
+Teléfono: 
+Rating: 4
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1775956
+Longitud: -78.4954715
+Google Maps: https://www.google.com/maps?cid=8186973618159763092
+Place Id: ChIJ9X56tj1bspERlD7oFyH5nXE
+Fotos: Agroveterinaria Mundo Animal.jpg
+

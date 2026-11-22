@@ -1,0 +1,16 @@
+Nombre: Copo De Nieve
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Pje. Los Cartuchos 352, Cajamarca 06003
+Teléfono: 979 385 779
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1732273
+Longitud: -78.4954198
+Google Maps: https://www.google.com/maps?cid=7696552290117527979
+Place Id: ChIJRcqyGLBbspERq6msn4elz2o
+Fotos: Copo De Nieve.jpg
+

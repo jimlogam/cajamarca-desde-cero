@@ -1,0 +1,16 @@
+Nombre: Kate's pasteleria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: 06000, Cajamarca 06001
+Teléfono: 955 703 538
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1449155
+Longitud: -78.50644729999999
+Google Maps: https://www.google.com/maps?cid=5886449852078442536
+Place Id: ChIJi-OzV89bspERKEhJ5fPesFE
+Fotos: Sin foto en Maps
+

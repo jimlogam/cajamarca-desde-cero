@@ -1,0 +1,17 @@
+Nombre: Agocucho
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Complejo de viviendas
+Dirección: QGRG+8WC, Cajamarca 06000
+Teléfono: 
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.209181
+Longitud: -78.4727291
+Google Maps: https://www.google.com/maps?cid=10909793046241725193
+Place Id: ChIJMfnjXgBDspERCctDFvleZ5c
+Fotos: Agocucho.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

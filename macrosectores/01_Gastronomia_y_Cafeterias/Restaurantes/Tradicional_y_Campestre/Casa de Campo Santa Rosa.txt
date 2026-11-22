@@ -1,0 +1,17 @@
+Nombre: Casa de Campo "Santa Rosa"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Alojamiento
+Dirección: Los Sauces 120, Cajamarca 06001
+Teléfono: 999 026 301
+Rating: 4.4
+Reseñas: 124
+Sitio web: 
+Latitud: -7.1460294
+Longitud: -78.5211669
+Google Maps: https://www.google.com/maps?cid=13860168225134463485
+Place Id: ChIJaznWZF9aspER_clLApE1WcA
+Fotos: Casa de Campo Santa Rosa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

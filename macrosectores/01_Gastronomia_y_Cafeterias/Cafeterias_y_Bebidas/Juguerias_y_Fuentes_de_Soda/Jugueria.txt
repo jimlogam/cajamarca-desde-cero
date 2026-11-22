@@ -1,0 +1,17 @@
+Nombre: Jugueria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: 
+Dirección: JR, Belén 768, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1575691
+Longitud: -78.5152804
+Google Maps: https://www.google.com/maps?cid=8031334400575845328
+Place Id: ChIJL3QDDBdbspER0LOy4hUIdW8
+Fotos: Jugueria.jpg
+Nota: Sin categoria en Maps; clasificado por el nombre.
+

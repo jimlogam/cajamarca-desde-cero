@@ -1,0 +1,17 @@
+Nombre: Jugueria Mery
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: 
+Dirección: VG45+JWM, Av. Rafael Hoyos Rubio, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1434131999999995
+Longitud: -78.4902092
+Google Maps: https://www.google.com/maps?cid=12317114966573535580
+Place Id: ChIJFYZBEsdaspERXFFDoM0u76o
+Fotos: Jugueria Mery.jpg
+Nota: Sin categoria en Maps; clasificado por el nombre.
+

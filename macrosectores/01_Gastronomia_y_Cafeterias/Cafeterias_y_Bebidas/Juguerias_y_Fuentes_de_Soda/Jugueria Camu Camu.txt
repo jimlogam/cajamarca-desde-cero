@@ -1,0 +1,16 @@
+Nombre: Jugueria Camu Camu
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante
+Dirección: Jirón del Comercio 235, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1545261
+Longitud: -78.5214802
+Google Maps: https://www.google.com/maps?cid=9636645139625116779
+Place Id: ChIJ5YhyKzNbspERa4TZhbI9vIU
+Fotos: Jugueria Camu Camu.jpg
+

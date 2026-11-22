@@ -1,0 +1,17 @@
+Nombre: Vivero Shanill
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: 928520580, Cajamarca 06001
+Teléfono: 921 831 839
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1370092
+Longitud: -78.517766
+Google Maps: https://www.google.com/maps?cid=13995229759764053845
+Place Id: ChIJkUmmYlxbspERVT-2DFELOcI
+Fotos: Vivero Shanill.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

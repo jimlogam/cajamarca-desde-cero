@@ -1,0 +1,17 @@
+Nombre: Garden Center
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Centro de jardinería
+Dirección: Jr, San Salvador #514, Cajamarca 06002
+Teléfono: 976 580 772
+Rating: 3.3
+Reseñas: 4
+Sitio web: https://garden-center.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1530607999999996
+Longitud: -78.51199
+Google Maps: https://www.google.com/maps?cid=8746295008721204217
+Place Id: ChIJK6LshDhbspER-XOZd_gUYXk
+Fotos: Garden Center.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

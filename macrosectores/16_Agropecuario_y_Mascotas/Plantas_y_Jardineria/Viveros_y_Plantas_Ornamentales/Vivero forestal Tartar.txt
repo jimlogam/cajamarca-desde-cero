@@ -1,0 +1,17 @@
+Nombre: Vivero forestal Tartar
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: VG36+C4, Av. Hoyos Rubio 1804, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.146697499999999
+Longitud: -78.4890174
+Google Maps: https://www.google.com/maps?cid=10838605716966901120
+Place Id: ChIJrblLE5pbspERgIVUZHl2apY
+Fotos: Sin foto en Maps
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

@@ -1,0 +1,16 @@
+Nombre: La Plantita Guapa
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Tienda de plantas de seda
+Dirección: 06002, Cajamarca 06002
+Teléfono: 948 704 509
+Rating: 
+Reseñas: 
+Sitio web: https://www.instagram.com/laplantitaguapa/
+Latitud: -7.1504843
+Longitud: -78.5035766
+Google Maps: https://www.google.com/maps?cid=12996566594321512132
+Place Id: ChIJk6uWBFtbspERxPY9cnUUXbQ
+Fotos: La Plantita Guapa.jpg
+

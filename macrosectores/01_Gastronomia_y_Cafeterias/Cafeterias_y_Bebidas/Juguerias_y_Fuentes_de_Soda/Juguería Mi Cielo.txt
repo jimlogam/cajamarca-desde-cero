@@ -1,0 +1,16 @@
+Nombre: Juguería Mi Cielo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Cafetería
+Dirección: VF2P+8MR, Los Fresnos, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1491435
+Longitud: -78.5133555
+Google Maps: https://www.google.com/maps?cid=5015165728579810137
+Place Id: ChIJ_ZYSDqBbspERWXO2nahymUU
+Fotos: Juguería Mi Cielo.jpg
+

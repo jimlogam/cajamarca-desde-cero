@@ -1,0 +1,16 @@
+Nombre: Planta GLORIA S.A
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Fabricante de alimentos
+Dirección: RGPG+M47, Av. Atahualpa, Cajamarca 06004
+Teléfono: 910 868 333
+Rating: 4.9
+Reseñas: 20
+Sitio web: 
+Latitud: -7.1633273
+Longitud: -78.4746962
+Google Maps: https://www.google.com/maps?cid=12155967118715299623
+Place Id: ChIJh9S-VNVEspERJ6dafLCrsqg
+Fotos: Planta GLORIA S.A.jpg
+

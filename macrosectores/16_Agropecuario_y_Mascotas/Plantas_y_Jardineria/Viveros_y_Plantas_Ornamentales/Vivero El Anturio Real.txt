@@ -1,0 +1,17 @@
+Nombre: Vivero El Anturio Real
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Centro de jardinería
+Dirección: Carretera a la Paccha, 06000, Cajamarca 06003
+Teléfono: 921 595 445
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1889813
+Longitud: -78.50627639999999
+Google Maps: https://www.google.com/maps?cid=1964084013413189819
+Place Id: ChIJj8B-NfdbspERu0iECAHUQRs
+Fotos: Sin foto en Maps
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

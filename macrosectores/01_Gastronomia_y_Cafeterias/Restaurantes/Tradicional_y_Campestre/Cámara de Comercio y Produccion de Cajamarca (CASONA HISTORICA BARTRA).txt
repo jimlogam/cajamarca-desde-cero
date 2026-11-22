@@ -1,0 +1,17 @@
+Nombre: Cámara de Comercio y Produccion de Cajamarca (CASONA HISTORICA BARTRA)
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficina de la Administración
+Dirección: Juan Villanueva 571, Cajamarca 06001
+Teléfono: (076) 362450
+Rating: 4.2
+Reseñas: 217
+Sitio web: http://www.camcajamarca.com.pe/
+Latitud: -7.1541527
+Longitud: -78.52092619999999
+Google Maps: https://www.google.com/maps?cid=14947224422634252568
+Place Id: ChIJLWbW5ldaspERGGkoKWs1b88
+Fotos: Cámara de Comercio y Produccion de Cajamarca (CASONA HISTORICA BARTRA).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

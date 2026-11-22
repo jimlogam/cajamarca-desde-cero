@@ -1,0 +1,17 @@
+Nombre: Comercial "La Buena Semilla"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de electrónica
+Dirección: RFVM+J49, Cajamarca 06000
+Teléfono: 970 241 571
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1559583
+Longitud: -78.5171438
+Google Maps: https://www.google.com/maps?cid=13593084599606212508
+Place Id: ChIJGWEWZ4VbspERnHdckWxWpLw
+Fotos: Comercial La Buena Semilla.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

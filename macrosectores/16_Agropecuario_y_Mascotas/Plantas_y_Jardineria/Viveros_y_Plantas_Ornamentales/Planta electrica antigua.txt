@@ -1,0 +1,16 @@
+Nombre: Planta electrica antigua
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Mayorista de productos electrónicos
+Dirección: Jr. Alfonso Ugarte 432, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.170351999999999
+Longitud: -78.5101181
+Google Maps: https://www.google.com/maps?cid=8042251540283820112
+Place Id: ChIJQSu7LCZbspERUIj0jCrRm28
+Fotos: Planta electrica antigua.jpg
+

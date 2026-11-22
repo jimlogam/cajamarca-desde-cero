@@ -1,0 +1,16 @@
+Nombre: JUMAR'S Veterinaria E.I.R.L
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Servicio de urgencias veterinarias, Veterinario
+Dirección: 06000 Jr, Dos de Mayo 624, Cajamarca 06000
+Teléfono: 976 407 788
+Rating: 4.3
+Reseñas: 16
+Sitio web: 
+Latitud: -7.1562649
+Longitud: -78.5159977
+Google Maps: https://www.google.com/maps?cid=6373648960130344781
+Place Id: ChIJfw3Wc_laspERTWebz_W_c1g
+Fotos: JUMAR'S Veterinaria E.I.R.L.jpg
+

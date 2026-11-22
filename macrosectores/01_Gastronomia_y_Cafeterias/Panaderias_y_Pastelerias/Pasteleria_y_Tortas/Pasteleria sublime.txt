@@ -1,0 +1,16 @@
+Nombre: Pasteleria sublime
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Jirón, Amalia Puga 436-A, Cajamarca 06001
+Teléfono: 952 263 470
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1555098
+Longitud: -78.5191972
+Google Maps: https://www.google.com/maps?cid=7108433575066049076
+Place Id: ChIJP_K0ay1bspERNJpFp6w6pmI
+Fotos: Pasteleria sublime.jpg
+

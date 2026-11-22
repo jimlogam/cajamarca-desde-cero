@@ -1,0 +1,16 @@
+Nombre: Estación Waffle
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Tienda de postres
+Dirección: Jr, Jr. Guillermo Urrelo 560, Cajamarca 06002
+Teléfono: 969 218 912
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.160797199999999
+Longitud: -78.5170516
+Google Maps: https://www.google.com/maps?cid=16796242490680457355
+Place Id: ChIJsff40EtbspERi7hUEo49GOk
+Fotos: Estación Waffle.jpg
+

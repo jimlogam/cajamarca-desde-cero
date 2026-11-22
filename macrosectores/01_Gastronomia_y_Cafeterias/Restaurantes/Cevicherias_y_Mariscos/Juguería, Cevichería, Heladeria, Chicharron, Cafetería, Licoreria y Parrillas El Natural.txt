@@ -1,0 +1,16 @@
+Nombre: Juguería, Cevichería, Heladeria, Chicharron, Cafetería, Licoreria y Parrillas "El Natural"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Heladería
+Dirección: Jr, Chanchamayo 700, Cajamarca 06001
+Teléfono: 901 920 820
+Rating: 2
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1515618
+Longitud: -78.5186658
+Google Maps: https://www.google.com/maps?cid=273841089008948616
+Place Id: ChIJpRhoA4JbspERiNVIAwXhzAM
+Fotos: Juguería, Cevichería, Heladeria, Chicharron, Cafetería, Licoreria y Parrillas El Natural.jpg
+

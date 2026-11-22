@@ -1,0 +1,17 @@
+Nombre: Bosquet
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Arquitecto paisajista
+Dirección: 06, Cajamarca
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1617465
+Longitud: -78.51278549999999
+Google Maps: https://www.google.com/maps?cid=3394226120561138426
+Place Id: ChIJ54N8VYBbspER-hpmW6y2Gi8
+Fotos: Bosquet.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

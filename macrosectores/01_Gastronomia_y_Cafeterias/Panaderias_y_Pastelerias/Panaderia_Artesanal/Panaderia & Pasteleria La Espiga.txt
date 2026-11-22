@@ -1,0 +1,16 @@
+Nombre: Panaderia & Pasteleria "La Espiga"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av. Mario Urteaga 375, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1604825
+Longitud: -78.50825429999999
+Google Maps: https://www.google.com/maps?cid=16523330985521319102
+Place Id: ChIJVSUdJONaspERvgw0qvypTuU
+Fotos: Panaderia & Pasteleria La Espiga.jpg
+

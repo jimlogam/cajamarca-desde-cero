@@ -1,0 +1,17 @@
+Nombre: Vivero & plantas "el pequeño huerto"
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Jardín
+Dirección: Agopampa baja, Cajamarca 06001
+Teléfono: 947 736 572
+Rating: 4.6
+Reseñas: 12
+Sitio web: 
+Latitud: -7.2068258
+Longitud: -78.4717683
+Google Maps: https://www.google.com/maps?cid=2546926793932806459
+Place Id: ChIJ5V2P0hNDspEROxlKxWyAWCM
+Fotos: Vivero & plantas el pequeño huerto.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

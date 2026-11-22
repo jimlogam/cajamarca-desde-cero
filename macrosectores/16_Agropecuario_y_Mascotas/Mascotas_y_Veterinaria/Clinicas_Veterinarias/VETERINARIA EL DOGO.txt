@@ -1,0 +1,16 @@
+Nombre: VETERINARIA "EL DOGO"
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Tienda de alimentación
+Dirección: RFRQ+JJX, Cajamarca 06002
+Teléfono: 948 007 442
+Rating: 4.6
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1583777
+Longitud: -78.51089619999999
+Google Maps: https://www.google.com/maps?cid=9740090798045269346
+Place Id: ChIJxezAaS9bspERYg2KwfnAK4c
+Fotos: VETERINARIA EL DOGO.jpg
+

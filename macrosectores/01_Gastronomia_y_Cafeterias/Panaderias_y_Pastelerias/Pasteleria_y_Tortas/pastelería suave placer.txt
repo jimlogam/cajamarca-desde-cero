@@ -1,0 +1,16 @@
+Nombre: pastelería suave placer
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Cafetería
+Dirección: 06000, Cajamarca 06000
+Teléfono: 940 880 911
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1591929
+Longitud: -78.51329419999999
+Google Maps: https://www.google.com/maps?cid=10006515320112586322
+Place Id: ChIJg4sBiUpbspERUp7QtqpI3oo
+Fotos: pastelería suave placer.jpg
+

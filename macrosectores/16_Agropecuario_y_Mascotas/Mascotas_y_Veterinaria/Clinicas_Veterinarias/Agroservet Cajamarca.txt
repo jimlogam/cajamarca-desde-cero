@@ -1,0 +1,16 @@
+Nombre: Agroservet Cajamarca
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Av San Martín de Porres 140, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.163761
+Longitud: -78.5101967
+Google Maps: https://www.google.com/maps?cid=9297690082269590885
+Place Id: ChIJwUEnR7xbspERZfVZWd4HCIE
+Fotos: Agroservet Cajamarca.jpg
+

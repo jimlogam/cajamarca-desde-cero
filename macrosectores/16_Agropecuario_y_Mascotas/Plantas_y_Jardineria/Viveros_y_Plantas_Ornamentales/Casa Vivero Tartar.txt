@@ -1,0 +1,17 @@
+Nombre: Casa Vivero Tartar
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: VG3G+94, Cajamarca 06000
+Teléfono: 933 310 583
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1465616999999995
+Longitud: -78.47441239999999
+Google Maps: https://www.google.com/maps?cid=10244526670750731852
+Place Id: ChIJFcx1BABFspERTM4crrreK44
+Fotos: Sin foto en Maps
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

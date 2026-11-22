@@ -1,0 +1,17 @@
+Nombre: Plataforma Ramon Castilla
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Agencias_y_Operadores
+Subrubro: Turismo_Vivencial_y_Aventura
+Categoría Maps: Parque
+Dirección: RFQR+JF3, San Ignacio, Cajamarca 06002
+Teléfono: 
+Rating: 3.9
+Reseñas: 36
+Sitio web: 
+Latitud: -7.1609894999999995
+Longitud: -78.5088355
+Google Maps: https://www.google.com/maps?cid=14832976129205187976
+Place Id: ChIJrx-qEExbspERiLUfdzNR2c0
+Fotos: Plataforma Ramon Castilla.jpg
+Nota: Atraccion turistica, no es un negocio
+

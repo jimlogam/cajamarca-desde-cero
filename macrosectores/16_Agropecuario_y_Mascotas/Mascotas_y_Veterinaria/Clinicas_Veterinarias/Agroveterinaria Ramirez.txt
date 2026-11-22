@@ -1,0 +1,16 @@
+Nombre: Agroveterinaria Ramirez
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Servicio de urgencias veterinarias
+Dirección: Prol. Revilla Perez 137, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.153189599999999
+Longitud: -78.5149595
+Google Maps: https://www.google.com/maps?cid=18396421864283035600
+Place Id: ChIJoy5yAPpaspER0NfRljc4Tf8
+Fotos: Agroveterinaria Ramirez.jpg
+

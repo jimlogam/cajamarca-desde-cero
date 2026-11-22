@@ -1,0 +1,16 @@
+Nombre: Don FENA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Jr Leoncio Prado# 549, Cajamarca 06000
+Teléfono: 939 187 260
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1583638999999994
+Longitud: -78.50815589999999
+Google Maps: https://www.google.com/maps?cid=16188981796955253515
+Place Id: ChIJvxSFjf5bspERC2vI4ivRquA
+Fotos: Don FENA.jpg
+

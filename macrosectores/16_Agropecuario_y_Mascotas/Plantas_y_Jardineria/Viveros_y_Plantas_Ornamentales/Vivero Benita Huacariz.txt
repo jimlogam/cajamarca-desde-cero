@@ -1,0 +1,16 @@
+Nombre: Vivero Benita Huacariz
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Jardín
+Dirección: RG7F+5FP Huacariz Bambamarca, Cajamarca 06000
+Teléfono: 969 046 626
+Rating: 3
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1870264
+Longitud: -78.476305
+Google Maps: https://www.google.com/maps?cid=8282775214409700529
+Place Id: ChIJSZs1Zr1bspERsdRMaSxU8nI
+Fotos: Vivero Benita Huacariz.jpg
+

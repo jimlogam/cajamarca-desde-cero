@@ -1,0 +1,16 @@
+Nombre: Mi dulce flor
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Pje. de las Artes 150, Cajamarca 06001
+Teléfono: 965 440 958
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.147907099999999
+Longitud: -78.52126109999999
+Google Maps: https://www.google.com/maps?cid=6508973135960777778
+Place Id: ChIJ3SaLNaNbspERMqSAxZSEVFo
+Fotos: Mi dulce flor.jpg
+

@@ -1,0 +1,16 @@
+Nombre: Vivero plantideas
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Servicio de plantas para interior
+Dirección: VF2V+HXJ ur santa rosa de Carmen, Av. Hoyos Rubio, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1485369
+Longitud: -78.50510539999999
+Google Maps: https://www.google.com/maps?cid=1448977065966738577
+Place Id: ChIJ9z7EYgBbspERkZyi6PbMGxQ
+Fotos: Sin foto en Maps
+

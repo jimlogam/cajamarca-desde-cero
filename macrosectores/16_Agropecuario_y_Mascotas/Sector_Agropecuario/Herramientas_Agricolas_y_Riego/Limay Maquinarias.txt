@@ -1,0 +1,16 @@
+Nombre: Limay Maquinarias
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Tienda de herramientas, Distribuidor de motores diésel, Servicio de mantenimiento de maquinaria, Servicio de reparación de maquinaria, Fabricante de repuestos para maquinaria, Alquiler de maquinaria y equipos industriales, Fábrica de maquinaria agrícola
+Dirección: 28 de Julio, Cajamarca 06001
+Teléfono: 993 611 722
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1667052
+Longitud: -78.5119828
+Google Maps: https://www.google.com/maps?cid=18029645596226113054
+Place Id: ChIJvYcGhyNbspERHk4-BSUrNvo
+Fotos: Limay Maquinarias.jpg
+

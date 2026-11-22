@@ -1,0 +1,17 @@
+Nombre: Coliseo Gran Qhapac Ñan
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Estadio
+Dirección: RGP4+F7G, Av. Alameda de los Incas, Cajamarca 06002
+Teléfono: 
+Rating: 4.4
+Reseñas: 108
+Sitio web: 
+Latitud: -7.1638114999999996
+Longitud: -78.49428309999999
+Google Maps: https://www.google.com/maps?cid=7438791071946129608
+Place Id: ChIJH_NolyBbspERyECySRHlO2c
+Fotos: Coliseo Gran Qhapac Ñan.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Santa Rosa
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Centro de jardinería
+Dirección: RGQC+64M, Bella Unión 06002
+Teléfono: 974 667 967
+Rating: 4.1
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1619025999999995
+Longitud: -78.47968929999999
+Google Maps: https://www.google.com/maps?cid=16026229189656603410
+Place Id: ChIJM2eSJ2ZbspEREmt6komaaN4
+Fotos: Santa Rosa.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

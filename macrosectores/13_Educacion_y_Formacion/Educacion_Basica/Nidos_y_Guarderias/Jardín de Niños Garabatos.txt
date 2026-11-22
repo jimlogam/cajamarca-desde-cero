@@ -1,0 +1,16 @@
+Nombre: Jardín de Niños "Garabatos".
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Centro de educación preescolar
+Dirección: Virgen de las Mercedes, Cajamarca 06002, Cajamarca 06001
+Teléfono: 987 711 308
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1524798999999994
+Longitud: -78.5070473
+Google Maps: https://www.google.com/maps?cid=13507506740449940675
+Place Id: ChIJYQbuwldbspERw5S2idBNdLs
+Fotos: Jardín de Niños Garabatos.jpg
+

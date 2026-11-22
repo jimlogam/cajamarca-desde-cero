@@ -1,0 +1,16 @@
+Nombre: Agro Veterinaria La Economica
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: Av. Atahualpa 508, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1658456
+Longitud: -78.50369859999999
+Google Maps: https://www.google.com/maps?cid=18214025826064471647
+Place Id: ChIJqTmn1R1bspERXxZdnPw3xfw
+Fotos: Agro Veterinaria La Economica.jpg
+

@@ -1,0 +1,16 @@
+Nombre: Cremoladas Disfruta
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: Av. El Maestro 298, Cajamarca 06002
+Teléfono: 980 101 668
+Rating: 4.5
+Reseñas: 11
+Sitio web: 
+Latitud: -7.1597909
+Longitud: -78.5120225
+Google Maps: https://www.google.com/maps?cid=13598077883361213753
+Place Id: ChIJx9WVUPxaspEROT3XCcoTtrw
+Fotos: Cremoladas Disfruta.jpg
+

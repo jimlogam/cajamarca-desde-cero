@@ -1,0 +1,16 @@
+Nombre: FAMLEONIZ
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Tienda de postres
+Dirección: 051, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1487053
+Longitud: -78.5027995
+Google Maps: https://www.google.com/maps?cid=2287710933842656135
+Place Id: ChIJ1zpsfh1bspERh_t3OPmUvx8
+Fotos: FAMLEONIZ.jpg
+

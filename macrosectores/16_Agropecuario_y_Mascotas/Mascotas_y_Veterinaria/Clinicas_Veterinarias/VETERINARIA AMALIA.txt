@@ -1,0 +1,16 @@
+Nombre: VETERINARIA AMALIA
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Cajamarca 06001
+Teléfono: 976 696 477
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.150493399999999
+Longitud: -78.5207582
+Google Maps: https://www.google.com/maps?cid=4671628253572730157
+Place Id: ChIJc9CdoWFbspERLY3hMCX11EA
+Fotos: VETERINARIA AMALIA.jpg
+

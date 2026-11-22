@@ -1,0 +1,16 @@
+Nombre: KAIVET EMERGENCIAS VETERINARIAS
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Jr. Cumbe Mayo 266, Cajamarca 06002
+Teléfono: 913 583 030
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1623778
+Longitud: -78.50734829999999
+Google Maps: https://www.google.com/maps?cid=9078418016744868795
+Place Id: ChIJebkw2iNbspERu4uVMhYF_X0
+Fotos: KAIVET EMERGENCIAS VETERINARIAS.jpg
+

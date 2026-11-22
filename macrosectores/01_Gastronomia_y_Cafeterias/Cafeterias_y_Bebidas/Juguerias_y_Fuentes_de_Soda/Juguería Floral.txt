@@ -1,0 +1,16 @@
+Nombre: Juguería Floral
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante, Cafetería, Tienda de zumos
+Dirección: Jr. Apurimac 914, Cajamarca 06001
+Teléfono: 973 013 618
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1550242
+Longitud: -78.517663
+Google Maps: https://www.google.com/maps?cid=3589661317358280811
+Place Id: ChIJD7bFyAxbspERa-AZBfMJ0TE
+Fotos: Juguería Floral.jpg
+

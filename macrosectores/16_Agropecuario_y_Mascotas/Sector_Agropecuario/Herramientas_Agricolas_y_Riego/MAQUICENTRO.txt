@@ -1,0 +1,16 @@
+Nombre: MAQUICENTRO
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Taller de reparación de herramientas, Proveedor de maquinaria de construcción
+Dirección: Jirón El Milagro 132, Cajamarca 06003
+Teléfono: 976 066 635
+Rating: 4.7
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1689349
+Longitud: -78.5034388
+Google Maps: https://www.google.com/maps?cid=9885685215018858764
+Place Id: ChIJecBqtx5bspERDLmHklMCMYk
+Fotos: MAQUICENTRO.jpg
+

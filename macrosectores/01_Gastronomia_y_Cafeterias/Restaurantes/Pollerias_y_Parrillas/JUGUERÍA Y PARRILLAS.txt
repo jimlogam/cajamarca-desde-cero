@@ -1,0 +1,16 @@
+Nombre: JUGUERÍA Y PARRILLAS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Cafetería
+Dirección: Av. Manco Cápac 530a, Baños del Inca 06004
+Teléfono: 
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1642348
+Longitud: -78.4645669
+Google Maps: https://www.google.com/maps?cid=8344598972459820405
+Place Id: ChIJ2WyIHABFspERdaWOyo34zXM
+Fotos: JUGUERÍA Y PARRILLAS.jpg
+

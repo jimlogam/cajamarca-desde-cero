@@ -1,0 +1,16 @@
+Nombre: Caserío RUMIPAMPA ALTA
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: WG3R+CW, Manzanamayo 06000
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.0917765
+Longitud: -78.4583715
+Google Maps: https://www.google.com/maps?cid=12203079178878422062
+Place Id: ChIJI05kOXJPspERLowDx9sLWqk
+Fotos: Caserío RUMIPAMPA ALTA.jpg
+

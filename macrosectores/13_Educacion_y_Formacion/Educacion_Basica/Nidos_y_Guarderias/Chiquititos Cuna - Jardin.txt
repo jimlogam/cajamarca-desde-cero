@@ -1,0 +1,16 @@
+Nombre: Chiquititos Cuna - Jardin
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Jardín de infancia
+Dirección: RFQR+X2W, Coimolache, Cajamarca 06002
+Teléfono: 976 150 428
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/CunaJardinChiquititos/
+Latitud: -7.1600044
+Longitud: -78.50991189999999
+Google Maps: https://www.google.com/maps?cid=13584431312936368184
+Place Id: ChIJzwtAz_xaspEROPhDQ06Yhbw
+Fotos: Chiquititos Cuna - Jardin.jpg
+

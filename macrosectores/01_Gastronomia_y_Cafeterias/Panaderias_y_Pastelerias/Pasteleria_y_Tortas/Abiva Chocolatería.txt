@@ -1,0 +1,16 @@
+Nombre: Abiva Chocolatería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Chocolatería, Tienda de golosinas, Artesano de chocolate, Fábrica de chocolate, Tienda de regalos
+Dirección: Av. Mártires de Uchuraccay 561, Cajamarca 06003
+Teléfono: 976 001 706
+Rating: 5
+Reseñas: 1
+Sitio web: http://www.facebook.com/abivaperu
+Latitud: -7.1680448
+Longitud: -78.5028244
+Google Maps: https://www.google.com/maps?cid=6111921232041851737
+Place Id: ChIJL2ucT2VbspERWbsFa_rn0VQ
+Fotos: Abiva Chocolatería.jpg
+

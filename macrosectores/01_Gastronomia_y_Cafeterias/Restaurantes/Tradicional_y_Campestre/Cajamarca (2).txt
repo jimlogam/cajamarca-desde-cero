@@ -1,0 +1,16 @@
+Nombre: Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: RFQP+8V4, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1617465
+Longitud: -78.51278549999999
+Google Maps: https://www.google.com/maps?cid=17017639539875420374
+Place Id: ChIJyRM2DwBbspER1pjqif_MKuw
+Fotos: Cajamarca (2).jpg
+

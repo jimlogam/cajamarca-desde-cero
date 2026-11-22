@@ -1,0 +1,16 @@
+Nombre: PATITAS VETERINARIA
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Tiendas_Agroveterinarias
+Categoría Maps: Farmacia veterinaria
+Dirección: +51 076 625254, Cajamarca 06001
+Teléfono: 
+Rating: 4.8
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1716454
+Longitud: -78.50090139999999
+Google Maps: https://www.google.com/maps?cid=5810723516531827644
+Place Id: ChIJiRTnqOpbspERvGPjckDWo1A
+Fotos: PATITAS VETERINARIA.jpg
+

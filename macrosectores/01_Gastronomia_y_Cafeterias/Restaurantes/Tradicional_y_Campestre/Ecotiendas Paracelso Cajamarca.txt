@@ -1,0 +1,17 @@
+Nombre: Ecotiendas Paracelso Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda naturista
+Dirección: Jr. San Luis 285, Cajamarca 06002
+Teléfono: 977 126 201
+Rating: 5
+Reseñas: 1
+Sitio web: https://ecotiendas-paracelso-cajamarca.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1808898999999995
+Longitud: -78.4950465
+Google Maps: https://www.google.com/maps?cid=9657513307861583110
+Place Id: ChIJ-Sg4XS1bspERBoWykC9hBoY
+Fotos: Ecotiendas Paracelso Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

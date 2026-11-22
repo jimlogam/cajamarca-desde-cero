@@ -1,0 +1,16 @@
+Nombre: ENCANTA2
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
+Categoría Maps: Juguetería, Tienda de cubertería
+Dirección: Av. San Martín 621, Cajamarca 06003
+Teléfono: 975 393 469
+Rating: 4.6
+Reseñas: 5
+Sitio web: https://web.facebook.com/Encanta2PERU
+Latitud: -7.168211899999999
+Longitud: -78.5040664
+Google Maps: https://www.google.com/maps?cid=8143852729949956824
+Place Id: ChIJkXDtsYRbspER2CrD7-jGBHE
+Fotos: ENCANTA2.jpg
+

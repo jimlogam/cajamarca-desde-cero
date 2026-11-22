@@ -1,0 +1,16 @@
+Nombre: Sabina Tortas personalizadas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: El Inca 631, Cajamarca 06002
+Teléfono: 965 999 758
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/SABINA-Tortas-2063077813937692
+Latitud: -7.1590241
+Longitud: -78.5072711
+Google Maps: https://www.google.com/maps?cid=4455856819584344564
+Place Id: ChIJLz_PPrRbspER9KFTVSti1j0
+Fotos: Sabina Tortas personalizadas.jpg
+

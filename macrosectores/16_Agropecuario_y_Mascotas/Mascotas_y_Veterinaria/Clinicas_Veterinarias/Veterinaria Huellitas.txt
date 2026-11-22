@@ -1,0 +1,16 @@
+Nombre: Veterinaria " Huellitas"
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Hermano Miguel Carducci 754, Cajamarca 06001
+Teléfono: 963 853 036
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.133728199999999
+Longitud: -78.5244
+Google Maps: https://www.google.com/maps?cid=8135442236819633915
+Place Id: ChIJ4yOcwM1bspER-_ZXaJzl5nA
+Fotos: Veterinaria Huellitas.jpg
+

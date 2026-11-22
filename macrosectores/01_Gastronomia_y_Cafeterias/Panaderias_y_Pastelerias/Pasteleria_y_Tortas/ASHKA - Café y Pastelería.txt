@@ -1,0 +1,16 @@
+Nombre: ASHKA - Café y Pastelería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Cafetería
+Dirección: Alexander Von Humboldt 273, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1500832
+Longitud: -78.50801249999999
+Google Maps: https://www.google.com/maps?cid=446503580441100470
+Place Id: ChIJVdq7Ne5aspERtsAhB6RMMgY
+Fotos: ASHKA - Café y Pastelería.jpg
+

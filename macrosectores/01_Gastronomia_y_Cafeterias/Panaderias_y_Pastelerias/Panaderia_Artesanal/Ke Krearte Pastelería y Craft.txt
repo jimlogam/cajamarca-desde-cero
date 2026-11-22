@@ -1,0 +1,16 @@
+Nombre: Ke Krearte Pastelería y Craft
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Jr. Pisagua 421, Cajamarca 06001
+Teléfono: 976 389 136
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1572071
+Longitud: -78.5220001
+Google Maps: https://www.google.com/maps?cid=10030659411839555595
+Place Id: ChIJrxwgcnJbspERCxigIZcPNIs
+Fotos: Ke Krearte Pastelería y Craft.jpg
+

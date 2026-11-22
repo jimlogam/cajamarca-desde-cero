@@ -1,0 +1,16 @@
+Nombre: Agroveterinaria Agrikol
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1477048
+Longitud: -78.52430989999999
+Google Maps: https://www.google.com/maps?cid=10515018842099589128
+Place Id: ChIJp3TczV5aspERCKDiCe3Z7JE
+Fotos: Agroveterinaria Agrikol.jpg
+

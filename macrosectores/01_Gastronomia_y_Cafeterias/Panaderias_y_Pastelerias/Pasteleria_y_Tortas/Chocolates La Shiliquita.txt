@@ -1,0 +1,16 @@
+Nombre: Chocolates "La Shiliquita"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Tienda de productos de chocolate
+Dirección: Miguel Grau 148, Cajamarca 06002
+Teléfono: 989 171 420
+Rating: 4.6
+Reseñas: 24
+Sitio web: 
+Latitud: -7.1539541
+Longitud: -78.5136057
+Google Maps: https://www.google.com/maps?cid=15174648710868827290
+Place Id: ChIJxZM3E_paspERmvyskpoul9I
+Fotos: Chocolates La Shiliquita.jpg
+

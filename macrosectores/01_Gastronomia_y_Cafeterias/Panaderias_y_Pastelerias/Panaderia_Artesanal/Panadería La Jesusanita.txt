@@ -1,0 +1,16 @@
+Nombre: Panadería La Jesusanita
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería mayorista
+Dirección: Av. Mártires de Uchuraccay N° 674, Cajamarca 06003
+Teléfono: 917 148 183
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1688263999999995
+Longitud: -78.5025826
+Google Maps: https://www.google.com/maps?cid=4049453268665565213
+Place Id: ChIJtXCrl7tbspERHQBb_UqMMjg
+Fotos: Panadería La Jesusanita.jpg
+

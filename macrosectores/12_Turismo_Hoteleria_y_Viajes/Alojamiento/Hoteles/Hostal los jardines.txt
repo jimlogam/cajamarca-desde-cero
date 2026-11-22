@@ -1,0 +1,16 @@
+Nombre: Hostal los jardines
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr. Ica 243, Cajamarca 06403
+Teléfono: 979 542 316
+Rating: 5
+Reseñas: 8
+Sitio web: https://www.facebook.com/hosspedajelosjardines
+Latitud: -7.324603799999999
+Longitud: -78.5179326
+Google Maps: https://www.google.com/maps?cid=920540711325170865
+Place Id: ChIJi6i8W1RnspERsXzSU-Zqxgw
+Fotos: Hostal los jardines.jpg
+

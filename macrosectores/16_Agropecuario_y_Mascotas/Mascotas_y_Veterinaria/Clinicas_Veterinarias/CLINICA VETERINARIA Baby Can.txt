@@ -1,0 +1,16 @@
+Nombre: CLINICA VETERINARIA Baby Can
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: +51 076 625254, Cajamarca 06001
+Teléfono: 
+Rating: 4.5
+Reseñas: 14
+Sitio web: 
+Latitud: -7.1716454
+Longitud: -78.50090139999999
+Google Maps: https://www.google.com/maps?cid=2361147390697378446
+Place Id: ChIJuXWg-r9bspERjpLbvAp7xCA
+Fotos: CLINICA VETERINARIA Baby Can.jpg
+

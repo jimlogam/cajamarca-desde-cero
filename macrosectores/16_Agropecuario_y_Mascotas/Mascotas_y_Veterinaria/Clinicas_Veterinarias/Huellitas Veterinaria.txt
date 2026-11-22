@@ -1,0 +1,16 @@
+Nombre: Huellitas Veterinaria
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: Cajamarca 06002
+Teléfono: 
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.155660699999999
+Longitud: -78.5065903
+Google Maps: https://www.google.com/maps?cid=11407169390768665608
+Place Id: ChIJeYWn_-RaspERCLR5hR9oTp4
+Fotos: Huellitas Veterinaria.jpg
+

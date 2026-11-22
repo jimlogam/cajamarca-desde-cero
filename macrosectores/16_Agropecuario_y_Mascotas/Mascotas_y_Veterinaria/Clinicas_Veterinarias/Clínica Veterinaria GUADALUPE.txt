@@ -1,0 +1,16 @@
+Nombre: Clínica Veterinaria GUADALUPE
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Av San Martín de Porres 1184, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.172504099999999
+Longitud: -78.49984289999999
+Google Maps: https://www.google.com/maps?cid=3463115984849864469
+Place Id: ChIJ5TrIHgBbspERFQf0zKN1DzA
+Fotos: Clínica Veterinaria GUADALUPE.jpg
+

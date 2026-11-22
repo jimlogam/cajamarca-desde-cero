@@ -1,0 +1,16 @@
+Nombre: Jugueria Angela
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Cafetería
+Dirección: Jirón Las Casuarinas 505-483, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1486814999999995
+Longitud: -78.51628649999999
+Google Maps: https://www.google.com/maps?cid=6143630243922195663
+Place Id: ChIJ1TDBtEFbspERzzRUECiPQlU
+Fotos: Jugueria Angela.jpg
+

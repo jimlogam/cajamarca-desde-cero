@@ -1,0 +1,16 @@
+Nombre: Jardin San Antonio Estrellitas brillantes
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Centro de educación preescolar
+Dirección: Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.148561
+Longitud: -78.50825259999999
+Google Maps: https://www.google.com/maps?cid=1897435432617929439
+Place Id: ChIJh5d8bZBbspER32puEXkLVRo
+Fotos: Sin foto en Maps
+

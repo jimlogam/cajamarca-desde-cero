@@ -1,0 +1,16 @@
+Nombre: AGROVETERINARIA MEVELIN SRL
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: RGM2+P72, Av. Atahualpa, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: http://www.grupomevelin.com.pe/index.php/contactanos
+Latitud: -7.165760499999999
+Longitud: -78.5002763
+Google Maps: https://www.google.com/maps?cid=15238464569498134954
+Place Id: ChIJ99HZrh9bspERqulPA8rmedM
+Fotos: AGROVETERINARIA MEVELIN SRL.jpg
+

@@ -1,0 +1,16 @@
+Nombre: CHOCOARTE CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Jr, Tayabamba 283, Cajamarca 06001
+Teléfono: 968 194 411
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.151961399999999
+Longitud: -78.5168956
+Google Maps: https://www.google.com/maps?cid=12004450672573420115
+Place Id: ChIJ6d6jWrVbspERUxJwzkhgmKY
+Fotos: CHOCOARTE CAJAMARCA.jpg
+

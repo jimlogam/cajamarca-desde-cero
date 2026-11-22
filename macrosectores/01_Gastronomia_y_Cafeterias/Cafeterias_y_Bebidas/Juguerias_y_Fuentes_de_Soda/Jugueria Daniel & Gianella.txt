@@ -1,0 +1,16 @@
+Nombre: Jugueria Daniel & Gianella
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante
+Dirección: Jr. Sara MacDougall 193, Cajamarca 06415
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.151910399999999
+Longitud: -78.5229134
+Google Maps: https://www.google.com/maps?cid=11041083420322392793
+Place Id: ChIJgcKMNQBbspER2WrFY9_OOZk
+Fotos: Jugueria Daniel & Gianella.jpg
+

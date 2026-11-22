@@ -1,0 +1,16 @@
+Nombre: Vivero Municipal
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: QJ3C+2V8, Lima, Jesús 06371
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.2474652
+Longitud: -78.3777856
+Google Maps: https://www.google.com/maps?cid=7405751190398858724
+Place Id: ChIJZ9zOrnJBspER5HWmZniDxmY
+Fotos: Vivero Municipal (2).jpg
+

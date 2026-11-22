@@ -1,0 +1,16 @@
+Nombre: CASA TORO SRL
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Chanchamayo 1296, Cajamarca 06001
+Teléfono: (076) 340120
+Rating: 3.5
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1488784999999995
+Longitud: -78.52108609999999
+Google Maps: https://www.google.com/maps?cid=947750027574967751
+Place Id: ChIJWax4pFhaspERx_148aAVJw0
+Fotos: CASA TORO SRL.jpg
+

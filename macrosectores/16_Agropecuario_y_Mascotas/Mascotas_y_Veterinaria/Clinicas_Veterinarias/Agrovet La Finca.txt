@@ -1,0 +1,16 @@
+Nombre: Agrovet La Finca
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1464171
+Longitud: -78.52449419999999
+Google Maps: https://www.google.com/maps?cid=11544908174110857288
+Place Id: ChIJ_T9E6V5aspERSJhhGtHAN6A
+Fotos: Agrovet La Finca.jpg
+

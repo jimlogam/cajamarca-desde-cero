@@ -1,0 +1,17 @@
+Nombre: vivero flor de la esperanza
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: av agua marina urbazacion, Cajamarca 06001
+Teléfono: 953 356 619
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/Vivero-Flor-de-la-Esperanza-107244545246835
+Latitud: -7.186975899999999
+Longitud: -78.48248509999999
+Google Maps: https://www.google.com/maps?cid=13374769702656233242
+Place Id: ChIJV5YX41dbspERGk97ly66nLk
+Fotos: vivero flor de la esperanza.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

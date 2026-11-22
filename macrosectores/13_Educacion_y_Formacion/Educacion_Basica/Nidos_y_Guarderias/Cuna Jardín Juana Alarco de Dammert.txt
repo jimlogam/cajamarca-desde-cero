@@ -1,0 +1,16 @@
+Nombre: Cuna Jardín Juana Alarco de Dammert
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Jardín de infancia
+Dirección: Horacio Urteaga 256, Cajamarca 06001
+Teléfono: (076) 363209
+Rating: 5
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1560619
+Longitud: -78.5231391
+Google Maps: https://www.google.com/maps?cid=14635863909934384862
+Place Id: ChIJK-KorFdaspER3kaZlK4IHcs
+Fotos: Cuna Jardín Juana Alarco de Dammert.jpg
+

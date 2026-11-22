@@ -1,0 +1,16 @@
+Nombre: Maria's Cake Factory
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1486068
+Longitud: -78.5148426
+Google Maps: https://www.google.com/maps?cid=13392546237519892861
+Place Id: ChIJfzVEPkxbspERfRFepdjh27k
+Fotos: Maria's Cake Factory.jpg
+

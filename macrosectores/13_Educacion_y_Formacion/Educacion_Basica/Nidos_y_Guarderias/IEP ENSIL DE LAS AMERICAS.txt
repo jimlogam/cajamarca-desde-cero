@@ -1,0 +1,16 @@
+Nombre: IEP ENSIL DE LAS AMERICAS
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Centro de educación preescolar
+Dirección: Jr La Mosqueta, Cajamarca 06003
+Teléfono: 943 575 552
+Rating: 5
+Reseñas: 4
+Sitio web: https://ensilcollege.edu.pe/
+Latitud: -7.1798848
+Longitud: -78.488317
+Google Maps: https://www.google.com/maps?cid=719057176313262109
+Place Id: ChIJ-R-N3zNbspERHfBYL7Ga-gk
+Fotos: IEP ENSIL DE LAS AMERICAS.jpg
+

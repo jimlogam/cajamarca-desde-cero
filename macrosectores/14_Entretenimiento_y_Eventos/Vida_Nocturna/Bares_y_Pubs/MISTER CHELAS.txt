@@ -1,0 +1,16 @@
+Nombre: MISTER CHELAS
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: Túpac Amaru 1723, Cajamarca 06003
+Teléfono: (076) 603319
+Rating: 4.4
+Reseñas: 12
+Sitio web: https://www.facebook.com/profile.php?id=100077275916950&mibextid=LQQJ4d
+Latitud: -7.1830739999999995
+Longitud: -78.5002347
+Google Maps: https://www.google.com/maps?cid=7409566931655260207
+Place Id: ChIJv65Lj7lbspERL_jK5N0R1GY
+Fotos: MISTER CHELAS.jpg
+

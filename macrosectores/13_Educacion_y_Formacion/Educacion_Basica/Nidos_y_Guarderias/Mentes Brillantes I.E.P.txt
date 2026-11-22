@@ -1,0 +1,16 @@
+Nombre: Mentes Brillantes I.E.P
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Jardín de infancia
+Dirección: Luz Divina #277, Cajamarca 06000
+Teléfono: 993 981 537
+Rating: 5
+Reseñas: 44
+Sitio web: https://www.facebook.com/IEP-Mentes-Brillantes-387568371697970/
+Latitud: -7.179578599999999
+Longitud: -78.48034679999999
+Google Maps: https://www.google.com/maps?cid=3684582396672512811
+Place Id: ChIJ55doHLlbspERK5NSAytEIjM
+Fotos: Mentes Brillantes I.E.P.jpg
+

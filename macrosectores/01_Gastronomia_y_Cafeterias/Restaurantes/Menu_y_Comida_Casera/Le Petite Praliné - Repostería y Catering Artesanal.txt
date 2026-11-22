@@ -1,0 +1,16 @@
+Nombre: Le Petite Praliné - Repostería y Catering Artesanal
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Servicio de catering
+Dirección: Pasaje Coimolache 247 Urb. Cajamarca frente al parque Ramón Castilla entre el Jr. Baños del Inca, Cajamarca 06001
+Teléfono: 957 227 267
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/PralineReposteriaCajamarca/
+Latitud: -7.1603195
+Longitud: -78.5094362
+Google Maps: https://www.google.com/maps?cid=4787643675068484835
+Place Id: ChIJtQB06uxbspER40yac44gcUI
+Fotos: Le Petite Praliné - Repostería y Catering Artesanal.jpg
+

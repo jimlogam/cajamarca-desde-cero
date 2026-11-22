@@ -1,0 +1,16 @@
+Nombre: Agrosoltec SRL.
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Tiendas_Agroveterinarias
+Categoría Maps: Farmacia veterinaria
+Dirección: Jr, Prol. Revilla Perez 153, Cajamarca 06001
+Teléfono: (076) 365861
+Rating: 4.1
+Reseñas: 13
+Sitio web: 
+Latitud: -7.153111
+Longitud: -78.5148676
+Google Maps: https://www.google.com/maps?cid=8961060841054637907
+Place Id: ChIJtU2dqvBaspERU4-5cVsVXHw
+Fotos: Agrosoltec SRL.jpg
+

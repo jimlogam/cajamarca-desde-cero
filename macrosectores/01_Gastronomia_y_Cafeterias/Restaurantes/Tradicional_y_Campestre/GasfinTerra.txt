@@ -1,0 +1,17 @@
+Nombre: GasfinTerra
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Jardinero, Service establishment
+Dirección: 
+Teléfono: 949 920 343
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.0663982999999995
+Longitud: -78.5600417
+Google Maps: https://www.google.com/maps?cid=11538396655101645553
+Place Id: ChIJXx8wUjEy3QoR8ZLj8J-eIKA
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Empalagosos Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Vía de Evitamiento Nte. 1855, Cajamarca 06001
+Teléfono: 901 980 288
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1524103
+Longitud: -78.5061731
+Google Maps: https://www.google.com/maps?cid=681494748314263539
+Place Id: ChIJrW37V8lbspER89-Q5dwndQk
+Fotos: Empalagosos Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

@@ -1,0 +1,16 @@
+Nombre: Edipesa Cajamarca
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Comercio
+Dirección: Av. Vía de Evitamiento Sur 450 - 452, Cajamarca 06002
+Teléfono: (076) 341020
+Rating: 3.5
+Reseñas: 24
+Sitio web: http://www.edipesa.com.pe/
+Latitud: -7.1622679
+Longitud: -78.504519
+Google Maps: https://www.google.com/maps?cid=10964381269916273985
+Place Id: ChIJIdk6RF9aspERQU1OV6xOKZg
+Fotos: Edipesa Cajamarca.jpg
+

@@ -1,0 +1,16 @@
+Nombre: TORTAS MIYASATO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Angamos 639, Cajamarca 06000
+Teléfono: 958 994 778
+Rating: 3.4
+Reseñas: 15
+Sitio web: 
+Latitud: -7.1511653
+Longitud: -78.5227254
+Google Maps: https://www.google.com/maps?cid=11117621842751007606
+Place Id: ChIJzf2QWlhaspERditMjCm6SZo
+Fotos: TORTAS MIYASATO.jpg
+

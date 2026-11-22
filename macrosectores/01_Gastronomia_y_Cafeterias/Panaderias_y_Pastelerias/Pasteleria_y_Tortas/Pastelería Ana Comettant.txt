@@ -1,0 +1,17 @@
+Nombre: Pastelería Ana Comettant
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Jr, Amalia Puga 436, Cajamarca 06001
+Teléfono: 988 810 282
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1555098
+Longitud: -78.5191972
+Google Maps: https://www.google.com/maps?cid=2143898086574176740
+Place Id: ChIJm0B0ynNbspER5LnkbPOnwB0
+Fotos: Pastelería Ana Comettant.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

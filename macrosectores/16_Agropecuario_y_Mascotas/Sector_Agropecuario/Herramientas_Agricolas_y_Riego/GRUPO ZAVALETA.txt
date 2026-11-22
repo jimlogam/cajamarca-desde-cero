@@ -1,0 +1,16 @@
+Nombre: GRUPO ZAVALETA
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Tienda de herramientas, Fábrica de maquinaria agrícola, Proveedor de maquinaria de alimentos, Cuarto de herramientas
+Dirección: Chanchamayo 542, Cajamarca 06001
+Teléfono: 927 717 962
+Rating: 4.8
+Reseñas: 15
+Sitio web: 
+Latitud: -7.1521826
+Longitud: -78.5179276
+Google Maps: https://www.google.com/maps?cid=1336356825050069838
+Place Id: ChIJPyOzhIRbspERTjtHunOxixI
+Fotos: GRUPO ZAVALETA.jpg
+

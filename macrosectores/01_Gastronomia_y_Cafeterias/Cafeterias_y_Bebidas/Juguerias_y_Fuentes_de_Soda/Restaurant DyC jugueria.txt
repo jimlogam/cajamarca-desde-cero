@@ -1,0 +1,16 @@
+Nombre: Restaurant DyC jugueria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante de comida rápida
+Dirección: Tahuantinsuyo A30b, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1761713
+Longitud: -78.4990206
+Google Maps: https://www.google.com/maps?cid=18128197229990583206
+Place Id: ChIJiXkMFQBbspERphvPV1VLlPs
+Fotos: Restaurant DyC jugueria.jpg
+

@@ -1,0 +1,16 @@
+Nombre: COLEGIO MEDICO VETERINARIO DE CAJAMARCA
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Médico
+Dirección: Manuel Gonzáles Prada 267, Cajamarca 06001
+Teléfono: 955 806 644
+Rating: 4
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1443859
+Longitud: -78.5174713
+Google Maps: https://www.google.com/maps?cid=6043889690056314422
+Place Id: ChIJB5BckfJbspERNs5ztaY14FM
+Fotos: COLEGIO MEDICO VETERINARIO DE CAJAMARCA.jpg
+

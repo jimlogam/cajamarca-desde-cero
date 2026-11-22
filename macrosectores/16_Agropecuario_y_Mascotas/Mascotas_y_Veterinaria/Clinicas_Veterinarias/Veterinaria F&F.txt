@@ -1,0 +1,16 @@
+Nombre: Veterinaria F&F
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Av. La Paz 411, Cajamarca 06003
+Teléfono: 
+Rating: 4.5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.167401099999999
+Longitud: -78.50812239999999
+Google Maps: https://www.google.com/maps?cid=18394892800280729793
+Place Id: ChIJqYuLkC1bspERwZgfoorJR_8
+Fotos: Veterinaria F&F.jpg
+

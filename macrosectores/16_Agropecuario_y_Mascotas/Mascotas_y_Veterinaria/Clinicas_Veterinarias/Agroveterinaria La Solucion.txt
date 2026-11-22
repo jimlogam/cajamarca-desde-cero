@@ -1,0 +1,16 @@
+Nombre: Agroveterinaria La Solucion
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Servicio de urgencias veterinarias
+Dirección: Prol. Revilla Perez 148, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.153153199999999
+Longitud: -78.51470049999999
+Google Maps: https://www.google.com/maps?cid=16500713395922500772
+Place Id: ChIJyU-QAPpaspERpHx9uGhP_uQ
+Fotos: Agroveterinaria La Solucion.jpg
+

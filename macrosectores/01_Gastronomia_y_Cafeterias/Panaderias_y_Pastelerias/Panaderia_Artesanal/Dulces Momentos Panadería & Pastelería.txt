@@ -1,0 +1,16 @@
+Nombre: "Dulces Momentos" Panadería & Pastelería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av. La Paz 1431, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.175529699999999
+Longitud: -78.50319069999999
+Google Maps: https://www.google.com/maps?cid=1662610300260941725
+Place Id: ChIJ_X6YNhdbspERnX_1WkLHEhc
+Fotos: Dulces Momentos Panadería & Pastelería.jpg
+

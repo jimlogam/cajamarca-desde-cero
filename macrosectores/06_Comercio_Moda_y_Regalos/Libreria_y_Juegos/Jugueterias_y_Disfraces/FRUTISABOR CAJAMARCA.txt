@@ -1,0 +1,16 @@
+Nombre: FRUTISABOR CAJAMARCA
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
+Categoría Maps: Juguetería
+Dirección: JR, Belén 768, Cajamarca
+Teléfono: 987 053 399
+Rating: 4.3
+Reseñas: 7
+Sitio web: https://www.facebook.com/ensaladasjugosbatidos/
+Latitud: -7.1575691
+Longitud: -78.5152804
+Google Maps: https://www.google.com/maps?cid=16481771586778712981
+Place Id: ChIJPXN_0ZlbspERlUsSG-8Du-Q
+Fotos: FRUTISABOR CAJAMARCA.jpg
+

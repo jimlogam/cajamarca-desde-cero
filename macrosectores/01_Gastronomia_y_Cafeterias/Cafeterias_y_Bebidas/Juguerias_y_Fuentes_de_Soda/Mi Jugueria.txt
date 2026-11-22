@@ -1,0 +1,17 @@
+Nombre: Mi Jugueria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: 
+Dirección: Luis Reyna Farge 187, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1668109
+Longitud: -78.5075067
+Google Maps: https://www.google.com/maps?cid=7115018477842890270
+Place Id: ChIJP5VS7xxbspERHn4qzpufvWI
+Fotos: Mi Jugueria.jpg
+Nota: Sin categoria en Maps; clasificado por el nombre.
+

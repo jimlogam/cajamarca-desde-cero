@@ -1,0 +1,16 @@
+Nombre: "San Antonio" Panadería Y Pastelería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av. Mario Urteaga 417, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1584482
+Longitud: -78.51049909999999
+Google Maps: https://www.google.com/maps?cid=17119852272154824231
+Place Id: ChIJw4yeofxaspERJ87zyO_ule0
+Fotos: San Antonio Panadería Y Pastelería.jpg
+

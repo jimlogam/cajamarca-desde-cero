@@ -1,0 +1,16 @@
+Nombre: Panadería Mendoza de Consuelo Mendoza
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Tienda de donuts
+Dirección: Miguel Iglesias 611, Cajamarca 06010
+Teléfono: 961 679 667
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1497721
+Longitud: -78.5179337
+Google Maps: https://www.google.com/maps?cid=9733202453906204368
+Place Id: ChIJUyvB7C5bspER0CYKKBBIE4c
+Fotos: Panadería Mendoza de Consuelo Mendoza.jpg
+

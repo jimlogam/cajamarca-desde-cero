@@ -1,0 +1,16 @@
+Nombre: HUELLITAS Jardín Infantil
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Jardín de infancia
+Dirección: Jr. Los Nogales 264, Cajamarca 06002
+Teléfono: 945 062 760
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1646418999999995
+Longitud: -78.4999699
+Google Maps: https://www.google.com/maps?cid=16662515673578793418
+Place Id: ChIJcY0YPohbspERyukKLLklPec
+Fotos: HUELLITAS Jardín Infantil.jpg
+

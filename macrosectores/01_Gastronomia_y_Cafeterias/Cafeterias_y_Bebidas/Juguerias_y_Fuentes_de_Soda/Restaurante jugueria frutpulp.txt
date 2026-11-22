@@ -1,0 +1,16 @@
+Nombre: Restaurante jugueria frutpulp
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante, Restaurante de brunch
+Dirección: Jirón Silva Santisteban 1268, Cajamarca 06001
+Teléfono: 970 020 885
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.164838199999999
+Longitud: -78.5107192
+Google Maps: https://www.google.com/maps?cid=5190307615036023382
+Place Id: ChIJ3YsKTOFbspERViI6xUatB0g
+Fotos: Restaurante jugueria frutpulp.jpg
+

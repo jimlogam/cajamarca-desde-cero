@@ -1,0 +1,16 @@
+Nombre: DISMOTOR PERU
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Av Vía de Evitamiento Nte 1582, Cajamarca 06002
+Teléfono: (076) 362116
+Rating: 4.4
+Reseñas: 13
+Sitio web: http://www.dismotor.pe/
+Latitud: -7.1507876999999995
+Longitud: -78.5066968
+Google Maps: https://www.google.com/maps?cid=8228902808793026158
+Place Id: ChIJ76GWqO9aspERbo5SiYHvMnI
+Fotos: DISMOTOR PERU.jpg
+

@@ -1,0 +1,16 @@
+Nombre: Emergencias Veterinarias Cajamarca
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Servicio de urgencias veterinarias, Hospital veterinario
+Dirección: calle, 7 de Junio 221, Cajamarca 15074
+Teléfono: 964 977 888
+Rating: 3.7
+Reseñas: 32
+Sitio web: https://www.instagram.com/emergenciasveterinariascajamar/
+Latitud: -7.1574241999999995
+Longitud: -78.5088142
+Google Maps: https://www.google.com/maps?cid=6882922756259359913
+Place Id: ChIJ38uFtuRaspERqaxKj8cNhV8
+Fotos: Emergencias Veterinarias Cajamarca.jpg
+

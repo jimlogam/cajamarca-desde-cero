@@ -1,0 +1,16 @@
+Nombre: MasterPet
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Av. El Maestro 362, Cajamarca 06002
+Teléfono: 
+Rating: 3.7
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1590938
+Longitud: -78.5114694
+Google Maps: https://www.google.com/maps?cid=14043632563544253048
+Place Id: ChIJVXjN2Y1bspEReOIpAmkB5cI
+Fotos: MasterPet.jpg
+

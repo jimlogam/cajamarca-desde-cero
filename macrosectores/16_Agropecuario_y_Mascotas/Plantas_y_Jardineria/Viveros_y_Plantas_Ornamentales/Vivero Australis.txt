@@ -1,0 +1,17 @@
+Nombre: Vivero Australis
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: 06002, Cajamarca 06002
+Teléfono: 925 096 756
+Rating: 4.5
+Reseñas: 6
+Sitio web: 
+Latitud: -7.135062899999999
+Longitud: -78.5071883
+Google Maps: https://www.google.com/maps?cid=17727605363746657572
+Place Id: ChIJmcNNHe5bspERJNVtSCcbBfY
+Fotos: Vivero Australis.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

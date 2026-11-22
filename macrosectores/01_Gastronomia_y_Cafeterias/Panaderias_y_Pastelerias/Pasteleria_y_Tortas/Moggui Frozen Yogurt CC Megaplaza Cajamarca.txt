@@ -1,0 +1,16 @@
+Nombre: Moggui Frozen Yogurt CC Megaplaza Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: Av. Hoyos Rubio, Cajamarca 06001
+Teléfono: 976 501 312
+Rating: 4.9
+Reseñas: 15
+Sitio web: 
+Latitud: -7.1489237
+Longitud: -78.509903
+Google Maps: https://www.google.com/maps?cid=552192536942354970
+Place Id: ChIJ5Ua-ZnxbspERGiISzC_IqQc
+Fotos: Moggui Frozen Yogurt CC Megaplaza Cajamarca.jpg
+

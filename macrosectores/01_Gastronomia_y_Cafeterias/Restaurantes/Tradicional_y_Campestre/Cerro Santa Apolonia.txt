@@ -1,0 +1,17 @@
+Nombre: Cerro Santa Apolonia
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Pico de montaña
+Dirección: Cajamarca 06002
+Teléfono: 
+Rating: 4.5
+Reseñas: 227
+Sitio web: 
+Latitud: -7.160278
+Longitud: -78.519444
+Google Maps: https://www.google.com/maps?cid=16303447392103431922
+Place Id: ChIJfUZSbP9aspER8v6XFAZ7QeI
+Fotos: Cerro Santa Apolonia.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

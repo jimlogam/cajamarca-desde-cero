@@ -1,0 +1,16 @@
+Nombre: Restaurant - Juguería "Ruby"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante peruano
+Dirección: Chanchamayo 212, Cajamarca 06002
+Teléfono: 958 322 315
+Rating: 4.5
+Reseñas: 14
+Sitio web: 
+Latitud: -7.1543662
+Longitud: -78.5156282
+Google Maps: https://www.google.com/maps?cid=727849841459781722
+Place Id: ChIJN-nGEQBbspERWuAIEpPXGQo
+Fotos: Restaurant - Juguería Ruby.jpg
+

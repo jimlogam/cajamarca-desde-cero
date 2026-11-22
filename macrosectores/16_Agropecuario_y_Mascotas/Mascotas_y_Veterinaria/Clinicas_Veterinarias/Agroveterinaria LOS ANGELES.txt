@@ -1,0 +1,16 @@
+Nombre: Agroveterinaria LOS ANGELES
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: RFQQ+J4H, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.160935599999999
+Longitud: -78.5121286
+Google Maps: https://www.google.com/maps?cid=8151487023222591686
+Place Id: ChIJr1keNABbspERxpBjWkLmH3E
+Fotos: Sin foto en Maps
+

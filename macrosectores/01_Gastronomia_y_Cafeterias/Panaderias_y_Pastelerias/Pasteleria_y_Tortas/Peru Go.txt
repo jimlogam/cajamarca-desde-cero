@@ -1,0 +1,16 @@
+Nombre: Peru Go
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Av. San Martín, Cajamarca 06003
+Teléfono: 937 024 851
+Rating: 
+Reseñas: 
+Sitio web: https://wa.link/zsq3f3
+Latitud: -7.174927599999999
+Longitud: -78.4973775
+Google Maps: https://www.google.com/maps?cid=3871305242947119569
+Place Id: ChIJv8dl3B5bspER0Wn4fpujuTU
+Fotos: Peru Go.jpg
+

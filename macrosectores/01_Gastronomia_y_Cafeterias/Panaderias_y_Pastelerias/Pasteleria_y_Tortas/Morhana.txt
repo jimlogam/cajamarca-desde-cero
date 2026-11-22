@@ -1,0 +1,16 @@
+Nombre: Morhana
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: Jr, Jirón Silva Santisteban 188, Cajamarca 06001
+Teléfono: 926 709 811
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1597612999999996
+Longitud: -78.5164142
+Google Maps: https://www.google.com/maps?cid=7874568600101700003
+Place Id: ChIJqQKu6v5aspERo8GBqGsWSG0
+Fotos: Sin foto en Maps
+

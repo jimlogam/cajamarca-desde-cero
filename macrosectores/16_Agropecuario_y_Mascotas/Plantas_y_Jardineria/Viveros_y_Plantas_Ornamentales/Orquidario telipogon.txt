@@ -1,0 +1,16 @@
+Nombre: Orquidario telipogon
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Centro de jardinería
+Dirección: Jacarandá 338, Cajamarca 06002
+Teléfono: 912 578 749
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1529108
+Longitud: -78.5069197
+Google Maps: https://www.google.com/maps?cid=13536139770594434100
+Place Id: ChIJC8r1XABbspERNJxRYGcH2rs
+Fotos: Orquidario telipogon.jpg
+

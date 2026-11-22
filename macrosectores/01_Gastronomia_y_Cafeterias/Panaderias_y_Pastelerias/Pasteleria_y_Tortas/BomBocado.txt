@@ -1,0 +1,16 @@
+Nombre: BomBocado
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Tienda de postres
+Dirección: Jr, San Roque 551, Cajamarca 06002
+Teléfono: 913 527 246
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1529156
+Longitud: -78.5073414
+Google Maps: https://www.google.com/maps?cid=13184802267453475275
+Place Id: ChIJNRLzdRtbspERy0lUYc7T-bY
+Fotos: BomBocado.jpg
+

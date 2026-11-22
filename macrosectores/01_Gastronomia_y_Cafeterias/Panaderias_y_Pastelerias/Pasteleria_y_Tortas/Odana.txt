@@ -1,0 +1,16 @@
+Nombre: Odana
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: Dos de Mayo 316, Cajamarca 06002
+Teléfono: 981 819 762
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1585702
+Longitud: -78.5178251
+Google Maps: https://www.google.com/maps?cid=5677090534048610039
+Place Id: ChIJebIuWFdbspER9zazH8MTyU4
+Fotos: Odana.jpg
+

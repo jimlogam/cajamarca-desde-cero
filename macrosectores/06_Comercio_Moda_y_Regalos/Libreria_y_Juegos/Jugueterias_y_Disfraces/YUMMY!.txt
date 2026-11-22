@@ -1,0 +1,16 @@
+Nombre: YUMMY!
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
+Categoría Maps: Juguetería
+Dirección: Cajamarca 06003
+Teléfono: 981 628 610
+Rating: 4.8
+Reseñas: 6
+Sitio web: https://yummycaj.com/
+Latitud: -7.1654551
+Longitud: -78.4998846
+Google Maps: https://www.google.com/maps?cid=7304823160625706245
+Place Id: ChIJUxTBFYtbspERBTUkRPbxX2U
+Fotos: YUMMY!.jpg
+

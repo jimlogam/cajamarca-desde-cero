@@ -1,0 +1,17 @@
+Nombre: Vivero la Jungla
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: WC46+JCF, Cajamarca 06000
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.0934325
+Longitud: -78.588945
+Google Maps: https://www.google.com/maps?cid=139409108096372507
+Place Id: ChIJO20Y9YxXspERG8-JXthH7wE
+Fotos: Vivero la Jungla.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

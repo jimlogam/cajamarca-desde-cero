@@ -1,0 +1,16 @@
+Nombre: Jugueria DANJHO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Cafetería
+Dirección: VF2X+X8V, C. A, Cajamarca 06001
+Teléfono: 
+Rating: 4.2
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1475132
+Longitud: -78.5017129
+Google Maps: https://www.google.com/maps?cid=5200802192276804403
+Place Id: ChIJRTm6rWZbspERM1O78Qn2LEg
+Fotos: Jugueria DANJHO.jpg
+

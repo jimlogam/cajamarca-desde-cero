@@ -1,0 +1,16 @@
+Nombre: Chupetoso, el chupete más sabroso
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: jr, San Salvador 219, Cajamarca 51
+Teléfono: 930 875 700
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.154619299999999
+Longitud: -78.5139636
+Google Maps: https://www.google.com/maps?cid=2155481945523822639
+Place Id: ChIJ00AWPPpaspERLyC3wmjP6R0
+Fotos: Sin foto en Maps
+

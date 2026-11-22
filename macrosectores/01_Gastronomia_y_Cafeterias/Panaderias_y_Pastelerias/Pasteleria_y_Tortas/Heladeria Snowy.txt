@@ -1,0 +1,16 @@
+Nombre: Heladeria Snowy
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: Jr, Tarsicio Bazán Zegarra 342, Cajamarca 06001
+Teléfono: 974 604 241
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1493553
+Longitud: -78.5043419
+Google Maps: https://www.google.com/maps?cid=5864021169100090696
+Place Id: ChIJH8qC_CRbspERSO2UMy8wYVE
+Fotos: Heladeria Snowy.jpg
+

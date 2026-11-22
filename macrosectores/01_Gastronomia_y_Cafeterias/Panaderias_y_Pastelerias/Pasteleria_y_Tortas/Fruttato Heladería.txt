@@ -1,0 +1,16 @@
+Nombre: Fruttato Heladería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: Jr. La Pradera Mz B Lt 5 (frente al colegio Davy College, Cajamarca 06001
+Teléfono: 976 643 364
+Rating: 4.6
+Reseñas: 21
+Sitio web: 
+Latitud: -7.1457691
+Longitud: -78.49497219999999
+Google Maps: https://www.google.com/maps?cid=9833177289395725820
+Place Id: ChIJKaiflURbspER_OXec6V2dog
+Fotos: Fruttato Heladería.jpg
+

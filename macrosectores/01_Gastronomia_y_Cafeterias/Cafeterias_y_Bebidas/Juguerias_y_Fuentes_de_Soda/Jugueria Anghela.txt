@@ -1,0 +1,17 @@
+Nombre: Jugueria Anghela
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: 
+Dirección: Av San Martín de Porres 659, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1681719
+Longitud: -78.5041607
+Google Maps: https://www.google.com/maps?cid=12057754561786637889
+Place Id: ChIJAc0ABRxbspERQW4jpOO_Vac
+Fotos: Jugueria Anghela.jpg
+Nota: Sin categoria en Maps; clasificado por el nombre.
+

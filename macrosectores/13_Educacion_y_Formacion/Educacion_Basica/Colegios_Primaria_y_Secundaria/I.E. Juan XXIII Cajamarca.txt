@@ -1,0 +1,16 @@
+Nombre: I.E. Juan XXIII Cajamarca
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Centro educativo
+Dirección: Juan XXIII 130, Cajamarca 06000
+Teléfono: (076) 363051
+Rating: 4.5
+Reseñas: 10
+Sitio web: 
+Latitud: -7.162542999999999
+Longitud: -78.50996479999999
+Google Maps: https://www.google.com/maps?cid=7780801797003578848
+Place Id: ChIJs4WZ6bZbspER4I0eigL2-ms
+Fotos: I.E. Juan XXIII Cajamarca.jpg
+

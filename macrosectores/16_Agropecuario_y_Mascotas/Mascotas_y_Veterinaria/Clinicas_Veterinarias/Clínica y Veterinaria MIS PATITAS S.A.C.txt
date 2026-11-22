@@ -1,0 +1,16 @@
+Nombre: Clínica y Veterinaria MIS PATITAS S.A.C.
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Jr, Los Cerezos # 201, Cajamarca 06001
+Teléfono: 958 645 847
+Rating: 4.1
+Reseñas: 14
+Sitio web: 
+Latitud: -7.149858
+Longitud: -78.5163319
+Google Maps: https://www.google.com/maps?cid=8758574163897019982
+Place Id: ChIJcU9kO01bspERTu7-Ecy0jHk
+Fotos: Clínica y Veterinaria MIS PATITAS S.A.C.jpg
+

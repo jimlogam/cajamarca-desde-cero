@@ -1,0 +1,17 @@
+Nombre: CAJENUAL EIRL
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Tiendas_Agroveterinarias
+Categoría Maps: 
+Dirección: RFXW+XXP, JR CAMILO BLASS, Cajamarca 06001
+Teléfono: 949 379 469
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.150031299999999
+Longitud: -78.5025491
+Google Maps: https://www.google.com/maps?cid=4398577516358077389
+Place Id: ChIJ00L6RgRbspERzQuLS_LiCj0
+Fotos: CAJENUAL EIRL.jpg
+Nota: Sin categoria en Maps; ubicado por el contexto de las busquedas agro de esta tanda. Sin categoria en Maps; clasificado por el nombre.
+

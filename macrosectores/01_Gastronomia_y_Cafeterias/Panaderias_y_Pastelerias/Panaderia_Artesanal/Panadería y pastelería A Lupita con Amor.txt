@@ -1,0 +1,16 @@
+Nombre: Panadería y pastelería A Lupita con Amor
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Caserio cristo rey - otuzco, Baños del Inca 06001
+Teléfono: 970 497 755
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1292827999999995
+Longitud: -78.4764265
+Google Maps: https://www.google.com/maps?cid=3684671629709392203
+Place Id: ChIJQ4tOmwlbspERS7nJMlOVIjM
+Fotos: Sin foto en Maps
+

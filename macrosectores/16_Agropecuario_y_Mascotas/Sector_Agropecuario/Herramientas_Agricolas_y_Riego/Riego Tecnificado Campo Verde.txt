@@ -1,0 +1,16 @@
+Nombre: Riego Tecnificado Campo Verde
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Ferretería, Ingeniero agrónomo, Servicio agrícola, Proveedor de mangueras, Proveedor de equipos de irrigación, Proveedor de equipos para riego de césped
+Dirección: Av Vía de Evitamiento Nte 520, Cajamarca 06001
+Teléfono: 958 600 165
+Rating: 5
+Reseñas: 4
+Sitio web: https://www.facebook.com/CampoVerdegroup
+Latitud: -7.146884399999999
+Longitud: -78.5213517
+Google Maps: https://www.google.com/maps?cid=5856108548517645147
+Place Id: ChIJ3fFWhzxbspERW8uFqLITRVE
+Fotos: Riego Tecnificado Campo Verde.jpg
+

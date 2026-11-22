@@ -1,0 +1,16 @@
+Nombre: Juguería yimiel
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Hamburguesería
+Dirección: RF8X+X5G, Av. Héroes del Cenepa, Cajamarca 1525
+Teléfono: 974 423 360
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.182562
+Longitud: -78.5020509
+Google Maps: https://www.google.com/maps?cid=564780878555758103
+Place Id: ChIJZeAUEQBbspERF74_ejeB1gc
+Fotos: Juguería yimiel.jpg
+

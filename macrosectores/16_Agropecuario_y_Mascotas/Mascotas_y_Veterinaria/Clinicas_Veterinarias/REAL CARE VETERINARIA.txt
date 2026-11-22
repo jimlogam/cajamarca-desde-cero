@@ -1,0 +1,16 @@
+Nombre: REAL CARE VETERINARIA
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Jirón Huánuco 1818, Cajamarca 06002
+Teléfono: 990 924 607
+Rating: 4.6
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1613831
+Longitud: -78.5160494
+Google Maps: https://www.google.com/maps?cid=356940823568582911
+Place Id: ChIJybCOZgBbspER_wiksskb9AQ
+Fotos: REAL CARE VETERINARIA.jpg
+

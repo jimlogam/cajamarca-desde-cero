@@ -1,0 +1,16 @@
+Nombre: PASTELERÍA GUSTITOS.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: jr, Jirón Silva Santisteban 314, Cajamarca 06001
+Teléfono: 974 646 369
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/maguy2401/
+Latitud: -7.160282199999999
+Longitud: -78.5158501
+Google Maps: https://www.google.com/maps?cid=12740217150685276760
+Place Id: ChIJ3XHux25bspERWGrve_9XzrA
+Fotos: PASTELERÍA GUSTITOS.jpg
+

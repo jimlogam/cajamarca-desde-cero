@@ -1,0 +1,16 @@
+Nombre: Juguería y Cafetería Mayte
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Tienda de zumos
+Dirección: mercado central, Jr.Amazonas, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.155087699999999
+Longitud: -78.5175112
+Google Maps: https://www.google.com/maps?cid=16408513875911588956
+Place Id: ChIJVaHJPgBbspERXDzHIW_AtuM
+Fotos: Juguería y Cafetería Mayte.jpg
+

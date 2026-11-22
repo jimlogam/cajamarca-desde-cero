@@ -1,0 +1,16 @@
+Nombre: Nestlé Planta Cajamarca
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Fábrica
+Dirección: Pachacútec 130, Baños del Inca 06004
+Teléfono: 948 464 149
+Rating: 3
+Reseñas: 2
+Sitio web: http://nestle.com.pe/
+Latitud: -7.1678313
+Longitud: -78.4674574
+Google Maps: https://www.google.com/maps?cid=15202705667214064179
+Place Id: ChIJR6gzcIpFspERM7ocx0Hc-tI
+Fotos: Nestlé Planta Cajamarca.jpg
+

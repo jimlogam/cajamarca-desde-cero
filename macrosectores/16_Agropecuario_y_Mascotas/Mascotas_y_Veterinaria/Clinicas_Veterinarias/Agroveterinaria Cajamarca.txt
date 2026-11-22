@@ -1,0 +1,16 @@
+Nombre: Agroveterinaria Cajamarca
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: Antonio Astopilco 151, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1474817999999996
+Longitud: -78.5005822
+Google Maps: https://www.google.com/maps?cid=5605832316013919957
+Place Id: ChIJSUCKgOlaspER1T5qWsrqy00
+Fotos: Agroveterinaria Cajamarca.jpg
+

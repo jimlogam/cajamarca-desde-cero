@@ -1,0 +1,17 @@
+Nombre: Vivero El Conquistador
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Tienda de plantas de seda
+Dirección: Jr. Los Conquistadores N° 105 Av. Agua Marina S/N a espaldas del Grifo Huacariz, Cajamarca 06001
+Teléfono: 923 555 414
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1766407
+Longitud: -78.49574679999999
+Google Maps: https://www.google.com/maps?cid=13327696773217710677
+Place Id: ChIJidi_ngdbspERVfLCIZp99bg
+Fotos: Vivero El Conquistador.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

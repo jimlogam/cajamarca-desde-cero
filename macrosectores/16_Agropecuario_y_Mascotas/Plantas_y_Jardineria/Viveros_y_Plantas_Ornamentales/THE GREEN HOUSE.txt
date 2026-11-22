@@ -1,0 +1,17 @@
+Nombre: THE GREEN HOUSE
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: Jr. Sor Manuela Gil 325, Cajamarca 06001
+Teléfono: 989 832 742
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1469862
+Longitud: -78.51007779999999
+Google Maps: https://www.google.com/maps?cid=3823306924901412560
+Place Id: ChIJ1Uhcv51bspER0C4KNmQdDzU
+Fotos: THE GREEN HOUSE.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

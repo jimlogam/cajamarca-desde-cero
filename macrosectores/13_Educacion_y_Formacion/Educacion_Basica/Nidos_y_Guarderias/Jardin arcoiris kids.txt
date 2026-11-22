@@ -1,0 +1,16 @@
+Nombre: Jardin arcoiris kids
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Jardín de infancia
+Dirección: Av San Martín de Porres 1031, Cajamarca 06003
+Teléfono: 916 750 654
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1715431999999995
+Longitud: -78.50098489999999
+Google Maps: https://www.google.com/maps?cid=12405533908779486170
+Place Id: ChIJa5JrBx5bspER2kvd2VxPKaw
+Fotos: Jardin arcoiris kids.jpg
+

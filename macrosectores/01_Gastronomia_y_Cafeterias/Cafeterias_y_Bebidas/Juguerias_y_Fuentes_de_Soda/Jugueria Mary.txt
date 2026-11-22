@@ -1,0 +1,16 @@
+Nombre: Jugueria Mary
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante
+Dirección: Vía de Evitamiento Nte. 1914, Cajamarca 06002
+Teléfono: 
+Rating: 3
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1528702
+Longitud: -78.5064034
+Google Maps: https://www.google.com/maps?cid=4442638309007426795
+Place Id: ChIJ647_MlFbspER6wTuAQFspz0
+Fotos: Jugueria Mary.jpg
+

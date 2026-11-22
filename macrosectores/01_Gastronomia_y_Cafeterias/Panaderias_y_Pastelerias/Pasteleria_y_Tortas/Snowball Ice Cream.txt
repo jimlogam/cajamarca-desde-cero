@@ -1,0 +1,16 @@
+Nombre: Snowball Ice Cream
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: Av. Andrés Zevallos 2210, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 6
+Sitio web: https://www.instagram.com/icecream_snowball/
+Latitud: -7.1553594
+Longitud: -78.5065085
+Google Maps: https://www.google.com/maps?cid=16539520118063768042
+Place Id: ChIJYZotzpNbspER6iGe0OotiOU
+Fotos: Snowball Ice Cream.jpg
+

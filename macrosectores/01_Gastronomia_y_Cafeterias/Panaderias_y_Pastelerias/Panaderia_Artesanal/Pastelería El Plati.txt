@@ -1,0 +1,16 @@
+Nombre: Pastelería El Plati
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: prolongación horario urteaga 623, Cajamarca 076
+Teléfono: 976 670 909
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1574468
+Longitud: -78.5246449
+Google Maps: https://www.google.com/maps?cid=14459341417350025787
+Place Id: ChIJG3iMlFZaspERO9I9A2nmqcg
+Fotos: Sin foto en Maps
+

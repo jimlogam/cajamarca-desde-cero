@@ -1,0 +1,16 @@
+Nombre: ARÁNDANOS DEL VIVERO LA MARTOZA
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Frutería, Exportador
+Dirección: Jr. Junín 801, Jesús 06371
+Teléfono: 976 220 249
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.2517397
+Longitud: -78.3740637
+Google Maps: https://www.google.com/maps?cid=2675992925003203416
+Place Id: ChIJm-xD6ydbspERWENGJGMJIyU
+Fotos: ARÁNDANOS DEL VIVERO LA MARTOZA.jpg
+

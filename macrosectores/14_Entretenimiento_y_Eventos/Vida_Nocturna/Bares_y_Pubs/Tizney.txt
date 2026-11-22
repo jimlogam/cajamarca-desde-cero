@@ -1,0 +1,16 @@
+Nombre: Tizney
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: San Martín 265, Cajamarca 06002
+Teléfono: 
+Rating: 4.3
+Reseñas: 82
+Sitio web: 
+Latitud: -7.158653999999999
+Longitud: -78.5188476
+Google Maps: https://www.google.com/maps?cid=7066236316123315996
+Place Id: ChIJ-zT5n4dbspERHL9-sX1QEGI
+Fotos: Tizney.jpg
+

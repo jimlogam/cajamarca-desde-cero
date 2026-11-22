@@ -1,0 +1,16 @@
+Nombre: Jugueria Nataly
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Tienda de zumos
+Dirección: Av San Martín de Porres 532, Cajamarca 06003
+Teléfono: 936 873 283
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1662718
+Longitud: -78.5055698
+Google Maps: https://www.google.com/maps?cid=10818751273180347059
+Place Id: ChIJ_6OvottbspERszo4d_bsI5Y
+Fotos: Jugueria Nataly.jpg
+

@@ -1,0 +1,16 @@
+Nombre: PASTELERÍA HOGARI
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Av Vía de Evitamiento Nte 187, Cajamarca 06002
+Teléfono: 991 203 124
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.147800999999999
+Longitud: -78.5233397
+Google Maps: https://www.google.com/maps?cid=6178792341701325550
+Place Id: ChIJUwrvXEtbspER7vIC7OV6v1U
+Fotos: PASTELERÍA HOGARI.jpg
+

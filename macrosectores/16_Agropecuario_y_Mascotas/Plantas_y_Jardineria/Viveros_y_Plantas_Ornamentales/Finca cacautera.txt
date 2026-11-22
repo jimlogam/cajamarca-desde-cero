@@ -1,0 +1,16 @@
+Nombre: Finca cacautera
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero, Service establishment
+Dirección: 
+Teléfono: 944 853 150
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=15845055024007029638
+Place Id: ChIJ1dPgkmY3Oa0RhiN1-Jfx5Ns
+Fotos: Finca cacautera.jpg
+

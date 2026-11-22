@@ -1,0 +1,16 @@
+Nombre: Garoto Açai Bowls
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: RFWV+7C4, Vía de Evitamiento Nte., Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.154355
+Longitud: -78.506419
+Google Maps: https://www.google.com/maps?cid=13302783243486880367
+Place Id: ChIJ8_WnCwBbspERb-IN-OD6nLg
+Fotos: Garoto Açai Bowls.jpg
+

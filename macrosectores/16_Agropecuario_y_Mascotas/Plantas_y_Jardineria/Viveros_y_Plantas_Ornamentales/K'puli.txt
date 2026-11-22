@@ -1,0 +1,16 @@
+Nombre: K'puli
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Servicio de plantas para interior
+Dirección: 51, Cajamarca 06001
+Teléfono: 979 852 048
+Rating: 4
+Reseñas: 1
+Sitio web: https://kpuli.negocio.site/?utm_source=gmb&utm_medium=referral
+Latitud: -7.153995999999999
+Longitud: -78.507783
+Google Maps: https://www.google.com/maps?cid=1498735483692236233
+Place Id: ChIJq4Uf4Y5bspERyb2_VfuTzBQ
+Fotos: K'puli.jpg
+

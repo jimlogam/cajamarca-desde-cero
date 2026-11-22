@@ -1,0 +1,16 @@
+Nombre: Clinica Veterinaria Holy Mary Santa Maria
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Hospital veterinario
+Dirección: Av. El Maestro 570, Cajamarca 06002
+Teléfono: 968 751 413
+Rating: 4.7
+Reseñas: 37
+Sitio web: 
+Latitud: -7.157324399999999
+Longitud: -78.5096622
+Google Maps: https://www.google.com/maps?cid=1293648050680966577
+Place Id: ChIJD9PjnvxaspERsS03TQz28xE
+Fotos: Clinica Veterinaria Holy Mary Santa Maria.jpg
+

@@ -1,0 +1,16 @@
+Nombre: Norte Alto
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Concesionario de maquinaria de construcción, Distribuidor de equipos para jardinería
+Dirección: Av Vía de Evitamiento Nte 1116, Cajamarca 06001
+Teléfono: 982 113 105
+Rating: 
+Reseñas: 
+Sitio web: http://www.nortealto.com/
+Latitud: -7.1458166
+Longitud: -78.5161253
+Google Maps: https://www.google.com/maps?cid=14225703466274596196
+Place Id: ChIJSST8ZXNbspERZCVXe-7Za8U
+Fotos: Norte Alto.jpg
+

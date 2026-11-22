@@ -1,0 +1,16 @@
+Nombre: Agroveterinaria "Bonanza"
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: Jirón Jesus de Nazareth 291, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.177140499999999
+Longitud: -78.50500009999999
+Google Maps: https://www.google.com/maps?cid=7955072516352885056
+Place Id: ChIJRzyHIhFbspERQMGvS04YZm4
+Fotos: Agroveterinaria Bonanza.jpg
+

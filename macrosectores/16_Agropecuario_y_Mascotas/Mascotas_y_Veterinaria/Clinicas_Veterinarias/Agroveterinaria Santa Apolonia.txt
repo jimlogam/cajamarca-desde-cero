@@ -1,0 +1,16 @@
+Nombre: Agroveterinaria Santa Apolonia
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: Av. Perú, Cajamarca 06002
+Teléfono: 
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.161876599999999
+Longitud: -78.51976859999999
+Google Maps: https://www.google.com/maps?cid=6975389093987207062
+Place Id: ChIJV8BfkP9aspERlsc9fWyPzWA
+Fotos: Agroveterinaria Santa Apolonia.jpg
+

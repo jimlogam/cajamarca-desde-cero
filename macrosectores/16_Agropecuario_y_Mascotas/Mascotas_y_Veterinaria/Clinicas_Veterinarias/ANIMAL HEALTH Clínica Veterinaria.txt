@@ -1,0 +1,16 @@
+Nombre: ANIMAL HEALTH Clínica Veterinaria
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Av 26 de Octubre 126, Cajamarca 06001
+Teléfono: 957 369 571
+Rating: 4.7
+Reseñas: 23
+Sitio web: 
+Latitud: -7.1487932
+Longitud: -78.5045864
+Google Maps: https://www.google.com/maps?cid=13055914217457101868
+Place Id: ChIJFyrKM2tbspERLKyAvc7sL7U
+Fotos: ANIMAL HEALTH Clínica Veterinaria.jpg
+

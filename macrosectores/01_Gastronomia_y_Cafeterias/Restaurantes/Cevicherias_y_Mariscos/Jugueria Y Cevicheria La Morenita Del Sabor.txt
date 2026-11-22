@@ -1,0 +1,16 @@
+Nombre: Jugueria Y Cevicheria La Morenita Del Sabor
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Diego Ferré 320, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1714351999999995
+Longitud: -78.5115763
+Google Maps: https://www.google.com/maps?cid=13974235731102749762
+Place Id: ChIJ4YV0_QRbspERQlTz11t17sE
+Fotos: Jugueria Y Cevicheria La Morenita Del Sabor.jpg
+

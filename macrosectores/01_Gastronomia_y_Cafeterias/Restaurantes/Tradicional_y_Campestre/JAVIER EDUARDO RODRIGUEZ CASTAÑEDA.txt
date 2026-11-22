@@ -1,0 +1,17 @@
+Nombre: JAVIER EDUARDO RODRIGUEZ CASTAÑEDA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contratista de pavimentación, Service establishment
+Dirección: 
+Teléfono: 900 868 815
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=11321071326998188969
+Place Id: ChIJ0Z5d0ANbspERqVOW6mOGHJ0
+Fotos: JAVIER EDUARDO RODRIGUEZ CASTAÑEDA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

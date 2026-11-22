@@ -1,0 +1,17 @@
+Nombre: La Jugueria De Mamá
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: 
+Dirección: RFXQ+4W7, Arnaldo Márquez, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.152203699999999
+Longitud: -78.51019099999999
+Google Maps: https://www.google.com/maps?cid=569232181915623370
+Place Id: ChIJ4XXKEfBaspERyh_NTadR5gc
+Fotos: La Jugueria De Mamá.jpg
+Nota: Sin categoria en Maps; clasificado por el nombre.
+

@@ -1,0 +1,17 @@
+Nombre: Jardin de las Hortensias
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Jardín botánico, Atracción turística
+Dirección: Tres Molinos, Cajamarca 06000
+Teléfono: 972 745 533
+Rating: 4.3
+Reseñas: 2698
+Sitio web: 
+Latitud: -7.1286024999999995
+Longitud: -78.5139027
+Google Maps: https://www.google.com/maps?cid=13374250705685521219
+Place Id: ChIJJ9H_O4RaspERQyNnMSjimrk
+Fotos: Jardin de las Hortensias.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Juguería Daniel & Gianella
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: 
+Dirección: Bélgica 190, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1589068
+Longitud: -78.5090487
+Google Maps: https://www.google.com/maps?cid=14742143071871267566
+Place Id: ChIJLWaOTeNaspER7nLfQgSdlsw
+Fotos: Juguería Daniel & Gianella.jpg
+Nota: Sin categoria en Maps; clasificado por el nombre.
+

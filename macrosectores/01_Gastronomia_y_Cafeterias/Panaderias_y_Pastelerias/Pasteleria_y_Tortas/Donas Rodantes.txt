@@ -1,0 +1,16 @@
+Nombre: Donas Rodantes
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Tienda de postres
+Dirección: Jr, Jirón Ayacucho 734-A, Cajamarca 06002
+Teléfono: 942 356 471
+Rating: 3
+Reseñas: 1
+Sitio web: https://danielapiedra1612.wixsite.com/donasrodantes
+Latitud: -7.159087599999999
+Longitud: -78.51235799999999
+Google Maps: https://www.google.com/maps?cid=944215519462057163
+Place Id: ChIJH0lDQMNbspERy2TyJAOHGg0
+Fotos: Donas Rodantes.jpg
+

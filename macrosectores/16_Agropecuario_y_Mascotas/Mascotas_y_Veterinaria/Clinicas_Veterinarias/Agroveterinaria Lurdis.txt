@@ -1,0 +1,16 @@
+Nombre: Agroveterinaria Lurdis
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Av Vía de Evitamiento 2339, Cajamarca 06002
+Teléfono: 976 782 494
+Rating: 4.3
+Reseñas: 26
+Sitio web: 
+Latitud: -7.155931
+Longitud: -78.5077728
+Google Maps: https://www.google.com/maps?cid=17900482744187727201
+Place Id: ChIJR5nxAfFaspERYa1RCzdKa_g
+Fotos: Agroveterinaria Lurdis.jpg
+

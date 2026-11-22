@@ -1,0 +1,16 @@
+Nombre: Agroveterinaria Nuevo Amancer
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: Av San Martín de Porres 2232, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1817166
+Longitud: -78.4926189
+Google Maps: https://www.google.com/maps?cid=2497320200438650845
+Place Id: ChIJmxg5Kj9bspER3ZeNrX1DqCI
+Fotos: Agroveterinaria Nuevo Amancer.jpg
+

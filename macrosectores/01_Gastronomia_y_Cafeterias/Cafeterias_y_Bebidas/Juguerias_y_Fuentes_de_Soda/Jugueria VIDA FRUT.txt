@@ -1,0 +1,16 @@
+Nombre: Jugueria VIDA FRUT
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante
+Dirección: Cajamarca 06002
+Teléfono: 972 011 552
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1592769999999994
+Longitud: -78.50679339999999
+Google Maps: https://www.google.com/maps?cid=6289108539544952878
+Place Id: ChIJ00GUpG1bspERLuBzReVmR1c
+Fotos: Jugueria VIDA FRUT.jpg
+

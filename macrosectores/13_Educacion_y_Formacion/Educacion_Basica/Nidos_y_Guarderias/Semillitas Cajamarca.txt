@@ -1,0 +1,16 @@
+Nombre: Semillitas Cajamarca
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Institución educativa
+Dirección: RGH6+327, Av. Universitaria, Cajamarca 06003
+Teléfono: 
+Rating: 4.8
+Reseñas: 8
+Sitio web: 
+Latitud: -7.172333699999999
+Longitud: -78.4899488
+Google Maps: https://www.google.com/maps?cid=9560982404206668584
+Place Id: ChIJMQk3uRVbspERKKt_Itdur4Q
+Fotos: Semillitas Cajamarca.jpg
+

@@ -1,0 +1,16 @@
+Nombre: Lenincito
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Jr amazonas 511 (int.mercado central pto # 72 Puesto Nro 72, Cajamarca 06001
+Teléfono: 976 469 859
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1551233
+Longitud: -78.5175464
+Google Maps: https://www.google.com/maps?cid=10456144943690071367
+Place Id: ChIJi1QUnS1bspERR72kYG2wG5E
+Fotos: Lenincito.jpg
+

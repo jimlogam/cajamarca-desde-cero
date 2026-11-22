@@ -1,0 +1,16 @@
+Nombre: Agrovet La Fortaleza
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.174519999999999
+Longitud: -78.49607069999999
+Google Maps: https://www.google.com/maps?cid=10920165622139794538
+Place Id: ChIJf6o_Oj1bspERajQTnMY4jJc
+Fotos: Agrovet La Fortaleza.jpg
+

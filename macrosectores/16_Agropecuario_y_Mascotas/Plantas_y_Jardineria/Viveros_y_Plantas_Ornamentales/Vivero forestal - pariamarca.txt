@@ -1,0 +1,17 @@
+Nombre: Vivero forestal - pariamarca
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: QGQ7+Q5, Cajamarca 06000
+Teléfono: 976 444 486
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.2105625
+Longitud: -78.4870625
+Google Maps: https://www.google.com/maps?cid=11001780230219615853
+Place Id: ChIJpaJstg1dspERbc4nV9Qsrpg
+Fotos: Vivero forestal - pariamarca.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Universidad Nacional de Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Universidad pública, Universidad
+Dirección: Av. Atahualpa Km. 3, Cajamarca 06003
+Teléfono: (076) 599220
+Rating: 4.4
+Reseñas: 743
+Sitio web: http://www.unc.edu.pe/
+Latitud: -7.167159
+Longitud: -78.4965043
+Google Maps: https://www.google.com/maps?cid=3105973867563960587
+Place Id: ChIJYaXo1CNbspERC8nLwcaiGis
+Fotos: Universidad Nacional de Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Tortas Dulce Tentación
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Jr, Cinco Esquinas 1254, Cajamarca 06002
+Teléfono: 970 915 256
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1540646
+Longitud: -78.5094823
+Google Maps: https://www.google.com/maps?cid=18270619223879937635
+Place Id: ChIJbXgVF69bspERY27J2WFHjv0
+Fotos: Tortas Dulce Tentación.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

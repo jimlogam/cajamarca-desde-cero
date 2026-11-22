@@ -1,0 +1,16 @@
+Nombre: Clínica veterinaria Dr. Valdivia
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: VF4R+W95, Prol. Revilla Perez, 736Cajamarca 06000
+Teléfono: 948 514 072
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.142739799999999
+Longitud: -78.5090025
+Google Maps: https://www.google.com/maps?cid=11524326531917622102
+Place Id: ChIJxXoshjxbspERViuPGuyh7p8
+Fotos: Clínica veterinaria Dr. Valdivia.jpg
+

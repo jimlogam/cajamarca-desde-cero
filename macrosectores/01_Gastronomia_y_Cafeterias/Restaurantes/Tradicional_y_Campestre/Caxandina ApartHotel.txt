@@ -1,0 +1,17 @@
+Nombre: Caxandina ApartHotel
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Complejo hotelero
+Dirección: Miguel de Cervantes Saavedra 400, Cajamarca 06002
+Teléfono: 976 331 393
+Rating: 4.4
+Reseñas: 39
+Sitio web: https://caxandina.com/
+Latitud: -7.164635199999999
+Longitud: -78.5219523
+Google Maps: https://www.google.com/maps?cid=5749604907532628636
+Place Id: ChIJK6hw5gNbspERnDJTYDOzyk8
+Fotos: Caxandina ApartHotel.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

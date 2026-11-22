@@ -1,0 +1,17 @@
+Nombre: Tienda los Claveles
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Centro de jardinería
+Dirección: Miguel Grau 629, Cajamarca 06002
+Teléfono: 976 836 343
+Rating: 4.3
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1564606
+Longitud: -78.5110893
+Google Maps: https://www.google.com/maps?cid=7369668702495761916
+Place Id: ChIJ68wMj5xbspER_OWShKNSRmY
+Fotos: Tienda los Claveles.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

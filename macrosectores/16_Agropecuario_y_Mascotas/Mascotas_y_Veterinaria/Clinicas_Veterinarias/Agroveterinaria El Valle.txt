@@ -1,0 +1,16 @@
+Nombre: Agroveterinaria El Valle
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Proveedor de agroquímicos
+Dirección: 11 de Febrero 271, Cajamarca 06001
+Teléfono: 
+Rating: 4.8
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1531847
+Longitud: -78.5150949
+Google Maps: https://www.google.com/maps?cid=5562421365141728093
+Place Id: ChIJQV93Q21bspERXetQuMKwMU0
+Fotos: Agroveterinaria El Valle.jpg
+

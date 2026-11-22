@@ -1,0 +1,16 @@
+Nombre: Colegio Acuarela
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Colegio privado
+Dirección: Campus Fundo Sta. Teresa, Cajamarca 06004
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: http://www.colegioacuarela.edu.pe/
+Latitud: -7.1568206
+Longitud: -78.4682886
+Google Maps: https://www.google.com/maps?cid=1595296386817119287
+Place Id: ChIJJ6BDuy5FspERN9Syj5yhIxY
+Fotos: Colegio Acuarela (2).jpg
+

@@ -1,0 +1,17 @@
+Nombre: El Paraíso de las Plantas
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Servicio de plantas para interior
+Dirección: Jr, Dos de Mayo 715, Cajamarca
+Teléfono: 922 212 904
+Rating: 4
+Reseñas: 8
+Sitio web: https://www.facebook.com/Elparaisodelasplantas
+Latitud: -7.1554628
+Longitud: -78.5154388
+Google Maps: https://www.google.com/maps?cid=15774629453930188488
+Place Id: ChIJzx0AhPlaspERyE7sKOm96to
+Fotos: El Paraíso de las Plantas.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

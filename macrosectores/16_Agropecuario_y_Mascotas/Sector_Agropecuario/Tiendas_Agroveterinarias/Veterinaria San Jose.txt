@@ -1,0 +1,16 @@
+Nombre: Veterinaria "San Jose"
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Tiendas_Agroveterinarias
+Categoría Maps: Servicio de urgencias veterinarias, Hospital veterinario, Servicio de emergencias, Farmacia veterinaria
+Dirección: Jr. Jequetepeque 246, Cajamarca 06001
+Teléfono: 976 233 965
+Rating: 4.2
+Reseñas: 18
+Sitio web: https://www.instagram.com/vetsanjose_cajamarca
+Latitud: -7.1521422
+Longitud: -78.5189704
+Google Maps: https://www.google.com/maps?cid=5643338372030011198
+Place Id: ChIJTzLglfdaspERPhcuhFkqUU4
+Fotos: Veterinaria San Jose.jpg
+

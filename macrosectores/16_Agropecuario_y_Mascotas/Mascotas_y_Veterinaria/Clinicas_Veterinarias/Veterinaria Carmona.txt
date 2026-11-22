@@ -1,0 +1,16 @@
+Nombre: Veterinaria Carmona
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Servicio de urgencias veterinarias
+Dirección: Av San Martín de Porres 2640, Cajamarca 06003
+Teléfono: 951 223 664
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1905581
+Longitud: -78.4874624
+Google Maps: https://www.google.com/maps?cid=17900732120290121068
+Place Id: ChIJy0PSawBbspERbFVRcQUtbPg
+Fotos: Veterinaria Carmona.jpg
+

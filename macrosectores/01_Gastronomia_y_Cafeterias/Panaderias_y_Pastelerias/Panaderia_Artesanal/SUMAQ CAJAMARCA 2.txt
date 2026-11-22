@@ -1,0 +1,16 @@
+Nombre: SUMAQ CAJAMARCA 2
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av. Perú 540, Cajamarca 06002
+Teléfono: 966 266 412
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1602391999999995
+Longitud: -78.5231196
+Google Maps: https://www.google.com/maps?cid=8092063510089987713
+Place Id: ChIJS7JnaNhbspERgXbQiuPITHA
+Fotos: SUMAQ CAJAMARCA 2.jpg
+

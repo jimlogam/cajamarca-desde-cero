@@ -1,0 +1,16 @@
+Nombre: Vivero Los Frutales
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: 21, Magdalena 06412
+Teléfono: 954 028 633
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/profile.php?id=100089809504982&locale=es_LA
+Latitud: -7.250468499999999
+Longitud: -78.65991439999999
+Google Maps: https://www.google.com/maps?cid=14164484144091934722
+Place Id: ChIJgV_3HwD1spERArBAS0hbksQ
+Fotos: Vivero Los Frutales.jpg
+

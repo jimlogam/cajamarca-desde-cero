@@ -1,0 +1,16 @@
+Nombre: Helartesano
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: Jr, Amalia Puga 645, Cajamarca 06001
+Teléfono: 949 311 739
+Rating: 4.8
+Reseñas: 18
+Sitio web: 
+Latitud: -7.156484799999999
+Longitud: -78.517051
+Google Maps: https://www.google.com/maps?cid=16940990512418415438
+Place Id: ChIJh5rGDLNbspERTmP2Ix19Gus
+Fotos: Helartesano.jpg
+

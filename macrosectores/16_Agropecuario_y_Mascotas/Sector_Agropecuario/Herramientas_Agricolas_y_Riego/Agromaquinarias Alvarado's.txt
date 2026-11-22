@@ -1,0 +1,16 @@
+Nombre: Agromaquinarias Alvarado's
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Comercio
+Dirección: Av Vía de Evitamiento 2264, Cajamarca 06002
+Teléfono: 935 771 502
+Rating: 
+Reseñas: 
+Sitio web: https://www.agromaquinariasalvarados.nuvysoft.cloud/
+Latitud: -7.155708199999999
+Longitud: -78.5086212
+Google Maps: https://www.google.com/maps?cid=12197424479929032796
+Place Id: ChIJpzWEDSdbspERXODSlPD0Rak
+Fotos: Agromaquinarias Alvarado's.jpg
+

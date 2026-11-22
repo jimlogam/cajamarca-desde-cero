@@ -1,0 +1,16 @@
+Nombre: Jugueria Nancy's Puesto #56
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante
+Dirección: Jr. Apurimac 936, Cajamarca 06001
+Teléfono: 
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1548231
+Longitud: -78.51761619999999
+Google Maps: https://www.google.com/maps?cid=17970868895077144756
+Place Id: ChIJcZDDCwVbspERtJgw3AtaZfk
+Fotos: Jugueria Nancy's Puesto #56.jpg
+

@@ -1,0 +1,16 @@
+Nombre: MEDIVET CAXAS
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario, Servicio de urgencias veterinarias, Hospital veterinario
+Dirección: Calle Las Cucardas 385, Cajamarca 06001
+Teléfono: 943 136 846
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1476622
+Longitud: -78.5218901
+Google Maps: https://www.google.com/maps?cid=5026571991778166976
+Place Id: ChIJbUWb3zRbspERwIjdN5j4wUU
+Fotos: MEDIVET CAXAS.jpg
+

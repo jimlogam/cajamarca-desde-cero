@@ -1,0 +1,16 @@
+Nombre: Planta De Tratamiento De Agua El Milagro
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Planta química
+Dirección: 3N 123, Cajamarca 06000
+Teléfono: 950 263 078
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1095972
+Longitud: -78.5347136
+Google Maps: https://www.google.com/maps?cid=10267318325762266488
+Place Id: ChIJByJPXJBQspEReBXrYp7XfI4
+Fotos: Planta De Tratamiento De Agua El Milagro.jpg
+

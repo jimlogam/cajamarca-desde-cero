@@ -1,0 +1,17 @@
+Nombre: Ferticax
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Abonos_Semillas_y_Fertilizantes
+Categoría Maps: Proveedor de fertilizantes
+Dirección: Urb. Los Docentes, 06001 Jr. Edgardo, Cajamarca 06001
+Teléfono: 900 627 166
+Rating: 
+Reseñas: 
+Sitio web: https://www.ferticax.com/
+Latitud: -7.1711719
+Longitud: -78.4918239
+Google Maps: https://www.google.com/maps?cid=14777433609446426053
+Place Id: ChIJs--8f_tbspERxQX51pL9E80
+Fotos: Ferticax.jpg
+Nota: Aparecia 3 veces en los archivos de esta tanda; fusionado en uno.
+

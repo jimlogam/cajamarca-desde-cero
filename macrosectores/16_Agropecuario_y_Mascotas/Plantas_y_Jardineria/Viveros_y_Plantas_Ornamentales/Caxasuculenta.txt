@@ -1,0 +1,16 @@
+Nombre: Caxasuculenta
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Servicio de plantas para interior
+Dirección: Jr, Los Girasoles 157, Cajamarca 06000
+Teléfono: 922 166 343
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1704408
+Longitud: -78.501598
+Google Maps: https://www.google.com/maps?cid=15012874124373040233
+Place Id: ChIJAU-feBxbspERaZzoeHlxWNA
+Fotos: Caxasuculenta.jpg
+

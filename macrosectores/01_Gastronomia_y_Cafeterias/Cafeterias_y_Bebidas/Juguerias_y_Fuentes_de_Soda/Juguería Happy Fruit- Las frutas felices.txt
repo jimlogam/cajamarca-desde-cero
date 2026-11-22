@@ -1,0 +1,16 @@
+Nombre: Juguería Happy Fruit- Las frutas felices
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante de desayunos
+Dirección: Jr, Jirón Silva Santisteban 928, Cajamarca 06001
+Teléfono: 
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.162646
+Longitud: -78.5129532
+Google Maps: https://www.google.com/maps?cid=8861074136464035271
+Place Id: ChIJP7vo0vNbspERxw1XqPrb-Ho
+Fotos: Juguería Happy Fruit- Las frutas felices.jpg
+

@@ -1,0 +1,16 @@
+Nombre: Jugueria Nro 5
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante de desayunos
+Dirección: Jr.Amazonas 511, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1551246
+Longitud: -78.5175544
+Google Maps: https://www.google.com/maps?cid=7901844654209766818
+Place Id: ChIJfw8tHRNbspERohV-5Nj9qG0
+Fotos: Jugueria Nro 5.jpg
+

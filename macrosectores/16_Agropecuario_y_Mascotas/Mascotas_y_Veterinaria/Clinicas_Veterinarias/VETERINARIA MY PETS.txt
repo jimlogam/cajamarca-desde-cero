@@ -1,0 +1,16 @@
+Nombre: VETERINARIA MY PETS
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Médico
+Dirección: Jr. Fraternidad 212, Cajamarca 06001
+Teléfono: 902 329 326
+Rating: 4.5
+Reseñas: 2
+Sitio web: https://www.facebook.com/veterinariamypets2/
+Latitud: -7.1522998
+Longitud: -78.5126837
+Google Maps: https://www.google.com/maps?cid=11414290685173513873
+Place Id: ChIJ6wiIhfBaspERkT7RFOe0Z54
+Fotos: VETERINARIA MY PETS.jpg
+

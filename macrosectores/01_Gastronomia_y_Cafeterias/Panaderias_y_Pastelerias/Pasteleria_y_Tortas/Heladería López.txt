@@ -1,0 +1,16 @@
+Nombre: Heladería López
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: Jiron 26 de Octubre 210, Cajamarca 06001
+Teléfono: 921 465 773
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1495035
+Longitud: -78.5042362
+Google Maps: https://www.google.com/maps?cid=11221858771929960958
+Place Id: ChIJAUEWbgBbspER_pF83BgNvJs
+Fotos: Heladería López.jpg
+

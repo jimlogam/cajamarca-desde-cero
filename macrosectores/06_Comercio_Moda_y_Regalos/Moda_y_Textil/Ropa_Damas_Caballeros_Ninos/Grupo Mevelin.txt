@@ -1,0 +1,17 @@
+Nombre: Grupo Mevelin
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Av. Atahualpa 802, Cajamarca 06002
+Teléfono: 976 498 084
+Rating: 
+Reseñas: 
+Sitio web: http://grupomevelin.com/
+Latitud: -7.1657603
+Longitud: -78.5002354
+Google Maps: https://www.google.com/maps?cid=2879689551434525564
+Place Id: ChIJMyt-Q-VbspERfKuoyGO29ic
+Fotos: Grupo Mevelin.jpg
+Nota: Centro comercial (no es una tienda individual)
+

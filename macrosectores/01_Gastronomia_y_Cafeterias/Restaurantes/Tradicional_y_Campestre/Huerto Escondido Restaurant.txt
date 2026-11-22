@@ -1,0 +1,16 @@
+Nombre: Huerto Escondido Restaurant
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante, Vaquería
+Dirección: Caserío La Colpa, Cajamarca 06001
+Teléfono: 927 159 033
+Rating: 4.8
+Reseñas: 9
+Sitio web: https://www.facebook.com/Elultimohuerto
+Latitud: -7.2046982999999996
+Longitud: -78.4616954
+Google Maps: https://www.google.com/maps?cid=577161943123466695
+Place Id: ChIJuezhgmtDspERx5m_tbp9Agg
+Fotos: Huerto Escondido Restaurant.jpg
+

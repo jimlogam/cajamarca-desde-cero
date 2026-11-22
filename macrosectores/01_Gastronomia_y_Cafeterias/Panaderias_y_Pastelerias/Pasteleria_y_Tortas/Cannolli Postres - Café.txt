@@ -1,0 +1,16 @@
+Nombre: Cannolli Postres - Café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Tienda de postres
+Dirección: Av. Hoyos Rubio 253, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.152091899999999
+Longitud: -78.5127447
+Google Maps: https://www.google.com/maps?cid=12151651131547283169
+Place Id: ChIJt5NfLsBbspER4W5ZalJWo6g
+Fotos: Cannolli Postres - Café.jpg
+

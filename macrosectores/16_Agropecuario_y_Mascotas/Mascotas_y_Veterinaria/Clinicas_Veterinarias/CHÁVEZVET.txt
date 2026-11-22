@@ -1,0 +1,16 @@
+Nombre: CHÁVEZVET
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Jr. Los Nogales 345, Cajamarca 06001
+Teléfono: 926 999 224
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1640754
+Longitud: -78.4996781
+Google Maps: https://www.google.com/maps?cid=7155858030849137665
+Place Id: ChIJ6VppQgVbspERAZzjN_e2TmM
+Fotos: CHÁVEZVET.jpg
+

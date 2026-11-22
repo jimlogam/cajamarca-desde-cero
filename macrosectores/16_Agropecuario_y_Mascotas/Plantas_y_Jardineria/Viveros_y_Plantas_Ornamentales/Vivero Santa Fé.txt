@@ -1,0 +1,17 @@
+Nombre: Vivero Santa Fé
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: Av. La Cantuta, Cajamarca 06002
+Teléfono: 961 384 482
+Rating: 4.8
+Reseñas: 19
+Sitio web: 
+Latitud: -7.156476199999999
+Longitud: -78.50276889999999
+Google Maps: https://www.google.com/maps?cid=7828095790414123880
+Place Id: ChIJlU6ApNJDspERaFNdd6X7omw
+Fotos: Vivero Santa Fé.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

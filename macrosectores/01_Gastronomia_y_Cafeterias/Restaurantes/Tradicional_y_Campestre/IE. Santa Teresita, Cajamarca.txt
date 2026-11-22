@@ -1,0 +1,17 @@
+Nombre: IE. Santa Teresita, Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Escuela de enseñanza general, Instituto de secundaria, Escuela de primaria
+Dirección: Av. Mario Urteaga 360, Cajamarca 06002
+Teléfono: (076) 362308
+Rating: 
+Reseñas: 
+Sitio web: http://iesantateresita.edu.pe/
+Latitud: -7.1565471
+Longitud: -78.5126952
+Google Maps: https://www.google.com/maps?cid=17957644279605413365
+Place Id: ChIJl_c8pPtaspER9cW0IFReNvk
+Fotos: IE. Santa Teresita, Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

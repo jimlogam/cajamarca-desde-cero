@@ -1,0 +1,16 @@
+Nombre: Pastelería Que Rico
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Av. Mártires de Uchuraccay 1781, Cajamarca 06003
+Teléfono: 976 549 772
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1757436
+Longitud: -78.4949937
+Google Maps: https://www.google.com/maps?cid=14929599099693517632
+Place Id: ChIJvyFozoFbspERQEs54EeXMM8
+Fotos: Pastelería Que Rico.jpg
+

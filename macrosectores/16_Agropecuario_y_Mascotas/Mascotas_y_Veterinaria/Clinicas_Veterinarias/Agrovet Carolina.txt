@@ -1,0 +1,16 @@
+Nombre: Agrovet Carolina
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Leguía 233, Cajamarca 06001
+Teléfono: 950 936 099
+Rating: 3.8
+Reseñas: 6
+Sitio web: http://www.facebook.com/agrovetcarolina
+Latitud: -7.1525691
+Longitud: -78.5187911
+Google Maps: https://www.google.com/maps?cid=11032582262683090471
+Place Id: ChIJa5VtjvdaspERJz6AYh2bG5k
+Fotos: Agrovet Carolina.jpg
+

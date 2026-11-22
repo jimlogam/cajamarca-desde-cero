@@ -1,0 +1,16 @@
+Nombre: Delicias Mía
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Jr, Illimani 220, Cajamarca 06001
+Teléfono: 914 135 969
+Rating: 4
+Reseñas: 1
+Sitio web: https://beacons.ai/deliciasmiacajamarca
+Latitud: -7.1608323
+Longitud: -78.5068999
+Google Maps: https://www.google.com/maps?cid=15593231350673284420
+Place Id: ChIJuWgAcqpbspERRJ1dBUxJZtg
+Fotos: Delicias Mía.jpg
+

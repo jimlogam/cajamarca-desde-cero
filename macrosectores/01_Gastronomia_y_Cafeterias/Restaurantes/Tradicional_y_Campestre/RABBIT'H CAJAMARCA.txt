@@ -1,0 +1,17 @@
+Nombre: RABBIT'H CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Cuidador de mascotas, Tienda de productos para mascotas
+Dirección: Av. La Paz 1969, Cajamarca 06003
+Teléfono: 987 274 698
+Rating: 5
+Reseñas: 7
+Sitio web: https://www.facebook.com/RabbitHCajamarca1969/?__tn__=kCH-R&eid=ARC_AfhEx5V2AUgHFFgs1QcJBRZ0-S_3e97-RDD0ejw5yUJNrqgAZ9rtJFc5jWw9ByorXe3s6b2cnTAy&hc_ref=ARR28XC7kG8hCFZXhJ8H4AChGPloYWcjYFzHiNQITyF8IMPfurdA60AYX49fw7nj8Tw&__xts__[0]=68.ARBbpN8KNkHF38O6RAuuH2WoX_JaTgELrXPqUh3tWekG4Mr18IhjOwdNgvSkx-7RhSb6RZhCeJl65dubiOW6OiKtb6kMa8n0Wc_H8BopDNXAyKkuD5g379eLyOfwFXcTl91bj1cnFuiIBJzjRb50on5mjJhODzujFxFtzD5u8V1_XherqzB_RSpkxpgNYIPQpM7yOyOGpvPKbUaCOrgUcZEBvx4xbhr-SB9pZKAaNfPeEmgHlqM9qFAgBkwc_fKbdBIFEEIBMrtS-KFXl9ZwNhFVYw4LMoDYBV2sFTqWUnGmqAzyNPDBYV-eLmsBXZWsNIYuCsfVPbvGQSxanr6HJryF
+Latitud: -7.179684699999999
+Longitud: -78.5000713
+Google Maps: https://www.google.com/maps?cid=14841327618203108692
+Place Id: ChIJeehG5LZbspERVMUwBtb89s0
+Fotos: RABBIT'H CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

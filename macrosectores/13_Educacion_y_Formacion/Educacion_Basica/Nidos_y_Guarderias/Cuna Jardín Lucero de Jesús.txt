@@ -1,0 +1,16 @@
+Nombre: Cuna Jardín Lucero de Jesús
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Centro de educación preescolar
+Dirección: Jirón Ayacucho 324, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1619315
+Longitud: -78.51505259999999
+Google Maps: https://www.google.com/maps?cid=10566641672827233260
+Place Id: ChIJ-Qh6hQxbspER7OO08Z1ApJI
+Fotos: Cuna Jardín Lucero de Jesús.jpg
+

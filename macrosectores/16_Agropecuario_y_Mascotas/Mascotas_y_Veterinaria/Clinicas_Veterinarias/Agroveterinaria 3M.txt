@@ -1,0 +1,16 @@
+Nombre: Agroveterinaria 3M
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1333009
+Longitud: -78.5246725
+Google Maps: https://www.google.com/maps?cid=278811520466390047
+Place Id: ChIJ1Z9YPmNaspERH4yvxJmJ3gM
+Fotos: Sin foto en Maps
+

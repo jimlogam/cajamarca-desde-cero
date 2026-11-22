@@ -1,0 +1,16 @@
+Nombre: Veterinaria Sanagrívet
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Miguel Grau 491, Cajamarca 06002
+Teléfono: 976 547 727
+Rating: 3.5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1555019
+Longitud: -78.5118767
+Google Maps: https://www.google.com/maps?cid=6401688491388827167
+Place Id: ChIJmUjWeqdbspERH_bv68Nd11g
+Fotos: Veterinaria Sanagrívet.jpg
+

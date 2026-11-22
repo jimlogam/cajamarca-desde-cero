@@ -1,0 +1,16 @@
+Nombre: PASTELERIA DOLCE VITTA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Cafetería
+Dirección: Prol. Revilla Perez, Cajamarca 06001
+Teléfono: 968 176 107
+Rating: 4
+Reseñas: 10
+Sitio web: 
+Latitud: -7.148445799999999
+Longitud: -78.51168969999999
+Google Maps: https://www.google.com/maps?cid=6186815302843817546
+Place Id: ChIJN16eWfJaspERSt70IL3721U
+Fotos: PASTELERIA DOLCE VITTA.jpg
+

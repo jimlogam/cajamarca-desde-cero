@@ -1,0 +1,17 @@
+Nombre: Vivero & Jardinería Arcoíris Huacariz
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Centro de jardinería
+Dirección: Cajamarca 06000
+Teléfono: 935 496 105
+Rating: 4
+Reseñas: 34
+Sitio web: 
+Latitud: -7.198527899999999
+Longitud: -78.4799931
+Google Maps: https://www.google.com/maps?cid=9041295922560824581
+Place Id: ChIJFf96IPxbspERBfVsHb0ieX0
+Fotos: Vivero & Jardinería Arcoíris Huacariz.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

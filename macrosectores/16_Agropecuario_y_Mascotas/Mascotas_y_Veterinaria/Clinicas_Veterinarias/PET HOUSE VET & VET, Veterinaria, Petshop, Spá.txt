@@ -1,0 +1,16 @@
+Nombre: PET HOUSE VET & VET, Veterinaria, Petshop, Spá.
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Jr, Los Topacios 408, Cajamarca 06001
+Teléfono: 967 305 142
+Rating: 4.9
+Reseñas: 11
+Sitio web: 
+Latitud: -7.163984999999999
+Longitud: -78.5015923
+Google Maps: https://www.google.com/maps?cid=14670878390990739143
+Place Id: ChIJ12WzGatbspERxxb1vSpumcs
+Fotos: PET HOUSE VET & VET, Veterinaria, Petshop, Spá.jpg
+

@@ -1,0 +1,16 @@
+Nombre: La Crepe-ría
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Crepería
+Dirección: Vía de Evitamiento norte S/N C.C Real Plaza, Cajamarca 06002
+Teléfono: 993 753 963
+Rating: 4.7
+Reseñas: 35
+Sitio web: 
+Latitud: -7.1545798
+Longitud: -78.5057161
+Google Maps: https://www.google.com/maps?cid=14704978259185932157
+Place Id: ChIJaRaYsylbspERfZeeANGTEsw
+Fotos: La Crepe-ría.jpg
+

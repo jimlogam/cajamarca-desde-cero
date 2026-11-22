@@ -1,0 +1,16 @@
+Nombre: Panadería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av San Martín de Porres 627, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1679851
+Longitud: -78.5042277
+Google Maps: https://www.google.com/maps?cid=1784604807247563704
+Place Id: ChIJDyStQABbspERuAty8J0wxBg
+Fotos: Panadería (2).jpg
+

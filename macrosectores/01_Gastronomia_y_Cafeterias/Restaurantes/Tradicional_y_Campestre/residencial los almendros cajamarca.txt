@@ -1,0 +1,17 @@
+Nombre: residencial los almendros cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de alquiler de condominios
+Dirección: RFVV+QMQ, Vía de Evitamiento Nte., Cajamarca 06002
+Teléfono: 
+Rating: 3.8
+Reseñas: 9
+Sitio web: 
+Latitud: -7.1555368999999995
+Longitud: -78.505771
+Google Maps: https://www.google.com/maps?cid=12712201144333350593
+Place Id: ChIJib8DOYJbspERwbZNsZbParA
+Fotos: residencial los almendros cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

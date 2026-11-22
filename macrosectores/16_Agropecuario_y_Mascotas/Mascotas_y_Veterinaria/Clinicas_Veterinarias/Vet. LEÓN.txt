@@ -1,0 +1,16 @@
+Nombre: Vet. "LEÓN"
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Servicio de urgencias veterinarias
+Dirección: Jr, Prol. Revilla Perez 189, Cajamarca
+Teléfono: 976 220 436
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1526992
+Longitud: -78.514502
+Google Maps: https://www.google.com/maps?cid=10273696469601302345
+Place Id: ChIJiUc_qfBaspERSTfFuIGAk44
+Fotos: Vet. LEÓN.jpg
+

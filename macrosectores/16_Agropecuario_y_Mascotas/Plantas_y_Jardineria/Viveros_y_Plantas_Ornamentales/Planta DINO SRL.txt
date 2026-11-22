@@ -1,0 +1,16 @@
+Nombre: Planta DINO SRL
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Empresa constructora
+Dirección: VF4V+2CM, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1449155
+Longitud: -78.50644729999999
+Google Maps: https://www.google.com/maps?cid=9975413941493401715
+Place Id: ChIJHZVePgBbspERc4gxtiDKb4o
+Fotos: Sin foto en Maps
+

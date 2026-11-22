@@ -1,0 +1,17 @@
+Nombre: tanverde
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Centro de jardinería
+Dirección: 06001, Cajamarca 15063
+Teléfono: 958 016 272
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.147667299999999
+Longitud: -78.48809659999999
+Google Maps: https://www.google.com/maps?cid=6318632857579687589
+Place Id: ChIJRxnROF1bspERpQ4mPhtLsFc
+Fotos: tanverde.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

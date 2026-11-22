@@ -1,0 +1,16 @@
+Nombre: Jardín de Niños "STAR KIDS"
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Centro de educación preescolar
+Dirección: RG73+MRX, Cajamarca 06003
+Teléfono: 957 273 837
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.185769199999999
+Longitud: -78.495413
+Google Maps: https://www.google.com/maps?cid=9733486056101236308
+Place Id: ChIJfdMOPlhbspERVM4hcP9JFIc
+Fotos: Jardín de Niños STAR KIDS.jpg
+

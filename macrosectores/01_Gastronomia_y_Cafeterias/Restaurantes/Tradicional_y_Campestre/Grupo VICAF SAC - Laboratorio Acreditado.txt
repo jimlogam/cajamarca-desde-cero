@@ -1,0 +1,17 @@
+Nombre: Grupo VICAF SAC - Laboratorio Acreditado
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de análisis de suelos, Diseñador arquitectónico, Diseñador de edificios, Empresa de construcción, Ingeniero civil, Asesor, Servicios de diseño, Asesor en ingeniería, Laboratorio, Ingeniero estructural
+Dirección: 51, Cajamarca 06000
+Teléfono: 964 326 364
+Rating: 5
+Reseñas: 16
+Sitio web: https://www.linkedin.com/company/grupo-vicaf-sac
+Latitud: -7.1637375
+Longitud: -78.5012892
+Google Maps: https://www.google.com/maps?cid=11434869184463934143
+Place Id: ChIJN_XnTf5bspERv5IIUfDQsJ4
+Fotos: Grupo VICAF SAC - Laboratorio Acreditado.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

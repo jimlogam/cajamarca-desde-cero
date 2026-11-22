@@ -1,0 +1,16 @@
+Nombre: Veterinaria D'BELEN
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Jr, Los Pinos 768 06001, Cajamarca 06001
+Teléfono: 953 120 663
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1458762
+Longitud: -78.5132364
+Google Maps: https://www.google.com/maps?cid=6575223245875054959
+Place Id: ChIJdYehuAhbspERbwlGgbTiP1s
+Fotos: Veterinaria D'BELEN.jpg
+

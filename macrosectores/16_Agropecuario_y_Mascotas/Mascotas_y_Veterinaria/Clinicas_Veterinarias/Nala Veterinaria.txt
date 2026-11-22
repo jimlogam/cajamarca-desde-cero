@@ -1,0 +1,16 @@
+Nombre: Nala Veterinaria
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Hospital veterinario
+Dirección: Jr. San Juan de Dios 214, Cajamarca 06001
+Teléfono: 976 593 369
+Rating: 4.3
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1764866
+Longitud: -78.4914046
+Google Maps: https://www.google.com/maps?cid=5582745358061119257
+Place Id: ChIJZ9U0zqJbspERGaexElPleU0
+Fotos: Nala Veterinaria.jpg
+

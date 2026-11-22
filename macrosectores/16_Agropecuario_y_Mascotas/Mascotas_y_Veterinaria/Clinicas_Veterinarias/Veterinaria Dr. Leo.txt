@@ -1,0 +1,16 @@
+Nombre: Veterinaria Dr. Leo
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Jirón Manuel Seoane 330, Cajamarca 06002
+Teléfono: 976 225 170
+Rating: 4.5
+Reseñas: 131
+Sitio web: 
+Latitud: -7.152864699999999
+Longitud: -78.5112625
+Google Maps: https://www.google.com/maps?cid=12580739867132916484
+Place Id: ChIJvYxP__laspERBHMN6EDEl64
+Fotos: Veterinaria Dr. Leo.jpg
+

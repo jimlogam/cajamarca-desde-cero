@@ -1,0 +1,16 @@
+Nombre: DOG'LE Clínica y Spa Veterinario
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Av. Hoyos Rubio 1166, Cajamarca 06001
+Teléfono: 992 059 498
+Rating: 4.8
+Reseñas: 47
+Sitio web: 
+Latitud: -7.1485236
+Longitud: -78.5047072
+Google Maps: https://www.google.com/maps?cid=2045920813749267578
+Place Id: ChIJ0TsMwahbspERemwa7iOSZBw
+Fotos: DOG'LE Clínica y Spa Veterinario.jpg
+

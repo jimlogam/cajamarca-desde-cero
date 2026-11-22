@@ -1,0 +1,17 @@
+Nombre: UGEL Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Consejería de Educación
+Dirección: Jr. Pisagua 466, Cajamarca 06001
+Teléfono: (076) 283294
+Rating: 3.8
+Reseñas: 51
+Sitio web: http://ugelcajamarca.gob.pe/
+Latitud: -7.156820799999999
+Longitud: -78.52157559999999
+Google Maps: https://www.google.com/maps?cid=5713536243544378281
+Place Id: ChIJE-Nu-PJaspERqUvIH_GOSk8
+Fotos: UGEL Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

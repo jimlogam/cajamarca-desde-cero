@@ -1,0 +1,17 @@
+Nombre: Jardines Verticales
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Diseno_y_Mantenimiento_de_Jardines
+Categoría Maps: 
+Dirección: Amalia Puga 649, Cajamarca 06002
+Teléfono: 961 923 767
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.156203499999999
+Longitud: -78.5171881
+Google Maps: https://www.google.com/maps?cid=6649602000180666190
+Place Id: ChIJjf-VBflaspERTt9-vskhSFw
+Fotos: Jardines Verticales.jpg
+Nota: Sin categoria en Maps; clasificado por el nombre.
+

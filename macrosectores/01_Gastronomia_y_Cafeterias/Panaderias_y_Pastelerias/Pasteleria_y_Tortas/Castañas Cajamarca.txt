@@ -1,0 +1,17 @@
+Nombre: Castañas Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: 51, Cajamarca 06000
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.165648
+Longitud: -78.5025817
+Google Maps: https://www.google.com/maps?cid=9699821656821602879
+Place Id: ChIJA5CSgR9bspERPxp-r2ewnIY
+Fotos: Castañas Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

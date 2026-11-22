@@ -1,0 +1,16 @@
+Nombre: Veterinaria Sama
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Cinco Esquinas 681, Cajamarca 06002
+Teléfono: 976 783 887
+Rating: 4.2
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1588157
+Longitud: -78.5139078
+Google Maps: https://www.google.com/maps?cid=16845364733138233383
+Place Id: ChIJab1EWadbspERJ-iYZvnBxuk
+Fotos: Veterinaria Sama.jpg
+

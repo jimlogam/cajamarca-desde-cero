@@ -1,0 +1,16 @@
+Nombre: Inversiones el Ganadero
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Tiendas_Agroveterinarias
+Categoría Maps: Farmacia veterinaria
+Dirección: Prol. Revilla Perez 148, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1531537
+Longitud: -78.5147009
+Google Maps: https://www.google.com/maps?cid=779409315420743725
+Place Id: ChIJy_gpwN9bspERLahIlKQE0Qo
+Fotos: Inversiones el Ganadero.jpg
+

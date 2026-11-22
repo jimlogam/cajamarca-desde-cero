@@ -1,0 +1,16 @@
+Nombre: Veterinaria Mayle
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Baños del Inca 256, Cajamarca 06002
+Teléfono: 976 102 952
+Rating: 4.5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.160524799999999
+Longitud: -78.5098809
+Google Maps: https://www.google.com/maps?cid=291545263624781558
+Place Id: ChIJ2W5veIdbspER9n5NYt_GCwQ
+Fotos: Veterinaria Mayle.jpg
+

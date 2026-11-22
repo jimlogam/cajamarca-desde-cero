@@ -1,0 +1,16 @@
+Nombre: Tienda & Agroveterinaria " EL CHRIS"
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Comercio
+Dirección: Centro poblado El Cerrillo, Baños del Inca 06003
+Teléfono: 925 259 692
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1194866999999995
+Longitud: -78.488508
+Google Maps: https://www.google.com/maps?cid=1238137520172535530
+Place Id: ChIJLdl4iY9RspER6o73wIO_LhE
+Fotos: Tienda & Agroveterinaria EL CHRIS.jpg
+

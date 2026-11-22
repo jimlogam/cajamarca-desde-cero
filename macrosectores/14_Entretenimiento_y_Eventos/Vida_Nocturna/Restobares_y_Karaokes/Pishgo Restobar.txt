@@ -1,0 +1,16 @@
+Nombre: Pishgo Restobar
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Pub restaurante, Karaoke, Bar con música en directo
+Dirección: Av Vía de Evitamiento 2395, Cajamarca 06002
+Teléfono: 976 355 609
+Rating: 4.2
+Reseñas: 370
+Sitio web: 
+Latitud: -7.1564958999999995
+Longitud: -78.5077247
+Google Maps: https://www.google.com/maps?cid=13298685922890103626
+Place Id: ChIJS3McNvlaspERSjtaLWNsjrg
+Fotos: Pishgo Restobar.jpg
+

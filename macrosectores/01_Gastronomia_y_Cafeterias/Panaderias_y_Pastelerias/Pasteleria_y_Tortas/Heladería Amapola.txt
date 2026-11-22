@@ -1,0 +1,16 @@
+Nombre: Heladería Amapola
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: Sta. Teresa de Journet 336, Cajamarca 06001
+Teléfono: 
+Rating: 4.5
+Reseñas: 8
+Sitio web: https://www.instagram.com/heladeriaamapola?igsh=NXoxYW84ZG5ld3dt
+Latitud: -7.147272699999999
+Longitud: -78.509331
+Google Maps: https://www.google.com/maps?cid=3780630637044220307
+Place Id: ChIJuxxnj8FbspERk8H6o4h_dzQ
+Fotos: Heladería Amapola.jpg
+

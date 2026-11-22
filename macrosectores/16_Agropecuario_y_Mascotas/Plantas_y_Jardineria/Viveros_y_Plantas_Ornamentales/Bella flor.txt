@@ -1,0 +1,17 @@
+Nombre: Bella flor
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Centro de jardinería
+Dirección: Túpac Amaru 711, Cajamarca 06003
+Teléfono: 957 417 635
+Rating: 3.9
+Reseñas: 7
+Sitio web: 
+Latitud: -7.17568
+Longitud: -78.5073793
+Google Maps: https://www.google.com/maps?cid=2409493945367801760
+Place Id: ChIJ_5VRXytbspERoC8aLvo9cCE
+Fotos: Bella flor.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

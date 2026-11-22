@@ -1,0 +1,16 @@
+Nombre: Scafé
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jr. José Sabogal 565, Cajamarca 06002
+Teléfono: 983 483 288
+Rating: 4
+Reseñas: 29
+Sitio web: 
+Latitud: -7.1551959
+Longitud: -78.5160585
+Google Maps: https://www.google.com/maps?cid=6497194326165841759
+Place Id: ChIJYY7Sm_laspERX2fM59CrKlo
+Fotos: Scafé.jpg
+

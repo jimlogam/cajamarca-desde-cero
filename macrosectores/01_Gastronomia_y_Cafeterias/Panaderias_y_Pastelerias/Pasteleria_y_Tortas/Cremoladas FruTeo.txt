@@ -1,0 +1,16 @@
+Nombre: Cremoladas FruTeo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: Antenor Orrego 429, Cajamarca 06002
+Teléfono: 976 855 832
+Rating: 4
+Reseñas: 18
+Sitio web: 
+Latitud: -7.169927599999999
+Longitud: -78.5118615
+Google Maps: https://www.google.com/maps?cid=3984571409944507118
+Place Id: ChIJreX8XvxaspER7nLrD5YKTDc
+Fotos: Cremoladas FruTeo.jpg
+

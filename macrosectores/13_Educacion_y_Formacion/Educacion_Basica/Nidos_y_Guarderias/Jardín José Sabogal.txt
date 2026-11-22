@@ -1,0 +1,16 @@
+Nombre: Jardín José Sabogal
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Jardín de infancia
+Dirección: VF3H+2MM, Pje. de las Artes, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1474202
+Longitud: -78.5208425
+Google Maps: https://www.google.com/maps?cid=12727113920290047242
+Place Id: ChIJe-G-QG9bspERCkXR6q3Kn7A
+Fotos: Jardín José Sabogal.jpg
+

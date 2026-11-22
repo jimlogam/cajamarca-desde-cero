@@ -1,0 +1,17 @@
+Nombre: Abonfert y compostera S.A.C
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Abonos_Semillas_y_Fertilizantes
+Categoría Maps: Proveedor de fertilizantes
+Dirección: Cas caserio Campanario. Porcon alto, Carretera a San Pablo km. 23.0, Cajamarca
+Teléfono: 915 221 554
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.070939699999999
+Longitud: -78.6217307
+Google Maps: https://www.google.com/maps?cid=9568952280421024625
+Place Id: ChIJq3M-QitXspERccMoi2a_y4Q
+Fotos: Abonfert y compostera S.A.C.jpg
+Nota: Aparecia 3 veces en los archivos de esta tanda; fusionado en uno.
+

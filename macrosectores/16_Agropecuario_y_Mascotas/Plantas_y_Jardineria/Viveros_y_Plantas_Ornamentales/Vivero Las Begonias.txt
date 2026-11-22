@@ -1,0 +1,17 @@
+Nombre: Vivero Las Begonias
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: 8B 138, Cajamarca 06002
+Teléfono: 955 862 633
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1650557
+Longitud: -78.4802856
+Google Maps: https://www.google.com/maps?cid=18238001050524590122
+Place Id: ChIJS6uNLgBbspERKiC4jVNlGv0
+Fotos: Vivero Las Begonias.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

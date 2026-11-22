@@ -1,0 +1,16 @@
+Nombre: Tinkuy Casa Hospedaje
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Av. Miguel de Cervantes, Cajamarca 06001
+Teléfono: 997 035 314
+Rating: 4.4
+Reseñas: 20
+Sitio web: 
+Latitud: -7.1512471
+Longitud: -78.50123529999999
+Google Maps: https://www.google.com/maps?cid=17086304019542586405
+Place Id: ChIJn8iv8-haspERJTQqifq-Hu0
+Fotos: Tinkuy Casa Hospedaje.jpg
+
