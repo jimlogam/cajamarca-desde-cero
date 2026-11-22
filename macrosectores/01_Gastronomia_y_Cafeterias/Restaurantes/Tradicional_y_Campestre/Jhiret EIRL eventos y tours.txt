@@ -1,0 +1,17 @@
+Nombre: Jhiret EIRL eventos y tours
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Organizador de eventos
+Dirección: Jirón Manuel Seoane 179, Cajamarca 06000
+Teléfono: 910 686 131
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.151427699999999
+Longitud: -78.5118825
+Google Maps: https://www.google.com/maps?cid=17682286955660607038
+Place Id: ChIJPSQeRh1bspERPn6sKE0aZPU
+Fotos: Jhiret EIRL eventos y tours.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

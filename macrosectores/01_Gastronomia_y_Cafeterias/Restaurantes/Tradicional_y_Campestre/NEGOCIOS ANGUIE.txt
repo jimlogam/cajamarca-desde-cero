@@ -1,0 +1,17 @@
+Nombre: NEGOCIOS ANGUIE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de abarrotes rusa
+Dirección: Av. La paz y, Av. Héroes del Cenepa 2111, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.180638699999999
+Longitud: -78.4993293
+Google Maps: https://www.google.com/maps?cid=10020510562417218539
+Place Id: ChIJeQW44odbspER65Pt_EMBEIs
+Fotos: NEGOCIOS ANGUIE.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 5 veces en los archivos de la cosecha original; fusionado en uno.
+

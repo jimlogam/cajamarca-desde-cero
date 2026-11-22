@@ -1,0 +1,17 @@
+Nombre: DR RENTAL SAC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de alquiler de coches
+Dirección: Universitaria 577, Cajamarca 06001
+Teléfono: 967 700 831
+Rating: 5
+Reseñas: 32
+Sitio web: https://www.facebook.com/profile.php?id=100087256383937&mibextid=ZbWKwL
+Latitud: -7.162459699999999
+Longitud: -78.5006519
+Google Maps: https://www.google.com/maps?cid=9752768499768104085
+Place Id: ChIJtY4mZTdbspERlRRMNUfLWIc
+Fotos: DR RENTAL SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

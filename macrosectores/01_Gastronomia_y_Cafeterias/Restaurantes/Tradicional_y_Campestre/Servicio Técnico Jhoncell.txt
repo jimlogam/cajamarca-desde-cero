@@ -1,0 +1,17 @@
+Nombre: Servicio Técnico "Jhoncell"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: Angamos 719, Cajamarca 06001
+Teléfono: 916 290 260
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1508268
+Longitud: -78.5230629
+Google Maps: https://www.google.com/maps?cid=16822117255210957290
+Place Id: ChIJxZSNVlhaspER6nnRJoQqdOk
+Fotos: Servicio Técnico Jhoncell.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

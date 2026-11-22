@@ -1,0 +1,17 @@
+Nombre: Allpa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Cementerio
+Dirección: Jirón del Comercio 715, Cajamarca 06001
+Teléfono: 993 542 865
+Rating: 3.9
+Reseñas: 38
+Sitio web: 
+Latitud: -7.156476499999999
+Longitud: -78.5190157
+Google Maps: https://www.google.com/maps?cid=13646082676184610988
+Place Id: ChIJkVOB01BbspERrHiY2eSfYL0
+Fotos: Allpa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

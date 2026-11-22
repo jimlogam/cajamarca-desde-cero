@@ -1,0 +1,17 @@
+Nombre: NEL CORP INGENIEROS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: Jr. Ramon Castilla 160, Cajamarca 06002
+Teléfono: 986 058 157
+Rating: 2
+Reseñas: 1
+Sitio web: https://nelcorp.org/
+Latitud: -7.1705574
+Longitud: -78.5113081
+Google Maps: https://www.google.com/maps?cid=7549320901009135123
+Place Id: ChIJtTXqvPpaspERE9YUiFyTxGg
+Fotos: NEL CORP INGENIEROS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

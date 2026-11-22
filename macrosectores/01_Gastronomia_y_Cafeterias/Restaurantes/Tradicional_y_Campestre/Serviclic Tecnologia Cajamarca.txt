@@ -1,0 +1,17 @@
+Nombre: Serviclic Tecnologia Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de informática
+Dirección: 51, Cajamarca 06001
+Teléfono: 937 388 629
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1449155
+Longitud: -78.50644729999999
+Google Maps: https://www.google.com/maps?cid=1036080971240705705
+Place Id: ChIJOxuOGoZbspERqQ5YaSfmYA4
+Fotos: Serviclic Tecnologia Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

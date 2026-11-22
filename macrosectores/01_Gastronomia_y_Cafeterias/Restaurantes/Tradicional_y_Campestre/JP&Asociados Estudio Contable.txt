@@ -1,0 +1,17 @@
+Nombre: JP&Asociados Estudio Contable
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contable
+Dirección: Silva Nº413, Cajabamba 06351
+Teléfono: 974 075 275
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/profile.php?id=61590224399875
+Latitud: -7.625546699999999
+Longitud: -78.0462857
+Google Maps: https://www.google.com/maps?cid=9780123017521771030
+Place Id: ChIJ1edtPQn5rZERFrIBLxH6uYc
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

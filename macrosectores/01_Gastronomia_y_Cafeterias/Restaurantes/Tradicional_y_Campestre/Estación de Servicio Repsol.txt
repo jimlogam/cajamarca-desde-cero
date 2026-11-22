@@ -1,0 +1,17 @@
+Nombre: Estación de Servicio Repsol
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera, Compañía del gas
+Dirección: A 1 Cuadra Del, Óvalo Musical, Av. Atahualpa N° 554, Cajamarca 06003
+Teléfono: 948 422 565
+Rating: 3.9
+Reseñas: 78
+Sitio web: https://www.repsol.pe/es/productos-servicios/estaciones-servicio/index.cshtml
+Latitud: -7.165815299999999
+Longitud: -78.5033333
+Google Maps: https://www.google.com/maps?cid=3918916964653785040
+Place Id: ChIJ7TizRmRbspER0N9wTjfKYjY
+Fotos: Estación de Servicio Repsol.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

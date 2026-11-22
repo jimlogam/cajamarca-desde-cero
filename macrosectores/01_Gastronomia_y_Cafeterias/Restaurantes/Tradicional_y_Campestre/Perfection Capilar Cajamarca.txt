@@ -1,0 +1,17 @@
+Nombre: Perfection Capilar Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Clínica de trasplante capilar
+Dirección: San Roque 246, Cajamarca 06001
+Teléfono: 968 825 750
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/perfectioncapilar/
+Latitud: -7.150785
+Longitud: -78.5088663
+Google Maps: https://www.google.com/maps?cid=2962538570739816127
+Place Id: ChIJ54dcZ8xbspERvxZXRiINHSk
+Fotos: Perfection Capilar Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

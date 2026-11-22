@@ -1,0 +1,17 @@
+Nombre: DJ Tavo Bixz
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: DJ, Service establishment
+Dirección: 
+Teléfono: 
+Rating: 2
+Reseñas: 1
+Sitio web: https://dj-tavo-bixz.ueniweb.com/?utm_campaign=gmb
+Latitud: -6.9992538
+Longitud: -78.8513313
+Google Maps: https://www.google.com/maps?cid=4018616600382732772
+Place Id: ChIJtUxrS89bspER5PlMqoH-xDc
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

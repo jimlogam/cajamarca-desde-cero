@@ -1,0 +1,17 @@
+Nombre: Motopartes Quiroz
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de repuestos para motos
+Dirección: Av San Martín de Porres, Cajamarca 06003
+Teléfono: 958 285 070
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1744604
+Longitud: -78.4980278
+Google Maps: https://www.google.com/maps?cid=9119519663590142270
+Place Id: ChIJ-y7DK3ZbspERPvF6FtEKj34
+Fotos: Motopartes Quiroz.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

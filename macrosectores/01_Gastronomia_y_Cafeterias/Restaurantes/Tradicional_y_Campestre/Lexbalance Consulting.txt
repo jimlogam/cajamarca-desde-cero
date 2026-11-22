@@ -1,0 +1,17 @@
+Nombre: Lexbalance Consulting
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de contabilidad
+Dirección: Av. La Cantuta 1190, Cajamarca 06001
+Teléfono: 923 486 797
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.163775299999999
+Longitud: -78.4979994
+Google Maps: https://www.google.com/maps?cid=14221061822501873447
+Place Id: ChIJdRTpP89bspERJ-cXk2FcW8U
+Fotos: Lexbalance Consulting.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

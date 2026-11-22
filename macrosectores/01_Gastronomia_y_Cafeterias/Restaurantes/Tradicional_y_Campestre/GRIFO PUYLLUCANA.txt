@@ -1,0 +1,17 @@
+Nombre: GRIFO PUYLLUCANA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: Jr. 25 de Diciembre con Jr. Puylucana
+Teléfono: 941 464 781
+Rating: 3.9
+Reseñas: 23
+Sitio web: 
+Latitud: -7.1516782
+Longitud: -78.45448019999999
+Google Maps: https://www.google.com/maps?cid=15620921325796589633
+Place Id: ChIJo9GdyyJFspERQQBuwC6pyNg
+Fotos: GRIFO PUYLLUCANA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

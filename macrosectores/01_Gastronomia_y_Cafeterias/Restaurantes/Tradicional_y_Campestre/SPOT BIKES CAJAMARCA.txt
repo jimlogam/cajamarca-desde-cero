@@ -1,0 +1,17 @@
+Nombre: SPOT BIKES CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Club deportivo
+Dirección: 06000, Cajamarca 06000
+Teléfono: 993 752 152
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.163731599999999
+Longitud: -78.5066349
+Google Maps: https://www.google.com/maps?cid=5961024084201841242
+Place Id: ChIJCekHBCFbspERWiJmXNLPuVI
+Fotos: SPOT BIKES CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

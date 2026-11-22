@@ -1,0 +1,17 @@
+Nombre: iShop - Real Plaza Cajamarca | Apple Authorized Reseller
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de informática, Tienda de accesorios para móviles, Tienda de accesorios informáticos, Tienda de electrónica, Tienda de reparación de teléfonos móviles
+Dirección: Vía de Evitamiento Nte. LT 1A, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1388
+Sitio web: https://pe.tiendasishop.com/
+Latitud: -7.1547212
+Longitud: -78.50598339999999
+Google Maps: https://www.google.com/maps?cid=12885756311790262408
+Place Id: ChIJ5YY-KmBbspERiJiBChhn07I
+Fotos: iShop - Real Plaza Cajamarca - Apple Authorized Reseller.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

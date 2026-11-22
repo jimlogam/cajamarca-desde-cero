@@ -1,0 +1,17 @@
+Nombre: El Fundo Carnicería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carnicería
+Dirección: Delfín Cerna 126, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1514235
+Longitud: -78.5108226
+Google Maps: https://www.google.com/maps?cid=13326441323144633726
+Place Id: ChIJhWLuQPBaspERfl0f4sYH8bg
+Fotos: El Fundo Carnicería.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

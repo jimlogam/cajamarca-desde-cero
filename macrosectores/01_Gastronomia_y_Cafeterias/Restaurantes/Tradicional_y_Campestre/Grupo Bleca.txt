@@ -1,0 +1,17 @@
+Nombre: Grupo Bleca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia inmobiliaria
+Dirección: Jiron Miraflores 367, Cajamarca 06001
+Teléfono: 917 750 572
+Rating: 
+Reseñas: 
+Sitio web: https://grupobleca.com/residencial-zafiros/
+Latitud: -7.144927099999999
+Longitud: -78.52251249999999
+Google Maps: https://www.google.com/maps?cid=4994560045705013994
+Place Id: ChIJgQkxnuNbspER6iqbNeY9UEU
+Fotos: Grupo Bleca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

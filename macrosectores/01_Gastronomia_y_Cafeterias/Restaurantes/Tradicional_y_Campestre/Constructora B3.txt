@@ -1,0 +1,17 @@
+Nombre: Constructora B3
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa constructora, Empresa de construcción, Persona de mantenimiento, Ferretería, Estudio de vidrio
+Dirección: Jiron Manuel Seoane Corrales 178, Cajamarca 06001
+Teléfono: (076) 305360
+Rating: 3.3
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1511631
+Longitud: -78.5120547
+Google Maps: https://www.google.com/maps?cid=29564228983312351
+Place Id: ChIJ4_zDsR5bspER38-bdoIIaQA
+Fotos: Constructora B3.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: inversiones MARIA ELODIA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Modista, Service establishment
+Dirección: 
+Teléfono: 978 683 472
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=6345900013797336663
+Place Id: ChIJGb2yw5RbspERV2aJxnAqEVg
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

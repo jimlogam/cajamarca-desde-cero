@@ -1,0 +1,17 @@
+Nombre: Negocios San Nicolas SRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de software
+Dirección: Jr. Apurimac 1135, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.153105099999999
+Longitud: -78.5163364
+Google Maps: https://www.google.com/maps?cid=360904222609423051
+Place Id: ChIJYwwo3PlaspERy7qScnowAgU
+Fotos: Negocios San Nicolas SRL (2).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

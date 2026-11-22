@@ -1,0 +1,17 @@
+Nombre: ESTUDIO CONTABLE CHUQUILIN
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de registros contables
+Dirección: Chanchamayo, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: https://estudiocontablechuquilin.epizy.com/
+Latitud: -7.148302999999999
+Longitud: -78.5221581
+Google Maps: https://www.google.com/maps?cid=269017427834041339
+Place Id: ChIJM7qFp1FbspER-_Nv4Oy9uwM
+Fotos: ESTUDIO CONTABLE CHUQUILIN.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

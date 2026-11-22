@@ -1,0 +1,17 @@
+Nombre: Masajes Renacer
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Escuela de masajistas
+Dirección: Cinco Esquinas 729, Cajamarca 06002
+Teléfono: 955 499 374
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.158387299999999
+Longitud: -78.5135711
+Google Maps: https://www.google.com/maps?cid=8406316400285656467
+Place Id: ChIJwQJ3Ka5bspERkyWRPDo8qXQ
+Fotos: Masajes Renacer.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

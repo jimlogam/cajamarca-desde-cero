@@ -1,0 +1,17 @@
+Nombre: Cax Adventours
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes, Agencia de visitas turísticas
+Dirección: Jr. Pisagua 755, Cajamarca 06001
+Teléfono: 925 459 021
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1543923
+Longitud: -78.5194513
+Google Maps: https://www.google.com/maps?cid=17917344779785524467
+Place Id: ChIJTyKaK-5bspER89RQpSUyp_g
+Fotos: Cax Adventours.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

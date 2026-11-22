@@ -1,0 +1,17 @@
+Nombre: Motion Cax
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de informática
+Dirección: Jr. Fraternidad 208, Cajamarca 06001
+Teléfono: 979 088 295
+Rating: 4.8
+Reseñas: 18
+Sitio web: https://motioncax.com/
+Latitud: -7.1522548
+Longitud: -78.51271179999999
+Google Maps: https://www.google.com/maps?cid=11208186125536624312
+Place Id: ChIJn3JfopRbspERuH4SzeV5i5s
+Fotos: Motion Cax.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

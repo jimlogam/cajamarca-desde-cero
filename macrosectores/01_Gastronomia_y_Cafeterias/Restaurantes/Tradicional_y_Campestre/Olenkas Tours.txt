@@ -1,0 +1,17 @@
+Nombre: Olenkas Tours
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: Jr, Dos de Mayo 569, Cajamarca 06002
+Teléfono: 948 339 977
+Rating: 
+Reseñas: 
+Sitio web: https://olenkas-tours.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1566798
+Longitud: -78.5166473
+Google Maps: https://www.google.com/maps?cid=7882773204766893403
+Place Id: ChIJydEnoadbspERWyUZC3c8ZW0
+Fotos: Olenkas Tours.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

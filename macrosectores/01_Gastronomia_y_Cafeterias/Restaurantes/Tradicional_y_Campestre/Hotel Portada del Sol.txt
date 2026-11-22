@@ -1,0 +1,17 @@
+Nombre: Hotel Portada del Sol
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Albergue
+Dirección: 773, Jr. Pisagua 731, Cajamarca
+Teléfono: 
+Rating: 3.8
+Reseñas: 20
+Sitio web: 
+Latitud: -7.1544398
+Longitud: -78.5196024
+Google Maps: https://www.google.com/maps?cid=6183586700228841401
+Place Id: ChIJIbGnFPhaspERuU_4gFeD0FU
+Fotos: Hotel Portada del Sol.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: El Reino de la diversión cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de fiestas infantiles
+Dirección: 076, Cajamarca 06001
+Teléfono: 987 921 550
+Rating: 5
+Reseñas: 12
+Sitio web: 
+Latitud: -7.128562499999999
+Longitud: -78.50541659999999
+Google Maps: https://www.google.com/maps?cid=6393490660699422809
+Place Id: ChIJyzXStQxbspERWUDEueE9ulg
+Fotos: El Reino de la diversión cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

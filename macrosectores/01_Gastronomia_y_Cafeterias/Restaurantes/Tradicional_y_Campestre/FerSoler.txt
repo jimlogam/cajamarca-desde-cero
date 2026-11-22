@@ -1,0 +1,17 @@
+Nombre: FerSoler
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agentes inmobiliarios, Service establishment
+Dirección: 
+Teléfono: 964 308 363
+Rating: 
+Reseñas: 
+Sitio web: https://fersolerpe.com/
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=3564880358562837462
+Place Id: ChIJR8H8w3FqbCoR1rPnbsz_eDE
+Fotos: FerSoler.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

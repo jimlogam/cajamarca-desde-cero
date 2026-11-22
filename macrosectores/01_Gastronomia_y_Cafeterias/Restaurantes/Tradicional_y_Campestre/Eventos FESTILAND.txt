@@ -1,0 +1,17 @@
+Nombre: Eventos "FESTILAND"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Palacio de congresos
+Dirección: Leguía 152, Cajamarca 06001
+Teléfono: (076) 260380
+Rating: 5
+Reseñas: 2
+Sitio web: https://www.facebook.com/profile.php?id=100005042359407
+Latitud: -7.153255499999999
+Longitud: -78.5191657
+Google Maps: https://www.google.com/maps?cid=472365318709111927
+Place Id: ChIJxeDRTRZbspERd-zeMcEtjgY
+Fotos: Eventos FESTILAND.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

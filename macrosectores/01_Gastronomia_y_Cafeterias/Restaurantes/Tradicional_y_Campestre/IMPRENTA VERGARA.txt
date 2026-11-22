@@ -1,0 +1,17 @@
+Nombre: IMPRENTA VERGARA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Societe de Flocage
+Dirección: Jr, San Sebastián 425, Cajamarca 06002
+Teléfono: 907 543 088
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1642307999999995
+Longitud: -78.51577689999999
+Google Maps: https://www.google.com/maps?cid=4380850646487110875
+Place Id: ChIJN-A0IxxbspER25TnxXPoyzw
+Fotos: IMPRENTA VERGARA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

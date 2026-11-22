@@ -1,0 +1,17 @@
+Nombre: CATEQUIL TOURS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de visitas turísticas
+Dirección: JR, Amalia Puga 689, Cajamarca 06002
+Teléfono: (076) 363958
+Rating: 4.1
+Reseñas: 15
+Sitio web: https://catequilrayotours.com/
+Latitud: -7.156773899999999
+Longitud: -78.5167436
+Google Maps: https://www.google.com/maps?cid=17953671832352192140
+Place Id: ChIJn7WV4vhaspERjPZJrWhBKPk
+Fotos: CATEQUIL TOURS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

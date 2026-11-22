@@ -1,0 +1,17 @@
+Nombre: Hotel Sierra Viva
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Alojamiento con servicio
+Dirección: Av. Luis Rebaza Neyra 680, Cajamarca 06001
+Teléfono: 976 360 721
+Rating: 4.8
+Reseñas: 11
+Sitio web: http://hotelsierravivacajamarca.com/
+Latitud: -7.1629895999999995
+Longitud: -78.4993779
+Google Maps: https://www.google.com/maps?cid=5895639938876494563
+Place Id: ChIJKw1ghUFbspER49JWuEmF0VE
+Fotos: Hotel Sierra Viva.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

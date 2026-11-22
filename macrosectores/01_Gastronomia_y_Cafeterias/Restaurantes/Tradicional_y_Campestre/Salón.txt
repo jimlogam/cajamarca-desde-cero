@@ -1,0 +1,17 @@
+Nombre: Salón
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de estética
+Dirección: VF5M+P4J, Av. Moyococha, Cajamarca 06001
+Teléfono: 
+Rating: 4.9
+Reseñas: 15
+Sitio web: 
+Latitud: -7.1406607
+Longitud: -78.5172276
+Google Maps: https://www.google.com/maps?cid=11575623473503788841
+Place Id: ChIJZc1xL6RbspERKd_dBzjgpKA
+Fotos: Salón.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

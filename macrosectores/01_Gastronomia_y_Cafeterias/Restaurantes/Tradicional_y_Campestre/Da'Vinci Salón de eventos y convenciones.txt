@@ -1,0 +1,17 @@
+Nombre: Da'Vinci Salón de eventos y convenciones
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Pabellón de baile
+Dirección: Cardosanto 180, Cajamarca 06002
+Teléfono: 923 452 249
+Rating: 4.3
+Reseñas: 15
+Sitio web: https://www.facebook.com/pg/davinci.salondeventos/about/?ref=page_internal
+Latitud: -7.164857199999999
+Longitud: -78.4991355
+Google Maps: https://www.google.com/maps?cid=16680852412350312997
+Place Id: ChIJbfvcB9NbspERJbLb3ONKfuc
+Fotos: Da'Vinci Salón de eventos y convenciones.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Tecnicell
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de reparación de teléfonos móviles
+Dirección: Jr, Dos de Mayo 691, Cajamarca 06001
+Teléfono: 931 080 083
+Rating: 1
+Reseñas: 6
+Sitio web: https://www.facebook.com/Tecnicell-1775788599400780/
+Latitud: -7.1557673
+Longitud: -78.5156839
+Google Maps: https://www.google.com/maps?cid=9290776075534315888
+Place Id: ChIJhxVYDWRbspERcLHrtZ1374A
+Fotos: Tecnicell.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

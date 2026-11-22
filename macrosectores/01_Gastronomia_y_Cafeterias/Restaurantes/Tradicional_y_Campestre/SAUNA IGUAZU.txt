@@ -1,0 +1,17 @@
+Nombre: SAUNA IGUAZU
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Sauna
+Dirección: VF4G+4CV JR. El Molino, Cajamarca 06001
+Teléfono: 964 139 524
+Rating: 4.4
+Reseñas: 24
+Sitio web: 
+Latitud: -7.144647699999999
+Longitud: -78.5239485
+Google Maps: https://www.google.com/maps?cid=4655168866021556857
+Place Id: ChIJq0CvnJtbspEReUKsZGt7mkA
+Fotos: SAUNA IGUAZU.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

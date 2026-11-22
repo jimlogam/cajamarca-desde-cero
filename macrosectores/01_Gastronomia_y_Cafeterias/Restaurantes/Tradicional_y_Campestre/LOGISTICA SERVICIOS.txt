@@ -1,0 +1,17 @@
+Nombre: LOGISTICA SERVICIOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Imprenta
+Dirección: Jr. José Sabogal 1029, Cajamarca 06002
+Teléfono: 964 442 498
+Rating: 4.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1571558
+Longitud: -78.5137919
+Google Maps: https://www.google.com/maps?cid=4960173934645102908
+Place Id: ChIJnyuCkY1bspERPEms1ukT1kQ
+Fotos: LOGISTICA SERVICIOS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

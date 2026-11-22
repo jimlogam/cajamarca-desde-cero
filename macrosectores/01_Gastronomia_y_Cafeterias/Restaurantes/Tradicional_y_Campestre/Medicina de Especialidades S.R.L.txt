@@ -1,0 +1,17 @@
+Nombre: Medicina de Especialidades S.R.L
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Médico de familia
+Dirección: Jirón Las Casuarinas 640, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1496718999999995
+Longitud: -78.5155794
+Google Maps: https://www.google.com/maps?cid=6221573248744144087
+Place Id: ChIJ27AnHhJbspER17x3C-h3V1Y
+Fotos: Medicina de Especialidades S.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: EL VALLE DE MARÍA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Piscina, Hotel, Restaurante, Casa rural
+Dirección: Avenida EL COMERCIO S/N, 06335
+Teléfono: 919 063 198
+Rating: 4.1
+Reseñas: 10
+Sitio web: 
+Latitud: -7.4630892
+Longitud: -78.1177139
+Google Maps: https://www.google.com/maps?cid=10945439434773037584
+Place Id: ChIJwW-NAxkRspEREAIzrCwD5pc
+Fotos: EL VALLE DE MARÍA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

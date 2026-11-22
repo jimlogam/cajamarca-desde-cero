@@ -1,0 +1,17 @@
+Nombre: San fernando vía evitamiento
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Instituto de secundaria
+Dirección: RGF6+88F, Pasaje José de La Cruz, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1766974999999995
+Longitud: -78.4892136
+Google Maps: https://www.google.com/maps?cid=4774791153216641432
+Place Id: ChIJAfSyF5VbspERmNknhEF3Q0I
+Fotos: San fernando vía evitamiento.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Reparacion de Lavadoras & Refrigeradoras
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de reparación de electrodomésticos
+Dirección: Av. Mártires de Uchuraccay 1355, Cajamarca 06003
+Teléfono: 935 113 767
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/manuelcoldservis/
+Latitud: -7.1726613
+Longitud: -78.49784249999999
+Google Maps: https://www.google.com/maps?cid=8281501877981353860
+Place Id: ChIJ4wLNFwBbspERhBfPqxTO7XI
+Fotos: Reparacion de Lavadoras & Refrigeradoras.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: CN MOTORS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Av. Independencia cuadra 18, Cajamarca 06003
+Teléfono: 965 805 081
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1864541
+Longitud: -78.51244779999999
+Google Maps: https://www.google.com/maps?cid=1254414398819893705
+Place Id: ChIJKfA_ugVbspERyYHL4j-TaBE
+Fotos: CN MOTORS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

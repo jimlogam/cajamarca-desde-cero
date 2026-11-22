@@ -1,0 +1,17 @@
+Nombre: Grifo AVA vía de envitamiento Norte
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: Av. Independencia 351, Cajamarca 06002
+Teléfono: 
+Rating: 4.2
+Reseñas: 5
+Sitio web: 
+Latitud: -7.166342299999999
+Longitud: -78.5116089
+Google Maps: https://www.google.com/maps?cid=16910207723508409599
+Place Id: ChIJy8uvKsJbspER_yTJlVQgreo
+Fotos: Grifo AVA vía de envitamiento Norte.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

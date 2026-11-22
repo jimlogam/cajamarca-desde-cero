@@ -1,0 +1,17 @@
+Nombre: " BATERIAS POWER CAJAMARCA"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de baterías
+Dirección: Jirón Sucre 342, Cajamarca 06000
+Teléfono: 960 477 058
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1674761
+Longitud: -78.5102515
+Google Maps: https://www.google.com/maps?cid=10857082326759355369
+Place Id: ChIJXeDIxkhbspER6bOpV9oarJY
+Fotos: BATERIAS POWER CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

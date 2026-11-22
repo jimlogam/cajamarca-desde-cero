@@ -1,0 +1,17 @@
+Nombre: Pc Repair
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de reparación de ordenadores
+Dirección: Terminal Terrestre, Real Plaza El Quinde Baños del Inca, Cajamarca 06002
+Teléfono: 928 384 694
+Rating: 2.9
+Reseñas: 7
+Sitio web: https://www.facebook.com/pcrepairperu
+Latitud: -7.154853999999999
+Longitud: -78.50542639999999
+Google Maps: https://www.google.com/maps?cid=11470925292326582921
+Place Id: ChIJxTjtsMVbspERiXorHsfpMJ8
+Fotos: Pc Repair.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

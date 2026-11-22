@@ -1,0 +1,17 @@
+Nombre: SAT Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Departamento fiscal, Oficina de gobierno local
+Dirección: Av. Alameda de los Incas S/N, Cajamarca 06002, Cajamarca 06001
+Teléfono: 944 746 124
+Rating: 2.9
+Reseñas: 13
+Sitio web: http://www.satcajamarca.gob.pe/
+Latitud: -7.1638334
+Longitud: -78.4955372
+Google Maps: https://www.google.com/maps?cid=17498076415169420977
+Place Id: ChIJE4B0QiBbspERsV7Qcsqn1fI
+Fotos: SAT Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

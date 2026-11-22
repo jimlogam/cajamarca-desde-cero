@@ -1,0 +1,17 @@
+Nombre: Don Chema automotriz
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: 051, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1289128999999996
+Longitud: -78.5208245
+Google Maps: https://www.google.com/maps?cid=1672543289315642767
+Place Id: ChIJr04MWqpbspERj00fl0IRNhc
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

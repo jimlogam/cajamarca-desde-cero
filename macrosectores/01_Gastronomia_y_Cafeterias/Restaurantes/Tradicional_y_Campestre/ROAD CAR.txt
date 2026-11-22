@@ -1,0 +1,17 @@
+Nombre: ROAD CAR
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: 102, Celendín 06225
+Teléfono: 931 223 573
+Rating: 4.9
+Reseñas: 18
+Sitio web: 
+Latitud: -6.8668952999999995
+Longitud: -78.142185
+Google Maps: https://www.google.com/maps?cid=2720210625276761718
+Place Id: ChIJ98eLRZnNs5ERdlbdwSYhwCU
+Fotos: ROAD CAR.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

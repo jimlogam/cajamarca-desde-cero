@@ -1,0 +1,17 @@
+Nombre: Centro de convenciones César Paredes Canto
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Palacio de congresos
+Dirección: Dos de Mayo 362, Cajamarca 06002
+Teléfono: 963 470 599
+Rating: 4.2
+Reseñas: 92
+Sitio web: 
+Latitud: -7.1582951999999995
+Longitud: -78.51750059999999
+Google Maps: https://www.google.com/maps?cid=10452201657191431364
+Place Id: ChIJPQrcK_laspERxPykcQeuDZE
+Fotos: Centro de convenciones César Paredes Canto.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

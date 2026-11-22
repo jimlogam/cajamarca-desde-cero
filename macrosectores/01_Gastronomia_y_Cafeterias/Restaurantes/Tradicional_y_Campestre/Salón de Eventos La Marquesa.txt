@@ -1,0 +1,17 @@
+Nombre: Salón de Eventos La Marquesa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón para eventos
+Dirección: Jr. Jorge Isaac 212, Cajamarca 06001
+Teléfono: 926 447 587
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/share/1BTNTjDV2B/
+Latitud: -7.1448237
+Longitud: -78.5168814
+Google Maps: https://www.google.com/maps?cid=9190164359760263718
+Place Id: ChIJ14RQZABbspERJjr3KssFin8
+Fotos: Salón de Eventos La Marquesa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

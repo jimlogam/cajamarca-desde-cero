@@ -1,0 +1,17 @@
+Nombre: Complejo monumental Belén "Ex hospital de mujeres"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Museo patrimonial
+Dirección: Belén 571, Cajamarca 06002
+Teléfono: 
+Rating: 4.8
+Reseñas: 23
+Sitio web: 
+Latitud: -7.1594869999999995
+Longitud: -78.5168463
+Google Maps: https://www.google.com/maps?cid=16010186187509473716
+Place Id: ChIJ9_h7w_5aspERtCFeDoObL94
+Fotos: Complejo monumental Belén Ex hospital de mujeres.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

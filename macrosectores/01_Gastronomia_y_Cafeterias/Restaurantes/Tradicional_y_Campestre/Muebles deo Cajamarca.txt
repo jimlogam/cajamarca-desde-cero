@@ -1,0 +1,17 @@
+Nombre: Muebles deo Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Fábrica de muebles
+Dirección: Av. La Paz 1922, Cajamarca 06001
+Teléfono: 910 104 390
+Rating: 
+Reseñas: 
+Sitio web: https://randi2011.wixsite.com/mueblesdeocajamarca
+Latitud: -7.1792843
+Longitud: -78.5008254
+Google Maps: https://www.google.com/maps?cid=5093377300607932730
+Place Id: ChIJgbwoxohbspEROhnGRatPr0Y
+Fotos: Muebles deo Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

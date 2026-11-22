@@ -1,0 +1,17 @@
+Nombre: GRUPO VALTERRA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia inmobiliaria, Service establishment
+Dirección: 
+Teléfono: 939 149 712
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=12072120865367893309
+Place Id: ChIJByOgVn3NzaARPaXVWffJiKc
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

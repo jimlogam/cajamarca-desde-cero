@@ -1,0 +1,17 @@
+Nombre: HALCONES DELIVERY
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: José Gálvez 347, Cajamarca 06001
+Teléfono: 933 594 582
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1581262
+Longitud: -78.5237106
+Google Maps: https://www.google.com/maps?cid=16311481009033057306
+Place Id: ChIJ8-Uk8O5bspERGhTyR44FXuI
+Fotos: HALCONES DELIVERY.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

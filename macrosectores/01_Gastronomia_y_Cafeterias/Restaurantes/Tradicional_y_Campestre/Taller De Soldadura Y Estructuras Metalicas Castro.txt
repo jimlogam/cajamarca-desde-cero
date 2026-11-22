@@ -1,0 +1,17 @@
+Nombre: Taller De Soldadura Y Estructuras Metalicas Castro
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: El Inca 675, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.159122699999999
+Longitud: -78.5070513
+Google Maps: https://www.google.com/maps?cid=9907564349226191625
+Place Id: ChIJL8uNceNaspERCYvzeEi9fok
+Fotos: Taller De Soldadura Y Estructuras Metalicas Castro.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

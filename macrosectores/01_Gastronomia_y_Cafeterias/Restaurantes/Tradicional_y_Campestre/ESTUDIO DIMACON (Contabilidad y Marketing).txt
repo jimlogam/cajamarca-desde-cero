@@ -1,0 +1,17 @@
+Nombre: ESTUDIO DIMACON (Contabilidad y Marketing)
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contable, Empresa de contabilidad, Consultora de marketing
+Dirección: Jr. Buenos Aire 129 del grifo las torresitas a dos cuadras, Cajamarca 06000
+Teléfono: 958 075 355
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.146044
+Longitud: -78.4986483
+Google Maps: https://www.google.com/maps?cid=3524487999334952424
+Place Id: ChIJt2xGy3xbspER6K18byl_6TA
+Fotos: ESTUDIO DIMACON (Contabilidad y Marketing).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

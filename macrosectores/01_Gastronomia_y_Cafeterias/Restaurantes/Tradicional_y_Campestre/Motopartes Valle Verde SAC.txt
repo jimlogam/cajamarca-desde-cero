@@ -1,0 +1,17 @@
+Nombre: Motopartes Valle Verde SAC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: Av. Manuel Antonio Mesones Muro 506, Cajamarca 06800
+Teléfono: 950 864 081
+Rating: 4.4
+Reseñas: 8
+Sitio web: https://www.facebook.com/valleverdejaen
+Latitud: -5.7137385
+Longitud: -78.8049922
+Google Maps: https://www.google.com/maps?cid=11537949560303337751
+Place Id: ChIJi7FjvXz7tJERF0FBkv4HH6A
+Fotos: Motopartes Valle Verde SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

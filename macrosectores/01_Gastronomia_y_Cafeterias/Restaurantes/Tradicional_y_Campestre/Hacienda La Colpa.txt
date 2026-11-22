@@ -1,0 +1,17 @@
+Nombre: Hacienda La Colpa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Estancia en granjas
+Dirección: Hacienda, La Colpa, Jesús 06370
+Teléfono: 998 827 685
+Rating: 4.3
+Reseñas: 3360
+Sitio web: 
+Latitud: -7.218451
+Longitud: -78.4466357
+Google Maps: https://www.google.com/maps?cid=1220951922845564112
+Place Id: ChIJSwBGzG5DspER0DwKEU6x8RA
+Fotos: Hacienda La Colpa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

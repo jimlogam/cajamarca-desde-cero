@@ -1,0 +1,17 @@
+Nombre: TAXI CARGA Y MUDANZAS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de transporte de mercancías, Service establishment
+Dirección: 
+Teléfono: 926 471 161
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=2646647438782351850
+Place Id: ChIJ85zzTPtgagER6slRstLHuiQ
+Fotos: TAXI CARGA Y MUDANZAS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

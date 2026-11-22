@@ -1,0 +1,17 @@
+Nombre: El Histórico - Complejo Recreativo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Campo de fútbol
+Dirección: 7.1151248,-78.5314167, Cajamarca 06000
+Teléfono: 944 066 968
+Rating: 3.8
+Reseñas: 12
+Sitio web: https://www.facebook.com/profile.php?id=100074637156816
+Latitud: -7.1151943
+Longitud: -78.5314483
+Google Maps: https://www.google.com/maps?cid=14929316302815425475
+Place Id: ChIJgx211YhbspERw_PCGBSWL88
+Fotos: El Histórico - Complejo Recreativo.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

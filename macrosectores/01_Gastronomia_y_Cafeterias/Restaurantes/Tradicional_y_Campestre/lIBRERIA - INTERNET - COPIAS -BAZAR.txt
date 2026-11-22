@@ -1,0 +1,17 @@
+Nombre: lIBRERIA - INTERNET - COPIAS -BAZAR
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: Prol. Revilla Perez 583, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1450416
+Longitud: -78.5112359
+Google Maps: https://www.google.com/maps?cid=15465468279756596833
+Place Id: ChIJa2sckYlbspERYab2-3VhoNY
+Fotos: lIBRERIA - INTERNET - COPIAS -BAZAR.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

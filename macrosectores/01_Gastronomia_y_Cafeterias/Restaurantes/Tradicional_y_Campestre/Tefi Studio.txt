@@ -1,0 +1,17 @@
+Nombre: Tefi Studio
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón de manicura y pedicura
+Dirección: JR, Irene Silva 671, Cajamarca 06002
+Teléfono: 951 225 372
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1513886
+Longitud: -78.50408039999999
+Google Maps: https://www.google.com/maps?cid=5507312028156963110
+Place Id: ChIJg9BVKnJbspERJimIURznbUw
+Fotos: Tefi Studio.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

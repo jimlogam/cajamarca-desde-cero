@@ -1,0 +1,17 @@
+Nombre: El Experto - Electrónica Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de reparación de teléfonos móviles
+Dirección: RFWQ+Q6J, JrSan Salvador, 512Cajamarca 06002
+Teléfono: 993 232 778
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.153047099999999
+Longitud: -78.5119988
+Google Maps: https://www.google.com/maps?cid=8498391593187221733
+Place Id: ChIJCw_mR9lbspER5SAXqiBa8HU
+Fotos: El Experto - Electrónica Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

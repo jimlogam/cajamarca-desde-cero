@@ -1,0 +1,17 @@
+Nombre: JJR Servicios Generales
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: Jr, Los Fresnos 189, Cajamarca
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1494319
+Longitud: -78.51601219999999
+Google Maps: https://www.google.com/maps?cid=6419045032898404021
+Place Id: ChIJCWsQH6RbspERtR4lp3IHFVk
+Fotos: JJR Servicios Generales.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

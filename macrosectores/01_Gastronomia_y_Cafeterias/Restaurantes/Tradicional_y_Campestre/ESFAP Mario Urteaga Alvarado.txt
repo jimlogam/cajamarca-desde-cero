@@ -1,0 +1,17 @@
+Nombre: ESFAP "Mario Urteaga Alvarado"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Escuela de arte
+Dirección: Los Álamos 586, Cajamarca 06001
+Teléfono: (076) 364743
+Rating: 4.5
+Reseñas: 22
+Sitio web: http://esfapmua.edu.pe/
+Latitud: -7.1436524
+Longitud: -78.5230922
+Google Maps: https://www.google.com/maps?cid=3973122122156163630
+Place Id: ChIJEa4ByV9aspERLkJdBIVdIzc
+Fotos: ESFAP Mario Urteaga Alvarado.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Servicios "ELKIN"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Soldador
+Dirección: Al frente de la Parroquia, Colonial 541, Cajamarca 06003
+Teléfono: 976 125 950
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.175572799999999
+Longitud: -78.50055329999999
+Google Maps: https://www.google.com/maps?cid=17606509003290028910
+Place Id: ChIJkT7q-xVbspERbqvRu6fiVvQ
+Fotos: Servicios ELKIN.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

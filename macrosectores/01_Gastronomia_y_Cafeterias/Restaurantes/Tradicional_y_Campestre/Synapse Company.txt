@@ -1,0 +1,17 @@
+Nombre: Synapse Company
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de software, Ingeniero aeronáutico, Ingeniero de investigación
+Dirección: Pje. Vergara 112, Cajamarca 06002
+Teléfono: 980 655 030
+Rating: 
+Reseñas: 
+Sitio web: https://synapse.pe/
+Latitud: -7.1584259
+Longitud: -78.507742
+Google Maps: https://www.google.com/maps?cid=11651147821819319933
+Place Id: ChIJO05qXuNaspERfVYbqTYxsaE
+Fotos: Synapse Company.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

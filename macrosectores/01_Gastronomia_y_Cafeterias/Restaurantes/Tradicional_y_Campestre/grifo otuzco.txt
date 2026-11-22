@@ -1,0 +1,17 @@
+Nombre: grifo otuzco
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: VG7F+8PC, Cajamarca 06000
+Teléfono: 
+Rating: 3.3
+Reseñas: 21
+Sitio web: 
+Latitud: -7.1366878
+Longitud: -78.47572579999999
+Google Maps: https://www.google.com/maps?cid=3988353373522845639
+Place Id: ChIJAyL-rrRaspERx1-PE0N6WTc
+Fotos: grifo otuzco.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

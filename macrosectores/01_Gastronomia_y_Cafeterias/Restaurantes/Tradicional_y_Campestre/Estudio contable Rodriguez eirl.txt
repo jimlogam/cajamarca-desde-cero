@@ -1,0 +1,17 @@
+Nombre: Estudio contable Rodriguez eirl
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: 7.1555820, -78.5077731, El Capulí, Cajamarca 06002
+Teléfono: 927 995 539
+Rating: 5
+Reseñas: 9
+Sitio web: 
+Latitud: -7.1556273
+Longitud: -78.5077285
+Google Maps: https://www.google.com/maps?cid=8694139452076529399
+Place Id: ChIJS3FbMQBbspER9xa7pMTJp3g
+Fotos: Estudio contable Rodriguez eirl.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

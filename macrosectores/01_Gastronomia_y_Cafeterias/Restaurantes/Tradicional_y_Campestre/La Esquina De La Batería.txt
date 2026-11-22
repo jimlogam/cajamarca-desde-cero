@@ -1,0 +1,17 @@
+Nombre: La Esquina De La Batería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de electrónica
+Dirección: Av San Martín de Porres 1560, Cajamarca 06003
+Teléfono: 938 552 235
+Rating: 3.7
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1750926999999995
+Longitud: -78.4974634
+Google Maps: https://www.google.com/maps?cid=13930027702740588647
+Place Id: ChIJD7HBXT1bspERZxg0JWRmUcE
+Fotos: La Esquina De La Batería.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

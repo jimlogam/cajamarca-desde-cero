@@ -1,0 +1,17 @@
+Nombre: Imprenta G&M
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: Jr. José Sabogal 973, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1568223
+Longitud: -78.5142207
+Google Maps: https://www.google.com/maps?cid=16323476316566852528
+Place Id: ChIJkwovw_taspERsBN4dDmjiOI
+Fotos: Imprenta G&M.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

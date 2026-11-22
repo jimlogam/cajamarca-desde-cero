@@ -1,0 +1,17 @@
+Nombre: Clínica Los Fresnos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro médico
+Dirección: Los Nogales 179, Cajamarca 06001
+Teléfono: (076) 364046
+Rating: 2.6
+Reseñas: 87
+Sitio web: https://clinicalosfresnos.com.pe/
+Latitud: -7.148125599999999
+Longitud: -78.5149789
+Google Maps: https://www.google.com/maps?cid=12077727933802636953
+Place Id: ChIJ96-iVPFaspERmWYetJC1nKc
+Fotos: Clínica Los Fresnos.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

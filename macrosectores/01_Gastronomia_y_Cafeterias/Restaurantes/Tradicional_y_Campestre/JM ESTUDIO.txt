@@ -1,0 +1,17 @@
+Nombre: JM ESTUDIO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón de manicura y pedicura
+Dirección: Av. La Paz 725, Cajamarca 06001
+Teléfono: 950 240 259
+Rating: 
+Reseñas: 
+Sitio web: https://www.tiktok.com/@janemisa0408
+Latitud: -7.1700193
+Longitud: -78.5071059
+Google Maps: https://www.google.com/maps?cid=2274271574751809121
+Place Id: ChIJX7KnChtbspERYY7Zl_LVjx8
+Fotos: JM ESTUDIO.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Encanto Accesorios
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de accesorios de moda
+Dirección: Jr.Amazonas 845, Cajamarca 06000
+Teléfono: 982 635 588
+Rating: 5
+Reseñas: 1
+Sitio web: https://wa.me/51982635588
+Latitud: -7.1574971
+Longitud: -78.5149658
+Google Maps: https://www.google.com/maps?cid=11372753607075608779
+Place Id: ChIJy5k35GVbspERy7jIcyYj1J0
+Fotos: Encanto Accesorios.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

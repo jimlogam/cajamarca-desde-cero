@@ -1,0 +1,17 @@
+Nombre: Sierra Dorada - Cajamarca Tours
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: Las Cucardas 186, Cajamarca 06000
+Teléfono: 994 846 599
+Rating: 4.6
+Reseñas: 17
+Sitio web: http://www.sierradoradacajamarca.com.pe/
+Latitud: -7.1484809
+Longitud: -78.5230634
+Google Maps: https://www.google.com/maps?cid=15902657641997035383
+Place Id: ChIJQe8m0VhaspERd2fil96Wsdw
+Fotos: Sierra Dorada - Cajamarca Tours.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

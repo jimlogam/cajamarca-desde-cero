@@ -1,0 +1,17 @@
+Nombre: CAMARAS DE SEGURIDAD - GASFITERIA - ELECTRICIDAD DRYWALL- Enchapados - THS Servicios Generales -
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contratista
+Dirección: Jirón Manuel Seoane 178, Cajamarca 06001
+Teléfono: 973 910 116
+Rating: 3
+Reseñas: 1
+Sitio web: https://constructorab3.com.pe/
+Latitud: -7.151209199999999
+Longitud: -78.5121101
+Google Maps: https://www.google.com/maps?cid=9550529267268070408
+Place Id: ChIJ8ffpbqpbspERCCx8iMRLioQ
+Fotos: CAMARAS DE SEGURIDAD - GASFITERIA - ELECTRICIDAD DRYWALL- Enchapados - THS Servicios Generales -.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Servinorte
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Soporte y servicios informáticos
+Dirección: Av. Mario Urteaga 157, Cajamarca 06002
+Teléfono: 976 641 714
+Rating: 4.1
+Reseñas: 14
+Sitio web: 
+Latitud: -7.157995499999999
+Longitud: -78.5113001
+Google Maps: https://www.google.com/maps?cid=3272229930585745839
+Place Id: ChIJ25NuY_taspERr-n268hLaS0
+Fotos: Servinorte.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

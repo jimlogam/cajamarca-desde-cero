@@ -1,0 +1,17 @@
+Nombre: D&M. SERVICIOS GENERALES.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Electricista
+Dirección: Jr, Leoncio Prado 303, Cajamarca 06001
+Teléfono: 986 439 740
+Rating: 5
+Reseñas: 2
+Sitio web: https://www.facebook.com/p/Servitec-Denis-61553237440957/
+Latitud: -7.1546183999999995
+Longitud: -78.5120953
+Google Maps: https://www.google.com/maps?cid=7895547194736195305
+Place Id: ChIJoWfVQ-hbspER6TaVWVeekm0
+Fotos: D&M. SERVICIOS GENERALES.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 8 veces en los archivos de la cosecha original; fusionado en uno.
+

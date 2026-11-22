@@ -1,0 +1,17 @@
+Nombre: MOLINO TROPICAL NUEVA CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Molino de arroz
+Dirección: 511, 22845
+Teléfono: (042) 797046
+Rating: 4.7
+Reseñas: 3
+Sitio web: 
+Latitud: -5.9285707
+Longitud: -77.3077732
+Google Maps: https://www.google.com/maps?cid=4473069482896924409
+Place Id: ChIJnbo8AWXdtpER-R62z_6IEz4
+Fotos: MOLINO TROPICAL NUEVA CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

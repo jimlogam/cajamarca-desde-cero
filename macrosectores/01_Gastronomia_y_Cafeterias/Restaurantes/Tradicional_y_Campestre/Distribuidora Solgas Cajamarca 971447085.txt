@@ -1,0 +1,17 @@
+Nombre: Distribuidora Solgas Cajamarca 971447085
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Instalador de gas
+Dirección: Jr. Ramiro Bardales y, Cajamarca 06003
+Teléfono: 971 447 085
+Rating: 
+Reseñas: 
+Sitio web: http://www.facebook.com/solgas.cajamarca.7
+Latitud: -7.186471399999999
+Longitud: -78.5033772
+Google Maps: https://www.google.com/maps?cid=3726871388595426825
+Place Id: ChIJ1fVoIblbspERCRbMOMiBuDM
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

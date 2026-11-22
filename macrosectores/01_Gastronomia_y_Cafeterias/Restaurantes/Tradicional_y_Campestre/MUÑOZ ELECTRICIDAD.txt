@@ -1,0 +1,17 @@
+Nombre: MUÑOZ ELECTRICIDAD
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Electricista
+Dirección: Jiron. San Martin, Nueva Cajamarca 22846
+Teléfono: 927 558 869
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -5.9421158
+Longitud: -77.3091331
+Google Maps: https://www.google.com/maps?cid=2425716645076279138
+Place Id: ChIJdayYbQDdtpERYh-Gy2_gqSE
+Fotos: MUÑOZ ELECTRICIDAD.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

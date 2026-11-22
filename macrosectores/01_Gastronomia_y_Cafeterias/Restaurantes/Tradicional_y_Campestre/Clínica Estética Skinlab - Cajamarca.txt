@@ -1,0 +1,17 @@
+Nombre: Clínica Estética Skinlab - Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Clínica especializada
+Dirección: Av. Hoyos Rubio 3200, Cajamarca 06001
+Teléfono: 900 510 195
+Rating: 
+Reseñas: 
+Sitio web: https://skinlabcajamarca.company.site/
+Latitud: -7.1465891
+Longitud: -78.4926885
+Google Maps: https://www.google.com/maps?cid=3505451088420677725
+Place Id: ChIJGaUoPMJbspERXSjSNjHdpTA
+Fotos: Clínica Estética Skinlab - Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

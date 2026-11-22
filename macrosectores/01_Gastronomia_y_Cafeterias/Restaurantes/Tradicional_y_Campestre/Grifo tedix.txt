@@ -1,0 +1,17 @@
+Nombre: Grifo tedix
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: caja Cajamarca, Celendin, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1655232
+Longitud: -78.5017154
+Google Maps: https://www.google.com/maps?cid=8063129988608826884
+Place Id: ChIJd1PvUABbspERBB7UHAH-5W8
+Fotos: Grifo tedix.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

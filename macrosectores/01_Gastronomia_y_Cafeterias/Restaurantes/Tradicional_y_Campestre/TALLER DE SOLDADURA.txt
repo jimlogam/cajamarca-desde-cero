@@ -1,0 +1,17 @@
+Nombre: TALLER DE SOLDADURA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Fábrica
+Dirección: Av San Martín de Porres 2028, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1808643
+Longitud: -78.493139
+Google Maps: https://www.google.com/maps?cid=14946333333217342360
+Place Id: ChIJ9d7C-DhbspERmPP_PPoKbM8
+Fotos: TALLER DE SOLDADURA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

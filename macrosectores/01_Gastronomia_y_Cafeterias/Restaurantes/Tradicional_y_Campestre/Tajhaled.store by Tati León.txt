@@ -1,0 +1,17 @@
+Nombre: Tajhaled.store by Tati León
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de cosméticos
+Dirección: RG73+JWX, Av Larry Jhonson, Cajamarca 06003
+Teléfono: 943 331 111
+Rating: 5
+Reseñas: 1
+Sitio web: https://wa.me/qr/XCYGQPGNHGUAK1
+Latitud: -7.1858794999999995
+Longitud: -78.4951274
+Google Maps: https://www.google.com/maps?cid=15318111531430495357
+Place Id: ChIJo7BafwBbspERfcS6bEfdlNQ
+Fotos: Tajhaled.store by Tati León.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

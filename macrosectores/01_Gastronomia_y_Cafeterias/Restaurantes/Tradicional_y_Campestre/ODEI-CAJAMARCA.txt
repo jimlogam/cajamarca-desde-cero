@@ -1,0 +1,17 @@
+Nombre: ODEI-CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Instituto de Geografía y Estadística
+Dirección: Jirón del Comercio 629, Cajamarca 06001
+Teléfono: (076) 366006
+Rating: 4.1
+Reseñas: 27
+Sitio web: 
+Latitud: -7.155922299999999
+Longitud: -78.5197766
+Google Maps: https://www.google.com/maps?cid=5440292206031974063
+Place Id: ChIJP2hKiPhaspERr67c_u_Mf0s
+Fotos: ODEI-CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

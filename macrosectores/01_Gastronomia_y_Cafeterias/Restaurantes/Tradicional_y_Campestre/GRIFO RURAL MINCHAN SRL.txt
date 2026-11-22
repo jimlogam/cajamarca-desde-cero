@@ -1,0 +1,17 @@
+Nombre: GRIFO RURAL MINCHAN SRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: VFMV+P97 CASERIO ROSARIORCO, Cajamarca 06000
+Teléfono: 
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.115708799999999
+Longitud: -78.5065882
+Google Maps: https://www.google.com/maps?cid=18224162103621978085
+Place Id: ChIJ82r_UgBRspER5QeGo-A66fw
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

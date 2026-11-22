@@ -1,0 +1,17 @@
+Nombre: La casa de las balanzas Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de electrodomésticos
+Dirección: Jr. Iquique 106, Cajamarca 06001
+Teléfono: 986 309 492
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.149453899999999
+Longitud: -78.51760259999999
+Google Maps: https://www.google.com/maps?cid=10530845166382647785
+Place Id: ChIJy1IyRZNbspER6YngTuITJZI
+Fotos: La casa de las balanzas Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

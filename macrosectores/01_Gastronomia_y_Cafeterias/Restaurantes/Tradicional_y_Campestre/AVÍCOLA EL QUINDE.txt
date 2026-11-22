@@ -1,0 +1,17 @@
+Nombre: AVÍCOLA " EL QUINDE "
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Pajarería
+Dirección: La victoria, llacanora, Cajamarca
+Teléfono: 983 883 489
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1938846
+Longitud: -78.42613899999999
+Google Maps: https://www.google.com/maps?cid=1873068963873006065
+Place Id: ChIJXQbMKe1bspER8aF1d0x6_hk
+Fotos: AVÍCOLA EL QUINDE.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

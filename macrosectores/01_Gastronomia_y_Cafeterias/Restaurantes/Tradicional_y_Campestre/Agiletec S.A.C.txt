@@ -1,0 +1,17 @@
+Nombre: Agiletec S.A.C
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Soporte y servicios informáticos
+Dirección: Av Vía de Evitamiento 2316, Cajamarca 06002
+Teléfono: 928 295 040
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1561486
+Longitud: -78.5082667
+Google Maps: https://www.google.com/maps?cid=11969283467645889225
+Place Id: ChIJVxexsk1bspERySr92OVvG6Y
+Fotos: Agiletec S.A.C.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

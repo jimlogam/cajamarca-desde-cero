@@ -1,0 +1,17 @@
+Nombre: Inka Chef Escuela De Gastronomia
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Escuela de cocina
+Dirección: Amalia Puga 817, Cajamarca 06002
+Teléfono: 955 642 322
+Rating: 3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.158389499999999
+Longitud: -78.51580969999999
+Google Maps: https://www.google.com/maps?cid=10300272882845538764
+Place Id: ChIJyabusv5aspERzNmYH53r8Y4
+Fotos: Inka Chef Escuela De Gastronomia.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

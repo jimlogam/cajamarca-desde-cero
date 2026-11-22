@@ -1,0 +1,17 @@
+Nombre: CASA EN VENTA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia inmobiliaria
+Dirección: VF4G+7QP, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1442793
+Longitud: -78.5230474
+Google Maps: https://www.google.com/maps?cid=5315093468760818906
+Place Id: ChIJJ6HqpdZbspER2sR8aVkBw0k
+Fotos: CASA EN VENTA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

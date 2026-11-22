@@ -1,0 +1,17 @@
+Nombre: Motocorp Honda Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Concesionario de motos, Tienda de repuestos para motos, Tienda de motocicletas
+Dirección: Av. Vía de Evitamiento Sur 289, Cajamarca 06002
+Teléfono: 
+Rating: 3.7
+Reseñas: 39
+Sitio web: http://www.motocorp.pe/
+Latitud: -7.159139499999999
+Longitud: -78.5059864
+Google Maps: https://www.google.com/maps?cid=9778148416463402075
+Place Id: ChIJwb-CseNaspERW3RZjC32soc
+Fotos: Motocorp Honda Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

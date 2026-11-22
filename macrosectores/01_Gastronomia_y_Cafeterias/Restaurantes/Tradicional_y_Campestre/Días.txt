@@ -1,0 +1,17 @@
+Nombre: Días
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de excursiones en autobús
+Dirección: VG55+C7H, Av. El Triunfo, Cajamarca 06001
+Teléfono: 
+Rating: 4.1
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1414313
+Longitud: -78.49177259999999
+Google Maps: https://www.google.com/maps?cid=14864043558929129742
+Place Id: ChIJi8B_Wn1bspERDmHnH92wR84
+Fotos: Días.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

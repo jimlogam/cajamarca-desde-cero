@@ -1,0 +1,17 @@
+Nombre: Soporte Técnico "Caxas Technology"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de informática
+Dirección: Av. Atahualpa 165, Cajamarca 06002
+Teléfono: 965 333 221
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.165083999999999
+Longitud: -78.50870429999999
+Google Maps: https://www.google.com/maps?cid=8786922954811269453
+Place Id: ChIJjwCsIX1bspERTWFATt9r8Xk
+Fotos: Soporte Técnico Caxas Technology.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

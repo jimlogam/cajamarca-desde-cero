@@ -1,0 +1,17 @@
+Nombre: Black Color - Gigantografias
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de publicidad
+Dirección: Jr, San Sebastián 114, Cajamarca 06002
+Teléfono: 938 461 968
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1616532
+Longitud: -78.5134243
+Google Maps: https://www.google.com/maps?cid=16622176991003067495
+Place Id: ChIJTxh2LENbspERZ8RovufVreY
+Fotos: Black Color - Gigantografias.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

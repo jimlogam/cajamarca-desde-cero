@@ -1,0 +1,17 @@
+Nombre: NES Cajamarca - Neabit Electronic Store
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de electrónica
+Dirección: Los Leones 167, Cajamarca 06002
+Teléfono: 997 356 685
+Rating: 4.5
+Reseñas: 70
+Sitio web: https://www.facebook.com/NeaBit/
+Latitud: -7.1540465
+Longitud: -78.5083159
+Google Maps: https://www.google.com/maps?cid=1592376255527612488
+Place Id: ChIJYVyEDmVbspERSHB9g8RBGRY
+Fotos: NES Cajamarca - Neabit Electronic Store.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: CAXAGAS CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: Jr. San Martin, Cajamarca 06002
+Teléfono: (076) 365353
+Rating: 2.7
+Reseñas: 12
+Sitio web: http://www.caxagas.pe/nosotros.html
+Latitud: -7.1550376
+Longitud: -78.5157586
+Google Maps: https://www.google.com/maps?cid=8064310908087953817
+Place Id: ChIJCeKVstBbspERmenjWgsw6m8
+Fotos: CAXAGAS CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Lubricentro Tongod
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: Av Vía de Evitamiento Nte 655, Cajamarca 06001
+Teléfono: 984 094 269
+Rating: 4
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1462647
+Longitud: -78.5207884
+Google Maps: https://www.google.com/maps?cid=17136392611281369502
+Place Id: ChIJpZqFrpJbspERnvkNl0my0O0
+Fotos: Lubricentro Tongod.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

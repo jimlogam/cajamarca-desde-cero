@@ -1,0 +1,17 @@
+Nombre: CLINICA DEL RIÑON CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro médico
+Dirección: Túpac Amaru N° 1421, Cajamarca 06003
+Teléfono: 947 337 986
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1802907
+Longitud: -78.5020065
+Google Maps: https://www.google.com/maps?cid=7877029379523881048
+Place Id: ChIJKe9gEYdbspERWCjWg3zUUG0
+Fotos: CLINICA DEL RIÑON CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

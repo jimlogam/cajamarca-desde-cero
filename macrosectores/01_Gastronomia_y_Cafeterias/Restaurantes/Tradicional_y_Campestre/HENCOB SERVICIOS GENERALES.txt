@@ -1,0 +1,17 @@
+Nombre: HENCOB SERVICIOS GENERALES
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Constructor
+Dirección: 06001, Cajamarca 06001
+Teléfono: 990 719 309
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1335806999999996
+Longitud: -78.5094246
+Google Maps: https://www.google.com/maps?cid=11244862321654139303
+Place Id: ChIJ3bss8BVbspERp4leJrTGDZw
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

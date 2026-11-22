@@ -1,0 +1,17 @@
+Nombre: MUNDO CREATIVO. Libreria Bazar (I.J.Jh))
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Bazar
+Dirección: Carretera a Bambamarca, 3N 442a, Cajamarca 06001
+Teléfono: 901 882 923
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1245885
+Longitud: -78.524081
+Google Maps: https://www.google.com/maps?cid=12802465746054220298
+Place Id: ChIJaeb__qdbspERCgqrAsR-q7E
+Fotos: MUNDO CREATIVO. Libreria Bazar (I.J.Jh)).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

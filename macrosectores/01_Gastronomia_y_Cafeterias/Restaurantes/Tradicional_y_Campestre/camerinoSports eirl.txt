@@ -1,0 +1,17 @@
+Nombre: camerinoSports eirl
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de deportes
+Dirección: intersección pasaje las Hortensias Una cuadra Frente al Real plaza, Jirón Ayacucho cuadra 15, Cajamarca 06001
+Teléfono: 933 825 682
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.154338399999999
+Longitud: -78.5070496
+Google Maps: https://www.google.com/maps?cid=8610680423404617891
+Place Id: ChIJ6eq2Z5tbspERo0BxRzlIf3c
+Fotos: camerinoSports eirl.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

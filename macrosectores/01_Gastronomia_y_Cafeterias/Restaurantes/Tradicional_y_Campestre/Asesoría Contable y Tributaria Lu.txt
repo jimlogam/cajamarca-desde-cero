@@ -1,0 +1,17 @@
+Nombre: Asesoría Contable y Tributaria Lu
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de registros contables, Service establishment
+Dirección: 
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: http://www.linkedin.com/in/%20milagros-gallardo-3185122b8
+Latitud: -9.2435385
+Longitud: -75.01950459999999
+Google Maps: https://www.google.com/maps?cid=13629062645622730109
+Place Id: ChIJkR6al4fmZqoRfW3jLUQoJL0
+Fotos: Asesoría Contable y Tributaria Lu.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

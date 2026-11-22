@@ -1,0 +1,17 @@
+Nombre: Alfatec - Gastronomía
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Escuela técnica
+Dirección: Jirón del Comercio 251, Cajamarca 06001
+Teléfono: 942 218 040
+Rating: 4.6
+Reseñas: 15
+Sitio web: 
+Latitud: -7.154600599999999
+Longitud: -78.5213852
+Google Maps: https://www.google.com/maps?cid=5237542794777000325
+Place Id: ChIJW9XBCglbspERhfmWEmx9r0g
+Fotos: Alfatec - Gastronomía.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

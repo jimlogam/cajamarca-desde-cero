@@ -1,0 +1,17 @@
+Nombre: ServiteC | Servicio Técnico Samsung
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de reparación de electrodomésticos
+Dirección: 06001, Cajamarca 06001
+Teléfono: 941 258 782
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1457787999999995
+Longitud: -78.5184159
+Google Maps: https://www.google.com/maps?cid=2334718117305282087
+Place Id: ChIJN-6lumdbspERJ26mAMKVZiA
+Fotos: ServiteC - Servicio Técnico Samsung.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

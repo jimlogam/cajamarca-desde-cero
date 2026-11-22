@@ -1,0 +1,17 @@
+Nombre: Estudio Contable RED Consultores S.R.L.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contable, Oficinas de empresa, Asesoría laboral
+Dirección: Jirón 28 de Octubre 227, Cajamarca 06003
+Teléfono: 935 750 653
+Rating: 3.7
+Reseñas: 6
+Sitio web: https://redconperu.com/
+Latitud: -7.1761056
+Longitud: -78.5074777
+Google Maps: https://www.google.com/maps?cid=10357743152964144462
+Place Id: ChIJ_2IRTxBbspERTo0pG4UYvo8
+Fotos: Estudio Contable RED Consultores S.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

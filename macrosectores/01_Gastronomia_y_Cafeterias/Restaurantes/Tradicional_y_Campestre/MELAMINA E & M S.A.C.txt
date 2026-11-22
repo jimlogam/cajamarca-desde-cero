@@ -1,0 +1,17 @@
+Nombre: MELAMINA E & M S.A.C.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Fábrica de muebles
+Dirección: Avenida San Martin N° 2318, Cajamarca 06001
+Teléfono: 930 485 273
+Rating: 5
+Reseñas: 10
+Sitio web: https://melaminaeym.blogspot.com/
+Latitud: -7.183542999999999
+Longitud: -78.49148
+Google Maps: https://www.google.com/maps?cid=7225633397033702090
+Place Id: ChIJSYzwr59bspERypJko0qbRmQ
+Fotos: MELAMINA E & M S.A.C.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

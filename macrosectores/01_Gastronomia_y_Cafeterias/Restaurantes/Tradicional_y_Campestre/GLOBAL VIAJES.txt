@@ -1,0 +1,17 @@
+Nombre: GLOBAL VIAJES
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: Jr. Apurimac 613, Cajamarca 06001
+Teléfono: 921 914 833
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1571948
+Longitud: -78.5198869
+Google Maps: https://www.google.com/maps?cid=11280761660892327635
+Place Id: ChIJOb3VZABbspER0y5VafZQjZw
+Fotos: GLOBAL VIAJES.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

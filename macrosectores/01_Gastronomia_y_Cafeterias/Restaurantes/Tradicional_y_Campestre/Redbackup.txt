@@ -1,0 +1,17 @@
+Nombre: Redbackup
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de informática, Servicio de reparación de impresoras
+Dirección: Pje Libertad con, Cajamarca 06002
+Teléfono: 951 979 921
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1653033
+Longitud: -78.51433039999999
+Google Maps: https://www.google.com/maps?cid=4750216493168508159
+Place Id: ChIJR_r2YSdbspER_7yCmbso7EE
+Fotos: Redbackup.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

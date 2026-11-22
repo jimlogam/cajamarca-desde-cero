@@ -1,0 +1,17 @@
+Nombre: Calimod Store | MegaPlaza Cajamarca | Zapatos de cuero
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Zapatería
+Dirección: C. C. MegaPlazaPlaza 151, Cajamarca 06001
+Teléfono: 949 741 030
+Rating: 4.9
+Reseñas: 27
+Sitio web: https://www.calimodstore.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb
+Latitud: -7.1489454
+Longitud: -78.5098885
+Google Maps: https://www.google.com/maps?cid=4798914097111070066
+Place Id: ChIJf7Bwl8RbspERcnXrEfIqmUI
+Fotos: Calimod Store - MegaPlaza Cajamarca - Zapatos de cuero.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

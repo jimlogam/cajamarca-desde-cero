@@ -1,0 +1,17 @@
+Nombre: Automotriz Cajamarca SAC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: Juan XXIII 101, Cajamarca 06002
+Teléfono: 
+Rating: 2.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1629422
+Longitud: -78.51071809999999
+Google Maps: https://www.google.com/maps?cid=2125449965227780430
+Place Id: ChIJY4lfL0lbspERTqlEdXsdfx0
+Fotos: Automotriz Cajamarca SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

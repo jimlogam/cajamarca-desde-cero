@@ -1,0 +1,17 @@
+Nombre: Estudio Jurídico V&C Abogados Asociados
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia inmobiliaria
+Dirección: Jr. Apurimac 630, Cajamarca 06001
+Teléfono: 993 760 127
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1571286999999995
+Longitud: -78.5196959
+Google Maps: https://www.google.com/maps?cid=3765260206004026428
+Place Id: ChIJYb7XcwBbspERPLzISTXkQDQ
+Fotos: Estudio Jurídico V&C Abogados Asociados.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

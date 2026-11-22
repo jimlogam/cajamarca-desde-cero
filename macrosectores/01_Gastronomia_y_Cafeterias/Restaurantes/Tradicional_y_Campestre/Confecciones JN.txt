@@ -1,0 +1,17 @@
+Nombre: Confecciones JN
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Sastre
+Dirección: Jirón Las Casuarinas 148, Cajamarca 06001
+Teléfono: 974 669 905
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.146435299999999
+Longitud: -78.5181691
+Google Maps: https://www.google.com/maps?cid=15922146521119846392
+Place Id: ChIJsQq8NQBbspER-O8R3ebT9tw
+Fotos: Confecciones JN.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Grupo Julio Quiroz
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Consultora de administración empresarial
+Dirección: José Olaya, Cajamarca 06002
+Teléfono: 992 448 463
+Rating: 
+Reseñas: 
+Sitio web: https://conexaperu.com/
+Latitud: -7.1643446
+Longitud: -78.5065654
+Google Maps: https://www.google.com/maps?cid=315889987613361781
+Place Id: ChIJ0f92T5tbspERdQbMI0VEYgQ
+Fotos: Grupo Julio Quiroz.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

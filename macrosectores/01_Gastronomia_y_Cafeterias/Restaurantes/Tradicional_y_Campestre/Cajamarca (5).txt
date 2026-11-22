@@ -1,0 +1,17 @@
+Nombre: Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carnicería
+Dirección: Pje. Breña 167, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.168523599999999
+Longitud: -78.515726
+Google Maps: https://www.google.com/maps?cid=4526661093750030151
+Place Id: ChIJ95vPQABbspERRz-ND0ju0T4
+Fotos: Cajamarca (5).jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

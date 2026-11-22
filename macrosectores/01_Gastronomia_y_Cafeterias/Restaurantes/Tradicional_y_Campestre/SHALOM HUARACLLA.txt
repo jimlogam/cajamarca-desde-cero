@@ -1,0 +1,17 @@
+Nombre: SHALOM HUARACLLA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de transporte por camión
+Dirección: QH8Q+QJ7 Cp Huaraclla, Mz. A Lote S/n, Cajamarca
+Teléfono: 
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.2330757
+Longitud: -78.4109668
+Google Maps: https://www.google.com/maps?cid=6861415522919274818
+Place Id: ChIJG1xZGwBDspERQln0kxClOF8
+Fotos: SHALOM HUARACLLA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Taller ebanistería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carpintero
+Dirección: RFGX+9Q7, Cajamarca 06003
+Teléfono: 993 360 516
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/share/15gniQjD9e/
+Latitud: -7.1740927999999995
+Longitud: -78.5005661
+Google Maps: https://www.google.com/maps?cid=15368706189395317782
+Place Id: ChIJAT3vEwBbspERFlRBNNqcSNU
+Fotos: Taller ebanistería.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

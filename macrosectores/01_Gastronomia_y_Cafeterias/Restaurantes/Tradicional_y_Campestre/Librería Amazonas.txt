@@ -1,0 +1,17 @@
+Nombre: Librería Amazonas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: Jr.Amazonas 848, Cajamarca 06001
+Teléfono: 998 091 779
+Rating: 4.2
+Reseñas: 19
+Sitio web: https://www.facebook.com/libreriaamazonas?mibextid=2JQ9oc
+Latitud: -7.1577031
+Longitud: -78.5149223
+Google Maps: https://www.google.com/maps?cid=10051456904706084981
+Place Id: ChIJhVYjUAVbspERdVAnyMzyfYs
+Fotos: Librería Amazonas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

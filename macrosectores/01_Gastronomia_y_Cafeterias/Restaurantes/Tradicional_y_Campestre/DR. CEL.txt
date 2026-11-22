@@ -1,0 +1,17 @@
+Nombre: DR. CEL.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de reparación de teléfonos móviles
+Dirección: Dos de Mayo 634, Cajamarca 06001
+Teléfono: (076) 265394
+Rating: 3.8
+Reseñas: 30
+Sitio web: https://www.facebook.com/Dr.cel.caj
+Latitud: -7.156222199999999
+Longitud: -78.51597319999999
+Google Maps: https://www.google.com/maps?cid=6797257082424207322
+Place Id: ChIJ_5ADd_laspER2ifnlE21VF4
+Fotos: DR. CEL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

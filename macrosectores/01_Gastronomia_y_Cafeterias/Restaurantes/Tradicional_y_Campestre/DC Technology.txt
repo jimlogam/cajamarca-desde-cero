@@ -1,0 +1,17 @@
+Nombre: DC Technology
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de informática
+Dirección: Jr. Revilla Pérez 567, Cajamarca 06001
+Teléfono: 981 162 268
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1576536
+Longitud: -78.5202798
+Google Maps: https://www.google.com/maps?cid=1836096343363710717
+Place Id: ChIJ7doxYgZbspER_W6Wb-Ufexk
+Fotos: DC Technology.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

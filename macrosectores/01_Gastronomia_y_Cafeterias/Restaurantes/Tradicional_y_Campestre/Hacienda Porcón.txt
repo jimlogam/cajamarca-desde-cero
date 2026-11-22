@@ -1,0 +1,17 @@
+Nombre: Hacienda Porcón
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: 06000
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.083333
+Longitud: -78.583333
+Google Maps: https://www.google.com/maps?cid=2991549847884315787
+Place Id: ChIJ_22G1SBXspERi7wEm7wehCk
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

@@ -1,0 +1,17 @@
+Nombre: LEXUS KIDS REAL PLAZA CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería infantil
+Dirección: C.c. Real plaza Cajamarca Sector n10, San Antonio, Cajamarca 06001
+Teléfono: 946 552 474
+Rating: 
+Reseñas: 
+Sitio web: http://www.lexuseditores.com.pe/
+Latitud: -7.1541558
+Longitud: -78.5056632
+Google Maps: https://www.google.com/maps?cid=3428088816701912067
+Place Id: ChIJD4799ulbspERA7QBsp0Eky8
+Fotos: LEXUS KIDS REAL PLAZA CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

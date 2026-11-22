@@ -1,0 +1,17 @@
+Nombre: Arena Kids
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Profesor de natación
+Dirección: Tatuar Huaca 331, Cajamarca 06004
+Teléfono: 937 510 451
+Rating: 5
+Reseñas: 1
+Sitio web: https://arena-kids.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1617465
+Longitud: -78.51278549999999
+Google Maps: https://www.google.com/maps?cid=4946002935400397874
+Place Id: ChIJR2Mx4WRbspERMnyU9na7o0Q
+Fotos: Arena Kids.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: EL CHATO-SERVICIOS DE LLANTAS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Av. Mártires de Uchuraccay 310, Cajamarca 06003
+Teléfono: 920 450 198
+Rating: 4.4
+Reseñas: 16
+Sitio web: 
+Latitud: -7.1671838999999995
+Longitud: -78.5036411
+Google Maps: https://www.google.com/maps?cid=455681791156944446
+Place Id: ChIJ0bVJt3NbspERPv6FvCzoUgY
+Fotos: EL CHATO-SERVICIOS DE LLANTAS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: TECNOPERU AUTOMOTRIZ
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: San Camilo 134, Cajamarca 06003
+Teléfono: 976 399 877
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.182766399999999
+Longitud: -78.4903001
+Google Maps: https://www.google.com/maps?cid=14474373008965764607
+Place Id: ChIJbSrtD4FbspER_wXoKZBN38g
+Fotos: TECNOPERU AUTOMOTRIZ.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

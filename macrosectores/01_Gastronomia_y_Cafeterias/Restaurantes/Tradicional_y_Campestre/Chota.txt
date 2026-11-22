@@ -1,0 +1,17 @@
+Nombre: Chota
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: Paradero Bambamarca, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.147131
+Longitud: -78.5244551
+Google Maps: https://www.google.com/maps?cid=5877295168084690059
+Place Id: ChIJoRDr-0dbspERi8TO7dBYkFE
+Fotos: Chota.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

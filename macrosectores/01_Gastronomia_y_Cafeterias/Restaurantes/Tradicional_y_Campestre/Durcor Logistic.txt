@@ -1,0 +1,17 @@
+Nombre: Durcor Logistic
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de informática
+Dirección: Jirón del Comercio 419, Cajamarca 06001
+Teléfono: (076) 285377
+Rating: 4.5
+Reseñas: 4
+Sitio web: http://www.facebook.com/durcorlogistic
+Latitud: -7.1551982999999995
+Longitud: -78.5206482
+Google Maps: https://www.google.com/maps?cid=10459320010622220409
+Place Id: ChIJhxW5BFBbspERebhFQSL4JpE
+Fotos: Durcor Logistic.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: LIBRERÍA & INTERNET JIREH
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería cristiana
+Dirección: Jirón Ciro Alegria 442, Cajamarca 06003
+Teléfono: 927 167 570
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1626777
+Longitud: -78.5230973
+Google Maps: https://www.google.com/maps?cid=14945568198126835342
+Place Id: ChIJqaAyucBbspERjpa5VxdTac8
+Fotos: LIBRERÍA & INTERNET JIREH.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

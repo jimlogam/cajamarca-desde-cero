@@ -1,0 +1,17 @@
+Nombre: Automotriz Inversiones y Servicios Vargas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Jr, Luis Reyna Farge 648, Cajamarca 06003
+Teléfono: 930 607 894
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1703044
+Longitud: -78.5056262
+Google Maps: https://www.google.com/maps?cid=4585482685312505505
+Place Id: ChIJq5WylV1bspERoZbBFTXooj8
+Fotos: Automotriz Inversiones y Servicios Vargas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

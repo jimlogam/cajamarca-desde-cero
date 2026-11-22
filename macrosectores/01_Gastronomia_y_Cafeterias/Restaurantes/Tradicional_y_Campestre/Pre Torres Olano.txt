@@ -1,0 +1,17 @@
+Nombre: Pre Torres Olano
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Escuela técnica, Instituto de secundaria
+Dirección: Jr. Guillermo Urrelo 369, Cajamarca 06002
+Teléfono: 927 624 344
+Rating: 
+Reseñas: 
+Sitio web: https://www.paginasamarillas.com.pe/empresas/pre-torres-olano/cajamarca-80630926
+Latitud: -7.1613785
+Longitud: -78.5177429
+Google Maps: https://www.google.com/maps?cid=10876112544067037624
+Place Id: ChIJjQaxegBbspERuClJFry275Y
+Fotos: Pre Torres Olano.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

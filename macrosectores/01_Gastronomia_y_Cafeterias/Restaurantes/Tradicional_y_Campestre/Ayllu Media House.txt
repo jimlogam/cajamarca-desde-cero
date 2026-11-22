@@ -1,0 +1,17 @@
+Nombre: Ayllu Media House
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Estudio de fotografía, Fotógrafo aéreo, Productora cinematográfica, Empresa de medios de comunicación, Asesor audiovisual, Proveedor de servicios de telecomunicaciones, Servicio de videoconferencia, Diseñador de sitios web, Fotógrafo de bodas
+Dirección: Av. Vía de Evitamiento N°649, Los Castaños, Cajamarca 06000
+Teléfono: 958 346 467
+Rating: 5
+Reseñas: 3
+Sitio web: http://www.ayllumediahouse.pe/
+Latitud: -7.1556906
+Longitud: -78.5062717
+Google Maps: https://www.google.com/maps?cid=3730591732831063045
+Place Id: ChIJSZ2s2kJbspERBYxnXWq5xTM
+Fotos: Ayllu Media House.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

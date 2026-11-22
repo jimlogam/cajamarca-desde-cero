@@ -1,0 +1,17 @@
+Nombre: Estudio Contable Villanueva
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Asesor fiscal
+Dirección: Jr, Irene Silva de, Cajamarca 06001
+Teléfono: 952 454 506
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.149690799999999
+Longitud: -78.50657199999999
+Google Maps: https://www.google.com/maps?cid=4980368853506265581
+Place Id: ChIJ-_sQLKpbspER7RGpyxXTHUU
+Fotos: Estudio Contable Villanueva.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

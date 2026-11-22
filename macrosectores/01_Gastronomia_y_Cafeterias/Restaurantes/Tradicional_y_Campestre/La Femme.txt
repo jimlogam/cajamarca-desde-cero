@@ -1,0 +1,17 @@
+Nombre: La Femme
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Spa
+Dirección: Jr, Mariano Melgar 210, Cajamarca 06001
+Teléfono: 918 910 241
+Rating: 3.8
+Reseñas: 6
+Sitio web: https://m.facebook.com/SaludyLabor?mibextid=LQQJ4d
+Latitud: -7.1564067
+Longitud: -78.5095248
+Google Maps: https://www.google.com/maps?cid=14614967969129626478
+Place Id: ChIJ3Wix64hbspERbvuuO-_L0so
+Fotos: La Femme.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

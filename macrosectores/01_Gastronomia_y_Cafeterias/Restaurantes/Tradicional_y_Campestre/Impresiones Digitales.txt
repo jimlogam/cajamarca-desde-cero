@@ -1,0 +1,17 @@
+Nombre: Impresiones Digitales
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de alquiler de equipos de oficina
+Dirección: Jr, Pasaje Chepén 269, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: https://impresiones-digitales.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.152171699999999
+Longitud: -78.5218412
+Google Maps: https://www.google.com/maps?cid=7518685080106884622
+Place Id: ChIJPSDEYBJbspERDt7MoT68V2g
+Fotos: Impresiones Digitales.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Alquiler de Local para Eventos Mila
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón para eventos
+Dirección: Jr, Av. Nicolás de Piérola N°252, Cajamarca 06001
+Teléfono: 930 404 306
+Rating: 
+Reseñas: 
+Sitio web: https://deysi223002.wixsite.com/mila
+Latitud: -7.143059999999999
+Longitud: -78.5239125
+Google Maps: https://www.google.com/maps?cid=17481507495000797172
+Place Id: ChIJHxjLfzNbspER9O_ZGXLKmvI
+Fotos: Alquiler de Local para Eventos Mila.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

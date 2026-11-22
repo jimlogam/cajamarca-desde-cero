@@ -1,0 +1,17 @@
+Nombre: Masajes Premium
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Masajista
+Dirección: referencia chifa central, Jr el batan, Jr del Batán 149, Cajamarca 06001
+Teléfono: 910 779 171
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1559716
+Longitud: -78.5176826
+Google Maps: https://www.google.com/maps?cid=16727741366380639017
+Place Id: ChIJ5fzFTfRbspERKbO5NSXgJOg
+Fotos: Masajes Premium.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

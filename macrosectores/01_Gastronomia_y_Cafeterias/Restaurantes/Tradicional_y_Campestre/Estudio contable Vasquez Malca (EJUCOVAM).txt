@@ -1,0 +1,17 @@
+Nombre: Estudio contable Vasquez Malca (EJUCOVAM)
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contable, Empresa de contabilidad, Servicio de contabilidad de costos
+Dirección: Cajamarca 901, Jaén 06801
+Teléfono: 976 154 528
+Rating: 5
+Reseñas: 7
+Sitio web: https://sites.google.com/view/estudiocontablevasquezmalca/
+Latitud: -5.7031598
+Longitud: -78.8075918
+Google Maps: https://www.google.com/maps?cid=8170926534166779357
+Place Id: ChIJ527EiOL7tJER3RXTMmT2ZHE
+Fotos: Estudio contable Vasquez Malca (EJUCOVAM).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

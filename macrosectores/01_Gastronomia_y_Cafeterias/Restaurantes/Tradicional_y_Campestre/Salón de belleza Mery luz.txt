@@ -1,0 +1,17 @@
+Nombre: Salón de belleza "Mery luz"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de estética
+Dirección: Juan Velasco de Alvarado, Milagro 23456
+Teléfono: 968 762 465
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -8.0249544
+Longitud: -79.0656363
+Google Maps: https://www.google.com/maps?cid=16632503516948707555
+Place Id: ChIJcYWKVjw_rZER47gpbdOF0uY
+Fotos: Salón de belleza Mery luz.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

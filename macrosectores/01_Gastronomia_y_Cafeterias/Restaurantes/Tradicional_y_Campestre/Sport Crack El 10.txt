@@ -1,0 +1,17 @@
+Nombre: Sport Crack El 10
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Zapatería
+Dirección: Jr. Emancipadores 216, Cajamarca 06003
+Teléfono: 919 703 586
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.174251699999999
+Longitud: -78.495977
+Google Maps: https://www.google.com/maps?cid=16721619809112509196
+Place Id: ChIJfQqQf7VbspERDEtJF58gD-g
+Fotos: Sport Crack El 10.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

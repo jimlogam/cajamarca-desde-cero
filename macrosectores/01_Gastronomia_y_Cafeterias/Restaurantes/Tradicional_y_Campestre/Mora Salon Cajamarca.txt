@@ -1,0 +1,17 @@
+Nombre: Mora Salon Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de estética
+Dirección: Jr. Los Gladiolos 122, Cajamarca 06001
+Teléfono: 972 202 638
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1520332
+Longitud: -78.5149287
+Google Maps: https://www.google.com/maps?cid=5588476367081141094
+Place Id: ChIJVfZgkghbspERZnOJl6VBjk0
+Fotos: Mora Salon Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

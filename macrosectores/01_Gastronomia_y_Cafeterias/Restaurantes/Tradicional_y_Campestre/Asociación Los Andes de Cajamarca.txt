@@ -1,0 +1,17 @@
+Nombre: Asociación Los Andes de Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: RGP2+QP5, Cajamarca 06002
+Teléfono: 
+Rating: 4.4
+Reseñas: 18
+Sitio web: 
+Latitud: -7.1630696
+Longitud: -78.49804429999999
+Google Maps: https://www.google.com/maps?cid=14399853074126783257
+Place Id: ChIJM_BYAOBaspERGcMkxROO1sc
+Fotos: Asociación Los Andes de Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

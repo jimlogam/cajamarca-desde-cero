@@ -1,0 +1,17 @@
+Nombre: Genera Ingenieros S.A.C
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia inmobiliaria
+Dirección: Av. La Paz 360, Cajamarca 06001
+Teléfono: 979 423 882
+Rating: 
+Reseñas: 
+Sitio web: http://www.generaingenieros.com.pe/
+Latitud: -7.1666722
+Longitud: -78.5087887
+Google Maps: https://www.google.com/maps?cid=14357146657358147311
+Place Id: ChIJLTCiPNxbspER7-4ERNHUPsc
+Fotos: Genera Ingenieros S.A.C.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

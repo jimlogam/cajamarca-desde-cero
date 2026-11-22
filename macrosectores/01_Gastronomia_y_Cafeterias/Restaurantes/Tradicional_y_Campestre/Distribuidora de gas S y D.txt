@@ -1,0 +1,17 @@
+Nombre: Distribuidora de gas S y D
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de artículos relacionados con el gas
+Dirección: Los Próceres 127, Cajamarca 06003
+Teléfono: 984 204 054
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/profile.php?id=100086233844220
+Latitud: -7.1689525
+Longitud: -78.50745189999999
+Google Maps: https://www.google.com/maps?cid=6153794227102398666
+Place Id: ChIJxQFUQNZbspERyrhJzz6rZlU
+Fotos: Distribuidora de gas S y D.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

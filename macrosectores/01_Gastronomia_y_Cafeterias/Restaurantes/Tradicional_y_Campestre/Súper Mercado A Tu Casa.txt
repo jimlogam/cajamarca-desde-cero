@@ -1,0 +1,17 @@
+Nombre: Súper Mercado A Tu Casa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Frutería, Service establishment
+Dirección: 
+Teléfono: 952 636 027
+Rating: 
+Reseñas: 
+Sitio web: https://super-mercado-a-tu-casa.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=10573988323198952727
+Place Id: ChIJtfBkokZbspERF-VmR1tavpI
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

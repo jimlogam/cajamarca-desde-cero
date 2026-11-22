@@ -1,0 +1,17 @@
+Nombre: SERV. TECNICO SERTEC INNOVA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de informática
+Dirección: +51, Cajamarca 06002
+Teléfono: 928 155 143
+Rating: 4.2
+Reseñas: 6
+Sitio web: https://www.facebook.com/SERTECC.SRL/
+Latitud: -7.1591328999999995
+Longitud: -78.5132342
+Google Maps: https://www.google.com/maps?cid=8802299041276924647
+Place Id: ChIJwZtC1vdbspER55ISalcMKHo
+Fotos: SERV. TECNICO SERTEC INNOVA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Roma Massage
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Masajista
+Dirección: Atahualpa 686, Cajamarca 06001
+Teléfono: 900 238 220
+Rating: 5
+Reseñas: 140
+Sitio web: https://romamassageca.wixsite.com/terapias
+Latitud: -7.1571207
+Longitud: -78.5189999
+Google Maps: https://www.google.com/maps?cid=3893341706431179818
+Place Id: ChIJ4zZ6BwBbspERKiwLeaftBzY
+Fotos: Roma Massage.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: TÉCNIAUTOS CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: Jr, Cinco Esquinas 1724, Cajamarca 23401
+Teléfono: 923 589 150
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1519647
+Longitud: -78.5065675
+Google Maps: https://www.google.com/maps?cid=11135438179466817257
+Place Id: ChIJdVSkVSVbspER6S5xsQYGiZo
+Fotos: TÉCNIAUTOS CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

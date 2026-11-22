@@ -1,0 +1,17 @@
+Nombre: Lombardi motors EIRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico, Service establishment
+Dirección: 
+Teléfono: 976 391 464
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -9.2435385
+Longitud: -75.01950459999999
+Google Maps: https://www.google.com/maps?cid=4149749675900112343
+Place Id: ChIJqRrQ4njO9wER143RCljfljk
+Fotos: Lombardi motors EIRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: RV360 Store
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de botas
+Dirección: Av. Hoyos Rubio 624, Cajamarca 06001
+Teléfono: 957 595 260
+Rating: 4.4
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1505756
+Longitud: -78.5100001
+Google Maps: https://www.google.com/maps?cid=686003584992124479
+Place Id: ChIJB5G1mvZbspERP54ZPqAshQk
+Fotos: RV360 Store.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

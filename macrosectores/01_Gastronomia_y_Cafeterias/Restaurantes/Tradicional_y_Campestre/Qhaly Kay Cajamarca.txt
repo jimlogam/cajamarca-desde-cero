@@ -1,0 +1,17 @@
+Nombre: Qhaly Kay Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Spa, Tienda de belleza y salud, Clínica de fisioterapia
+Dirección: Jr, El Mutuy Mz C Lt 6, Baños del Inca 06004
+Teléfono: 993 791 598
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1626822
+Longitud: -78.4606036
+Google Maps: https://www.google.com/maps?cid=3311101611846246863
+Place Id: ChIJnVvX1IFFspERz6FRfV9l8y0
+Fotos: Qhaly Kay Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

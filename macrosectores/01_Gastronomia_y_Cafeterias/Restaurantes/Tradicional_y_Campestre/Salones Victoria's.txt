@@ -1,0 +1,17 @@
+Nombre: Salones Victoria's
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Prol. Pachacútec 675, Baños del Inca 06004
+Teléfono: 976 389 627
+Rating: 4.2
+Reseñas: 174
+Sitio web: 
+Latitud: -7.160774099999999
+Longitud: -78.4665785
+Google Maps: https://www.google.com/maps?cid=15610584413645979352
+Place Id: ChIJ8aCYTChFspER2D6e19Dvo9g
+Fotos: Salones Victoria's.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

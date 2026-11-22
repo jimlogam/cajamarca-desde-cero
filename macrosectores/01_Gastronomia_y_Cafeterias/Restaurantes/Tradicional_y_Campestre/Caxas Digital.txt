@@ -1,0 +1,17 @@
+Nombre: Caxas Digital
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de marketing
+Dirección: Cruce con Jr, 06000, Av. Vía de Evitamiento Sur B - 107, Cajamarca 06000
+Teléfono: 976 793 555
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1595336
+Longitud: -78.50585219999999
+Google Maps: https://www.google.com/maps?cid=17504888167860353032
+Place Id: ChIJ05fE4XxbspERCDhBNgvb7fI
+Fotos: Caxas Digital.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

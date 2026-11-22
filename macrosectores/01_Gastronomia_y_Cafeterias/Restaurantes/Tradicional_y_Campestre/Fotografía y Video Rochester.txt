@@ -1,0 +1,17 @@
+Nombre: Fotografía y Video Rochester
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Estudio de fotografía
+Dirección: Jirón Silva Santisteban 349, Cajamarca 06002
+Teléfono: 918 839 051
+Rating: 4.8
+Reseñas: 13
+Sitio web: 
+Latitud: -7.160217599999999
+Longitud: -78.5155927
+Google Maps: https://www.google.com/maps?cid=16942683906285190090
+Place Id: ChIJF_6Mmv5aspERyjvbHz-BIOs
+Fotos: Fotografía y Video Rochester.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Pasaje Santa Lucia
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: Ronquillo 353, Cajamarca 06002
+Teléfono: 
+Rating: 2.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1595735
+Longitud: -78.5286165
+Google Maps: https://www.google.com/maps?cid=7881122592842310002
+Place Id: ChIJIV99aexbspERcuGrAT5fX20
+Fotos: Pasaje Santa Lucia.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

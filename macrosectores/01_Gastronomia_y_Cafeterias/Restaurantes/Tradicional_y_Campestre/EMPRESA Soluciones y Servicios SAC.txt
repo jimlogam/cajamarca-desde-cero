@@ -1,0 +1,17 @@
+Nombre: EMPRESA Soluciones y Servicios SAC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de negocios
+Dirección: Av. Mario Urteaga No. 149, Cajamarca 06002
+Teléfono: 196600939
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1581508
+Longitud: -78.5111218
+Google Maps: https://www.google.com/maps?cid=4976601615816912030
+Place Id: ChIJe7I7YvtaspERnuxma81wEEU
+Fotos: EMPRESA Soluciones y Servicios SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

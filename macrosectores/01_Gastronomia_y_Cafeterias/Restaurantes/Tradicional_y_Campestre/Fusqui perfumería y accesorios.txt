@@ -1,0 +1,17 @@
+Nombre: Fusqui perfumería y accesorios
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de productos de belleza
+Dirección: Pasaje La Victoria P7, Cajamarca 06003
+Teléfono: 976 016 534
+Rating: 4.4
+Reseñas: 5
+Sitio web: 
+Latitud: -7.177295
+Longitud: -78.4962719
+Google Maps: https://www.google.com/maps?cid=3581225216556582432
+Place Id: ChIJBezzPKBbspERIMaGPVwRszE
+Fotos: Fusqui perfumería y accesorios.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

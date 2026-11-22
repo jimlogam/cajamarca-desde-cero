@@ -1,0 +1,17 @@
+Nombre: JR.comercio cuadra 2
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Instituto de secundaria
+Dirección: RFQP+8V4, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1617465
+Longitud: -78.51278549999999
+Google Maps: https://www.google.com/maps?cid=14692383271706148988
+Place Id: ChIJFwHXegtbspERfMDv9b3U5cs
+Fotos: JR.comercio cuadra 2.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

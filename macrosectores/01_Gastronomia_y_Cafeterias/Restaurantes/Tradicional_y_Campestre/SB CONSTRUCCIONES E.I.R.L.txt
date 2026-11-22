@@ -1,0 +1,17 @@
+Nombre: SB CONSTRUCCIONES E.I.R.L
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Soldador
+Dirección: Jr. Tarapacá 266, Cajamarca 06001
+Teléfono: 974 093 309
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1588964
+Longitud: -78.5224162
+Google Maps: https://www.google.com/maps?cid=16229122508431027047
+Place Id: ChIJIyEPB2pbspERZ-tTk-9sOeE
+Fotos: SB CONSTRUCCIONES E.I.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

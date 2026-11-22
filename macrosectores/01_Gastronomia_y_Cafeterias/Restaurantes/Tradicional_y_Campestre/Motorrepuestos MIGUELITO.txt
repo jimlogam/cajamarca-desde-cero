@@ -1,0 +1,17 @@
+Nombre: Motorrepuestos MIGUELITO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: Jr, Los Alisos 222, Cajamarca 06001
+Teléfono: 923 737 484
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1450103
+Longitud: -78.52070599999999
+Google Maps: https://www.google.com/maps?cid=16303831402596336774
+Place Id: ChIJIXNeEcxbspERhgSdfUfYQuI
+Fotos: Motorrepuestos MIGUELITO.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

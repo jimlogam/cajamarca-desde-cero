@@ -1,0 +1,17 @@
+Nombre: CAJAMARCA REPUESTOS Sede Principal
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de repuestos para motos
+Dirección: Av. La Paz y, Cajamarca 00061
+Teléfono: 907 072 688
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.177317899999999
+Longitud: -78.50171759999999
+Google Maps: https://www.google.com/maps?cid=3691718597181917617
+Place Id: ChIJrVCybE1bspERsUm7K4GeOzM
+Fotos: CAJAMARCA REPUESTOS Sede Principal.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

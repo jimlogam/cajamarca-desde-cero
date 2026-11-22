@@ -1,0 +1,17 @@
+Nombre: RECREO CAMPESTRE EL MOLINO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante de comida rural
+Dirección: Hermano Miguel Carducci 825, Cajamarca 06001
+Teléfono: 
+Rating: 3.9
+Reseñas: 95
+Sitio web: https://www.facebook.com/ElMolinoSalonDeRecepciones/?ref=br_rs
+Latitud: -7.1320717
+Longitud: -78.52316359999999
+Google Maps: https://www.google.com/maps?cid=8171091367848106475
+Place Id: ChIJD-FwKn1aspER69nYh06MZXE
+Fotos: RECREO CAMPESTRE EL MOLINO.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

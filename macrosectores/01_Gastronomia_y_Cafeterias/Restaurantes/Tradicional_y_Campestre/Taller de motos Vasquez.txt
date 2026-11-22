@@ -1,0 +1,17 @@
+Nombre: Taller de motos Vasquez
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: Av. La Cantuta 680, Cajamarca 06002
+Teléfono: 951 579 366
+Rating: 4.4
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1616347
+Longitud: -78.4999237
+Google Maps: https://www.google.com/maps?cid=8886961594492430487
+Place Id: ChIJzyekXU9bspERl6hCLHzUVHs
+Fotos: Taller de motos Vasquez.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

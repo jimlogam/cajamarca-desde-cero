@@ -1,0 +1,17 @@
+Nombre: Electricidad Automotriz Nielscar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Jr. Alfonso Ugarte 1538, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1799561
+Longitud: -78.5069707
+Google Maps: https://www.google.com/maps?cid=15626320158114948174
+Place Id: ChIJj3stLhJbspERTqT3WmTX29g
+Fotos: Electricidad Automotriz Nielscar.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

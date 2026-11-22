@@ -1,0 +1,17 @@
+Nombre: momentos estudio (fotografía y video)
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Estudio de fotografía
+Dirección: 51, Cajamarca 06001
+Teléfono: 953 136 067
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1586966
+Longitud: -78.52509599999999
+Google Maps: https://www.google.com/maps?cid=2788494013099811588
+Place Id: ChIJJwKI5XlbspERBCMe5Ye4siY
+Fotos: momentos estudio (fotografía y video).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

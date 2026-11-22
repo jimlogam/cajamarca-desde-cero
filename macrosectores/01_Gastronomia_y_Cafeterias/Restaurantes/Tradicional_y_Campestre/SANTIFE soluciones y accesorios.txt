@@ -1,0 +1,17 @@
+Nombre: SANTIFE soluciones y accesorios
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: Jr. Belaunde Terry 1025-1001, Cajamarca 06003
+Teléfono: 918 618 158
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.184166299999999
+Longitud: -78.502169
+Google Maps: https://www.google.com/maps?cid=17949202079762667059
+Place Id: ChIJyZLcfd5bspERM9b0TTFgGPk
+Fotos: SANTIFE soluciones y accesorios.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

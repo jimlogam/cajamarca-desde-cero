@@ -1,0 +1,17 @@
+Nombre: Gráfica Publigen
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de señalización, Societe de Flocage
+Dirección: Av. Héroes de San Ramón 692, Cajamarca 06002
+Teléfono: 982 359 974
+Rating: 3.2
+Reseñas: 6
+Sitio web: https://m.facebook.com/profile.php?id=100006511351255
+Latitud: -7.1643938
+Longitud: -78.5101316
+Google Maps: https://www.google.com/maps?cid=10221454679297957758
+Place Id: ChIJ3bUYugJbspERfh9PD-Dm2Y0
+Fotos: Gráfica Publigen.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

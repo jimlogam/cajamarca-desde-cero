@@ -1,0 +1,17 @@
+Nombre: PEREGRINO MOTORS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: RF7X+63P, Cajamarca 06003
+Teléfono: 
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1869042
+Longitud: -78.5023085
+Google Maps: https://www.google.com/maps?cid=11264755216118214419
+Place Id: ChIJObnREWRbspERE290ki9zVJw
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

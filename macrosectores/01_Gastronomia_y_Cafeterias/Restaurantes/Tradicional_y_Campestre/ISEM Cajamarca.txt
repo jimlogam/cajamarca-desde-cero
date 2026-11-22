@@ -1,0 +1,17 @@
+Nombre: ISEM Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Instituto de secundaria
+Dirección: Unnamed Road, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1616471
+Longitud: -78.4975068
+Google Maps: https://www.google.com/maps?cid=1220031711314129987
+Place Id: ChIJiXEu5d9aspERQzSXn2Bs7hA
+Fotos: ISEM Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

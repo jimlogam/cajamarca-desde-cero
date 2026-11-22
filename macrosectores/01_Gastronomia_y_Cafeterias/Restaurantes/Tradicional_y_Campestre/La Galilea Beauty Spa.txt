@@ -1,0 +1,17 @@
+Nombre: La Galilea Beauty Spa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Spa
+Dirección: Av. Mario Urteaga 128, Cajamarca 06002
+Teléfono: 979 440 600
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.159014099999999
+Longitud: -78.51029129999999
+Google Maps: https://www.google.com/maps?cid=9191743197421851628
+Place Id: ChIJD-6spe9bspER7FPx9Lyhj38
+Fotos: La Galilea Beauty Spa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

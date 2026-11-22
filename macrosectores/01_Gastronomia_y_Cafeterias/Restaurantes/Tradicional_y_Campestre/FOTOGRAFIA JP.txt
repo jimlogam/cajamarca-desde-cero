@@ -1,0 +1,17 @@
+Nombre: FOTOGRAFIA JP
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Estudio de fotografía
+Dirección: 51, Pelejo 22245
+Teléfono: 935 419 899
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1458315
+Longitud: -78.5135088
+Google Maps: https://www.google.com/maps?cid=12118269088396648251
+Place Id: ChIJBbZ_lTlbspERO5960oe9LKg
+Fotos: FOTOGRAFIA JP.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

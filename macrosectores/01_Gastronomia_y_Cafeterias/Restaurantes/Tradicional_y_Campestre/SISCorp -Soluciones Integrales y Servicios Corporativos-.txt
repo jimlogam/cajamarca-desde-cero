@@ -1,0 +1,17 @@
+Nombre: SISCorp |Soluciones Integrales y Servicios Corporativos|
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Soldador, Ingeniero de fabricación, Montador de espacios comerciales
+Dirección: 51, Cajamarca 06002
+Teléfono: 929 028 366
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.147137799999999
+Longitud: -78.50149619999999
+Google Maps: https://www.google.com/maps?cid=16264574719255498806
+Place Id: ChIJ4Y2eQ-pbspERNtAFpIhgt-E
+Fotos: SISCorp -Soluciones Integrales y Servicios Corporativos-.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

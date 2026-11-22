@@ -1,0 +1,17 @@
+Nombre: Emtrafesa - Agencia Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de transporte
+Dirección: Av. Vía de Evitamiento Sur 1977, Cajamarca 06003
+Teléfono: 949 621 006
+Rating: 3.6
+Reseñas: 261
+Sitio web: https://www.emtrafesa.pe/
+Latitud: -7.1657994
+Longitud: -78.5017585
+Google Maps: https://www.google.com/maps?cid=14250393191171774365
+Place Id: ChIJ6Qj20E9bspERnVdwBRuRw8U
+Fotos: Emtrafesa - Agencia Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

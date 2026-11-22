@@ -1,0 +1,17 @@
+Nombre: León, Santillán y Bustamante Abogados
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicios legales
+Dirección: Jr Apurímac N° 694, 06000, Cajamarca, Oficinas 301 - 302, Cajamarca
+Teléfono: 976 485 622
+Rating: 4.8
+Reseñas: 26
+Sitio web: http://www.estudioleon.pe/
+Latitud: -7.1566923
+Longitud: -78.51918549999999
+Google Maps: https://www.google.com/maps?cid=9545177489651249999
+Place Id: ChIJqdzA7PhaspERT7O3tFpId4Q
+Fotos: León, Santillán y Bustamante Abogados.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

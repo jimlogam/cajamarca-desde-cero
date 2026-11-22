@@ -1,0 +1,17 @@
+Nombre: Grifo AVA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: 13 De Julio 946, Cajamarca 06001
+Teléfono: 
+Rating: 4.1
+Reseñas: 21
+Sitio web: 
+Latitud: -7.1456621
+Longitud: -78.52483079999999
+Google Maps: https://www.google.com/maps?cid=16696302427718532696
+Place Id: ChIJP6KAA71bspERWL6n4pgutec
+Fotos: Grifo AVA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

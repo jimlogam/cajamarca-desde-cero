@@ -1,0 +1,17 @@
+Nombre: Idenet Solutions
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de informática
+Dirección: Jr, Prol. Revilla Perez 320, Cajamarca 06001
+Teléfono: 994 391 686
+Rating: 5
+Reseñas: 4
+Sitio web: https://idnetsolutions.com/
+Latitud: -7.151357
+Longitud: -78.513116
+Google Maps: https://www.google.com/maps?cid=3462425286370373557
+Place Id: ChIJS8xlg4pFspERta9vB3QBDTA
+Fotos: Idenet Solutions.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

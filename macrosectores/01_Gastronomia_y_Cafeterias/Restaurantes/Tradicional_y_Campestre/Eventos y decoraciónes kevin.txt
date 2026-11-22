@@ -1,0 +1,17 @@
+Nombre: Eventos y decoraciónes kevin
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Recinto para eventos
+Dirección: Prol. Revilla Perez 267, Cajamarca 06001
+Teléfono: 947 086 949
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.151977899999999
+Longitud: -78.51380379999999
+Google Maps: https://www.google.com/maps?cid=17167864399626909218
+Place Id: ChIJ-xjeXtNbspERIjbWU7aBQO4
+Fotos: Eventos y decoraciónes kevin.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

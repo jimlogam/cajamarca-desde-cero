@@ -1,0 +1,17 @@
+Nombre: Hidráulica Industrial Abanto
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Proveedor de mangueras
+Dirección: Av. Vía de Evitamiento Sur 1492, Cajamarca 06001
+Teléfono: 972 367 954
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1702607
+Longitud: -78.4977981
+Google Maps: https://www.google.com/maps?cid=18307167801461799703
+Place Id: ChIJH4zxZrBbspERF3uZsR4gEP4
+Fotos: Hidráulica Industrial Abanto.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

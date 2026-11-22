@@ -1,0 +1,17 @@
+Nombre: Cesmar Automotriz
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles, Tienda de repuestos para automóviles
+Dirección: Jr. Diego Ferré 470, Cajamarca 06003
+Teléfono: 982 339 453
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1703008
+Longitud: -78.5058907
+Google Maps: https://www.google.com/maps?cid=4829888986311815682
+Place Id: ChIJJW6cNXxbspERAvKvdXE2B0M
+Fotos: Cesmar Automotriz.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

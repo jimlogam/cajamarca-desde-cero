@@ -1,0 +1,17 @@
+Nombre: Grifo El Magnate
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: 06000
+Teléfono: 
+Rating: 4.5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1287305
+Longitud: -78.5237909
+Google Maps: https://www.google.com/maps?cid=7681666046797265248
+Place Id: ChIJuYbCTXxaspERYLmHApLCmmo
+Fotos: Grifo El Magnate.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

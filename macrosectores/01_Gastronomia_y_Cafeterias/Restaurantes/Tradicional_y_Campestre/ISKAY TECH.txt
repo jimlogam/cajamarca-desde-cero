@@ -1,0 +1,17 @@
+Nombre: ISKAY TECH
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Soporte y servicios informáticos
+Dirección: Av. Hoyos Rubio 548, Cajamarca 06001
+Teléfono: 908 887 548
+Rating: 
+Reseñas: 
+Sitio web: https://www.iskaytech.com.pe/
+Latitud: -7.150910499999999
+Longitud: -78.510455
+Google Maps: https://www.google.com/maps?cid=18335595079345195301
+Place Id: ChIJq6LKUwBbspERJUnFGZQedf4
+Fotos: ISKAY TECH.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

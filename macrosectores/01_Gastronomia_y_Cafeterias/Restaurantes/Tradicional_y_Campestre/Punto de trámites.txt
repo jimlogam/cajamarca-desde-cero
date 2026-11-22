@@ -1,0 +1,17 @@
+Nombre: Punto de trámites
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Consultora de administración empresarial
+Dirección: Prol. Revilla Perez 152, Cajamarca 06001
+Teléfono: 949 117 564
+Rating: 4.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1476884
+Longitud: -78.5115687
+Google Maps: https://www.google.com/maps?cid=12204979794507029219
+Place Id: ChIJNxDUUV5bspER41ppVnXMYKk
+Fotos: Punto de trámites.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

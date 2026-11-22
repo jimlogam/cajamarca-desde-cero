@@ -1,0 +1,17 @@
+Nombre: Lubricantes "ADONAY"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: Av. Independencia 1475, Cajamarca 06003
+Teléfono: 976 894 623
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.180149699999999
+Longitud: -78.5119204
+Google Maps: https://www.google.com/maps?cid=15068726090135395666
+Place Id: ChIJmbBQQQBbspERUl0unIreHtE
+Fotos: Lubricantes ADONAY.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

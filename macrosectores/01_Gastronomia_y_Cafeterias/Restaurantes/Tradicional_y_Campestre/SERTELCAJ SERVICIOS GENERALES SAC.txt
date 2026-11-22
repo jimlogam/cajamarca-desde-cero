@@ -1,0 +1,17 @@
+Nombre: SERTELCAJ SERVICIOS GENERALES SAC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Proveedor de servicios de telecomunicaciones
+Dirección: Miguel Gonzáles 165, Cajamarca 06001
+Teléfono: 970 303 513
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.149835599999999
+Longitud: -78.50550779999999
+Google Maps: https://www.google.com/maps?cid=15636322972202216069
+Place Id: ChIJT0_H3fNbspERhapk_-Vg_9g
+Fotos: SERTELCAJ SERVICIOS GENERALES SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

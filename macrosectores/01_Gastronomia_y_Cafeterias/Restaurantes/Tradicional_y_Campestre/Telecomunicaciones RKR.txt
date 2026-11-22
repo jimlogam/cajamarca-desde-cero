@@ -1,0 +1,17 @@
+Nombre: Telecomunicaciones RKR
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de reparación de ordenadores
+Dirección: Pasaje Chepén, Cajamarca 06001
+Teléfono: 920 446 122
+Rating: 
+Reseñas: 
+Sitio web: https://telecomunicaciones-rkr.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1510329
+Longitud: -78.5206267
+Google Maps: https://www.google.com/maps?cid=11712031496177058928
+Place Id: ChIJd6Av8JZbspERcATSv5d-iaI
+Fotos: Telecomunicaciones RKR.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

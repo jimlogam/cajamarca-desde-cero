@@ -1,0 +1,17 @@
+Nombre: EMPRO SAC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Av Vía de Evitamiento Nte 1445, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1445269
+Longitud: -78.5111068
+Google Maps: https://www.google.com/maps?cid=1233434923602338414
+Place Id: ChIJZxgEZwBbspERbuLgKocKHhE
+Fotos: EMPRO SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

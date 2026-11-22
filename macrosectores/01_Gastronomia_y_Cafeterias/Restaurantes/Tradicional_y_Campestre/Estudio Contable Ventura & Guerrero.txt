@@ -1,0 +1,17 @@
+Nombre: Estudio Contable Ventura & Guerrero
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de contabilidad
+Dirección: Juan Beato Macias 427, Cajamarca 06003
+Teléfono: 979 918 981
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/Estudio-Contable-Ventura-Guerrero-102760268887248/?ref=page_internal
+Latitud: -7.1703319
+Longitud: -78.49916739999999
+Google Maps: https://www.google.com/maps?cid=1775497175581013740
+Place Id: ChIJ2x3pViZbspER7DY3MkbVoxg
+Fotos: Estudio Contable Ventura & Guerrero.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

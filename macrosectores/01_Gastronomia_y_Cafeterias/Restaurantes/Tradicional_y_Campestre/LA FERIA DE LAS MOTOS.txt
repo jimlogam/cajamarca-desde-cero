@@ -1,0 +1,17 @@
+Nombre: LA FERIA DE LAS MOTOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de motocicletas
+Dirección: Vía de Evitamiento Nte. 1815, Cajamarca 06002
+Teléfono: 976 789 704
+Rating: 1.3
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1524221
+Longitud: -78.50617009999999
+Google Maps: https://www.google.com/maps?cid=2161912550105572773
+Place Id: ChIJYQahx7RbspERpWWAkAKoAB4
+Fotos: LA FERIA DE LAS MOTOS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

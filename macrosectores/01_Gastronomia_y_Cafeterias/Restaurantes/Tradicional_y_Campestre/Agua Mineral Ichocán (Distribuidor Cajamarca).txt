@@ -1,0 +1,17 @@
+Nombre: Agua Mineral "Ichocán" (Distribuidor Cajamarca)
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de aguas minerales
+Dirección: Tahuantinsuyo 465, Cajamarca 06003
+Teléfono: 968 358 324
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1774159
+Longitud: -78.5002511
+Google Maps: https://www.google.com/maps?cid=5486634352650248346
+Place Id: ChIJoZVEDodbspERmmAs0t9wJEw
+Fotos: Agua Mineral Ichocán (Distribuidor Cajamarca).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

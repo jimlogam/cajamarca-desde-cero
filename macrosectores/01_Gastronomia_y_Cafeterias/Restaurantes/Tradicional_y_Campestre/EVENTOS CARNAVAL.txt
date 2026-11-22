@@ -1,0 +1,17 @@
+Nombre: EVENTOS CARNAVAL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Organizador de eventos
+Dirección: Jr, Paul Rivet 286, Cajamarca 06000
+Teléfono: 921 066 604
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1507736
+Longitud: -78.5069855
+Google Maps: https://www.google.com/maps?cid=13132047950637502135
+Place Id: ChIJ_UH6SKhbspERtw4l1whoPrY
+Fotos: EVENTOS CARNAVAL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

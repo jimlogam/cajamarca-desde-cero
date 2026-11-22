@@ -1,0 +1,17 @@
+Nombre: El Asador Delivey & Llevar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Prol. Revilla Perez 419, Cajamarca 06001
+Teléfono: 956 217 173
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1507838999999995
+Longitud: -78.5128522
+Google Maps: https://www.google.com/maps?cid=17803540250547006913
+Place Id: ChIJJbHCYLhbspERwS052ofhEvc
+Fotos: El Asador Delivey & Llevar.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

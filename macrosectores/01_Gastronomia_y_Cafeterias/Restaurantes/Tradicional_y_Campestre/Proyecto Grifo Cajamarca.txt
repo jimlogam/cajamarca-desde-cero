@@ -1,0 +1,17 @@
+Nombre: Proyecto Grifo Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: RGH3+JF4, 3N, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.170981599999999
+Longitud: -78.4962852
+Google Maps: https://www.google.com/maps?cid=1580703664711888649
+Place Id: ChIJy32O-0tbspERCW9PrpvJ7xU
+Fotos: Proyecto Grifo Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Raya Courier
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de transporte por camión
+Dirección: RFQX+4HP, Manuel Ibáñez Rosazza, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1621730999999995
+Longitud: -78.50104739999999
+Google Maps: https://www.google.com/maps?cid=10991484567652399002
+Place Id: ChIJ4UFUsAZbspERmvcbmfqYiZg
+Fotos: Raya Courier.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

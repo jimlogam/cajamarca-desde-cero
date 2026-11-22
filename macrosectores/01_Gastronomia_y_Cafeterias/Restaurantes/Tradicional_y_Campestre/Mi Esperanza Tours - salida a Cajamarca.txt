@@ -1,0 +1,17 @@
+Nombre: Mi Esperanza Tours - salida a Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de transporte
+Dirección: Jr. Grau 159, Cajabamba 06351
+Teléfono: 955 686 453
+Rating: 4.1
+Reseñas: 79
+Sitio web: 
+Latitud: -7.6199718999999995
+Longitud: -78.04706279999999
+Google Maps: https://www.google.com/maps?cid=8388028054644968521
+Place Id: ChIJTws3j6X5rZERScwf8xJDaHQ
+Fotos: Mi Esperanza Tours - salida a Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

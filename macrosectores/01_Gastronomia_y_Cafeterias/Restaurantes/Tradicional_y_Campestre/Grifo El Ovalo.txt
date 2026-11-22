@@ -1,0 +1,17 @@
+Nombre: Grifo El Ovalo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: Av San Martín de Porres 2315, Cajamarca 06001
+Teléfono: 967 122 745
+Rating: 3.9
+Reseñas: 24
+Sitio web: 
+Latitud: -7.1831891
+Longitud: -78.4913897
+Google Maps: https://www.google.com/maps?cid=11394390763740490800
+Place Id: ChIJkVGauThbspERMGy-kAcCIZ4
+Fotos: Grifo El Ovalo.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

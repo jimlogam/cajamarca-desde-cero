@@ -1,0 +1,17 @@
+Nombre: T'AJSA Consultoria, Construcción y Servicios Generales SAC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Ingeniero civil
+Dirección: Av. La Paz 1969, Cajamarca 00076
+Teléfono: (076) 367720
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.179684099999999
+Longitud: -78.5000819
+Google Maps: https://www.google.com/maps?cid=11114964981544210769
+Place Id: ChIJsxZB8BBbspERUVHZ18JJQJo
+Fotos: T'AJSA Consultoria, Construcción y Servicios Generales SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

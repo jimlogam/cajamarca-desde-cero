@@ -1,0 +1,17 @@
+Nombre: Grifo Repsol Huacaloma
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: AV. SAN MARTIN N° 1250, Cajamarca 06003
+Teléfono: 
+Rating: 3.4
+Reseñas: 120
+Sitio web: 
+Latitud: -7.172825199999999
+Longitud: -78.49959779999999
+Google Maps: https://www.google.com/maps?cid=4344182881484701943
+Place Id: ChIJBciZPhhbspER94A6clCjSTw
+Fotos: Grifo Repsol Huacaloma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Casa de la baldosa Distribuidor autorizado drywalltech
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Ventana de aluminio
+Dirección: Av. Vía de Evitamiento Sur 412, Cajamarca 06001
+Teléfono: 935 286 554
+Rating: 5
+Reseñas: 3
+Sitio web: https://www.facebook.com/drywalltechperu?mibextid=zLoPMf
+Latitud: -7.161566199999999
+Longitud: -78.5051379
+Google Maps: https://www.google.com/maps?cid=16425837667594977694
+Place Id: ChIJa-fUcaRbspERnsE6s1RM9OM
+Fotos: Casa de la baldosa Distribuidor autorizado drywalltech.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

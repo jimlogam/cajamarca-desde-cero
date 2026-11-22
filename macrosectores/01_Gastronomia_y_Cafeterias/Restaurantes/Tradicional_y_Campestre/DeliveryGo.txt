@@ -1,0 +1,17 @@
+Nombre: DeliveryGo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: Jr, Los Próceres 377, Cajamarca 06000
+Teléfono: 974 606 082
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1682108
+Longitud: -78.50508339999999
+Google Maps: https://www.google.com/maps?cid=12690160407162166008
+Place Id: ChIJ6ytxwwZbspER-Jqgq6eBHLA
+Fotos: DeliveryGo.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

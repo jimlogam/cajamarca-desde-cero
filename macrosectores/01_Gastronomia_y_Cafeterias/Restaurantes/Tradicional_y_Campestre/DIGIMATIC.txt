@@ -1,0 +1,17 @@
+Nombre: DIGIMATIC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Mayorista de computadoras
+Dirección: 06001 Jr, Dos de Mayo 1169, Cajamarca 06001
+Teléfono: 976 123 030
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.151122699999999
+Longitud: -78.51282739999999
+Google Maps: https://www.google.com/maps?cid=9524467461513062150
+Place Id: ChIJmaCZ3gJbspERBqdAhrG0LYQ
+Fotos: DIGIMATIC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

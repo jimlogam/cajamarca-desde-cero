@@ -1,0 +1,17 @@
+Nombre: Impresiones J&B
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Imprenta
+Dirección: Jr. Yurimaguas 620, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1835721999999995
+Longitud: -78.4976413
+Google Maps: https://www.google.com/maps?cid=17765906330830725972
+Place Id: ChIJBcNKSgJbspERVGMHGq4tjfY
+Fotos: Impresiones J&B.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

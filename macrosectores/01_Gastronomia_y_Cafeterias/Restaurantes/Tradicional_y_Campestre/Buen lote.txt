@@ -1,0 +1,17 @@
+Nombre: Buen lote
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia inmobiliaria
+Dirección: 51, Cajamarca 06004
+Teléfono: 994 725 466
+Rating: 
+Reseñas: 
+Sitio web: http://buenlote.pe/
+Latitud: -7.168450999999999
+Longitud: -78.5001146
+Google Maps: https://www.google.com/maps?cid=15460065522520042370
+Place Id: ChIJ49ayW3BbspERgisSiq4vjdY
+Fotos: Buen lote.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

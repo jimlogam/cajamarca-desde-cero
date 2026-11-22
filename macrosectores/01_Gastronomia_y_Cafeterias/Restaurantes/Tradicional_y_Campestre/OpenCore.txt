@@ -1,0 +1,17 @@
+Nombre: OpenCore
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de software
+Dirección: Jirón Silva Santisteban 410, Cajamarca 06001
+Teléfono: 958 471 446
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.148456599999999
+Longitud: -78.519555
+Google Maps: https://www.google.com/maps?cid=4769307714317336599
+Place Id: ChIJrxuyFeY-oGARF0Bq6Bj8L0I
+Fotos: OpenCore.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

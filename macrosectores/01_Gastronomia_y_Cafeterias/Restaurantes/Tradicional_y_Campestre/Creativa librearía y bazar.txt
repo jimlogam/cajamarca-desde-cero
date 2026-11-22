@@ -1,0 +1,17 @@
+Nombre: Creativa librearía y bazar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería infantil
+Dirección: +51, Cajamarca 06001
+Teléfono: 908 657 181
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1548601
+Longitud: -78.5184847
+Google Maps: https://www.google.com/maps?cid=4412947639621603416
+Place Id: ChIJ1Y5grOZbspERWFALWH_wPT0
+Fotos: Creativa librearía y bazar.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

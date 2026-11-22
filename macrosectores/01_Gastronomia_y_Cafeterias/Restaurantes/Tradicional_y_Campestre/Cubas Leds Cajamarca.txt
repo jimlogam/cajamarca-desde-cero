@@ -1,0 +1,17 @@
+Nombre: Cubas Leds Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de repuestos para motos
+Dirección: Carretera A Otuzco C39A, Cajamarca 06001
+Teléfono: 930 426 246
+Rating: 4.3
+Reseñas: 34
+Sitio web: https://cubas-leds-cajamarca.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.135961099999999
+Longitud: -78.47439059999999
+Google Maps: https://www.google.com/maps?cid=5079518662289951035
+Place Id: ChIJH3aMo0xFspERO4nCl08TfkY
+Fotos: Cubas Leds Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Estudio Servicont Terrones Contable Asociados S.C.R.L.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contable
+Dirección: Av. Aurelio Pastor 233, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1713144
+Longitud: -78.4941067
+Google Maps: https://www.google.com/maps?cid=8917441950422388629
+Place Id: ChIJbQA_CSNbspERlc8XEDUewXs
+Fotos: Estudio Servicont Terrones Contable Asociados S.C.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

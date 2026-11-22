@@ -1,0 +1,17 @@
+Nombre: Movilidad Eléctrica | Motos Eléctricas | Ecomotors
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Concesionario de motos
+Dirección: Jr. Diego Ferré 692, Cajamarca 06002
+Teléfono: 963 715 781
+Rating: 3.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1696157
+Longitud: -78.5049627
+Google Maps: https://www.google.com/maps?cid=2888986083800473925
+Place Id: ChIJHV7_oBZbspERRWH5ZYm9Fyg
+Fotos: Movilidad Eléctrica - Motos Eléctricas - Ecomotors.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

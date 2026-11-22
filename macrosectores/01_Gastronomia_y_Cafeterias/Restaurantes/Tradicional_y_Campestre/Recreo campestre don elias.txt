@@ -1,0 +1,17 @@
+Nombre: Recreo campestre don elias
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Camping
+Dirección: CA-109 06225, 06225
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -6.772335
+Longitud: -78.194807
+Google Maps: https://www.google.com/maps?cid=4272750883460742817
+Place Id: ChIJjbJvSADFs5ERof5pXkrcSzs
+Fotos: Recreo campestre don elias.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

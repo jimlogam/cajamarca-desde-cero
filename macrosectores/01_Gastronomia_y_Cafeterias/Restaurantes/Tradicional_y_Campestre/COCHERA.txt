@@ -1,0 +1,17 @@
+Nombre: COCHERA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: Jr, Dos de Mayo 817, Cajamarca 06002
+Teléfono: (076) 369663
+Rating: 3.6
+Reseñas: 30
+Sitio web: 
+Latitud: -7.1546559
+Longitud: -78.5147478
+Google Maps: https://www.google.com/maps?cid=14525515091865679294
+Place Id: ChIJpZhajLxbspERvrU6PgT_lMk
+Fotos: COCHERA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

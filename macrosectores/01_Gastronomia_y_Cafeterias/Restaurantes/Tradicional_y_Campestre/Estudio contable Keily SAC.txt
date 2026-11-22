@@ -1,0 +1,17 @@
+Nombre: Estudio contable Keily SAC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de contabilidad
+Dirección: Jr, Las Cucardas 152, Cajamarca 06002
+Teléfono: 972 780 634
+Rating: 
+Reseñas: 
+Sitio web: https://estudio-contable-keily-sac.negocio.site/?utm_source=gmb&utm_medium=referral
+Latitud: -7.148740999999999
+Longitud: -78.5234368
+Google Maps: https://www.google.com/maps?cid=12397842516746058809
+Place Id: ChIJE-YktuZbspEROTziFxX8Daw
+Fotos: Estudio contable Keily SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

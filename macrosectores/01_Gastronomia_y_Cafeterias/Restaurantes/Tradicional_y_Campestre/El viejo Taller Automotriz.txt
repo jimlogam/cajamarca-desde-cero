@@ -1,0 +1,17 @@
+Nombre: El viejo Taller Automotriz
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: Jr. Cusco 325, Cajamarca 06003
+Teléfono: 935 986 949
+Rating: 4.8
+Reseñas: 5
+Sitio web: https://www.facebook.com/pg/tallerautomotriz.elviejo.cajamarca/services/
+Latitud: -7.179700599999999
+Longitud: -78.4958295
+Google Maps: https://www.google.com/maps?cid=12491881099398175479
+Place Id: ChIJHSQItjRbspER91oL0qwTXK0
+Fotos: El viejo Taller Automotriz.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

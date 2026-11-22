@@ -1,0 +1,17 @@
+Nombre: BICY TOURS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: 298, Jr del Batán 208, Cajamarca
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1550788999999995
+Longitud: -78.5163815
+Google Maps: https://www.google.com/maps?cid=16219296493263895804
+Place Id: ChIJsZu0p_laspER_Ly7IzqEFuE
+Fotos: BICY TOURS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

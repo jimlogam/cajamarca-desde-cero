@@ -1,0 +1,17 @@
+Nombre: Bible Shop Perú
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: C.C El portón, Jr.Amazonas 203, Cajamarca 06001
+Teléfono: 979 321 386
+Rating: 4.7
+Reseñas: 3
+Sitio web: https://catalogo.treinta.co/bibleshopperu
+Latitud: -7.153807899999999
+Longitud: -78.5189109
+Google Maps: https://www.google.com/maps?cid=11757957302719916632
+Place Id: ChIJRSbSbrtbspERWKrU2N6nLKM
+Fotos: Bible Shop Perú.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

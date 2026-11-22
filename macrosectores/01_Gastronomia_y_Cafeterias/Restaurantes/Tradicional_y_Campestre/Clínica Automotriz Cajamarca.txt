@@ -1,0 +1,17 @@
+Nombre: Clínica Automotriz Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Av San Martín de Porres 2080, Cajamarca 06000
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.181410499999999
+Longitud: -78.49280139999999
+Google Maps: https://www.google.com/maps?cid=7524556447316623187
+Place Id: ChIJtV6i_StbspERU7-u1jiYbGg
+Fotos: Clínica Automotriz Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

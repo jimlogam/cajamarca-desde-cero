@@ -1,0 +1,17 @@
+Nombre: Centro Turistico El Puquio
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante de comida rural
+Dirección: Gálvez 340, Jesús 06371
+Teléfono: 996 575 039
+Rating: 4
+Reseñas: 243
+Sitio web: 
+Latitud: -7.244658599999999
+Longitud: -78.37987489999999
+Google Maps: https://www.google.com/maps?cid=2337993175831691185
+Place Id: ChIJtUq1XH9BspERsT-8_Gc4ciA
+Fotos: Centro Turistico El Puquio.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

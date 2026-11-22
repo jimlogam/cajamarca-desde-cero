@@ -1,0 +1,17 @@
+Nombre: JK Atelier
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de estética
+Dirección: Jirón Huánuco 1528, Cajamarca 06001
+Teléfono: 946 310 222
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1603641
+Longitud: -78.51742329999999
+Google Maps: https://www.google.com/maps?cid=16400866134615451792
+Place Id: ChIJveXhz01bspERkOh8mtqUm-M
+Fotos: JK Atelier.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

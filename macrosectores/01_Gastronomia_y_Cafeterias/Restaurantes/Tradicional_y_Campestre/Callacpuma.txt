@@ -1,0 +1,17 @@
+Nombre: Callacpuma
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Lugar de interés histórico, Mirador
+Dirección: RHF2+54P, Cajamarca 06300
+Teléfono: 
+Rating: 4.6
+Reseñas: 37
+Sitio web: 
+Latitud: -7.1770287999999995
+Longitud: -78.449668
+Google Maps: https://www.google.com/maps?cid=7503565548704574496
+Place Id: ChIJjT5P-M9FspERICxlZxwFImg
+Fotos: Callacpuma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

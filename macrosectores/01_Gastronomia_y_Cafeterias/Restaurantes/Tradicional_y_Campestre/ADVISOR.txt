@@ -1,0 +1,17 @@
+Nombre: ADVISOR
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Imprenta
+Dirección: Jr, Amalia Puga 258, Cajamarca 06001
+Teléfono: 976 500 902
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1546577
+Longitud: -78.5200376
+Google Maps: https://www.google.com/maps?cid=10131109487152202883
+Place Id: ChIJF4fLKTlbspERgwRM0mbumIw
+Fotos: ADVISOR.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

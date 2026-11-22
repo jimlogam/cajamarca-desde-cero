@@ -1,0 +1,17 @@
+Nombre: AR Estudio Fotográfico
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Estudio de fotografía
+Dirección: Jr, Inca Yupanqui 272, Cajamarca 06001
+Teléfono: 956 286 262
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1505244999999995
+Longitud: -78.5190831
+Google Maps: https://www.google.com/maps?cid=7068942150611539261
+Place Id: ChIJG8M2DABbspERPZX84G7tGWI
+Fotos: AR Estudio Fotográfico.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

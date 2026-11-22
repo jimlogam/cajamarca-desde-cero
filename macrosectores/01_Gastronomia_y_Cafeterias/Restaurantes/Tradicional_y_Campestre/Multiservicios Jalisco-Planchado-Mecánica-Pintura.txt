@@ -1,0 +1,17 @@
+Nombre: Multiservicios Jalisco-Planchado-Mecánica-Pintura
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: Jr. Ramon Castilla 220, Cajamarca 06003
+Teléfono: 938 701 442
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1708466
+Longitud: -78.5114079
+Google Maps: https://www.google.com/maps?cid=13682315900168089901
+Place Id: ChIJlQnyUe1bspERLbEyttFZ4b0
+Fotos: Multiservicios Jalisco-Planchado-Mecánica-Pintura.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

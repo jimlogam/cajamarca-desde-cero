@@ -1,0 +1,17 @@
+Nombre: Fotografia JT Battifora
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Fotógrafo
+Dirección: Jr, El Inca 766, Cajamarca 06001
+Teléfono: 976 866 682
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1597528
+Longitud: -78.5047354
+Google Maps: https://www.google.com/maps?cid=8622365795204843517
+Place Id: ChIJ-yelx-NaspER_cep6gHMqHc
+Fotos: Fotografia JT Battifora.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

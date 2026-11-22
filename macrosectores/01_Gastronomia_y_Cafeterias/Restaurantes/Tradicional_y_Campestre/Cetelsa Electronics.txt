@@ -1,0 +1,17 @@
+Nombre: Cetelsa Electronics
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de reparación de electrodomésticos
+Dirección: Jr. Guillermo Urrelo 1276, Cajamarca 06002
+Teléfono: 973 968 636
+Rating: 4.2
+Reseñas: 5
+Sitio web: https://cetelsa-electronics.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1544807
+Longitud: -78.5115749
+Google Maps: https://www.google.com/maps?cid=12478083403235289794
+Place Id: ChIJy2BVuFZbspERwmqJV74OK60
+Fotos: Cetelsa Electronics.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

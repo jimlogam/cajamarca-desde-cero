@@ -1,0 +1,17 @@
+Nombre: Atom
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Diseñador de sitios web
+Dirección: Av. Perú 340, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: https://atom.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1597965
+Longitud: -78.52480249999999
+Google Maps: https://www.google.com/maps?cid=8741210941235018230
+Place Id: ChIJb9lvtRxbspER9jkSwwkFT3k
+Fotos: Atom.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

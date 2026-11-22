@@ -1,0 +1,17 @@
+Nombre: Sastrería RAMOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Sastre
+Dirección: Pje. Sta. Anita, Cajamarca 06001
+Teléfono: 976 646 334
+Rating: 5
+Reseñas: 5
+Sitio web: https://www.facebook.com/teofilo.ramosmosqueira.9?mibextid=ZbWKwL
+Latitud: -7.1465238
+Longitud: -78.517314
+Google Maps: https://www.google.com/maps?cid=9604938184264365334
+Place Id: ChIJE6HIGgBbspERFrWpsmOYS4U
+Fotos: Sastrería RAMOS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

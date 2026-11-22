@@ -1,0 +1,17 @@
+Nombre: Moto repuestos el paisita
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: VF4F+GXW, Hermano Miguel Carducci, Cajamarca 06001
+Teléfono: 921 346 135
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1436256
+Longitud: -78.52505
+Google Maps: https://www.google.com/maps?cid=5758117206116884400
+Place Id: ChIJo3qsQgBbspERsF-pVRfx6E8
+Fotos: Moto repuestos el paisita.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

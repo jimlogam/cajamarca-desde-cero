@@ -1,0 +1,17 @@
+Nombre: Motos Paco Meza
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: 51, Cajamarca 06001
+Teléfono: 965 750 867
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1721299
+Longitud: -78.4997973
+Google Maps: https://www.google.com/maps?cid=6010062800849511765
+Place Id: ChIJ5VM0nvVbspERVaVsUkYIaFM
+Fotos: Motos Paco Meza.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

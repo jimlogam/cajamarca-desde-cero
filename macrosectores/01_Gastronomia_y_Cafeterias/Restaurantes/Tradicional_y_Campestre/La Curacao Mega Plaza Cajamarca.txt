@@ -1,0 +1,17 @@
+Nombre: La Curacao Mega Plaza Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de electrónica, Tienda de electrodomésticos, Tienda de mobiliario para dormitorios, Tienda de accesorios para móviles, Tienda de móviles, Tienda de accesorios informáticos, Tienda de artículos para el hogar, Tienda de deportes, Tienda de videojuegos
+Dirección: Ex "El Quinde, Centro Comercial MegaPlaza, Av. Hoyos Rubio, Cajamarca 06001
+Teléfono: (01) 2002870
+Rating: 3.7
+Reseñas: 65
+Sitio web: http://www.lacuracao.pe/
+Latitud: -7.1494605
+Longitud: -78.5091176
+Google Maps: https://www.google.com/maps?cid=5803981655873175226
+Place Id: ChIJx1oo8_FaspERuj40sZDii1A
+Fotos: La Curacao Mega Plaza Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

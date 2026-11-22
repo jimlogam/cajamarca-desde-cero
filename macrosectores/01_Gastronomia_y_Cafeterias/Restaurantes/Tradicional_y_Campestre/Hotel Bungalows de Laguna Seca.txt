@@ -1,0 +1,17 @@
+Nombre: Hotel Bungalows de Laguna Seca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Alojamiento
+Dirección: Jirón La Retama 034, Baños del Inca 06004
+Teléfono: 910 826 014
+Rating: 4.2
+Reseñas: 15
+Sitio web: 
+Latitud: -7.1625342
+Longitud: -78.4597297
+Google Maps: https://www.google.com/maps?cid=6293432209771598010
+Place Id: ChIJ_W3YBStFspERuhBwMUDDVlc
+Fotos: Hotel Bungalows de Laguna Seca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

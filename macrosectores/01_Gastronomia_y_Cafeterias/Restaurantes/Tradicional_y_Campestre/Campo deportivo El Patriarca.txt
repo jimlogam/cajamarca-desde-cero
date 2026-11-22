@@ -1,0 +1,17 @@
+Nombre: Campo deportivo El Patriarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Polideportivo
+Dirección: VFMC+R4H, 3N, Cajamarca 06000
+Teléfono: 
+Rating: 4.4
+Reseñas: 25
+Sitio web: 
+Latitud: -7.1154287
+Longitud: -78.5296334
+Google Maps: https://www.google.com/maps?cid=18047111100189253283
+Place Id: ChIJFzHVYkdRspERox7KjO03dPo
+Fotos: Campo deportivo El Patriarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

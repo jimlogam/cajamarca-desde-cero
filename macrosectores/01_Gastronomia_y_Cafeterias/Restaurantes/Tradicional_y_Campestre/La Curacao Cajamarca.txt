@@ -1,0 +1,17 @@
+Nombre: La Curacao Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de electrónica, Tienda de mobiliario para dormitorios, Tienda de accesorios para móviles, Tienda de móviles, Tienda de accesorios informáticos, Tienda de electrodomésticos, Tienda de muebles, Tienda de artículos para el hogar, Tienda de deportes, Tienda de videojuegos
+Dirección: Jirón del Comercio 680, Cajamarca 06001
+Teléfono: (01) 2002870
+Rating: 3.7
+Reseñas: 84
+Sitio web: http://www.lacuracao.pe/
+Latitud: -7.155911799999999
+Longitud: -78.5198204
+Google Maps: https://www.google.com/maps?cid=12451491305032119489
+Place Id: ChIJQ8IihvhaspERwfRNAF-VzKw
+Fotos: La Curacao Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: plazaVea Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Hipermercado
+Dirección: Vía de Evitamiento Nte. 2317, Cajamarca 06002
+Teléfono: 
+Rating: 4.2
+Reseñas: 2633
+Sitio web: https://www.plazavea.com.pe/cyber-wow?utm_source=google&utm_medium=organic&utm_campaign=GMB_SitioWeb
+Latitud: -7.1546679
+Longitud: -78.50537849999999
+Google Maps: https://www.google.com/maps?cid=8841573469400286129
+Place Id: ChIJb-ajlQVbspERsUMfyzmUs3o
+Fotos: plazaVea Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

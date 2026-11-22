@@ -1,0 +1,17 @@
+Nombre: Digsa Ferreterías
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de herramientas, Mayorista de accesorios automotrices
+Dirección: Jr, Los Álamos 375, Cajamarca 06001
+Teléfono: 920 047 388
+Rating: 
+Reseñas: 
+Sitio web: https://www.digsa.pe/
+Latitud: -7.145022
+Longitud: -78.52198
+Google Maps: https://www.google.com/maps?cid=17762612485052010216
+Place Id: ChIJLys4EaNbspER6I5x3vF5gfY
+Fotos: Digsa Ferreterías.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

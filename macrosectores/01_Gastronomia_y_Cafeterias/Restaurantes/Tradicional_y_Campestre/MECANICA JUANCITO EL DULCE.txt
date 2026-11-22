@@ -1,0 +1,17 @@
+Nombre: MECANICA JUANCITO EL DULCE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: RGF4+F5G, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1763027
+Longitud: -78.4945475
+Google Maps: https://www.google.com/maps?cid=12268444338893873733
+Place Id: ChIJvbANGgBbspERReJrDiBFQqo
+Fotos: MECANICA JUANCITO EL DULCE.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: KAYO MOTO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: Av Vía de Evitamiento Nte 2588, Cajamarca 06001
+Teléfono: 954 985 107
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1472216
+Longitud: -78.5081131
+Google Maps: https://www.google.com/maps?cid=4369995359659367853
+Place Id: ChIJ2VUZ5-1aspERrR2aWqBXpTw
+Fotos: KAYO MOTO.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

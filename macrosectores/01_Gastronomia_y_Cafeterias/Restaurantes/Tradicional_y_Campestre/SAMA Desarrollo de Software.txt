@@ -1,0 +1,17 @@
+Nombre: SAMA Desarrollo de Software
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de software
+Dirección: Cajamarca 06002
+Teléfono: 924 025 683
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1633144
+Longitud: -78.5109428
+Google Maps: https://www.google.com/maps?cid=3393722362952810132
+Place Id: ChIJ1XSLStlbspERlP4ZJoLsGC8
+Fotos: SAMA Desarrollo de Software.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

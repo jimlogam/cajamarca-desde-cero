@@ -1,0 +1,17 @@
+Nombre: Carniceria La Preferida
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carnicería
+Dirección: RFRR+R82, 7 de Junio, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1579948
+Longitud: -78.5092336
+Google Maps: https://www.google.com/maps?cid=18069466892943672255
+Place Id: ChIJyUs6q-RaspERv8OWKmekw_o
+Fotos: Carniceria La Preferida.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

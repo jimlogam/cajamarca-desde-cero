@@ -1,0 +1,17 @@
+Nombre: KAMILE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de cosméticos
+Dirección: Jr. Cáceres 1235, Cajabamba 06351
+Teléfono: 939 609 833
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/kamile.bri
+Latitud: -7.6249908
+Longitud: -78.04145749999999
+Google Maps: https://www.google.com/maps?cid=7883789983750283012
+Place Id: ChIJjTif7235rZERBN83WTjZaG0
+Fotos: KAMILE.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

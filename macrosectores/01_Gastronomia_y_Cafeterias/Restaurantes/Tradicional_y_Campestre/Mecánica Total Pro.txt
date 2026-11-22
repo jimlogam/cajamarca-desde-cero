@@ -1,0 +1,17 @@
+Nombre: Mecánica Total Pro
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: Jirón Huánuco 2502, Cajamarca 06002
+Teléfono: 949 327 017
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1660764
+Longitud: -78.5130496
+Google Maps: https://www.google.com/maps?cid=3556831993436665534
+Place Id: ChIJ0R80OFBbspERvnaJZtpnXDE
+Fotos: Mecánica Total Pro.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

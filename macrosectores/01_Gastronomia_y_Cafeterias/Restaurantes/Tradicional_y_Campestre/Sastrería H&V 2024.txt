@@ -1,0 +1,17 @@
+Nombre: Sastrería H&V 2024
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Sastre para hombres
+Dirección: Jirón Rioja S/N, Cajamarca 06001
+Teléfono: 973 876 062
+Rating: 
+Reseñas: 
+Sitio web: https://sastreria-h.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1617465
+Longitud: -78.51278549999999
+Google Maps: https://www.google.com/maps?cid=7820929225364308348
+Place Id: ChIJ-zPaKppbspERfIFPg7GFiWw
+Fotos: Sastrería H&V 2024.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

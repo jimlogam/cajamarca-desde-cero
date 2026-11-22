@@ -1,0 +1,17 @@
+Nombre: DivertimundoKIDS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Organizador de eventos
+Dirección: Jr, Jirón Huancavelica # 358, Cajamarca 00666
+Teléfono: 945 513 923
+Rating: 
+Reseñas: 
+Sitio web: https://m.facebook.com/story.php?story_fbid=553108108880459&id=217125429145397
+Latitud: -7.1488067
+Longitud: -78.5201754
+Google Maps: https://www.google.com/maps?cid=361386326338841528
+Place Id: ChIJkUwj1HdbspERuCsc-PLmAwU
+Fotos: DivertimundoKIDS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

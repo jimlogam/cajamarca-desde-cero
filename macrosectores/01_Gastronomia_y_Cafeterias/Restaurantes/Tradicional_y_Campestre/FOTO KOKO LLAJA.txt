@@ -1,0 +1,17 @@
+Nombre: FOTO KOKO LLAJA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Estudio de fotografía
+Dirección: Jiron Comercio 240, Cutervo 06701
+Teléfono: 975 969 911
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -6.376668899999999
+Longitud: -78.8188557
+Google Maps: https://www.google.com/maps?cid=12828125834552877950
+Place Id: ChIJ8XDkMVx7s5ERfiOJ7nqoBrI
+Fotos: FOTO KOKO LLAJA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

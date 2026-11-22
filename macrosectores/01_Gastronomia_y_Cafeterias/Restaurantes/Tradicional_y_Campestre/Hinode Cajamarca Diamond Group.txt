@@ -1,0 +1,17 @@
+Nombre: Hinode Cajamarca Diamond Group
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Proveedor de productos de belleza
+Dirección: Jr, El Mutuy, Cajamarca 06002
+Teléfono: 969 261 891
+Rating: 
+Reseñas: 
+Sitio web: https://hinodecajamarca-diamondgroup.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1565243
+Longitud: -78.5220944
+Google Maps: https://www.google.com/maps?cid=6450097294442457254
+Place Id: ChIJPQzlhYNbspERpmjzsVBZg1k
+Fotos: Hinode Cajamarca Diamond Group.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

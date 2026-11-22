@@ -1,0 +1,17 @@
+Nombre: Luxury Diamond
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de productos de belleza
+Dirección: Andes 258, Cajamarca 06001
+Teléfono: 940 585 656
+Rating: 5
+Reseñas: 9
+Sitio web: https://www.luxurydiamondperu.com/
+Latitud: -7.168975499999999
+Longitud: -78.501434
+Google Maps: https://www.google.com/maps?cid=14432214239849130766
+Place Id: ChIJdZFD5U9bspERDquK0GKGScg
+Fotos: Luxury Diamond.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

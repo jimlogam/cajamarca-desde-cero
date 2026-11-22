@@ -1,0 +1,17 @@
+Nombre: Distribudior Autoriizado de Claro - Nibep
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Proveedor de servicios de telecomunicaciones
+Dirección: Jr, Jr. Apurimac 997, Cajamarca
+Teléfono: 980 627 752
+Rating: 5
+Reseñas: 3
+Sitio web: https://www.facebook.com/Distribuidor-Autorizado-Claro-112609297104647
+Latitud: -7.1542894
+Longitud: -78.517304
+Google Maps: https://www.google.com/maps?cid=4177658655559700953
+Place Id: ChIJW5VkH3dbspER2dF4vWkG-jk
+Fotos: Distribudior Autoriizado de Claro - Nibep.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

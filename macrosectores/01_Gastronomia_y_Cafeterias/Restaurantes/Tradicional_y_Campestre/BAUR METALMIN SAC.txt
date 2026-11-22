@@ -1,0 +1,17 @@
+Nombre: BAUR METALMIN SAC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Soldador, Chapistería, Empresa de construcciones metálicas, Tienda de suministros para soldadura
+Dirección: El Misti 336, Cajamarca 06002
+Teléfono: 991 139 331
+Rating: 4.6
+Reseñas: 5
+Sitio web: https://www.bazanurteaga.com/
+Latitud: -7.1598831
+Longitud: -78.5068265
+Google Maps: https://www.google.com/maps?cid=2300631496976101006
+Place Id: ChIJPQ-YDuNaspERju5VQCh87R8
+Fotos: BAUR METALMIN SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

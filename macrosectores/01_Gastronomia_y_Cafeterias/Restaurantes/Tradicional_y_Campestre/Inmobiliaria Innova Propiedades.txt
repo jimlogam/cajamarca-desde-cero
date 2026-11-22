@@ -1,0 +1,17 @@
+Nombre: Inmobiliaria Innova Propiedades
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia inmobiliaria
+Dirección: Av. Independencia 256, Cajamarca 06001
+Teléfono: 975 020 601
+Rating: 5
+Reseñas: 2
+Sitio web: https://innovapropiedades.com.pe/
+Latitud: -7.164769
+Longitud: -78.5115074
+Google Maps: https://www.google.com/maps?cid=17663481956310911770
+Place Id: ChIJ4YxHDxmbjQQRGgtvDkFLIfU
+Fotos: Inmobiliaria Innova Propiedades.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

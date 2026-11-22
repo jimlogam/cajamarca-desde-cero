@@ -1,0 +1,17 @@
+Nombre: BANDA SERVICIOS GENERALES E.I.R.L.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de transporte
+Dirección: VF7R+8PH, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1364684
+Longitud: -78.509434
+Google Maps: https://www.google.com/maps?cid=17870495715161355360
+Place Id: ChIJec8yNFBbspERYDRVxivBAPg
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Plasticos y Descartables- Corporacion Alva Marin
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Proveedor de plástico
+Dirección: MERCADO CHONTAPACCHA, San Gerónimo 240, Cajamarca 06001
+Teléfono: 904 856 909
+Rating: 
+Reseñas: 
+Sitio web: https://web.facebook.com/groups/458188865709026
+Latitud: -7.1453269
+Longitud: -78.5231462
+Google Maps: https://www.google.com/maps?cid=16931277055202813753
+Place Id: ChIJwY4vZUhbspEROecVpcb69-o
+Fotos: Plasticos y Descartables- Corporacion Alva Marin.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

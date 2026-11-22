@@ -1,0 +1,17 @@
+Nombre: Servicios Generales DHD
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Fabricante de productos textiles
+Dirección: Contamana 280, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1521754
+Longitud: -78.51738999999999
+Google Maps: https://www.google.com/maps?cid=5670876464176338183
+Place Id: ChIJQR_nWQBbspERB5VaPBkAs04
+Fotos: Servicios Generales DHD.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

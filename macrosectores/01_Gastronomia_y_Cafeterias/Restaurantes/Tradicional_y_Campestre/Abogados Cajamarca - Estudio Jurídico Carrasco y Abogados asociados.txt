@@ -1,0 +1,17 @@
+Nombre: Abogados Cajamarca - Estudio Jurídico Carrasco y Abogados asociados
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Abogado
+Dirección: Jr. Cardosanto 128, Av. Mario Urteaga 191, Cajamarca 06001
+Teléfono: 955 037 875
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1652998
+Longitud: -78.4999138
+Google Maps: https://www.google.com/maps?cid=4717710787796093815
+Place Id: ChIJic7R1S5bspERd0udS_eseEE
+Fotos: Abogados Cajamarca - Estudio Jurídico Carrasco y Abogados asociados.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

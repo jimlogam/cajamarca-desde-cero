@@ -1,0 +1,17 @@
+Nombre: Oriflame Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Fabricante de cosméticos
+Dirección: Jr, Los Tulipanes 238, Cajamarca
+Teléfono: 
+Rating: 5
+Reseñas: 5
+Sitio web: http://oriflamecajamarca.blogspot.com/?m=1
+Latitud: -7.1721806
+Longitud: -78.4979736
+Google Maps: https://www.google.com/maps?cid=15828423212177647794
+Place Id: ChIJmb_Q25FbspERsmhlhAzbqds
+Fotos: Oriflame Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

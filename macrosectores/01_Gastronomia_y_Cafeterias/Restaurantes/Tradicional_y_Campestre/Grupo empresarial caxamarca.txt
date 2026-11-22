@@ -1,0 +1,17 @@
+Nombre: Grupo empresarial caxamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: Av San Martín de Porres 1031 0076, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1715431999999995
+Longitud: -78.50098489999999
+Google Maps: https://www.google.com/maps?cid=15926109287446839178
+Place Id: ChIJ0fGpXUtbspERin9RTAToBN0
+Fotos: Grupo empresarial caxamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

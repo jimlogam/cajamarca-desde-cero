@@ -1,0 +1,17 @@
+Nombre: CEMEGA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Consultora de marketing, Escuela de cocina, Imprenta
+Dirección: Jr, Mariano Melgar 354, Cajamarca 06001
+Teléfono: 961 407 171
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.157098899999999
+Longitud: -78.5089242
+Google Maps: https://www.google.com/maps?cid=2944511467343933382
+Place Id: ChIJFYLaMRZbspERxm8ZMJQB3Sg
+Fotos: CEMEGA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

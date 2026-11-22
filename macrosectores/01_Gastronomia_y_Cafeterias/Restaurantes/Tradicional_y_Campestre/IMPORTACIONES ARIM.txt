@@ -1,0 +1,17 @@
+Nombre: IMPORTACIONES ARIM
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Importador, Mayorista
+Dirección: Jirón Silva Santisteban 621, Cajamarca 06002
+Teléfono: 964 449 148
+Rating: 5
+Reseñas: 3
+Sitio web: https://arimimportaciones.com/
+Latitud: -7.161321999999999
+Longitud: -78.5142848
+Google Maps: https://www.google.com/maps?cid=4632651800608536113
+Place Id: ChIJIflMgsFbspERMXZYj0R8SkA
+Fotos: IMPORTACIONES ARIM.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

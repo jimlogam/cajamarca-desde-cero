@@ -1,0 +1,17 @@
+Nombre: BATERIAS AUTOBAT SAC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de baterías para automóvil, Tienda de repuestos para automóviles
+Dirección: Av. Vía de Evitamiento Sur 297, Cajamarca 06002
+Teléfono: 995 656 092
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1605035
+Longitud: -78.5054613
+Google Maps: https://www.google.com/maps?cid=5224759619620086728
+Place Id: ChIJP0COtONaspERyKNCLDETgkg
+Fotos: BATERIAS AUTOBAT SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

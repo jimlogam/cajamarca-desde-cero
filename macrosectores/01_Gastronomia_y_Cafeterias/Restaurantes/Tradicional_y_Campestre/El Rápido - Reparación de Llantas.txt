@@ -1,0 +1,17 @@
+Nombre: El Rápido - Reparación de Llantas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: 3N 300, Cajamarca 06003
+Teléfono: 960 850 684
+Rating: 3.8
+Reseñas: 14
+Sitio web: 
+Latitud: -7.1815809999999995
+Longitud: -78.482877
+Google Maps: https://www.google.com/maps?cid=15192950674085390365
+Place Id: ChIJM5xNbTZbspERHSjkciQ02NI
+Fotos: El Rápido - Reparación de Llantas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Distribuidora Carranza Hnos. SAC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: Av. Hoyos Rubio Nro. 1272, Cajamarca 06001
+Teléfono: 942 911 056
+Rating: 
+Reseñas: 
+Sitio web: https://dch.com.pe/
+Latitud: -7.1481964
+Longitud: -78.50380059999999
+Google Maps: https://www.google.com/maps?cid=16902306315667842021
+Place Id: ChIJGbh8su5aspER5SM5tgoOkeo
+Fotos: Distribuidora Carranza Hnos. SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

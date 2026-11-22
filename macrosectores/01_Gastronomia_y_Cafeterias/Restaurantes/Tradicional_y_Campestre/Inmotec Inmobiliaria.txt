@@ -1,0 +1,17 @@
+Nombre: Inmotec Inmobiliaria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia inmobiliaria
+Dirección: Pje. San Felipe Neri 137, Cajamarca 06000
+Teléfono: 975 764 835
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.147424699999999
+Longitud: -78.5110105
+Google Maps: https://www.google.com/maps?cid=6417866027524128237
+Place Id: ChIJWWlCrQVbspER7X2fEibXEFk
+Fotos: Inmotec Inmobiliaria.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

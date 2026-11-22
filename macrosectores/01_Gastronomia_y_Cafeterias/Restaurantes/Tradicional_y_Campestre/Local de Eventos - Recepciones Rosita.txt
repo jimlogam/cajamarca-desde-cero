@@ -1,0 +1,17 @@
+Nombre: Local de Eventos - Recepciones Rosita
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón para eventos
+Dirección: Carretera a Otuzco, Cajamarca 06001
+Teléfono: 949 155 208
+Rating: 3.5
+Reseñas: 2
+Sitio web: https://eventosrosita.pe/
+Latitud: -7.1389195999999995
+Longitud: -78.4792504
+Google Maps: https://www.google.com/maps?cid=897262581522641958
+Place Id: ChIJcd1TwB9FspERJjToYZC3cww
+Fotos: Local de Eventos - Recepciones Rosita.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: RAGDE Estudio Juridico Contable
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: Av. Mártires de Uchuraccay 540, Cajamarca 06003
+Teléfono: 997 629 711
+Rating: 3.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.168033599999999
+Longitud: -78.5030979
+Google Maps: https://www.google.com/maps?cid=2846842717820014424
+Place Id: ChIJ9-hypR5bspERWM8RX14Egic
+Fotos: RAGDE Estudio Juridico Contable.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: DIRSEL SERVICIOS GENERALES S.R.L
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de logística
+Dirección: BAR. MIRAFLORES, PJ. GREGORIO PITA 170, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1455329
+Longitud: -78.5243593
+Google Maps: https://www.google.com/maps?cid=497617494428952795
+Place Id: ChIJz_RzOfpbspER2yh1hXnk5wY
+Fotos: DIRSEL SERVICIOS GENERALES S.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

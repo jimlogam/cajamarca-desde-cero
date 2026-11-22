@@ -1,0 +1,17 @@
+Nombre: Botica Galán
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Distribuidor al por mayor de medicamentos
+Dirección: Jr, Prol. Revilla Perez 501, Cajamarca 06001
+Teléfono: 921 310 787
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.tiktok.com/@boticagalan25?_t=ZS-90WxsWfHE3O&_r=1
+Latitud: -7.149361099999999
+Longitud: -78.5121053
+Google Maps: https://www.google.com/maps?cid=9177893372451992854
+Place Id: ChIJYXEkfZ9bspERFrVpS2VtXn8
+Fotos: Botica Galán.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

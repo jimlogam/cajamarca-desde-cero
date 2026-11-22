@@ -1,0 +1,17 @@
+Nombre: Jjheryshow- Un mundo de risas y colores
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de fiestas infantiles
+Dirección: 06001, Cajamarca 06001
+Teléfono: 920 219 730
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.178767199999999
+Longitud: -78.50843929999999
+Google Maps: https://www.google.com/maps?cid=2005549579669263363
+Place Id: ChIJ630ZL-VbspERA9Seg7ck1Rs
+Fotos: Jjheryshow- Un mundo de risas y colores.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

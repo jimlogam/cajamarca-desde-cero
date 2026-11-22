@@ -1,0 +1,17 @@
+Nombre: ALCASA INMOBILIARIA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia inmobiliaria
+Dirección: Unión 747, Cajamarca 06001
+Teléfono: 928 339 405
+Rating: 
+Reseñas: 
+Sitio web: http://www.alcasa.pe/
+Latitud: -7.158402499999999
+Longitud: -78.5216902
+Google Maps: https://www.google.com/maps?cid=17095580020415229586
+Place Id: ChIJTRSU4NJbspERkm4dynOzP-0
+Fotos: ALCASA INMOBILIARIA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

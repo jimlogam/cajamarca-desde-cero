@@ -1,0 +1,17 @@
+Nombre: RH SERVICIOS GENERALES
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de fumigación y control de plagas
+Dirección: Mateo Pumacahua 222, Cajamarca 06001
+Teléfono: 976 602 565
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1559092
+Longitud: -78.5091467
+Google Maps: https://www.google.com/maps?cid=15832362790440138985
+Place Id: ChIJqwY0ZHk8JIcR6fhLDxPat9s
+Fotos: RH SERVICIOS GENERALES.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

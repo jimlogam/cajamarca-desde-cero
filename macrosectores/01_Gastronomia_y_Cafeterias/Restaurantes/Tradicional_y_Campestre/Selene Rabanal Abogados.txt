@@ -1,0 +1,17 @@
+Nombre: Selene Rabanal Abogados
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Abogado
+Dirección: Pasaje Huascaran 152, Cajamarca 06001
+Teléfono: 929 434 733
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/share/1bCUbNZJyJ/?mibextid=wwXIfr
+Latitud: -7.1482459
+Longitud: -78.5235208
+Google Maps: https://www.google.com/maps?cid=14797163023304563286
+Place Id: ChIJtwh8mcJbspERVhqd914VWs0
+Fotos: Selene Rabanal Abogados.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

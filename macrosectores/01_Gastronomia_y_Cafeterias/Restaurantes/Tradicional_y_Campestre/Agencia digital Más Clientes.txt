@@ -1,0 +1,17 @@
+Nombre: Agencia digital Más Clientes
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de marketing, Servicio de marketing por Internet, Diseñador de sitios web
+Dirección: La Mar 234, Cajamarca 06001
+Teléfono: 960 420 564
+Rating: 5
+Reseñas: 2
+Sitio web: https://masclientes.pe/
+Latitud: -7.158741
+Longitud: -78.5217557
+Google Maps: https://www.google.com/maps?cid=7982964669297095091
+Place Id: ChIJSdAxa6tbspERs3HyNxIwyW4
+Fotos: Agencia digital Más Clientes.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

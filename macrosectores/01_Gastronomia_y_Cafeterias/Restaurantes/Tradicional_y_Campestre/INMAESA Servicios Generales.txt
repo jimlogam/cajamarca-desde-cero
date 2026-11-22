@@ -1,0 +1,17 @@
+Nombre: INMAESA Servicios Generales
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa constructora
+Dirección: Jr, Los Girasoles #151, Cajamarca 05176
+Teléfono: 956 268 186
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1705017
+Longitud: -78.50170899999999
+Google Maps: https://www.google.com/maps?cid=8001801301943408789
+Place Id: ChIJrZidVtZbspERlViYheMbDG8
+Fotos: INMAESA Servicios Generales.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

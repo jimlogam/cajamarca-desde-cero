@@ -1,0 +1,17 @@
+Nombre: MAXMOTOS CAJAMARCA MOTOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de motocicletas, Concesionario de escúteres, Concesionario de motos
+Dirección: Av. Vía de Evitamiento Sur 446, Cajamarca 06001
+Teléfono: 916 611 321
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.162271499999999
+Longitud: -78.5045202
+Google Maps: https://www.google.com/maps?cid=4584140833472802018
+Place Id: ChIJQ23ioR1bspER4myC28wjnj8
+Fotos: MAXMOTOS CAJAMARCA MOTOS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Taller mecánico
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: 3N 778, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.146202499999999
+Longitud: -78.5197158
+Google Maps: https://www.google.com/maps?cid=1182203667892994228
+Place Id: ChIJ4dRuch5bspERtADt7PgHaBA
+Fotos: Taller mecánico.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

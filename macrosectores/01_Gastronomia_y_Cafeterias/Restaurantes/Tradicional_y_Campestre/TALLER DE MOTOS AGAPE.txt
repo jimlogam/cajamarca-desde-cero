@@ -1,0 +1,17 @@
+Nombre: TALLER DE MOTOS AGAPE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: Av. Vía de Evitamiento Sur 2516, Cajamarca 06002
+Teléfono: 
+Rating: 3.3
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1582102
+Longitud: -78.5066834
+Google Maps: https://www.google.com/maps?cid=14197647389088426191
+Place Id: ChIJ70LwQ9BbspERzyje-BMtCMU
+Fotos: TALLER DE MOTOS AGAPE.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

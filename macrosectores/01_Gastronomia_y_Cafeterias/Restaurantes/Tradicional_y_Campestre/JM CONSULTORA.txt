@@ -1,0 +1,17 @@
+Nombre: JM CONSULTORA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de registros contables
+Dirección: Jr, San Roque 623, Cajamarca 06002
+Teléfono: 916 226 825
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.153181699999999
+Longitud: -78.5069305
+Google Maps: https://www.google.com/maps?cid=2642475959018536366
+Place Id: ChIJHdEyp8lbspERrj3PYOL1qyQ
+Fotos: JM CONSULTORA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

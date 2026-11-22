@@ -1,0 +1,17 @@
+Nombre: Electrocax
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: Av. Mártires de Uchuraccay 655, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1686612
+Longitud: -78.50245269999999
+Google Maps: https://www.google.com/maps?cid=14842429328249684813
+Place Id: ChIJyddJSxlbspERTYMp4tXm-s0
+Fotos: Electrocax.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

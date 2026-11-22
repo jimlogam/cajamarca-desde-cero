@@ -1,0 +1,17 @@
+Nombre: Camping House_La Colpa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Casa rural, Urbanización
+Dirección: L8950, Cajamarca 06004
+Teléfono: 944 445 476
+Rating: 
+Reseñas: 
+Sitio web: https://inversionesjefdan.com/
+Latitud: -7.223941399999999
+Longitud: -78.4482585
+Google Maps: https://www.google.com/maps?cid=12074270326939264591
+Place Id: ChIJsazBGwBDspERTyZB3-NskKc
+Fotos: Camping House_La Colpa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Decoraciones Lumaz
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Organizador de eventos
+Dirección: 17003, Cajamarca 06001
+Teléfono: 937 069 605
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/Decoracionelumazcajamarca
+Latitud: -7.148409699999999
+Longitud: -78.5199457
+Google Maps: https://www.google.com/maps?cid=1337141322125059367
+Place Id: ChIJQ8sOuA9bspERJ6XCr_J6jhI
+Fotos: Decoraciones Lumaz.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

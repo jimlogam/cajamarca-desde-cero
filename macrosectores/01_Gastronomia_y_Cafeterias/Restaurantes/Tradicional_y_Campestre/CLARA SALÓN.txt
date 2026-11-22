@@ -1,0 +1,17 @@
+Nombre: CLARA SALÓN
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón de manicura y pedicura
+Dirección: Jr, Rafael Narváez 378, Cajamarca 06001
+Teléfono: 960 246 375
+Rating: 5
+Reseñas: 132
+Sitio web: https://www.instagram.com/clarasalon_cajamarca/
+Latitud: -7.1509184
+Longitud: -78.50377449999999
+Google Maps: https://www.google.com/maps?cid=14268127191933005557
+Place Id: ChIJixwSw4xbspER9S5C1RWSAsY
+Fotos: CLARA SALÓN.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: HYC SERVICIOS ELÉCTRICOS VÁSQUEZ EIRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Electricista
+Dirección: JR, Los Naranjos 340, Cajamarca
+Teléfono: 967 702 464
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1485059
+Longitud: -78.5134693
+Google Maps: https://www.google.com/maps?cid=198021001879780043
+Place Id: ChIJTd6k14NbspERy3ocUw2DvwI
+Fotos: HYC SERVICIOS ELÉCTRICOS VÁSQUEZ EIRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

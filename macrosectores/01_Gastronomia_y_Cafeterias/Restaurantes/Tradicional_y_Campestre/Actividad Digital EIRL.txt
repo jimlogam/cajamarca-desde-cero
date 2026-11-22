@@ -1,0 +1,17 @@
+Nombre: Actividad Digital EIRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Consultora informática
+Dirección: San Martín 251, Cajamarca 06001
+Teléfono: 965 218 114
+Rating: 
+Reseñas: 
+Sitio web: https://www.actividaddigital.com/
+Latitud: -7.1587514
+Longitud: -78.5189244
+Google Maps: https://www.google.com/maps?cid=16887059852854812986
+Place Id: ChIJCdjsM_9aspEROuEr9nbjWuo
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

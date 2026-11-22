@@ -1,0 +1,17 @@
+Nombre: Becerra multiservicios automotriz
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Jr, Calle Antonio Castañeda 100, Cajamarca
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.143244999999999
+Longitud: -78.5084349
+Google Maps: https://www.google.com/maps?cid=15404095827307773516
+Place Id: ChIJo6O5TwBbspERTL7BYIpXxtU
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

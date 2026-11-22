@@ -1,0 +1,17 @@
+Nombre: CARVALI Servicios Generales y Construcción E.I.R.L.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Fabricante de estructuras metálicas, Proveedor de productos de metal
+Dirección: Jr, Cinco Esquinas 1448, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: http://carvali.com.pe/?fbclid=IwVERDUAQx8PVmZGlkFlA6HyKyjUKQnDpmit3FbEgsFVYmwFhleHRuA2FlbQIxMABzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeeLj8jWjlVKbMxI3uMqMRGQfdFBZpdGZkwUIKom6Db1RqixNvKkXJyxXUesA_aem_H7-9BSmxOmd4aQ8qk1Ktpg
+Latitud: -7.153308999999999
+Longitud: -78.50848979999999
+Google Maps: https://www.google.com/maps?cid=16334955866961702836
+Place Id: ChIJ80Vb4hJbspERtG_vj9BrseI
+Fotos: CARVALI Servicios Generales y Construcción E.I.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

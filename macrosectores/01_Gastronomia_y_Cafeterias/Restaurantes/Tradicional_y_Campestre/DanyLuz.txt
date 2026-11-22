@@ -1,0 +1,17 @@
+Nombre: DanyLuz
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Imprenta
+Dirección: Dos de Mayo 1122, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1519783
+Longitud: -78.5130921
+Google Maps: https://www.google.com/maps?cid=5249861932413434139
+Place Id: ChIJGVPUAQBbspERGzlZ0ZxB20g
+Fotos: DanyLuz.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

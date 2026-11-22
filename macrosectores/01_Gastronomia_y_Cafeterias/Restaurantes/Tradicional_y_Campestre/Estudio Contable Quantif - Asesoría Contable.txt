@@ -1,0 +1,17 @@
+Nombre: Estudio Contable Quantif | Asesoría Contable
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contador público, Contable
+Dirección: Jr, Emilio Barrantes 270, Cajamarca 06001
+Teléfono: 915 161 862
+Rating: 5
+Reseñas: 4
+Sitio web: https://quantif.pe/
+Latitud: -7.1493768
+Longitud: -78.5064889
+Google Maps: https://www.google.com/maps?cid=16981433206610548178
+Place Id: ChIJ56dQ0O5bspER0lULqYcrqus
+Fotos: Estudio Contable Quantif - Asesoría Contable.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

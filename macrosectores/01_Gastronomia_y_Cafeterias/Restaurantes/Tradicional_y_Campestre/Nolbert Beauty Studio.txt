@@ -1,0 +1,17 @@
+Nombre: Nolbert Beauty Studio
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de estética, Peluquería
+Dirección: Av. Hoyos Rubio 662A, Cajamarca 06001
+Teléfono: 918 168 585
+Rating: 4.9
+Reseñas: 93
+Sitio web: 
+Latitud: -7.1502633
+Longitud: -78.5095006
+Google Maps: https://www.google.com/maps?cid=7583333048108465094
+Place Id: ChIJHf7YGwBbspERxjv8oTppPWk
+Fotos: Nolbert Beauty Studio.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

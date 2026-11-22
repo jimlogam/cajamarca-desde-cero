@@ -1,0 +1,17 @@
+Nombre: Terrenos en Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agentes inmobiliarios
+Dirección: Emilio Barrantes N° 270, Cajamarca 06001
+Teléfono: 933 014 099
+Rating: 
+Reseñas: 
+Sitio web: https://requelmeinmobiliaria.com/venecia/
+Latitud: -7.149377299999999
+Longitud: -78.5064895
+Google Maps: https://www.google.com/maps?cid=5392173629929152738
+Place Id: ChIJQ0PZI75bspER4uAn81jZ1Eo
+Fotos: Terrenos en Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

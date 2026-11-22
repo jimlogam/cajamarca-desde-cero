@@ -1,0 +1,17 @@
+Nombre: ASESORIA CONTABLE H&R CONTADORES
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de contabilidad
+Dirección: VF3R+X3F, Cajamarca 06001
+Teléfono: 927 995 539
+Rating: 4.5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1450546
+Longitud: -78.50982429999999
+Google Maps: https://www.google.com/maps?cid=14259665770032815450
+Place Id: ChIJcTp2ffJaspERWl2ahneC5MU
+Fotos: ASESORIA CONTABLE H&R CONTADORES.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

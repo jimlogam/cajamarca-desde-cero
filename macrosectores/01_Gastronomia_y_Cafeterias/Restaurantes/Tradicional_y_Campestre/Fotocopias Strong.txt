@@ -1,0 +1,17 @@
+Nombre: Fotocopias Strong
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Societe de Flocage
+Dirección: Av. Tarsicio Bazán Zegarra, Cajamarca 06003
+Teléfono: 995 179 473
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1671827
+Longitud: -78.4956909
+Google Maps: https://www.google.com/maps?cid=13882838638114792707
+Place Id: ChIJc_DgvvZbspERA2Xm2i_AqcA
+Fotos: Fotocopias Strong.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

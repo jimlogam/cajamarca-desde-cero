@@ -1,0 +1,17 @@
+Nombre: Mi Nueva Imagen - Laceados Jhenny
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de estética
+Dirección: Jacarandá 317, Cajamarca 06002
+Teléfono: 979 996 317
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1528735
+Longitud: -78.5071246
+Google Maps: https://www.google.com/maps?cid=5898782690491077291
+Place Id: ChIJ993iCrdbspERq5LxmZqv3FE
+Fotos: Mi Nueva Imagen - Laceados Jhenny.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

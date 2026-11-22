@@ -1,0 +1,17 @@
+Nombre: Campo de futbol EL NAMORINO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Club deportivo
+Dirección: Av. Manuel Noriega 132, Cajamarca 06001
+Teléfono: 
+Rating: 4.3
+Reseñas: 21
+Sitio web: https://www.facebook.com/profile.php?id=100075626061759&mibextid=PzaGJu
+Latitud: -7.1335212
+Longitud: -78.50715869999999
+Google Maps: https://www.google.com/maps?cid=12618299524800471255
+Place Id: ChIJg1Pd07xbspER12A2LZA0Ha8
+Fotos: Campo de futbol EL NAMORINO.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

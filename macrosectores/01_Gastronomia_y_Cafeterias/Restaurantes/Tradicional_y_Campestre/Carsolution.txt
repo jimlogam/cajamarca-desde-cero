@@ -1,0 +1,17 @@
+Nombre: Carsolution
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de automóviles
+Dirección: Jr. Bolívar 306, Cajamarca 06001
+Teléfono: 969 249 377
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.167152
+Longitud: -78.5116345
+Google Maps: https://www.google.com/maps?cid=2645551372535977713
+Place Id: ChIJUbnNZSRbspER8dYN4_TitiQ
+Fotos: Carsolution.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

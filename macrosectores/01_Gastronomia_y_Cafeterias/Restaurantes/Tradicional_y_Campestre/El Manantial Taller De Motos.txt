@@ -1,0 +1,17 @@
+Nombre: El Manantial Taller De Motos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Av San Martín de Porres 1677, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1757005
+Longitud: -78.4966431
+Google Maps: https://www.google.com/maps?cid=1485719952248345422
+Place Id: ChIJ4Wd0bT1bspERThN5xWxWnhQ
+Fotos: El Manantial Taller De Motos.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

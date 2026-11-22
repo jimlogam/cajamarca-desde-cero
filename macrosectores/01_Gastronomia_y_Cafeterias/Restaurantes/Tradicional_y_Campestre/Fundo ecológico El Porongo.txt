@@ -1,0 +1,17 @@
+Nombre: Fundo ecológico El Porongo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Rancho ganadero
+Dirección: RGRG+43M, Cajamarca 06004
+Teléfono: 
+Rating: 4.4
+Reseñas: 75
+Sitio web: 
+Latitud: -7.159666
+Longitud: -78.47483919999999
+Google Maps: https://www.google.com/maps?cid=10374907206433284847
+Place Id: ChIJy7-x19ZEspER76IYuSIT-48
+Fotos: Fundo ecológico El Porongo.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

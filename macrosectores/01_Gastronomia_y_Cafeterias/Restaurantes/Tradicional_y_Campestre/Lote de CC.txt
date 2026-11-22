@@ -1,0 +1,17 @@
+Nombre: Lote de CC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Camping
+Dirección: RGQC+QXC, Cajamarca 06004
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.16041
+Longitud: -78.478532
+Google Maps: https://www.google.com/maps?cid=2142090147398268662
+Place Id: ChIJtUzwNwBbspER9raJyKM7uh0
+Fotos: Lote de CC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

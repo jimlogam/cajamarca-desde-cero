@@ -1,0 +1,17 @@
+Nombre: BFE express
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de envíos
+Dirección: Los Tulipanes 385, Cajamarca 06003
+Teléfono: 
+Rating: 2
+Reseñas: 27
+Sitio web: 
+Latitud: -7.171364199999999
+Longitud: -78.4974354
+Google Maps: https://www.google.com/maps?cid=8276886206878417870
+Place Id: ChIJLXpCQwBbspERzoNR_yZo3XI
+Fotos: BFE express.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

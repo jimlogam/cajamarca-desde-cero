@@ -1,0 +1,17 @@
+Nombre: ELECTRONICA V&V
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de electrodomésticos
+Dirección: Av Vía de Evitamiento Nte 953, Cajamarca 06001
+Teléfono: 941 258 782
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1457799
+Longitud: -78.51841519999999
+Google Maps: https://www.google.com/maps?cid=14519897301676268446
+Place Id: ChIJNfoNx4RbspERnhuRiaoJgck
+Fotos: ELECTRONICA V&V.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

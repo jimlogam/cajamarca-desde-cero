@@ -1,0 +1,17 @@
+Nombre: ALMACENAMIENTO Y DISTRIBUCION DE ENCOMIENDAS EN CAJAMARCA servydist express
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de envíos
+Dirección: jr, Ronquillo 315, Cajamarca
+Teléfono: 947 669 921
+Rating: 3
+Reseñas: 1
+Sitio web: 
+Latitud: -7.159002399999999
+Longitud: -78.527642
+Google Maps: https://www.google.com/maps?cid=10721824797236498041
+Place Id: ChIJ5_mg9A5bspEReY5Br9iSy5Q
+Fotos: ALMACENAMIENTO Y DISTRIBUCION DE ENCOMIENDAS EN CAJAMARCA servydist express.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

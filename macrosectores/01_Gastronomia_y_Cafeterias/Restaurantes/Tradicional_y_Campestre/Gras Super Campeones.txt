@@ -1,0 +1,17 @@
+Nombre: Gras Super Campeones
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Club deportivo
+Dirección: jr, Cinco Esquinas 125, Cajamarca 06000
+Teléfono: 912 136 486
+Rating: 4.7
+Reseñas: 18
+Sitio web: 
+Latitud: -7.1641946999999995
+Longitud: -78.51867539999999
+Google Maps: https://www.google.com/maps?cid=9839471182225520876
+Place Id: ChIJSZD8ODtbspER7Lg-kujSjIg
+Fotos: Gras Super Campeones.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

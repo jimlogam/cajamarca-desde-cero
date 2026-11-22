@@ -1,0 +1,17 @@
+Nombre: ABOGADOS CAJAMARCA PERU
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Abogado penalista, Abogado administrativo, Abogado empresarial, Abogado civil, Abogado de sucesiones, Abogado de Derecho de familia
+Dirección: 06003, Av. Luis Rebaza Neyra 312, Cajamarca 06003
+Teléfono: 947 733 709
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/profile.php?id=61581281459740&locale=es_LA
+Latitud: -7.1648385
+Longitud: -78.501988
+Google Maps: https://www.google.com/maps?cid=10845158714010323475
+Place Id: ChIJ8bJ0Mh9bspERE0pR6WO-gZY
+Fotos: ABOGADOS CAJAMARCA PERU.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

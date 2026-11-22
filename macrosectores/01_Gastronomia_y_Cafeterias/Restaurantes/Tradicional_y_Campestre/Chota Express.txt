@@ -1,0 +1,17 @@
+Nombre: Chota Express
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de envíos
+Dirección: Jr. Sara MacDougall 218, Cajamarca 06001
+Teléfono: 936 535 800
+Rating: 3.7
+Reseñas: 211
+Sitio web: 
+Latitud: -7.1518977999999995
+Longitud: -78.5225933
+Google Maps: https://www.google.com/maps?cid=11575590748356240975
+Place Id: ChIJeYAeR1haspERT2YSnXTCpKA
+Fotos: Chota Express.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

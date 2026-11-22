@@ -1,0 +1,17 @@
+Nombre: Comercial electrodos. E.I.R.L
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de suministros para soldadura
+Dirección: Psj, San Agustín 180, Cajamarca
+Teléfono: 
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.164570899999999
+Longitud: -78.51040359999999
+Google Maps: https://www.google.com/maps?cid=12328555339619413418
+Place Id: ChIJnXUnHD9bspERqq3CC8PTF6s
+Fotos: Comercial electrodos. E.I.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

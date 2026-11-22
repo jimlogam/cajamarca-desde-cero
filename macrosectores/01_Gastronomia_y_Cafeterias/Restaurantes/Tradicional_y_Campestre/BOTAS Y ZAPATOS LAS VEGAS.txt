@@ -1,0 +1,17 @@
+Nombre: BOTAS Y ZAPATOS LAS VEGAS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Zapatería, Marroquinería
+Dirección: Jr, La Mar 539, Cajamarca 06001
+Teléfono: 978 993 575
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1551272
+Longitud: -78.5187328
+Google Maps: https://www.google.com/maps?cid=9545817339336878181
+Place Id: ChIJ14uGWvhaspERZWjwUUuOeYQ
+Fotos: BOTAS Y ZAPATOS LAS VEGAS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

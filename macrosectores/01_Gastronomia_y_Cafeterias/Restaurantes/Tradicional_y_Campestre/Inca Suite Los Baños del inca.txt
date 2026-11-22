@@ -1,0 +1,17 @@
+Nombre: Inca Suite Los Baños del inca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón para eventos, Hotel
+Dirección: Jr. Sinchi Roca 151, Baños del Inca 06004
+Teléfono: 976 089 191
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1648464
+Longitud: -78.4648745
+Google Maps: https://www.google.com/maps?cid=758286148457193136
+Place Id: ChIJoYpfntdEspERsN7jBDz5hQo
+Fotos: Inca Suite Los Baños del inca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

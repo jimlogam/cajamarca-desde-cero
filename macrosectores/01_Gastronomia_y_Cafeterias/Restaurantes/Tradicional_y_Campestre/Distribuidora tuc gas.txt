@@ -1,0 +1,17 @@
+Nombre: Distribuidora tuc gas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de artículos relacionados con el gas
+Dirección: Av. Industrial #320, Cajamarca 06003
+Teléfono: 941 629 090
+Rating: 2.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1841133
+Longitud: -78.4944733
+Google Maps: https://www.google.com/maps?cid=5556299693326060445
+Place Id: ChIJI8R7ClVbspERnctP7iHxG00
+Fotos: Distribuidora tuc gas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

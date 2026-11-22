@@ -1,0 +1,17 @@
+Nombre: Imprenta CELP
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Imprenta
+Dirección: Amalia Puga 325, Cajamarca 06001
+Teléfono: 953 947 220
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1548604
+Longitud: -78.5196132
+Google Maps: https://www.google.com/maps?cid=1382094637149413363
+Place Id: ChIJyap0KipbspER819D9b8vLhM
+Fotos: Imprenta CELP.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

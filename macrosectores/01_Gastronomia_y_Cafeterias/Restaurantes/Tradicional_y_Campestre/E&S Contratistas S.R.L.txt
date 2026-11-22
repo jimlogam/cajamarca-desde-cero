@@ -1,0 +1,17 @@
+Nombre: E&S Contratistas S.R.L
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de instalación eléctrica
+Dirección: Hipólito Unanue 178, Cajamarca 06002
+Teléfono: (076) 366003
+Rating: 
+Reseñas: 
+Sitio web: http://eyscontratistas.com/contactanos.php
+Latitud: -7.1556313
+Longitud: -78.50954689999999
+Google Maps: https://www.google.com/maps?cid=14596313076634142320
+Place Id: ChIJL3BL1PpaspERcMYqm2iFkMo
+Fotos: E&S Contratistas S.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

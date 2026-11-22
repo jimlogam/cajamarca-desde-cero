@@ -1,0 +1,17 @@
+Nombre: Casa de la Carne
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carnicería
+Dirección: RF9V+X69, Jr. Alfonso Ugarte, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1800856
+Longitud: -78.5068838
+Google Maps: https://www.google.com/maps?cid=2119765455732251849
+Place Id: ChIJWZL3GgBbspERyZwQdHPrah0
+Fotos: Casa de la Carne.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

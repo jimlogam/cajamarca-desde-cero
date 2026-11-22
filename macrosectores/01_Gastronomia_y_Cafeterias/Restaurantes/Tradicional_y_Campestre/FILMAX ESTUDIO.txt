@@ -1,0 +1,17 @@
+Nombre: FILMAX ESTUDIO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de producción de vídeo, Fotógrafo aéreo, Estudio de fotografía
+Dirección: Jr. El Bosque, Cajamarca 06001
+Teléfono: 952 029 891
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1442657
+Longitud: -78.5152304
+Google Maps: https://www.google.com/maps?cid=14835443070942144637
+Place Id: ChIJh5TPtABbspERfWgJGd8U4s0
+Fotos: FILMAX ESTUDIO.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

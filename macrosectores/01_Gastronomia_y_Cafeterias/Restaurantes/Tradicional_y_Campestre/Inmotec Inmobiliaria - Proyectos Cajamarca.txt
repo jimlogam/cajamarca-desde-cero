@@ -1,0 +1,17 @@
+Nombre: Inmotec Inmobiliaria - Proyectos Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia inmobiliaria
+Dirección: Sta. Teresa de Journet 427, Cajamarca 06001
+Teléfono: 935 054 645
+Rating: 
+Reseñas: 
+Sitio web: https://inmotec.pe/
+Latitud: -7.1468095
+Longitud: -78.5088397
+Google Maps: https://www.google.com/maps?cid=4772618024830510098
+Place Id: ChIJ110zx9hbspEREiSmos6-O0I
+Fotos: Inmotec Inmobiliaria - Proyectos Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

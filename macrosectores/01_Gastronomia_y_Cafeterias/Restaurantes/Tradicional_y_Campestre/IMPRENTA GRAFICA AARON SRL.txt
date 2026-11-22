@@ -1,0 +1,17 @@
+Nombre: IMPRENTA GRAFICA AARON SRL.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Imprenta
+Dirección: Juan Villanueva 489, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1549267
+Longitud: -78.52159209999999
+Google Maps: https://www.google.com/maps?cid=6322997506129276298
+Place Id: ChIJ7SG9IMtbspERii2ELLvMv1c
+Fotos: IMPRENTA GRAFICA AARON SRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

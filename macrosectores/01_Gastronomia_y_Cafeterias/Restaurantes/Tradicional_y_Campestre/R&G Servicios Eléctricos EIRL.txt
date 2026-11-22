@@ -1,0 +1,17 @@
+Nombre: R&G Servicios Eléctricos EIRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Electricista
+Dirección: Jr. Petateros 419, Cajamarca 06002
+Teléfono: 976 538 218
+Rating: 4.4
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1633396
+Longitud: -78.51534339999999
+Google Maps: https://www.google.com/maps?cid=1409014225414141586
+Place Id: ChIJ0zPsA_5aspERkjZIBfnSjRM
+Fotos: R&G Servicios Eléctricos EIRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

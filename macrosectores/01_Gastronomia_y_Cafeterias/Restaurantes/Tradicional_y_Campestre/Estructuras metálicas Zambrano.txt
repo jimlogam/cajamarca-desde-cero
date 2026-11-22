@@ -1,0 +1,17 @@
+Nombre: Estructuras metálicas Zambrano
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Soldador
+Dirección: QGRP+C7M, Cajamarca 06370
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.2089189
+Longitud: -78.4643208
+Google Maps: https://www.google.com/maps?cid=16002384380988371426
+Place Id: ChIJ4zuRRQBDspER4jESbM_jE94
+Fotos: Estructuras metálicas Zambrano.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

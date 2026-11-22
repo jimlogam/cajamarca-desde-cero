@@ -1,0 +1,17 @@
+Nombre: J y K
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de reparación de ordenadores
+Dirección: Jirón Silva Santisteban #142, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: https://j-69.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1477678
+Longitud: -78.5115734
+Google Maps: https://www.google.com/maps?cid=11490893938794401226
+Place Id: ChIJcfbuCHNbspERyo2H7Sfbd58
+Fotos: J y K.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

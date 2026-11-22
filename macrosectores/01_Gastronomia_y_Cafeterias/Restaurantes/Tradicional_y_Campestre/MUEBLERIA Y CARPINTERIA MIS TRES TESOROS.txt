@@ -1,0 +1,17 @@
+Nombre: MUEBLERIA Y CARPINTERIA "MIS TRES TESOROS"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carpintero
+Dirección: Jirón Jesus de Nazareth 436 - 438, Cajamarca 06003
+Teléfono: 970 219 821
+Rating: 4.6
+Reseñas: 5
+Sitio web: 
+Latitud: -7.178111599999999
+Longitud: -78.50619809999999
+Google Maps: https://www.google.com/maps?cid=141646390135900842
+Place Id: ChIJW6EKuZRbspERqkrEL6Q69wE
+Fotos: MUEBLERIA Y CARPINTERIA MIS TRES TESOROS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

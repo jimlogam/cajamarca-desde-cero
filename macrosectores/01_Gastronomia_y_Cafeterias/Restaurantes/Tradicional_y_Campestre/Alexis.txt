@@ -1,0 +1,17 @@
+Nombre: Alexis
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contador público
+Dirección: Av. Hoyos Rubio 1311, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.147803499999999
+Longitud: -78.5031413
+Google Maps: https://www.google.com/maps?cid=4551713518094718775
+Place Id: ChIJxcLfEABbspERNxdhJVTvKj8
+Fotos: Alexis.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

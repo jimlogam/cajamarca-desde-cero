@@ -1,0 +1,17 @@
+Nombre: Motor Servis Magno Cajamarca E.I.R.L.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: Av Vía de Evitamiento Nte 1052, Cajamarca 06000
+Teléfono: 992 711 632
+Rating: 5
+Reseñas: 2
+Sitio web: https://agent-6a07838d2df9ca8f6fc--silver-custard-191a49.netlify.app/
+Latitud: -7.1458102
+Longitud: -78.5170871
+Google Maps: https://www.google.com/maps?cid=4928729459284031516
+Place Id: ChIJd5-KJktbspERHLigZlRdZkQ
+Fotos: Motor Servis Magno Cajamarca E.I.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

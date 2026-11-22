@@ -1,0 +1,17 @@
+Nombre: Abantos Technology
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Consultora informática
+Dirección: RFWH+GM3, Amalia Puga, Cajamarca 06002
+Teléfono: 976 901 977
+Rating: 3.7
+Reseñas: 3
+Sitio web: http://www.solucionesctec.com/
+Latitud: -7.1537266
+Longitud: -78.520834
+Google Maps: https://www.google.com/maps?cid=17540515160801563680
+Place Id: ChIJUZAb_VdaspERIFTu6JptbPM
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

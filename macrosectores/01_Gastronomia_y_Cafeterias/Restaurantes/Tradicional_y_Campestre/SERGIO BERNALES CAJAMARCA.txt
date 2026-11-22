@@ -1,0 +1,17 @@
+Nombre: SERGIO BERNALES CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Escuela comunitaria
+Dirección: La Colmena 158, Cajamarca 06002
+Teléfono: (076) 286324
+Rating: 2.3
+Reseñas: 3
+Sitio web: https://www.facebook.com/instito.sergiobernales.5
+Latitud: -7.1578728
+Longitud: -78.51198579999999
+Google Maps: https://www.google.com/maps?cid=12393915974671551955
+Place Id: ChIJfbvn99xbspER001WxukIAKw
+Fotos: SERGIO BERNALES CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

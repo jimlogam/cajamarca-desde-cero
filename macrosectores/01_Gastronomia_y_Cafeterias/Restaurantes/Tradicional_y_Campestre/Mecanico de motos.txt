@@ -1,0 +1,17 @@
+Nombre: Mecanico de motos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: RGJ2+P4F, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.168179599999999
+Longitud: -78.49971099999999
+Google Maps: https://www.google.com/maps?cid=12057634241166611886
+Place Id: ChIJT0XnuIhbspERrpVSUHVSVac
+Fotos: Mecanico de motos.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

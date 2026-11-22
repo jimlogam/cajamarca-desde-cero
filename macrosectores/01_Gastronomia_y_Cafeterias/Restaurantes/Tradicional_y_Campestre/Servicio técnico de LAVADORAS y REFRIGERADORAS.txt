@@ -1,0 +1,17 @@
+Nombre: Servicio técnico de LAVADORAS y REFRIGERADORAS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de reparación de neveras, Servicio de reparación de lavadoras y secadoras
+Dirección: Jr. Cusco cuadra 6, Cajamarca 06003
+Teléfono: 932 874 264
+Rating: 1
+Reseñas: 1
+Sitio web: https://www.facebook.com/jorgehuanca.932874264
+Latitud: -7.181466899999999
+Longitud: -78.4980113
+Google Maps: https://www.google.com/maps?cid=1700767559429098456
+Place Id: ChIJL-H84GhbspER2ItHkRVXmhc
+Fotos: Servicio técnico de LAVADORAS y REFRIGERADORAS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

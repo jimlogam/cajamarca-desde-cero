@@ -1,0 +1,17 @@
+Nombre: Estudio Contable HV
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contable
+Dirección: VG53+56X, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.142009799999999
+Longitud: -78.4968961
+Google Maps: https://www.google.com/maps?cid=4488356804839445483
+Place Id: ChIJeWAjMlJbspER65Op0bvYST4
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

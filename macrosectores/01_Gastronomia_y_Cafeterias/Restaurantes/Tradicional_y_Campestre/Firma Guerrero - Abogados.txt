@@ -1,0 +1,17 @@
+Nombre: Firma Guerrero - Abogados
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Abogado penalista
+Dirección: Cajamarca 660, Jaén 06801
+Teléfono: 972 732 255
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -5.7054909
+Longitud: -78.80725799999999
+Google Maps: https://www.google.com/maps?cid=9897117110806066002
+Place Id: ChIJCZDrYGL7tJERUjMJOpOfWYk
+Fotos: Firma Guerrero - Abogados.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

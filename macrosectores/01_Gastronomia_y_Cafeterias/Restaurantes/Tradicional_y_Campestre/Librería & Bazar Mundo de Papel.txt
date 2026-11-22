@@ -1,0 +1,17 @@
+Nombre: Librería & Bazar "Mundo de Papel"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: 060101, Cajamarca
+Teléfono: 918 549 263
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1712723
+Longitud: -78.5007025
+Google Maps: https://www.google.com/maps?cid=7665414873635646531
+Place Id: ChIJZynkyq1bspERQ2wM5zYGYWo
+Fotos: Librería & Bazar Mundo de Papel.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

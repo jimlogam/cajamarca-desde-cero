@@ -1,0 +1,17 @@
+Nombre: Ceyca SS.GG y Construccion
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contratista general, Reparaciones
+Dirección: Delfín Cerna 445, Cajamarca 06002
+Teléfono: (076) 369175
+Rating: 4.3
+Reseñas: 26
+Sitio web: https://www.ceyca.com.pe/
+Latitud: -7.154192699999999
+Longitud: -78.5091285
+Google Maps: https://www.google.com/maps?cid=15881139899204276379
+Place Id: ChIJx42XSuVaspERm5BasJgkZdw
+Fotos: Ceyca SS.GG y Construccion.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

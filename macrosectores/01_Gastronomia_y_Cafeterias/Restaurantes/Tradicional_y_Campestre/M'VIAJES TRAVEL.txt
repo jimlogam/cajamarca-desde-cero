@@ -1,0 +1,17 @@
+Nombre: M'VIAJES TRAVEL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes, Tienda de productos de belleza, Tienda de regalos
+Dirección: Jirón del Comercio 776, Cajamarca 06001
+Teléfono: 942 106 415
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1571348
+Longitud: -78.5184694
+Google Maps: https://www.google.com/maps?cid=14963435528767666994
+Place Id: ChIJC0H1RtjispERMvunb1XNqM8
+Fotos: M'VIAJES TRAVEL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

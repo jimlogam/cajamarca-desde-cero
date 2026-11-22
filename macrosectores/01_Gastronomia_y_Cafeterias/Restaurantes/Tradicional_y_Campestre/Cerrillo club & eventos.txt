@@ -1,0 +1,17 @@
+Nombre: Cerrillo club & eventos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Recinto para eventos
+Dirección: VGC7+XC, Cajamarca 06000
+Teléfono: 
+Rating: 4.4
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1275998
+Longitud: -78.4864944
+Google Maps: https://www.google.com/maps?cid=2679518015523758033
+Place Id: ChIJyZtCgINbspER0Z-NPHCPLyU
+Fotos: Cerrillo club & eventos.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: DISTRIBUIDOR AUTORIZADO DE CLARO - ATAHUALPA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Proveedor de servicios de telecomunicaciones
+Dirección: 06001, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/MOVIL-SHOP-CLARO-109817251643857/?ref=page_internal
+Latitud: -7.165638899999999
+Longitud: -78.5072701
+Google Maps: https://www.google.com/maps?cid=10413105182603568389
+Place Id: ChIJUzmOiIhbspERBWXdGf7HgpA
+Fotos: DISTRIBUIDOR AUTORIZADO DE CLARO - ATAHUALPA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Melacs Hogar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: Jr. Trinidad 182, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1531902
+Longitud: -78.50904109999999
+Google Maps: https://www.google.com/maps?cid=13478615204210936930
+Place Id: ChIJqRpsVOVaspERYgwsjx2pDbs
+Fotos: Melacs Hogar.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

@@ -1,0 +1,17 @@
+Nombre: L&R Estudio Contable
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicios de empresa a empresa, Service establishment
+Dirección: 
+Teléfono: 973 144 072
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=11253246712113571466
+Place Id: ChIJE0WyLGLXUA8RiqZcLUOQK5w
+Fotos: L&R Estudio Contable.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

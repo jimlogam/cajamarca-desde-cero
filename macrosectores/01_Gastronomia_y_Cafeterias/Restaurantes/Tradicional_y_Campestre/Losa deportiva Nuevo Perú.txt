@@ -1,0 +1,17 @@
+Nombre: Losa deportiva "Nuevo Perú"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de recreo
+Dirección: VFGH+WQG, Cajamarca 06000
+Teléfono: 
+Rating: 4.3
+Reseñas: 4
+Sitio web: 
+Latitud: -7.122685
+Longitud: -78.5205337
+Google Maps: https://www.google.com/maps?cid=2342070135700890402
+Place Id: ChIJVwpwh_NbspERIqOALWG0gCA
+Fotos: Losa deportiva Nuevo Perú.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

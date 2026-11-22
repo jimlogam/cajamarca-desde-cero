@@ -1,0 +1,17 @@
+Nombre: Dirección Desconcentrada de Cultura Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Arte
+Dirección: RFRM+C82, Belén, Cajamarca 06002
+Teléfono: 955 906 441
+Rating: 4.4
+Reseñas: 52
+Sitio web: 
+Latitud: -7.1589865999999995
+Longitud: -78.5167496
+Google Maps: https://www.google.com/maps?cid=17796430786133587605
+Place Id: ChIJk3S0yP5aspERlXZRrYKf-fY
+Fotos: Dirección Desconcentrada de Cultura Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

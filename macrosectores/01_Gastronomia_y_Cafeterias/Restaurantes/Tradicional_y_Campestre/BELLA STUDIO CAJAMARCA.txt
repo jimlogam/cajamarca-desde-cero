@@ -1,0 +1,17 @@
+Nombre: BELLA STUDIO CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de estética
+Dirección: rubio, Av. 26 de octubre # 123- 3er Piso Urb.Horacio Zeballos (Ref. 12 de Hoyos, Cajamarca
+Teléfono: 931 060 894
+Rating: 3.2
+Reseñas: 9
+Sitio web: 
+Latitud: -7.148602299999999
+Longitud: -78.5044393
+Google Maps: https://www.google.com/maps?cid=17513869466930056492
+Place Id: ChIJPbBlxe5aspERLA3t2nzDDfM
+Fotos: BELLA STUDIO CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

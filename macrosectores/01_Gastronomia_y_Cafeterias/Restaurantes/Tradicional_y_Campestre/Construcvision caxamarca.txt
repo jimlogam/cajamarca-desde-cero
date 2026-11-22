@@ -1,0 +1,17 @@
+Nombre: Construcvision caxamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia inmobiliaria
+Dirección: Jr. El Capulí 250-254, San Roque 1451, Cajamarca 06002
+Teléfono: 990 032 013
+Rating: 
+Reseñas: 
+Sitio web: https://sites.google.com/view/construcvision-caxamarca/p%C3%A1gina-principal
+Latitud: -7.1528247
+Longitud: -78.5073946
+Google Maps: https://www.google.com/maps?cid=9631964622809817417
+Place Id: ChIJwbYFOt9bspERSWG1x8qcq4U
+Fotos: Construcvision caxamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: BRAVO SERVICIO DE MOTOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos, Taller de automóviles
+Dirección: Prol. Progreso 430, Cajamarca 06003
+Teléfono: 969 694 410
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1664238
+Longitud: -78.50315599999999
+Google Maps: https://www.google.com/maps?cid=9577643657542761202
+Place Id: ChIJ9_JbTCpbspER8vobeSmg6oQ
+Fotos: BRAVO SERVICIO DE MOTOS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

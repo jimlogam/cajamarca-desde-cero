@@ -1,0 +1,17 @@
+Nombre: PIERINASS STORE Accesorios de Moto
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de repuestos para motos
+Dirección: Miguel Grau 471, Cajamarca 06002
+Teléfono: 931 471 577
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1553496
+Longitud: -78.51183309999999
+Google Maps: https://www.google.com/maps?cid=8621331435416090699
+Place Id: ChIJR4biMgBbspERS3jiQkMfpXc
+Fotos: PIERINASS STORE Accesorios de Moto.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

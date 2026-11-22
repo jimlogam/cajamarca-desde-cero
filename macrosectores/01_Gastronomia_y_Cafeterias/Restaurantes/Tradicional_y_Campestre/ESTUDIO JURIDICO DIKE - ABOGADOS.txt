@@ -1,0 +1,17 @@
+Nombre: ESTUDIO JURIDICO DIKE - ABOGADOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Abogado, Bufete
+Dirección: Jr. Micaela Bastidas N° 685, Nueva Cajamarca 22846
+Teléfono: 932 825 252
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -5.943587
+Longitud: -77.3026498
+Google Maps: https://www.google.com/maps?cid=13386519511930409147
+Place Id: ChIJ0_OyFwDdtpERu5ByP5J4xrk
+Fotos: ESTUDIO JURIDICO DIKE - ABOGADOS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

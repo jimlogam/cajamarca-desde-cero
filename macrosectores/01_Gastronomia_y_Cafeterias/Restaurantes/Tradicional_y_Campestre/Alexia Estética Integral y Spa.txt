@@ -1,0 +1,17 @@
+Nombre: Alexia Estética Integral y Spa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Spa
+Dirección: 06001, Cajamarca 06001
+Teléfono: 934 597 295
+Rating: 
+Reseñas: 
+Sitio web: https://wa.me/934597295
+Latitud: -7.157966099999999
+Longitud: -78.520428
+Google Maps: https://www.google.com/maps?cid=6116766222810126339
+Place Id: ChIJPc892MZbspERA5i0vHge41Q
+Fotos: Alexia Estética Integral y Spa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

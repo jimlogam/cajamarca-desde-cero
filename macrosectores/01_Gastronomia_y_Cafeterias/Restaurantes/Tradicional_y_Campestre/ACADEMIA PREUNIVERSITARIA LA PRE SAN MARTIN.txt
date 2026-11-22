@@ -1,0 +1,17 @@
+Nombre: ACADEMIA PREUNIVERSITARIA LA PRE SAN MARTIN
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Instituto de secundaria
+Dirección: Jr. Chepén 586, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1478806
+Longitud: -78.5181448
+Google Maps: https://www.google.com/maps?cid=3202227010458292960
+Place Id: ChIJqzYKdwBbspER4BKH-H-YcCw
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

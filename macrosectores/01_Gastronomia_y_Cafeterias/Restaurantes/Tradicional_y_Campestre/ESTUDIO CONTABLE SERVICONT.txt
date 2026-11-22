@@ -1,0 +1,17 @@
+Nombre: ESTUDIO CONTABLE SERVICONT
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contable
+Dirección: Jr. Imperio esquina con Jr. Lima, Nueva Cajamarca 22846
+Teléfono: 917 814 531
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -5.940304299999999
+Longitud: -77.3108034
+Google Maps: https://www.google.com/maps?cid=15948887372672494710
+Place Id: ChIJkx2lnLrdtpERdmzbipDUVd0
+Fotos: ESTUDIO CONTABLE SERVICONT.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

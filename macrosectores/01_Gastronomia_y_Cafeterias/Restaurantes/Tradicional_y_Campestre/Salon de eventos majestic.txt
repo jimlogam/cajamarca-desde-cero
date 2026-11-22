@@ -1,0 +1,17 @@
+Nombre: Salon de eventos majestic
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón de bodas
+Dirección: 06000, Cajamarca 06000
+Teléfono: 976 699 111
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/MajesticSalonDeRecepciones/
+Latitud: -7.161688
+Longitud: -78.5045712
+Google Maps: https://www.google.com/maps?cid=15409006877061608755
+Place Id: ChIJnbx4KVxbspERM_XOQB3K19U
+Fotos: Salon de eventos majestic.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

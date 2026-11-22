@@ -1,0 +1,17 @@
+Nombre: Galeria waka
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Galería de arte
+Dirección: Los Álamos 136, Cajamarca 06001
+Teléfono: 964 533 292
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1478458
+Longitud: -78.5161686
+Google Maps: https://www.google.com/maps?cid=8085141423091557649
+Place Id: ChIJAXo9xSFbspERESUrkkkxNHA
+Fotos: Galeria waka.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

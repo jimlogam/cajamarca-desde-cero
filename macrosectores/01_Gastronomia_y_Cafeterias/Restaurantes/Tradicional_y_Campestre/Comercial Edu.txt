@@ -1,0 +1,17 @@
+Nombre: Comercial Edu
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Societe de Flocage
+Dirección: Cajamarca 06002
+Teléfono: 942 779 150
+Rating: 
+Reseñas: 
+Sitio web: https://www.tiktok.com/@comercial_edu?_t=ZM-8w5MmKcpzBW&_r=1
+Latitud: -7.1491437
+Longitud: -78.5074563
+Google Maps: https://www.google.com/maps?cid=4918113091461550192
+Place Id: ChIJVYFneC9bspERcJDDpcylQEQ
+Fotos: Comercial Edu.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

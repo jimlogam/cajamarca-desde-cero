@@ -1,0 +1,17 @@
+Nombre: La Casa De La Lamina
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: Jr. Tarapacá 839, Cajamarca 06001
+Teléfono: 948 396 484
+Rating: 4.3
+Reseñas: 15
+Sitio web: 
+Latitud: -7.1548153999999995
+Longitud: -78.5191988
+Google Maps: https://www.google.com/maps?cid=867807138427879074
+Place Id: ChIJGwX5QfhaspERor6Km_4RCww
+Fotos: La Casa De La Lamina.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

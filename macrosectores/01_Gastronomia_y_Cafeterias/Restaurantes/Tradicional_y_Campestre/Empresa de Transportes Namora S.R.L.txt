@@ -1,0 +1,17 @@
+Nombre: Empresa de Transportes Namora S.R.L
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: 06000, Av. Vía de Evitamiento Sur 935, Cajamarca 06000
+Teléfono: 918 368 332
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.166354999999999
+Longitud: -78.5023423
+Google Maps: https://www.google.com/maps?cid=657563162052995860
+Place Id: ChIJY3CNfeVbspERFCuNQzYiIAk
+Fotos: Empresa de Transportes Namora S.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: M&B Constructora y Servicios Generales SRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa constructora
+Dirección: Cajamarca 06001
+Teléfono: 964 733 695
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1342254
+Longitud: -78.5120298
+Google Maps: https://www.google.com/maps?cid=10383437125168136887
+Place Id: ChIJ1UL3RElbspERtwJAMQ1hGZA
+Fotos: M&B Constructora y Servicios Generales SRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

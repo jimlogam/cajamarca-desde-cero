@@ -1,0 +1,17 @@
+Nombre: Gras sintético EL DERBY
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Campo de fútbol
+Dirección: RGV4+4PG, Av. Luis Rebaza Neyra, Cajamarca 06002
+Teléfono: 956 208 302
+Rating: 4.5
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1566649
+Longitud: -78.4934497
+Google Maps: https://www.google.com/maps?cid=16556773615853479609
+Place Id: ChIJ61hKWyhbspERuaaBz-F5xeU
+Fotos: Gras sintético EL DERBY.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

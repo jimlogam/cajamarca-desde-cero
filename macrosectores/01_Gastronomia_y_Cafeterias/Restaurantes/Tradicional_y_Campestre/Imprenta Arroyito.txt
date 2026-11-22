@@ -1,0 +1,17 @@
+Nombre: Imprenta Arroyito
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Imprenta comercial
+Dirección: M. M, Progreso 416, Cajamarca 06002
+Teléfono: 949 836 033
+Rating: 2.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1631616
+Longitud: -78.5081451
+Google Maps: https://www.google.com/maps?cid=4057725632002019956
+Place Id: ChIJawJEoeJaspERdFJ6q_bvTzg
+Fotos: Imprenta Arroyito.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Grafiser Perú
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Imprenta comercial
+Dirección: RFFX+3VR, Cajamarca 06003
+Teléfono: (076) 368201
+Rating: 4.2
+Reseñas: 10
+Sitio web: http://www.grafiserperu.blogspot.com/
+Latitud: -7.1772566
+Longitud: -78.50035079999999
+Google Maps: https://www.google.com/maps?cid=12012366562756051045
+Place Id: ChIJVzvrUBZbspERZcDanL5_tKY
+Fotos: Grafiser Perú.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

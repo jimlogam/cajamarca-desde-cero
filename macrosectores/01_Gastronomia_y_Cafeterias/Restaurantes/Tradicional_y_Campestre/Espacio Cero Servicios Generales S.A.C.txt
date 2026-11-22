@@ -1,0 +1,17 @@
+Nombre: Espacio Cero Servicios Generales S.A.C
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficina de la Administración
+Dirección: Jr. San Marcos 432, Cajamarca 06003
+Teléfono: 989 303 013
+Rating: 
+Reseñas: 
+Sitio web: https://www.instagram.com/espaciocero.arq?igsh=MW5peHdvZTVzOGVvNw==
+Latitud: -7.179836
+Longitud: -78.4950566
+Google Maps: https://www.google.com/maps?cid=15317784866936643642
+Place Id: ChIJT1fybgBbspEROuCc6y20k9Q
+Fotos: Espacio Cero Servicios Generales S.A.C.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

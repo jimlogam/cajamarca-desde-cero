@@ -1,0 +1,17 @@
+Nombre: Sellos Imprenta
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de informática
+Dirección: Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.155850099999999
+Longitud: -78.51529529999999
+Google Maps: https://www.google.com/maps?cid=611662490471554086
+Place Id: ChIJj_lhgvlaspERJtz8WssPfQg
+Fotos: Sellos Imprenta.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

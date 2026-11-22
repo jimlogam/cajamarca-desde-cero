@@ -1,0 +1,17 @@
+Nombre: Soluciones Técnicas Industriales E.I.R.L
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: Prolongacion Tayabamba 341, Cajamarca 06001
+Teléfono: 976 373 557
+Rating: 4.5
+Reseñas: 4
+Sitio web: https://www.facebook.com/Soluciones-T%C3%A9cnicas-industriales-SRL-1367229779989464/
+Latitud: -7.1490899
+Longitud: -78.5129875
+Google Maps: https://www.google.com/maps?cid=5169136959147871294
+Place Id: ChIJ35tr8PBaspERPgxaVa12vEc
+Fotos: Soluciones Técnicas Industriales E.I.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: La Clínica del Inyector
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Av. Vía de Evitamiento Sur 1960, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1728483999999995
+Longitud: -78.49428759999999
+Google Maps: https://www.google.com/maps?cid=16441920917610371068
+Place Id: ChIJr-P6kk9bspER_Bc7J_ZvLeQ
+Fotos: La Clínica del Inyector.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Taller mecánico
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Vía de Evitamiento Nte. 2280, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.153752
+Longitud: -78.50632999999999
+Google Maps: https://www.google.com/maps?cid=7519225025129508427
+Place Id: ChIJYdHVBFdbspERS24SYVKnWWg
+Fotos: Taller mecánico (2).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: La cabaña de los Abuelitos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Cabaña para acampar
+Dirección: Jr. Alfonso Ugarte, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1919236
+Longitud: -78.5028694
+Google Maps: https://www.google.com/maps?cid=15614209969220088076
+Place Id: ChIJ8fx7hbxbspERDPG5Rz3RsNg
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

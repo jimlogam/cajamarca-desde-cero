@@ -1,0 +1,17 @@
+Nombre: Grass Sintético "TIKI TAKA"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Campo de fútbol
+Dirección: Jr. Sta. Sarita 657, Cajamarca 06001
+Teléfono: 946 744 836
+Rating: 4.6
+Reseñas: 13
+Sitio web: https://www.facebook.com/profile.php?id=61566993599747
+Latitud: -7.182362599999999
+Longitud: -78.4937817
+Google Maps: https://www.google.com/maps?cid=6588603804251590725
+Place Id: ChIJsb42eIFbspERRRA0hkBsb1s
+Fotos: Grass Sintético TIKI TAKA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

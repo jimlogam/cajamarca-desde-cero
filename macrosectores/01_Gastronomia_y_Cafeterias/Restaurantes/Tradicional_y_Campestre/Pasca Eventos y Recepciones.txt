@@ -1,0 +1,17 @@
+Nombre: Pasca Eventos y Recepciones
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón para eventos
+Dirección: Av. Atahualpa 702, Cajamarca 06003
+Teléfono: 953 343 893
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.165786499999999
+Longitud: -78.50029959999999
+Google Maps: https://www.google.com/maps?cid=16780197361091201570
+Place Id: ChIJgeLpB6dbspERIsrJOJg83-g
+Fotos: Pasca Eventos y Recepciones.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

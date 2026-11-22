@@ -1,0 +1,17 @@
+Nombre: Marino Lulayco (CERÁMICA - ARTESANAL)
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Artesanía, Tienda de cerámica
+Dirección: y Belaúnde Terry, Portón Plomo, Pasaje San Marino S/N, Cajamarca 06003
+Teléfono: 959 469 543
+Rating: 4.4
+Reseñas: 56
+Sitio web: 
+Latitud: -7.1828959
+Longitud: -78.50242209999999
+Google Maps: https://www.google.com/maps?cid=1146711330844277737
+Place Id: ChIJ-Yd2fQ1bspER6XvjPuHv6Q8
+Fotos: Marino Lulayco (CERÁMICA - ARTESANAL).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

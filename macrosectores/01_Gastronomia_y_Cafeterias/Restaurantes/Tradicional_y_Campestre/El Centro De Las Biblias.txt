@@ -1,0 +1,17 @@
+Nombre: El Centro De Las Biblias
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería religiosa
+Dirección: Jr. Apurimac 718, Cajamarca 06001
+Teléfono: 975 670 135
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1564067
+Longitud: -78.5190296
+Google Maps: https://www.google.com/maps?cid=6873518908747557566
+Place Id: ChIJ3aPcDhVbspERvirUsAelY18
+Fotos: El Centro De Las Biblias.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: FONDA DEL SOL Salón de Eventos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Sala de banquetes
+Dirección: Carrt. a, Baños del Inca
+Teléfono: 923 915 197
+Rating: 4.1
+Reseñas: 84
+Sitio web: 
+Latitud: -7.165191399999999
+Longitud: -78.4728686
+Google Maps: https://www.google.com/maps?cid=16809875102756965928
+Place Id: ChIJTTSIPNlEspERKA6D6lesSOk
+Fotos: FONDA DEL SOL Salón de Eventos.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

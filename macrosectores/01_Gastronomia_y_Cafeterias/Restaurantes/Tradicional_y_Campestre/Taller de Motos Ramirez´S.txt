@@ -1,0 +1,17 @@
+Nombre: Taller de Motos Ramirez´S
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: Tahuantinsuyo 450, Cajamarca 06002
+Teléfono: 948 297 435
+Rating: 2
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1771043
+Longitud: -78.5001092
+Google Maps: https://www.google.com/maps?cid=8461874600670189624
+Place Id: ChIJ-QKbiBtbspERONjYyh2ebnU
+Fotos: Taller de Motos Ramirez´S.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

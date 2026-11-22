@@ -1,0 +1,17 @@
+Nombre: ChiliMango
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Frutería
+Dirección: 06001, Cajamarca 06001
+Teléfono: 921 850 417
+Rating: 5
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1593151
+Longitud: -78.5141201
+Google Maps: https://www.google.com/maps?cid=12291786401698160664
+Place Id: ChIJn2OuEd5bspERGCAykJsylao
+Fotos: ChiliMango.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

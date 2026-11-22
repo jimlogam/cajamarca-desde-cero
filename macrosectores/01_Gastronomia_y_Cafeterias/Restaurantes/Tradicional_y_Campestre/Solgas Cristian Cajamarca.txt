@@ -1,0 +1,17 @@
+Nombre: Solgas Cristian Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Compañía del gas, Estación de gas natural comprimido, Instalador de gas
+Dirección: Jr, Los Eucaliptos 123, Cajamarca 06001
+Teléfono: 908 989 246
+Rating: 4.9
+Reseñas: 45
+Sitio web: 
+Latitud: -7.1463072
+Longitud: -78.5129273
+Google Maps: https://www.google.com/maps?cid=14078014192186183279
+Place Id: ChIJ63Rtf1RbspERb04qvFEnX8M
+Fotos: Solgas Cristian Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

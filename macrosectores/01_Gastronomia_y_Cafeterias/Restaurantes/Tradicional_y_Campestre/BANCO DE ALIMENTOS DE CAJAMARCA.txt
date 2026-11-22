@@ -1,0 +1,17 @@
+Nombre: BANCO DE ALIMENTOS DE CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Organización sin ánimo de lucro
+Dirección: Pasaje El Molino 150 Cuadra 8 de Jirón Apurímac, Cajamarca 06001
+Teléfono: 915 187 565
+Rating: 
+Reseñas: 
+Sitio web: https://www.bacajamarca.org.pe/banco/
+Latitud: -7.155588799999999
+Longitud: -78.5178873
+Google Maps: https://www.google.com/maps?cid=6568757220948899920
+Place Id: ChIJB6cvYr1bspERUPhwwuPpKFs
+Fotos: BANCO DE ALIMENTOS DE CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

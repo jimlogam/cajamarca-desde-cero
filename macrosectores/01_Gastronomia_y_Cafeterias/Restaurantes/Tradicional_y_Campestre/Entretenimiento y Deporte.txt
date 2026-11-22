@@ -1,0 +1,17 @@
+Nombre: Entretenimiento y Deporte
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de comercio electrónico
+Dirección: Salaverry 237, Cajamarca 06002
+Teléfono: 915 148 704
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.166516199999999
+Longitud: -78.5104759
+Google Maps: https://www.google.com/maps?cid=17675794192998081158
+Place Id: ChIJC2648BZbspERhiKQDCsJTfU
+Fotos: Entretenimiento y Deporte.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

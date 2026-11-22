@@ -1,0 +1,17 @@
+Nombre: CENTRO TECNICO DE SOLDADURA CETSOL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de suministros para soldadura
+Dirección: Av. La Paz 1193, Cajamarca 06003
+Teléfono: 972 746 928
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1792329
+Longitud: -78.4934936
+Google Maps: https://www.google.com/maps?cid=17722851408043521926
+Place Id: ChIJf0V-7mRbspERhjd3t3Q39PU
+Fotos: CENTRO TECNICO DE SOLDADURA CETSOL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

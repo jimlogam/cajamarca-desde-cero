@@ -1,0 +1,17 @@
+Nombre: Copycentro
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de copia e impresión de planos, Diseñador gráfico, Laboratorio fotográfico
+Dirección: Sta. Teresa de Journet 446, Cajamarca 06001
+Teléfono: (076) 366506
+Rating: 3.5
+Reseñas: 13
+Sitio web: 
+Latitud: -7.146886299999999
+Longitud: -78.5085471
+Google Maps: https://www.google.com/maps?cid=12159737296478225682
+Place Id: ChIJyyCW_O1aspEREkWnZqUQwKg
+Fotos: Copycentro.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

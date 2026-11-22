@@ -1,0 +1,17 @@
+Nombre: Dorita Salón Spa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de estética
+Dirección: Jirón Seis de Julio, Cajamarca 06003
+Teléfono: 940 840 070
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/lpt.SalonSpa
+Latitud: -7.1860298
+Longitud: -78.49454639999999
+Google Maps: https://www.google.com/maps?cid=8059098224347642963
+Place Id: ChIJ7cBEk8FbspERU_w42CKr128
+Fotos: Dorita Salón Spa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

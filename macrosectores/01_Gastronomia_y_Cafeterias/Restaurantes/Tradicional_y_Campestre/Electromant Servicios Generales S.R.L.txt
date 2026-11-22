@@ -1,0 +1,17 @@
+Nombre: Electromant Servicios Generales S.R.L.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contratista general
+Dirección: VG22+4MP, Cajamarca 06001
+Teléfono: 982 704 507
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1496507
+Longitud: -78.4983019
+Google Maps: https://www.google.com/maps?cid=9437780540384505658
+Place Id: ChIJ7yCgaQBbspEROm-24WW7-YI
+Fotos: Electromant Servicios Generales S.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

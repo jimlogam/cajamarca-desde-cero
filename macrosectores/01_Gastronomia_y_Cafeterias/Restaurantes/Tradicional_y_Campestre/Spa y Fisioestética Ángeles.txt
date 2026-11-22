@@ -1,0 +1,17 @@
+Nombre: Spa y Fisioestética Ángeles
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Esteticista facial
+Dirección: Av. Vía de Evitamiento Sur, Cajamarca 06003
+Teléfono: 955 563 314
+Rating: 
+Reseñas: 
+Sitio web: https://spa-y-fisioestetica-angeles.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1734241999999995
+Longitud: -78.4932067
+Google Maps: https://www.google.com/maps?cid=13043337321325714950
+Place Id: ChIJZ9kQj_tbspERBt426y8-A7U
+Fotos: Spa y Fisioestética Ángeles.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

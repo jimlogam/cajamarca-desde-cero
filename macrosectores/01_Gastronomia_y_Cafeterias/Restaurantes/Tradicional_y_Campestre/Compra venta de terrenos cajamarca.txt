@@ -1,0 +1,17 @@
+Nombre: Compra venta de terrenos cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia inmobiliaria
+Dirección: Av San Martín de Porres 2319, Cajamarca 06001
+Teléfono: 995 822 200
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1835081
+Longitud: -78.49124379999999
+Google Maps: https://www.google.com/maps?cid=3487790851273070194
+Place Id: ChIJ9eviJApbspERchb91EwfZzA
+Fotos: Compra venta de terrenos cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

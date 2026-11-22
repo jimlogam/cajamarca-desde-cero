@@ -1,0 +1,17 @@
+Nombre: ICONIC GRAFICA Y PUBLICIDAD
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Societe de Flocage
+Dirección: Jirón Huancavelica 871, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.146598399999999
+Longitud: -78.5174201
+Google Maps: https://www.google.com/maps?cid=9772107478388926404
+Place Id: ChIJVbuzaABbspERxGdPDPp_nYc
+Fotos: ICONIC GRAFICA Y PUBLICIDAD.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

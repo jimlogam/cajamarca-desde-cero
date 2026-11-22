@@ -1,0 +1,17 @@
+Nombre: Centro de idiomas UNC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Instrucción
+Dirección: RFRJ+JW7, Dos de Mayo, Cajamarca 06002
+Teléfono: 934 567 899
+Rating: 3.4
+Reseñas: 28
+Sitio web: 
+Latitud: -7.1584522999999995
+Longitud: -78.5176966
+Google Maps: https://www.google.com/maps?cid=4994294722712758184
+Place Id: ChIJLU4x1f5aspERqOfm4pZMT0U
+Fotos: Centro de idiomas UNC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: MARVISUR CAJAMARCA-I
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de transporte de mercancías
+Dirección: Ricardo Palma 129, Cajamarca 06002
+Teléfono: 972 728 008
+Rating: 2.8
+Reseñas: 11
+Sitio web: http://www.expresomarvisur.com/
+Latitud: -7.165292099999999
+Longitud: -78.51219549999999
+Google Maps: https://www.google.com/maps?cid=8523120607318822649
+Place Id: ChIJjyaaPwBbspER-c4M8Qg1SHY
+Fotos: MARVISUR CAJAMARCA-I.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

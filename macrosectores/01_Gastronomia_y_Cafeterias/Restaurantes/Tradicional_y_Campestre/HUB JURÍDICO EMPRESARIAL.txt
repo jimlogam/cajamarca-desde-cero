@@ -1,0 +1,17 @@
+Nombre: HUB JURÍDICO EMPRESARIAL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Bufete
+Dirección: Jr, La Mar 253, Cajamarca 06001
+Teléfono: 949 887 326
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.158690699999999
+Longitud: -78.52179269999999
+Google Maps: https://www.google.com/maps?cid=12801497857842242126
+Place Id: ChIJq0ye4VVaspERTmKc-XkOqLE
+Fotos: HUB JURÍDICO EMPRESARIAL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: SERVICENTRO PRIMAVERA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: RGF5+QQ5, Av. Vía de Evitamiento Sur 2378, Cajamarca 06003
+Teléfono: 
+Rating: 4
+Reseñas: 29
+Sitio web: 
+Latitud: -7.175354899999999
+Longitud: -78.4906948
+Google Maps: https://www.google.com/maps?cid=14267192398358870531
+Place Id: ChIJz7QHfHhbspERA3pVPuU__8U
+Fotos: SERVICENTRO PRIMAVERA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

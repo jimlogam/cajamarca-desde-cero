@@ -1,0 +1,17 @@
+Nombre: Estancia Vergara
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Alojamiento particular
+Dirección: 06003, Cajamarca 06003
+Teléfono: 913 887 237
+Rating: 4.5
+Reseñas: 19
+Sitio web: https://hostelco.cfd/estancia-vergara-knlqx3
+Latitud: -7.180396999999999
+Longitud: -78.4773762
+Google Maps: https://www.google.com/maps?cid=15374340145369154119
+Place Id: ChIJV6x73p5bspERR4LBzOegXNU
+Fotos: Estancia Vergara.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

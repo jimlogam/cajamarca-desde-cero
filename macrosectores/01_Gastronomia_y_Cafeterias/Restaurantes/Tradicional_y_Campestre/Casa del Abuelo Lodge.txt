@@ -1,0 +1,17 @@
+Nombre: Casa del Abuelo Lodge
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Complejo hotelero
+Dirección: 06002, Cajamarca 06002
+Teléfono: 941 884 568
+Rating: 4.2
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1540494
+Longitud: -78.4979652
+Google Maps: https://www.google.com/maps?cid=553723510407126804
+Place Id: ChIJu7pe5XlbspERFF-ZVZk4rwc
+Fotos: Casa del Abuelo Lodge.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: ARTE CHACON
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Ebanista
+Dirección: RFGX+8WX, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.174202999999999
+Longitud: -78.500648
+Google Maps: https://www.google.com/maps?cid=2645056099845009606
+Place Id: ChIJ2dQ6fABbspERxvA9OoIgtSQ
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Estudio Contable JR & Asociados
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contable
+Dirección: Pj. Los Cartuchos N° Cdra 18, Cajamarca 06003
+Teléfono: 984 028 383
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/profile.php?id=61555628704753
+Latitud: -7.1806947999999995
+Longitud: -78.489364
+Google Maps: https://www.google.com/maps?cid=4490862869583499292
+Place Id: ChIJQbgYZABbspERHBCEfPy_Uj4
+Fotos: Estudio Contable JR & Asociados.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: INSTITUTO MARIANO IBERICO RODRÍGUEZ
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Escuela comunitaria
+Dirección: Atahualpa 665, Cajamarca 06001
+Teléfono: (076) 341258
+Rating: 3
+Reseñas: 1
+Sitio web: http://iesiberico.edu.pe/
+Latitud: -7.156895199999999
+Longitud: -78.5187493
+Google Maps: https://www.google.com/maps?cid=15623461559276476778
+Place Id: ChIJNb-E0iRbspERahml8oKv0dg
+Fotos: INSTITUTO MARIANO IBERICO RODRÍGUEZ.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

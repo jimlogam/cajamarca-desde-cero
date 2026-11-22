@@ -1,0 +1,17 @@
+Nombre: Casa de la Providencia
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Iglesia
+Dirección: VF5C+JR8, Horacio Urteaga, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1409612
+Longitud: -78.5279118
+Google Maps: https://www.google.com/maps?cid=15172960766732062619
+Place Id: ChIJK6xKNUFbspERm88AdG0vkdI
+Fotos: Casa de la Providencia.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

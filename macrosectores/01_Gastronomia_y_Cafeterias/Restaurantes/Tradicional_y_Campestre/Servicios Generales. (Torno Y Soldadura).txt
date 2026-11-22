@@ -1,0 +1,17 @@
+Nombre: Servicios Generales. (Torno Y Soldadura)
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Av. La Paz 1813, Cajamarca 06003
+Teléfono: (076) 627526
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1783719999999995
+Longitud: -78.5012473
+Google Maps: https://www.google.com/maps?cid=17775136587234314908
+Place Id: ChIJDTQw3zpbspERnIompIz4rfY
+Fotos: Servicios Generales. (Torno Y Soldadura).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

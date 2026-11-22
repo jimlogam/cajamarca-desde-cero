@@ -1,0 +1,17 @@
+Nombre: Grifo IGC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: Av. Atahualpa 300, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1658883
+Longitud: -78.50730829999999
+Google Maps: https://www.google.com/maps?cid=4626123064427717727
+Place Id: ChIJfWo-WABbspERX6R0tmpKM0A
+Fotos: Grifo IGC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

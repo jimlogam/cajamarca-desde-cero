@@ -1,0 +1,17 @@
+Nombre: Gilgal cargo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficina de correos
+Dirección: Los Próceres 316, Cajamarca 06003
+Teléfono: 
+Rating: 4.8
+Reseñas: 4
+Sitio web: http://www.gilgalcargo.com/
+Latitud: -7.1684993
+Longitud: -78.50534189999999
+Google Maps: https://www.google.com/maps?cid=13815510857166319897
+Place Id: ChIJ9xjPnKVbspERGXHzR-2Nur8
+Fotos: Gilgal cargo.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

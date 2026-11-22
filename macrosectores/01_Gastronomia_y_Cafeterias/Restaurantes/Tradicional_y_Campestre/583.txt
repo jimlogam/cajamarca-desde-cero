@@ -1,0 +1,17 @@
+Nombre: 583
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: Av. Mártires de Uchuraccay 550, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1681311999999995
+Longitud: -78.503024
+Google Maps: https://www.google.com/maps?cid=1191144099055371650
+Place Id: ChIJQTjK59xbspERgoV_RD_LhxA
+Fotos: 583.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

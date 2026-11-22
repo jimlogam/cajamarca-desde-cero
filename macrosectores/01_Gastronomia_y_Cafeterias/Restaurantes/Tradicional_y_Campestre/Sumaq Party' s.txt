@@ -1,0 +1,17 @@
+Nombre: Sumaq Party' s
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de fiestas infantiles
+Dirección: 06001, Cajamarca 06001
+Teléfono: 993 509 572
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1709536
+Longitud: -78.5097663
+Google Maps: https://www.google.com/maps?cid=11364333870660009301
+Place Id: ChIJqzzSjgdbspERVT2hzXE5tp0
+Fotos: Sumaq Party' s.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

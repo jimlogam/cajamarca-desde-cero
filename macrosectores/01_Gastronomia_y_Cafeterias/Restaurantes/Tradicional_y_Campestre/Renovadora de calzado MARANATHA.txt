@@ -1,0 +1,17 @@
+Nombre: Renovadora de calzado MARANATHA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de botas
+Dirección: Jr. Cajamarca 229, Tembladera 06437
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.2537536
+Longitud: -79.1323756
+Google Maps: https://www.google.com/maps?cid=17343702006490217078
+Place Id: ChIJ7SxQ2KDHspERdjoUgxU1sfA
+Fotos: Renovadora de calzado MARANATHA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

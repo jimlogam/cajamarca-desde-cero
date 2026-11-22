@@ -1,0 +1,17 @@
+Nombre: MAIELEN GRUOP S.AC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de registros contables
+Dirección: Jr, Chanchamayo Nª 1021, Cajamarca 06001
+Teléfono: 941 191 090
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1490825
+Longitud: -78.5211034
+Google Maps: https://www.google.com/maps?cid=13482568565232765291
+Place Id: ChIJsYwPy19bspERawmMJq20G7s
+Fotos: MAIELEN GRUOP S.AC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: IGLESIA MISIONERA "CASA DE ORACIÓN PARA TODAS LAS NACIONES " - SEDE CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Iglesia
+Dirección: Psj, San Pablo S/N, Cajamarca 06001
+Teléfono: 972 878 409
+Rating: 4.8
+Reseñas: 6
+Sitio web: https://www.imcopnac.com/home
+Latitud: -7.169223
+Longitud: -78.513779
+Google Maps: https://www.google.com/maps?cid=14260836126926600955
+Place Id: ChIJNTPeQJZbspER-3qEeeaq6MU
+Fotos: IGLESIA MISIONERA CASA DE ORACIÓN PARA TODAS LAS NACIONES - SEDE CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

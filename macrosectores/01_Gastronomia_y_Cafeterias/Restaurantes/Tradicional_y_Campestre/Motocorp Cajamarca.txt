@@ -1,0 +1,17 @@
+Nombre: Motocorp Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Concesionario de motos
+Dirección: Av Vía de Evitamiento Nte 2545, Cajamarca 06001
+Teléfono: (01) 2002880
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1455819
+Longitud: -78.5158324
+Google Maps: https://www.google.com/maps?cid=10531195892761288541
+Place Id: ChIJLWNmipdbspERXd8WKN5SJpI
+Fotos: Motocorp Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

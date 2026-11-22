@@ -1,0 +1,17 @@
+Nombre: Confecciones Mendoza
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de uniformes
+Dirección: Av. Mártires de Uchuraccay 1185, Cajamarca 06001
+Teléfono: 931 635 664
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1718272999999995
+Longitud: -78.4990487
+Google Maps: https://www.google.com/maps?cid=14393703752430101804
+Place Id: ChIJZUhJhT5bspERLKXNPU21wMc
+Fotos: Confecciones Mendoza.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

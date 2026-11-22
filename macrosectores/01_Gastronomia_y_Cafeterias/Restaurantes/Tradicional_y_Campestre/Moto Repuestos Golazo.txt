@@ -1,0 +1,17 @@
+Nombre: Moto Repuestos Golazo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: VF6F+MV6, Hermano Miguel Carducci, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.138332999999999
+Longitud: -78.525358
+Google Maps: https://www.google.com/maps?cid=8686708240088660346
+Place Id: ChIJSaWXY1tbspERennxxR5jjXg
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Grifo Repsol
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: Av Vía de Evitamiento Nte 1163, Cajamarca 06001
+Teléfono: 
+Rating: 3.8
+Reseñas: 86
+Sitio web: 
+Latitud: -7.1456623
+Longitud: -78.5160018
+Google Maps: https://www.google.com/maps?cid=17942075975755871761
+Place Id: ChIJXcFQXfRaspEREbb_6wkP__g
+Fotos: Grifo Repsol.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

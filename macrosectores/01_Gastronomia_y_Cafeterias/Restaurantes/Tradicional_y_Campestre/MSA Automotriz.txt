@@ -1,0 +1,17 @@
+Nombre: MSA Automotriz
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Concesionario de motos, Concesionario de automóviles, Concesionario Chevrolet, Establecimiento de depósito y venta, Concesionario Honda, Concesionario Isuzu, Comercio, Tienda de automovilismo, Taller de camiones
+Dirección: cda. 3, Av Vía de Evitamiento Nte, Cajamarca
+Teléfono: 976 604 196
+Rating: 4.3
+Reseñas: 180
+Sitio web: https://www.msachevrolet.com.pe/
+Latitud: -7.144626799999999
+Longitud: -78.5125134
+Google Maps: https://www.google.com/maps?cid=11102172146596414129
+Place Id: ChIJcxFxBPNaspERsYId2b7WEpo
+Fotos: MSA Automotriz.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 8 veces en los archivos de la cosecha original; fusionado en uno.
+

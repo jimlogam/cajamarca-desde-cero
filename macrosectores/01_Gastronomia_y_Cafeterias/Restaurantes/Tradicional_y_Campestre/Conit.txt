@@ -1,0 +1,17 @@
+Nombre: Conit
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de marketing, Consultora informática, Diseñador de sitios web
+Dirección: Jr, Cinco Esquinas 723, Cajamarca 06001
+Teléfono: 927 788 737
+Rating: 4.9
+Reseñas: 26
+Sitio web: http://conit.pe/
+Latitud: -7.1584539
+Longitud: -78.51355769999999
+Google Maps: https://www.google.com/maps?cid=4860165724245241136
+Place Id: ChIJJQ2-jCAiNIQRMK0q1_nGckM
+Fotos: Conit.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Genesaret Editorial
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: Jirón Ancón 512 Jirón Ancón 518, Jirón Silva Santisteban 504, Cajamarca
+Teléfono: 954 302 985
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.159088199999999
+Longitud: -78.5219759
+Google Maps: https://www.google.com/maps?cid=9102616374303259204
+Place Id: ChIJ3w861TFbspERRPr_XF39Un4
+Fotos: Genesaret Editorial.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

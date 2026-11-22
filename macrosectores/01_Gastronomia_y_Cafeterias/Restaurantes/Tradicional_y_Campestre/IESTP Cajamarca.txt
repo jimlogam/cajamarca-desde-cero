@@ -1,0 +1,17 @@
+Nombre: IESTP "Cajamarca"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Instituto de secundaria
+Dirección: Carr. a Baños del Inca, Cajamarca 06002
+Teléfono: 366010
+Rating: 
+Reseñas: 
+Sitio web: http://iestpcajamarca.edu.pe/
+Latitud: -7.165764599999999
+Longitud: -78.48942869999999
+Google Maps: https://www.google.com/maps?cid=747319287666714069
+Place Id: ChIJnTB6VSZbspER1SUsw-4CXwo
+Fotos: IESTP Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: LUCKY´S DEPOR
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de deportes
+Dirección: Jr.Amazonas 799 A, Cajamarca 06001
+Teléfono: 924 266 555
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1572378
+Longitud: -78.5151734
+Google Maps: https://www.google.com/maps?cid=4507821058976167457
+Place Id: ChIJazvKVspbspERIbZMo17_jj4
+Fotos: LUCKY´S DEPOR.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

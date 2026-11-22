@@ -1,0 +1,17 @@
+Nombre: D'Marié Posada Restaurant
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante de comida rural
+Dirección: km 4 carretera
+Teléfono: 987 034 049
+Rating: 4
+Reseñas: 206
+Sitio web: 
+Latitud: -7.1805881
+Longitud: -78.47779
+Google Maps: https://www.google.com/maps?cid=7810231265838011439
+Place Id: ChIJqQ8z-DRbspERL5TstfSDY2w
+Fotos: D'Marié Posada Restaurant.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

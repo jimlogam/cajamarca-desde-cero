@@ -1,0 +1,17 @@
+Nombre: Alfonso ugarte y tahuantinsuyo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón de manicura y pedicura
+Dirección: RFFR+MXQ, Arcomayo, Cajamarca 06003
+Teléfono: 
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1757824
+Longitud: -78.5075308
+Google Maps: https://www.google.com/maps?cid=18349800405481774177
+Place Id: ChIJCVNcYwBbspERYVwPVD-Wp_4
+Fotos: Alfonso ugarte y tahuantinsuyo.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

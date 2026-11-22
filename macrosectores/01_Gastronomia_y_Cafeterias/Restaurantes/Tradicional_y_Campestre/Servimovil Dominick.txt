@@ -1,0 +1,17 @@
+Nombre: Servimovil Dominick
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de informática, Tienda de ropa para bebés, Tienda de accesorios para móviles, Comercio, Carpintería, Diseñador gráfico, Proveedor de sistemas de seguridad, Societe de Flocage, Empresa de software, Servicio de transporte
+Dirección: Jr. Chepén 1144, Cajamarca 06002
+Teléfono: 975 107 660
+Rating: 5
+Reseñas: 19
+Sitio web: 
+Latitud: -7.147212199999999
+Longitud: -78.5169804
+Google Maps: https://www.google.com/maps?cid=12632007271599383567
+Place Id: ChIJ6S1Yt8BbspERDyTVr6_nTa8
+Fotos: Servimovil Dominick.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 10 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Campo Deportivo Las Vegas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Campo de fútbol
+Dirección: Luis Alberto Sánchez 129, Cajamarca 06001
+Teléfono: 968 708 415
+Rating: 4.1
+Reseñas: 16
+Sitio web: 
+Latitud: -7.1452507
+Longitud: -78.51821249999999
+Google Maps: https://www.google.com/maps?cid=4276656516959560283
+Place Id: ChIJd1SOe9pbspERW-K7h3G8WTs
+Fotos: Campo Deportivo Las Vegas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

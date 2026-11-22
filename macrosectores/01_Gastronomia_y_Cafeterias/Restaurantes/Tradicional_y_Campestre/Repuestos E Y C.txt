@@ -1,0 +1,17 @@
+Nombre: Repuestos E Y C
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: RFPR+F5R, Av San Martín de Porres, Cajamarca 06002
+Teléfono: 936 842 739
+Rating: 3
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1637664
+Longitud: -78.50959569999999
+Google Maps: https://www.google.com/maps?cid=16587628181864948387
+Place Id: ChIJeWJBmD5bspERo6JRRvIXM-Y
+Fotos: Repuestos E Y C.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

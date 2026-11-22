@@ -1,0 +1,17 @@
+Nombre: R&M Asesores Empresariales
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de registros contables, Service establishment
+Dirección: 
+Teléfono: 925 556 021
+Rating: 
+Reseñas: 
+Sitio web: https://r-m-asesores-empresariales.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=2073824023578980074
+Place Id: ChIJbaFt0NJbspER6q4YPPazxxw
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

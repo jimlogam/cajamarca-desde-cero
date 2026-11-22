@@ -1,0 +1,17 @@
+Nombre: SWISS JUST CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de belleza y salud
+Dirección: Jirón, Garcilazo de la Vega 368, Cajamarca 06002
+Teléfono: 968 318 456
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/share/14jddd2hFmq/
+Latitud: -7.166010999999999
+Longitud: -78.5121336
+Google Maps: https://www.google.com/maps?cid=1740389024820982520
+Place Id: ChIJBcmrTQBbspER-HJx25gaJxg
+Fotos: SWISS JUST CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

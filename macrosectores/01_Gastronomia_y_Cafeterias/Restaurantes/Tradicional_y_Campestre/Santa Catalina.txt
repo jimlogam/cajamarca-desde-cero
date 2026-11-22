@@ -1,0 +1,17 @@
+Nombre: Santa Catalina
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carnicería
+Dirección: Mercado San Martin, Jirón El Milagro 292, Cajamarca 06003
+Teléfono: 976 437 784
+Rating: 
+Reseñas: 
+Sitio web: https://murruguito10.wixsite.com/grado-cero
+Latitud: -7.1676328
+Longitud: -78.5016808
+Google Maps: https://www.google.com/maps?cid=2842013838308173583
+Place Id: ChIJ4YctPklbspERD2caP4fccCc
+Fotos: Santa Catalina.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

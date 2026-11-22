@@ -1,0 +1,17 @@
+Nombre: DE CAJAMARCA AIR TRAVEL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: JR, Dos de Mayo 845, Cajamarca 06001
+Teléfono: 973 804 242
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1544931
+Longitud: -78.51459349999999
+Google Maps: https://www.google.com/maps?cid=12022958994950475309
+Place Id: ChIJU-FPMRNbspERLU4ca4Eh2qY
+Fotos: DE CAJAMARCA AIR TRAVEL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

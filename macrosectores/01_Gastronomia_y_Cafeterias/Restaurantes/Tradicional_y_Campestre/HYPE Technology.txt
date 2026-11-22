@@ -1,0 +1,17 @@
+Nombre: HYPE Technology
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de informática
+Dirección: Amalia Puga 979, Cajamarca 06002
+Teléfono: 912 203 720
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1594937
+Longitud: -78.5146671
+Google Maps: https://www.google.com/maps?cid=15708013206889512803
+Place Id: ChIJjXlJxEFbspERYz_Le8kS_tk
+Fotos: HYPE Technology.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Fantasy Park Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de ocio infantil
+Dirección: VF2R+37G, Cajamarca 06001
+Teléfono: 
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.149809299999999
+Longitud: -78.5092921
+Google Maps: https://www.google.com/maps?cid=9045713924982223981
+Place Id: ChIJUbaskBpbspERbbReduPUiH0
+Fotos: Fantasy Park Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

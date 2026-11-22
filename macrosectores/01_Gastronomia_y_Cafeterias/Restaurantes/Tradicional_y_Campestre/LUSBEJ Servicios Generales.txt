@@ -1,0 +1,17 @@
+Nombre: LUSBEJ Servicios Generales
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa minera
+Dirección: Jr. El Lucero 341, Cajamarca 06002
+Teléfono: (076) 343697
+Rating: 
+Reseñas: 
+Sitio web: http://lusbej.pe/
+Latitud: -7.1617465
+Longitud: -78.51278549999999
+Google Maps: https://www.google.com/maps?cid=17279846379541168720
+Place Id: ChIJtwUlpf1aspERUALfybpYzu8
+Fotos: LUSBEJ Servicios Generales.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

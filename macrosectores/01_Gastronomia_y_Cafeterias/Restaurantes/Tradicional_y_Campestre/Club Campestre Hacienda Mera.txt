@@ -1,0 +1,17 @@
+Nombre: Club Campestre Hacienda Mera
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón de bodas
+Dirección: Baños del Inca 06000
+Teléfono: 950 286 989
+Rating: 4.2
+Reseñas: 25
+Sitio web: 
+Latitud: -7.135175599999999
+Longitud: -78.4685853
+Google Maps: https://www.google.com/maps?cid=2323213210326923818
+Place Id: ChIJyct4ZjhFspERKvoHGxu2PSA
+Fotos: Club Campestre Hacienda Mera.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

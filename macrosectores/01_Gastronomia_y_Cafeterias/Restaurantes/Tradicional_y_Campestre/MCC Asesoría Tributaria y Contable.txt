@@ -1,0 +1,17 @@
+Nombre: MCC Asesoría Tributaria y Contable
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contador público
+Dirección: Jr, Cardosanto 224, Cajamarca 06001
+Teléfono: 972 873 963
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.164270999999999
+Longitud: -78.4980594
+Google Maps: https://www.google.com/maps?cid=10814800298073076040
+Place Id: ChIJtQTZ3GJbspERSDFvY5LjFZY
+Fotos: MCC Asesoría Tributaria y Contable.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

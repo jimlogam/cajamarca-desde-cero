@@ -1,0 +1,17 @@
+Nombre: L&J AUTOMOTRIZ EXPRESS SAC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de automóviles, Servicio de grúa
+Dirección: Jr, Cinco Esquinas 1554, Cajamarca 06000
+Teléfono: 920 674 251
+Rating: 4.4
+Reseñas: 7
+Sitio web: 
+Latitud: -7.152808599999999
+Longitud: -78.5075899
+Google Maps: https://www.google.com/maps?cid=2717091522141037105
+Place Id: ChIJZ5sUNOBbspERMSJx91cMtSU
+Fotos: L&J AUTOMOTRIZ EXPRESS SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

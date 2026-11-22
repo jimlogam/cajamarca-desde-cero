@@ -1,0 +1,17 @@
+Nombre: Alternativas Contables
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de software
+Dirección: Sede Cajamarca, Túpac Amaru 1158, Cajamarca 06003
+Teléfono: 963 656 425
+Rating: 
+Reseñas: 
+Sitio web: http://ecofact.pe/
+Latitud: -7.178331699999999
+Longitud: -78.504117
+Google Maps: https://www.google.com/maps?cid=9402934730159960445
+Place Id: ChIJq6reThFbspERfTFedVHvfYI
+Fotos: Alternativas Contables.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

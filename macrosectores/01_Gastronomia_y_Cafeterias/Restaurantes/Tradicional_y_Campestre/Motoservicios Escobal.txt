@@ -1,0 +1,17 @@
+Nombre: Motoservicios Escobal
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Av. Mártires de Uchuraccay 1690, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1751985
+Longitud: -78.4956496
+Google Maps: https://www.google.com/maps?cid=4831128277953336417
+Place Id: ChIJRd5EGD1bspERYdTAh5KdC0M
+Fotos: Motoservicios Escobal.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

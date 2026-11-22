@@ -1,0 +1,17 @@
+Nombre: Sunat Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficina de administración tributaria
+Dirección: Av Vía de Evitamiento Nte 978-996, Cajamarca 06001
+Teléfono: (076) 599380
+Rating: 3.8
+Reseñas: 35
+Sitio web: 
+Latitud: -7.146577799999999
+Longitud: -78.50845799999999
+Google Maps: https://www.google.com/maps?cid=13328294449648061211
+Place Id: ChIJF_Fj7e1aspERG0sVhS-d97g
+Fotos: Sunat Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: AUDYTOR Sociedad de Auditoría
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Auditor, Contable, Service establishment, Médico forense
+Dirección: 
+Teléfono: 928 887 731
+Rating: 
+Reseñas: 
+Sitio web: https://www.audytor.biz/
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=17529154301710275977
+Place Id: ChIJWU6R0EQagKERiZVzxvYQRPM
+Fotos: AUDYTOR Sociedad de Auditoría.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

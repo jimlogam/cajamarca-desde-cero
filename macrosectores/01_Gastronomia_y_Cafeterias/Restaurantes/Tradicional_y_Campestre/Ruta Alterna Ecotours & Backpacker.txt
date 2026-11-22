@@ -1,0 +1,17 @@
+Nombre: Ruta Alterna Ecotours & Backpacker
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes, Taller de reparación de motos, Aparcamiento para bicicletas, Bed & Breakfast
+Dirección: Jr, Los Nogales 214, Cajamarca 06001
+Teléfono: 946 366 585
+Rating: 4.8
+Reseñas: 83
+Sitio web: https://rutaalterna.net/
+Latitud: -7.1486811999999995
+Longitud: -78.5150129
+Google Maps: https://www.google.com/maps?cid=5180715164796705870
+Place Id: ChIJO705s_ZaspERTtwvaP6Y5Uc
+Fotos: Ruta Alterna Ecotours & Backpacker.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

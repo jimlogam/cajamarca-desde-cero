@@ -1,0 +1,17 @@
+Nombre: cajamarcamotos taller_multimarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: Av. Alameda de los Incas 321, Cajamarca 06002
+Teléfono: 929 421 925
+Rating: 
+Reseñas: 
+Sitio web: https://cajamarca-motos.webnode.es/?_ga=2.98186527.1897811152.1654986304-1068744711.1654986304&fbclid=IwAR274wbMc52zyjbM5uqqjxr0Z2ZWNZXES_cXluvP6G_RUx1u6D0DJaLfUqg
+Latitud: -7.1621726
+Longitud: -78.4949472
+Google Maps: https://www.google.com/maps?cid=18303153640901036719
+Place Id: ChIJTSHGQH5bspERr8pNG0PdAf4
+Fotos: cajamarcamotos taller_multimarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

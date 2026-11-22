@@ -1,0 +1,17 @@
+Nombre: MOTOR COMPANY taller mecanico automotriz
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de automóviles, Pintura de automóviles, Tienda de accesorios para automóviles, Taller de reparación de motores diésel, Autoservicio de lavado de autos, Tienda de repuestos de automóviles usados
+Dirección: Jr Clodomiro Cerna 219, Cajamarca 06001
+Teléfono: 953 535 674
+Rating: 4.3
+Reseñas: 22
+Sitio web: https://linktr.ee/motorcompanygo
+Latitud: -7.1639333999999995
+Longitud: -78.5001997
+Google Maps: https://www.google.com/maps?cid=6619114161317194206
+Place Id: ChIJFUIymhtbspER3qkRmULR21s
+Fotos: MOTOR COMPANY taller mecanico automotriz.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

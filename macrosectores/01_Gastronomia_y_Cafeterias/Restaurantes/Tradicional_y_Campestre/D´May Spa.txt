@@ -1,0 +1,17 @@
+Nombre: D´May Spa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de estética
+Dirección: Psj, Los Leones D-12, Cajamarca 06002
+Teléfono: 944 241 808
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1474674
+Longitud: -78.5095048
+Google Maps: https://www.google.com/maps?cid=12730175384079462786
+Place Id: ChIJC3jqtBtbspERgnF6gBCrqrA
+Fotos: D´May Spa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

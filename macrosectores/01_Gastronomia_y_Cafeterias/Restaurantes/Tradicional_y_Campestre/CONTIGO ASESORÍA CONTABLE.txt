@@ -1,0 +1,17 @@
+Nombre: CONTIGO ASESORÍA CONTABLE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contable
+Dirección: +51, Cajamarca 06001
+Teléfono: 986 548 247
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/profile.php?id=61554712409691&mibextid=LQQJ4d
+Latitud: -7.146604399999999
+Longitud: -78.5105061
+Google Maps: https://www.google.com/maps?cid=5175831631248552210
+Place Id: ChIJG8BnCftbspEREvHMJXI_1Ec
+Fotos: CONTIGO ASESORÍA CONTABLE.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

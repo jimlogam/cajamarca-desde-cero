@@ -1,0 +1,17 @@
+Nombre: Artes Gráficas Leon
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Imprenta
+Dirección: Jr, Miguel Iglesias 110, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1534901
+Longitud: -78.5210175
+Google Maps: https://www.google.com/maps?cid=1168535681815946232
+Place Id: ChIJs3fCsS5bspER-CMC7gJ5NxA
+Fotos: Artes Gráficas Leon.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

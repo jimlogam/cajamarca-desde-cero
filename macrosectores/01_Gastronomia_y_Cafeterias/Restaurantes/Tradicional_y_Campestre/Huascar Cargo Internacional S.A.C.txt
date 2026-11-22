@@ -1,0 +1,17 @@
+Nombre: Huascar Cargo Internacional S.A.C
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de transporte por camión
+Dirección: Juan Beato Macias 1525, Cajamarca 06003
+Teléfono: 976 721 414
+Rating: 4.1
+Reseñas: 60
+Sitio web: http://empresahuascar.blogspot.com/2014/01/empresa-de-transporte-de-todo-tipo-de.html?m=1
+Latitud: -7.1783787
+Longitud: -78.4915366
+Google Maps: https://www.google.com/maps?cid=8058632071478548593
+Place Id: ChIJyXFQhA1bspERcZgMLCwD1m8
+Fotos: Huascar Cargo Internacional S.A.C.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: InnovaTec EyE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Electricista, Tienda de electricidad, Proveedor de equipos eléctricos, Tienda de componentes electrónicos
+Dirección: 6001 Mz. C, Lote 19, Cajamarca 06001
+Teléfono: 978 366 145
+Rating: 
+Reseñas: 
+Sitio web: http://www.innovatec-eye.com/
+Latitud: -7.1514866999999995
+Longitud: -78.5008886
+Google Maps: https://www.google.com/maps?cid=18239867169049323376
+Place Id: ChIJI_2ny91bspERcKd-IY0GIf0
+Fotos: InnovaTec EyE.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

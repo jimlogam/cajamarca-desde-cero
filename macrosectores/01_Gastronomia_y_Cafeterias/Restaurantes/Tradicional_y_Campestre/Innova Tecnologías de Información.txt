@@ -1,0 +1,17 @@
+Nombre: Innova Tecnologías de Información
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Imprenta
+Dirección: Av. El Maestro 519, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1573714
+Longitud: -78.50992049999999
+Google Maps: https://www.google.com/maps?cid=17662082338577381170
+Place Id: ChIJm34xHgBbspERMveaKE9SHPU
+Fotos: Innova Tecnologías de Información.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

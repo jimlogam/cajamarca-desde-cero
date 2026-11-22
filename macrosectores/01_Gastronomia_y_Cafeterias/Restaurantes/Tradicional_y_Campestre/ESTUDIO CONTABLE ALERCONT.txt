@@ -1,0 +1,17 @@
+Nombre: ESTUDIO CONTABLE ALERCONT
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de contabilidad
+Dirección: 28 de Julio 140, Cajamarca 06002
+Teléfono: 925 287 469
+Rating: 
+Reseñas: 
+Sitio web: http://www.facebook.com/Estudio-Contable-Alercont-223330388036087/
+Latitud: -7.164140199999999
+Longitud: -78.508434
+Google Maps: https://www.google.com/maps?cid=12760996886895667835
+Place Id: ChIJQ9cXRR1bspEReypI1w4rGLE
+Fotos: ESTUDIO CONTABLE ALERCONT.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

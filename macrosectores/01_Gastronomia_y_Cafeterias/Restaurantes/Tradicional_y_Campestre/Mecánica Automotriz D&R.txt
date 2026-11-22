@@ -1,0 +1,17 @@
+Nombre: Mecánica Automotriz D&R
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico, Service establishment
+Dirección: 
+Teléfono: 994 313 833
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=4547203157266300410
+Place Id: ChIJHTAqunFbspER-n1k7i3pGj8
+Fotos: Mecánica Automotriz D&R.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

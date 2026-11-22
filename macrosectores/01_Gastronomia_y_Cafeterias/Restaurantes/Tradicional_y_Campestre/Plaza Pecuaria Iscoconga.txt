@@ -1,0 +1,17 @@
+Nombre: Plaza Pecuaria Iscoconga
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Animales
+Dirección: QHX2+P22, Iscoconga 06300
+Teléfono: 
+Rating: 4.1
+Reseñas: 93
+Sitio web: 
+Latitud: -7.2007259999999995
+Longitud: -78.4499721
+Google Maps: https://www.google.com/maps?cid=11425862182476576424
+Place Id: ChIJVVVVGZ9EspERqPYVPx7RkJ4
+Fotos: Plaza Pecuaria Iscoconga.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

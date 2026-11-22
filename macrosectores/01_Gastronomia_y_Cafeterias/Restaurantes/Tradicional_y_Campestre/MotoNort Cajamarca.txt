@@ -1,0 +1,17 @@
+Nombre: MotoNort Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: 13 De Julio 645, Cajamarca 06001
+Teléfono: 993 082 889
+Rating: 1.8
+Reseñas: 5
+Sitio web: 
+Latitud: -7.149552
+Longitud: -78.5256426
+Google Maps: https://www.google.com/maps?cid=4215574732282563328
+Place Id: ChIJjdZUFidbspERAIvQSeK6gDo
+Fotos: MotoNort Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 8 veces en los archivos de la cosecha original; fusionado en uno.
+

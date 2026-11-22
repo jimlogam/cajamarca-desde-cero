@@ -1,0 +1,17 @@
+Nombre: ESTUDIO CONTABLE PROINNOVA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de contabilidad
+Dirección: Jirón Libertad cuadra 10 06004, Baños del Inca 06004
+Teléfono: 944 795 848
+Rating: 4.9
+Reseñas: 7
+Sitio web: https://proinnova.company/
+Latitud: -7.1482715
+Longitud: -78.4615761
+Google Maps: https://www.google.com/maps?cid=1727608752819043335
+Place Id: ChIJX1aBbupaspERB3yi5gGz-Rc
+Fotos: ESTUDIO CONTABLE PROINNOVA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

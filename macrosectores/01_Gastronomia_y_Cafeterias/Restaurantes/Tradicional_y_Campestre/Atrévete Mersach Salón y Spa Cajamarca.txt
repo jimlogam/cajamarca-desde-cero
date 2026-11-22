@@ -1,0 +1,17 @@
+Nombre: Atrévete Mersach Salón y Spa Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de estética
+Dirección: Toparpa 117, Cajamarca 06001
+Teléfono: 977 166 694
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1634025999999995
+Longitud: -78.4627567
+Google Maps: https://www.google.com/maps?cid=1697560588096770232
+Place Id: ChIJEZ8JTzVFspERuBA2Xlzyjhc
+Fotos: Atrévete Mersach Salón y Spa Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

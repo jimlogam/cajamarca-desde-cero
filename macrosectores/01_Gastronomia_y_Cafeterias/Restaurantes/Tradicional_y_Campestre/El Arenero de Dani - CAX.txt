@@ -1,0 +1,17 @@
+Nombre: El Arenero de Dani - CAX
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de ocio infantil
+Dirección: Jr. Sor Manuela Gil 151, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1455229
+Longitud: -78.51078749999999
+Google Maps: https://www.google.com/maps?cid=10474686564245532979
+Place Id: ChIJXXiNNwBbspERM3Fp0-6PXZE
+Fotos: El Arenero de Dani - CAX.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

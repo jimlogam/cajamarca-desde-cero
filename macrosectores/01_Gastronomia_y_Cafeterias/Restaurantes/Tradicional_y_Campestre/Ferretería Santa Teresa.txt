@@ -1,0 +1,17 @@
+Nombre: Ferretería Santa Teresa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Distribuidor de acero
+Dirección: Jr, Sta. Teresa 260, Cajamarca 06002
+Teléfono: 945 136 624
+Rating: 4.2
+Reseñas: 14
+Sitio web: http://www.ferreterasantateresa.com/donde-estamos
+Latitud: -7.1626898
+Longitud: -78.50686259999999
+Google Maps: https://www.google.com/maps?cid=10392027657326845561
+Place Id: ChIJwwdMNrlbspEReV4AUxjmN5A
+Fotos: Ferretería Santa Teresa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

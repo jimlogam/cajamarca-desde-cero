@@ -1,0 +1,17 @@
+Nombre: Clair de Lune - SEYTÚ
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de cosméticos
+Dirección: RESIDENCIAL WAYRA I, Cajamarca 06000
+Teléfono: 966 798 458
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1617465
+Longitud: -78.51278549999999
+Google Maps: https://www.google.com/maps?cid=6677528908459527266
+Place Id: ChIJvWC__kZbspERYswhxilZq1w
+Fotos: Clair de Lune - SEYTÚ.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Grifo El Guitarrero
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: 8 620, Cajamarca 06000
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1985936
+Longitud: -78.50990039999999
+Google Maps: https://www.google.com/maps?cid=10779980154324141649
+Place Id: ChIJYfdxNgBbspERUUZA6NUumpU
+Fotos: Grifo El Guitarrero.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

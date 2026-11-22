@@ -1,0 +1,17 @@
+Nombre: Recreo Campestre Puruaycito
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de recreo
+Dirección: Cajamarca 06000
+Teléfono: 972 700 159
+Rating: 4.8
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1079408
+Longitud: -78.5243957
+Google Maps: https://www.google.com/maps?cid=10390943459903323898
+Place Id: ChIJ_f6UTQxRspER-r608AUMNJA
+Fotos: Recreo Campestre Puruaycito.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

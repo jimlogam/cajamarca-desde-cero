@@ -1,0 +1,17 @@
+Nombre: La Ayacuchana
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Av. La Paz 521, Cajamarca 06003
+Teléfono: 939 646 060
+Rating: 3.4
+Reseñas: 144
+Sitio web: 
+Latitud: -7.168366799999999
+Longitud: -78.50797349999999
+Google Maps: https://www.google.com/maps?cid=7328783889464012439
+Place Id: ChIJ89tEohxbspERl64bLx4StWU
+Fotos: La Ayacuchana.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

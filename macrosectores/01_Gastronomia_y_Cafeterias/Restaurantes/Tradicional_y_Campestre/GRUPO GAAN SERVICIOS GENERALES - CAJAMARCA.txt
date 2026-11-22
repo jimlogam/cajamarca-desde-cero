@@ -1,0 +1,17 @@
+Nombre: GRUPO GAAN SERVICIOS GENERALES - CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Proveedor de servicios de telecomunicaciones, Proveedor de equipos de seguridad
+Dirección: Jr. Apurimac 564, Cajamarca 06001 Urb. Las flores Mz F lote 19, Dpto 101 - Trujillo Abraham Valdelomar 531 - Pueblo Libre - Lima, Cajamarca 06001
+Teléfono: 960 443 918
+Rating: 4.9
+Reseñas: 58
+Sitio web: https://www.grupogaan.com/
+Latitud: -7.1577483
+Longitud: -78.5202269
+Google Maps: https://www.google.com/maps?cid=1080785440862093327
+Place Id: ChIJpbE4ONRbspERD8D_2KG4_w4
+Fotos: GRUPO GAAN SERVICIOS GENERALES - CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 12 veces en los archivos de la cosecha original; fusionado en uno.
+

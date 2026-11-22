@@ -1,0 +1,17 @@
+Nombre: auto gas cajamarca taller automotriz
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: Cajamarca 06001
+Teléfono: 966 730 219
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1765703
+Longitud: -78.48879219999999
+Google Maps: https://www.google.com/maps?cid=1481133854425813912
+Place Id: ChIJbwwGhJVbspERmBPbqWQLjhQ
+Fotos: auto gas cajamarca taller automotriz.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

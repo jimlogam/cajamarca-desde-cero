@@ -1,0 +1,17 @@
+Nombre: agua unica celendin
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Distribuidor de agua mineral
+Dirección: Jr. Daniel Alcides Sánchez Carrión 201, celedin 06226
+Teléfono: 927 470 183
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1617465
+Longitud: -78.51278549999999
+Google Maps: https://www.google.com/maps?cid=8670882985039746273
+Place Id: ChIJSzbj2d1bspER4dRFdCIqVXg
+Fotos: agua unica celendin.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

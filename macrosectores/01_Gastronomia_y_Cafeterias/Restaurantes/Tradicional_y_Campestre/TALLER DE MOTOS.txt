@@ -1,0 +1,17 @@
+Nombre: TALLER DE MOTOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: Av. La Paz 2363-2301, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1824561
+Longitud: -78.4979449
+Google Maps: https://www.google.com/maps?cid=7696332763025864245
+Place Id: ChIJ7__qWptbspERNXZb_d7dzmo
+Fotos: TALLER DE MOTOS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

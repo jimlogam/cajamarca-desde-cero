@@ -1,0 +1,17 @@
+Nombre: Libreria Bazar Internet
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Cibercafé
+Dirección: Jirón Olimpia 583, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.148653299999999
+Longitud: -78.5116383
+Google Maps: https://www.google.com/maps?cid=8991270556072680422
+Place Id: ChIJYy-uuqRbspER5hsk1u5ox3w
+Fotos: Libreria Bazar Internet.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

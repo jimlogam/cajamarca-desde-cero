@@ -1,0 +1,17 @@
+Nombre: FULL ELECTRÓNICA AUTOMOTRIZ
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: Av. Industrial 621, Cajamarca 06003
+Teléfono: 
+Rating: 4.2
+Reseñas: 6
+Sitio web: https://tallermec.net.pe/p/full-electronica-automotriz/?utm_source=google&utm_medium=organic&utm_campaign=gmb
+Latitud: -7.182290699999999
+Longitud: -78.49154999999999
+Google Maps: https://www.google.com/maps?cid=6729735427359667418
+Place Id: ChIJ1YmwjJlbspER2nQiLLfSZF0
+Fotos: FULL ELECTRÓNICA AUTOMOTRIZ.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

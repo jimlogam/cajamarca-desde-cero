@@ -1,0 +1,17 @@
+Nombre: SEGURIDAD - INFORMATICA - Soporte Técnico - Cámaras de seguridad
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de informática, Tienda de alarmas antirrobo, Tienda de móviles, Tienda de cámaras, Empresa de electrónica, Proveedor de alarmas de incendio, Cíber, Tienda de reparación de teléfonos móviles, Instaladores de sistemas de seguridad, Torre de telecomunicaciones
+Dirección: 06002, Cajamarca 06002
+Teléfono: 994 844 627
+Rating: 5
+Reseñas: 30
+Sitio web: https://www.facebook.com/informaticayseguridadelectronica
+Latitud: -7.1571491
+Longitud: -78.5141044
+Google Maps: https://www.google.com/maps?cid=4673675071418458587
+Place Id: ChIJ_4NcQr5bspER2-F-G7c63EA
+Fotos: SEGURIDAD - INFORMATICA - Soporte Técnico - Cámaras de seguridad.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

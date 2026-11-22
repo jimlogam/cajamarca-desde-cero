@@ -1,0 +1,17 @@
+Nombre: INSAVA MULTISERVICIOS GENERALES EIRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: RGCF+RJP, Unnamed Road, Cajamarca 06003
+Teléfono: 930 224 600
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1779215999999995
+Longitud: -78.4759242
+Google Maps: https://www.google.com/maps?cid=5135413334232793438
+Place Id: ChIJYyql7rhbspERXgHACTinREc
+Fotos: INSAVA MULTISERVICIOS GENERALES EIRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

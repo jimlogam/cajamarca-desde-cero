@@ -1,0 +1,17 @@
+Nombre: Salon de eventos zulay
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón para eventos
+Dirección: Ca. Polonia, Cajamarca 06001
+Teléfono: 989 060 917
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.139437099999999
+Longitud: -78.51083729999999
+Google Maps: https://www.google.com/maps?cid=6317955861610644524
+Place Id: ChIJX-RZ6CNbspERLETm1WHjrVc
+Fotos: Salon de eventos zulay.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

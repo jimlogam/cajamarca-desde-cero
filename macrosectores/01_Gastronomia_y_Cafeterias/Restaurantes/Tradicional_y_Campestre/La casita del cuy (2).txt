@@ -1,0 +1,17 @@
+Nombre: La casita del cuy
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: RFQR+4HR, Cutervo, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1621459
+Longitud: -78.5086216
+Google Maps: https://www.google.com/maps?cid=7491128444303239187
+Place Id: ChIJxepVeABbspERE-iEYaHV9Wc
+Fotos: La casita del cuy (2).jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

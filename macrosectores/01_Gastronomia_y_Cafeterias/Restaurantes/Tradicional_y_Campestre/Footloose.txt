@@ -1,0 +1,17 @@
+Nombre: Footloose
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Zapatería, Tienda de accesorios de moda
+Dirección: Jr. Sor Manuela Gil 151, Cajamarca 06001
+Teléfono: (01) 7482402
+Rating: 4.5
+Reseñas: 22
+Sitio web: https://www.footloose.pe/
+Latitud: -7.1494886
+Longitud: -78.5096143
+Google Maps: https://www.google.com/maps?cid=15942031089150232116
+Place Id: ChIJkXwXxb5bspERNIYIo894Pd0
+Fotos: Footloose.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

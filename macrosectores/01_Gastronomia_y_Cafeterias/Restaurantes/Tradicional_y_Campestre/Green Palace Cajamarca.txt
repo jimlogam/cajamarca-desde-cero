@@ -1,0 +1,17 @@
+Nombre: Green Palace Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Palacio de exposiciones y congresos
+Dirección: Jr. Guillermo Urrelo 524, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1609278
+Longitud: -78.51717
+Google Maps: https://www.google.com/maps?cid=2311077291921120362
+Place Id: ChIJY0iAR5hbspERahxuaY2YEiA
+Fotos: Green Palace Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

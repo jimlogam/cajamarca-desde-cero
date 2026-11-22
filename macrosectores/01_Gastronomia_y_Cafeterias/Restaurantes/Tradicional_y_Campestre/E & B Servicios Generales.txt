@@ -1,0 +1,17 @@
+Nombre: E & B Servicios Generales
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Ingeniero estructural
+Dirección: RFHX+2HV Cerca de, Pje. Paraíso, Cajamarca 06003
+Teléfono: 971 032 296
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/nestor.idrugoatalaya
+Latitud: -7.1723763
+Longitud: -78.5010929
+Google Maps: https://www.google.com/maps?cid=17452652732536499746
+Place Id: ChIJA3qcIv9bspERIq4WLzFHNPI
+Fotos: E & B Servicios Generales.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

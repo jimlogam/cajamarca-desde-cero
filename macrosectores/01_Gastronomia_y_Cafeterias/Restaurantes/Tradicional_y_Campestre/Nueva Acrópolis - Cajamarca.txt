@@ -1,0 +1,17 @@
+Nombre: Nueva Acrópolis - Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro cultural
+Dirección: San Luis 285, Cajamarca 06002
+Teléfono: 968 308 452
+Rating: 4.3
+Reseñas: 189
+Sitio web: https://www.acropolisperu.org/
+Latitud: -7.1629331999999994
+Longitud: -78.5063335
+Google Maps: https://www.google.com/maps?cid=7320542837855168495
+Place Id: ChIJH1q2fB1bspER7ydj1ezKl2U
+Fotos: Nueva Acrópolis - Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Camal municipal icoconga cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carnicería
+Dirección: Prol. Amalia Puga 201, Cajamarca 06001
+Teléfono: 
+Rating: 3.8
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1531251
+Longitud: -78.52160889999999
+Google Maps: https://www.google.com/maps?cid=13052044652332717118
+Place Id: ChIJl9geCkNbspERPhTUZnUtIrU
+Fotos: Camal municipal icoconga cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

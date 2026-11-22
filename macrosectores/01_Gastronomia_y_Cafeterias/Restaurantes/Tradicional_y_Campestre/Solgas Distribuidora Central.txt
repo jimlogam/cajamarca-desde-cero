@@ -1,0 +1,17 @@
+Nombre: Solgas Distribuidora Central
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Compañía del gas
+Dirección: Jirón Huánuco 2025, Cajamarca 06002
+Teléfono: 950 840 046
+Rating: 5
+Reseñas: 9
+Sitio web: 
+Latitud: -7.162045
+Longitud: -78.5150937
+Google Maps: https://www.google.com/maps?cid=17919627819293499322
+Place Id: ChIJudGtnYtbspERul8yNI9Or_g
+Fotos: Solgas Distribuidora Central.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: MISCAPRICHOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de accesorios de moda
+Dirección: 0600, Cajamarca 06003
+Teléfono: 932 188 757
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1699734
+Longitud: -78.5056973
+Google Maps: https://www.google.com/maps?cid=345324650720763613
+Place Id: ChIJ2UVGiJVbspER3Z5lsvDWygQ
+Fotos: MISCAPRICHOS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

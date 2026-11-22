@@ -1,0 +1,17 @@
+Nombre: Blue Palace Cajamarca(local para eventos)
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Recinto para eventos
+Dirección: Miguel de Cervantes Cdra 15, Cajamarca 06002
+Teléfono: 942 680 884
+Rating: 4.7
+Reseñas: 3
+Sitio web: https://www.facebook.com/profile.php?id=61552801991614&mibextid=ZbWKwL
+Latitud: -7.1661863
+Longitud: -78.5191755
+Google Maps: https://www.google.com/maps?cid=1790503885009489147
+Place Id: ChIJhyWA3RdbspER-4zyAswl2Rg
+Fotos: Blue Palace Cajamarca(local para eventos).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

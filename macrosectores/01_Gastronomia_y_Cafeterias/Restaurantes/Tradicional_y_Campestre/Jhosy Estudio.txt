@@ -1,0 +1,17 @@
+Nombre: Jhosy Estudio
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón de manicura y pedicura
+Dirección: Luis Portilla Alva N° 130, Cajamarca 06001
+Teléfono: 980 718 311
+Rating: 
+Reseñas: 
+Sitio web: https://www.instagram.com/jhosyestudio?igsh=cGlxYWtodWplNHY2
+Latitud: -7.1500128
+Longitud: -78.50791989999999
+Google Maps: https://www.google.com/maps?cid=505858634572556812
+Place Id: ChIJYRo-TwBbspERDOpCfL8rBQc
+Fotos: Jhosy Estudio.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: CAMPIÑA TOURS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: 00051, Cajamarca 00061
+Teléfono: 971 298 478
+Rating: 4.6
+Reseñas: 43
+Sitio web: http://www.campitours.com/
+Latitud: -7.1564315
+Longitud: -78.5170943
+Google Maps: https://www.google.com/maps?cid=4385251667889969058
+Place Id: ChIJFXD2vgpbspERoldFayiL2zw
+Fotos: CAMPIÑA TOURS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Mueblería carpintería y decoraciónes GM
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Artista
+Dirección: Jr Contisuyo 105, Cajamarca 06002
+Teléfono: 937 098 033
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1578449
+Longitud: -78.5203074
+Google Maps: https://www.google.com/maps?cid=10805899607776763359
+Place Id: ChIJ1adxoPFbspER3x0R8HBE9pU
+Fotos: Mueblería carpintería y decoraciónes GM.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

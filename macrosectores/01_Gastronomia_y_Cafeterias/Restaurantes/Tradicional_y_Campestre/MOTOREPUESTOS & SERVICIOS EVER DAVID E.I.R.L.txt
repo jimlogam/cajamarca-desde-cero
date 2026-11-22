@@ -1,0 +1,17 @@
+Nombre: MOTOREPUESTOS & SERVICIOS EVER DAVID E.I.R.L
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de repuestos para motos
+Dirección: Cajamarca 06001
+Teléfono: 989 920 411
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1449155
+Longitud: -78.50644729999999
+Google Maps: https://www.google.com/maps?cid=15658778277779029646
+Place Id: ChIJKX7MnrZbspERjj6fP-EnT9k
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

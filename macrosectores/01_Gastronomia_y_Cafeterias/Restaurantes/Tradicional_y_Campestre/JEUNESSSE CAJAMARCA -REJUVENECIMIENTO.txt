@@ -1,0 +1,17 @@
+Nombre: JEUNESSSE CAJAMARCA -REJUVENECIMIENTO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de productos de belleza
+Dirección: de C-26, María Madalengoitia, Cajamarca
+Teléfono: 945 336 132
+Rating: 
+Reseñas: 
+Sitio web: http://jeunesseglobales.com/
+Latitud: -7.1485185
+Longitud: -78.50123789999999
+Google Maps: https://www.google.com/maps?cid=249802789787916605
+Place Id: ChIJhxe5c-laspERPdk1VVB6dwM
+Fotos: JEUNESSSE CAJAMARCA -REJUVENECIMIENTO.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

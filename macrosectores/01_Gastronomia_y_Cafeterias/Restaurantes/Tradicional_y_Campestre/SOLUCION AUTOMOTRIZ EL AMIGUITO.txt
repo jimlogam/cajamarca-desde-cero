@@ -1,0 +1,17 @@
+Nombre: SOLUCION AUTOMOTRIZ "EL AMIGUITO"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: JR, Jirón Huancavelica 117, Cajamarca 06001
+Teléfono: 918 106 181
+Rating: 5
+Reseñas: 4
+Sitio web: https://tallermec.net.pe/p/grupo-saucedo-automotriz-servicios-generales-eir-l/?utm_source=google&utm_medium=organic&utm_campaign=gmb
+Latitud: -7.150536
+Longitud: -78.52262209999999
+Google Maps: https://www.google.com/maps?cid=9104220936372175110
+Place Id: ChIJZyBXPhFbspERBkEjlbSwWH4
+Fotos: SOLUCION AUTOMOTRIZ EL AMIGUITO.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

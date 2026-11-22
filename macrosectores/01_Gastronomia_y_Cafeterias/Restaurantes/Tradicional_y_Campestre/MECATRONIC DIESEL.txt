@@ -1,0 +1,17 @@
+Nombre: MECATRONIC DIESEL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de vehículos todoterreno
+Dirección: Juan Beato Macias 718, Cajamarca 06003
+Teléfono: 945 189 653
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1727146
+Longitud: -78.4966781
+Google Maps: https://www.google.com/maps?cid=14922827856283739322
+Place Id: ChIJPTTF7nVbspERuqQY6t6IGM8
+Fotos: MECATRONIC DIESEL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

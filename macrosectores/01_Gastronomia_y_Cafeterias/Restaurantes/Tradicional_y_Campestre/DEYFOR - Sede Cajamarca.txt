@@ -1,0 +1,17 @@
+Nombre: DEYFOR - Sede Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa constructora
+Dirección: Antonio Astopilco 537, Cajamarca 06001
+Teléfono: (076) 366136
+Rating: 4.2
+Reseñas: 39
+Sitio web: http://www.deyfor.net/
+Latitud: -7.1499939999999995
+Longitud: -78.4986205
+Google Maps: https://www.google.com/maps?cid=13078266741813639284
+Place Id: ChIJgdZUzelaspERdHibX09Wf7U
+Fotos: DEYFOR - Sede Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 12 veces en los archivos de la cosecha original; fusionado en uno.
+

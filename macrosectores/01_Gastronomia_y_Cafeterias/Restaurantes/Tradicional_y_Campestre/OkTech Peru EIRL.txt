@@ -1,0 +1,17 @@
+Nombre: OkTech Peru EIRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Soporte y servicios informáticos
+Dirección: Jr, El Inca 629, Cajamarca 06001
+Teléfono: 938 368 939
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.159072999999999
+Longitud: -78.5072776
+Google Maps: https://www.google.com/maps?cid=2636835882701171679
+Place Id: ChIJUcwQR0FbspER3ytox0PslyQ
+Fotos: OkTech Peru EIRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

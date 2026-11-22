@@ -1,0 +1,17 @@
+Nombre: Mejía, Céspedes & Villegas Abogados
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Abogado, Asesor, Bufete
+Dirección: Cahuide 188, Baños del Inca 06004
+Teléfono: 
+Rating: 5
+Reseñas: 3
+Sitio web: http://www.mejiasaucedo.com/
+Latitud: -7.1641141
+Longitud: -78.4683654
+Google Maps: https://www.google.com/maps?cid=3581691240845887687
+Place Id: ChIJMVSFnOpbspERx0i_-TS5tDE
+Fotos: Mejía, Céspedes & Villegas Abogados.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

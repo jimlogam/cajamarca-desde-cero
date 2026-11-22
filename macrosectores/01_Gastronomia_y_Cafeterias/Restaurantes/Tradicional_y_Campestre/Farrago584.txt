@@ -1,0 +1,17 @@
+Nombre: Farrago584
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Belén 584, Cajamarca 06002
+Teléfono: (076) 260362
+Rating: 4.1
+Reseñas: 90
+Sitio web: http://www.facebook.com/Farrago584/
+Latitud: -7.1598109999999995
+Longitud: -78.51714779999999
+Google Maps: https://www.google.com/maps?cid=9010913923503247953
+Place Id: ChIJo5EJ7phbspERUVIIuHgyDX0
+Fotos: Farrago584.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

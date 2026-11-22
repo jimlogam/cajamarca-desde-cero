@@ -1,0 +1,17 @@
+Nombre: Cooperativa Agraria De Trabajadores Llullapuquio
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficina de la Administración
+Dirección: V8PM+4P7, llullapuquio, Chetilla 06415
+Teléfono: 944 136 802
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1147032999999995
+Longitud: -78.6656907
+Google Maps: https://www.google.com/maps?cid=12330362621416563584
+Place Id: ChIJFVWefgX4spERgONJoXk_Hqs
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

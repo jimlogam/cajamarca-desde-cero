@@ -1,0 +1,17 @@
+Nombre: Bata 2 Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Zapatería
+Dirección: Jr.Amazonas 649, Cajamarca 06002
+Teléfono: (076) 368796
+Rating: 4.2
+Reseñas: 39
+Sitio web: http://www.bata.com.pe/
+Latitud: -7.156070499999999
+Longitud: -78.51654049999999
+Google Maps: https://www.google.com/maps?cid=3676622627880078724
+Place Id: ChIJYzl8C_laspERhI3068z8BTM
+Fotos: Bata 2 Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

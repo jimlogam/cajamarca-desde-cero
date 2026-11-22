@@ -1,0 +1,17 @@
+Nombre: ASESORES CONTABLES DIMACON - CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contador público, Contable, Empresa de contabilidad, Servicio de registros contables, Asesoría laboral, Consultora financiera, Consultoría de recursos humanos, Asesor en comercio internacional, Asesor fiscal
+Dirección: Jr. Perea 487, Cajamarca 06003
+Teléfono: 951 055 184
+Rating: 5
+Reseñas: 3
+Sitio web: https://dimaconasesores.com/soluciones-contables/
+Latitud: -7.1797178
+Longitud: -78.4988041
+Google Maps: https://www.google.com/maps?cid=2935466588758886197
+Place Id: ChIJHRC1sHdbspERNUcASU_fvCg
+Fotos: ASESORES CONTABLES DIMACON - CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

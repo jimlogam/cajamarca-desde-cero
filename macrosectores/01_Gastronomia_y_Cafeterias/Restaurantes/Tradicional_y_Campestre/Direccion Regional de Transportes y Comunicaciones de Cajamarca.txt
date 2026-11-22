@@ -1,0 +1,17 @@
+Nombre: Direccion Regional de Transportes y Comunicaciones de Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa, Service establishment
+Dirección: 
+Teléfono: (076) 362935
+Rating: 3.6
+Reseñas: 61
+Sitio web: http://www.drtccajamarca.gob.pe/
+Latitud: -9.2435385
+Longitud: -75.01950459999999
+Google Maps: https://www.google.com/maps?cid=3754079694162441157
+Place Id: ChIJ2_a0mvhaspERxTMPhZcrGTQ
+Fotos: Direccion Regional de Transportes y Comunicaciones de Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

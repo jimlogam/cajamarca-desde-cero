@@ -1,0 +1,17 @@
+Nombre: Centro obstetrico Familia Sana
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Hospital
+Dirección: Jirón El Milagro 153, Cajamarca 06003
+Teléfono: (076) 367742
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1685501
+Longitud: -78.50316029999999
+Google Maps: https://www.google.com/maps?cid=532380043170608892
+Place Id: ChIJB5OWOEBbspER_PawHtRkYwc
+Fotos: Centro obstetrico Familia Sana.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

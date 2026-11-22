@@ -1,0 +1,17 @@
+Nombre: Hospedaje Casa El Capulí
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Pensión
+Dirección: Jr Ayacucho 720, Jirón Ayacucho 726, Cajamarca 06001
+Teléfono: 936 173 493
+Rating: 5
+Reseñas: 159
+Sitio web: 
+Latitud: -7.1592769999999994
+Longitud: -78.51253539999999
+Google Maps: https://www.google.com/maps?cid=3390988776765030977
+Place Id: ChIJuVPCbxxbspERQYJqhFM2Dy8
+Fotos: Hospedaje Casa El Capulí.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

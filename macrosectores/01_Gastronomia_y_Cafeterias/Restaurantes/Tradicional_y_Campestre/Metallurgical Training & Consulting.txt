@@ -1,0 +1,17 @@
+Nombre: Metallurgical Training & Consulting
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Asesor educativo, Centro de aprendizaje a distancia, Formación en emergencias, Asesor en ingeniería, Service establishment, Instituto de capacitación en software
+Dirección: 
+Teléfono: 978 236 145
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -8.1172073
+Longitud: -79.0238813
+Google Maps: https://www.google.com/maps?cid=16604855924548395811
+Place Id: ChIJo4vxqPdFspERI2M_sXxMcOY
+Fotos: Metallurgical Training & Consulting.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

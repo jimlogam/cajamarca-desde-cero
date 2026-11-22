@@ -1,0 +1,17 @@
+Nombre: Rally Motors Baños Del Inca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Av. Manco Cápac 1571, Baños del Inca 06004
+Teléfono: 943 332 147
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/rallymotorscajamarca/
+Latitud: -7.1596527
+Longitud: -78.4590257
+Google Maps: https://www.google.com/maps?cid=14203688636303707429
+Place Id: ChIJUwv2OGhFspERJY0ic4-jHcU
+Fotos: Rally Motors Baños Del Inca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

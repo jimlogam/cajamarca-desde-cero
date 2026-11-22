@@ -1,0 +1,17 @@
+Nombre: Distribuidora de cerveza J&M
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Distribuidor de cerveza, Service establishment
+Dirección: 
+Teléfono: 951 552 435
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=15269813925601958952
+Place Id: ChIJwT88E0dbspERKFzRxdxG6dM
+Fotos: Distribuidora de cerveza J&M.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

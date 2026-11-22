@@ -1,0 +1,17 @@
+Nombre: Servicios Generales "Abanto"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: Av. La Paz 1492, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1762891
+Longitud: -78.50278949999999
+Google Maps: https://www.google.com/maps?cid=5388083867889328984
+Place Id: ChIJiRFyJhdbspERWGOOBbtRxko
+Fotos: Servicios Generales Abanto.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

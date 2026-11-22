@@ -1,0 +1,17 @@
+Nombre: EQUIPOS INDUSTRIALES
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de costura
+Dirección: Prol, Luis Reyna Farge N° 950, Cajamarca 06003
+Teléfono: 940 584 244
+Rating: 4
+Reseñas: 4
+Sitio web: http://equiposindustrialesperu.com/
+Latitud: -7.1733769
+Longitud: -78.50279359999999
+Google Maps: https://www.google.com/maps?cid=15263228098040312734
+Place Id: ChIJvZIr66NbspERnjN0TRbh0dM
+Fotos: EQUIPOS INDUSTRIALES.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

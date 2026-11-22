@@ -1,0 +1,17 @@
+Nombre: Deli Banquetes ''Nancy''
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón para eventos
+Dirección: 15001, Cinco Esquinas 1039, Cajamarca 06000
+Teléfono: 976 953 223
+Rating: 4.2
+Reseñas: 5
+Sitio web: https://www.facebook.com/recepcionesyeventosnancy/
+Latitud: -7.1555319
+Longitud: -78.5108147
+Google Maps: https://www.google.com/maps?cid=1705590621997047145
+Place Id: ChIJHUlZBs5bspERaR1fVKJ5qxc
+Fotos: Deli Banquetes ''Nancy''.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

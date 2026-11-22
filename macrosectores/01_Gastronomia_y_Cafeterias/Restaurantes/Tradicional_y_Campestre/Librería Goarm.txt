@@ -1,0 +1,17 @@
+Nombre: Librería Goarm
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: Av. Luis Rebaza Neyra 347, Cajamarca 06002
+Teléfono: 934 117 420
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.164437899999999
+Longitud: -78.5017021
+Google Maps: https://www.google.com/maps?cid=5275663431878903561
+Place Id: ChIJK5YbUABbspERCQepi_DrNkk
+Fotos: Librería Goarm.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

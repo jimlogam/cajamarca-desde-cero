@@ -1,0 +1,17 @@
+Nombre: Chasqui Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de transporte por camión, Service establishment
+Dirección: 
+Teléfono: 984 976 745
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -9.689696
+Longitud: -77.66121629999999
+Google Maps: https://www.google.com/maps?cid=1751630091484970265
+Place Id: ChIJMzkIEwHPOWARGb3YpEkKTxg
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

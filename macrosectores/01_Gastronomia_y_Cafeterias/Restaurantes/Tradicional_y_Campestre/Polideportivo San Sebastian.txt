@@ -1,0 +1,17 @@
+Nombre: Polideportivo San Sebastian
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Club deportivo
+Dirección: Jirón Silva Santisteban 1182, Cajamarca 06002
+Teléfono: 949 986 994
+Rating: 4.1
+Reseñas: 33
+Sitio web: 
+Latitud: -7.164249
+Longitud: -78.5113263
+Google Maps: https://www.google.com/maps?cid=15101823948857069248
+Place Id: ChIJH9y7mgJbspERwM4cXN50lNE
+Fotos: Polideportivo San Sebastian.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

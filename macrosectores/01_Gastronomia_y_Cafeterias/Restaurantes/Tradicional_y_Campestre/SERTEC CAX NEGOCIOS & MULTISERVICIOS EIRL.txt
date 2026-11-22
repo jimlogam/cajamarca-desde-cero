@@ -1,0 +1,17 @@
+Nombre: SERTEC CAX NEGOCIOS & MULTISERVICIOS EIRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de redes informáticas
+Dirección: Salaverry 283, Cajamarca 06001
+Teléfono: 945 194 900
+Rating: 
+Reseñas: 
+Sitio web: http://www.sertecax.com.pe/
+Latitud: -7.16688
+Longitud: -78.5100298
+Google Maps: https://www.google.com/maps?cid=17939119661314180199
+Place Id: ChIJgRL42Q1bspERZ4TbU0mO9Pg
+Fotos: SERTEC CAX NEGOCIOS & MULTISERVICIOS EIRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

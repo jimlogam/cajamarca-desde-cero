@@ -1,0 +1,17 @@
+Nombre: Emilia Spa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Spa de masajes
+Dirección: Jr, Yahuar Huaca N° 329, Baños del Inca
+Teléfono: 929 582 680
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1648404
+Longitud: -78.4627999
+Google Maps: https://www.google.com/maps?cid=12187580650237518484
+Place Id: ChIJp01DC1dFspERlOLUYAf8Iqk
+Fotos: Emilia Spa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

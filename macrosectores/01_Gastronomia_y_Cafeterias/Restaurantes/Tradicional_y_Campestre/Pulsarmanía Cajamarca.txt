@@ -1,0 +1,17 @@
+Nombre: Pulsarmanía Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de motocicletas, Tienda de accesorios para móviles, Tienda de equipamiento y ropa para actividades al aire libre
+Dirección: Jr. España A8, Cajamarca 06001
+Teléfono: 931 818 838
+Rating: 4.4
+Reseñas: 29
+Sitio web: 
+Latitud: -7.152310099999999
+Longitud: -78.5259634
+Google Maps: https://www.google.com/maps?cid=13158519921538494388
+Place Id: ChIJ34Dmfo9bspERtO8z3SZ0nLY
+Fotos: Pulsarmanía Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Complejo Deportivo Perú Bicolor
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Calle La Fortaleza, Cajamarca 06002
+Teléfono: 901 871 913
+Rating: 4.1
+Reseñas: 126
+Sitio web: 
+Latitud: -7.1581205
+Longitud: -78.5048868
+Google Maps: https://www.google.com/maps?cid=15089963021474609688
+Place Id: ChIJg2kK7ONaspERGDrGAGtRatE
+Fotos: Complejo Deportivo Perú Bicolor.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

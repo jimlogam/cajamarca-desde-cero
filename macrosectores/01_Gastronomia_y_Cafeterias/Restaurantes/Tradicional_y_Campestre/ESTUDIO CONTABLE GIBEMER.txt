@@ -1,0 +1,17 @@
+Nombre: ESTUDIO CONTABLE GIBEMER
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de contabilidad
+Dirección: JR, Jirón Jesus de Nazareth 269, Cajamarca
+Teléfono: 976 949 101
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1769465
+Longitud: -78.5048509
+Google Maps: https://www.google.com/maps?cid=18144326346390080801
+Place Id: ChIJN1gaVZpbspERIY1X5a2Yzfs
+Fotos: ESTUDIO CONTABLE GIBEMER.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

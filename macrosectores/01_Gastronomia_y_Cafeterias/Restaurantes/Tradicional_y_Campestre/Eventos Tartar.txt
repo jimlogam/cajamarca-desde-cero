@@ -1,0 +1,17 @@
+Nombre: Eventos Tartar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón para eventos
+Dirección: Cajamarca 06001
+Teléfono: (076) 285014
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1484217
+Longitud: -78.4878932
+Google Maps: https://www.google.com/maps?cid=17538325809145543976
+Place Id: ChIJHwjc6sVaspERKH0vwWamZPM
+Fotos: Eventos Tartar.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

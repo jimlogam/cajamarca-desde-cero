@@ -1,0 +1,17 @@
+Nombre: Pasaje el maizal 159
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carnicería
+Dirección: Prol. Revilla Perez 558, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.144171
+Longitud: -78.510553
+Google Maps: https://www.google.com/maps?cid=1469501254869673631
+Place Id: ChIJe79jR0dbspERn2Z_BZu3ZBQ
+Fotos: Pasaje el maizal 159.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

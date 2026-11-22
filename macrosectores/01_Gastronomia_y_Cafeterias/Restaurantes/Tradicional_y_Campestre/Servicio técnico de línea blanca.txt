@@ -1,0 +1,17 @@
+Nombre: Servicio técnico de línea blanca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de reparación de electrodomésticos
+Dirección: Jirón, Cinco Esquinas 1598, Cajamarca 06002
+Teléfono: 914 581 380
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1521471
+Longitud: -78.5071371
+Google Maps: https://www.google.com/maps?cid=18146862395544104376
+Place Id: ChIJZRHdbJpbspERuO1M2jOb1vs
+Fotos: Servicio técnico de línea blanca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

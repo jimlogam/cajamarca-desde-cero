@@ -1,0 +1,17 @@
+Nombre: LegoLand Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Organizador de eventos, Service establishment
+Dirección: 
+Teléfono: 902 168 060
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -6.1673352999999995
+Longitud: -79.5963259
+Google Maps: https://www.google.com/maps?cid=16721302869634684047
+Place Id: ChIJfST5RQXmSikRj5RL3l0ADug
+Fotos: LegoLand Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Columbia Sportswear - Real Plaza Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de equipamiento y ropa para actividades al aire libre, Outlet
+Dirección: Vía de Evitamiento Nte., Cajamarca 06002
+Teléfono: (076) 365920
+Rating: 4.1
+Reseñas: 9
+Sitio web: https://columbia.pe/
+Latitud: -7.154625299999999
+Longitud: -78.5057607
+Google Maps: https://www.google.com/maps?cid=12901636548887985564
+Place Id: ChIJK3_RpOVaspERnD2q3RXSC7M
+Fotos: Columbia Sportswear - Real Plaza Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

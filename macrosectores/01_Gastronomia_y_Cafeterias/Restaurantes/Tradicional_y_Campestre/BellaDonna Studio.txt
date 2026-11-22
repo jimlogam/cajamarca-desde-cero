@@ -1,0 +1,17 @@
+Nombre: BellaDonna Studio
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de estética
+Dirección: Jr, Leoncio Prado 451, Cajamarca 06001
+Teléfono: 931 060 894
+Rating: 4.5
+Reseñas: 40
+Sitio web: 
+Latitud: -7.1579483999999995
+Longitud: -78.50854009999999
+Google Maps: https://www.google.com/maps?cid=7971489992443438885
+Place Id: ChIJ_VOZ3lBbspERJScs0ulroG4
+Fotos: BellaDonna Studio.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Libreria Jhosemir
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: RG83+J3H, Av. La Paz, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1834288
+Longitud: -78.4972683
+Google Maps: https://www.google.com/maps?cid=14515200717017590833
+Place Id: ChIJ1xL75T9bspERMSxUtSVacMk
+Fotos: Libreria Jhosemir.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

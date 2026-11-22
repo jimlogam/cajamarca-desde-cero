@@ -1,0 +1,17 @@
+Nombre: Facultad de Turismo y Hotelería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carnicería
+Dirección: RGJ3+VP3, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.167852
+Longitud: -78.49569919999999
+Google Maps: https://www.google.com/maps?cid=7783354637161018564
+Place Id: ChIJ8xhXXABbspERxDTf9M0HBGw
+Fotos: Sin foto en Maps
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

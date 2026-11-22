@@ -1,0 +1,17 @@
+Nombre: SYMI SRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Soldador, Siderúrgica, Fabricante de estructuras metálicas, Empresa de pulidos metálicos, Ingeniero estructural, Taller de metalurgia
+Dirección: Av San Martín de Porres 1645, Cajamarca 06003
+Teléfono: 916 656 196
+Rating: 4.5
+Reseñas: 15
+Sitio web: http://www.symisrl.pe/
+Latitud: -7.1754696
+Longitud: -78.49682609999999
+Google Maps: https://www.google.com/maps?cid=3089066057947327241
+Place Id: ChIJQyfu9_paspERCauqjzaR3io
+Fotos: SYMI SRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: DayFar El Show
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de alquiler de equipos para fiestas
+Dirección: Jr. Jequetepeque 142, Cajamarca 06001
+Teléfono: 976 838 807
+Rating: 4
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1529491
+Longitud: -78.5197056
+Google Maps: https://www.google.com/maps?cid=14583212399148142252
+Place Id: ChIJ01Sw9vdaspERrA5Mb2n6Yco
+Fotos: DayFar El Show.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Losa deportiva Freddy Merino Palacios
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Estadio
+Dirección: Huaraz 225, Cajamarca 06001
+Teléfono: 
+Rating: 3.7
+Reseñas: 38
+Sitio web: 
+Latitud: -7.1481862
+Longitud: -78.5205519
+Google Maps: https://www.google.com/maps?cid=8228301257662652304
+Place Id: ChIJOaP1APZaspERkN_h_2XMMHI
+Fotos: Losa deportiva Freddy Merino Palacios.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

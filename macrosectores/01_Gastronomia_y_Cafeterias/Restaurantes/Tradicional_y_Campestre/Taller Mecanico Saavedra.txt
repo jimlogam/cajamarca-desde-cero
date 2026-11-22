@@ -1,0 +1,17 @@
+Nombre: Taller Mecanico Saavedra
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Delfín Cerna 299, Cajamarca 06002
+Teléfono: 957 144 237
+Rating: 4.3
+Reseñas: 26
+Sitio web: https://tallermec.net.pe/p/taller-mecanico-saavedra/?utm_source=google&utm_medium=organic&utm_campaign=gmb
+Latitud: -7.152525499999999
+Longitud: -78.5098726
+Google Maps: https://www.google.com/maps?cid=6935594614604984520
+Place Id: ChIJ_3a4BfBaspERyHCkPY4uQGA
+Fotos: Taller Mecanico Saavedra.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

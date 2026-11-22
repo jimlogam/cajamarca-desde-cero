@@ -1,0 +1,17 @@
+Nombre: DJ SERGIO CHALEX
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: DJ, Service establishment
+Dirección: 
+Teléfono: 942 874 604
+Rating: 
+Reseñas: 
+Sitio web: https://www.instagram.com/djsergiochalex?srtk=MXRldGp0ZGY0cmZlYw==&utm_source=qr
+Latitud: -9.2435385
+Longitud: -75.01950459999999
+Google Maps: https://www.google.com/maps?cid=2776176722832473438
+Place Id: ChIJ9Yzx-oadEwURXj0jRgX2hiY
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

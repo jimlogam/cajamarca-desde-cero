@@ -1,0 +1,17 @@
+Nombre: Estudio Contable JEMET Contadores & Asociados
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de registros contables
+Dirección: Pje Libertad 658, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: https://jemetperu.online/jemet
+Latitud: -7.166692599999999
+Longitud: -78.51575179999999
+Google Maps: https://www.google.com/maps?cid=3555898124623900679
+Place Id: ChIJ10zzfABbspERB3CvH4EWWTE
+Fotos: Estudio Contable JEMET Contadores & Asociados.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

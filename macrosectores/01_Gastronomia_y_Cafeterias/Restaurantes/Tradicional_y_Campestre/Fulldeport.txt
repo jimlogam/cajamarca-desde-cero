@@ -1,0 +1,17 @@
+Nombre: Fulldeport
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de deportes
+Dirección: Jr, Jirón Marañón 324, Cajamarca 06200
+Teléfono: 922 001 298
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.152703499999999
+Longitud: -78.5189968
+Google Maps: https://www.google.com/maps?cid=11604396142643629003
+Place Id: ChIJj5A5CK9bspERy8svG88YC6E
+Fotos: Fulldeport.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

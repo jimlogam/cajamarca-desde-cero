@@ -1,0 +1,17 @@
+Nombre: Jaroni & Asociados
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: ubr. Toribio Casanova, Jr, Elmer Faucett N° 289, Cajamarca 06000
+Teléfono: 975 387 000
+Rating: 
+Reseñas: 
+Sitio web: https://www.jaroni.com.pe/
+Latitud: -7.1482212
+Longitud: -78.4994493
+Google Maps: https://www.google.com/maps?cid=15995154044424390796
+Place Id: ChIJ9bN0YQ1bspERjIiRgdsz-t0
+Fotos: Jaroni & Asociados.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

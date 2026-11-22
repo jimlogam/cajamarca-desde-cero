@@ -1,0 +1,17 @@
+Nombre: Melamina Winston
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Fábrica de muebles
+Dirección: Simón Bolívar 383, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1680034
+Longitud: -78.512374
+Google Maps: https://www.google.com/maps?cid=16134737558009970888
+Place Id: ChIJ-39vsOBbspERyIBW0VIa6t8
+Fotos: Melamina Winston.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Distribuidor de huevos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Proveedor de huevos
+Dirección: RFXG+XJH, Angamos 802, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1500515
+Longitud: -78.52335649999999
+Google Maps: https://www.google.com/maps?cid=12718161650108692160
+Place Id: ChIJ-4r4AQBbspERwHa5FqP8f7A
+Fotos: Distribuidor de huevos.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

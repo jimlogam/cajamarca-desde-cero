@@ -1,0 +1,17 @@
+Nombre: Sastrería y confecciones MINCHAN
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de arreglos de ropa
+Dirección: RG83+M33, Jr. Yurimaguas, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1833547
+Longitud: -78.4973436
+Google Maps: https://www.google.com/maps?cid=11013638646329746191
+Place Id: ChIJuVwJlshbspERD6P__v5N2Jg
+Fotos: Sastrería y confecciones MINCHAN.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

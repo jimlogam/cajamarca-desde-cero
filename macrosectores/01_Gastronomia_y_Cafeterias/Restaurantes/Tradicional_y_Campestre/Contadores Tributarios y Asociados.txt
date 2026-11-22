@@ -1,0 +1,17 @@
+Nombre: Contadores Tributarios y Asociados
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficina de empleo
+Dirección: Antonio Raymondi 195, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: http://www.contatrib.com/
+Latitud: -7.1523569
+Longitud: -78.5083045
+Google Maps: https://www.google.com/maps?cid=4422718147871281995
+Place Id: ChIJ_y2R8e9aspERS5OKEbmmYD0
+Fotos: Contadores Tributarios y Asociados.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

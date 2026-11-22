@@ -1,0 +1,17 @@
+Nombre: SHOWROOM EVENTOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Organizador de eventos
+Dirección: Av. Hoyos Rubio 375, Cajamarca 06001
+Teléfono: (076) 284623
+Rating: 4.8
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1515771
+Longitud: -78.5119378
+Google Maps: https://www.google.com/maps?cid=8793056185296411903
+Place Id: ChIJkxZEXvBaspER_9ykTgM2B3o
+Fotos: SHOWROOM EVENTOS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

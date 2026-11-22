@@ -1,0 +1,17 @@
+Nombre: Antonio Guillermo Urrelo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: Av. Vía de Evitamiento Sur, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.169984599999999
+Longitud: -78.4970369
+Google Maps: https://www.google.com/maps?cid=1346453748858553526
+Place Id: ChIJbaaubSJbspERtgQ1_4yQrxI
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

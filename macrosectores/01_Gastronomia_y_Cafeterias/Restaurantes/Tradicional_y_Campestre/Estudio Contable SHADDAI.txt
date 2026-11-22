@@ -1,0 +1,17 @@
+Nombre: Estudio Contable "SHADDAI"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Asesor
+Dirección: VF4P+PQX, Las Delicias, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1431694
+Longitud: -78.51306679999999
+Google Maps: https://www.google.com/maps?cid=17991090254261334272
+Place Id: ChIJ3wQmeQBbspERADE970Mxrfk
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

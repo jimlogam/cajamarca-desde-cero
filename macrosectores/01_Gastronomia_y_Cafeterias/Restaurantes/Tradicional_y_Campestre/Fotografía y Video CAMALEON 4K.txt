@@ -1,0 +1,17 @@
+Nombre: Fotografía y Video CAMALEON 4K
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de fotografía
+Dirección: jr, Los Álamos 160, Cajamarca 06001
+Teléfono: 935 577 261
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1459095999999995
+Longitud: -78.5207162
+Google Maps: https://www.google.com/maps?cid=13062332535990052284
+Place Id: ChIJlyVXuMpbspERvOW2-Tu6RrU
+Fotos: Fotografía y Video CAMALEON 4K.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

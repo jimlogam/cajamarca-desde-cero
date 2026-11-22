@@ -1,0 +1,17 @@
+Nombre: MULTITRAC S.A.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de transporte por camión
+Dirección: 06000, Cajamarca 06000
+Teléfono: 997 300 139
+Rating: 4.4
+Reseñas: 9
+Sitio web: http://www.multitracsa.com/
+Latitud: -7.2026055
+Longitud: -78.43235419999999
+Google Maps: https://www.google.com/maps?cid=14603366959020950017
+Place Id: ChIJjfpyFuJbspERAcIeleCUqco
+Fotos: MULTITRAC S.A.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

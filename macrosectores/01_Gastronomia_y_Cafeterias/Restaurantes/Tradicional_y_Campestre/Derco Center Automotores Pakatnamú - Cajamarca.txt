@@ -1,0 +1,17 @@
+Nombre: Derco Center Automotores Pakatnamú - Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Concesionario de automóviles
+Dirección: Av Vía de Evitamiento Nte, Cajamarca 06001
+Teléfono: 969 722 150
+Rating: 4.7
+Reseñas: 468
+Sitio web: https://www.derco.com.pe/?utm_campaign=gmb&utm_medium=organic&utm_source=local
+Latitud: -7.1446235
+Longitud: -78.512136
+Google Maps: https://www.google.com/maps?cid=13985556516786961301
+Place Id: ChIJ-x-W_fJaspERlXs8qY2tFsI
+Fotos: Derco Center Automotores Pakatnamú - Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

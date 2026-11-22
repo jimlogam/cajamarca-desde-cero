@@ -1,0 +1,17 @@
+Nombre: Rest. Mote Norteño
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carnicería
+Dirección: VF3Q+8RC, Jr. Sor Manuela Gil, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1466899999999995
+Longitud: -78.51047609999999
+Google Maps: https://www.google.com/maps?cid=12507755598250296992
+Place Id: ChIJGT0HHqVbspERoMYcm3J5lK0
+Fotos: Rest. Mote Norteño.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

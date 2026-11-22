@@ -1,0 +1,17 @@
+Nombre: "EL RAYO" Transporte de Carga y encomiendas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de transporte por camión
+Dirección: 06001, Cajamarca 06001
+Teléfono: 921 864 832
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1712029
+Longitud: -78.4991101
+Google Maps: https://www.google.com/maps?cid=18111434587618909784
+Place Id: ChIJL_HR3cpbspERWJ6_h8y9WPs
+Fotos: EL RAYO Transporte de Carga y encomiendas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Grifo Continental
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: 8 2016, Cajamarca 06003
+Teléfono: 
+Rating: 3.8
+Reseñas: 24
+Sitio web: 
+Latitud: -7.1910367
+Longitud: -78.5097667
+Google Maps: https://www.google.com/maps?cid=8893476620543678670
+Place Id: ChIJVT68oWxbspERzli_4d35a3s
+Fotos: Grifo Continental (2).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

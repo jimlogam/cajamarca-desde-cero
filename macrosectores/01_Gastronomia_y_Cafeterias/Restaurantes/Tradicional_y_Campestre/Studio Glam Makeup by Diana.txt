@@ -1,0 +1,17 @@
+Nombre: Studio Glam Makeup by Diana
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Maquillador/a
+Dirección: Jr. Alfonso Ugarte n°1115, Cajamarca 06003
+Teléfono: 997 786 469
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1759419
+Longitud: -78.5088548
+Google Maps: https://www.google.com/maps?cid=3323134598396767360
+Place Id: ChIJ_aLCfaNbspERgOw_fk8lHi4
+Fotos: Studio Glam Makeup by Diana.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

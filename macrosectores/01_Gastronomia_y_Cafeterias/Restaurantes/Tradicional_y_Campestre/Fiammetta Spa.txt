@@ -1,0 +1,17 @@
+Nombre: Fiammetta Spa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Spa de masajes, Esteticista facial, Spa y gimnasio
+Dirección: Jr Bulgaria y, Cajamarca 06001
+Teléfono: 941 200 491
+Rating: 5
+Reseñas: 7
+Sitio web: 
+Latitud: -7.136923899999999
+Longitud: -78.5158016
+Google Maps: https://www.google.com/maps?cid=3128475063605320485
+Place Id: ChIJ-VPg8jRbspERJdvctn6Tais
+Fotos: Fiammetta Spa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

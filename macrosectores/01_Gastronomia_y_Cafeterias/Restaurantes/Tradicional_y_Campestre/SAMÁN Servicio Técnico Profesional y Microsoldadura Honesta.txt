@@ -1,0 +1,17 @@
+Nombre: SAMÁN Servicio Técnico Profesional y Microsoldadura Honesta
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de reparación de teléfonos
+Dirección: Frente a la Iglesia Guadalupev, Av. Hoyos Rubio 358, Cajamarca 06001
+Teléfono: 970 293 535
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.151843899999999
+Longitud: -78.5121058
+Google Maps: https://www.google.com/maps?cid=15612477107779146215
+Place Id: ChIJR5UH1ltbspER5xEYCTapqtg
+Fotos: SAMÁN Servicio Técnico Profesional y Microsoldadura Honesta.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Libreria Jireh
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: Mariscal Cáceres 154, Cajamarca 06003
+Teléfono: 
+Rating: 3.4
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1712747
+Longitud: -78.50769559999999
+Google Maps: https://www.google.com/maps?cid=10559667413612758608
+Place Id: ChIJ4Y9PYqRbspERUAaorpB5i5I
+Fotos: Libreria Jireh.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

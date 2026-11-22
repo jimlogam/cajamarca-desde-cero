@@ -1,0 +1,17 @@
+Nombre: King's motors
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de repuestos para motos, Taller de automóviles
+Dirección: Av. Vía de Evitamiento Sur 747, Cajamarca 06002
+Teléfono: 944 008 629
+Rating: 3.6
+Reseñas: 9
+Sitio web: 
+Latitud: -7.1642997
+Longitud: -78.5030811
+Google Maps: https://www.google.com/maps?cid=3378301201512037882
+Place Id: ChIJ0Zkr7xNbspER-n1mNAsj4i4
+Fotos: King's motors.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

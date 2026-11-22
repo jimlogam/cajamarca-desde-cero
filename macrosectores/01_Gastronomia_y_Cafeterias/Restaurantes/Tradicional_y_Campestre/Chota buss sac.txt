@@ -1,0 +1,17 @@
+Nombre: Chota buss sac
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: Jirón Puno 230, Cajamarca 06001
+Teléfono: 993 324 792
+Rating: 4.2
+Reseñas: 17
+Sitio web: 
+Latitud: -7.1514887
+Longitud: -78.5231105
+Google Maps: https://www.google.com/maps?cid=14771421249116046939
+Place Id: ChIJsUpiH71bspERWwY4HV2h_sw
+Fotos: Chota buss sac.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

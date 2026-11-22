@@ -1,0 +1,17 @@
+Nombre: San Pedro
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Instituto de secundaria
+Dirección: RGF2+V8G, Jr. San Camilo, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.175324
+Longitud: -78.49918699999999
+Google Maps: https://www.google.com/maps?cid=10142104586250862581
+Place Id: ChIJr_ZENQBbspER9b9X0mL-v4w
+Fotos: San Pedro.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

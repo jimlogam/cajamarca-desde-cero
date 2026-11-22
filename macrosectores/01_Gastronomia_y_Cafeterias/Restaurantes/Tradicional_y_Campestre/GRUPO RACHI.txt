@@ -1,0 +1,17 @@
+Nombre: GRUPO RACHI
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Cíber
+Dirección: JR, Jirón Huancavelica 169, Cajamarca 06001
+Teléfono: 914 932 393
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1502859999999995
+Longitud: -78.5223475
+Google Maps: https://www.google.com/maps?cid=13145863234426744997
+Place Id: ChIJU1JAdD1bspERpbDfQfZ8b7Y
+Fotos: GRUPO RACHI.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

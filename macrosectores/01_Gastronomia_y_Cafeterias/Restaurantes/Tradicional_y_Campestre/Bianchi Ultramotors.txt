@@ -1,0 +1,17 @@
+Nombre: Bianchi Ultramotors
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos, Tienda de motocicletas
+Dirección: Av. Vía de Evitamiento Sur 733, Cajamarca 06002
+Teléfono: 995 093 671
+Rating: 3.8
+Reseñas: 17
+Sitio web: https://atom.bio/bmmotocicletas
+Latitud: -7.1641733
+Longitud: -78.50314139999999
+Google Maps: https://www.google.com/maps?cid=1461795226030575551
+Place Id: ChIJR_pH0hVbspERvw_qXQNXSRQ
+Fotos: Bianchi Ultramotors.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

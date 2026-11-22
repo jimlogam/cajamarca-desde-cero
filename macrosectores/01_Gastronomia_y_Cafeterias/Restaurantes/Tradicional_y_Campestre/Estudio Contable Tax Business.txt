@@ -1,0 +1,17 @@
+Nombre: Estudio Contable Tax Business
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de contabilidad
+Dirección: Jr. Bolognesi 150, Cajamarca 06003
+Teléfono: 987 824 901
+Rating: 
+Reseñas: 
+Sitio web: https://www.instagram.com/estudiocont_taxbussines?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+Latitud: -7.1680873
+Longitud: -78.509588
+Google Maps: https://www.google.com/maps?cid=6487127986053043323
+Place Id: ChIJR9v5-WlbspERe9QvdYjoBlo
+Fotos: Estudio Contable Tax Business.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

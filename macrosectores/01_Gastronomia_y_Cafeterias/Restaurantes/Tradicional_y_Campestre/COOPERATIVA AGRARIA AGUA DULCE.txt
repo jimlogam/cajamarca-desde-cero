@@ -1,0 +1,17 @@
+Nombre: COOPERATIVA AGRARIA AGUA DULCE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Cooperativa agropecuaria, Service establishment
+Dirección: 
+Teléfono: 948 542 115
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -8.380277399999999
+Longitud: -78.1363642
+Google Maps: https://www.google.com/maps?cid=6753786474351717041
+Place Id: ChIJA5s628xbspERsWqS7ANFul0
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

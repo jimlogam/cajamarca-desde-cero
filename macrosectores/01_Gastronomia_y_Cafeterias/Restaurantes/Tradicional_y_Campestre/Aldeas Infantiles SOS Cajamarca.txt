@@ -1,0 +1,17 @@
+Nombre: Aldeas Infantiles SOS Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Organización sin ánimo de lucro
+Dirección: Calle Yolanda S/N, Cajamarca 06001
+Teléfono: (01) 2007800 Anexo 26000
+Rating: 4.3
+Reseñas: 54
+Sitio web: http://www.aldeasinfantiles.org.pe/
+Latitud: -7.1380623
+Longitud: -78.5091685
+Google Maps: https://www.google.com/maps?cid=11127375941503074542
+Place Id: ChIJFWFx-Y1aspER7sCEo3ZhbJo
+Fotos: Aldeas Infantiles SOS Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

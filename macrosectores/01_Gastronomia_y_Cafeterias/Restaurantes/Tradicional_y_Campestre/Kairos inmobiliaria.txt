@@ -1,0 +1,17 @@
+Nombre: Kairos inmobiliaria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia inmobiliaria
+Dirección: 06001, Cajamarca 06001
+Teléfono: 992 806 497
+Rating: 5
+Reseñas: 13
+Sitio web: 
+Latitud: -7.1501334
+Longitud: -78.5124104
+Google Maps: https://www.google.com/maps?cid=7877938549554362701
+Place Id: ChIJgzUS6SxbspERTTmLKF8PVG0
+Fotos: Kairos inmobiliaria.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

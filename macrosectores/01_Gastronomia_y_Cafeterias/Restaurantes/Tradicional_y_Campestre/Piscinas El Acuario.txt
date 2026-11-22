@@ -1,0 +1,17 @@
+Nombre: Piscinas El Acuario
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Piscina
+Dirección: 12, Santa 02816
+Teléfono: 
+Rating: 4.2
+Reseñas: 5
+Sitio web: https://www.facebook.com/profile.php?id=100057246138381&mibextid=9R9pXO
+Latitud: -8.9849959
+Longitud: -78.6143429
+Google Maps: https://www.google.com/maps?cid=9717775668426047737
+Place Id: ChIJSbScsCx_rJER-QB4w3t53IY
+Fotos: Piscinas El Acuario.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

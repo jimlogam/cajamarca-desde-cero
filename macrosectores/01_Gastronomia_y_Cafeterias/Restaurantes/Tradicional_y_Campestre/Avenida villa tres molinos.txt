@@ -1,0 +1,17 @@
+Nombre: Avenida villa tres molinos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Mayorista
+Dirección: VF7R+G3P, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1361627
+Longitud: -78.5097998
+Google Maps: https://www.google.com/maps?cid=6721682550742299398
+Place Id: ChIJre-IOgBbspERBrPvuao2SF0
+Fotos: Avenida villa tres molinos.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

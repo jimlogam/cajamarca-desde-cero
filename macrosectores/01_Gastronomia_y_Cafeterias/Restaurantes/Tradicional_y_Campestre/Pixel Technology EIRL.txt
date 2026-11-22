@@ -1,0 +1,17 @@
+Nombre: Pixel Technology EIRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de informática
+Dirección: Residencial, Las Praderas Park, Cajamarca 06000
+Teléfono: 938 709 227
+Rating: 
+Reseñas: 
+Sitio web: https://pixeltechpe.com/
+Latitud: -7.155761699999999
+Longitud: -78.5023248
+Google Maps: https://www.google.com/maps?cid=8633416227543499787
+Place Id: ChIJISJMn59bspERC8TSMFEO0Hc
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

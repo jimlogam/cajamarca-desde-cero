@@ -1,0 +1,17 @@
+Nombre: Clarín Tours
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de visitas turísticas
+Dirección: Jr del Batán 165, Cajamarca 06001
+Teléfono: 904 050 946
+Rating: 4.3
+Reseñas: 7
+Sitio web: https://www.clarintours.com/es/contacto
+Latitud: -7.1560298
+Longitud: -78.5174214
+Google Maps: https://www.google.com/maps?cid=1814007197172894418
+Place Id: ChIJq-SeBvlaspER0gp-T--lLBk
+Fotos: Clarín Tours.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Servicios Generales Ramírez
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carpintero
+Dirección: San Lorenzo 293-205, Cajamarca 06002
+Teléfono: 952 801 259
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.158803499999999
+Longitud: -78.5077462
+Google Maps: https://www.google.com/maps?cid=3247541118839290224
+Place Id: ChIJ29uVxzdbspERcPnj_XCVES0
+Fotos: Servicios Generales Ramírez.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

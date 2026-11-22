@@ -1,0 +1,17 @@
+Nombre: metalservis industriales pepe e.i.r.l.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de soldadura en aluminio, Service establishment
+Dirección: 
+Teléfono: 976 850 691
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.0663982999999995
+Longitud: -78.5600417
+Google Maps: https://www.google.com/maps?cid=15652330733036674054
+Place Id: ChIJl6GfZq6UAwQRBpyUQd8_ONk
+Fotos: metalservis industriales pepe e.i.r.l.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: CUY DORADO EL PARRAL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante familiar
+Dirección: 2PR2+JJ6, Av. Cajamarca Sur, Nueva Cajamarca 22846
+Teléfono: 963 134 124
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -5.9584529999999996
+Longitud: -77.2984807
+Google Maps: https://www.google.com/maps?cid=6619959651676076476
+Place Id: ChIJWeyyaADdtpERvDmSqTrS3ls
+Fotos: CUY DORADO EL PARRAL.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

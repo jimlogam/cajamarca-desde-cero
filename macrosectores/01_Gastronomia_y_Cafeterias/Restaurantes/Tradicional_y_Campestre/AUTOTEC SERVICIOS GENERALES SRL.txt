@@ -1,0 +1,17 @@
+Nombre: AUTOTEC SERVICIOS GENERALES SRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: Jr, Juan Beato Macias 1667, Cajamarca 06003
+Teléfono: 923 370 609
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1797572
+Longitud: -78.490505
+Google Maps: https://www.google.com/maps?cid=15101927297781670089
+Place Id: ChIJ9WcSR-JbspERySANKN3SlNE
+Fotos: AUTOTEC SERVICIOS GENERALES SRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

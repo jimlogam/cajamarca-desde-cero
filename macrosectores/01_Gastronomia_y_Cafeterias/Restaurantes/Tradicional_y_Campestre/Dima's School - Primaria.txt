@@ -1,0 +1,17 @@
+Nombre: Dima's School - Primaria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Escuela primaria
+Dirección: Av. Héroes de San Ramón 106, Cajamarca 06002
+Teléfono: (076) 367507
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1612383
+Longitud: -78.5136546
+Google Maps: https://www.google.com/maps?cid=5426266196065746982
+Place Id: ChIJa5YOyv1aspERJoA1EVv4TUs
+Fotos: Dima's School - Primaria.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: FRUCTY SANO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de frutos secos
+Dirección: 51, Cajamarca 06001
+Teléfono: 963 281 530
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1546845999999995
+Longitud: -78.5050766
+Google Maps: https://www.google.com/maps?cid=1175770887863103317
+Place Id: ChIJm458UV1bspERVW9TnGQtURA
+Fotos: FRUCTY SANO.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

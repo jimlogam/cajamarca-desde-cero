@@ -1,0 +1,17 @@
+Nombre: Grifo Primax
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: Av. Vía de Evitamiento Sur 371, Cajamarca 06002
+Teléfono: 
+Rating: 4.5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1608763
+Longitud: -78.5051234
+Google Maps: https://www.google.com/maps?cid=7682873874507221101
+Place Id: ChIJ_0LeuPxbspERbcghUBUNn2o
+Fotos: Grifo Primax.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

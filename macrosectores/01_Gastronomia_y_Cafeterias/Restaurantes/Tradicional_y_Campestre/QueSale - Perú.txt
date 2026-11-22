@@ -1,0 +1,17 @@
+Nombre: QueSale - Perú
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes, Service establishment
+Dirección: 
+Teléfono: 905 703 075
+Rating: 
+Reseñas: 
+Sitio web: http://www.quesaleperu.com/
+Latitud: -7.1908851
+Longitud: -78.4543777
+Google Maps: https://www.google.com/maps?cid=2919819998114728181
+Place Id: ChIJhxBn5Ibz30MR9ci1g9FIhSg
+Fotos: QueSale - Perú.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

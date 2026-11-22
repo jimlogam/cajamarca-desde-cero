@@ -1,0 +1,17 @@
+Nombre: Cumbemayo Tours
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: Amalia Puga 635, Cajamarca 06002
+Teléfono: (076) 362938
+Rating: 4.2
+Reseñas: 26
+Sitio web: https://es.wikipedia.org/wiki/Cumbemayo
+Latitud: -7.1564523
+Longitud: -78.51707189999999
+Google Maps: https://www.google.com/maps?cid=10275915501017530064
+Place Id: ChIJw6S2JR1bspER0H4UPLRim44
+Fotos: Cumbemayo Tours.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

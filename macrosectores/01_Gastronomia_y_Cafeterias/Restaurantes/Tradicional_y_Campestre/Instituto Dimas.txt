@@ -1,0 +1,17 @@
+Nombre: Instituto Dimas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Escuela de primaria
+Dirección: Jr. Apurimac 649, Cajamarca 06001
+Teléfono: (076) 361765
+Rating: 
+Reseñas: 
+Sitio web: http://dimas.edu.pe/
+Latitud: -7.1569205
+Longitud: -78.5196508
+Google Maps: https://www.google.com/maps?cid=3036850660105277754
+Place Id: ChIJwTCzUIxbspEROlF835UPJSo
+Fotos: Instituto Dimas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

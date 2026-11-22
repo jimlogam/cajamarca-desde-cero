@@ -1,0 +1,17 @@
+Nombre: Grifo Leo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: RG89+RFM, Cajamarca 06003
+Teléfono: 
+Rating: 4.8
+Reseñas: 4
+Sitio web: 
+Latitud: -7.182874399999999
+Longitud: -78.4813392
+Google Maps: https://www.google.com/maps?cid=8862328686943851007
+Place Id: ChIJ4wD8cQBbspER_9EKdPxQ_Xo
+Fotos: Grifo Leo.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

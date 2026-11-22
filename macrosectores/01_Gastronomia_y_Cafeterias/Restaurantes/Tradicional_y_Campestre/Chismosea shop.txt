@@ -1,0 +1,17 @@
+Nombre: Chismosea shop
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de accesorios de moda
+Dirección: Jr. Fraternidad 391, Cajamarca 06001
+Teléfono: 989 308 451
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1537767
+Longitud: -78.5115072
+Google Maps: https://www.google.com/maps?cid=2942406495345668870
+Place Id: ChIJqZuc3VpbspERBnPhMx6H1Sg
+Fotos: Chismosea shop.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

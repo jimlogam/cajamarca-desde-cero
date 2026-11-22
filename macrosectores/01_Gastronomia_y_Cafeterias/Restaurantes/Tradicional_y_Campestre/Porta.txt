@@ -1,0 +1,17 @@
+Nombre: Porta
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de equipaje
+Dirección: RFWV+9X7, Vía de Evitamiento Nte., Cajamarca 06002
+Teléfono: 973 256 865
+Rating: 4.5
+Reseñas: 11
+Sitio web: http://58.2.184.161/
+Latitud: -7.1540883
+Longitud: -78.50507089999999
+Google Maps: https://www.google.com/maps?cid=9677633974706945888
+Place Id: ChIJNyTCu-VaspERYL-oYNPcTYY
+Fotos: Porta.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

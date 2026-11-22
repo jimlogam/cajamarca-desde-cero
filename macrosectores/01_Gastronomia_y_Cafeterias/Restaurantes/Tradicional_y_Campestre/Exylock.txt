@@ -1,0 +1,17 @@
+Nombre: Exylock
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de informática
+Dirección: Jirón Manuel Seoane 387, Cajamarca 06002
+Teléfono: 908 071 212
+Rating: 
+Reseñas: 
+Sitio web: https://exylock.net/
+Latitud: -7.1531001
+Longitud: -78.5107422
+Google Maps: https://www.google.com/maps?cid=18025563769285236651
+Place Id: ChIJ8fqZrGhbspERq9dloL6qJ_o
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: KasNet - J & R Negocios
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Proveedor de servicios de Internet
+Dirección: Jirón Prolongación Unión 384, Cajamarca 06001
+Teléfono: 976 525 301
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.153860099999999
+Longitud: -78.5286486
+Google Maps: https://www.google.com/maps?cid=500596114150507254
+Place Id: ChIJwWGis8VbspER9sLhd4N58gY
+Fotos: KasNet - J & R Negocios.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

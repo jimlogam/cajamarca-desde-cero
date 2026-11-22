@@ -1,0 +1,17 @@
+Nombre: Inmobiliaria Inmotec - Proyectos Inmobiliarios Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia inmobiliaria, Service establishment
+Dirección: 
+Teléfono: 935 054 645
+Rating: 
+Reseñas: 
+Sitio web: https://inmotec.pe/
+Latitud: -9.2435385
+Longitud: -75.01950459999999
+Google Maps: https://www.google.com/maps?cid=9432902880990964180
+Place Id: ChIJtZk3WZbokg4R1Kk5TjFn6II
+Fotos: Inmobiliaria Inmotec - Proyectos Inmobiliarios Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

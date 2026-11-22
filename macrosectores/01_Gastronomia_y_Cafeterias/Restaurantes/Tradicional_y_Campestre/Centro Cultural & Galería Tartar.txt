@@ -1,0 +1,17 @@
+Nombre: Centro Cultural & Galería Tartar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Galería de arte
+Dirección: Av. César Miranda Zunico, Cajamarca 06001
+Teléfono: 975 173 287
+Rating: 4.9
+Reseñas: 15
+Sitio web: https://galeriadearte.hoteltartar.pe/
+Latitud: -7.148229499999999
+Longitud: -78.48777
+Google Maps: https://www.google.com/maps?cid=4724466809510977710
+Place Id: ChIJCWL3N5RbspERrmAGLoitkEE
+Fotos: Centro Cultural & Galería Tartar.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

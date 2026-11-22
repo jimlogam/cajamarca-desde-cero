@@ -1,0 +1,17 @@
+Nombre: Das Bier
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Cervecería artesanal
+Dirección: Mayta Cápac 321, Baños del Inca 06004
+Teléfono: 986 245 239
+Rating: 4.9
+Reseñas: 42
+Sitio web: https://dasbiercajamarca.com/
+Latitud: -7.1655492999999995
+Longitud: -78.46328989999999
+Google Maps: https://www.google.com/maps?cid=6800277336263185233
+Place Id: ChIJLaZtqwJFspERUVMbOjVwX14
+Fotos: Das Bier.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

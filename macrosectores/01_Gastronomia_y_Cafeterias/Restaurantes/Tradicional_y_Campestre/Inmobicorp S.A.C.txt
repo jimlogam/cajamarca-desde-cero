@@ -1,0 +1,17 @@
+Nombre: Inmobicorp S.A.C.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Promotora inmobiliaria
+Dirección: Av. Hoyos Rubio N° 1334, Cajamarca 06001
+Teléfono: 978 374 462
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.inmobicorp.com/
+Latitud: -7.1478228999999995
+Longitud: -78.50256449999999
+Google Maps: https://www.google.com/maps?cid=7172953044400044663
+Place Id: ChIJMUkI8TxbspERd3oFOspyi2M
+Fotos: Inmobicorp S.A.C.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

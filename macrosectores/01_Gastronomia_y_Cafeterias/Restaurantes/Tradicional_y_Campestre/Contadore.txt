@@ -1,0 +1,17 @@
+Nombre: Contadore
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contable
+Dirección: Cardosanto 293, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1638322
+Longitud: -78.49812
+Google Maps: https://www.google.com/maps?cid=9382096846827154248
+Place Id: ChIJ8f7IKepbspERSOtxq1_nM4I
+Fotos: Contadore.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

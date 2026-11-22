@@ -1,0 +1,17 @@
+Nombre: Estudio Contable J&E
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contable
+Dirección: 15076, Cajamarca 06001
+Teléfono: 930 280 714
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1585841
+Longitud: -78.51132439999999
+Google Maps: https://www.google.com/maps?cid=10030790777392094447
+Place Id: ChIJ8YkUpXFbspER71y4DhGHNIs
+Fotos: Estudio Contable J&E (2).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

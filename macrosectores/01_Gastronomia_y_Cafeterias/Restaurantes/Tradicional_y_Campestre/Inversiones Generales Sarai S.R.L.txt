@@ -1,0 +1,17 @@
+Nombre: Inversiones Generales Sarai S.R.L.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Distribuidor de papel
+Dirección: Chanchamayo 441, Cajamarca 06001
+Teléfono: 946 014 405
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1528662999999995
+Longitud: -78.5171484
+Google Maps: https://www.google.com/maps?cid=8194662170006426976
+Place Id: ChIJoZQsu2xbspERYJWQkdNJuXE
+Fotos: Inversiones Generales Sarai S.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

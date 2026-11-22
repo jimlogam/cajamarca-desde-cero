@@ -1,0 +1,17 @@
+Nombre: DermaBox
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de artículos de aseo personal
+Dirección: Belén 638, Cajamarca 06000
+Teléfono: 900 607 973
+Rating: 
+Reseñas: 
+Sitio web: http://www.dermabox.com.pe/
+Latitud: -7.1588727
+Longitud: -78.51650389999999
+Google Maps: https://www.google.com/maps?cid=14240611372074936610
+Place Id: ChIJd_f5BUpbspERIinqyJfQoMU
+Fotos: DermaBox.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

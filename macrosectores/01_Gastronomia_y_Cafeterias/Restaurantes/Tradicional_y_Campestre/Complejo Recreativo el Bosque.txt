@@ -1,0 +1,17 @@
+Nombre: Complejo Recreativo el Bosque
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de recreo
+Dirección: Pasaje Recreativo, El Bosque #106, Cajamarca 06001
+Teléfono: 949 306 314
+Rating: 4.3
+Reseñas: 132
+Sitio web: 
+Latitud: -7.1521224
+Longitud: -78.4952983
+Google Maps: https://www.google.com/maps?cid=6275121456590845926
+Place Id: ChIJw_NK3sJaspER5neHvre1FVc
+Fotos: Complejo Recreativo el Bosque.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

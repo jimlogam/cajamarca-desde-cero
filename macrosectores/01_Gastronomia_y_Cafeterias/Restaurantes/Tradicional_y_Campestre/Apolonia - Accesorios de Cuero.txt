@@ -1,0 +1,17 @@
+Nombre: Apolonia - Accesorios de Cuero
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Marroquinería
+Dirección: Av Vía de Evitamiento Nte 837, Cajamarca 06001
+Teléfono: 942 165 239
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.145950699999999
+Longitud: -78.51966449999999
+Google Maps: https://www.google.com/maps?cid=8306104490729501181
+Place Id: ChIJg_fgyZhbspER_XE11QY2RXM
+Fotos: Apolonia - Accesorios de Cuero.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

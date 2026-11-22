@@ -1,0 +1,17 @@
+Nombre: CEINTPERU
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: Jirón Silva Santisteban 324, Cajamarca 06002
+Teléfono: 987 336 031
+Rating: 
+Reseñas: 
+Sitio web: http://www.ceintperu.com/
+Latitud: -7.1618865
+Longitud: -78.5149698
+Google Maps: https://www.google.com/maps?cid=5252142090175652290
+Place Id: ChIJYWr61dlbspERwiHMamdb40g
+Fotos: CEINTPERU.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

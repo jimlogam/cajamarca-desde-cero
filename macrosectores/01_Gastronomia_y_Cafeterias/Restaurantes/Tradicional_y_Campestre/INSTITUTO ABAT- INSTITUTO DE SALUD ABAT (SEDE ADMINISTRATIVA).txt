@@ -1,0 +1,17 @@
+Nombre: INSTITUTO ABAT/ INSTITUTO DE SALUD ABAT (SEDE ADMINISTRATIVA)
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Escuela comunitaria
+Dirección: Av. El Maestro 355, Cajamarca 06002
+Teléfono: (076) 264038
+Rating: 4.1
+Reseñas: 8
+Sitio web: http://www.institutoabat.edu.pe/
+Latitud: -7.1591933
+Longitud: -78.51183929999999
+Google Maps: https://www.google.com/maps?cid=13242526813257996231
+Place Id: ChIJHZYcjPxaspERxxfUiPnnxrc
+Fotos: INSTITUTO ABAT- INSTITUTO DE SALUD ABAT (SEDE ADMINISTRATIVA).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

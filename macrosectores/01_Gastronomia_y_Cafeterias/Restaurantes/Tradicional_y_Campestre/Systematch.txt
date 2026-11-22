@@ -1,0 +1,17 @@
+Nombre: Systematch
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de accesorios informáticos
+Dirección: Las Orquideas, Cajamarca 06001
+Teléfono: 957 396 192
+Rating: 5
+Reseñas: 1
+Sitio web: http://systematch.blogspot.pe/
+Latitud: -7.1463157
+Longitud: -78.5217986
+Google Maps: https://www.google.com/maps?cid=8716939193699953148
+Place Id: ChIJGf9g_SSes5ER_GkqKQPK-Hg
+Fotos: Systematch.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

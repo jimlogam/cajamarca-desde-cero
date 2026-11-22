@@ -1,0 +1,17 @@
+Nombre: Miguel
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carnicería
+Dirección: Jr. Bolognesi 212, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1679324
+Longitud: -78.5090814
+Google Maps: https://www.google.com/maps?cid=10683500790719219348
+Place Id: ChIJYc69JQBbspERlIZslF1rQ5Q
+Fotos: Miguel.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: INEDI
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: Jr. Guillermo Urrelo 1060, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.156544599999999
+Longitud: -78.5134425
+Google Maps: https://www.google.com/maps?cid=10276089873933517623
+Place Id: ChIJtfXtuPtaspERN8PLl0sBnI4
+Fotos: INEDI.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

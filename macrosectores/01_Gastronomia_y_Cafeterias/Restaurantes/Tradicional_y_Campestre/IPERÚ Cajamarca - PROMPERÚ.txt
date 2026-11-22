@@ -1,0 +1,17 @@
+Nombre: IPERÚ Cajamarca - PROMPERÚ
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de información turística, Centro de visitantes
+Dirección: Jirón Cruz de Piedra 601, Cajamarca 06002
+Teléfono: (076) 365166
+Rating: 4.4
+Reseñas: 28
+Sitio web: http://www.peru.travel/
+Latitud: -7.1579774
+Longitud: -78.5191364
+Google Maps: https://www.google.com/maps?cid=11834078291413800103
+Place Id: ChIJMemx3PhaspERp5Tho4EXO6Q
+Fotos: IPERÚ Cajamarca - PROMPERÚ.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

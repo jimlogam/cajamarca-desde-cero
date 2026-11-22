@@ -1,0 +1,17 @@
+Nombre: La Solución
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: Vía de Evitamiento Nte. 2252, Cajamarca 06002
+Teléfono: 932 592 404
+Rating: 1.8
+Reseñas: 5
+Sitio web: 
+Latitud: -7.153757
+Longitud: -78.5061
+Google Maps: https://www.google.com/maps?cid=2050301587919015594
+Place Id: ChIJnRn8NnFbspERqg5VZm4idBw
+Fotos: La Solución.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

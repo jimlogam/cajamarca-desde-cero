@@ -1,0 +1,17 @@
+Nombre: Maggical BaBy
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de artículos para bebés
+Dirección: Pasaje Chepén 122, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: https://instagram.com/maggical.baby?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==
+Latitud: -7.1483427
+Longitud: -78.51806549999999
+Google Maps: https://www.google.com/maps?cid=8816582404549250539
+Place Id: ChIJDfD7viFbspER6w0eFPzKWno
+Fotos: Maggical BaBy.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

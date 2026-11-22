@@ -1,0 +1,17 @@
+Nombre: CASE Consultores&Asesores de Empresas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contabilidad
+Dirección: RFRP+VR4, Cinco Esquinas, Cajamarca 06002
+Teléfono: (076) 363328
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1578608
+Longitud: -78.5129151
+Google Maps: https://www.google.com/maps?cid=10173069166737401955
+Place Id: ChIJGVk6j_taspERY6jcBoIALo0
+Fotos: CASE Consultores&Asesores de Empresas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

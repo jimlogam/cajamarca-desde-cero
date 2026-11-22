@@ -1,0 +1,17 @@
+Nombre: Librería y Novedades Luantha
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: 06001, Av. La Paz 1885, Cajamarca 06001
+Teléfono: 936 499 351
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.179118099999999
+Longitud: -78.5006602
+Google Maps: https://www.google.com/maps?cid=3470650028478985579
+Place Id: ChIJJdFGi4lbspERa3UwB9A5KjA
+Fotos: Librería y Novedades Luantha.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

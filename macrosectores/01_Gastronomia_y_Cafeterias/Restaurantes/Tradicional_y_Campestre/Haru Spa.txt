@@ -1,0 +1,17 @@
+Nombre: Haru Spa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de estética
+Dirección: Av. Mario Urteaga 132, Cajamarca 06002
+Teléfono: 925 631 922
+Rating: 5
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1589171
+Longitud: -78.5100937
+Google Maps: https://www.google.com/maps?cid=17529373912371434346
+Place Id: ChIJy5m-fgBbspERahPm3bLYRPM
+Fotos: Haru Spa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

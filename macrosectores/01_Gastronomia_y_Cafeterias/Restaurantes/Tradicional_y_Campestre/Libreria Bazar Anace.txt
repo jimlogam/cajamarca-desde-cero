@@ -1,0 +1,17 @@
+Nombre: Libreria Bazar Anace
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Papelería
+Dirección: Miguel Iglesias 654, Cajamarca 06001
+Teléfono: 
+Rating: 3.8
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1492422
+Longitud: -78.51766289999999
+Google Maps: https://www.google.com/maps?cid=12335596549869639254
+Place Id: ChIJjbKrYRVbspERVpaDj7TXMKs
+Fotos: Libreria Bazar Anace.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

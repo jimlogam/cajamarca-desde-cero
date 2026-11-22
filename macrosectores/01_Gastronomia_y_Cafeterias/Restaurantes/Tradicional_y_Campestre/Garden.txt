@@ -1,0 +1,17 @@
+Nombre: Garden
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: 051, Cajamarca
+Teléfono: 976 574 714
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.178605999999999
+Longitud: -78.4779006
+Google Maps: https://www.google.com/maps?cid=14627734655975907688
+Place Id: ChIJl2RkfbZbspERaGEdJisnAMs
+Fotos: Sin foto en Maps
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

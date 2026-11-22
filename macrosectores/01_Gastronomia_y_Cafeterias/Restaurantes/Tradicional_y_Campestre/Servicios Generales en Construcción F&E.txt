@@ -1,0 +1,17 @@
+Nombre: Servicios Generales en Construcción F&E
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de materiales para la construcción
+Dirección: 06000, Cajamarca 06003
+Teléfono: 973 767 137
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/Servicios-Generales-en-Construcci%C3%B3n-FE-SRL-105756118915239/
+Latitud: -7.181544
+Longitud: -78.5001659
+Google Maps: https://www.google.com/maps?cid=15197406398613752700
+Place Id: ChIJV9MFa-tbspERfAufqJkI6NI
+Fotos: Servicios Generales en Construcción F&E.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

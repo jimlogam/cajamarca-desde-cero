@@ -1,0 +1,17 @@
+Nombre: Chugur Quesos - El Tambo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Alimentación y bebida
+Dirección: Dos de Mayo 2, Cajamarca 06002
+Teléfono: 
+Rating: 4.1
+Reseñas: 85
+Sitio web: http://www.chugurquesos.com/
+Latitud: -7.1566358
+Longitud: -78.5163031
+Google Maps: https://www.google.com/maps?cid=16252644493714078414
+Place Id: ChIJn_DabPlaspERzjqJjA7-jOE
+Fotos: Chugur Quesos - El Tambo.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

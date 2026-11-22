@@ -1,0 +1,17 @@
+Nombre: ACONTUR
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de visitas turísticas
+Dirección: Dos de Mayo 569, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1566798
+Longitud: -78.5166473
+Google Maps: https://www.google.com/maps?cid=13502896949809260344
+Place Id: ChIJow4WQgBbspEROCcWBDztY7s
+Fotos: ACONTUR.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

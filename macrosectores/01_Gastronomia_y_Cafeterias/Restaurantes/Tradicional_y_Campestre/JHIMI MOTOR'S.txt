@@ -1,0 +1,17 @@
+Nombre: JHIMI MOTOR'S
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de automóviles
+Dirección: JR, Cinco Esquinas 1521, Cajamarca 06001
+Teléfono: 948 243 951
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/Servicios-automotrices-jhimi-motors-105852575008924/
+Latitud: -7.152640099999999
+Longitud: -78.5080852
+Google Maps: https://www.google.com/maps?cid=1931636446802997128
+Place Id: ChIJKVSR3mFbspERiO_jNh2Nzho
+Fotos: JHIMI MOTOR'S.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

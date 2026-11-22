@@ -1,0 +1,17 @@
+Nombre: D & Mecc Servicios Generales EIRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Distribuidor de acero
+Dirección: Av Vía de Evitamiento Nte s/n, Cajamarca 06001
+Teléfono: 955 869 288
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1467769
+Longitud: -78.5211164
+Google Maps: https://www.google.com/maps?cid=7320405866294790717
+Place Id: ChIJScw3w2hbspERPcovqFlOl2U
+Fotos: D & Mecc Servicios Generales EIRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Mi ciela Cajamarca- SALON DE UÑAS/PESTAÑAS/CEJAS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón de manicura y pedicura, Salón de pestañas, Tienda de belleza y salud, Centro de estética
+Dirección: frente al gimnasio bodylab, Jr. Ayacucho 726, Cajamarca 06002
+Teléfono: 919 700 701
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/MiCielaCajamarca?mibextid=ZbWKwL
+Latitud: -7.161613099999999
+Longitud: -78.5045387
+Google Maps: https://www.google.com/maps?cid=8576307335627634601
+Place Id: ChIJkYeemTpbspERqXepIBUqBXc
+Fotos: Mi ciela Cajamarca- SALON DE UÑAS-PESTAÑAS-CEJAS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: E2 Nails Beauty cc quinde
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón de manicura y pedicura, Balneario, Centro de estética
+Dirección: Cajamarca 06002
+Teléfono: 927 689 384
+Rating: 4.2
+Reseñas: 15
+Sitio web: 
+Latitud: -7.1474281
+Longitud: -78.5105409
+Google Maps: https://www.google.com/maps?cid=9217705395891148722
+Place Id: ChIJHRaXHQJbspERshdLVjje638
+Fotos: E2 Nails Beauty cc quinde.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

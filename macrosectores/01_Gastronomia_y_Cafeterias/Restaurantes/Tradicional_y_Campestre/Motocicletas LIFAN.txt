@@ -1,0 +1,17 @@
+Nombre: Motocicletas LIFAN
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Concesionario de motos
+Dirección: Vía de Evitamiento Nte. 1712, Cajamarca 06002
+Teléfono: 976 007 007
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.152389299999999
+Longitud: -78.5061953
+Google Maps: https://www.google.com/maps?cid=18194270543044391468
+Place Id: ChIJhynRi8FbspERLLKDWakIf_w
+Fotos: Motocicletas LIFAN.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

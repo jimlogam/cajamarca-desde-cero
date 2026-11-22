@@ -1,0 +1,17 @@
+Nombre: SERVICIOS ELÉCTRICOS SALVATRUCKS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: RG29+V9, La Paccha 06000
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.198118
+Longitud: -78.4827983
+Google Maps: https://www.google.com/maps?cid=7597430685184860383
+Place Id: ChIJ_V1FSQBbspER36AYjPR-b2k
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

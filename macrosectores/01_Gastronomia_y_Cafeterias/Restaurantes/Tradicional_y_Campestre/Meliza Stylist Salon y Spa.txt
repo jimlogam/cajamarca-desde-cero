@@ -1,0 +1,17 @@
+Nombre: Meliza Stylist Salon y Spa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Peluquería
+Dirección: Hotel costa del sol, Jirón del Comercio 773, Cajamarca 06001
+Teléfono: 974 857 775
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1570165
+Longitud: -78.5183067
+Google Maps: https://www.google.com/maps?cid=3727820523659348518
+Place Id: ChIJ1RtxFwtbspERJkog8wPhuzM
+Fotos: Meliza Stylist Salon y Spa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

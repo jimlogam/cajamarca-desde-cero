@@ -1,0 +1,17 @@
+Nombre: DICESA Distribuidor Cables Electricos SA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa constructora, Compañía eléctrica
+Dirección: Pje. San Antonio 392, Cajamarca 06003
+Teléfono: 993 086 628
+Rating: 5
+Reseñas: 1
+Sitio web: http://dicesa.pe/
+Latitud: -7.1694327
+Longitud: -78.504024
+Google Maps: https://www.google.com/maps?cid=6922857504258649754
+Place Id: ChIJtwUlpf1aspERmu77ozjuEmA
+Fotos: DICESA Distribuidor Cables Electricos SA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

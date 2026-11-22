@@ -1,0 +1,17 @@
+Nombre: Representaciones Generales Alpine S.R.L
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de metalurgia, Fabricante de acero
+Dirección: Sta. Teresa 167, Cajamarca 06002
+Teléfono: 990 571 141
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/Alpinesrl
+Latitud: -7.163445899999999
+Longitud: -78.5079453
+Google Maps: https://www.google.com/maps?cid=1874366622211875053
+Place Id: ChIJsRCBwP1bspER7aDJF4MWAxo
+Fotos: Representaciones Generales Alpine S.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

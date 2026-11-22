@@ -1,0 +1,17 @@
+Nombre: Centro Biblico
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Iglesia
+Dirección: A media cuadra de plazuela Hoyos Rubio, Jr. Fraternidad 302, Cajamarca
+Teléfono: (076) 344391
+Rating: 4.3
+Reseñas: 42
+Sitio web: 
+Latitud: -7.1532868999999994
+Longitud: -78.51217299999999
+Google Maps: https://www.google.com/maps?cid=15597519120186781997
+Place Id: ChIJR9vTffpaspERLbEYKACFddg
+Fotos: Centro Biblico.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

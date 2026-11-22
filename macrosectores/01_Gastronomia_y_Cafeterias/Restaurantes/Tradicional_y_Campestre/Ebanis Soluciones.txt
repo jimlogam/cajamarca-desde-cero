@@ -1,0 +1,17 @@
+Nombre: Ebanis Soluciones
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carpintero
+Dirección: Av. Mártires de Uchuraccay N°2420, Cajamarca 06003
+Teléfono: 976 781 459
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1808662
+Longitud: -78.4910756
+Google Maps: https://www.google.com/maps?cid=3432263667758918421
+Place Id: ChIJlV1p7_NbspERFes_9J7ZoS8
+Fotos: Ebanis Soluciones.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

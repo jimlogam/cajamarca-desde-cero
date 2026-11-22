@@ -1,0 +1,17 @@
+Nombre: M&G Service Group
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes, Organizador de eventos
+Dirección: Jirón Mariano Iberico 127, Cajamarca 06001
+Teléfono: (076) 604168
+Rating: 3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1484305
+Longitud: -78.5039642
+Google Maps: https://www.google.com/maps?cid=2702451884069723810
+Place Id: ChIJk9Mwse5aspERop6PnKsJgSU
+Fotos: M&G Service Group.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

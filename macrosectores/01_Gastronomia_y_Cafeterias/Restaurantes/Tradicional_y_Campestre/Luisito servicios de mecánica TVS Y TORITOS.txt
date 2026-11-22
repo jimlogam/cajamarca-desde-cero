@@ -1,0 +1,17 @@
+Nombre: Luisito servicios de mecánica TVS Y TORITOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: VF5G+4RF, Mashcon, Cajamarca 06001
+Teléfono: 938 875 875
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1421817
+Longitud: -78.52294499999999
+Google Maps: https://www.google.com/maps?cid=13286276206071302278
+Place Id: ChIJQ9lNC35bspERhsia0tBVYrg
+Fotos: Luisito servicios de mecánica TVS Y TORITOS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

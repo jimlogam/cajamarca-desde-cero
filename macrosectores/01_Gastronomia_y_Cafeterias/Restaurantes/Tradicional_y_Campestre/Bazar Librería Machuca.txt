@@ -1,0 +1,17 @@
+Nombre: Bazar Librería Machuca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: Jr. Señor de Huamantanga 658, Cajamarca 06003
+Teléfono: 942 620 180
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1817759
+Longitud: -78.4994363
+Google Maps: https://www.google.com/maps?cid=6017851888374786624
+Place Id: ChIJQzJoBD9bspERQCp-lWi0g1M
+Fotos: Bazar Librería Machuca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: DISTRIBUIDORA DE CLARO DPM
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de llamadas
+Dirección: RFXV+7GX, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.151757
+Longitud: -78.5061329
+Google Maps: https://www.google.com/maps?cid=6113209001717807454
+Place Id: ChIJ5W5ydO9aspERXjkcqTJ71lQ
+Fotos: DISTRIBUIDORA DE CLARO DPM.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Pristin
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de cosméticos
+Dirección: Jr. Pisagua 507, Cajamarca 06000
+Teléfono: 901 617 093
+Rating: 
+Reseñas: 
+Sitio web: http://bit.ly/CatalogoPristin
+Latitud: -7.1563191999999995
+Longitud: -78.5212377
+Google Maps: https://www.google.com/maps?cid=4955444225946685377
+Place Id: ChIJGXA8r6BbspERwQ_Qt0RGxUQ
+Fotos: Pristin.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: CARPINTERIA GRY
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carpintero
+Dirección: Jr. Atahualpa, Cajamarca 06001
+Teléfono: (076) 362709
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1867468
+Longitud: -78.4862229
+Google Maps: https://www.google.com/maps?cid=10651971847154115103
+Place Id: ChIJ5TvrA2daspERHyIVW_Vn05M
+Fotos: CARPINTERIA GRY.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

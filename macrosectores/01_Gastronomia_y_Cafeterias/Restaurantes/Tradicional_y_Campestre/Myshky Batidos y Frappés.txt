@@ -1,0 +1,17 @@
+Nombre: Myshky Batidos y Frappés
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av. Vía de Evitamiento Sur 2527, Cajamarca 06002
+Teléfono: 953 049 016
+Rating: 5
+Reseñas: 6
+Sitio web: http://wa.me/+51953049016
+Latitud: -7.1575731
+Longitud: -78.5066143
+Google Maps: https://www.google.com/maps?cid=1670961787730545088
+Place Id: ChIJbaBiOQBbspERwEnujuRyMBc
+Fotos: Myshky Batidos y Frappés.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

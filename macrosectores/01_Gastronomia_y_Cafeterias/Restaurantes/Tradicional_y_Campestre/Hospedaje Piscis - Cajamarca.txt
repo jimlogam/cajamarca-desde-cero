@@ -1,0 +1,17 @@
+Nombre: Hospedaje Piscis - Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Alojamiento con servicio
+Dirección: Jirón Puno Nro. 240, Cajamarca 06001
+Teléfono: 976 225 847
+Rating: 4.7
+Reseñas: 11
+Sitio web: http://www.hospedajepiscis.pe/
+Latitud: -7.1514469
+Longitud: -78.5231885
+Google Maps: https://www.google.com/maps?cid=16456519056400577815
+Place Id: ChIJ0RrNTVhaspERF_UzNORMYeQ
+Fotos: Hospedaje Piscis - Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

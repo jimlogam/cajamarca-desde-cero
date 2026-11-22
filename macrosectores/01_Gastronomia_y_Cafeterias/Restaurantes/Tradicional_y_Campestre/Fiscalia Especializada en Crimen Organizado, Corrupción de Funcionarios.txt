@@ -1,0 +1,17 @@
+Nombre: Fiscalia Especializada en Crimen Organizado, Corrupción de Funcionarios.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Fiscal de distrito
+Dirección: Los Pinos 280, Cajamarca 06001
+Teléfono: (076) 342584
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1488615
+Longitud: -78.5139828
+Google Maps: https://www.google.com/maps?cid=2577211532192643012
+Place Id: ChIJn-jgKk5bspERxPdh3zsYxCM
+Fotos: Fiscalia Especializada en Crimen Organizado, Corrupción de Funcionarios.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

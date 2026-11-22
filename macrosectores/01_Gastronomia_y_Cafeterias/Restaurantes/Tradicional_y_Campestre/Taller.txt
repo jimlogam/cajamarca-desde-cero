@@ -1,0 +1,17 @@
+Nombre: Taller
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: Jr. Alejandro Ortiz n° 150, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1453891
+Longitud: -78.51767
+Google Maps: https://www.google.com/maps?cid=17927818999013641880
+Place Id: ChIJu5vJ2U1bspERmA612WRozPg
+Fotos: Taller.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

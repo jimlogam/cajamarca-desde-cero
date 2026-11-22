@@ -1,0 +1,17 @@
+Nombre: Maquillaje permanente Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Estilista
+Dirección: Jr, Jr del Batán 169, Cajamarca 06001
+Teléfono: 944 977 471
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.156017299999999
+Longitud: -78.5174335
+Google Maps: https://www.google.com/maps?cid=17086135941912399266
+Place Id: ChIJVaxXH-BbspERog256RwmHu0
+Fotos: Maquillaje permanente Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

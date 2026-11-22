@@ -1,0 +1,17 @@
+Nombre: MG CONTADORES EMPRESARIALES
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de contabilidad
+Dirección: JR, Yahuar Huaca 925, Baños del Inca 06004
+Teléfono: 936 464 178
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1682229
+Longitud: -78.4576549
+Google Maps: https://www.google.com/maps?cid=1117180538659616745
+Place Id: ChIJm2YvjJVFspER6TfJ5McFgQ8
+Fotos: MG CONTADORES EMPRESARIALES.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

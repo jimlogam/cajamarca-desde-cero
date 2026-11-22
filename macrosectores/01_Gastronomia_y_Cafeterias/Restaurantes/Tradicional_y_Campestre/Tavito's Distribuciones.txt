@@ -1,0 +1,17 @@
+Nombre: Tavito's Distribuciones
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Mayorista de bebidas alcohólicas
+Dirección: Túpac Amaru, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: https://tavito-s-distribuciones.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1788739999999995
+Longitud: -78.5033432
+Google Maps: https://www.google.com/maps?cid=4449659148882419064
+Place Id: ChIJL88xF4hbspEReB20rGtdwD0
+Fotos: Tavito's Distribuciones.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

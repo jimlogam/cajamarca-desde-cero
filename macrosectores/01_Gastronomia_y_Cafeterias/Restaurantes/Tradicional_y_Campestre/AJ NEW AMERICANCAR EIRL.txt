@@ -1,0 +1,17 @@
+Nombre: AJ NEW AMERICANCAR EIRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Av. La Paz 868, Cajamarca 06003
+Teléfono: (076) 343833
+Rating: 3.6
+Reseñas: 10
+Sitio web: https://g.page/new-americancar-eirl?gm
+Latitud: -7.1714148
+Longitud: -78.5064556
+Google Maps: https://www.google.com/maps?cid=11968681555057492586
+Place Id: ChIJw28AABtbspERasL4JnZMGaY
+Fotos: AJ NEW AMERICANCAR EIRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

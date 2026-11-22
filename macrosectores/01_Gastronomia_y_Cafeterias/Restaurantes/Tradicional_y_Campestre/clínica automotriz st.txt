@@ -1,0 +1,17 @@
+Nombre: clínica automotriz st
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: Intervención con, Jr. Garcilaso de la Vega 320, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1654722
+Longitud: -78.51252459999999
+Google Maps: https://www.google.com/maps?cid=11296319224331139726
+Place Id: ChIJ1XXZMxhbspERjnqs63uWxJw
+Fotos: clínica automotriz st.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

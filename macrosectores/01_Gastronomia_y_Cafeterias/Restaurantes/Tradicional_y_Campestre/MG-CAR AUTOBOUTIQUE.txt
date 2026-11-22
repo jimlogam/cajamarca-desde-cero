@@ -1,0 +1,17 @@
+Nombre: MG-CAR AUTOBOUTIQUE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de revisión de automóviles
+Dirección: 51, Cajamarca 06001
+Teléfono: 994 970 257
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1554109
+Longitud: -78.5088707
+Google Maps: https://www.google.com/maps?cid=12463889123470539401
+Place Id: ChIJ0ythgqZbspERifpQDB-h-Kw
+Fotos: MG-CAR AUTOBOUTIQUE.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

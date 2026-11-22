@@ -1,0 +1,17 @@
+Nombre: Baticueva
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Cabaña para acampar
+Dirección: VFV9+QRM Huambocancha Baja, Cajamarca 06000
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1055315
+Longitud: -78.53045259999999
+Google Maps: https://www.google.com/maps?cid=10368627261176463036
+Place Id: ChIJw92BWQBRspERvL7aBo_D5I8
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

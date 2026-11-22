@@ -1,0 +1,17 @@
+Nombre: MileTur
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de visitas turísticas, Service establishment
+Dirección: 
+Teléfono: 940 545 137
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/share/1AGUtkbEvg/
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=11447761659745720383
+Place Id: ChIJ5e7hvqpbspERP9h6opOe3p4
+Fotos: MileTur.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

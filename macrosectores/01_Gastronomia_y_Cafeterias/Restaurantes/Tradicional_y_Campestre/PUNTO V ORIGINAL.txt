@@ -1,0 +1,17 @@
+Nombre: PUNTO V ORIGINAL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Zapatería
+Dirección: Jr. Jequetepeque 264, Cajamarca 06001
+Teléfono: 910 954 459
+Rating: 5
+Reseñas: 2
+Sitio web: https://www.facebook.com/FashionPuntov?mibextid=ZbWKwL
+Latitud: -7.1519995
+Longitud: -78.51877019999999
+Google Maps: https://www.google.com/maps?cid=1928078982993646292
+Place Id: ChIJC0ebpwNbspER1JI7oJ7pwRo
+Fotos: PUNTO V ORIGINAL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: GRIFO FAYVE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Gasolinera
+Dirección: WC2H+P35, Cajamarca 06000
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.098233
+Longitud: -78.57226419999999
+Google Maps: https://www.google.com/maps?cid=5719995115053072514
+Place Id: ChIJjQ8hJRhXspERgkC1VUCBYU8
+Fotos: GRIFO FAYVE.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

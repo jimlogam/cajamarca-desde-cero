@@ -1,0 +1,17 @@
+Nombre: MILY SHOW
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de fiestas infantiles, Service establishment
+Dirección: 
+Teléfono: 976 690 501
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=13279575641040718809
+Place Id: ChIJP2_ydFZFspER2Ysp9K-HSrg
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Martos Business Solution SRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de registros contables
+Dirección: Av. Independencia 636, Cajamarca 06002
+Teléfono: (076) 364610
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.170202
+Longitud: -78.5116479
+Google Maps: https://www.google.com/maps?cid=18109042152031779540
+Place Id: ChIJVRmMnQNbspER1PptNuQ9UPs
+Fotos: Martos Business Solution SRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

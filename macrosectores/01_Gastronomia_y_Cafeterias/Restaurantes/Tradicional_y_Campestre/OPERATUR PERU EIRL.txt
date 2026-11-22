@@ -1,0 +1,17 @@
+Nombre: OPERATUR PERU EIRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: Dos de Mayo 496, Cajamarca 06002
+Teléfono: 976 915 777
+Rating: 2.3
+Reseñas: 10
+Sitio web: 
+Latitud: -7.157521699999999
+Longitud: -78.51701299999999
+Google Maps: https://www.google.com/maps?cid=4659988582063907016
+Place Id: ChIJFW5KsmVbspERyKBL--yaq0A
+Fotos: OPERATUR PERU EIRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

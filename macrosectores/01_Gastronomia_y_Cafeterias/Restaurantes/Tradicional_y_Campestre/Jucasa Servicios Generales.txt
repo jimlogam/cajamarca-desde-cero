@@ -1,0 +1,17 @@
+Nombre: Jucasa Servicios Generales
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa constructora
+Dirección: 06003, Cajamarca 06001
+Teléfono: 949 683 436
+Rating: 5
+Reseñas: 3
+Sitio web: http://www.grupojucasa.pe/
+Latitud: -7.1781633
+Longitud: -78.4977285
+Google Maps: https://www.google.com/maps?cid=16226964219782346333
+Place Id: ChIJZQeNv59bspERXbYZ1_vBMeE
+Fotos: Jucasa Servicios Generales.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

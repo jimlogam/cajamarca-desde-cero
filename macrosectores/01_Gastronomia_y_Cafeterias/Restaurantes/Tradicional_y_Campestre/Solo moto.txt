@@ -1,0 +1,17 @@
+Nombre: Solo moto
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: 3N 2008-2022, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1738984
+Longitud: -78.492887
+Google Maps: https://www.google.com/maps?cid=889849002492687979
+Place Id: ChIJN9sazOhbspERa_ZPAfRgWQw
+Fotos: Solo moto.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

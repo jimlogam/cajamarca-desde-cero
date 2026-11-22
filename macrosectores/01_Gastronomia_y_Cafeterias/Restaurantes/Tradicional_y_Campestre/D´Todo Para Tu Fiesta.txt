@@ -1,0 +1,17 @@
+Nombre: D´Todo Para Tu Fiesta
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Organizador de eventos
+Dirección: 06001, Cajamarca 06001
+Teléfono: 932 643 624
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.15002
+Longitud: -78.5128229
+Google Maps: https://www.google.com/maps?cid=2462966319589251491
+Place Id: ChIJU0XjfThbspERo1nefNE2LiI
+Fotos: D´Todo Para Tu Fiesta.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: KillaStore
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de cosméticos
+Dirección: Octavio Alva León 244, Cajamarca 06001
+Teléfono: 954 728 391
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1487573
+Longitud: -78.5001344
+Google Maps: https://www.google.com/maps?cid=16448688000398507635
+Place Id: ChIJYeAPqfxbspERc777ZJZ6ReQ
+Fotos: KillaStore.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

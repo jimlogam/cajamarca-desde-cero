@@ -1,0 +1,17 @@
+Nombre: JVM & Asociados - Estudio Contable
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de contabilidad
+Dirección: Jirón del Comercio 431, Cajamarca 06001
+Teléfono: 976 690 271
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1552504
+Longitud: -78.52063319999999
+Google Maps: https://www.google.com/maps?cid=7017923667320627264
+Place Id: ChIJazuVvgFbspERQOBzk2SsZGE
+Fotos: JVM & Asociados - Estudio Contable.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

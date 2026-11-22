@@ -1,0 +1,17 @@
+Nombre: Academia de Natación "Omar Silva - Nadadores"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Escuela deportiva
+Dirección: Jr. Atahualpa 481, Baños del Inca., Cajamarca
+Teléfono: 985 835 039
+Rating: 4.4
+Reseñas: 34
+Sitio web: 
+Latitud: -7.159725399999999
+Longitud: -78.46258379999999
+Google Maps: https://www.google.com/maps?cid=4955888631081851603
+Place Id: ChIJi_ttyydFspER09oH2nPaxkQ
+Fotos: Academia de Natación Omar Silva - Nadadores.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

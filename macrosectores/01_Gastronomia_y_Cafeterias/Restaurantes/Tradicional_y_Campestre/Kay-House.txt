@@ -1,0 +1,17 @@
+Nombre: Kay-House
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Alojamiento particular
+Dirección: Jr: Lote 6, Cajamarca 06002
+Teléfono: 
+Rating: 3
+Reseñas: 1
+Sitio web: https://odysseyoasis.eu/kay-house-peru
+Latitud: -7.1555975
+Longitud: -78.5077039
+Google Maps: https://www.google.com/maps?cid=11654441575200725993
+Place Id: ChIJ52i-RwBbspER6RtiYd3kvKE
+Fotos: Kay-House.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: M&C Distribuidora SRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de abarrotes rusa
+Dirección: 06001, Cajamarca 06001
+Teléfono: 935 011 052
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.139323
+Longitud: -78.5055841
+Google Maps: https://www.google.com/maps?cid=2861558238245196441
+Place Id: ChIJPzb8FJ9bspERmZKydg5Mtic
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

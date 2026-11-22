@@ -1,0 +1,17 @@
+Nombre: ichus
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa constructora, Ingeniero de minas
+Dirección: Jr. Alfonso Ugarte 1531, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: http://ichussac.com/
+Latitud: -7.1796679999999995
+Longitud: -78.5068852
+Google Maps: https://www.google.com/maps?cid=12368195678592514431
+Place Id: ChIJRyouU3BbspERfzkHr3CopKs
+Fotos: ichus.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

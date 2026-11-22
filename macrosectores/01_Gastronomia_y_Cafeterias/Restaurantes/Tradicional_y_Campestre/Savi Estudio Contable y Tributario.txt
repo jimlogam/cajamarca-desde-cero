@@ -1,0 +1,17 @@
+Nombre: Savi Estudio Contable y Tributario
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de contabilidad
+Dirección: Jr, Luis Reyna Farge 245, Cajamarca 06003
+Teléfono: 933 852 149
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.167470799999999
+Longitud: -78.5069575
+Google Maps: https://www.google.com/maps?cid=7113244978081449480
+Place Id: ChIJ_Zs486pbspERCEbgtp5St2I
+Fotos: Savi Estudio Contable y Tributario.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

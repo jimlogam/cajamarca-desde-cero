@@ -1,0 +1,17 @@
+Nombre: CONSORCIO AACV SAC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de herramientas
+Dirección: 3N 2523, Cajamarca 06002
+Teléfono: 947 295 786
+Rating: 5
+Reseñas: 4
+Sitio web: https://consorcioaacv.com/online/
+Latitud: -7.158248599999999
+Longitud: -78.5063328
+Google Maps: https://www.google.com/maps?cid=15587833400447351622
+Place Id: ChIJ3Rj1ewBbspERRjuiy-MbU9g
+Fotos: CONSORCIO AACV SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

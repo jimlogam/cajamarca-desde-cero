@@ -1,0 +1,17 @@
+Nombre: MP CONTADORES ASOCIADOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contador público, Service establishment
+Dirección: 
+Teléfono: 955 104 289
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: 2.1519691
+Longitud: -70.4223422
+Google Maps: https://www.google.com/maps?cid=2519191706380199910
+Place Id: ChIJpQ66VYcjyyAR5ufme4L39SI
+Fotos: MP CONTADORES ASOCIADOS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Golden Paradise Tours
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: Av. Mario Urteaga 360, Cajamarca 06001
+Teléfono: 963 937 360
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1563626
+Longitud: -78.5121896
+Google Maps: https://www.google.com/maps?cid=10372483441000103658
+Place Id: ChIJ39efAIxbspER6r5u27t28o8
+Fotos: Golden Paradise Tours.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

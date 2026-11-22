@@ -1,0 +1,17 @@
+Nombre: Libreria Sofia
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: Jr. Apurimac 861, Cajamarca 06001
+Teléfono: 953 342 411
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1554104999999995
+Longitud: -78.5182975
+Google Maps: https://www.google.com/maps?cid=12584185746679841631
+Place Id: ChIJ7cP2TgBbspERX8NiQkMCpK4
+Fotos: Libreria Sofia.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

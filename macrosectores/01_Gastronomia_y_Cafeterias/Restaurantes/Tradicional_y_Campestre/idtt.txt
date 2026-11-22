@@ -1,0 +1,17 @@
+Nombre: idtt.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de software, Agencia de publicidad, Consultora informática, Agencia de marketing, Servicio de producción de vídeo
+Dirección: San Andrés 141, Cajamarca 06002
+Teléfono: 989 821 395
+Rating: 
+Reseñas: 
+Sitio web: https://identity.pe/labs/cajamarca
+Latitud: -7.1508603
+Longitud: -78.5079712
+Google Maps: https://www.google.com/maps?cid=12686978925116202580
+Place Id: ChIJbafS0uJbspERVB5rKB00EbA
+Fotos: idtt.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

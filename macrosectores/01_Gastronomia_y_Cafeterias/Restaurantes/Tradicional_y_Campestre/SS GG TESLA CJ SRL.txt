@@ -1,0 +1,17 @@
+Nombre: SS GG TESLA CJ SRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de alquiler de coches, Departamento local de transporte, Empresa de transporte por camión
+Dirección: 06000, Cajamarca 06001
+Teléfono: 987 173 884
+Rating: 5
+Reseñas: 20
+Sitio web: 
+Latitud: -7.1526568
+Longitud: -78.5195742
+Google Maps: https://www.google.com/maps?cid=1834160646305191578
+Place Id: ChIJ_8lE7L9bspERmpYF2GM_dBk
+Fotos: SS GG TESLA CJ SRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

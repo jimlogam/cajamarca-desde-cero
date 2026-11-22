@@ -1,0 +1,17 @@
+Nombre: INNOVA H&H - Muebles en melamina
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Fábrica de muebles
+Dirección: Vía de Evitamiento Nte. 2260, Cajamarca 06002
+Teléfono: 934 602 080
+Rating: 
+Reseñas: 
+Sitio web: https://web.facebook.com/profile.php?id=61560183746145&locale=es_LA
+Latitud: -7.1559427
+Longitud: -78.5066659
+Google Maps: https://www.google.com/maps?cid=17148303318081758997
+Place Id: ChIJG0lRVZdbspERFWfqHgMD--0
+Fotos: INNOVA H&H - Muebles en melamina.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

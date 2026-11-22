@@ -1,0 +1,17 @@
+Nombre: Inkillay Agencia de Marketing Digital en Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de marketing
+Dirección: Jr, Emilio Barrantes 278, Cajamarca 06001
+Teléfono: 913 256 141
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1494162999999995
+Longitud: -78.5066129
+Google Maps: https://www.google.com/maps?cid=16074771764471956693
+Place Id: ChIJSw0AK_tbspER1YTUgsAPFd8
+Fotos: Inkillay Agencia de Marketing Digital en Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: BabyBoom
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de juegos
+Dirección: Jr, Tayabamba 111, Cajamarca 06001
+Teléfono: 988 126 835
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1532389
+Longitud: -78.518087
+Google Maps: https://www.google.com/maps?cid=9200703142420369109
+Place Id: ChIJFdk2aHRbspER1U7Jt8J2r38
+Fotos: BabyBoom.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

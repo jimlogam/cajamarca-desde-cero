@@ -1,0 +1,17 @@
+Nombre: Newseoul Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de cosméticos
+Dirección: Vía de Evitamiento Nte., Cajamarca 06001
+Teléfono: 952 386 638
+Rating: 
+Reseñas: 
+Sitio web: https://newseoul.com.pe/
+Latitud: -7.1540054
+Longitud: -78.5053564
+Google Maps: https://www.google.com/maps?cid=1993850058964571102
+Place Id: ChIJnfAaexpbspER3pP5kxCUqxs
+Fotos: Newseoul Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

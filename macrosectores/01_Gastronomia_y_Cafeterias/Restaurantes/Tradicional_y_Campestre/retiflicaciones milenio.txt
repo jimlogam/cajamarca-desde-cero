@@ -1,0 +1,17 @@
+Nombre: retiflicaciones milenio
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: RFVR+68R, La Colmena, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1568945
+Longitud: -78.5092354
+Google Maps: https://www.google.com/maps?cid=12098047602000029221
+Place Id: ChIJ3T2V5JVbspERJWb6IDLm5Kc
+Fotos: retiflicaciones milenio.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

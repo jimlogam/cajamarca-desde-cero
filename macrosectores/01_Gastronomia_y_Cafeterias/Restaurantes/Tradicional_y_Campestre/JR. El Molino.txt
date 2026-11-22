@@ -1,0 +1,17 @@
+Nombre: JR. El Molino
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de registros contables
+Dirección: Jr. El Molino 119, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1445687
+Longitud: -78.524397
+Google Maps: https://www.google.com/maps?cid=6931362358485372116
+Place Id: ChIJ34MgknpbspER1MwIU1clMWA
+Fotos: JR. El Molino.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

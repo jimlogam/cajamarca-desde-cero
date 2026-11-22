@@ -1,0 +1,17 @@
+Nombre: cosmetica
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Fabricante de cosméticos
+Dirección: Belén 676, Cajamarca 06002
+Teléfono: 933 300 338
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.158682799999999
+Longitud: -78.5161686
+Google Maps: https://www.google.com/maps?cid=10570751585653089295
+Place Id: ChIJkXmhV71bspERD-S_l4_aspI
+Fotos: cosmetica.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

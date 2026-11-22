@@ -1,0 +1,17 @@
+Nombre: Imprenta Glaismar E.I.R.L.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Imprenta
+Dirección: 06002, Cajamarca
+Teléfono: 976 342 522
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1565468
+Longitud: -78.51465019999999
+Google Maps: https://www.google.com/maps?cid=9349136988336940728
+Place Id: ChIJRSDEuHlbspERuOZJmo7OvoE
+Fotos: Imprenta Glaismar E.I.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

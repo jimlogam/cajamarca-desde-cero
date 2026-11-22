@@ -1,0 +1,17 @@
+Nombre: Getpro Cefoten
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Instituto de Tecnología
+Dirección: Vía de Evitamiento Nte. 2530, Cajamarca 06002
+Teléfono: 944 000 215
+Rating: 
+Reseñas: 
+Sitio web: http://cefotemperu.com/
+Latitud: -7.1585187999999995
+Longitud: -78.5064639
+Google Maps: https://www.google.com/maps?cid=7561186734961661064
+Place Id: ChIJ_5-oeONaspERiBTJSUa77mg
+Fotos: Getpro Cefoten.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: IMPRENTA FAYCE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Imprenta
+Dirección: Jr. Emancipadores 240, Cajamarca 06001
+Teléfono: 976 660 017
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1741445
+Longitud: -78.4959306
+Google Maps: https://www.google.com/maps?cid=9140686617249792993
+Place Id: ChIJK-9bpqdbspER4UNXiAw-2n4
+Fotos: IMPRENTA FAYCE.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

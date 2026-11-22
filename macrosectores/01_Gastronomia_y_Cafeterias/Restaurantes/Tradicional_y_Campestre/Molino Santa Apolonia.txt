@@ -1,0 +1,17 @@
+Nombre: Molino "Santa Apolonia"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Molino de harina, Supermercado
+Dirección: Piura, Cajamarca 06002
+Teléfono: 943 967 678
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1622569
+Longitud: -78.5212535
+Google Maps: https://www.google.com/maps?cid=10582250060992857087
+Place Id: ChIJ609LNMNbspER_8PVAV2025I
+Fotos: Molino Santa Apolonia.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

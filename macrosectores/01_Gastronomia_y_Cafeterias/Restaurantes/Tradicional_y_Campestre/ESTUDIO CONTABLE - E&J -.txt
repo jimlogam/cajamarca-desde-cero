@@ -1,0 +1,17 @@
+Nombre: ESTUDIO CONTABLE * E&J *
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de contabilidad
+Dirección: Jr, Pasaje Chepén 253, Cajamarca
+Teléfono: 971 252 254
+Rating: 
+Reseñas: 
+Sitio web: http://www.estudiocontableeyj.com.pe/
+Latitud: -7.1522708999999995
+Longitud: -78.5218952
+Google Maps: https://www.google.com/maps?cid=5634916477791922678
+Place Id: ChIJT_xuNZBbspER9mnIda4-M04
+Fotos: ESTUDIO CONTABLE - E&J -.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

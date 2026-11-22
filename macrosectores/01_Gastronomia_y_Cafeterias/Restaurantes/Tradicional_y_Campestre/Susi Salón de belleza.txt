@@ -1,0 +1,17 @@
+Nombre: Susi Salón de belleza
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Peluquería
+Dirección: San Roque 371, Cajamarca 06002
+Teléfono: 951 338 392
+Rating: 4
+Reseñas: 1
+Sitio web: https://www.facebook.com/profile.php?id=100067549912718&mibextid=ZbWKwL
+Latitud: -7.1512467
+Longitud: -78.5082082
+Google Maps: https://www.google.com/maps?cid=4750871758338084292
+Place Id: ChIJT8wOq6dbspERxE0tabF87kE
+Fotos: Susi Salón de belleza.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

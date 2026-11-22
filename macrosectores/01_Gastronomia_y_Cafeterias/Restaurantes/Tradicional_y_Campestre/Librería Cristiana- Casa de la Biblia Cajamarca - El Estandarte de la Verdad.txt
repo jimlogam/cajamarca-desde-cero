@@ -1,0 +1,17 @@
+Nombre: Librería Cristiana: Casa de la Biblia Cajamarca - El Estandarte de la Verdad
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería cristiana, Tienda de bolígrafos, Librería religiosa, Papelería
+Dirección: Jr del Batán 245, Cajamarca 06001
+Teléfono: 936 083 235
+Rating: 4.2
+Reseñas: 58
+Sitio web: https://casabibliacajamarca.com/
+Latitud: -7.1554534
+Longitud: -78.5168412
+Google Maps: https://www.google.com/maps?cid=2174156336920199800
+Place Id: ChIJU08UpPlaspEReAJLVKsnLB4
+Fotos: Librería Cristiana- Casa de la Biblia Cajamarca - El Estandarte de la Verdad.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

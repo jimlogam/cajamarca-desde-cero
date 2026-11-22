@@ -1,0 +1,17 @@
+Nombre: Carlo's Olivos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de estética
+Dirección: Av. Eucaliptos cdra.5, Jr. El sol s/n, Baños del Inca 06001
+Teléfono: 945 690 431
+Rating: 
+Reseñas: 
+Sitio web: https://web.facebook.com/carlosolivos.salonspa
+Latitud: -7.1537137
+Longitud: -78.50634509999999
+Google Maps: https://www.google.com/maps?cid=6799287967429964567
+Place Id: ChIJ598OrPpFspERFzNA2GHsW14
+Fotos: Carlo's Olivos.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

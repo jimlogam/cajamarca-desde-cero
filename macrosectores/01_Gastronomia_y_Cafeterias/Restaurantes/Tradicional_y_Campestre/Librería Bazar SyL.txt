@@ -1,0 +1,17 @@
+Nombre: Librería Bazar SyL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: Jr Diego ferrer 315, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1715775
+Longitud: -78.5113957
+Google Maps: https://www.google.com/maps?cid=1194910795598906231
+Place Id: ChIJNfnJN-dbspERd8PzpQktlRA
+Fotos: Librería Bazar SyL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Distribuidora Padre Eterno
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de herramientas
+Dirección: Av. Mártires de Uchuraccay 1071, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: https://dpe16.my.canva.site/
+Latitud: -7.171406299999999
+Longitud: -78.49947329999999
+Google Maps: https://www.google.com/maps?cid=4605711940884935454
+Place Id: ChIJ03XZXhhbspERHrM4rpvG6j8
+Fotos: Distribuidora Padre Eterno.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Carnicería Fernando
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carnicería
+Dirección: Av. Héroes del Cenepa 880, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1793907
+Longitud: -78.4979602
+Google Maps: https://www.google.com/maps?cid=9501355718983156472
+Place Id: ChIJWepQ_xVbspER-AKeoq-Y24M
+Fotos: Carnicería Fernando.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

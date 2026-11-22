@@ -1,0 +1,17 @@
+Nombre: LIBRERIA BRIANITA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: Chanchamayo 1840, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.144711099999999
+Longitud: -78.5238198
+Google Maps: https://www.google.com/maps?cid=8153650964437816736
+Place Id: ChIJqRH4agBbspERoFXWLVqWJ3E
+Fotos: LIBRERIA BRIANITA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

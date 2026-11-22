@@ -1,0 +1,17 @@
+Nombre: Patrimonio Inmobiliaria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia inmobiliaria
+Dirección: Jr, Miguel Iglesias 583, Cajamarca 06001
+Teléfono: 928 884 791
+Rating: 
+Reseñas: 
+Sitio web: https://www.patrimonioinmobiliaria.com/
+Latitud: -7.149826099999999
+Longitud: -78.5180204
+Google Maps: https://www.google.com/maps?cid=7623046568340861265
+Place Id: ChIJDT7UZKNbspERUbE3HHeAymk
+Fotos: Patrimonio Inmobiliaria.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

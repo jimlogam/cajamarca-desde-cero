@@ -1,0 +1,17 @@
+Nombre: corte cnc cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Soporte y servicios informáticos
+Dirección: Simón Bolívar 317, Cajamarca 06002
+Teléfono: 975 430 781
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1673573
+Longitud: -78.511707
+Google Maps: https://www.google.com/maps?cid=2129206948531958050
+Place Id: ChIJN3JEDgNbspERInGKTHB2jB0
+Fotos: corte cnc cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: ESTUDIO CONTABLE FINYCONT
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contable, Empresa de contabilidad, Contador público, Service establishment
+Dirección: 
+Teléfono: 987 120 468
+Rating: 4.6
+Reseñas: 10
+Sitio web: 
+Latitud: -9.2435385
+Longitud: -75.01950459999999
+Google Maps: https://www.google.com/maps?cid=10671605510444429341
+Place Id: ChIJNceLQXdbspERHTAk0asoGZQ
+Fotos: ESTUDIO CONTABLE FINYCONT.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

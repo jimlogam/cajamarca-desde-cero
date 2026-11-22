@@ -1,0 +1,17 @@
+Nombre: Losa Luis Alberto Sánchez
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Polideportivo
+Dirección: RG74+G7R, Unnamed Road, Cajamarca 06003
+Teléfono: 
+Rating: 4.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1861348
+Longitud: -78.4943689
+Google Maps: https://www.google.com/maps?cid=10273726984992063267
+Place Id: ChIJDb32hblbspERI__Lo0Kck44
+Fotos: Losa Luis Alberto Sánchez.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Aeropuerto Internacional Armando Revoredo Iglesias
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Aeropuerto, Aeropuerto internacional
+Dirección: Av. Hoyos Rubio 1804, Cajamarca 06001
+Teléfono: (076) 343960
+Rating: 4.2
+Reseñas: 1725
+Sitio web: http://www.corpac.gob.pe/Main.asp?T=4157
+Latitud: -7.1425604
+Longitud: -78.4897932
+Google Maps: https://www.google.com/maps?cid=4331093046562980980
+Place Id: ChIJ-xdZ_7haspERdASNwS0iGzw
+Fotos: Aeropuerto Internacional Armando Revoredo Iglesias.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: CEDEFU
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Abogado penalista, Abogado, Bufete, Servicios legales
+Dirección: Jr, Eduardo Rodríguez 185, Cajamarca 06001
+Teléfono: 997 022 931
+Rating: 4.9
+Reseñas: 75
+Sitio web: http://www.cedefu.com/
+Latitud: -7.147460199999999
+Longitud: -78.5114234
+Google Maps: https://www.google.com/maps?cid=15451804592206081647
+Place Id: ChIJkRN5HPtaspERb24x0WjWb9Y
+Fotos: CEDEFU.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

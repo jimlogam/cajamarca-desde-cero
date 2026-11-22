@@ -1,0 +1,17 @@
+Nombre: 𝔹𝕦𝕣𝕘𝕠𝕤 𝕞𝕠𝕥𝕠𝕤
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: Av. Hoyos Rubio 1689, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1460633
+Longitud: -78.4989851
+Google Maps: https://www.google.com/maps?cid=5695023488853478771
+Place Id: ChIJecbNpVFbspERcw2eiLDJCE8
+Fotos: 𝔹𝕦𝕣𝕘𝕠𝕤 𝕞𝕠𝕥𝕠𝕤.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

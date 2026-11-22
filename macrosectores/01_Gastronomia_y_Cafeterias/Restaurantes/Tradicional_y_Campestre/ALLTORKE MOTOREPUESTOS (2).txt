@@ -1,0 +1,17 @@
+Nombre: ALLTORKE MOTOREPUESTOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: Jr, Jirón Ciro Alegria 131, Cajamarca 06000
+Teléfono: 939 982 901
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/profile.php?id=100090054525268
+Latitud: -7.1445167
+Longitud: -78.51150419999999
+Google Maps: https://www.google.com/maps?cid=12126397994381381381
+Place Id: ChIJow52GwBbspERBY8cPLqeSag
+Fotos: ALLTORKE MOTOREPUESTOS (2).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

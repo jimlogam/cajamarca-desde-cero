@@ -1,0 +1,17 @@
+Nombre: LIBRERIA Y PAPELERIA JIREH
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Papelería
+Dirección: Ciro Alegría 442, Cajamarca 06001
+Teléfono: 949 352 581
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.144531799999999
+Longitud: -78.5155707
+Google Maps: https://www.google.com/maps?cid=14719352533313051083
+Place Id: ChIJm8DNLmxbspERy9nefySlRcw
+Fotos: LIBRERIA Y PAPELERIA JIREH.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

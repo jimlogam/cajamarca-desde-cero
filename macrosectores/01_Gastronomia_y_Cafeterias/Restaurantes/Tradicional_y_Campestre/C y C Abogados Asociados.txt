@@ -1,0 +1,17 @@
+Nombre: C y C Abogados Asociados
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Bufete
+Dirección: Miguel Grau 486, Cajamarca 06000
+Teléfono: 928 369 059
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.155599199999999
+Longitud: -78.5118555
+Google Maps: https://www.google.com/maps?cid=11789232075821153697
+Place Id: ChIJgbC0Of9bspERof31ZRzEm6M
+Fotos: C y C Abogados Asociados.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

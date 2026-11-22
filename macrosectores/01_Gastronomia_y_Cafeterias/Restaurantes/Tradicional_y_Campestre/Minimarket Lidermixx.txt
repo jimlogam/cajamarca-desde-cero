@@ -1,0 +1,17 @@
+Nombre: Minimarket Lidermixx
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Mayorista
+Dirección: Av San Martín de Porres 2434, Cajamarca 06003
+Teléfono: 907 112 534
+Rating: 5
+Reseñas: 1
+Sitio web: https://lidermixx.netlify.app/
+Latitud: -7.188206
+Longitud: -78.4886684
+Google Maps: https://www.google.com/maps?cid=5941369362591497463
+Place Id: ChIJY3ju2kZbspER97yn4PT7c1I
+Fotos: Minimarket Lidermixx.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

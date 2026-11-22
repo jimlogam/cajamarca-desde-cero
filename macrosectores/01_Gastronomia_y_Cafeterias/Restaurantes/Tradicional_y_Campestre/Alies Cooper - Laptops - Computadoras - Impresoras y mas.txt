@@ -1,0 +1,17 @@
+Nombre: Alies Cooper - Laptops - Computadoras - Impresoras y mas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de informática
+Dirección: Jr, Dos de Mayo 686, Cajamarca 06002
+Teléfono: 976 585 220
+Rating: 4.9
+Reseñas: 20
+Sitio web: https://www.aliescooper.com/
+Latitud: -7.1558059
+Longitud: -78.5155903
+Google Maps: https://www.google.com/maps?cid=1511654744192635331
+Place Id: ChIJIwj3ZZpbspERw9GiEvt5-hQ
+Fotos: Alies Cooper - Laptops - Computadoras - Impresoras y mas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

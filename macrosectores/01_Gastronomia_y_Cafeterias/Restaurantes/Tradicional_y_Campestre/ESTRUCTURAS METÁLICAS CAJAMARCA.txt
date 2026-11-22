@@ -1,0 +1,17 @@
+Nombre: ESTRUCTURAS METÁLICAS CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Soldador
+Dirección: Agopampa, Cajamarca 06411
+Teléfono: 981 568 257
+Rating: 4.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.2864472
+Longitud: -78.5737146
+Google Maps: https://www.google.com/maps?cid=15550854685594737067
+Place Id: ChIJZb6tX-9DspERq9mX0PG7z9c
+Fotos: ESTRUCTURAS METÁLICAS CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

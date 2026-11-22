@@ -1,0 +1,17 @@
+Nombre: CompuCell
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Mayorista de accesorios electrónicos
+Dirección: Jr, Luis Reyna Farge #148, Cajamarca 06003
+Teléfono: 929 002 413
+Rating: 
+Reseñas: 
+Sitio web: https://compucell-1.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.166504499999999
+Longitud: -78.5078334
+Google Maps: https://www.google.com/maps?cid=7883898269153133290
+Place Id: ChIJdwG9f4RbspER6oIwgrQ7aW0
+Fotos: CompuCell.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

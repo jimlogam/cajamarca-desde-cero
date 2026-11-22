@@ -1,0 +1,17 @@
+Nombre: Empresa de Turismo Texas SRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de transporte
+Dirección: Av. Luis Rebaza Neyra 511, Cajamarca 06002
+Teléfono: 959 756 131
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1636123
+Longitud: -78.5005158
+Google Maps: https://www.google.com/maps?cid=11104575880649017510
+Place Id: ChIJ_SADbedbspERpoh0y-1gG5o
+Fotos: Empresa de Turismo Texas SRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

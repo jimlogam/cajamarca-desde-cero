@@ -1,0 +1,17 @@
+Nombre: Mágica Realidad
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de ocio
+Dirección: Jacarandá 500, Cajamarca 06001
+Teléfono: 965 410 882
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.152727
+Longitud: -78.5049878
+Google Maps: https://www.google.com/maps?cid=8138370899216216945
+Place Id: ChIJ7-1jLopbspERcbMowjZN8XA
+Fotos: Mágica Realidad.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

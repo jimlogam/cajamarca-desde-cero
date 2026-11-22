@@ -1,0 +1,17 @@
+Nombre: Bella Sauna Spa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Sauna
+Dirección: Juan Beato Macias 300-334, Cajamarca 06003
+Teléfono: 944 220 616
+Rating: 3.7
+Reseñas: 7
+Sitio web: 
+Latitud: -7.169372
+Longitud: -78.50005949999999
+Google Maps: https://www.google.com/maps?cid=6106352430269867126
+Place Id: ChIJdRvrU_lbspERdiSUty4fvlQ
+Fotos: Bella Sauna Spa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

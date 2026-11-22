@@ -1,0 +1,17 @@
+Nombre: METAL STEEL - Estructuras metálicas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Fabricante de estructuras metálicas, Fábrica
+Dirección: Jr. Señor de Huamantanga 387, Cajamarca 06003
+Teléfono: 930 551 655
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/profile.php?id=100028099249510&mibextid=ZbWKwL
+Latitud: -7.179891199999999
+Longitud: -78.4967217
+Google Maps: https://www.google.com/maps?cid=10204370521861405637
+Place Id: ChIJXXqCdgBbspERxTsEsOw0nY0
+Fotos: METAL STEEL - Estructuras metálicas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

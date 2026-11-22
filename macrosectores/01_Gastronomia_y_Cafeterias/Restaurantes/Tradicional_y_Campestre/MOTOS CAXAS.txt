@@ -1,0 +1,17 @@
+Nombre: MOTOS CAXAS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de repuestos para motos, Comercio
+Dirección: Av. Vía de Evitamiento Sur 129, Cajamarca 06001
+Teléfono: 962 089 820
+Rating: 
+Reseñas: 
+Sitio web: https://web.facebook.com/profile.php?id=100088951659129
+Latitud: -7.1597442
+Longitud: -78.505774
+Google Maps: https://www.google.com/maps?cid=14928060770077065072
+Place Id: ChIJy1mRhqVbspERcD_jmS0gK88
+Fotos: MOTOS CAXAS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

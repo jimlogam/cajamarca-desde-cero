@@ -1,0 +1,17 @@
+Nombre: JAVISKOB LOGISTICS SRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de informática
+Dirección: Jr. José Sabogal 938, Cajamarca 06002
+Teléfono: 936 932 126
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.156708
+Longitud: -78.5144755
+Google Maps: https://www.google.com/maps?cid=2641003156442575194
+Place Id: ChIJwY0m5_pbspERWvFxzmC6piQ
+Fotos: JAVISKOB LOGISTICS SRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

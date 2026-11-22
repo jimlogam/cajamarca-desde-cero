@@ -1,0 +1,17 @@
+Nombre: SERVICOM BROPHY EIRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de sellos de caucho, Librería, Librería infantil, Proveedor de sobres, Tienda de felicitaciones, Mercería, Societe de Flocage
+Dirección: Jr, El Inca 312, Cajamarca 06002
+Teléfono: 976 664 099
+Rating: 4
+Reseñas: 11
+Sitio web: 
+Latitud: -7.1585395
+Longitud: -78.5118627
+Google Maps: https://www.google.com/maps?cid=5083914876300127461
+Place Id: ChIJjwNwgfxaspER5Wwx7qSxjUY
+Fotos: SERVICOM BROPHY EIRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

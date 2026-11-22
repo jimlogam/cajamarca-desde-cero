@@ -1,0 +1,17 @@
+Nombre: Allincargo Encomiendas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: Auxiliar Vía Evitamiento 1462, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1700244
+Longitud: -78.4982984
+Google Maps: https://www.google.com/maps?cid=12033063590182236686
+Place Id: ChIJjTAqmRhbspERDrJ_1JQH_qY
+Fotos: Allincargo Encomiendas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

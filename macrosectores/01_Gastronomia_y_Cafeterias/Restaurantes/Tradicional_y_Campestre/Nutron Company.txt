@@ -1,0 +1,17 @@
+Nombre: Nutron Company
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: Jr, La Unión 215, Cajamarca 06002
+Teléfono: 947 160 349
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1561676
+Longitud: -78.5068012
+Google Maps: https://www.google.com/maps?cid=7848098061216912043
+Place Id: ChIJORqgjLBFspERqxJEDZsL6mw
+Fotos: Nutron Company.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Taller el "Wicho"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: Cinco Esquinas 156, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1638161
+Longitud: -78.5183369
+Google Maps: https://www.google.com/maps?cid=14558578719174723073
+Place Id: ChIJ78OTWgBbspERAYb43jV2Cso
+Fotos: Taller el Wicho.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: DAVID AR
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agentes inmobiliarios
+Dirección: 51, Cajamarca
+Teléfono: 976 776 968
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1601925
+Longitud: -78.5089349
+Google Maps: https://www.google.com/maps?cid=11526156657826289504
+Place Id: ChIJBw2rQ5NbspERYFc9f2ki9Z8
+Fotos: DAVID AR.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

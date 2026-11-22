@@ -1,0 +1,17 @@
+Nombre: El camping de urrelo Bar Restaurante El Palacio Marino
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Club deportivo
+Dirección: RFXR+493, Jr. Guillermo Urrelo, Cajamarca 06002
+Teléfono: 
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.152222699999999
+Longitud: -78.5090014
+Google Maps: https://www.google.com/maps?cid=2718440228285051680
+Place Id: ChIJrbS9IQBbspERIPMPFvzWuSU
+Fotos: El camping de urrelo Bar Restaurante El Palacio Marino.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: BAZAR CEL - ACCESORIOS PARA CELULARES Y TABLETS SERVICIO TECNICO EN GENERAL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de accesorios para móviles
+Dirección: Jr del Batán 404, Cajamarca 06001
+Teléfono: 
+Rating: 3
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1531344
+Longitud: -78.5185463
+Google Maps: https://www.google.com/maps?cid=12331749673262829738
+Place Id: ChIJ08g88vlaspERqtDezf0sI6s
+Fotos: BAZAR CEL - ACCESORIOS PARA CELULARES Y TABLETS SERVICIO TECNICO EN GENERAL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

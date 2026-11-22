@@ -1,0 +1,17 @@
+Nombre: Glitter Glow
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de estética, Service establishment
+Dirección: 
+Teléfono: 953 295 818
+Rating: 
+Reseñas: 
+Sitio web: https://instagram.com/glitterglow.pe?igshid=OGQ5ZDc2ODk2ZA==&utm_source=qr
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=10875572205576375886
+Place Id: ChIJvRpYhbxCIS0RTs59ukzL7ZY
+Fotos: Glitter Glow.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

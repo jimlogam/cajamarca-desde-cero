@@ -1,0 +1,17 @@
+Nombre: INVERSIONES FLOCHA E.I.R.L.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de registros contables
+Dirección: JIRON LA HUALANGA NRO. 172, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1487818
+Longitud: -78.5282392
+Google Maps: https://www.google.com/maps?cid=7280486618226718104
+Place Id: ChIJ3YqY3wNbspERmHVjbwF8CWU
+Fotos: INVERSIONES FLOCHA E.I.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

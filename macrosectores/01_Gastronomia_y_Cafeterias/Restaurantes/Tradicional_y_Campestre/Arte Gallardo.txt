@@ -1,0 +1,17 @@
+Nombre: Arte Gallardo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Ebanista
+Dirección: Av. Hoyos Rubio 1693, Cajamarca 06001
+Teléfono: 930 715 290
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1460325
+Longitud: -78.498896
+Google Maps: https://www.google.com/maps?cid=15928560276257179784
+Place Id: ChIJCRw7DgBbspERiAi1mS2dDd0
+Fotos: Arte Gallardo.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

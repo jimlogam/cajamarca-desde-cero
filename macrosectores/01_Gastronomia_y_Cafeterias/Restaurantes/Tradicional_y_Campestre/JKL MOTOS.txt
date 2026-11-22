@@ -1,0 +1,17 @@
+Nombre: JKL MOTOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Concesionario de motos
+Dirección: AL COSTADO DEL GINMASIO IMPERIO, Vía de Evitamiento Nte. CUADRA 2517, Cajamarca 06002
+Teléfono: 993 853 999
+Rating: 
+Reseñas: 
+Sitio web: https://www.tiktok.com/@jklmotos?_t=ZM-8vsnxvjbBjh&_r=1
+Latitud: -7.1585123
+Longitud: -78.50627759999999
+Google Maps: https://www.google.com/maps?cid=12190448663753384735
+Place Id: ChIJL8uIeABbspERH-Onz3gsLak
+Fotos: JKL MOTOS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

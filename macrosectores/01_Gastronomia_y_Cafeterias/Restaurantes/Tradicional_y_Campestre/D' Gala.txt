@@ -1,0 +1,17 @@
+Nombre: D' Gala
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón para eventos
+Dirección: VG33+M63, Av. Rafael Hoyos Rubio, Cajamarca 06001
+Teléfono: 960 182 988
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.145872499999999
+Longitud: -78.49695779999999
+Google Maps: https://www.google.com/maps?cid=7689526118460079361
+Place Id: ChIJ25x_edxbspERAb3mjUOvtmo
+Fotos: D' Gala.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

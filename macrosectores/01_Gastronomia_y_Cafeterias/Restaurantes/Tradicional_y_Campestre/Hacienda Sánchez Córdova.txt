@@ -1,0 +1,17 @@
+Nombre: Hacienda Sánchez Córdova
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Sala de banquetes
+Dirección: Av. Huamán 830, Víctor Larco Herrera 13009
+Teléfono: 
+Rating: 4.3
+Reseñas: 53
+Sitio web: 
+Latitud: -8.1361841
+Longitud: -79.0334099
+Google Maps: https://www.google.com/maps?cid=13344452024654794805
+Place Id: ChIJlY35TGg9rZERNZDKG2oEMbk
+Fotos: Hacienda Sánchez Córdova.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

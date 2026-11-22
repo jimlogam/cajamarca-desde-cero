@@ -1,0 +1,17 @@
+Nombre: ATI TOURS PERU
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: Jr. La Mar N ° 435, Cajamarca
+Teléfono: (076) 367014
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.157683
+Longitud: -78.5209667
+Google Maps: https://www.google.com/maps?cid=17185949999370346185
+Place Id: ChIJw2B9HFZaspERyR4YKHjCgO4
+Fotos: ATI TOURS PERU.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Servicio técnico automotriz ELECTROCHELAS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Jr. Barrantes Lingan 222, Cajamarca 06002
+Teléfono: 987 636 339
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1797550999999995
+Longitud: -78.506123
+Google Maps: https://www.google.com/maps?cid=4601359911710833528
+Place Id: ChIJcczVu5dbspEReDs_7XVQ2z8
+Fotos: Servicio técnico automotriz ELECTROCHELAS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

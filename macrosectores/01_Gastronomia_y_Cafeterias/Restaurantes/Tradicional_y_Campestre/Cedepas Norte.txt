@@ -1,0 +1,17 @@
+Nombre: Cedepas Norte
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: Los Sauces 558, Cajamarca 06001
+Teléfono: (076) 365628
+Rating: 4.2
+Reseñas: 12
+Sitio web: http://cedepas.org.pe/
+Latitud: -7.149159399999999
+Longitud: -78.51359599999999
+Google Maps: https://www.google.com/maps?cid=4169168268933495999
+Place Id: ChIJ-XM9FfFaspERv3ycjnPc2zk
+Fotos: Cedepas Norte.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

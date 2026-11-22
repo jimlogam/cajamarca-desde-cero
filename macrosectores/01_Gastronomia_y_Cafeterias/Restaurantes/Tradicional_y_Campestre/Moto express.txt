@@ -1,0 +1,17 @@
+Nombre: Moto express
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Concesionario de motos
+Dirección: Jirón Sucre 433, Cajamarca 06002
+Teléfono: 900 227 062
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.166725199999999
+Longitud: -78.50980679999999
+Google Maps: https://www.google.com/maps?cid=7100100490682958257
+Place Id: ChIJaSoL8_9bspERsQG8QMefiGI
+Fotos: Moto express.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

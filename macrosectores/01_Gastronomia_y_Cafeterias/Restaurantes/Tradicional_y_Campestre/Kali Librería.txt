@@ -1,0 +1,17 @@
+Nombre: Kali Librería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: Av San Martín de Porres 1935, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1789895999999995
+Longitud: -78.4940819
+Google Maps: https://www.google.com/maps?cid=1781447872542130910
+Place Id: ChIJpbqGJuVbspER3sK_zGb5uBg
+Fotos: Kali Librería.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

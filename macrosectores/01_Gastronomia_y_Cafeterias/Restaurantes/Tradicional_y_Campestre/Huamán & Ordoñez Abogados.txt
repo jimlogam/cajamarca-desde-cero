@@ -1,0 +1,17 @@
+Nombre: Huamán & Ordoñez Abogados
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Abogado, Bufete
+Dirección: Av. Luis Rebaza Neyra 609, Cajamarca 06002
+Teléfono: 925 452 820
+Rating: 3.8
+Reseñas: 4
+Sitio web: http://www.facebook.com/huamanyordonezabogados
+Latitud: -7.1629197
+Longitud: -78.4995692
+Google Maps: https://www.google.com/maps?cid=1050755139501558502
+Place Id: ChIJm2Q5rB1bspER5groczsIlQ4
+Fotos: Huamán & Ordoñez Abogados.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

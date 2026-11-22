@@ -1,0 +1,17 @@
+Nombre: Estudio Jurídico Ventura Abogados EIRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicios legales
+Dirección: VF2R+X7H, San Cristóbal, Cajamarca 06001
+Teléfono: 957 387 741
+Rating: 
+Reseñas: 
+Sitio web: http://www.estudioventura.pe/
+Latitud: -7.1475689
+Longitud: -78.5092569
+Google Maps: https://www.google.com/maps?cid=12069570115273229984
+Place Id: ChIJWxC7a89bspERoAaIkBK6f6c
+Fotos: Estudio Jurídico Ventura Abogados EIRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

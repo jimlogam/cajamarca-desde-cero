@@ -1,0 +1,17 @@
+Nombre: Belleza Bohemia | Productos de maquillaje y cuidado personal
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de cosméticos, Service establishment, Perfumería
+Dirección: 
+Teléfono: 901 794 338
+Rating: 5
+Reseñas: 6
+Sitio web: https://esika.tiendabelcorp.com.pe/maquillaje/c?utmi_cp=judipalomino
+Latitud: -9.2435385
+Longitud: -75.01950459999999
+Google Maps: https://www.google.com/maps?cid=3452246006333926248
+Place Id: ChIJTfVH3Sldq44RaGvLtHPX6C8
+Fotos: Belleza Bohemia - Productos de maquillaje y cuidado personal.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

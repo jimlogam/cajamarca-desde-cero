@@ -1,0 +1,17 @@
+Nombre: MotoServis L&C
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de repuestos para motos
+Dirección: Jr. Conquistadores 229, Cajamarca 06001
+Teléfono: 952 448 808
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/share/15CxPSdQTGf/?mibextid=wwXIfr
+Latitud: -7.175736
+Longitud: -78.4945824
+Google Maps: https://www.google.com/maps?cid=11915484931067424819
+Place Id: ChIJ2RO1bFZbspERMzDL8mlOXKU
+Fotos: MotoServis L&C.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

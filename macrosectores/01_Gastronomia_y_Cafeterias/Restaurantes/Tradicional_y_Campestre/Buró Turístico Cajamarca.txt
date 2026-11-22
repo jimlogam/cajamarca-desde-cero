@@ -1,0 +1,17 @@
+Nombre: Buró Turístico Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de visitas turísticas
+Dirección: Jirón, Jr del Batán 169, Cajamarca
+Teléfono: 978 711 116
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/BuroTuristicoCajamarca
+Latitud: -7.156017299999999
+Longitud: -78.5174335
+Google Maps: https://www.google.com/maps?cid=9085400047582471528
+Place Id: ChIJW63vpR1bspERaGV47jTTFX4
+Fotos: Buró Turístico Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Servicios Generales VIGO ACUÑA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de transporte
+Dirección: Jr, Arnaldo Márquez 246, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.151987
+Longitud: -78.509322
+Google Maps: https://www.google.com/maps?cid=9939810997838213141
+Place Id: ChIJKzMCwxtbspERFfCqbHBN8Yk
+Fotos: Servicios Generales VIGO ACUÑA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

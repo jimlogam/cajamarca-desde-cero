@@ -1,0 +1,17 @@
+Nombre: Paneles Publicitarios Cajamarca - Nova Imagen
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de publicidad
+Dirección: Pje. de las Artes 139, Cajamarca 06001
+Teléfono: 968 889 909
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.147874799999999
+Longitud: -78.52141189999999
+Google Maps: https://www.google.com/maps?cid=17864785489899458161
+Place Id: ChIJn9QPmbFbspERcY4CWsB37Pc
+Fotos: Paneles Publicitarios Cajamarca - Nova Imagen.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+
