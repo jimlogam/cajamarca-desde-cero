@@ -1,0 +1,15 @@
+Nombre: Bar cajamarca Plaza Central
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: Lecciones prado 358, Cajamarca 06002
+Teléfono: 
+Rating: 4.6
+Reseñas: 326
+Sitio web: 
+Latitud: -7.1574854
+Longitud: -78.5093514
+Google Maps: https://www.google.com/maps?cid=5527011329541494563
+Place Id: ChIJH6ARgWdbspERI1fhVoXjs0w
+Fotos: Bar cajamarca Plaza Central.jpg

@@ -1,0 +1,16 @@
+Nombre: Cevicheria la MARgaracha
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante familiar
+Dirección: Av. Mártires de Uchuraccay 840, Cajamarca 06003
+Teléfono: 974 391 238
+Rating: 4.1
+Reseñas: 122
+Sitio web: https://www.facebook.com/margarachamarina?mibextid=LQQJ4d
+Latitud: -7.169735999999999
+Longitud: -78.5017409
+Google Maps: https://www.google.com/maps?cid=15298724963185801602
+Place Id: ChIJicccIeBaspERgjkXQ0z9T9Q
+Fotos: Cevicheria la MARgaracha.jpg, Cevicheria la MARgaracha-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

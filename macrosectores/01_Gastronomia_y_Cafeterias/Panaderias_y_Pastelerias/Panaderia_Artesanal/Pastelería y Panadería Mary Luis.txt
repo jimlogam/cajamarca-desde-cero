@@ -1,0 +1,15 @@
+Nombre: Pastelería y Panadería Mary Luis
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Pastelería, Panadería
+Dirección: 06001, Cajamarca 06001
+Teléfono: 920 482 347
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.157889699999999
+Longitud: -78.5165404
+Google Maps: https://www.google.com/maps?cid=5727466381974076568
+Place Id: ChIJ1fJjv21bspERmHyOOFQMfE8
+Fotos: Pastelería y Panadería Mary Luis.jpg

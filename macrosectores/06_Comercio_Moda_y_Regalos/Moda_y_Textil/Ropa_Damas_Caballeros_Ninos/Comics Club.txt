@@ -1,0 +1,15 @@
+Nombre: Comics Club
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Jirón Marañón 356, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1525298
+Longitud: -78.51926019999999
+Google Maps: https://www.google.com/maps?cid=367501698941783491
+Place Id: ChIJawwSQQtbspERww3HG9mgGQU
+Fotos: Comics Club.jpg

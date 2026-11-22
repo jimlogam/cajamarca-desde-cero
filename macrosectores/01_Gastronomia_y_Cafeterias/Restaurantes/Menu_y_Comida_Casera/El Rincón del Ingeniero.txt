@@ -1,0 +1,15 @@
+Nombre: "El Rincón del Ingeniero"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante de desayunos
+Dirección: RGJ3+C5H, Cajamarca 06003
+Teléfono: 915 973 792
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1689419
+Longitud: -78.4970123
+Google Maps: https://www.google.com/maps?cid=13789003735284191647
+Place Id: ChIJo7kbKABbspERnxEmCNdhXL8
+Fotos: El Rincón del Ingeniero.jpg

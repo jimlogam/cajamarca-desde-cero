@@ -1,0 +1,15 @@
+Nombre: Charme Rooftop Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Bar restaurante
+Dirección: 060001, Cajamarca 06001
+Teléfono: 901 460 772
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.165369999999999
+Longitud: -78.49686129999999
+Google Maps: https://www.google.com/maps?cid=13049585431596049144
+Place Id: ChIJUd-r2IFbspER-CJldM9wGbU
+Fotos: Charme Rooftop Cajamarca.jpg

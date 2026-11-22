@@ -1,0 +1,16 @@
+Nombre: Chifa Food Loy
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante
+Dirección: Av. Luis Rebaza Neyra 544, Cajamarca 06002
+Teléfono: 977 119 168
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.163568799999999
+Longitud: -78.50020649999999
+Google Maps: https://www.google.com/maps?cid=11476404774687968173
+Place Id: ChIJge8qKQBbspERrYvfhVZhRJ8
+Fotos: Chifa Food Loy.jpg, Chifa Food Loy-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

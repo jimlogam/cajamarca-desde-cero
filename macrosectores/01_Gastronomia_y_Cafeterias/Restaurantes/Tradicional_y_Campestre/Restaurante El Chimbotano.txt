@@ -1,0 +1,15 @@
+Nombre: Restaurante El Chimbotano
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av. Mario Urteaga 375, Cajamarca 06002
+Teléfono: (076) 600279
+Rating: 3.8
+Reseñas: 82
+Sitio web: 
+Latitud: -7.1604765
+Longitud: -78.5082505
+Google Maps: https://www.google.com/maps?cid=16827054103269641885
+Place Id: ChIJab42I-NaspERnY6qqY20hek
+Fotos: Restaurante El Chimbotano.jpg

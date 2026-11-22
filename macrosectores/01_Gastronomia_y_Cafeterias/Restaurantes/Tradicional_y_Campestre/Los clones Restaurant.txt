@@ -1,0 +1,16 @@
+Nombre: Los clones Restaurant
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Av Vía de Evitamiento 2212, Cajamarca 06001
+Teléfono: 906 619 323
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1554584
+Longitud: -78.5089107
+Google Maps: https://www.google.com/maps?cid=3765950399960620309
+Place Id: ChIJBwpMbB1bspERFZ1kl-9XQzQ
+Fotos: Los clones Restaurant.jpg, Los clones Restaurant-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

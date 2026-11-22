@@ -1,0 +1,15 @@
+Nombre: Ceviche de caballita
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. Independencia 249, Cajamarca 06003
+Teléfono: 976 972 128
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1649777
+Longitud: -78.51132199999999
+Google Maps: https://www.google.com/maps?cid=7601276822969076483
+Place Id: ChIJI8uNegpbspERA0t7SP8ofWk
+Fotos: Ceviche de caballita.jpg

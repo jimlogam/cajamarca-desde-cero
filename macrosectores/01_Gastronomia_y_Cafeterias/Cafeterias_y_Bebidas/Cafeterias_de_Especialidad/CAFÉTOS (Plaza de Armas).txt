@@ -1,0 +1,15 @@
+Nombre: CAFÉTOS (Plaza de Armas)
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: San Martín 360, Cajamarca 06002
+Teléfono: 
+Rating: 4.5
+Reseñas: 44
+Sitio web: 
+Latitud: -7.157843
+Longitud: -78.5181923
+Google Maps: https://www.google.com/maps?cid=10366553457726728834
+Place Id: ChIJr3NcZgBbspERgirmCHJl3Y8
+Fotos: CAFÉTOS (Plaza de Armas).jpg

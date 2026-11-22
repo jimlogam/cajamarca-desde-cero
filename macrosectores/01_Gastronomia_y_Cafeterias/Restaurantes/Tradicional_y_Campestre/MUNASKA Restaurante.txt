@@ -1,0 +1,16 @@
+Nombre: MUNASKA Restaurante
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jr, Cápac Yupanqui 330, 06004
+Teléfono: 943 588 565
+Rating: 4
+Reseñas: 57
+Sitio web: 
+Latitud: -7.1657687999999995
+Longitud: -78.46450159999999
+Google Maps: https://www.google.com/maps?cid=8806276509433457579
+Place Id: ChIJ369c1_JFspERq-ul4tMtNno
+Fotos: MUNASKA Restaurante.jpg, MUNASKA Restaurante-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

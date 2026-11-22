@@ -1,0 +1,15 @@
+Nombre: Vintage Restobar Cafe
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Restaurante, Cafetería
+Dirección: Prol. Amalia Puga 233, Cajamarca 06001
+Teléfono: 988 880 720
+Rating: 4.2
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1529038
+Longitud: -78.5219578
+Google Maps: https://www.google.com/maps?cid=11365554397510412208
+Place Id: ChIJv_FEIgBbspERsKf82oGPup0
+Fotos: Vintage Restobar Cafe.jpg

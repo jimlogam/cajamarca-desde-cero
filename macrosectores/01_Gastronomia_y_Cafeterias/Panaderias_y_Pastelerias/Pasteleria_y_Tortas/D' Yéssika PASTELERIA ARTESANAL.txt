@@ -1,0 +1,15 @@
+Nombre: D' Yéssika PASTELERIA ARTESANAL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Servicio de catering, Pastelería
+Dirección: Héroes del Cenepa 165, Cajamarca 06002
+Teléfono: 976 356 835
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.163481699999999
+Longitud: -78.5020681
+Google Maps: https://www.google.com/maps?cid=8790471711163222216
+Place Id: ChIJU-imgIpbspERyAgBiHIH_nk
+Fotos: D' Yéssika PASTELERIA ARTESANAL.jpg

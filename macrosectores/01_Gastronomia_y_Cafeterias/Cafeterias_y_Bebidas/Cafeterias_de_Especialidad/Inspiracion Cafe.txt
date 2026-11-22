@@ -1,0 +1,15 @@
+Nombre: Inspiracion Cafe
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jr.Amazonas 763, Cajamarca 06001
+Teléfono: 976 330 554
+Rating: 4.2
+Reseñas: 31
+Sitio web: https://www.instagram.com/inspiracaxascafe/
+Latitud: -7.1569607
+Longitud: -78.51557749999999
+Google Maps: https://www.google.com/maps?cid=17454959714151705403
+Place Id: ChIJTXMFvstbspEROyvEMmF5PPI
+Fotos: Inspiracion Cafe.jpg

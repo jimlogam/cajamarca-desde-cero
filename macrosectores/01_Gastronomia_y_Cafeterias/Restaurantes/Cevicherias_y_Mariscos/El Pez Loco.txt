@@ -1,0 +1,16 @@
+Nombre: El Pez Loco
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Jirón Cruz de Piedra 631, Cajamarca 06001
+Teléfono: 976 582 299
+Rating: 4.3
+Reseñas: 954
+Sitio web: http://www.elpezloco.com/
+Latitud: -7.1577008
+Longitud: -78.5188694
+Google Maps: https://www.google.com/maps?cid=17110357281548085025
+Place Id: ChIJF4FCw_haspERISexAkszdO0
+Fotos: El Pez Loco.jpg, El Pez Loco-1.jpg, El Pez Loco-2.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

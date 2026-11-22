@@ -1,0 +1,15 @@
+Nombre: Cevicholo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Jirón Húsares de Junín 248, Cajamarca 06003
+Teléfono: 961 948 844
+Rating: 4.8
+Reseñas: 9
+Sitio web: 
+Latitud: -7.169713
+Longitud: -78.50491939999999
+Google Maps: https://www.google.com/maps?cid=11902697599257311964
+Place Id: ChIJ6YbKo8FbspER3HqgQGfgLqU
+Fotos: Cevicholo.jpg

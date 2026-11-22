@@ -1,0 +1,15 @@
+Nombre: Golden Men - Club
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
+Categoría Maps: Club nocturno
+Dirección: Av. Independencia 1181-1296, Cajamarca 06003
+Teléfono: 947 383 878
+Rating: 3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1755505
+Longitud: -78.5122111
+Google Maps: https://www.google.com/maps?cid=1581546035209053006
+Place Id: ChIJMTOHnw9bspERTiOQWL3H8hU
+Fotos: Golden Men - Club.jpg

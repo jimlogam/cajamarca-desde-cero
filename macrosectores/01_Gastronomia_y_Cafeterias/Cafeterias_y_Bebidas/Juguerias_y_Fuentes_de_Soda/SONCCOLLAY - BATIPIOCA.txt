@@ -1,0 +1,15 @@
+Nombre: SONCCOLLAY - BATIPIOCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante de comida rápida, Tienda de zumos
+Dirección: Jirón del Comercio 235, Cajamarca 06001
+Teléfono: 900 826 853
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.154526
+Longitud: -78.52148
+Google Maps: https://www.google.com/maps?cid=5417119971479851390
+Place Id: ChIJma3MWQdbspERfhG7tel5LUs
+Fotos: SONCCOLLAY - BATIPIOCA.jpg

@@ -1,0 +1,15 @@
+Nombre: " Panadería y Pastelería Espiga Dorada "
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av San Martín de Porres 1329, Cajamarca 06003
+Teléfono: 993 109 969
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.173261699999999
+Longitud: -78.4987529
+Google Maps: https://www.google.com/maps?cid=15132378882559112292
+Place Id: ChIJVYJmnh5bspERZPSOPWsCAdI
+Fotos: Panadería y Pastelería Espiga Dorada.jpg

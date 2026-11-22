@@ -1,0 +1,16 @@
+Nombre: Restaurante Marisquería "Campo Real"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Cajamarca 06001
+Teléfono: 982 029 987
+Rating: 4.8
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1348047
+Longitud: -78.5113081
+Google Maps: https://www.google.com/maps?cid=16252703168885939566
+Place Id: ChIJaZaBAudbspERbt1P7WszjeE
+Fotos: Restaurante Marisquería Campo Real.jpg, Restaurante Marisquería Campo Real-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

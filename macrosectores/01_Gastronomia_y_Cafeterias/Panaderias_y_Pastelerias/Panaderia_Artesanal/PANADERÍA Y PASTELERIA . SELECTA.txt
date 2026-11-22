@@ -1,0 +1,15 @@
+Nombre: PANADERÍA Y PASTELERIA . SELECTA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: RFHV+6FW, Argentina, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1718759
+Longitud: -78.5063033
+Google Maps: https://www.google.com/maps?cid=13660370171972563599
+Place Id: ChIJSYz-TRpbspERjzLEsEtik70
+Fotos: PANADERÍA Y PASTELERIA . SELECTA.jpg

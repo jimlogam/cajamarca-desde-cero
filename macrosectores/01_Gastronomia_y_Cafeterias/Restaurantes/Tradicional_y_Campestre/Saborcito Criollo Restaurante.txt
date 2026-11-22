@@ -1,0 +1,16 @@
+Nombre: Saborcito Criollo | Restaurante
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Colonial 140, Cajamarca 06000
+Teléfono: 925 306 530
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1735355
+Longitud: -78.4979615
+Google Maps: https://www.google.com/maps?cid=5228839028013007807
+Place Id: ChIJb2vnBcpbspERvwNqdGSRkEg
+Fotos: Saborcito Criollo Restaurante.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

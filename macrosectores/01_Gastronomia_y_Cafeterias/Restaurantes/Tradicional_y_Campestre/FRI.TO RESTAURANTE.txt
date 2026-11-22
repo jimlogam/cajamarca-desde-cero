@@ -1,0 +1,16 @@
+Nombre: FRI.TO RESTAURANTE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: 51, Cajamarca 06001
+Teléfono: 949 965 995
+Rating: 3.9
+Reseñas: 318
+Sitio web: 
+Latitud: -7.1577217
+Longitud: -78.5177236
+Google Maps: https://www.google.com/maps?cid=5527507644112421200
+Place Id: ChIJ-WZZUltbspERUMGTlOqmtUw
+Fotos: FRI.TO RESTAURANTE.jpg, FRI.TO RESTAURANTE-1.jpg, FRI.TO RESTAURANTE-2.jpg, FRI.TO RESTAURANTE-3.jpg
+Nota: Aparecia 5 veces en los 5 archivos; fusionado en uno.

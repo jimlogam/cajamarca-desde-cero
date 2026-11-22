@@ -1,0 +1,16 @@
+Nombre: COPETE - Pan con chicharrón
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Barrio San Martín, Colonial 198, Cajamarca 06002
+Teléfono: 918 343 454
+Rating: 4.2
+Reseñas: 36
+Sitio web: 
+Latitud: -7.1731824
+Longitud: -78.49769359999999
+Google Maps: https://www.google.com/maps?cid=2703152810617745590
+Place Id: ChIJXdC5oiBbspERtjB4yiiHgyU
+Fotos: COPETE - Pan con chicharrón.jpg, COPETE - Pan con chicharrón-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

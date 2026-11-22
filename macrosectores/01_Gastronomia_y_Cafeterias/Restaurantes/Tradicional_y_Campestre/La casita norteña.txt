@@ -1,0 +1,16 @@
+Nombre: La casita norteña
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Arnaldo Márquez 458, Av. Industrial 719, Cajamarca 06002
+Teléfono: 976 555 592
+Rating: 4.1
+Reseñas: 180
+Sitio web: https://www.instagram.com/lacasitanortena?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+Latitud: -7.1512496
+Longitud: -78.5076843
+Google Maps: https://www.google.com/maps?cid=3768325025461958107
+Place Id: ChIJp3UpKvFbspER2_XfLKXHSzQ
+Fotos: La casita norteña.jpg, La casita norteña-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,16 @@
+Nombre: Noventainueve Sushi Lounge
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante japonés
+Dirección: Jr, Delfín Cerna 141, Cajamarca 06002
+Teléfono: (076) 362928
+Rating: 4.1
+Reseñas: 352
+Sitio web: https://www.facebook.com/NoventainueveSushiLounge
+Latitud: -7.1514508999999995
+Longitud: -78.5106861
+Google Maps: https://www.google.com/maps?cid=1015240236233285442
+Place Id: ChIJl_6RwP5aspERQl9eqp3bFg4
+Fotos: Noventainueve Sushi Lounge.jpg, Noventainueve Sushi Lounge-1.jpg, Noventainueve Sushi Lounge-2.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

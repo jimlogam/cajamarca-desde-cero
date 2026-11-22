@@ -1,0 +1,16 @@
+Nombre: Daspue
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante, Hotel
+Dirección: RGRM+Q6X, Av. Lizandro Caballero, Cajamarca 06001
+Teléfono: 959 737 769
+Rating: 4.3
+Reseñas: 237
+Sitio web: 
+Latitud: -7.1577277
+Longitud: -78.4671832
+Google Maps: https://www.google.com/maps?cid=9307621086744265
+Place Id: ChIJRacuFH1FspERyU6UaDsRIQA
+Fotos: Daspue.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,16 @@
+Nombre: Chifa restaurante Henko
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante de fusión
+Dirección: Vía de Evitamiento Nte. Lt 4 S/N, Cajamarca 06002
+Teléfono: 952 464 648
+Rating: 4.8
+Reseñas: 4
+Sitio web: https://cartahenko2027.netlify.app/?utm_source=qr&%20%20utm_medium=qr
+Latitud: -7.153555099999999
+Longitud: -78.5061044
+Google Maps: https://www.google.com/maps?cid=17797473672232838622
+Place Id: ChIJuZ2WLWhbspER3iXOhAJU_fY
+Fotos: Chifa restaurante Henko.jpg, Chifa restaurante Henko-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

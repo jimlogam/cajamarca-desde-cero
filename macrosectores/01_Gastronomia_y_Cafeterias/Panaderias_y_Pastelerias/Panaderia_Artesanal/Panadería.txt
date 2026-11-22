@@ -1,0 +1,15 @@
+Nombre: Panadería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Cajamarca 06002
+Teléfono: 
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1636334999999995
+Longitud: -78.517606
+Google Maps: https://www.google.com/maps?cid=5062498100494852071
+Place Id: ChIJlVXxvcRbspER598VPDObQUY
+Fotos: Panadería.jpg

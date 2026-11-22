@@ -1,0 +1,16 @@
+Nombre: Dragón rojo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: RFHX+4VC, Av San Martín de Porres, Cajamarca 06001
+Teléfono: 928 029 469
+Rating: 3.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1721825
+Longitud: -78.5003535
+Google Maps: https://www.google.com/maps?cid=15038559603525633602
+Place Id: ChIJo1WNDQBbspERQkavHUiys9A
+Fotos: Dragón rojo.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

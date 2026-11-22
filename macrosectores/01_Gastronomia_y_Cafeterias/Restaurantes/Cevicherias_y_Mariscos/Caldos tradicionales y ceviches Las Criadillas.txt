@@ -1,0 +1,15 @@
+Nombre: Caldos tradicionales y ceviches "Las Criadillas"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Jr, Amalia Puga 148, Cajamarca 06002
+Teléfono: 
+Rating: 4.3
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1542227
+Longitud: -78.5206278
+Google Maps: https://www.google.com/maps?cid=17033193086797157622
+Place Id: ChIJfwV0bo9bspER9hQv4d0OYuw
+Fotos: Caldos tradicionales y ceviches Las Criadillas.jpg

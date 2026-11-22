@@ -1,0 +1,15 @@
+Nombre: Panadería Chota
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería, Pastelería
+Dirección: Alexander Von Humboldt 387, Cajamarca 06002
+Teléfono: 972 128 346
+Rating: 4.7
+Reseñas: 13
+Sitio web: 
+Latitud: -7.1497869
+Longitud: -78.50775019999999
+Google Maps: https://www.google.com/maps?cid=5161306946677744576
+Place Id: ChIJafmd6R1bspERwKN7fVKloEc
+Fotos: Panadería Chota.jpg

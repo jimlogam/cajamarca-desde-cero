@@ -1,0 +1,15 @@
+Nombre: Restaurante Cevicheria "El Punto Marino"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. Atahualpa 895, Cajamarca 06001
+Teléfono: 944 585 744
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1653443999999995
+Longitud: -78.4980309
+Google Maps: https://www.google.com/maps?cid=13424356141336547366
+Place Id: ChIJ-Vea1-dbspERJtCyBsnkTLo
+Fotos: Restaurante Cevicheria El Punto Marino.jpg

@@ -1,0 +1,15 @@
+Nombre: Fábrica Original de Productos Lácteos Agua Blanca
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Tienda de productos lácteos, Tienda de bagels, Quesería
+Dirección: Jr.Amazonas 480, Cajamarca 06001
+Teléfono: 949 050 284
+Rating: 4.4
+Reseñas: 13
+Sitio web: https://quesosaguablancacajamarca.com/
+Latitud: -7.1550704
+Longitud: -78.51809999999999
+Google Maps: https://www.google.com/maps?cid=1781500172518807196
+Place Id: ChIJ_aMujo9bspERnNZH1vcouRg
+Fotos: Fábrica Original de Productos Lácteos Agua Blanca.jpg

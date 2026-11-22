@@ -1,0 +1,16 @@
+Nombre: El Castope
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Cajamarca 06001
+Teléfono: (076) 361353
+Rating: 4.1
+Reseñas: 1350
+Sitio web: https://www.instagram.com/castoperestaurantfonavi2?igsh=bWtpdzh4M3gwNjdv
+Latitud: -7.1471542999999995
+Longitud: -78.5075957
+Google Maps: https://www.google.com/maps?cid=4058048963869392328
+Place Id: ChIJW3M83O1aspERyL2TPAgWUTg
+Fotos: El Castope.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

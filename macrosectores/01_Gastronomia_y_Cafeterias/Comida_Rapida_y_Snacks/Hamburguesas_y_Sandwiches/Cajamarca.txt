@@ -1,0 +1,15 @@
+Nombre: Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: Av Vía de Evitamiento Nte 2053, Cajamarca 06001
+Teléfono: 
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1478969
+Longitud: -78.5073147
+Google Maps: https://www.google.com/maps?cid=7048456048726795885
+Place Id: ChIJA1_lbABbspERbWZQl24l0WE
+Fotos: Cajamarca.jpg

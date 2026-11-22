@@ -1,0 +1,15 @@
+Nombre: Panaderia San Lorenzo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Jr, Miguel Grau 649, Cajamarca 06000
+Teléfono: 910 571 605
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.156539899999999
+Longitud: -78.5109045
+Google Maps: https://www.google.com/maps?cid=16501408743549757159
+Place Id: ChIJ2w6vxiJbspER5-bO9NLHAOU
+Fotos: Panaderia San Lorenzo.jpg

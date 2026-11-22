@@ -1,0 +1,16 @@
+Nombre: ARCÁNGEL Restaurante
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Prol. Revilla Perez 561, Cajamarca 06000
+Teléfono: 969 700 249
+Rating: 4.3
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1440934
+Longitud: -78.5107972
+Google Maps: https://www.google.com/maps?cid=13129534457610441115
+Place Id: ChIJDyy05FRbspERmxEfpAZ6NbY
+Fotos: ARCÁNGEL Restaurante.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

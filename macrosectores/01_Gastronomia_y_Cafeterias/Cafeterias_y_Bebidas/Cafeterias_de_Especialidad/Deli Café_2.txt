@@ -1,0 +1,15 @@
+Nombre: Deli Café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jr. Sor Manuela Gil 202, Cajamarca 06001
+Teléfono: 954 892 584
+Rating: 4.7
+Reseñas: 17
+Sitio web: 
+Latitud: -7.1480929
+Longitud: -78.50932519999999
+Google Maps: https://www.google.com/maps?cid=108616948272505103
+Place Id: ChIJAQDw6PFaspERD6Fe-onigQE
+Fotos: Deli Café_2.jpg

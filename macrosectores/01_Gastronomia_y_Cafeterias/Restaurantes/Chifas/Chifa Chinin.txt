@@ -1,0 +1,16 @@
+Nombre: Chifa Chinin
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: Av. Hoyos Rubio 396, Cajamarca 06002
+Teléfono: 927 436 686
+Rating: 5
+Reseñas: 8
+Sitio web: https://www.facebook.com/share/18yJN5hQNH/?mibextid=qi2Omg
+Latitud: -7.1517214
+Longitud: -78.5118547
+Google Maps: https://www.google.com/maps?cid=420959627474856604
+Place Id: ChIJfUhoUwBbspERnGprBI2M1wU
+Fotos: Chifa Chinin.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

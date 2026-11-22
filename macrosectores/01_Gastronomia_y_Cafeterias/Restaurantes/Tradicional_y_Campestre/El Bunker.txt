@@ -1,0 +1,15 @@
+Nombre: El Bunker
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante con sala de baile
+Dirección: Colonial 406, Cajamarca 06003
+Teléfono: 986 032 465
+Rating: 4.2
+Reseñas: 64
+Sitio web: https://sites.google.com/view/bunkerdiscokaraoke/p%C3%A1gina-principal?authuser=0
+Latitud: -7.1719962
+Longitud: -78.4964294
+Google Maps: https://www.google.com/maps?cid=3486776032615596
+Place Id: ChIJ68z0i1NbspERrNzVTjRjDAA
+Fotos: El Bunker.jpg

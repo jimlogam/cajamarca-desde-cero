@@ -1,0 +1,15 @@
+Nombre: Restaurant Polleria Chifa Nicol
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante
+Dirección: Tahuantinsuyo 835, Cajamarca 06003
+Teléfono: 924 049 406
+Rating: 3.8
+Reseñas: 15
+Sitio web: 
+Latitud: -7.177412599999999
+Longitud: -78.50049179999999
+Google Maps: https://www.google.com/maps?cid=17387790008557062020
+Place Id: ChIJT0O2kcpbspERhEchaePWTfE
+Fotos: Restaurant Polleria Chifa Nicol.jpg

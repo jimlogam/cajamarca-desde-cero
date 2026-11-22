@@ -1,0 +1,16 @@
+Nombre: Cebicheria 940
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. La Cantuta 940, Cajamarca 06002
+Teléfono: 
+Rating: 4.9
+Reseñas: 11
+Sitio web: 
+Latitud: -7.162854299999999
+Longitud: -78.49911
+Google Maps: https://www.google.com/maps?cid=5601374111765807993
+Place Id: ChIJP0b8MQBbspERecPeyRMUvE0
+Fotos: Cebicheria 940.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

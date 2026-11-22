@@ -1,0 +1,15 @@
+Nombre: Panadería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: RFHW+G8V, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1711392
+Longitud: -78.5042131
+Google Maps: https://www.google.com/maps?cid=2583598581053716333
+Place Id: ChIJxVZpJwBbspERbffokTjJ2iM
+Fotos: Panadería_2.jpg

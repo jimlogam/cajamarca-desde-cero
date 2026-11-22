@@ -1,0 +1,16 @@
+Nombre: SORBOS [sorbos emolienteria]
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Pub restaurante
+Dirección: 51, Cajamarca 06001
+Teléfono: 947 598 967
+Rating: 4.6
+Reseñas: 44
+Sitio web: 
+Latitud: -7.1572565
+Longitud: -78.5184525
+Google Maps: https://www.google.com/maps?cid=17797538015061602492
+Place Id: ChIJJVw-VXlbspERvPBBgIeO_fY
+Fotos: SORBOS [sorbos emolienteria].jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

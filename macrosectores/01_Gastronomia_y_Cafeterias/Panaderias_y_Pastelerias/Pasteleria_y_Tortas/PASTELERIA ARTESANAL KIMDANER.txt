@@ -1,0 +1,15 @@
+Nombre: PASTELERIA ARTESANAL "KIMDANER"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Psj los angeles s/n, Cajamarca 06000
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1663486999999995
+Longitud: -78.50127619999999
+Google Maps: https://www.google.com/maps?cid=5389674386275525143
+Place Id: ChIJEd7EvS5bspERF2L5cEz4y0o
+Fotos: PASTELERIA ARTESANAL KIMDANER.jpg

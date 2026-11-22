@@ -1,0 +1,16 @@
+Nombre: Restaurant Salas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Cajamarca 06002
+Teléfono: 995 745 233
+Rating: 3.9
+Reseñas: 2244
+Sitio web: 
+Latitud: -7.156377099999999
+Longitud: -78.51724229999999
+Google Maps: https://www.google.com/maps?cid=10246172338859282820
+Place Id: ChIJPQClBflaspERhBEkpXS3MY4
+Fotos: Restaurant Salas.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

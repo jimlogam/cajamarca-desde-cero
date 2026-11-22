@@ -1,0 +1,15 @@
+Nombre: PIZZA PRONTO ITALIANA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pizzerias_y_Pastas
+Categoría Maps: Restaurante, Pizzería
+Dirección: Av. Manco Cápac 618, Cajamarca 06004
+Teléfono: 934 216 618
+Rating: 4.5
+Reseñas: 119
+Sitio web: https://web.facebook.com/Restaurante-PIZZA-Pronto-316863265700034/
+Latitud: -7.1638727
+Longitud: -78.4639455
+Google Maps: https://www.google.com/maps?cid=14995447340003032700
+Place Id: ChIJZU3ekyJFspERfP70DOiHGtA
+Fotos: PIZZA PRONTO ITALIANA.jpg

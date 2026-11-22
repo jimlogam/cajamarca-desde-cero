@@ -1,0 +1,15 @@
+Nombre: Plaza Brasa - Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Referencia: A una cuadra del, Av. Moyococha Mz. A, Cajamarca 06001
+Teléfono: 918 756 492
+Rating: 4.3
+Reseñas: 4
+Sitio web: https://web.facebook.com/PLAZA-BRASA-Cajamarca-101404419121329
+Latitud: -7.1408935
+Longitud: -78.5172707
+Google Maps: https://www.google.com/maps?cid=1241920906659010696
+Place Id: ChIJI0GAGYtaspERiJiKEHwwPBE
+Fotos: Plaza Brasa - Cajamarca.jpg

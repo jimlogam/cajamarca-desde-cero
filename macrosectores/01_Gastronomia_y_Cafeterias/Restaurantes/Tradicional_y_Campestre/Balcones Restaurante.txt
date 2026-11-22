@@ -1,0 +1,15 @@
+Nombre: Balcones Restaurante
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jr. Apurimac 734, Cajamarca 06000
+Teléfono: 955 328 800
+Rating: 4.1
+Reseñas: 15
+Sitio web: 
+Latitud: -7.156308699999999
+Longitud: -78.5188301
+Google Maps: https://www.google.com/maps?cid=182473906033411949
+Place Id: ChIJKXf8xrdbspERbUfm_QxHiAI
+Fotos: Balcones Restaurante.jpg

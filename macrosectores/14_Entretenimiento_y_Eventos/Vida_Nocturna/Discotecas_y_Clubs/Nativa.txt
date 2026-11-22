@@ -1,0 +1,15 @@
+Nombre: Nativa
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
+Categoría Maps: Discoteca
+Dirección: El Inca 690, Cajamarca 06002
+Teléfono: 943 247 823
+Rating: 4.1
+Reseñas: 336
+Sitio web: 
+Latitud: -7.1585513
+Longitud: -78.5050546
+Google Maps: https://www.google.com/maps?cid=15042988742755273016
+Place Id: ChIJ38LUjONaspEROMkgdI9uw9A
+Fotos: Nativa.jpg

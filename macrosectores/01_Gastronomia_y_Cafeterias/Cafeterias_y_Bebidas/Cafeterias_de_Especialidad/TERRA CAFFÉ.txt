@@ -1,0 +1,15 @@
+Nombre: TERRA CAFFÉ
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: San Andrés 140, Cajamarca 06002
+Teléfono: 931 934 041
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1508512
+Longitud: -78.5079706
+Google Maps: https://www.google.com/maps?cid=18363222103952979592
+Place Id: ChIJedipi1tbspERiPa3BTZF1_4
+Fotos: TERRA CAFFÉ.jpg

@@ -1,0 +1,15 @@
+Nombre: Posada del Puruay - Hotel en Cajamarca, Peru
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel, Posada
+Dirección: Carretera a Porcón Km 4.5, 06000
+Teléfono: (076) 367028
+Rating: 4.5
+Reseñas: 382
+Sitio web: http://posadapuruay.com.pe/
+Latitud: -7.110115599999999
+Longitud: -78.5267011
+Google Maps: https://www.google.com/maps?cid=8704987261197076909
+Place Id: ChIJh9DHP_1aspERrcnzBctTzng
+Fotos: Posada del Puruay - Hotel en Cajamarca, Peru.jpg

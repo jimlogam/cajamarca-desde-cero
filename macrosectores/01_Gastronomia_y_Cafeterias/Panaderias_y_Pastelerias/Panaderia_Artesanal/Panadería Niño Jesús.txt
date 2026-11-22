@@ -1,0 +1,15 @@
+Nombre: Panadería Niño Jesús
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Victoria 113, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.167920199999999
+Longitud: -78.5041068
+Google Maps: https://www.google.com/maps?cid=3671965973960417218
+Place Id: ChIJNbI7XwBbspERwl87MZlx9TI
+Fotos: Panadería Niño Jesús.jpg

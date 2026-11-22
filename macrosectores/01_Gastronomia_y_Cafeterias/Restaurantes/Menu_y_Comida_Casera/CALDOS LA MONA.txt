@@ -1,0 +1,15 @@
+Nombre: CALDOS LA MONA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante
+Dirección: Jr. Chepén 708, Cajamarca 06001
+Teléfono: 960 128 397
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.149489399999999
+Longitud: -78.5190269
+Google Maps: https://www.google.com/maps?cid=7674615678832409095
+Place Id: ChIJ379lbadbspERB_pyTEy2gWo
+Fotos: CALDOS LA MONA.jpg

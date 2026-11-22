@@ -1,0 +1,15 @@
+Nombre: Gran Cajamarca
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Bodega
+Dirección: Av. San Luis 2619, San Borja 15037
+Teléfono: 965 345 341
+Rating: 4.3
+Reseñas: 15
+Sitio web: 
+Latitud: -12.101019599999999
+Longitud: -76.9943966
+Google Maps: https://www.google.com/maps?cid=3459099732484161597
+Place Id: ChIJI9MPzfnHBZERPQBeLeEwATA
+Fotos: Gran Cajamarca_3.jpg

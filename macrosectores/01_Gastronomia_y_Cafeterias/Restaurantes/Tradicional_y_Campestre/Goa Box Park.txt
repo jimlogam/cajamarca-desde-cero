@@ -1,0 +1,16 @@
+Nombre: Goa Box Park
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Buffet libre
+Dirección: Jirón Ciro Alegria 296, Cajamarca 06001
+Teléfono: 901 460 772
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1436307
+Longitud: -78.5121388
+Google Maps: https://www.google.com/maps?cid=2013728313549381761
+Place Id: ChIJfxY9SXpbspERgeBBYzsz8hs
+Fotos: Goa Box Park.jpg
+Nota: Sin categoria en Maps; clasificado como restaurante general por el contexto de la busqueda.

@@ -1,0 +1,15 @@
+Nombre: Cevicheria Mi barrunto Cajamarcaquino
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Jr. Huancavelica 673, Cajamarca
+Teléfono: 939 540 830
+Rating: 4.1
+Reseñas: 106
+Sitio web: 
+Latitud: -7.147816199999999
+Longitud: -78.51858639999999
+Google Maps: https://www.google.com/maps?cid=11036704075566124032
+Place Id: ChIJHx4O2PVaspERAIw5u-E_Kpk
+Fotos: Cevicheria Mi barrunto Cajamarcaquino.jpg

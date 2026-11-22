@@ -1,0 +1,15 @@
+Nombre: Real Pan - Panadería y Pastelería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería mayorista
+Dirección: Prol. Revilla Perez 495, Cajamarca 06001
+Teléfono: 948 707 690
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1449377
+Longitud: -78.51120499999999
+Google Maps: https://www.google.com/maps?cid=9596042514473574529
+Place Id: ChIJH5KcdlRbspERgWC-LNP9K4U
+Fotos: Real Pan - Panadería y Pastelería.jpg

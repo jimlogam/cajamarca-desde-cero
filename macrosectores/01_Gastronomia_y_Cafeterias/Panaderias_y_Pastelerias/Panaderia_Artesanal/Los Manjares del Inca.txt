@@ -1,0 +1,15 @@
+Nombre: Los Manjares del Inca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Dos de Mayo 568, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.156791699999999
+Longitud: -78.51642749999999
+Google Maps: https://www.google.com/maps?cid=5919674661878407260
+Place Id: ChIJd6XCBQBbspERXKAkv73oJlI
+Fotos: Los Manjares del Inca.jpg

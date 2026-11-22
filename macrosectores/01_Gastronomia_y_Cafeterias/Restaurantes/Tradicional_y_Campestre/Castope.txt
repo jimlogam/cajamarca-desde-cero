@@ -1,0 +1,15 @@
+Nombre: Castope
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Lloque Yupanqui 113, Baños del Inca 06004
+Teléfono: (076) 311140
+Rating: 3.9
+Reseñas: 823
+Sitio web: https://web.facebook.com/CastopeRestaurant/about/
+Latitud: -7.1655526
+Longitud: -78.4650726
+Google Maps: https://www.google.com/maps?cid=15774384131942757039
+Place Id: ChIJi0T-ctdEspERr7IBr8re6do
+Fotos: Castope.jpg

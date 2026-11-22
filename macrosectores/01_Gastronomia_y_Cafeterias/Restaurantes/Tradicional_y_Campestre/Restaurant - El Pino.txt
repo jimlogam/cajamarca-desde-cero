@@ -1,0 +1,15 @@
+Nombre: Restaurant - El Pino
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: 3N 3590, Cajamarca 06003
+Teléfono: 
+Rating: 4.3
+Reseñas: 112
+Sitio web: 
+Latitud: -7.1834948999999995
+Longitud: -78.48011939999999
+Google Maps: https://www.google.com/maps?cid=1280952461665681780
+Place Id: ChIJJU_B8DVbspERdMG-I3rbxhE
+Fotos: Restaurant - El Pino.jpg

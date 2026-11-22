@@ -1,0 +1,15 @@
+Nombre: Allpana Bakery & Bistró
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería, Restaurante, Taberna, Pastelería
+Dirección: Los Nogales 105, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.147650499999999
+Longitud: -78.51531399999999
+Google Maps: https://www.google.com/maps?cid=11802355450410699594
+Place Id: ChIJDRbwa59bspERSgugJsBjyqM
+Fotos: Allpana Bakery & Bistró.jpg

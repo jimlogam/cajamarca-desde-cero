@@ -1,0 +1,15 @@
+Nombre: 401B cevicheria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: RFPX+MJV, Los Zafiros, Cajamarca 06002
+Teléfono: 928 286 328
+Rating: 4.2
+Reseñas: 5
+Sitio web: 
+Latitud: -7.163267899999999
+Longitud: -78.5009476
+Google Maps: https://www.google.com/maps?cid=14697662432024921673
+Place Id: ChIJXyw8EQBbspERSQZzQRyW-Ms
+Fotos: 401B cevicheria.jpg

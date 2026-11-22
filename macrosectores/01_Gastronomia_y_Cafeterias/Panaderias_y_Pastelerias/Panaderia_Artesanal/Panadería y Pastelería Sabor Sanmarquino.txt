@@ -1,0 +1,15 @@
+Nombre: Panadería y Pastelería "Sabor Sanmarquino"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Jr, Antenor Orrego 470, Cajamarca 06002
+Teléfono: 900 080 170
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.169803
+Longitud: -78.51253059999999
+Google Maps: https://www.google.com/maps?cid=8791543843174385707
+Place Id: ChIJ60wOR-dbspERK4iut4vWAXo
+Fotos: Panadería y Pastelería Sabor Sanmarquino.jpg

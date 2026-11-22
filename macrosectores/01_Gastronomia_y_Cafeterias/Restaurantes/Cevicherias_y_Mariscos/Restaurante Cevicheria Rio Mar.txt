@@ -1,0 +1,15 @@
+Nombre: Restaurante Cevicheria Rio Mar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Los Sauces 511, Cajamarca 06001
+Teléfono: 902 191 098
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1486414
+Longitud: -78.5136488
+Google Maps: https://www.google.com/maps?cid=2064996534144135199
+Place Id: ChIJlxS293FbspERH_ASMGhXqBw
+Fotos: Restaurante Cevicheria Rio Mar.jpg

@@ -1,0 +1,16 @@
+Nombre: Cevicheria Kerraly
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Jr. Las Ruinas 227-223, Cajamarca 06003
+Teléfono: 
+Rating: 3.9
+Reseñas: 77
+Sitio web: 
+Latitud: -7.1731701
+Longitud: -78.5007736
+Google Maps: https://www.google.com/maps?cid=10170786784365525047
+Place Id: ChIJO3zgMhhbspERNzhYeLHkJY0
+Fotos: Cevicheria Kerraly.jpg, Cevicheria Kerraly-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

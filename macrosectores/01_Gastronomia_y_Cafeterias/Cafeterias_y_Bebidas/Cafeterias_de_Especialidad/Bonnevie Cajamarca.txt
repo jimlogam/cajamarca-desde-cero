@@ -1,0 +1,15 @@
+Nombre: Bonnevie Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jirón del Comercio 719, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1566702
+Longitud: -78.5190329
+Google Maps: https://www.google.com/maps?cid=11851540137224401192
+Place Id: ChIJRTQcKQBbspERKHGLcPYgeaQ
+Fotos: Bonnevie Cajamarca.jpg

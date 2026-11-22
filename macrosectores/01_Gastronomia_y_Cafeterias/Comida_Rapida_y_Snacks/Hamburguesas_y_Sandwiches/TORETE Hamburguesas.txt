@@ -1,0 +1,15 @@
+Nombre: TORETE Hamburguesas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: Av. Hoyos Rubio 848, Cajamarca 06001
+Teléfono: 943 346 954
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1494406999999995
+Longitud: -78.5079918
+Google Maps: https://www.google.com/maps?cid=14656834830341467343
+Place Id: ChIJHXsy2JBbspERz2wTep-JZ8s
+Fotos: TORETE Hamburguesas.jpg

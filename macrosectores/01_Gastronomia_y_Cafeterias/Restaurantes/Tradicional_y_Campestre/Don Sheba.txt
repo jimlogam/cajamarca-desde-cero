@@ -1,0 +1,16 @@
+Nombre: Don Sheba
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Amalia Puga 1086-1092, Cajamarca 06002
+Teléfono: 
+Rating: 4
+Reseñas: 25
+Sitio web: 
+Latitud: -7.1604208
+Longitud: -78.5140304
+Google Maps: https://www.google.com/maps?cid=13150214502303168248
+Place Id: ChIJ2XACOvxaspER-Hb4wWryfrY
+Fotos: Don Sheba.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

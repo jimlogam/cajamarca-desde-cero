@@ -1,0 +1,16 @@
+Nombre: Rancho Azul Restaurant
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Tayán 360, Jesús 06371
+Teléfono: 981 406 672
+Rating: 4.1
+Reseñas: 21
+Sitio web: 
+Latitud: -7.247764
+Longitud: -78.3793883
+Google Maps: https://www.google.com/maps?cid=16145937123755773283
+Place Id: ChIJkbr3tH1BspERY01B60TkEeA
+Fotos: Rancho Azul Restaurant.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

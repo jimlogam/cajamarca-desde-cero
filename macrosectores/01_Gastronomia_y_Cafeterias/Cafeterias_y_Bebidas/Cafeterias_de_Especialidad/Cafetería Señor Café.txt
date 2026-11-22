@@ -1,0 +1,15 @@
+Nombre: Cafetería Señor Café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Cruce de, Av. Universitaria con, Cajamarca 06003
+Teléfono: 974 536 247
+Rating: 4.8
+Reseñas: 5
+Sitio web: 
+Latitud: -7.169780599999999
+Longitud: -78.4921957
+Google Maps: https://www.google.com/maps?cid=14326165495792321311
+Place Id: ChIJdXJ4t_tbspERH8Moep3D0MY
+Fotos: Cafetería Señor Café.jpg

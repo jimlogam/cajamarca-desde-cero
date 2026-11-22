@@ -1,0 +1,15 @@
+Nombre: Cebicheria ya pez
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: RFFX+53Q, Colonial, Cajamarca 1636
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1770375
+Longitud: -78.5022656
+Google Maps: https://www.google.com/maps?cid=11763080192404810807
+Place Id: ChIJc52PMwBbspERN-y4jBzbPqM
+Fotos: Cebicheria ya pez.jpg

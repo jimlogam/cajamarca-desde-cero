@@ -1,0 +1,15 @@
+Nombre: Tintaya Café - Silva Santisteban 235
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jirón Silva Santisteban 235, Cajamarca 06002
+Teléfono: 976 655 832
+Rating: 3.9
+Reseñas: 32
+Sitio web: 
+Latitud: -7.1598964
+Longitud: -78.5159877
+Google Maps: https://www.google.com/maps?cid=2335373408681832039
+Place Id: ChIJszwHN-RbspERZ65f6r3paCA
+Fotos: Tintaya Café - Silva Santisteban 235.jpg

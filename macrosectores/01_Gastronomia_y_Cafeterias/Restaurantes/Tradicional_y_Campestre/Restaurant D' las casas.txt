@@ -1,0 +1,16 @@
+Nombre: Restaurant D' las casas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Avenida argentina 191 cajamarca Argentina y, Túpac Amaru 191, Cajamarca 06003
+Teléfono: 949 853 210
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1731186
+Longitud: -78.5079578
+Google Maps: https://www.google.com/maps?cid=16577100519865342400
+Place Id: ChIJPzrlFQJbspERwFmE9BexDeY
+Fotos: Restaurant D' las casas.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

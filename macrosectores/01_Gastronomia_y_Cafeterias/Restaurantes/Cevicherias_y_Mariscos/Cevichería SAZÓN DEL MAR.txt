@@ -1,0 +1,15 @@
+Nombre: Cevichería SAZÓN DEL MAR
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: RFWP+8MP, Miguel Grau, Cajamarca 06002
+Teléfono: 950 781 496
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.154169899999999
+Longitud: -78.51330709999999
+Google Maps: https://www.google.com/maps?cid=3458918241287072241
+Place Id: ChIJMxZ6OQBbspER8ekId9CLADA
+Fotos: Cevichería SAZÓN DEL MAR.jpg

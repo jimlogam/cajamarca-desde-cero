@@ -1,0 +1,15 @@
+Nombre: Kaphiy
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jirón Ayacucho 920, Cajamarca 06002
+Teléfono: 962 222 881
+Rating: 4.7
+Reseñas: 112
+Sitio web: 
+Latitud: -7.157790299999999
+Longitud: -78.5111788
+Google Maps: https://www.google.com/maps?cid=12306918240968883557
+Place Id: ChIJq5RJtUlbspERZb25cO_0yqo
+Fotos: Kaphiy.jpg

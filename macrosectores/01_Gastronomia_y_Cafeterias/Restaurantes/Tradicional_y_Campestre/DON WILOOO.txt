@@ -1,0 +1,15 @@
+Nombre: DON WILOOO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Carretera, Baños del Inca 06003
+Teléfono: 965 769 377
+Rating: 5
+Reseñas: 11
+Sitio web: 
+Latitud: -7.165082
+Longitud: -78.4729645
+Google Maps: https://www.google.com/maps?cid=5011603693228874622
+Place Id: ChIJ2c0JJwVFspERflvxoQHLjEU
+Fotos: DON WILOOO.jpg

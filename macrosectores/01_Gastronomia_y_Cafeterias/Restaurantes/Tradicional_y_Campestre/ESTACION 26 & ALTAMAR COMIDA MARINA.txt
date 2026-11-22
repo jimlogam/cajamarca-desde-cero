@@ -1,0 +1,15 @@
+Nombre: ESTACION 26 & ALTAMAR COMIDA MARINA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: PORTON ROJO, PROLONGACION AYACUCHO 1386 (ENTRE IGLESIA SAN ROQUE Y JR, El Mutuy, Cajamarca 06000
+Teléfono: 956 567 223
+Rating: 2.7
+Reseñas: 24
+Sitio web: 
+Latitud: -7.1548162
+Longitud: -78.5079227
+Google Maps: https://www.google.com/maps?cid=8168327946614092809
+Place Id: ChIJcy1fm-NbspERCTTUYv26W3E
+Fotos: ESTACION 26 & ALTAMAR COMIDA MARINA.jpg

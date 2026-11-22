@@ -1,0 +1,15 @@
+Nombre: Bravos del Ceviche - Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante peruano
+Dirección: Pje. San José Obrero 141, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.176061799999999
+Longitud: -78.4942191
+Google Maps: https://www.google.com/maps?cid=17931218368055655089
+Place Id: ChIJdcwu9zxbspERsbrqIRp82Pg
+Fotos: Sin foto en Maps

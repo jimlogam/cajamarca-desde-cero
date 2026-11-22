@@ -1,0 +1,15 @@
+Nombre: Restaurante cevicheria villa Marina
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: San Sebastián 212, Cajamarca 06003
+Teléfono: 973 422 834
+Rating: 4.6
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1620501999999995
+Longitud: -78.5138992
+Google Maps: https://www.google.com/maps?cid=15245150061781515701
+Place Id: ChIJhSlryiRbspERtf0CfDWnkdM
+Fotos: Restaurante cevicheria villa Marina.jpg

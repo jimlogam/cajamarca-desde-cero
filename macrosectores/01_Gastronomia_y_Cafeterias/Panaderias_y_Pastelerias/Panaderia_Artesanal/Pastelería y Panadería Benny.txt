@@ -1,0 +1,15 @@
+Nombre: Pastelería y Panadería Benny
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Pastelería
+Dirección: Jr. Arcomayo 156 Entre Alfonso Ugarte cuadra 12, Túpac Amaru cuadra 10, Cajamarca 06001
+Teléfono: 942 969 763
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.176699999999999
+Longitud: -78.5080212
+Google Maps: https://www.google.com/maps?cid=5901288055499208477
+Place Id: ChIJT56ruc5bspERHTdJWTiW5VE
+Fotos: Pastelería y Panadería Benny.jpg

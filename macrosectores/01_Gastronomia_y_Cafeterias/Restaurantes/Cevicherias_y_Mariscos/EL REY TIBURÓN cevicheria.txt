@@ -1,0 +1,15 @@
+Nombre: EL REY TIBURÓN cevicheria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Av. Perú 330, Cajamarca 06001
+Teléfono: 976 579 550
+Rating: 4
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1599438
+Longitud: -78.5243545
+Google Maps: https://www.google.com/maps?cid=11591243582497867174
+Place Id: ChIJZT0ptP1bspERpsXPD6Be3KA
+Fotos: EL REY TIBURÓN cevicheria.jpg

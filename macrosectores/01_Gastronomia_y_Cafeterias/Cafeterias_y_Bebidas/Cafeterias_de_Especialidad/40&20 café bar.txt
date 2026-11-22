@@ -1,0 +1,15 @@
+Nombre: 40&20 café bar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Pub restaurante
+Dirección: Paul Rivet 117, Cajamarca 06001
+Teléfono: 923 229 151
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1493793
+Longitud: -78.5077637
+Google Maps: https://www.google.com/maps?cid=16314938205678792662
+Place Id: ChIJl8BILthbspER1u_umdtNauI
+Fotos: 40&20 café bar.jpg

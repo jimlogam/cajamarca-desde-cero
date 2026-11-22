@@ -1,0 +1,15 @@
+Nombre: Caldos Ely
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante
+Dirección: Andes 113, Cajamarca 06003
+Teléfono: (076) 608852
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1699496
+Longitud: -78.5027107
+Google Maps: https://www.google.com/maps?cid=10285472815126236739
+Place Id: ChIJCaQK3A1bspERQ06J1AdXvY4
+Fotos: Caldos Ely.jpg

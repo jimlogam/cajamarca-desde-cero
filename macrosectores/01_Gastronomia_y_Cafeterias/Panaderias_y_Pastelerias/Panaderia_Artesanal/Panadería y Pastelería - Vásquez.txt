@@ -1,0 +1,15 @@
+Nombre: Panadería y Pastelería - Vásquez
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Jr, Jiron Elias Aguirre 489, Cajamarca 06003
+Teléfono: 980 650 615
+Rating: 4.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1790039
+Longitud: -78.50359999999999
+Google Maps: https://www.google.com/maps?cid=11108265723611713112
+Place Id: ChIJCwIFjh5bspERWA6GTtJ8KJo
+Fotos: Panadería y Pastelería - Vásquez.jpg

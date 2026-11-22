@@ -1,0 +1,15 @@
+Nombre: Los Tronquitos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante familiar
+Dirección: VHF3+J83 La Victoria, Cajamarca 06000
+Teléfono: 
+Rating: 4.5
+Reseñas: 39
+Sitio web: 
+Latitud: -7.1259844
+Longitud: -78.4467067
+Google Maps: https://www.google.com/maps?cid=16670837244908782180
+Place Id: ChIJaWALXFhFspERZMIj-yW2Wuc
+Fotos: Los Tronquitos_2.jpg

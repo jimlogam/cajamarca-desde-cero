@@ -1,0 +1,16 @@
+Nombre: Cevichería "Limón y Sazón"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Jirón Mariano Iberico 141, Cajamarca 06001
+Teléfono: 921 775 069
+Rating: 4.5
+Reseñas: 54
+Sitio web: 
+Latitud: -7.1486088
+Longitud: -78.50400239999999
+Google Maps: https://www.google.com/maps?cid=4627203327761862708
+Place Id: ChIJMSsQiP5bspERNFDAHukgN0A
+Fotos: Cevichería Limón y Sazón.jpg, Cevichería Limón y Sazón-1.jpg, Cevichería Limón y Sazón-2.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

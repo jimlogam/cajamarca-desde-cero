@@ -1,0 +1,16 @@
+Nombre: Restaurant Sitio Cajamarquino
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av San Martín de Porres 834, Cajamarca 06003
+Teléfono: 959 083 414
+Rating: 3.9
+Reseñas: 27
+Sitio web: 
+Latitud: -7.1705972
+Longitud: -78.5025137
+Google Maps: https://www.google.com/maps?cid=6481167484386368362
+Place Id: ChIJ2478bRlbspERalupBH278Vk
+Fotos: Restaurant Sitio Cajamarquino.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

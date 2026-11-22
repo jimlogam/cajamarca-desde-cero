@@ -1,0 +1,15 @@
+Nombre: RESTOBAR CAJA CHINA ALVAREZ
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Restaurante
+Dirección: Av San Martín de Porres 1925, Cajamarca 06003
+Teléfono: 949 123 776
+Rating: 3.5
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1780403999999995
+Longitud: -78.4948349
+Google Maps: https://www.google.com/maps?cid=3147932601508983918
+Place Id: ChIJJ32SlrNbspERbnTQyQW0rys
+Fotos: RESTOBAR CAJA CHINA ALVAREZ.jpg

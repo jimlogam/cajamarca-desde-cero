@@ -1,0 +1,15 @@
+Nombre: La Terraza Restobar
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Bar
+Dirección: San Martín 291, Cajamarca 06002
+Teléfono: 987 850 663
+Rating: 4.1
+Reseñas: 43
+Sitio web: https://www.facebook.com/pg/La-Terraza-Restobar-2296692563935824/about/?ref=page_internal
+Latitud: -7.1584211
+Longitud: -78.5187242
+Google Maps: https://www.google.com/maps?cid=11508097903381506796
+Place Id: ChIJw2JcbPVbspER7Op4ExL6tJ8
+Fotos: La Terraza Restobar.jpg

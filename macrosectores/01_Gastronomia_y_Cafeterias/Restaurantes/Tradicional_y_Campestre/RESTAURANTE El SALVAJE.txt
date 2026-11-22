@@ -1,0 +1,15 @@
+Nombre: RESTAURANTE El SALVAJE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Cajamarca 06003
+Teléfono: 902 634 867
+Rating: 3.9
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1810617
+Longitud: -78.4999198
+Google Maps: https://www.google.com/maps?cid=15710856491812587191
+Place Id: ChIJ9QY5SyFbspERtwahV70sCNo
+Fotos: RESTAURANTE El SALVAJE.jpg

@@ -1,0 +1,16 @@
+Nombre: CARBÓN DORADO RESTAURANT CHICHARRONERIA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: 076, Cajamarca 06001
+Teléfono: 976 340 778
+Rating: 4.5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.0965264999999995
+Longitud: -78.5683079
+Google Maps: https://www.google.com/maps?cid=2585122404560978046
+Place Id: ChIJFZ1Y7MNXspERfsDCYCEz4CM
+Fotos: CARBÓN DORADO RESTAURANT CHICHARRONERIA.jpg, CARBÓN DORADO RESTAURANT CHICHARRONERIA-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

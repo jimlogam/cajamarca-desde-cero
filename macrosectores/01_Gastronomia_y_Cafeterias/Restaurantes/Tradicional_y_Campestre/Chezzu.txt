@@ -1,0 +1,16 @@
+Nombre: Chezzu
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jr.Amazonas 1140, Cajamarca 06002
+Teléfono: 962 203 443
+Rating: 4.2
+Reseñas: 38
+Sitio web: 
+Latitud: -7.159025499999999
+Longitud: -78.5134765
+Google Maps: https://www.google.com/maps?cid=16770924873563593168
+Place Id: ChIJP1PkWiFbspER0FmF-1BLvug
+Fotos: Chezzu.jpg, Chezzu-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,15 @@
+Nombre: La Barra del Churre
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. Luis Rebaza Neyra 411, Cajamarca 06001
+Teléfono: 910 880 555
+Rating: 5
+Reseñas: 3
+Sitio web: https://atom.bio/labarradelchurre
+Latitud: -7.1643152
+Longitud: -78.50142149999999
+Google Maps: https://www.google.com/maps?cid=10985337725766699051
+Place Id: ChIJs9a95eRbspERK4gFcnXCc5g
+Fotos: La Barra del Churre.jpg

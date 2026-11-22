@@ -1,0 +1,15 @@
+Nombre: Panadería y Pastelería Vásquez
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av Vía de Evitamiento Nte 193, Cajamarca 06001
+Teléfono: 944 548 816
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1477679
+Longitud: -78.523277
+Google Maps: https://www.google.com/maps?cid=1558519759120200091
+Place Id: ChIJ9fiR9aBbspERm3HJqXb5oBU
+Fotos: Panadería y Pastelería Vásquez.jpg

@@ -1,0 +1,16 @@
+Nombre: Restaurante Caldos "El Paisita"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante de sopas
+Dirección: Ucayali 329, Cajamarca 06001
+Teléfono: 945 432 866
+Rating: 4.2
+Reseñas: 128
+Sitio web: 
+Latitud: -7.155808599999999
+Longitud: -78.5239529
+Google Maps: https://www.google.com/maps?cid=4389085279046222760
+Place Id: ChIJCXZGiapbspERqENyks4p6Tw
+Fotos: Restaurante Caldos El Paisita.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

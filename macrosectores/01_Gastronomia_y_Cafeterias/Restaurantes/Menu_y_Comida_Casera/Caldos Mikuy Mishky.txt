@@ -1,0 +1,16 @@
+Nombre: Caldos Mikuy Mishky
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante de brunch
+Dirección: Dos de Mayo 801, Cajamarca 06002
+Teléfono: 
+Rating: 4.2
+Reseñas: 33
+Sitio web: 
+Latitud: -7.1548123
+Longitud: -78.5148608
+Google Maps: https://www.google.com/maps?cid=15664692018862519304
+Place Id: ChIJW4HAO91bspERCHQyZGUqZNk
+Fotos: Caldos Mikuy Mishky.jpg, Caldos Mikuy Mishky-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

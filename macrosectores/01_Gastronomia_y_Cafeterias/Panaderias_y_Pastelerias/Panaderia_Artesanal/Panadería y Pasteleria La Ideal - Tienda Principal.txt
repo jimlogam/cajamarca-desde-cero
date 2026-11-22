@@ -1,0 +1,15 @@
+Nombre: Panadería y Pasteleria La Ideal - Tienda Principal
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería, Restaurante de desayunos, Cafetería
+Dirección: Amalia Puga 307, Cajamarca 06001
+Teléfono: (076) 340861
+Rating: 4
+Reseñas: 376
+Sitio web: http://www.facebook.com/panaderialaidealcajamarca/
+Latitud: -7.1547255
+Longitud: -78.5197472
+Google Maps: https://www.google.com/maps?cid=4420990549504900955
+Place Id: ChIJz1BKbPhaspERWz-ZOnuDWj0
+Fotos: Panadería y Pasteleria La Ideal - Tienda Principal.jpg

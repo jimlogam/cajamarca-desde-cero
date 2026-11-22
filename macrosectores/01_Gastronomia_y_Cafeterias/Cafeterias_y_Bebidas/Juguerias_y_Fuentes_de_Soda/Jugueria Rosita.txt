@@ -1,0 +1,15 @@
+Nombre: Jugueria Rosita
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Cafetería
+Dirección: Cinco Esquinas 1074, Cajamarca 06002
+Teléfono: 920 191 162
+Rating: 4.4
+Reseñas: 36
+Sitio web: 
+Latitud: -7.155156
+Longitud: -78.5102311
+Google Maps: https://www.google.com/maps?cid=1621415446505829866
+Place Id: ChIJBRYpTRBbspER6rVPCsJsgBY
+Fotos: Jugueria Rosita.jpg

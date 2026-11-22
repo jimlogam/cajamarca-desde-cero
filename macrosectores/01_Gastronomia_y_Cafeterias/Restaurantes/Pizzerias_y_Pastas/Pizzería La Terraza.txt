@@ -1,0 +1,15 @@
+Nombre: Pizzería La Terraza
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pizzerias_y_Pastas
+Categoría Maps: Pizzería
+Dirección: Avenida San Martín de Porres 659, Av. Los Héroes 559, Cajamarca 06003
+Teléfono: 961 070 686
+Rating: 4.9
+Reseñas: 15
+Sitio web: 
+Latitud: -7.168665
+Longitud: -78.5039085
+Google Maps: https://www.google.com/maps?cid=12889348802913121952
+Place Id: ChIJ7SywS3xbspERoDa-D3Iq4LI
+Fotos: Pizzería La Terraza.jpg

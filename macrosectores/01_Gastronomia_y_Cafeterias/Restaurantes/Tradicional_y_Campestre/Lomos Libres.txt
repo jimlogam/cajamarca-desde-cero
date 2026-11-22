@@ -1,0 +1,16 @@
+Nombre: Lomos Libres
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Arnaldo Márquez 365, Cajamarca 06001
+Teléfono: 955 206 177
+Rating: 4.4
+Reseñas: 143
+Sitio web: https://www.instagram.com/lomos.libres/
+Latitud: -7.1514508999999995
+Longitud: -78.508601
+Google Maps: https://www.google.com/maps?cid=17905702019499114380
+Place Id: ChIJjYZp_GRbspERjD89Rh7Vffg
+Fotos: Lomos Libres.jpg, Lomos Libres-1.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

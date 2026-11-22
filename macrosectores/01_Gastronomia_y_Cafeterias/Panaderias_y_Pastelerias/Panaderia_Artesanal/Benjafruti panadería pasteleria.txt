@@ -1,0 +1,15 @@
+Nombre: Benjafruti panadería pasteleria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Augusto B. Leguia N° 112, Cajamarca 06001
+Teléfono: 917 373 950
+Rating: 5
+Reseñas: 1
+Sitio web: https://pasteleriabenjafruti-per.ola.click/
+Latitud: -7.1535182
+Longitud: -78.5194075
+Google Maps: https://www.google.com/maps?cid=11758559422580985523
+Place Id: ChIJdy560VtbspERsw5DzX7LLqM
+Fotos: Benjafruti panadería pasteleria.jpg

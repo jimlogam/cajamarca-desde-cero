@@ -1,0 +1,15 @@
+Nombre: Caldo de gallina 8
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante de desayunos
+Dirección: Jr. Gladiolos 194, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1711092999999995
+Longitud: -78.5002849
+Google Maps: https://www.google.com/maps?cid=18205951436374930512
+Place Id: ChIJVYZ-cnhbspERUPQjQ1-IqPw
+Fotos: Caldo de gallina 8.jpg

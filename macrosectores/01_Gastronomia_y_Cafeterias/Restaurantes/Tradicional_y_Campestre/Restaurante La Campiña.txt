@@ -1,0 +1,16 @@
+Nombre: Restaurante La Campiña
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante familiar
+Dirección: VG33+FFW, Cajamarca 06001
+Teléfono: 976 385 658
+Rating: 4
+Reseñas: 906
+Sitio web: https://www.paginasamarillas.com.pe/empresas/restaurante-la-campina/cajamarca-80624445
+Latitud: -7.1460225
+Longitud: -78.4962925
+Google Maps: https://www.google.com/maps?cid=1190577317104371224
+Place Id: ChIJlUzyvcFaspERGMakD8PHhRA
+Fotos: Restaurante La Campiña.jpg, Restaurante La Campiña-1.jpg, Restaurante La Campiña-2.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

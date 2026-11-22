@@ -1,0 +1,15 @@
+Nombre: Cafétos movil
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Av. Hoyos Rubio 890, Cajamarca 06001
+Teléfono: 901 001 886
+Rating: 4.5
+Reseñas: 11
+Sitio web: https://www.facebook.com/cafetoscajamarca?mibextid=ZbWKwL
+Latitud: -7.1491678
+Longitud: -78.5076066
+Google Maps: https://www.google.com/maps?cid=8285361967458748270
+Place Id: ChIJCSrAz-ZbspERbgfpyc-E-3I
+Fotos: Cafétos movil.jpg

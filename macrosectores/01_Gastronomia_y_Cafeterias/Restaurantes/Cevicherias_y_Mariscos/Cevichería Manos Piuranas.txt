@@ -1,0 +1,16 @@
+Nombre: Cevichería Manos Piuranas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. El Maestro 445, Cajamarca 06002
+Teléfono: 
+Rating: 3.1
+Reseñas: 42
+Sitio web: 
+Latitud: -7.157961299999999
+Longitud: -78.51052899999999
+Google Maps: https://www.google.com/maps?cid=11876251480952490719
+Place Id: ChIJh3LEUDRbspER30phgczr0KQ
+Fotos: Cevichería Manos Piuranas.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

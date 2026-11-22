@@ -1,0 +1,15 @@
+Nombre: Los Tronquitos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jr. Soledad, Namora, Cajamarca
+Teléfono: 976 688 632
+Rating: 4.4
+Reseñas: 101
+Sitio web: 
+Latitud: -7.161683399999999
+Longitud: -78.5156674
+Google Maps: https://www.google.com/maps?cid=9649477896529357635
+Place Id: ChIJtR--oGZFspERQ6udkgXV6YU
+Fotos: Los Tronquitos.jpg

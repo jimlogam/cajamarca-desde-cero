@@ -1,0 +1,16 @@
+Nombre: Alga Marina Cebicheria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería, Restaurante
+Dirección: Av. Mártires de Uchuraccay 205, Cajamarca 06003
+Teléfono: (076) 367629
+Rating: 4
+Reseñas: 78
+Sitio web: 
+Latitud: -7.1663457
+Longitud: -78.5040769
+Google Maps: https://www.google.com/maps?cid=7594323688145800984
+Place Id: ChIJD9HeLRxbspERGM9DbSh1ZGk
+Fotos: Alga Marina Cebicheria.jpg, Alga Marina Cebicheria-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

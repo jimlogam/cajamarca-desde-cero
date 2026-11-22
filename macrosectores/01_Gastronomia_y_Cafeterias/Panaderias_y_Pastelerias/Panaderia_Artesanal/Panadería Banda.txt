@@ -1,0 +1,15 @@
+Nombre: Panadería Banda
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: San Sebastián 525, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.165069399999999
+Longitud: -78.516367
+Google Maps: https://www.google.com/maps?cid=11770562920305355029
+Place Id: ChIJq9MCIMpbspERFWkv55xwWaM
+Fotos: Panadería Banda.jpg

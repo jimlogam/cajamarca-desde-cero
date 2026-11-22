@@ -1,0 +1,15 @@
+Nombre: Cosas para panadería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: 06002, Cajamarca 06002
+Teléfono: 970 269 548
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1479123
+Longitud: -78.5183833
+Google Maps: https://www.google.com/maps?cid=9612389593386853829
+Place Id: ChIJxV8-KORbspERxSV8FGgRZoU
+Fotos: Cosas para panadería.jpg

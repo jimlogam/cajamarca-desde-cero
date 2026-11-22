@@ -1,0 +1,15 @@
+Nombre: Coco Crêpe - Real Plaza Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Crepería
+Dirección: Centro comercial Real Plaza, Vía de Evitamiento Nte. Lote 1, Cajamarca 06002
+Teléfono: 970 586 745
+Rating: 4.9
+Reseñas: 31
+Sitio web: https://cococrepe.com/
+Latitud: -7.1546615
+Longitud: -78.505506
+Google Maps: https://www.google.com/maps?cid=16595810211797424202
+Place Id: ChIJvWEIsmZbspERSlj8kXUpUOY
+Fotos: Coco Crêpe - Real Plaza Cajamarca.jpg

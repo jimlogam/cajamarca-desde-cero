@@ -1,0 +1,15 @@
+Nombre: Restaurante de comida sana y saludable
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante especializado en cocina cajún
+Dirección: Amalia Puga 443, Cajamarca 06001
+Teléfono: 931 977 139
+Rating: 4.3
+Reseñas: 13
+Sitio web: 
+Latitud: -7.1555725
+Longitud: -78.5188955
+Google Maps: https://www.google.com/maps?cid=1908550038212963280
+Place Id: ChIJyYE4_xJbspER0Ou91yWIfBo
+Fotos: Restaurante de comida sana y saludable.jpg

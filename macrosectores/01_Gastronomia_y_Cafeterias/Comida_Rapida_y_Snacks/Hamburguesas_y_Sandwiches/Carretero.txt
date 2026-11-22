@@ -1,0 +1,15 @@
+Nombre: Carretero
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: Jiron Irene Silva de Santolalia 164, Cajamarca 06002
+Teléfono: 993 793 724
+Rating: 4.3
+Reseñas: 314
+Sitio web: https://www.facebook.com/Carretero-447958942629299/
+Latitud: -7.149985
+Longitud: -78.506339
+Google Maps: https://www.google.com/maps?cid=3750349890458708591
+Place Id: ChIJqwQgD0VbspERb2o37FrrCzQ
+Fotos: Carretero.jpg

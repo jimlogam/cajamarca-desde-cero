@@ -1,0 +1,15 @@
+Nombre: Killay Café Bar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Bar, Cafetería
+Dirección: Amalia Puga 754, Cajamarca 06002
+Teléfono: 929 287 456
+Rating: 4.8
+Reseñas: 11
+Sitio web: 
+Latitud: -7.1579467999999995
+Longitud: -78.5164614
+Google Maps: https://www.google.com/maps?cid=1579445845206905002
+Place Id: ChIJ86VqqPJbspERqjCGwaBR6xU
+Fotos: Killay Café Bar.jpg

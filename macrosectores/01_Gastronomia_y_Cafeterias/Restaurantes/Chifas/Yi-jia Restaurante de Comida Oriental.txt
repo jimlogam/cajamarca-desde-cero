@@ -1,0 +1,16 @@
+Nombre: Yi-jia Restaurante de Comida Oriental
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante asiático
+Dirección: Sta. Teresa de Journet 451, Cajamarca 06001
+Teléfono: 963 633 921
+Rating: 4.1
+Reseñas: 57
+Sitio web: 
+Latitud: -7.1466973
+Longitud: -78.508596
+Google Maps: https://www.google.com/maps?cid=16956999881641842377
+Place Id: ChIJFY2kTDlbspERyVaa4YxdU-s
+Fotos: Yi-jia Restaurante de Comida Oriental.jpg, Yi-jia Restaurante de Comida Oriental-1.jpg, Yi-jia Restaurante de Comida Oriental-2.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

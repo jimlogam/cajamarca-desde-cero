@@ -1,0 +1,15 @@
+Nombre: Sumaq Coffee
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Av. Atahualpa 665, Cajamarca 06002
+Teléfono: 
+Rating: 4.1
+Reseñas: 13
+Sitio web: 
+Latitud: -7.1654621
+Longitud: -78.5015138
+Google Maps: https://www.google.com/maps?cid=556564961244374425
+Place Id: ChIJS_vyXwBbspERmWVmKeJQuQc
+Fotos: Sumaq Coffee.jpg

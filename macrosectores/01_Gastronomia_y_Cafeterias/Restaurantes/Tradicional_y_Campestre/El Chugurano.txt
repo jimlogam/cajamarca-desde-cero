@@ -1,0 +1,16 @@
+Nombre: El Chugurano
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av. Vía de Evitamiento Sur 2462, Cajamarca 06002
+Teléfono: 976 745 075
+Rating: 3.9
+Reseñas: 211
+Sitio web: 
+Latitud: -7.1576093
+Longitud: -78.5068314
+Google Maps: https://www.google.com/maps?cid=14214004339661486248
+Place Id: ChIJV5LGheRaspERqDhiTaNJQsU
+Fotos: El Chugurano.jpg, El Chugurano-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

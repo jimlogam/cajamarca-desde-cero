@@ -1,0 +1,16 @@
+Nombre: Marisqueria La Curva
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. Independencia, Cajamarca 06003
+Teléfono: 976 027 150
+Rating: 3.9
+Reseñas: 143
+Sitio web: https://www.facebook.com/lacurvamarisqueria.carnavalmarino?fref=ts
+Latitud: -7.172720999999999
+Longitud: -78.5131048
+Google Maps: https://www.google.com/maps?cid=2043706103101106415
+Place Id: ChIJnQCtvQVbspER76ijbN-zXBw
+Fotos: Marisqueria La Curva.jpg, Marisqueria La Curva-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

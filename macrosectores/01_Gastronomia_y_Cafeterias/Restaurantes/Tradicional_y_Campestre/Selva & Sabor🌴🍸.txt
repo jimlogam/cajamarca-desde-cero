@@ -1,0 +1,15 @@
+Nombre: Selva & Sabor🌴🍸
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Los Cipreses 1783-1767, Cajamarca 06001
+Teléfono: 984 285 378
+Rating: 2
+Reseñas: 4
+Sitio web: 
+Latitud: -7.148990899999999
+Longitud: -78.5124817
+Google Maps: https://www.google.com/maps?cid=18437255755274750921
+Place Id: ChIJHQgCDwBbspERyYsttmxK3v8
+Fotos: Selva & Sabor🌴🍸.jpg

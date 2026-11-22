@@ -1,0 +1,16 @@
+Nombre: Candela
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jirón El Milagro 143, Cajamarca 06003
+Teléfono: 967 270 427
+Rating: 4.6
+Reseñas: 18
+Sitio web: https://www.facebook.com/Candela-666473290482556/?ti=as
+Latitud: -7.1686168
+Longitud: -78.5034273
+Google Maps: https://www.google.com/maps?cid=3068896476846960345
+Place Id: ChIJNaE7ZepbspER2S7pAhbplio
+Fotos: Candela.jpg, Candela-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

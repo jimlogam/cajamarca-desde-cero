@@ -1,0 +1,15 @@
+Nombre: El romantico
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: RGM6+QM8, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.165518
+Longitud: -78.488081
+Google Maps: https://www.google.com/maps?cid=9273466370546976581
+Place Id: ChIJBWu0fwBbspERRcf79If4sYA
+Fotos: El romantico.jpg

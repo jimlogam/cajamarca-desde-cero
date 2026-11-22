@@ -1,0 +1,15 @@
+Nombre: El central cajacho
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jr, Dos de Mayo 581, Cajamarca 06001
+Teléfono: 937 500 973
+Rating: 2.1
+Reseñas: 28
+Sitio web: 
+Latitud: -7.156587
+Longitud: -78.5164637
+Google Maps: https://www.google.com/maps?cid=12896199606370684188
+Place Id: ChIJAfB0GZBbspERHM1BCjeB-LI
+Fotos: El central cajacho.jpg

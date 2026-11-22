@@ -1,0 +1,15 @@
+Nombre: CALDOS - LA ALAMEDA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante
+Dirección: Eduardo Rodríguez 393, Cajamarca 06001
+Teléfono: (076) 366065
+Rating: 4.2
+Reseñas: 51
+Sitio web: 
+Latitud: -7.1464802999999995
+Longitud: -78.5094312
+Google Maps: https://www.google.com/maps?cid=13758662591817359748
+Place Id: ChIJwdNXCvJaspERhKG6EbuW8L4
+Fotos: CALDOS - LA ALAMEDA.jpg

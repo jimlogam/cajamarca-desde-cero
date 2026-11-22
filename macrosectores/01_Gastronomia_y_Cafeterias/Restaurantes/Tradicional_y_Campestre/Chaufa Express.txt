@@ -1,0 +1,15 @@
+Nombre: Chaufa Express
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av. Independencia 568, Cajamarca 06002
+Teléfono: 921 335 218
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/share/174bCkHyGF/
+Latitud: -7.1690267
+Longitud: -78.5114052
+Google Maps: https://www.google.com/maps?cid=15432600206038915327
+Place Id: ChIJ67nrJtxFspER_9iROR-cK9Y
+Fotos: Chaufa Express.jpg

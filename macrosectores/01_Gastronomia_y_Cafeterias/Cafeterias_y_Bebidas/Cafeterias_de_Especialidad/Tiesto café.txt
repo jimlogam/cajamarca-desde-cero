@@ -1,0 +1,15 @@
+Nombre: Tiesto café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Restaurante
+Dirección: Jr. Sinchi Roca 200, Baños del Inca 06004
+Teléfono: 
+Rating: 4.8
+Reseñas: 23
+Sitio web: 
+Latitud: -7.164904099999999
+Longitud: -78.4645501
+Google Maps: https://www.google.com/maps?cid=9017563631595314396
+Place Id: ChIJ-zUPGrxFspER3Fy4iFjSJH0
+Fotos: Tiesto café.jpg

@@ -1,0 +1,15 @@
+Nombre: Panaderia Casanova
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Elmer Faucett 473, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1495219
+Longitud: -78.4987015
+Google Maps: https://www.google.com/maps?cid=12981419911144567935
+Place Id: ChIJcTboIwBbspERf3T0c6FEJ7Q
+Fotos: Panaderia Casanova.jpg

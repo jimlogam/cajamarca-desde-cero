@@ -1,0 +1,15 @@
+Nombre: EL RINCÓN DEL FRITO & CEVICHE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante peruano
+Dirección: 06002, Cajamarca 06000
+Teléfono: 932 024 796
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1462433999999995
+Longitud: -78.51992299999999
+Google Maps: https://www.google.com/maps?cid=2155596263775542980
+Place Id: ChIJw6q7Ex1bspERxB6AjWE36h0
+Fotos: EL RINCÓN DEL FRITO & CEVICHE.jpg

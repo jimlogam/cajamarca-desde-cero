@@ -1,0 +1,15 @@
+Nombre: La esquina del rico rachi
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jirón Marañón 105, Cajamarca 06001
+Teléfono: 
+Rating: 4
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1536174
+Longitud: -78.5181868
+Google Maps: https://www.google.com/maps?cid=7826858182994166194
+Place Id: ChIJ-dtvPu9bspERsgG6iAyWnmw
+Fotos: La esquina del rico rachi.jpg

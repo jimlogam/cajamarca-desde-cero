@@ -1,0 +1,15 @@
+Nombre: Sanguchon.com
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería, Bocatería
+Dirección: Sta. Teresa de Journet 394, Cajamarca 06001
+Teléfono: (076) 340950
+Rating: 4.2
+Reseñas: 306
+Sitio web: https://www.facebook.com/sanguchonpuntocom/?fref=ts
+Latitud: -7.147185299999999
+Longitud: -78.50915909999999
+Google Maps: https://www.google.com/maps?cid=4288746176755786544
+Place Id: ChIJsw5O-O1aspERMONXzeyvhDs
+Fotos: Sanguchon.com_3.jpg

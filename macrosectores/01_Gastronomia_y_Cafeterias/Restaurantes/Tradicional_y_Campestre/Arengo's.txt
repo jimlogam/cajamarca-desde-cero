@@ -1,0 +1,15 @@
+Nombre: Arengo's
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: San Martín 323, Cajamarca 06002
+Teléfono: (076) 341225
+Rating: 4.1
+Reseñas: 122
+Sitio web: 
+Latitud: -7.1580837
+Longitud: -78.5183795
+Google Maps: https://www.google.com/maps?cid=17347869749568057963
+Place Id: ChIJowiB0fhaspERa7K_0J8DwPA
+Fotos: Arengo's.jpg

@@ -1,0 +1,15 @@
+Nombre: Restaurant Cevicheria Seño Patitas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Piura 280, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1618683
+Longitud: -78.5217
+Google Maps: https://www.google.com/maps?cid=11141488288092227445
+Place Id: ChIJz57daABbspERdYfpYJGEnpo
+Fotos: Restaurant Cevicheria Seño Patitas.jpg

@@ -1,0 +1,15 @@
+Nombre: FatBoyz Burger and Shakes 🍔
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Restaurante de comida rápida
+Dirección: Jirón Silva Santisteban 415, Cajamarca 06002
+Teléfono: 964 274 459
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1586064
+Longitud: -78.5105331
+Google Maps: https://www.google.com/maps?cid=13002218817920125699
+Place Id: ChIJMUb8fqZbspERA0sHTiApcbQ
+Fotos: FatBoyz Burger and Shakes 🍔.jpg

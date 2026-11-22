@@ -1,0 +1,15 @@
+Nombre: Café Orgánico Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: José Olaya 107- A, Cajamarca 06002
+Teléfono: 
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1645331
+Longitud: -78.5067598
+Google Maps: https://www.google.com/maps?cid=5215321834878810911
+Place Id: ChIJY4Hj3eZbspERHztKrZOLYEg
+Fotos: Café Orgánico Cajamarca.jpg

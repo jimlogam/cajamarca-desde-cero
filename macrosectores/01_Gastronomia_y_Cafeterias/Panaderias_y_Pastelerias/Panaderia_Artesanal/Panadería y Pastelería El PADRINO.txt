@@ -1,0 +1,15 @@
+Nombre: Panadería y Pastelería "El PADRINO"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Los Próceres 308, Cajamarca 06003
+Teléfono: 989 296 990
+Rating: 4.1
+Reseñas: 9
+Sitio web: https://www.facebook.com/profile.php?id=100070676920980
+Latitud: -7.168682899999999
+Longitud: -78.50550679999999
+Google Maps: https://www.google.com/maps?cid=10798216048258722716
+Place Id: ChIJSYxrdhxbspERnCti1Ej42pU
+Fotos: Panadería y Pastelería El PADRINO.jpg

@@ -1,0 +1,16 @@
+Nombre: Cevicheria Ola Costera
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av Vía de Evitamiento Nte 434, Cajamarca 06001
+Teléfono: 987 223 903
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.147265099999999
+Longitud: -78.5217449
+Google Maps: https://www.google.com/maps?cid=2987785305048431526
+Place Id: ChIJJTy9HwBbspERpjuLrOe-dik
+Fotos: Cevicheria Ola Costera.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

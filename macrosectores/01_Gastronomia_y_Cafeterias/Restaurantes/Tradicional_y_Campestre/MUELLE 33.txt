@@ -1,0 +1,16 @@
+Nombre: MUELLE 33
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av Vía de Evitamiento 2390, Cajamarca 06002
+Teléfono: (076) 604010
+Rating: 3.9
+Reseñas: 93
+Sitio web: 
+Latitud: -7.15623
+Longitud: -78.5076831
+Google Maps: https://www.google.com/maps?cid=17741322958336271490
+Place Id: ChIJi7fRo2VbspERgqQdqTvXNfY
+Fotos: MUELLE 33.jpg, MUELLE 33-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

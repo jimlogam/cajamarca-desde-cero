@@ -1,0 +1,15 @@
+Nombre: Retama Café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Belén 624, Cajamarca 06002
+Teléfono: (076) 285896
+Rating: 4
+Reseñas: 21
+Sitio web: 
+Latitud: -7.159182899999999
+Longitud: -78.51658259999999
+Google Maps: https://www.google.com/maps?cid=16417622921140920969
+Place Id: ChIJDbeUdxBbspERiWLq_g8d1-M
+Fotos: Retama Café.jpg

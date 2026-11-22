@@ -1,0 +1,16 @@
+Nombre: Chifa los Angeles
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: RFRP+V4W, Jr. Guillermo Urrelo, Cajamarca 06002
+Teléfono: 976 137 070
+Rating: 3.7
+Reseñas: 350
+Sitio web: 
+Latitud: -7.157762399999999
+Longitud: -78.5146664
+Google Maps: https://www.google.com/maps?cid=103546536217817071
+Place Id: ChIJGZac_PtaspER7y_8rAbfbwE
+Fotos: Chifa los Angeles.jpg, Chifa los Angeles-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

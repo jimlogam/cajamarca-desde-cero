@@ -1,0 +1,15 @@
+Nombre: Urban Crepes Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Crepería
+Dirección: Av. Rafael Hoyos Rubio 151, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: https://www.instagram.com/urbancrepesperu/?hl=es
+Latitud: -7.148343199999999
+Longitud: -78.50922059999999
+Google Maps: https://www.google.com/maps?cid=7931800083769372355
+Place Id: ChIJ5dJKU4xbspERw6581iZqE24
+Fotos: Urban Crepes Cajamarca.jpg

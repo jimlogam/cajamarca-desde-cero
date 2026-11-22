@@ -1,0 +1,15 @@
+Nombre: Pollería Chifa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante
+Dirección: Jr, Prol. Revilla Perez N° 130, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1530564
+Longitud: -78.5149627
+Google Maps: https://www.google.com/maps?cid=7826454130845585286
+Place Id: ChIJn9tMTwBbspERho_wz5AmnWw
+Fotos: Pollería Chifa.jpg

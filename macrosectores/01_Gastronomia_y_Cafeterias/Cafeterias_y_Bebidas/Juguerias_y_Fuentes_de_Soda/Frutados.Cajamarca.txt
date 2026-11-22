@@ -1,0 +1,15 @@
+Nombre: Frutados.Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Tienda de zumos
+Dirección: Jr. Gladiolos 262 barrio, Cajamarca 06001
+Teléfono: 973 765 474
+Rating: 4.2
+Reseñas: 62
+Sitio web: 
+Latitud: -7.1706848
+Longitud: -78.4997391
+Google Maps: https://www.google.com/maps?cid=5091159566109002840
+Place Id: ChIJnc1M1v5aspERWEzCuKZup0Y
+Fotos: Frutados.Cajamarca.jpg

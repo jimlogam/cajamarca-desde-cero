@@ -1,0 +1,15 @@
+Nombre: Restaurante La Generosa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jirón Las Casuarinas 738, Cajamarca 06001
+Teléfono: 956 288 093
+Rating: 4.2
+Reseñas: 79
+Sitio web: 
+Latitud: -7.1499653
+Longitud: -78.515131
+Google Maps: https://www.google.com/maps?cid=16628318202044537683
+Place Id: ChIJl0AG0_ZaspERU9sG3U2nw-Y
+Fotos: Restaurante La Generosa.jpg

@@ -1,0 +1,15 @@
+Nombre: Deli Café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: San Martín 353, Cajamarca 06002
+Teléfono: 
+Rating: 4.4
+Reseñas: 19
+Sitio web: 
+Latitud: -7.1578791
+Longitud: -78.5182391
+Google Maps: https://www.google.com/maps?cid=8365804371303771309
+Place Id: ChIJ0bQvwatbspERraz4c8BOGXQ
+Fotos: Deli Café.jpg

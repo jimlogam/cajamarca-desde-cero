@@ -1,0 +1,15 @@
+Nombre: D' Marineros Cevichería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Jr. Emancipación 252, Cajamarca 06003
+Teléfono: 967 279 173
+Rating: 4.5
+Reseñas: 13
+Sitio web: 
+Latitud: -7.1674484
+Longitud: -78.5058315
+Google Maps: https://www.google.com/maps?cid=10221670397627057177
+Place Id: ChIJdwf1QRxbspERGcSv5RGr2o0
+Fotos: D' Marineros Cevichería.jpg

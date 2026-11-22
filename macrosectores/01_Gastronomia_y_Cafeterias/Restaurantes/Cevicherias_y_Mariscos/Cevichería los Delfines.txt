@@ -1,0 +1,16 @@
+Nombre: Cevichería los Delfines
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. Luis Rebaza Neyra 601, Cajamarca 06002
+Teléfono: 979 763 036
+Rating: 4
+Reseñas: 357
+Sitio web: 
+Latitud: -7.1629115
+Longitud: -78.49973399999999
+Google Maps: https://www.google.com/maps?cid=15422013941248158572
+Place Id: ChIJ-y8g1x9bspERbOs3Yfj_BdY
+Fotos: Cevichería los Delfines.jpg, Cevichería los Delfines-1.jpg, Cevichería los Delfines-2.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

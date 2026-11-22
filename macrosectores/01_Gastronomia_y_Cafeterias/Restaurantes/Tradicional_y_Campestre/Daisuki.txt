@@ -1,0 +1,15 @@
+Nombre: Daisuki
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: RFRM+RP4, Belén, Cajamarca 06002
+Teléfono: 946 450 748
+Rating: 5
+Reseñas: 3
+Sitio web: https://www.instagram.com/daisuki_sushirolls/
+Latitud: -7.157990099999999
+Longitud: -78.5156617
+Google Maps: https://www.google.com/maps?cid=4506903088163527242
+Place Id: ChIJyeCUtDFbspERShoZ53q8iz4
+Fotos: Daisuki.jpg

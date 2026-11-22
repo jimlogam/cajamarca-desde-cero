@@ -1,0 +1,16 @@
+Nombre: El Zarco Restaurante
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Jirón, Jr del Batán 170, Cajamarca 06002
+Teléfono: (076) 363421
+Rating: 3.7
+Reseñas: 1788
+Sitio web: 
+Latitud: -7.1560823
+Longitud: -78.5172468
+Google Maps: https://www.google.com/maps?cid=205263046834232250
+Place Id: ChIJ62zsBvlaspERupsRUKc92QI
+Fotos: El Zarco Restaurante.jpg, El Zarco Restaurante-1.jpg, El Zarco Restaurante-2.jpg, El Zarco Restaurante-3.jpg, El Zarco Restaurante-4.jpg
+Nota: Aparecia 5 veces en los 5 archivos; fusionado en uno.

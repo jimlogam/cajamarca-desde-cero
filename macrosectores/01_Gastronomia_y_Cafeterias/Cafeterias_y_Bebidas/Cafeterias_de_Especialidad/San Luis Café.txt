@@ -1,0 +1,15 @@
+Nombre: San Luis Café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Amalia Puga 788, Cajamarca 06002
+Teléfono: 
+Rating: 4.9
+Reseñas: 158
+Sitio web: https://www.instagram.com/sanluiscafe.pe
+Latitud: -7.1582624
+Longitud: -78.5162927
+Google Maps: https://www.google.com/maps?cid=14323186026721795467
+Place Id: ChIJgw0achtbspERi12Xxs0txsY
+Fotos: San Luis Café.jpg

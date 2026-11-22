@@ -1,0 +1,15 @@
+Nombre: BENJI'S BROSTER Hamburguesas y mas.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Restaurante peruano
+Dirección: Jr, Arnaldo Márquez 430, Cajamarca 06001
+Teléfono: 930 530 006
+Rating: 3.9
+Reseñas: 16
+Sitio web: 
+Latitud: -7.1513488999999995
+Longitud: -78.5078566
+Google Maps: https://www.google.com/maps?cid=10987727181205154426
+Place Id: ChIJm_ZmXuNbspEReiqj5Kc_fJg
+Fotos: BENJI'S BROSTER Hamburguesas y mas.jpg

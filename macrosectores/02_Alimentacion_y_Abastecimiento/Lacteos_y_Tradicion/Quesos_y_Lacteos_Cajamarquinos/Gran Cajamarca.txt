@@ -1,0 +1,15 @@
+Nombre: Gran Cajamarca
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Tienda de alimentación
+Dirección: Calle Porta 313, Miraflores 15074
+Teléfono: (01) 7788035
+Rating: 4.5
+Reseñas: 216
+Sitio web: https://www.facebook.com/Productos-Gran-Cajamarca-358857027647183/
+Latitud: -12.1250967
+Longitud: -77.0319559
+Google Maps: https://www.google.com/maps?cid=12592885779352633682
+Place Id: ChIJUw1g9sjJBZERUsFhd-Xqwq4
+Fotos: Gran Cajamarca.jpg

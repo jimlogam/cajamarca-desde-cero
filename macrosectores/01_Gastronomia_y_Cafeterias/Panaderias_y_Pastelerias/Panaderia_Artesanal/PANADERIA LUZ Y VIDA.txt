@@ -1,0 +1,15 @@
+Nombre: PANADERIA LUZ Y VIDA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Jr. Perea 1035, Cajamarca 06003
+Teléfono: 978 585 099
+Rating: 4.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.182325499999999
+Longitud: -78.4968837
+Google Maps: https://www.google.com/maps?cid=14816121364027108420
+Place Id: ChIJ09cjCBFbspERRGzpo-Fvnc0
+Fotos: PANADERIA LUZ Y VIDA.jpg

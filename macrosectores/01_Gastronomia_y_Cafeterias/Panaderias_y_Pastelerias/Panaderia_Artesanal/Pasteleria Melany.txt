@@ -1,0 +1,15 @@
+Nombre: Pasteleria Melany
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: 06001, Cajamarca 06001
+Teléfono: 948 711 486
+Rating: 2.9
+Reseñas: 23
+Sitio web: 
+Latitud: -7.1548463
+Longitud: -78.5198497
+Google Maps: https://www.google.com/maps?cid=16093861843219547224
+Place Id: ChIJAzjJIztbspERWIRQ1RPiWN8
+Fotos: Pasteleria Melany.jpg

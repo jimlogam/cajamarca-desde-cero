@@ -1,0 +1,15 @@
+Nombre: Roma pizzas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pizzerias_y_Pastas
+Categoría Maps: Pizzería
+Dirección: Av San Martín de Porres 2022, Cajamarca 06003
+Teléfono: 929 864 444
+Rating: 4.8
+Reseñas: 28
+Sitio web: https://qcarta.com/romapizzas/
+Latitud: -7.1806927
+Longitud: -78.493186
+Google Maps: https://www.google.com/maps?cid=1105155577050558252
+Place Id: ChIJD-oU5KBbspERLO-jVyRNVg8
+Fotos: Roma pizzas.jpg

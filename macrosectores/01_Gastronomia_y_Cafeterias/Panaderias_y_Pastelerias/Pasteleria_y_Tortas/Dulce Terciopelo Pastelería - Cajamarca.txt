@@ -1,0 +1,15 @@
+Nombre: Dulce Terciopelo Pastelería - Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: espaldas de Agencia Dias, Jr, Juan Beato Macias 341 - A, Cajamarca
+Teléfono: 945 335 314
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1697564
+Longitud: -78.4997005
+Google Maps: https://www.google.com/maps?cid=6094489430787814783
+Place Id: ChIJhyAowhhbspERf_V66dj5k1Q
+Fotos: Sin foto en Maps

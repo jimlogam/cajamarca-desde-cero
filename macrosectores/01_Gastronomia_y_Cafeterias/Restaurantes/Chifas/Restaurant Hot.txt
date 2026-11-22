@@ -1,0 +1,16 @@
+Nombre: Restaurant Hot
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: Belén 732, Cajamarca 06002
+Teléfono: (076) 287497
+Rating: 4
+Reseñas: 284
+Sitio web: 
+Latitud: -7.157982199999999
+Longitud: -78.5156773
+Google Maps: https://www.google.com/maps?cid=5347945311174278387
+Place Id: ChIJf0oeTvlaspER8zzCBu23N0o
+Fotos: Restaurant Hot.jpg, Restaurant Hot-1.jpg, Restaurant Hot-2.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

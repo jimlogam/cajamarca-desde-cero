@@ -1,0 +1,15 @@
+Nombre: Enrolaos Wraps & Rolls
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Bocatería
+Dirección: VF2Q+RM2, Cajamarca 06001
+Teléfono: 957 777 139
+Rating: 4.3
+Reseñas: 156
+Sitio web: 
+Latitud: -7.148267799999999
+Longitud: -78.51088229999999
+Google Maps: https://www.google.com/maps?cid=14359038254913827947
+Place Id: ChIJxcK7slhaspERazRiJDeNRcc
+Fotos: Enrolaos Wraps & Rolls.jpg

@@ -1,0 +1,16 @@
+Nombre: El Warique de Chelo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Av. Miguel de Cervantes con, Cajamarca 06001
+Teléfono: 976 228 569
+Rating: 4.2
+Reseñas: 793
+Sitio web: 
+Latitud: -7.151042899999999
+Longitud: -78.50091189999999
+Google Maps: https://www.google.com/maps?cid=4101971172171236066
+Place Id: ChIJuTQczNpbspER4sIoRAwh7Tg
+Fotos: El Warique de Chelo.jpg, El Warique de Chelo-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

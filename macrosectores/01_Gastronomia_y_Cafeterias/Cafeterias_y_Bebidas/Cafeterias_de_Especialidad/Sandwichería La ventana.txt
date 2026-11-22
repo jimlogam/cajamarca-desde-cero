@@ -1,0 +1,15 @@
+Nombre: Sandwichería La ventana
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jirón del Comercio 972, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1579058
+Longitud: -78.5175118
+Google Maps: https://www.google.com/maps?cid=3392437462729826005
+Place Id: ChIJoYZievhbspER1R69AOZbFC8
+Fotos: Sandwichería La ventana.jpg

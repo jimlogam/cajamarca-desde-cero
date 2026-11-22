@@ -1,0 +1,15 @@
+Nombre: Panaderia Y Pasteleria San Martin.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Jirón Silva Santisteban 481, Cajamarca 06002
+Teléfono: 943 819 541
+Rating: 4.1
+Reseñas: 53
+Sitio web: 
+Latitud: -7.160768099999999
+Longitud: -78.5149124
+Google Maps: https://www.google.com/maps?cid=13634591813132323381
+Place Id: ChIJ3VVsKvxaspERNYozzwPNN70
+Fotos: Panaderia Y Pasteleria San Martin.jpg

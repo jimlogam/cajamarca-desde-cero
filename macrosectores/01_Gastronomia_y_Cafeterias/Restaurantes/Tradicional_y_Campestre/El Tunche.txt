@@ -1,0 +1,16 @@
+Nombre: El Tunche
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: 06002, Cajamarca 06002
+Teléfono: 932 893 503
+Rating: 4.3
+Reseñas: 11
+Sitio web: https://www.facebook.com/profile.php?id=100054625201084
+Latitud: -7.1511939
+Longitud: -78.5144883
+Google Maps: https://www.google.com/maps?cid=11067491949799710539
+Place Id: ChIJs8bWEctbspERS59OTkqhl5k
+Fotos: El Tunche.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

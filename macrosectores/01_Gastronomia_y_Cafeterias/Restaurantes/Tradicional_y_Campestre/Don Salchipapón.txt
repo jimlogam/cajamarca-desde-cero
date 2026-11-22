@@ -1,0 +1,15 @@
+Nombre: Don Salchipapón
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: VF3M+QMM, Av Vía de Evitamiento Nte, Cajamarca 06001
+Teléfono: 997 914 888
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1455401
+Longitud: -78.515838
+Google Maps: https://www.google.com/maps?cid=8469918698737272465
+Place Id: ChIJzUWJZPRaspERkYasUi4yi3U
+Fotos: Don Salchipapón.jpg

@@ -1,0 +1,15 @@
+Nombre: Que Lomazo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Jirón del Comercio 1020, Cajamarca 06002
+Teléfono: 997 283 175
+Rating: 4.7
+Reseñas: 96
+Sitio web: 
+Latitud: -7.1581258
+Longitud: -78.5173106
+Google Maps: https://www.google.com/maps?cid=1117937583279888588
+Place Id: ChIJi7xwNVBbspERzNh0FE-2gw8
+Fotos: Que Lomazo.jpg

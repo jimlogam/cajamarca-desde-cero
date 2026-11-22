@@ -1,0 +1,16 @@
+Nombre: AVC Plaza
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av. Hoyos Rubio 1317, Cajamarca 06001
+Teléfono: 976 186 393
+Rating: 3.9
+Reseñas: 65
+Sitio web: 
+Latitud: -7.1476533
+Longitud: -78.502782
+Google Maps: https://www.google.com/maps?cid=10420344088537577068
+Place Id: ChIJ87F859lbspERbLafOr1_nJA
+Fotos: AVC Plaza.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

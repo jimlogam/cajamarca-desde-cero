@@ -1,0 +1,15 @@
+Nombre: Mailyn Fu
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: 06003, Cajamarca
+Teléfono: 917 174 925
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.18384
+Longitud: -78.4903289
+Google Maps: https://www.google.com/maps?cid=12703948058765829771
+Place Id: ChIJQ5DGjTdbspERiybAd3N9TbA
+Fotos: Mailyn Fu.jpg

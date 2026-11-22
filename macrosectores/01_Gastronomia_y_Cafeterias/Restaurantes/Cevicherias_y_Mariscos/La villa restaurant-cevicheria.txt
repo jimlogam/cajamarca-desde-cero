@@ -1,0 +1,15 @@
+Nombre: La villa restaurant-cevicheria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Av. Luis Rebaza Neyra 470, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.163869
+Longitud: -78.5006334
+Google Maps: https://www.google.com/maps?cid=12157726244497223646
+Place Id: ChIJLVYsOgBbspER3m-z35rruKg
+Fotos: La villa restaurant-cevicheria.jpg

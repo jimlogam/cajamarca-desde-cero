@@ -1,0 +1,16 @@
+Nombre: RESTAURANTE BRENDITA II
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av. Héroes de San Ramón 146, Cajamarca 06002
+Teléfono: 953 966 540
+Rating: 4
+Reseñas: 12
+Sitio web: 
+Latitud: -7.1614705999999995
+Longitud: -78.5134035
+Google Maps: https://www.google.com/maps?cid=14758623452000065930
+Place Id: ChIJ76i7I8RbspERipk2xtUp0cw
+Fotos: RESTAURANTE BRENDITA II.jpg, RESTAURANTE BRENDITA II-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

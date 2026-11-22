@@ -1,0 +1,15 @@
+Nombre: Restaurant A Su Gusto
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante de brunch
+Dirección: Av. Mártires de Uchuraccay 2707, Cajamarca 06003
+Teléfono: 957 590 040
+Rating: 4.5
+Reseñas: 26
+Sitio web: 
+Latitud: -7.1835862
+Longitud: -78.4894237
+Google Maps: https://www.google.com/maps?cid=9693140954749927361
+Place Id: ChIJ609cThlbspERwf-ohVf0hIY
+Fotos: Restaurant A Su Gusto.jpg

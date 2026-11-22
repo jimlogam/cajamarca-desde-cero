@@ -1,0 +1,16 @@
+Nombre: POLLERÍA CHIFA ZAMBRANO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante
+Dirección: Av. Atahualpa 609, Cajamarca 06002
+Teléfono: 958 977 782
+Rating: 3.5
+Reseñas: 58
+Sitio web: 
+Latitud: -7.1653766
+Longitud: -78.5024371
+Google Maps: https://www.google.com/maps?cid=13227167466259109339
+Place Id: ChIJ8y9QZh5bspER21X64rpWkLc
+Fotos: POLLERÍA CHIFA ZAMBRANO.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

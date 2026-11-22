@@ -1,0 +1,15 @@
+Nombre: KM 0 BAR
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: Jirón Silva Santisteban 157, Cajamarca 06002
+Teléfono: 
+Rating: 4.1
+Reseñas: 14
+Sitio web: 
+Latitud: -7.159541099999999
+Longitud: -78.5163675
+Google Maps: https://www.google.com/maps?cid=12939305802814777
+Place Id: ChIJjdu6XABbspEROVUE5jr4LQA
+Fotos: KM 0 BAR.jpg

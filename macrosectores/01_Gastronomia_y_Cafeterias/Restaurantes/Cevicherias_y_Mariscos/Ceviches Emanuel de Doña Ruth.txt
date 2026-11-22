@@ -1,0 +1,15 @@
+Nombre: Ceviches Emanuel de Doña Ruth
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. La Paz 419, Cajamarca 06003
+Teléfono: 955 804 514
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1673987
+Longitud: -78.5080785
+Google Maps: https://www.google.com/maps?cid=12971643789563379534
+Place Id: ChIJ72sGTjhbspERTr_TxUyJBLQ
+Fotos: Ceviches Emanuel de Doña Ruth.jpg

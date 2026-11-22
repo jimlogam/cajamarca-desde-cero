@@ -1,0 +1,15 @@
+Nombre: PANADERÍA LA IDEAL BISTRO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Taberna
+Dirección: Eduardo Rodríguez 305, Cajamarca 06001
+Teléfono: 
+Rating: 4.2
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1467914
+Longitud: -78.5102082
+Google Maps: https://www.google.com/maps?cid=11068688176598159542
+Place Id: ChIJfUPchy1bspERthCzj0Dhm5k
+Fotos: PANADERÍA LA IDEAL BISTRO.jpg

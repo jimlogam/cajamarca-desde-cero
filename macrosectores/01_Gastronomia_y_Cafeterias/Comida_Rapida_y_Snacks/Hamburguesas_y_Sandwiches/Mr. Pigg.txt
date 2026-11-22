@@ -1,0 +1,15 @@
+Nombre: Mr. Pigg
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: Av Vía de Evitamiento Nte 1710, Cajamarca 06001
+Teléfono: 947 988 004
+Rating: 5
+Reseñas: 7
+Sitio web: 
+Latitud: -7.144973299999999
+Longitud: -78.51097759999999
+Google Maps: https://www.google.com/maps?cid=9955874360803657020
+Place Id: ChIJhXqfDMhbspERPAUfkPteKoo
+Fotos: Mr. Pigg.jpg

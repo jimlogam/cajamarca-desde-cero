@@ -1,0 +1,15 @@
+Nombre: Miski café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Av. Atahualpa 445, Cajamarca 06002
+Teléfono: 
+Rating: 4
+Reseñas: 9
+Sitio web: 
+Latitud: -7.165459599999999
+Longitud: -78.505104
+Google Maps: https://www.google.com/maps?cid=14044306187344199416
+Place Id: ChIJZV5PZ29bspER-L54RRFm58I
+Fotos: Miski café.jpg

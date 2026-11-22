@@ -1,0 +1,15 @@
+Nombre: Panadería y Pastelería William
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Chanchamayo 1874, Cajamarca 06001
+Teléfono: 996 262 578
+Rating: 4.5
+Reseñas: 12
+Sitio web: 
+Latitud: -7.1444379
+Longitud: -78.5236596
+Google Maps: https://www.google.com/maps?cid=4328152049600239514
+Place Id: ChIJlWWCnhBbspERmhdNiluvEDw
+Fotos: Panadería y Pastelería William.jpg

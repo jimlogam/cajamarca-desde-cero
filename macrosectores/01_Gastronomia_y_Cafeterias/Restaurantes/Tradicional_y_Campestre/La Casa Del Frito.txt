@@ -1,0 +1,15 @@
+Nombre: La Casa Del Frito
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Junín 601, Cajamarca 06001
+Teléfono: 976 728 228
+Rating: 4.2
+Reseñas: 20
+Sitio web: 
+Latitud: -7.156491099999999
+Longitud: -78.52125
+Google Maps: https://www.google.com/maps?cid=17453079738166666252
+Place Id: ChIJv0PfL1ZaspERDOT9LY3LNfI
+Fotos: La Casa Del Frito.jpg

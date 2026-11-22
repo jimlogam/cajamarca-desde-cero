@@ -1,0 +1,15 @@
+Nombre: La Ideal Panaderia y Pasteleria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Cafetería
+Dirección: Los Nogales, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1485015999999995
+Longitud: -78.5147123
+Google Maps: https://www.google.com/maps?cid=10265219329086108258
+Place Id: ChIJE_DnYwBbspERYrKmo5didY4
+Fotos: La Ideal Panaderia y Pasteleria.jpg

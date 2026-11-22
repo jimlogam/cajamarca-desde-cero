@@ -1,0 +1,15 @@
+Nombre: CALDOS CHANCHAMAYO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante
+Dirección: VF4Q+HVV, Prol. Revilla Perez, Cajamarca 06001
+Teléfono: 991 525 709
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1435062
+Longitud: -78.5103185
+Google Maps: https://www.google.com/maps?cid=17028392952221216597
+Place Id: ChIJ6ywDbQBbspERVS_pdCsBUew
+Fotos: CALDOS CHANCHAMAYO.jpg

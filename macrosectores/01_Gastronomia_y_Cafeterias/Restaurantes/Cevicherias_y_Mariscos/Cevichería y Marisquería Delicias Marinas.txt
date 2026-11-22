@@ -1,0 +1,15 @@
+Nombre: Cevichería y Marisquería "Delicias Marinas"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Jirón Huancavelica 847, Cajamarca 06001
+Teléfono: 927 813 151
+Rating: 3.8
+Reseñas: 75
+Sitio web: 
+Latitud: -7.1467106
+Longitud: -78.5175257
+Google Maps: https://www.google.com/maps?cid=17766071501134721567
+Place Id: ChIJtUQVn5xbspERH3JTz-bDjfY
+Fotos: Cevichería y Marisquería Delicias Marinas.jpg

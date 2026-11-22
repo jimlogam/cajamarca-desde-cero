@@ -1,0 +1,15 @@
+Nombre: Cevicheria el anzuelo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante de pescados, Restaurante
+Dirección: Av. Mártires de Uchuraccay y, Cajamarca 06001
+Teléfono: 951 143 113
+Rating: 3.4
+Reseñas: 5
+Sitio web: https://www.facebook.com/share/1BEKdcNRTq/?mibextid=wwXIfr
+Latitud: -7.168942299999999
+Longitud: -78.50233589999999
+Google Maps: https://www.google.com/maps?cid=264271921399264372
+Place Id: ChIJcZBvDwBbspERdPQcj-nhqgM
+Fotos: Cevicheria el anzuelo.jpg

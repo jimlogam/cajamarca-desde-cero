@@ -1,0 +1,16 @@
+Nombre: Qhaliche
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Bar restaurante, Tienda de licores del estado
+Dirección: Jr. Belaunde Terry 606, Cajamarca 06003
+Teléfono: 928 850 695
+Rating: 5
+Reseñas: 15
+Sitio web: 
+Latitud: -7.1812945
+Longitud: -78.5039649
+Google Maps: https://www.google.com/maps?cid=18376451133370645245
+Place Id: ChIJ23UahR1bspER_brhdPFEBv8
+Fotos: Qhaliche.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

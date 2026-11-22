@@ -1,0 +1,15 @@
+Nombre: Burgers G&M
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: Jr, Paul Rivet 209, Cajamarca 06001
+Teléfono: 931 652 410
+Rating: 4.6
+Reseñas: 9
+Sitio web: 
+Latitud: -7.150035399999999
+Longitud: -78.507325
+Google Maps: https://www.google.com/maps?cid=3147307711185723321
+Place Id: ChIJGcZHWLpbspERuZ8SLLB7rSs
+Fotos: Burgers G&M.jpg

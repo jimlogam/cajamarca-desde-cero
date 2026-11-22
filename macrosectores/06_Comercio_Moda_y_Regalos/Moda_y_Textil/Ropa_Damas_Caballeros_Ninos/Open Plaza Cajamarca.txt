@@ -1,0 +1,16 @@
+Nombre: Open Plaza Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: RFXV+8WM, Vía de Evitamiento Nte., Cajamarca 06002
+Teléfono: 
+Rating: 4.2
+Reseñas: 286
+Sitio web: https://mallplaza.com/pe/open-cajamarca
+Latitud: -7.1516646999999995
+Longitud: -78.50520449999999
+Google Maps: https://www.google.com/maps?cid=2226180244677234432
+Place Id: ChIJAQAAa-9aspERAI_6QSP75B4
+Fotos: Open Plaza Cajamarca.jpg
+Nota: Centro comercial (no es una tienda individual)

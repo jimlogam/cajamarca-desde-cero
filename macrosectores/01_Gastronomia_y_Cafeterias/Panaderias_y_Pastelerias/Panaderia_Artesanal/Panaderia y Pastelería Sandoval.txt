@@ -1,0 +1,15 @@
+Nombre: Panaderia y Pastelería Sandoval
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Leguía 109, Cajamarca 06001
+Teléfono: 
+Rating: 2.2
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1535676
+Longitud: -78.51943059999999
+Google Maps: https://www.google.com/maps?cid=15136031859543469605
+Place Id: ChIJbZ2O6AVbspERJW4VOcj8DdI
+Fotos: Panaderia y Pastelería Sandoval.jpg

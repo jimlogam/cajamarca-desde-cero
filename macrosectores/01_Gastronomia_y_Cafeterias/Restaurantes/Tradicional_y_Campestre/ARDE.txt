@@ -1,0 +1,15 @@
+Nombre: ARDE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jr. Apurimac cdra 5, Cajamarca 06001
+Teléfono: 912 227 780
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.156765999999999
+Longitud: -78.5194138
+Google Maps: https://www.google.com/maps?cid=5106924008604772912
+Place Id: ChIJ6-m7f6VbspERMCrNA1Rw30Y
+Fotos: ARDE.jpg

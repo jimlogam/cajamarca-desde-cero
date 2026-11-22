@@ -1,0 +1,15 @@
+Nombre: CHIFA SABOR DIVINO ¡ Buena sazón y atención recomendada!
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: JIRON, Ponciano Vigil 740, Chota 06120
+Teléfono: 921 475 683
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -6.5592464999999995
+Longitud: -78.6509658
+Google Maps: https://www.google.com/maps?cid=6518467946525178738
+Place Id: ChIJtdrA0E6fs5ERcjtnoA9Adlo
+Fotos: CHIFA SABOR DIVINO ¡ Buena sazón y atención recomendada!.jpg

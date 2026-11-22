@@ -1,0 +1,15 @@
+Nombre: TACOS CAJAMARQUINOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Snacks_y_Piques
+Categoría Maps: Restaurante de comida rápida, Restaurante
+Dirección: 7 de Junio 117, Cajamarca 06002
+Teléfono: 937 237 407
+Rating: 4.5
+Reseñas: 70
+Sitio web: https://drive.google.com/file/d/1N8TuaQI0wBvyaH9h8WOnAVgf3_eSgs0c/view?usp=sharing
+Latitud: -7.157829899999999
+Longitud: -78.5092394
+Google Maps: https://www.google.com/maps?cid=12140794017766032447
+Place Id: ChIJoft79GhbspERP8QhoNXDfKg
+Fotos: TACOS CAJAMARQUINOS.jpg

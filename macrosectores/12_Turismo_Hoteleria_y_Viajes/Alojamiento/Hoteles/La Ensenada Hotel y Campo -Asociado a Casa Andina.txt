@@ -1,0 +1,15 @@
+Nombre: La Ensenada Hotel y Campo -Asociado a Casa Andina
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Fundo Los Sauces Km 5, Carr. a Baños del Inca, Cajamarca
+Teléfono: 949 216 252
+Rating: 4.4
+Reseñas: 555
+Sitio web: https://www.laensenadahoteles.com/
+Latitud: -7.1604475999999995
+Longitud: -78.477171
+Google Maps: https://www.google.com/maps?cid=13053153812280126532
+Place Id: ChIJVVVVVVVls5ERRCx-0zseJrU
+Fotos: La Ensenada Hotel y Campo -Asociado a Casa Andina.jpg

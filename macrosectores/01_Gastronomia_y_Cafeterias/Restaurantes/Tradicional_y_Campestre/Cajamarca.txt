@@ -1,0 +1,16 @@
+Nombre: Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: 
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: http://www.cajamarcaperu.com/http://www.municaj.gob.pe/
+Latitud: -7.1633144
+Longitud: -78.5109428
+Google Maps: https://www.google.com/maps?cid=16897684718647470891
+Place Id: ChIJh9DHP_1aspERK2uHTbmigOo
+Fotos: Cajamarca.jpg
+Nota: Sin categoria en Maps; clasificado como restaurante general por el contexto de la busqueda.

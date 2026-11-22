@@ -1,0 +1,15 @@
+Nombre: Kanay Cafetería - Restaurant
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Cinco Esquinas 1582, Cajamarca 06002
+Teléfono: 951 703 630
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1523999
+Longitud: -78.5073128
+Google Maps: https://www.google.com/maps?cid=5961098014632287636
+Place Id: ChIJbYUyPzBbspERlJ1xoQ8TulI
+Fotos: Kanay Cafetería - Restaurant.jpg

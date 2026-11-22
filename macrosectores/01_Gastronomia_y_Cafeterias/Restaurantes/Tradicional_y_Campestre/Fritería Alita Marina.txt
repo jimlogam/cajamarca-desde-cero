@@ -1,0 +1,15 @@
+Nombre: Fritería Alita Marina
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Jr.Amazonas 1211, Cajamarca 06001
+Teléfono: 931 390 624
+Rating: 3.5
+Reseñas: 6
+Sitio web: https://www.facebook.com/FriteriaAlitaMarina/
+Latitud: -7.1594767
+Longitud: -78.5125334
+Google Maps: https://www.google.com/maps?cid=1697157998484779933
+Place Id: ChIJA2J3pmlbspERnfNlKzWEjRc
+Fotos: Fritería Alita Marina.jpg

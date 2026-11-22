@@ -1,0 +1,16 @@
+Nombre: Chifa Central
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: Jr del Batán 149, Cajamarca 06001
+Teléfono: (076) 344182
+Rating: 3.9
+Reseñas: 1065
+Sitio web: 
+Latitud: -7.1560301
+Longitud: -78.51761619999999
+Google Maps: https://www.google.com/maps?cid=15017485633509890562
+Place Id: ChIJ01PeA_laspERAprjHJ7TaNA
+Fotos: Chifa Central.jpg, Chifa Central-1.jpg, Chifa Central-2.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

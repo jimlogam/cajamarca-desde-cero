@@ -1,0 +1,15 @@
+Nombre: Cevicheria Restaurante El Zorrito
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante, Marisquería
+Dirección: Jirón Mariano Iberico 321, Cajamarca 06001
+Teléfono: 926 897 887
+Rating: 4.7
+Reseñas: 6
+Sitio web: 
+Latitud: -7.149659199999999
+Longitud: -78.5033193
+Google Maps: https://www.google.com/maps?cid=14636927144681909742
+Place Id: ChIJp641uchbspER7q0JNrDPIMs
+Fotos: Cevicheria Restaurante El Zorrito.jpg

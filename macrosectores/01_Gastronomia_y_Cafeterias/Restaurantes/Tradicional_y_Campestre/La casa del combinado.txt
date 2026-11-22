@@ -1,0 +1,15 @@
+Nombre: La casa del combinado
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Manco Capac Mz.23 - Lt.10, Florencia de Mora 13003
+Teléfono: 
+Rating: 4.4
+Reseñas: 24
+Sitio web: 
+Latitud: -8.0793004
+Longitud: -79.0162703
+Google Maps: https://www.google.com/maps?cid=7281450874581879257
+Place Id: ChIJFeH8pi8XrZER2Qnp3P3oDGU
+Fotos: La casa del combinado.jpg

@@ -1,0 +1,15 @@
+Nombre: Restauran Tipico De La Selva Candamo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av Vía de Evitamiento Nte 560, Cajamarca 06001
+Teléfono: 991 347 934
+Rating: 4
+Reseñas: 87
+Sitio web: 
+Latitud: -7.1466882
+Longitud: -78.52097619999999
+Google Maps: https://www.google.com/maps?cid=1491117986303480364
+Place Id: ChIJC6B_Z19aspERLJLQg-iDsRQ
+Fotos: Restauran Tipico De La Selva Candamo.jpg

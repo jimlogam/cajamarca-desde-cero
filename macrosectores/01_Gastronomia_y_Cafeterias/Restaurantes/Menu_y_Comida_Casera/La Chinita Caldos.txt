@@ -1,0 +1,16 @@
+Nombre: "La Chinita" Caldos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante de sopas
+Dirección: Jr. Tarapacá 772, Cajamarca 06001
+Teléfono: 916 546 760
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.155380699999999
+Longitud: -78.519542
+Google Maps: https://www.google.com/maps?cid=13907264849883525650
+Place Id: ChIJf16q9m9bspEREnKVdrKHAME
+Fotos: La Chinita Caldos.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

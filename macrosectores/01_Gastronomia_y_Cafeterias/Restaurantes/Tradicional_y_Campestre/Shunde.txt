@@ -1,0 +1,15 @@
+Nombre: "Shunde"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Los Leones 394, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1536867
+Longitud: -78.5064264
+Google Maps: https://www.google.com/maps?cid=12500527032197046871
+Place Id: ChIJT4mBneVaspERV-JF6xrLeq0
+Fotos: Shunde.jpg

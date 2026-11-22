@@ -1,0 +1,15 @@
+Nombre: CEVICHERIA "BAR'AKUS"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: RG83+78P, Av. La Paz, Cajamarca 06003
+Teléfono: 
+Rating: 4.7
+Reseñas: 10
+Sitio web: 
+Latitud: -7.184277499999999
+Longitud: -78.4966814
+Google Maps: https://www.google.com/maps?cid=8101946597100417103
+Place Id: ChIJhatLsGBbspERT_BaDYHlb3A
+Fotos: CEVICHERIA BAR'AKUS.jpg

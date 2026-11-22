@@ -1,0 +1,15 @@
+Nombre: Fabrica Queso Huacariz
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Tienda de productos lácteos
+Dirección: Jirón Silva Santisteban 866, Cajamarca 06002
+Teléfono: (076) 362725
+Rating: 4.3
+Reseñas: 555
+Sitio web: 
+Latitud: -7.1623266
+Longitud: -78.5133529
+Google Maps: https://www.google.com/maps?cid=18093906047005929354
+Place Id: ChIJWQs6vv1aspERiq8UI693Gvs
+Fotos: Fabrica Queso Huacariz.jpg

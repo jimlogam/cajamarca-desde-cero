@@ -1,0 +1,15 @@
+Nombre: Agallas de Mar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. Andrés Zevallos 1495, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1501809
+Longitud: -78.5065197
+Google Maps: https://www.google.com/maps?cid=5119050145824860874
+Place Id: ChIJ58g5AABbspERympNWfyECkc
+Fotos: Agallas de Mar.jpg

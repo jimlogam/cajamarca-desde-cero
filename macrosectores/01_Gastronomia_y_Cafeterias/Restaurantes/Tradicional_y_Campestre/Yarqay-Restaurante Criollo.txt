@@ -1,0 +1,16 @@
+Nombre: Yarqay-Restaurante Criollo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Al costado del nuevo terminal terrestre, Coricancha 192, Cajamarca 06001
+Teléfono: 931 883 036
+Rating: 5
+Reseñas: 20
+Sitio web: https://www.facebook.com/yarqay/
+Latitud: -7.1662211
+Longitud: -78.49981389999999
+Google Maps: https://www.google.com/maps?cid=9476407930497411604
+Place Id: ChIJXxcX3AxbspERFCr--832goM
+Fotos: Yarqay-Restaurante Criollo.jpg, Yarqay-Restaurante Criollo-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

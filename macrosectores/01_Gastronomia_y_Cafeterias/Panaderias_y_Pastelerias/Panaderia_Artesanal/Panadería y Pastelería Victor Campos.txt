@@ -1,0 +1,15 @@
+Nombre: Panadería y Pastelería Victor Campos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Cajamarca 06003
+Teléfono: 987 784 334
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1789679
+Longitud: -78.4921772
+Google Maps: https://www.google.com/maps?cid=13353250834499647861
+Place Id: ChIJHVOU3QlbspERdTkKq-JGULk
+Fotos: Panadería y Pastelería Victor Campos.jpg

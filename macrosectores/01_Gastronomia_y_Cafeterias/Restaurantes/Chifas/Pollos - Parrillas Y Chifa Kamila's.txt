@@ -1,0 +1,15 @@
+Nombre: Pollos - Parrillas Y Chifa "Kamila's"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante
+Dirección: Cajamarca 06003
+Teléfono: 929 114 511
+Rating: 4.7
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1721167999999995
+Longitud: -78.4952766
+Google Maps: https://www.google.com/maps?cid=8209207504802588106
+Place Id: ChIJ_RV54SJbspERyqU6O7v27HE
+Fotos: Pollos - Parrillas Y Chifa Kamila's.jpg

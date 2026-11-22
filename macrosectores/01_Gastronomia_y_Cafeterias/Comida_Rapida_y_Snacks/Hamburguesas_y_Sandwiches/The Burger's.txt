@@ -1,0 +1,15 @@
+Nombre: The Burger's
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: Miguel Grau 412, Cajamarca 06002
+Teléfono: (076) 772420
+Rating: 4.2
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1552538
+Longitud: -78.5121668
+Google Maps: https://www.google.com/maps?cid=11035784757449891456
+Place Id: ChIJ8bpdLTpbspERgJ54TcT7Jpk
+Fotos: The Burger's.jpg

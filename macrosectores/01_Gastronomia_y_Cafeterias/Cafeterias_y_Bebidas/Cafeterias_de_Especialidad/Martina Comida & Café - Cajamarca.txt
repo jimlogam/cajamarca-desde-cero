@@ -1,0 +1,16 @@
+Nombre: Martina Comida & Café - Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Restaurante
+Dirección: Av. Hoyos Rubio 1804, Cajamarca, Baños del Inca 06004
+Teléfono: 919 281 027
+Rating: 4.9
+Reseñas: 636
+Sitio web: https://martinacafe.pe/
+Latitud: -7.1423326
+Longitud: -78.48977719999999
+Google Maps: https://www.google.com/maps?cid=13142957230038941792
+Place Id: ChIJUea3pmdbspERYICfYvcpZbY
+Fotos: Martina Comida & Café - Cajamarca.jpg, Martina Comida & Café - Cajamarca-1.jpg, Martina Comida & Café - Cajamarca-2.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

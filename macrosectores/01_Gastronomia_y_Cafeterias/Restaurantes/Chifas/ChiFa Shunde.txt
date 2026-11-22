@@ -1,0 +1,15 @@
+Nombre: ChiFa Shunde
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante de comida de Java Oriental
+Dirección: Av. Atahualpa 649, Cajamarca 06002
+Teléfono: 
+Rating: 3
+Reseñas: 5
+Sitio web: 
+Latitud: -7.165538499999999
+Longitud: -78.5017192
+Google Maps: https://www.google.com/maps?cid=749066663106060350
+Place Id: ChIJfaUXfgBbspERPiCGTyk4ZQo
+Fotos: ChiFa Shunde.jpg

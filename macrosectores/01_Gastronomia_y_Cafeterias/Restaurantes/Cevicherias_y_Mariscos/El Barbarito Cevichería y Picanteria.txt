@@ -1,0 +1,15 @@
+Nombre: "El Barbarito" Cevichería y Picanteria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Camilo Blas 110, Cajamarca 06001
+Teléfono: 946 022 216
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1484355
+Longitud: -78.5037625
+Google Maps: https://www.google.com/maps?cid=9962614029128561368
+Place Id: ChIJxWSWIQBbspER2PKH4KxQQoo
+Fotos: El Barbarito Cevichería y Picanteria.jpg

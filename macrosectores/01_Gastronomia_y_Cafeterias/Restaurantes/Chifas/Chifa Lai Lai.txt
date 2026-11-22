@@ -1,0 +1,16 @@
+Nombre: Chifa Lai Lai
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: Av Vía de Evitamiento Nte 1045, Cajamarca 06001
+Teléfono: 925 166 027
+Rating: 5
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1456763
+Longitud: -78.5174675
+Google Maps: https://www.google.com/maps?cid=15647957219751629549
+Place Id: ChIJJdAGEgBbspER7RLOVy-2KNk
+Fotos: Chifa Lai Lai.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

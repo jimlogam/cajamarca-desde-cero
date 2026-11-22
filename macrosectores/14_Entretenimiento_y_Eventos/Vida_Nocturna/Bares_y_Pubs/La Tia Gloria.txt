@@ -1,0 +1,15 @@
+Nombre: La Tia Gloria
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: Sta. Teresa 296, Cajamarca 06002
+Teléfono: 940 522 778
+Rating: 3.9
+Reseñas: 117
+Sitio web: 
+Latitud: -7.162367199999999
+Longitud: -78.5065465
+Google Maps: https://www.google.com/maps?cid=8676056409912549191
+Place Id: ChIJO7305hVbspERR58WTFaLZ3g
+Fotos: La Tia Gloria.jpg

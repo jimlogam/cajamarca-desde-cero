@@ -1,0 +1,15 @@
+Nombre: Dxn savech Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: 06002, Jr. Apurimac 1225, Cajamarca 06002
+Teléfono: 977 501 241
+Rating: 
+Reseñas: 
+Sitio web: https://wa.link/fl94o7
+Latitud: -7.1525913
+Longitud: -78.5157411
+Google Maps: https://www.google.com/maps?cid=11032348787728082923
+Place Id: ChIJ979UAABbspER62e-QsXGGpk
+Fotos: Dxn savech Cajamarca.jpg

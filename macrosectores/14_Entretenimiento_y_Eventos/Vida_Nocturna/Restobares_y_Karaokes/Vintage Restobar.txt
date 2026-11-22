@@ -1,0 +1,16 @@
+Nombre: Vintage Restobar
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Pub restaurante
+Dirección: Av. Hoyos Rubio 772, Cajamarca 06001
+Teléfono: 988 880 720
+Rating: 4
+Reseñas: 8
+Sitio web: 
+Latitud: -7.149676899999999
+Longitud: -78.5085256
+Google Maps: https://www.google.com/maps?cid=15102082760585625528
+Place Id: ChIJCwkgorBbspERuL9BqUFgldE
+Fotos: Vintage Restobar.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

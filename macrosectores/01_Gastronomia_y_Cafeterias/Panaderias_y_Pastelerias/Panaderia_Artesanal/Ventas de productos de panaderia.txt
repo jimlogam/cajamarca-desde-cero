@@ -1,0 +1,15 @@
+Nombre: Ventas de productos de panaderia
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Miguel Iglesias 793, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.148036299999999
+Longitud: -78.5184355
+Google Maps: https://www.google.com/maps?cid=10506360413792664680
+Place Id: ChIJA8usSQBbspERaHxWmiEXzpE
+Fotos: Ventas de productos de panaderia.jpg

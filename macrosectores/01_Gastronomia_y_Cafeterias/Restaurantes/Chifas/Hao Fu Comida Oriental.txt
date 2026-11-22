@@ -1,0 +1,15 @@
+Nombre: Hao Fu Comida Oriental
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: Jr. Tupac 313, Baños del Inca 06001
+Teléfono: 929 883 315
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1654478
+Longitud: -78.4677354
+Google Maps: https://www.google.com/maps?cid=11769862305575459587
+Place Id: ChIJLaO6ug5FspERA9sVU2jzVqM
+Fotos: Hao Fu Comida Oriental.jpg

@@ -1,0 +1,15 @@
+Nombre: Panificadora Rey Salem
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Campo Real, Ramiro León Urbina Mz O Lt11, Cajamarca 06001
+Teléfono: 949 234 389
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1494269
+Longitud: -78.5016646
+Google Maps: https://www.google.com/maps?cid=6090689265825915024
+Place Id: ChIJWX9_GulaspERkKDWDp55hlQ
+Fotos: Sin foto en Maps

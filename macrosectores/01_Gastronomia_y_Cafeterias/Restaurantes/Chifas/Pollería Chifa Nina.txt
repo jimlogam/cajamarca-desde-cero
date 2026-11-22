@@ -1,0 +1,15 @@
+Nombre: Pollería Chifa Nina
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante
+Dirección: Av. Héroes del Cenepa 559, Cajamarca 06003
+Teléfono: 990 194 024
+Rating: 1.8
+Reseñas: 4
+Sitio web: 
+Latitud: -7.178095399999999
+Longitud: -78.4958281
+Google Maps: https://www.google.com/maps?cid=9743684676688044159
+Place Id: ChIJY0SeOLdbspERf2Bo1ZaFOIc
+Fotos: Pollería Chifa Nina.jpg

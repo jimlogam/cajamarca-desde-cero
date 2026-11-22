@@ -1,0 +1,16 @@
+Nombre: Jugueria Disfrútame
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante de desayunos
+Dirección: Sta. Teresa de Journet 428, Cajamarca 06001
+Teléfono: 
+Rating: 4.9
+Reseñas: 17
+Sitio web: 
+Latitud: -7.147011699999999
+Longitud: -78.5088585
+Google Maps: https://www.google.com/maps?cid=5349318546859106701
+Place Id: ChIJV_T9AwBbspERjSHyX-CYPEo
+Fotos: Jugueria Disfrútame.jpg, Jugueria Disfrútame-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

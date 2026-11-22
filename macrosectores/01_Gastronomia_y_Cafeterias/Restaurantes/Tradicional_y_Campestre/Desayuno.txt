@@ -1,0 +1,15 @@
+Nombre: Desayuno
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av. Atahualpa 439, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1655576
+Longitud: -78.50514199999999
+Google Maps: https://www.google.com/maps?cid=11410309774376758739
+Place Id: ChIJ4fgeLgBbspER0-3kDkmQWZ4
+Fotos: Desayuno.jpg

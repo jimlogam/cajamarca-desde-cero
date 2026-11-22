@@ -1,0 +1,16 @@
+Nombre: Rafael Café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jr, Sta. Teresa de Journet 394, Cajamarca 06001
+Teléfono: 965 771 787
+Rating: 4.6
+Reseñas: 253
+Sitio web: http://www.elasadorcarnesalcilindro.com/
+Latitud: -7.147185299999999
+Longitud: -78.50915909999999
+Google Maps: https://www.google.com/maps?cid=3351721302231293479
+Place Id: ChIJUSuiv51bspERJx6bJcS0gy4
+Fotos: Rafael Café_2.jpg, Rafael Café_2-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,15 @@
+Nombre: La Wislla
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Juan Beato Macias 482, Cajamarca 06001
+Teléfono: 980 415 762
+Rating: 4.2
+Reseñas: 126
+Sitio web: http://lawislla.com/
+Latitud: -7.1709198
+Longitud: -78.4987453
+Google Maps: https://www.google.com/maps?cid=11958859801488306109
+Place Id: ChIJp1z4cLZbspERva9o8qBn9qU
+Fotos: La Wislla.jpg

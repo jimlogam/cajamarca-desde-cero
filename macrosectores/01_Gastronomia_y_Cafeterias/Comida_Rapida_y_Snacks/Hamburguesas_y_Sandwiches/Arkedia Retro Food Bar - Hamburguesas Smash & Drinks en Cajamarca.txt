@@ -1,0 +1,15 @@
+Nombre: Arkedia Retro Food Bar - Hamburguesas Smash & Drinks en Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: Av Vía de Evitamiento Nte 696, Cajamarca 06000
+Teléfono: 945 896 449
+Rating: 5
+Reseñas: 28
+Sitio web: 
+Latitud: -7.1465165
+Longitud: -78.52053269999999
+Google Maps: https://www.google.com/maps?cid=12513798690497856850
+Place Id: ChIJEWQtAadbspERUoXfqZvxqa0
+Fotos: Arkedia Retro Food Bar - Hamburguesas Smash & Drinks en Cajamarca.jpg

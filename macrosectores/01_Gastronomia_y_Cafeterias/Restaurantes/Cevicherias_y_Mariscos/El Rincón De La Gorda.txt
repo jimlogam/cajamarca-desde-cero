@@ -1,0 +1,16 @@
+Nombre: El Rincón De La Gorda
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Guillermo Urrelo # 986, Julio Guerrero 121, Cajamarca
+Teléfono: 927 497 379
+Rating: 4.3
+Reseñas: 90
+Sitio web: 
+Latitud: -7.1595743
+Longitud: -78.509782
+Google Maps: https://www.google.com/maps?cid=7938055116065123318
+Place Id: ChIJmUVA-_taspER9quICBKjKW4
+Fotos: El Rincón De La Gorda.jpg, El Rincón De La Gorda-1.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

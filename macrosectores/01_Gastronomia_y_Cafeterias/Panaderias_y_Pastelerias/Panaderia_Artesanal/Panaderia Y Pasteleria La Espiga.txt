@@ -1,0 +1,15 @@
+Nombre: Panaderia Y Pasteleria La Espiga
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av. Atahualpa 439, Cajamarca 06002
+Teléfono: 950 071 393
+Rating: 4
+Reseñas: 35
+Sitio web: 
+Latitud: -7.1655576
+Longitud: -78.50514199999999
+Google Maps: https://www.google.com/maps?cid=5979422925013554324
+Place Id: ChIJd8gn9UJbspERlJRCT3gt-1I
+Fotos: Panaderia Y Pasteleria La Espiga.jpg

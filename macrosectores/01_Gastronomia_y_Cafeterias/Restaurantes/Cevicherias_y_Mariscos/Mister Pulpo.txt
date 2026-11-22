@@ -1,0 +1,15 @@
+Nombre: Mister Pulpo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. Industrial 947, cd9Cajamarca 06003
+Teléfono: 928 593 947
+Rating: 4.5
+Reseñas: 2
+Sitio web: https://www.instagram.com/mister_pulpo_?igsh=MTlscmc5azdmYnhidQ
+Latitud: -7.181095699999999
+Longitud: -78.4886975
+Google Maps: https://www.google.com/maps?cid=10942613101733156141
+Place Id: ChIJz9_fLABbspERLRVXu6P425c
+Fotos: Mister Pulpo.jpg

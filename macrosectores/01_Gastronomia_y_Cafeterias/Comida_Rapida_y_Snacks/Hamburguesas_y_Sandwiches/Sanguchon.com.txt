@@ -1,0 +1,16 @@
+Nombre: Sanguchon.com
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería, Bocatería
+Dirección: Junín 1249, Cajamarca 06002
+Teléfono: 989 275 503
+Rating: 5
+Reseñas: 19
+Sitio web: https://www.instagram.com/sanguchon.c
+Latitud: -7.1584555
+Longitud: -78.518185
+Google Maps: https://www.google.com/maps?cid=12246042769864243903
+Place Id: ChIJV0AO31xbspERv7r_UQSv8qk
+Fotos: Sanguchon.com.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

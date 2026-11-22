@@ -1,0 +1,16 @@
+Nombre: JIJUNA RESTAURANT
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante, Restaurante de brunch
+Dirección: Eduardo Rodríguez 220, Cajamarca 06001
+Teléfono: (076) 261377
+Rating: 4.2
+Reseñas: 238
+Sitio web: 
+Latitud: -7.147261899999999
+Longitud: -78.51077169999999
+Google Maps: https://www.google.com/maps?cid=3693823257419126936
+Place Id: ChIJ3dzQI_JaspERmBiLka4YQzM
+Fotos: JIJUNA RESTAURANT.jpg, JIJUNA RESTAURANT-1.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

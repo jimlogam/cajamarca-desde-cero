@@ -1,0 +1,15 @@
+Nombre: Restaurant Cevichería El Megalodón
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante de brunch
+Dirección: JR, Chanchamayo 1840, Cajamarca 06001
+Teléfono: 
+Rating: 4
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1449644
+Longitud: -78.52352429999999
+Google Maps: https://www.google.com/maps?cid=17328549278193951837
+Place Id: ChIJ5cBoYHpbspERXSSaB8Jfe_A
+Fotos: Restaurant Cevichería El Megalodón.jpg

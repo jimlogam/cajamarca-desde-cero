@@ -1,0 +1,16 @@
+Nombre: Chifa San Martín Del Paisita
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: Av San Martín de Porres 934, Cajamarca 06003
+Teléfono: 942 201 341
+Rating: 2.7
+Reseñas: 40
+Sitio web: 
+Latitud: -7.1712237
+Longitud: -78.5017831
+Google Maps: https://www.google.com/maps?cid=17276760354829658988
+Place Id: ChIJdW8MjZxbspERbGssqwFiw-8
+Fotos: Chifa San Martín Del Paisita.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

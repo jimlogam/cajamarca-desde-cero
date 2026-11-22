@@ -1,0 +1,15 @@
+Nombre: Panaderia y pasteleria kenjhy
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Miguel Iglesias 429, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.151080599999999
+Longitud: -78.5189947
+Google Maps: https://www.google.com/maps?cid=16743836639509085465
+Place Id: ChIJrQJVRgBbspERGf0bA7YOXug
+Fotos: Panaderia y pasteleria kenjhy.jpg

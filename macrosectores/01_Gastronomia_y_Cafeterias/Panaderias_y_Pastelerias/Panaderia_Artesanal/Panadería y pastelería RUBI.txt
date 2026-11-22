@@ -1,0 +1,15 @@
+Nombre: Panadería y pastelería "RUBI"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: 51, Cajamarca 06001
+Teléfono: 944 331 798
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1089477
+Longitud: -78.5305025
+Google Maps: https://www.google.com/maps?cid=2031690614524844822
+Place Id: ChIJo-X66TRRspERFps_fNkDMhw
+Fotos: Sin foto en Maps

@@ -1,0 +1,15 @@
+Nombre: PANADERIA Y PASTELERIA CATTALEYA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: AV. SAN MARTIN CUADRA 19, Cajamarca 06000
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1933852
+Longitud: -78.4855269
+Google Maps: https://www.google.com/maps?cid=2595695545144821058
+Place Id: ChIJY5NPRQBbspERQsVrgVjDBSQ
+Fotos: PANADERIA Y PASTELERIA CATTALEYA.jpg

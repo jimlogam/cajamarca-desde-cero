@@ -1,0 +1,15 @@
+Nombre: SUMAQ CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av. Perú 1188, Cajamarca 06000
+Teléfono: 966 266 412
+Rating: 4.6
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1638214
+Longitud: -78.5174174
+Google Maps: https://www.google.com/maps?cid=532872849041067579
+Place Id: ChIJb3Okz99bspEROw6LbQglZQc
+Fotos: SUMAQ CAJAMARCA.jpg

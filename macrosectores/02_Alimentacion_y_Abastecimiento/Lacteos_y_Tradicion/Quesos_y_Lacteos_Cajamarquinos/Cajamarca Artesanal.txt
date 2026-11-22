@@ -1,0 +1,15 @@
+Nombre: Cajamarca Artesanal
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Tienda de alimentos naturales, Charcutería, Fabricante de queso, Quesería
+Dirección: Chanchamayo 1574, Cajamarca 06001
+Teléfono: 982 054 772
+Rating: 4.6
+Reseñas: 5
+Sitio web: https://www.instagram.com/cajamarca_artesanal
+Latitud: -7.146628
+Longitud: -78.5228024
+Google Maps: https://www.google.com/maps?cid=2028481622375774116
+Place Id: ChIJsR2XmWJbspERpLcdx0mdJhw
+Fotos: Cajamarca Artesanal.jpg

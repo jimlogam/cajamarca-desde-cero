@@ -1,0 +1,15 @@
+Nombre: El Bunker Hamburguesas & más
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Restaurante de comida rápida
+Dirección: 051, Cajamarca 06001
+Teléfono: 967 278 225
+Rating: 3.7
+Reseñas: 64
+Sitio web: 
+Latitud: -7.152485599999999
+Longitud: -78.5061113
+Google Maps: https://www.google.com/maps?cid=17355275941512257004
+Place Id: ChIJAwnpZ-5aspER7J24QIRT2vA
+Fotos: El Bunker Hamburguesas & más.jpg

@@ -1,0 +1,15 @@
+Nombre: Natur's Center
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante vegetariano
+Dirección: Amalia Puga 409, Cajamarca 06001
+Teléfono: 
+Rating: 4
+Reseñas: 52
+Sitio web: 
+Latitud: -7.1551260999999995
+Longitud: -78.5193034
+Google Maps: https://www.google.com/maps?cid=13281338532981588266
+Place Id: ChIJ_-R0aPhaspERKkETOAfLULg
+Fotos: Natur's Center.jpg

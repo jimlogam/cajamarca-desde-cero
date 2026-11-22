@@ -1,0 +1,15 @@
+Nombre: La Mina Marina
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Paul Rivet 260, Cajamarca 06002
+Teléfono: 
+Rating: 3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.150295
+Longitud: -78.5073074
+Google Maps: https://www.google.com/maps?cid=4929240570885894637
+Place Id: ChIJ7VdmxuRbspER7fEY2C4uaEQ
+Fotos: La Mina Marina.jpg

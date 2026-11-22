@@ -1,0 +1,15 @@
+Nombre: Cevichería Don Víctor
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Zona de restauración
+Dirección: Jr. Cusco j5, Cajamarca 06003
+Teléfono: 945 277 878
+Rating: 
+Reseñas: 
+Sitio web: https://www.tiktok.com/@don.vctor.ceviche?_t=ZS-8zOiOaagnWU&_r=1
+Latitud: -7.1797356
+Longitud: -78.49581649999999
+Google Maps: https://www.google.com/maps?cid=5155624013054964167
+Place Id: ChIJryTrValbspERx3GdZbl0jEc
+Fotos: Cevichería Don Víctor.jpg

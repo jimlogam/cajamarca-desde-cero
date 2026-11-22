@@ -1,0 +1,16 @@
+Nombre: Chifa Xin Hua
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: Amalia Puga 531, Cajamarca 00000
+Teléfono: 956 333 308
+Rating: 3.8
+Reseñas: 319
+Sitio web: 
+Latitud: -7.156026799999999
+Longitud: -78.518385
+Google Maps: https://www.google.com/maps?cid=18391083039561427020
+Place Id: ChIJUWFu-fhaspERTCjFl5VAOv8
+Fotos: Chifa Xin Hua.jpg, Chifa Xin Hua-1.jpg
+Nota: Aparecia 5 veces en los 5 archivos; fusionado en uno.

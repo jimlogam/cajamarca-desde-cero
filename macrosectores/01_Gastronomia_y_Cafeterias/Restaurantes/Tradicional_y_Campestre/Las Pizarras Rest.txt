@@ -1,0 +1,15 @@
+Nombre: Las Pizarras Rest.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jr. Julio C. Tello #293 Jr, Leoncio Prado 315, Cajamarca 06002
+Teléfono: 997 338 837
+Rating: 4.1
+Reseñas: 57
+Sitio web: https://www.facebook.com/LasPizarrasRest
+Latitud: -7.1505388
+Longitud: -78.50791799999999
+Google Maps: https://www.google.com/maps?cid=13421074209675055249
+Place Id: ChIJQ5FFa_VbspERkZDWw-I7Qbo
+Fotos: Las Pizarras Rest.jpg

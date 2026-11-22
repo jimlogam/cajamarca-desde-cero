@@ -1,0 +1,15 @@
+Nombre: Sótano Caxamarca S.A.C
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante de brunch
+Dirección: 06001, Cajamarca 06001
+Teléfono: 976 389 000
+Rating: 4
+Reseñas: 3
+Sitio web: https://www.facebook.com/S%C3%B3tano-Caxamarca-SAC-333362681292025
+Latitud: -7.1307811
+Longitud: -78.5247839
+Google Maps: https://www.google.com/maps?cid=6150514123950932889
+Place Id: ChIJjbEHCfBbspERmUMeSAIEW1U
+Fotos: Sótano Caxamarca S.A.C.jpg

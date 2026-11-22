@@ -1,0 +1,15 @@
+Nombre: COMICFOOD
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: Paul Rivet 181, Cajamarca 06002
+Teléfono: 914 206 425
+Rating: 4.5
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1498102999999995
+Longitud: -78.507344
+Google Maps: https://www.google.com/maps?cid=10829954975434835750
+Place Id: ChIJn99hng5FspERJodErKu6S5Y
+Fotos: COMICFOOD.jpg

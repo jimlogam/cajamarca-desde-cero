@@ -1,0 +1,16 @@
+Nombre: Sekaisushi & Art
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante japonés
+Dirección: Julio César Tello 331, Cajamarca 06002
+Teléfono: 910 306 080
+Rating: 4.3
+Reseñas: 189
+Sitio web: https://www.facebook.com/sekaisushiArt/
+Latitud: -7.1502611
+Longitud: -78.50772789999999
+Google Maps: https://www.google.com/maps?cid=18294962972498701832
+Place Id: ChIJcaPLAFdaspERCK61guTD5P0
+Fotos: Sekaisushi & Art.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

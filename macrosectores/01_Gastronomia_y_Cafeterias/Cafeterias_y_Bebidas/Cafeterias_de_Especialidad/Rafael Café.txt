@@ -1,0 +1,16 @@
+Nombre: Rafael Café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jr. Guillermo Urrelo 837, Cajamarca 06002
+Teléfono: 989 993 147
+Rating: 4.8
+Reseñas: 890
+Sitio web: 
+Latitud: -7.1584433
+Longitud: -78.51523069999999
+Google Maps: https://www.google.com/maps?cid=6829674231442301394
+Place Id: ChIJBaz0SABbspER0uHBQIfgx14
+Fotos: Rafael Café.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

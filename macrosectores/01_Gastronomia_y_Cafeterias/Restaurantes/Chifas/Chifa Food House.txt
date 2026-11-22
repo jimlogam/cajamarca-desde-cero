@@ -1,0 +1,16 @@
+Nombre: Chifa Food House
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: Vía de Evitamiento Nte. 1975, Cajamarca 06002
+Teléfono: (076) 344545
+Rating: 3.9
+Reseñas: 395
+Sitio web: 
+Latitud: -7.1529007
+Longitud: -78.50616509999999
+Google Maps: https://www.google.com/maps?cid=2166017191189819547
+Place Id: ChIJFbBogOVaspERmzBCyig9Dx4
+Fotos: Chifa Food House.jpg, Chifa Food House-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

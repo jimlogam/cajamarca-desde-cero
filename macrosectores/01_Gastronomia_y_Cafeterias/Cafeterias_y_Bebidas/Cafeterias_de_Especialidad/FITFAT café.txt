@@ -1,0 +1,15 @@
+Nombre: FITFAT café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Cinco Esquinas 658, Cajamarca 06002
+Teléfono: 960 206 732
+Rating: 4.3
+Reseñas: 10
+Sitio web: https://instagram.com/cafeteriafityfat?igshid=ZGUzMzM3NWJiOQ==
+Latitud: -7.1591688
+Longitud: -78.5139224
+Google Maps: https://www.google.com/maps?cid=14245701137806574246
+Place Id: ChIJ0zJgqgFbspERpsJWN7XlssU
+Fotos: FITFAT café.jpg

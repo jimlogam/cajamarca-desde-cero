@@ -1,0 +1,15 @@
+Nombre: Deli Protein Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante de brunch
+Dirección: Jr del Batán 169, Cajamarca 06001
+Teléfono: 926 815 902
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.156017299999999
+Longitud: -78.5174335
+Google Maps: https://www.google.com/maps?cid=2985144111742267935
+Place Id: ChIJE5XHF3tbspERHzK_78BcbSk
+Fotos: Deli Protein Cajamarca.jpg

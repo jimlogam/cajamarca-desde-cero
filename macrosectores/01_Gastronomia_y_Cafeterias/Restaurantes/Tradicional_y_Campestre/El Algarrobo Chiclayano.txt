@@ -1,0 +1,16 @@
+Nombre: El Algarrobo Chiclayano
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jr. Miguel Iglesias 659 Esquina con, Jr. Iquique, Cajamarca 06002
+Teléfono: 
+Rating: 4.5
+Reseñas: 20
+Sitio web: 
+Latitud: -7.1492819999999995
+Longitud: -78.51774499999999
+Google Maps: https://www.google.com/maps?cid=6497905635327456817
+Place Id: ChIJlYaMU2pbspERMbazeb8yLVo
+Fotos: El Algarrobo Chiclayano.jpg, El Algarrobo Chiclayano-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

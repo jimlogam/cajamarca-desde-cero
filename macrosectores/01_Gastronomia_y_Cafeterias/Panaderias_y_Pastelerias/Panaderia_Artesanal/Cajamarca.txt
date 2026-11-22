@@ -1,0 +1,15 @@
+Nombre: Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av. Hoyos Rubio 1543, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1467354
+Longitud: -78.50078669999999
+Google Maps: https://www.google.com/maps?cid=7638147323922160698
+Place Id: ChIJMeOROABbspEROhx7wIUmAGo
+Fotos: Cajamarca.jpg

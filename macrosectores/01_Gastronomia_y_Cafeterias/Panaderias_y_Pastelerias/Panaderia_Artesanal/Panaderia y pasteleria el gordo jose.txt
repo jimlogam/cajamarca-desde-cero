@@ -1,0 +1,15 @@
+Nombre: Panaderia y pasteleria el gordo jose
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Jr, Miguel Iglesias 587, Cajamarca
+Teléfono: 910 333 160
+Rating: 3.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1498455
+Longitud: -78.5179145
+Google Maps: https://www.google.com/maps?cid=10592988810305918218
+Place Id: ChIJ24y9oyFbspERCtX46zLbAZM
+Fotos: Panaderia y pasteleria el gordo jose.jpg

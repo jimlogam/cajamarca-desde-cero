@@ -1,0 +1,15 @@
+Nombre: Sol & Mar Cevicheria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Los Capulíes, Cajamarca 06001
+Teléfono: 913 832 018
+Rating: 4.2
+Reseñas: 59
+Sitio web: 
+Latitud: -7.1471925
+Longitud: -78.5119824
+Google Maps: https://www.google.com/maps?cid=2598925368031508505
+Place Id: ChIJg64DLfJaspERGfhEP9o8ESQ
+Fotos: Sol & Mar Cevicheria.jpg

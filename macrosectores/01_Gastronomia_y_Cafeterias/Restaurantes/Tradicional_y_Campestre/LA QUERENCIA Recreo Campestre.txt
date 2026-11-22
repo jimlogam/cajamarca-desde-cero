@@ -1,0 +1,15 @@
+Nombre: LA QUERENCIA Recreo Campestre
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: RH69+5Q9, Llacanora 06300
+Teléfono: (076) 630885
+Rating: 4
+Reseñas: 249
+Sitio web: 
+Latitud: -7.189582
+Longitud: -78.43050939999999
+Google Maps: https://www.google.com/maps?cid=16871189892215119649
+Place Id: ChIJL8Yw6IlEspERIZ-kz9GBIuo
+Fotos: LA QUERENCIA Recreo Campestre.jpg

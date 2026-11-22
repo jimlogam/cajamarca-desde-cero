@@ -1,0 +1,15 @@
+Nombre: Kaika restobar
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Restaurante
+Dirección: Cinco Esquinas 1621, Cajamarca 06002
+Teléfono: 
+Rating: 4.3
+Reseñas: 35
+Sitio web: 
+Latitud: -7.151868299999999
+Longitud: -78.50692819999999
+Google Maps: https://www.google.com/maps?cid=3829660987274751034
+Place Id: ChIJ90A23cBbspEROuyupGCwJTU
+Fotos: Kaika restobar.jpg

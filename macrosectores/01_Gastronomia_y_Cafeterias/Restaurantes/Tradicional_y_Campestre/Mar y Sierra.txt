@@ -1,0 +1,16 @@
+Nombre: Mar y Sierra
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Av. Vía de Evitamiento Sur 1260, Cajamarca 06002
+Teléfono: 954 709 726
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1683303
+Longitud: -78.5000529
+Google Maps: https://www.google.com/maps?cid=8368867152890886064
+Place Id: ChIJQwzJ5TVbspERsPd-3FUwJHQ
+Fotos: Mar y Sierra.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

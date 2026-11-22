@@ -1,0 +1,15 @@
+Nombre: Panadería Lydia Campos Herederos de la tradición
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Amalia Puga 436, Cajamarca 06001
+Teléfono: 933 624 384
+Rating: 
+Reseñas: 
+Sitio web: https://www.instagram.com/lydia_.campos?stkn=bzE3aW13bGlzcmxz
+Latitud: -7.1555098
+Longitud: -78.5191972
+Google Maps: https://www.google.com/maps?cid=10627804808856767799
+Place Id: ChIJq5HKBgBbspERN40YRiqMfZM
+Fotos: Panadería Lydia Campos Herederos de la tradición.jpg

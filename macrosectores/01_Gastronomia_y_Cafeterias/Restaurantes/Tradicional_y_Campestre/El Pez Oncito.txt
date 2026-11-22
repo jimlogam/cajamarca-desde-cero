@@ -1,0 +1,15 @@
+Nombre: El Pez Oncito
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jirón Manuel Becerra Perú, Cajamarca 06001
+Teléfono: 932 524 777
+Rating: 4
+Reseñas: 27
+Sitio web: 
+Latitud: -7.1503106999999995
+Longitud: -78.4971226
+Google Maps: https://www.google.com/maps?cid=1685377207942885071
+Place Id: ChIJN-qEV5tbspERz675H6SpYxc
+Fotos: El Pez Oncito.jpg

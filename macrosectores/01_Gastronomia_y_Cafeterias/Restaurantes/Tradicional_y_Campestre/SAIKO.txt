@@ -1,0 +1,15 @@
+Nombre: SAIKO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Paul Rivet 334, Cajamarca 06002
+Teléfono: 924 205 213
+Rating: 4
+Reseñas: 12
+Sitio web: 
+Latitud: -7.1508544999999994
+Longitud: -78.50691499999999
+Google Maps: https://www.google.com/maps?cid=1622658815548807145
+Place Id: ChIJEx5e_59bspER6VdxdJjXhBY
+Fotos: SAIKO.jpg

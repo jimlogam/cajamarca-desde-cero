@@ -1,0 +1,15 @@
+Nombre: EliFit - Tu Punto Saludable
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería, Restaurante de brunch
+Dirección: Jr. Sara MacDougall 493, Cajamarca 06001
+Teléfono: 989 783 960
+Rating: 4.6
+Reseñas: 5
+Sitio web: https://instagram.com/elifit.cax?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==
+Latitud: -7.1500784
+Longitud: -78.5206611
+Google Maps: https://www.google.com/maps?cid=213054262451474352
+Place Id: ChIJF3YK6odbspERsI9ND7nr9AI
+Fotos: EliFit - Tu Punto Saludable.jpg

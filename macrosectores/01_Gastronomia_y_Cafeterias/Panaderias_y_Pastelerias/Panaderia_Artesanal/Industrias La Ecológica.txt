@@ -1,0 +1,15 @@
+Nombre: Industrias "La Ecológica"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería, Cafetería, Pastelería
+Dirección: Av. Mario Urteaga 343, Cajamarca 06002
+Teléfono: 982 185 267
+Rating: 4.2
+Reseñas: 42
+Sitio web: https://www.facebook.com/Panificadora-La-Ecol%C3%B3gica-108444170993135/
+Latitud: -7.1568703
+Longitud: -78.5126195
+Google Maps: https://www.google.com/maps?cid=6636251254476085424
+Place Id: ChIJLWhVyqVbspERsJhJB1uzGFw
+Fotos: Industrias La Ecológica.jpg

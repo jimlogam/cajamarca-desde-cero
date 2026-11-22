@@ -1,0 +1,15 @@
+Nombre: Panaderia y pasteleria La Ofrenda Baños del Inca Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería mayorista
+Dirección: Tartar Grande, Cajamarca 06004
+Teléfono: 945 566 846
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.153393599999999
+Longitud: -78.4768737
+Google Maps: https://www.google.com/maps?cid=16235015122284731805
+Place Id: ChIJRe4h0S1bspERnV3gpjxcTuE
+Fotos: Panaderia y pasteleria La Ofrenda Baños del Inca Cajamarca.jpg

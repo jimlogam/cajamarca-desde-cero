@@ -1,0 +1,15 @@
+Nombre: Cevicheria Barba Negra
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: RG84+F8G, Av. Industrial, Cajamarca 06003
+Teléfono: 910 407 953
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1838124
+Longitud: -78.4941612
+Google Maps: https://www.google.com/maps?cid=12457074658139940156
+Place Id: ChIJLwomYwBbspERPKXzsmZr4Kw
+Fotos: Cevicheria Barba Negra.jpg

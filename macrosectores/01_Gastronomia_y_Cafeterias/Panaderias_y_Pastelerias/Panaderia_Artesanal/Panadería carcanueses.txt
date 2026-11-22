@@ -1,0 +1,15 @@
+Nombre: Panadería carcanueses
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Dos de Mayo 606, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.156402
+Longitud: -78.5161133
+Google Maps: https://www.google.com/maps?cid=4761178487875525823
+Place Id: ChIJcZgUHwBbspERv1wN4psaE0I
+Fotos: Panadería carcanueses.jpg

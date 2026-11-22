@@ -1,0 +1,15 @@
+Nombre: Caldos sheila
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante de desayunos
+Dirección: Jr. Guillermo Urrelo Cuadra 11, Cajamarca 06002
+Teléfono: 929 057 380
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1577623
+Longitud: -78.5146663
+Google Maps: https://www.google.com/maps?cid=797908965436195485
+Place Id: ChIJmTjWy4NbspERnYLs__m9Egs
+Fotos: Caldos sheila.jpg

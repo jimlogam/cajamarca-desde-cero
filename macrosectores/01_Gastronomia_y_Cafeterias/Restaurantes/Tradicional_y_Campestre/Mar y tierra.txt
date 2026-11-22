@@ -1,0 +1,16 @@
+Nombre: Mar y tierra
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Jirón Mariano Iberico 156, Cajamarca 06001
+Teléfono: 954 143 042
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1487091
+Longitud: -78.5040882
+Google Maps: https://www.google.com/maps?cid=3472319022849344350
+Place Id: ChIJW4ogCG1bspERXkPED8EnMDA
+Fotos: Mar y tierra.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

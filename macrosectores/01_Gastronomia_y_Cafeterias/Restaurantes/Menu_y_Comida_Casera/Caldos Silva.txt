@@ -1,0 +1,16 @@
+Nombre: Caldos Silva
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante
+Dirección: Av. Vía de Evitamiento Sur 839, Cajamarca 06002
+Teléfono: 
+Rating: 3.4
+Reseñas: 11
+Sitio web: 
+Latitud: -7.1650144
+Longitud: -78.50267269999999
+Google Maps: https://www.google.com/maps?cid=12621095340216475974
+Place Id: ChIJhfEsm2dbspERRuHwrVcjJ68
+Fotos: Caldos Silva.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

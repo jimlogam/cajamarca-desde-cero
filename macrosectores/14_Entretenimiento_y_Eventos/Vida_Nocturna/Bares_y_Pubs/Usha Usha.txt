@@ -1,0 +1,15 @@
+Nombre: Usha Usha
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: Jr, Cinco Esquinas 512, Cajamarca 06001
+Teléfono: 969 166 212
+Rating: 4.4
+Reseñas: 146
+Sitio web: 
+Latitud: -7.1601101
+Longitud: -78.5147338
+Google Maps: https://www.google.com/maps?cid=5037609371339954456
+Place Id: ChIJlUzXCfhaspERGJnlZwgv6UU
+Fotos: Usha Usha.jpg

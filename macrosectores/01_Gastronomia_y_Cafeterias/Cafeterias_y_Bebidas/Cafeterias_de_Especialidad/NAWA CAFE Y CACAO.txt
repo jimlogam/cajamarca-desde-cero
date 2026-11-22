@@ -1,0 +1,15 @@
+Nombre: NAWA CAFE Y CACAO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería, Tostaderos de café, Centro de aprendizaje
+Dirección: 06001, Cajamarca 06001
+Teléfono: 960 137 702
+Rating: 4.8
+Reseñas: 15
+Sitio web: 
+Latitud: -7.157860599999999
+Longitud: -78.518917
+Google Maps: https://www.google.com/maps?cid=5108130485783919273
+Place Id: ChIJj1B2RsJbspERqXp-35y540Y
+Fotos: NAWA CAFE Y CACAO.jpg

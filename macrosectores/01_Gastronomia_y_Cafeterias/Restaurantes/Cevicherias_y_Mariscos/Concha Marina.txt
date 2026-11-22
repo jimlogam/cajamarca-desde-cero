@@ -1,0 +1,16 @@
+Nombre: Concha Marina
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. Luis Rebaza Neyra 457, Cajamarca 06002
+Teléfono: (076) 363605
+Rating: 4.1
+Reseñas: 361
+Sitio web: 
+Latitud: -7.1638231999999995
+Longitud: -78.50081829999999
+Google Maps: https://www.google.com/maps?cid=16602566916389651338
+Place Id: ChIJzdJ_Mh5bspERisMOc6UqaOY
+Fotos: Concha Marina.jpg, Concha Marina-1.jpg, Concha Marina-2.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

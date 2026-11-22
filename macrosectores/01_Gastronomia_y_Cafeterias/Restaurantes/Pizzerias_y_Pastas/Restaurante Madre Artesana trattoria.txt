@@ -1,0 +1,16 @@
+Nombre: Restaurante Madre Artesana trattoria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pizzerias_y_Pastas
+Categoría Maps: Restaurante italiano
+Dirección: Jr del Batán 316, Cajamarca 06002
+Teléfono: 969 085 625
+Rating: 4.8
+Reseñas: 388
+Sitio web: https://www.facebook.com/profile.php?id=61556512591329&mibextid=ZbWKwL
+Latitud: -7.154914499999999
+Longitud: -78.5161729
+Google Maps: https://www.google.com/maps?cid=12277103776693661564
+Place Id: ChIJVcbfSgBbspERfK9uiNYIYao
+Fotos: Restaurante Madre Artesana trattoria.jpg, Restaurante Madre Artesana trattoria-1.jpg, Restaurante Madre Artesana trattoria-2.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

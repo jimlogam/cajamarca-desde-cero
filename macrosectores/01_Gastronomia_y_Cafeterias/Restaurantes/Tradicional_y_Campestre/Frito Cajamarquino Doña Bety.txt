@@ -1,0 +1,16 @@
+Nombre: Frito Cajamarquino Doña Bety
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Calle cajamarcorco 304, Cajamarca 06001
+Teléfono: 933 741 225
+Rating: 4.5
+Reseñas: 110
+Sitio web: 
+Latitud: -7.1431076
+Longitud: -78.5202809
+Google Maps: https://www.google.com/maps?cid=15408457086380572041
+Place Id: ChIJZ9wttnBbspERiX2QIhXW1dU
+Fotos: Frito Cajamarquino Doña Bety.jpg, Frito Cajamarquino Doña Bety-1.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

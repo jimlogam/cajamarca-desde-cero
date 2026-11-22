@@ -1,0 +1,16 @@
+Nombre: El Cascanuez
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Amalia Puga 548, Cajamarca 06001
+Teléfono: (076) 366089
+Rating: 3.9
+Reseñas: 209
+Sitio web: 
+Latitud: -7.1561772999999995
+Longitud: -78.5184117
+Google Maps: https://www.google.com/maps?cid=9559681612536591520
+Place Id: ChIJPbGx-_haspERoLQT-cbPqoQ
+Fotos: El Cascanuez.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,16 @@
+Nombre: La casita del cuy
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Arnaldo Márquez 530, Cajamarca 06002
+Teléfono: 976 555 592
+Rating: 3.9
+Reseñas: 33
+Sitio web: 
+Latitud: -7.1511008
+Longitud: -78.5071569
+Google Maps: https://www.google.com/maps?cid=6898639788636004870
+Place Id: ChIJt7zPJ1lbspERBmIGU1bkvF8
+Fotos: La casita del cuy.jpg, La casita del cuy-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

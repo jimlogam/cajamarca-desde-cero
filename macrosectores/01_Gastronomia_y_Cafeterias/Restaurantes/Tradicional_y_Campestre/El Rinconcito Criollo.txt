@@ -1,0 +1,15 @@
+Nombre: El Rinconcito Criollo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av. Hoyos Rubio 1317, Cajamarca 06001
+Teléfono: 976 295 772
+Rating: 3.8
+Reseñas: 8
+Sitio web: http://www.facebook.com/elrinconcitocriollo.pe
+Latitud: -7.1476533
+Longitud: -78.502782
+Google Maps: https://www.google.com/maps?cid=14138740662702832436
+Place Id: ChIJUQ5Bqp9bspERNPvF87jlNsQ
+Fotos: El Rinconcito Criollo.jpg

@@ -1,0 +1,16 @@
+Nombre: Los Paisanos, Sabor Trujillano
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: JR, Jirón Sánchez Hoyos 121, Cajamarca 06003
+Teléfono: 975 142 067
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1754666
+Longitud: -78.50835409999999
+Google Maps: https://www.google.com/maps?cid=6191794975973650060
+Place Id: ChIJt26D_o1bspERjC71oLms7VU
+Fotos: Los Paisanos, Sabor Trujillano.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

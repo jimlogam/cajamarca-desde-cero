@@ -1,0 +1,15 @@
+Nombre: LA ARTESANA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: 076, Cajamarca 06000
+Teléfono: 973 210 788
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/ArtesanaFoodT
+Latitud: -7.1509738
+Longitud: -78.52167229999999
+Google Maps: https://www.google.com/maps?cid=3852421862910627136
+Place Id: ChIJCX3VyKxbspERQI2890WNdjU
+Fotos: LA ARTESANA.jpg

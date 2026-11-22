@@ -1,0 +1,16 @@
+Nombre: Pollos y mollejitas a la plancha" EL CHINITO"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante peruano
+Dirección: Jr, Juan Villanueva 525, Cajamarca
+Teléfono: 922 798 319
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.154453299999999
+Longitud: -78.5211842
+Google Maps: https://www.google.com/maps?cid=16837902457928211409
+Place Id: ChIJ5wxRPaFbspER0dt8DxM_rOk
+Fotos: Pollos y mollejitas a la plancha EL CHINITO.jpg, Pollos y mollejitas a la plancha EL CHINITO-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

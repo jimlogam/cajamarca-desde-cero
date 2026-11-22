@@ -1,0 +1,16 @@
+Nombre: El Hawaiano Chiken
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av. Hoyos Rubio 1501, Cajamarca 06001
+Teléfono: 981 796 715
+Rating: 4.1
+Reseñas: 89
+Sitio web: 
+Latitud: -7.1468602
+Longitud: -78.5010029
+Google Maps: https://www.google.com/maps?cid=1819378526113035338
+Place Id: ChIJD6GCPMBbspERSvTwSCG7Pxk
+Fotos: El Hawaiano Chiken.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

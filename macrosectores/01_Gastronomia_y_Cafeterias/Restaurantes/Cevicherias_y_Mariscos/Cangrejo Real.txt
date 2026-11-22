@@ -1,0 +1,16 @@
+Nombre: Cangrejo Real
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: 1° de Mayo 218, Cajamarca 06002
+Teléfono: 
+Rating: 4.2
+Reseñas: 102
+Sitio web: 
+Latitud: -7.1651051
+Longitud: -78.5034065
+Google Maps: https://www.google.com/maps?cid=5222543272758620423
+Place Id: ChIJR4w3cR5bspERBzHitG8zekg
+Fotos: Cangrejo Real.jpg, Cangrejo Real-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

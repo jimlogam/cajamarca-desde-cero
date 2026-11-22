@@ -1,0 +1,16 @@
+Nombre: EL CHOVIN
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Jr. Jequetepeque 200, Cajamarca 06001
+Teléfono: 
+Rating: 4.2
+Reseñas: 25
+Sitio web: 
+Latitud: -7.1523563
+Longitud: -78.5191997
+Google Maps: https://www.google.com/maps?cid=15424248759293351535
+Place Id: ChIJC_LbkvdaspERb5bwgIbwDdY
+Fotos: EL CHOVIN.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

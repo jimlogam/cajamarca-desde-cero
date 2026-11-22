@@ -1,0 +1,15 @@
+Nombre: Mis Causas Picantería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: jr, La Mar #564, Cajamarca 06000
+Teléfono: 925 707 029
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/MisCausasPicanteriaFusion/
+Latitud: -7.1549629999999995
+Longitud: -78.518458
+Google Maps: https://www.google.com/maps?cid=885791506191300494
+Place Id: ChIJjfHYJzRbspERjjeXh672Sgw
+Fotos: Mis Causas Picantería.jpg

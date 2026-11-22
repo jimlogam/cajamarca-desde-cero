@@ -1,0 +1,15 @@
+Nombre: Panadería RITA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: VF6R+565, Ca. Polonia, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1396102
+Longitud: -78.5093811
+Google Maps: https://www.google.com/maps?cid=4222097073967513028
+Place Id: ChIJ-8qusdVbspERxL0MTevmlzo
+Fotos: Panadería RITA.jpg

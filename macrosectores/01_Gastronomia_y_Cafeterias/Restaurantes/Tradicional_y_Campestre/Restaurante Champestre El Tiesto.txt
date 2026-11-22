@@ -1,0 +1,16 @@
+Nombre: Restaurante Champestre "El Tiesto"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante de comida rural
+Dirección: Antonio Astopilco 298, Cajamarca 06001
+Teléfono: (076) 365417
+Rating: 3.9
+Reseñas: 236
+Sitio web: https://el-tiesto-restaurant-campestre.ueniweb.com/
+Latitud: -7.1452526
+Longitud: -78.5017206
+Google Maps: https://www.google.com/maps?cid=11826288290555087811
+Place Id: ChIJ84cWpOtaspERw8vluYpqH6Q
+Fotos: Restaurante Champestre El Tiesto.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

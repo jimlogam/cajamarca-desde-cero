@@ -1,0 +1,16 @@
+Nombre: Hotel Tartar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante, Bar, Hotel
+Dirección: Av. César Miranda Zunico s/n, Cajamarca 06001
+Teléfono: 975 173 287
+Rating: 4.8
+Reseñas: 903
+Sitio web: https://hoteltartar.pe/
+Latitud: -7.148376799999999
+Longitud: -78.48777799999999
+Google Maps: https://www.google.com/maps?cid=4258592278986699736
+Place Id: ChIJ-ZEF68VaspER2DM5YB2PGTs
+Fotos: Hotel Tartar.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

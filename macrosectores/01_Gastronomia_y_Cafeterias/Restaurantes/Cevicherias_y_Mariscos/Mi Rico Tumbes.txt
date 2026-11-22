@@ -1,0 +1,15 @@
+Nombre: Mi Rico Tumbes
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Cinco Esquinas 528, Cajamarca 06002
+Teléfono: 988 219 139
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1599729
+Longitud: -78.51474089999999
+Google Maps: https://www.google.com/maps?cid=7537825094963468589
+Place Id: ChIJCaSUih5bspERLZlSnPy7m2g
+Fotos: Mi Rico Tumbes.jpg

@@ -1,0 +1,15 @@
+Nombre: 2LUCAS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Juan Beato Macias 750, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1729841
+Longitud: -78.49636869999999
+Google Maps: https://www.google.com/maps?cid=17890627724738414114
+Place Id: ChIJlRnL1nNbspERIsbJhSBHSPg
+Fotos: 2LUCAS.jpg

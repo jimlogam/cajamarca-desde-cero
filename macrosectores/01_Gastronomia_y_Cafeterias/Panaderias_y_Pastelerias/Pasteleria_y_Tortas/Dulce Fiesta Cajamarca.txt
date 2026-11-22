@@ -1,0 +1,15 @@
+Nombre: Dulce Fiesta Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Jr. Amancaes 269, Cajamarca 06002
+Teléfono: 976 979 208
+Rating: 5
+Reseñas: 2
+Sitio web: https://www.facebook.com/dulcefiesta.cajamarca.2018
+Latitud: -7.151142
+Longitud: -78.5093387
+Google Maps: https://www.google.com/maps?cid=223360051259443372
+Place Id: ChIJL9ArBtpbspERrAhVgMiIGQM
+Fotos: Dulce Fiesta Cajamarca.jpg

@@ -1,0 +1,15 @@
+Nombre: Papakuna Barra Fritera
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: Jirón Silva Santisteban 145, Cajamarca 06002
+Teléfono: 991 696 813
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1595989
+Longitud: -78.5164446
+Google Maps: https://www.google.com/maps?cid=1029529960415062290
+Place Id: ChIJqX4sg_NbspEREmkpWAugSQ4
+Fotos: Papakuna Barra Fritera.jpg

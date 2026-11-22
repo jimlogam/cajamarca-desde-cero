@@ -1,0 +1,15 @@
+Nombre: Belén Burger
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: Jirón Silva Santisteban 145, Cajamarca 06002
+Teléfono: 920 013 248
+Rating: 4.3
+Reseñas: 26
+Sitio web: https://www.facebook.com/B1e2l3e4n5/
+Latitud: -7.1595989
+Longitud: -78.5164446
+Google Maps: https://www.google.com/maps?cid=16495347623682349813
+Place Id: ChIJYfgbwf5aspER9ZorhEQ_6-Q
+Fotos: Belén Burger.jpg

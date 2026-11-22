@@ -1,0 +1,15 @@
+Nombre: La panadería del terror
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Los Jazmines 118, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.151844199999999
+Longitud: -78.5147361
+Google Maps: https://www.google.com/maps?cid=2252295896698923662
+Place Id: ChIJUaM2OgBbspERjirPUy_DQR8
+Fotos: La panadería del terror.jpg

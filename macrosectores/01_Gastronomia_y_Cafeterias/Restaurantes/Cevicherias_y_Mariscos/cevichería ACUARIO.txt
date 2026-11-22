@@ -1,0 +1,15 @@
+Nombre: cevichería ACUARIO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Jirón Sánchez Hoyos 507, Cajamarca 06003
+Teléfono: 937 718 766
+Rating: 3
+Reseñas: 2
+Sitio web: https://www.facebook.com/profile.php?id=61573083522977&open_field=website&sk=about_contact_and_basic_info
+Latitud: -7.178727899999999
+Longitud: -78.5050232
+Google Maps: https://www.google.com/maps?cid=16012645388929128207
+Place Id: ChIJgV_mHwBbspERD9dqgSRYON4
+Fotos: cevichería ACUARIO.jpg

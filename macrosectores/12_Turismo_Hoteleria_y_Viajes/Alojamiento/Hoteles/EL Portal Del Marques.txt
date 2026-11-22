@@ -1,0 +1,16 @@
+Nombre: EL Portal Del Marques
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr, Jirón del Comercio 644, Cajamarca 06001
+Teléfono: (076) 368464
+Rating: 4.4
+Reseñas: 643
+Sitio web: http://portaldelmarques.com/
+Latitud: -7.1560821
+Longitud: -78.5197482
+Google Maps: https://www.google.com/maps?cid=9244461597811315689
+Place Id: ChIJl3qvaRhTtJER6ZNIDdjsSoA
+Fotos: EL Portal Del Marques.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

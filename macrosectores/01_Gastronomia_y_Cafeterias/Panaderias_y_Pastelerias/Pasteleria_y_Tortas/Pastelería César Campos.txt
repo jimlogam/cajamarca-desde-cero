@@ -1,0 +1,15 @@
+Nombre: Pastelería César Campos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Amalia Puga 782, Cajamarca 06002
+Teléfono: 
+Rating: 3.9
+Reseñas: 14
+Sitio web: 
+Latitud: -7.1582292
+Longitud: -78.51633989999999
+Google Maps: https://www.google.com/maps?cid=15197179913375479490
+Place Id: ChIJ6RY0SvlaspERwnZy9Jw659I
+Fotos: Pastelería César Campos.jpg

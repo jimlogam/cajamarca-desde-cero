@@ -1,0 +1,15 @@
+Nombre: Panificadora Lucy
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Cinco Esquinas 189, Cajamarca 06002
+Teléfono: (076) 267171
+Rating: 4.3
+Reseñas: 23
+Sitio web: 
+Latitud: -7.1618517
+Longitud: -78.51673199999999
+Google Maps: https://www.google.com/maps?cid=7069184372166140189
+Place Id: ChIJf420XP5aspERHaG0ervJGmI
+Fotos: Panificadora Lucy.jpg

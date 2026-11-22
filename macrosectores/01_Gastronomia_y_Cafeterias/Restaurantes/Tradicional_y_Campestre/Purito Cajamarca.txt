@@ -1,0 +1,16 @@
+Nombre: Purito Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Hermano Miguel Carducci 333, Cajamarca 06001
+Teléfono: 979 946 414
+Rating: 5
+Reseñas: 1
+Sitio web: https://youtube.com/channel/UCsqdlwRMJ4hyUQHmxeUgiwg
+Latitud: -7.1197365999999995
+Longitud: -78.5273146
+Google Maps: https://www.google.com/maps?cid=6651124207446255629
+Place Id: ChIJbRbdI-dRspERDejVPTqKTVw
+Fotos: Purito Cajamarca.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

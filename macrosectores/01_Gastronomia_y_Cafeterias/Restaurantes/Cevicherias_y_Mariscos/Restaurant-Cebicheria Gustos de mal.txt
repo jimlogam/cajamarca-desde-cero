@@ -1,0 +1,15 @@
+Nombre: Restaurant-Cebicheria Gustos de mal
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Jr. Tarapacá 983, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1536687
+Longitud: -78.5183287
+Google Maps: https://www.google.com/maps?cid=5782480553382222718
+Place Id: ChIJd6WXcLpbspERfpvzKG1_P1A
+Fotos: Restaurant-Cebicheria Gustos de mal.jpg

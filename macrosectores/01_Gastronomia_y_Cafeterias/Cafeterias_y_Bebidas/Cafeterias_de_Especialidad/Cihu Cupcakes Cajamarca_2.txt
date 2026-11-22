@@ -1,0 +1,15 @@
+Nombre: Cihu Cupcakes Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jr. Sor Manuela Gil 414, Cajamarca 06001
+Teléfono: 962 320 468
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/share/15BdNQ3JAg/?mibextid=wwXIfr
+Latitud: -7.1491494
+Longitud: -78.50964189999999
+Google Maps: https://www.google.com/maps?cid=3267723580250481583
+Place Id: ChIJFQ9XMQBbspERr2P_eEhJWS0
+Fotos: Cihu Cupcakes Cajamarca_2.jpg

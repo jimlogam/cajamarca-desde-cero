@@ -1,0 +1,15 @@
+Nombre: Happy Fish Cevicheria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Jr. Guillermo Urrelo 1675, Cajamarca 06002
+Teléfono: 993 898 917
+Rating: 5
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1522201
+Longitud: -78.5090963
+Google Maps: https://www.google.com/maps?cid=15626612021492177610
+Place Id: ChIJHXdJCvZbspERytrjF9fg3Ng
+Fotos: Happy Fish Cevicheria.jpg

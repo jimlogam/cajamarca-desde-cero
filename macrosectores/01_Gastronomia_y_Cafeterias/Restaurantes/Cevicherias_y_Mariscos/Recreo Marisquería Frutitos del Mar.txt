@@ -1,0 +1,15 @@
+Nombre: Recreo Marisquería Frutitos del Mar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Diego Ferré, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.171479499999999
+Longitud: -78.51274959999999
+Google Maps: https://www.google.com/maps?cid=11544410221351615227
+Place Id: ChIJzzZvT49bspER-zoNce77NaA
+Fotos: Recreo Marisquería Frutitos del Mar.jpg

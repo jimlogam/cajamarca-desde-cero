@@ -1,0 +1,16 @@
+Nombre: La Condesa - Restaurante Campestre
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av. La Cantuta cuadra 13, Cajamarca 06000
+Teléfono: 912 610 004
+Rating: 3.8
+Reseñas: 208
+Sitio web: 
+Latitud: -7.1648762999999995
+Longitud: -78.4965654
+Google Maps: https://www.google.com/maps?cid=5599913200187464519
+Place Id: ChIJ76mXk3BbspERR9sxzmLjtk0
+Fotos: La Condesa - Restaurante Campestre.jpg, La Condesa - Restaurante Campestre-1.jpg, La Condesa - Restaurante Campestre-2.jpg, La Condesa - Restaurante Campestre-3.jpg
+Nota: Aparecia 5 veces en los 5 archivos; fusionado en uno.

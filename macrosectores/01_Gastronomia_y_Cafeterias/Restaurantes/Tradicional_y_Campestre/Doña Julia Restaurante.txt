@@ -1,0 +1,16 @@
+Nombre: Doña Julia Restaurante
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: jr: Ucayali 333, Cajamarca 06125
+Teléfono: 931 643 918
+Rating: 5
+Reseñas: 11
+Sitio web: 
+Latitud: -7.1555523999999995
+Longitud: -78.5236891
+Google Maps: https://www.google.com/maps?cid=491587926677825790
+Place Id: ChIJU64gGABbspER_qiAYZ140gY
+Fotos: Doña Julia Restaurante.jpg, Doña Julia Restaurante-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

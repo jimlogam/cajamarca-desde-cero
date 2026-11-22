@@ -1,0 +1,15 @@
+Nombre: Tiburón Carretillero Grill S.R.L
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: pasando la nueva planta eléctrica 975252141, JR Barrantes Lingan 161 Cajamarca. Ref, Jr. Alfonso Ugarte y, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1792415
+Longitud: -78.50635199999999
+Google Maps: https://www.google.com/maps?cid=6194471015015536283
+Place Id: ChIJRf5FdABbspERm1Z0hZEu91U
+Fotos: Tiburón Carretillero Grill S.R.L.jpg

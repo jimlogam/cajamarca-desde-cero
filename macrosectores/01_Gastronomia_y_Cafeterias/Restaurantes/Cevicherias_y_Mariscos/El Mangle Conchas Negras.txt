@@ -1,0 +1,16 @@
+Nombre: El Mangle Conchas Negras
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Jr.Amazonas 919, Cajamarca 06002
+Teléfono: (076) 341506
+Rating: 4.3
+Reseñas: 206
+Sitio web: 
+Latitud: -7.1579622
+Longitud: -78.5144668
+Google Maps: https://www.google.com/maps?cid=14017413776642600222
+Place Id: ChIJGePL-_taspERHu1y-o_bh8I
+Fotos: El Mangle Conchas Negras.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

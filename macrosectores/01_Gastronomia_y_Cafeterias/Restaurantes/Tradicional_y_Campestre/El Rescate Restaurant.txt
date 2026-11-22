@@ -1,0 +1,16 @@
+Nombre: El Rescate Restaurant
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Amalia Puga 726, Cajamarca 06002
+Teléfono: (076) 261604
+Rating: 3.4
+Reseñas: 273
+Sitio web: 
+Latitud: -7.157750399999999
+Longitud: -78.5166813
+Google Maps: https://www.google.com/maps?cid=3434992819676696741
+Place Id: ChIJq6o0OvlaspERpdDYJsWLqy8
+Fotos: El Rescate Restaurant.jpg, El Rescate Restaurant-1.jpg, El Rescate Restaurant-2.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

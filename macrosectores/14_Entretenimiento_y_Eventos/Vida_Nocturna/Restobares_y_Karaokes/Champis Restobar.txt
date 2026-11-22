@@ -1,0 +1,16 @@
+Nombre: Champis Restobar
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Pub restaurante
+Dirección: Av. La Cantuta 628, Cajamarca 06001
+Teléfono: 962 391 327
+Rating: 5
+Reseñas: 2
+Sitio web: https://www.instagram.com/champisrestobar?stkn=MWN3MHd4Y2QxOXZmMw==
+Latitud: -7.1613611
+Longitud: -78.5002756
+Google Maps: https://www.google.com/maps?cid=13662821314374593365
+Place Id: ChIJV6GNstxbspERVevuwJgXnL0
+Fotos: Champis Restobar.jpg, Champis Restobar-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

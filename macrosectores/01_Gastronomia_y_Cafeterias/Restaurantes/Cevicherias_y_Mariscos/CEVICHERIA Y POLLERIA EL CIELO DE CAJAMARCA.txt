@@ -1,0 +1,16 @@
+Nombre: CEVICHERIA Y POLLERIA "EL CIELO DE CAJAMARCA"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante especializado en pollo
+Dirección: RFWC+944, Av. Vidal Gaitan, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1541014
+Longitud: -78.52966889999999
+Google Maps: https://www.google.com/maps?cid=10817153669500032320
+Place Id: ChIJR2brBcRbspERQNVcX_M_HpY
+Fotos: CEVICHERIA Y POLLERIA EL CIELO DE CAJAMARCA.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

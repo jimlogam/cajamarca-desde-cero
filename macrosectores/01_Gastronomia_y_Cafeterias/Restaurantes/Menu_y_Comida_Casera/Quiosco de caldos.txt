@@ -1,0 +1,15 @@
+Nombre: Quiosco de caldos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante
+Dirección: RFVV+JCV, 3N, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.155878899999999
+Longitud: -78.5064419
+Google Maps: https://www.google.com/maps?cid=5434521902466261500
+Place Id: ChIJgaWQR2VbspER_OGUgOBMa0s
+Fotos: Quiosco de caldos.jpg

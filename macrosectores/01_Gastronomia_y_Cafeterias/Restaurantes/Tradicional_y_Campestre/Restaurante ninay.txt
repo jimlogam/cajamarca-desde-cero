@@ -1,0 +1,15 @@
+Nombre: Restaurante ninay
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Carnicería
+Dirección: Belén 624, Cajamarca 06002
+Teléfono: 
+Rating: 3.8
+Reseñas: 18
+Sitio web: 
+Latitud: -7.1592180999999995
+Longitud: -78.5165512
+Google Maps: https://www.google.com/maps?cid=9714669586663910359
+Place Id: ChIJ7zkVZgBbspER16tkv4Rw0YY
+Fotos: Restaurante ninay.jpg

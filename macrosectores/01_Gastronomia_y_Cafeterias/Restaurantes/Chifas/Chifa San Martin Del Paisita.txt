@@ -1,0 +1,16 @@
+Nombre: Chifa San Martin Del Paisita
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: Av Vía de Evitamiento Nte 163, Cajamarca 06001
+Teléfono: 942 201 341
+Rating: 2.9
+Reseñas: 30
+Sitio web: 
+Latitud: -7.148023599999999
+Longitud: -78.5238552
+Google Maps: https://www.google.com/maps?cid=3674665008604119939
+Place Id: ChIJEyAeQV9bspERgwNoKlsI_zI
+Fotos: Chifa San Martin Del Paisita.jpg, Chifa San Martin Del Paisita-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

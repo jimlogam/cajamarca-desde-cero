@@ -1,0 +1,16 @@
+Nombre: Chifa YIP
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante
+Dirección: Vía de Evitamiento Nte. 1916, Cajamarca 06002
+Teléfono: 976 888 228
+Rating: 4.3
+Reseñas: 7
+Sitio web: 
+Latitud: -7.156623199999999
+Longitud: -78.5064902
+Google Maps: https://www.google.com/maps?cid=13330508324023808956
+Place Id: ChIJ8VIMXNhbspERvLPTULF6_7g
+Fotos: Chifa YIP.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

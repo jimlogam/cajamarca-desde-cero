@@ -1,0 +1,16 @@
+Nombre: Good Time Restobar
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Restaurante
+Dirección: Av. El Maestro 534, Cajamarca 06000
+Teléfono: 941 505 040
+Rating: 4.5
+Reseñas: 2
+Sitio web: https://www.tiktok.com/@goodtimefastfoodybar?_r=1&_t=ZS-95jD5KQqj4c
+Latitud: -7.157451399999999
+Longitud: -78.50976349999999
+Google Maps: https://www.google.com/maps?cid=2355737146633459707
+Place Id: ChIJWcN7O09bspER-5dHIXRCsSA
+Fotos: Good Time Restobar.jpg, Good Time Restobar-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

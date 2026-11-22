@@ -1,0 +1,16 @@
+Nombre: PERU CRIOLLO RESTOBAR
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Restaurante peruano
+Dirección: Av. Vía de Evitamiento Sur MZL S/N, Cajamarca 06003
+Teléfono: 940 672 555
+Rating: 5
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1798483
+Longitud: -78.4848607
+Google Maps: https://www.google.com/maps?cid=15823883417081328568
+Place Id: ChIJA1Z0GZBbspERuLNTGiG6mds
+Fotos: PERU CRIOLLO RESTOBAR.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

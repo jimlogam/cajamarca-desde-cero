@@ -1,0 +1,15 @@
+Nombre: El acevichado
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Jr. Ramon Castilla 230, Cajamarca 06003
+Teléfono: 
+Rating: 3.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1710309
+Longitud: -78.5114756
+Google Maps: https://www.google.com/maps?cid=2011897358280205128
+Place Id: ChIJe4CQk1VbspERSKPW5Pyx6xs
+Fotos: El acevichado.jpg

@@ -1,0 +1,15 @@
+Nombre: EL CALDAZO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante de sopas
+Dirección: Jirón, Chabuca Granda 310, Cajamarca 11104
+Teléfono: 976 605 375
+Rating: 3.8
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1462843
+Longitud: -78.5092815
+Google Maps: https://www.google.com/maps?cid=10404351414062664259
+Place Id: ChIJ7ypTbfVbspERQ8qJiXyuY5A
+Fotos: EL CALDAZO.jpg

@@ -1,0 +1,16 @@
+Nombre: AZAFRÁN TIERRA SRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: 0051, Cajamarca
+Teléfono: 916 640 462
+Rating: 5
+Reseñas: 2
+Sitio web: https://www.instagram.com/azafrantierra/
+Latitud: -7.1482667
+Longitud: -78.5108808
+Google Maps: https://www.google.com/maps?cid=9393814276704131010
+Place Id: ChIJV8yLiTJbspERwlfxaFCIXYI
+Fotos: AZAFRÁN TIERRA SRL.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

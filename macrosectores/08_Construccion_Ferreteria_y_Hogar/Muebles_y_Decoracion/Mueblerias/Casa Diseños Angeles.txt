@@ -1,0 +1,15 @@
+Nombre: Casa Diseños Angeles
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
+Categoría Maps: Tienda de muebles
+Dirección: Jr. Amazonas 347, Jr.Amazonas 318, Cajamarca 06001
+Teléfono: 981 957 327
+Rating: 1
+Reseñas: 1
+Sitio web: https://casa-disenos-angeles.negocio.site/?utm_source=gmb&utm_medium=referral
+Latitud: -7.1548123
+Longitud: -78.518526
+Google Maps: https://www.google.com/maps?cid=2928389617815357525
+Place Id: ChIJDSog4-5bspERVYjTlde6oyg
+Fotos: Casa Diseños Angeles.jpg

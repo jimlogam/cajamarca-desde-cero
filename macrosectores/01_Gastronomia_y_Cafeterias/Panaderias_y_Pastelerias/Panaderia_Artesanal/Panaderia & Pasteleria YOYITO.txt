@@ -1,0 +1,15 @@
+Nombre: Panaderia & Pasteleria "YOYITO"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: JR. LOS LIRIOS N° 410 URB. EL COLUMBO, Cajamarca
+Teléfono: 938 249 739
+Rating: 4.6
+Reseñas: 9
+Sitio web: 
+Latitud: -7.1453811
+Longitud: -78.497323
+Google Maps: https://www.google.com/maps?cid=1675209787551072782
+Place Id: ChIJM3O32sFaspERDkI9F22KPxc
+Fotos: Panaderia & Pasteleria YOYITO.jpg

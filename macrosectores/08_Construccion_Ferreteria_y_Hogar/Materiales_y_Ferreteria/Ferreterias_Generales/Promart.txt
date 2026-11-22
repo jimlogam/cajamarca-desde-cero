@@ -1,0 +1,15 @@
+Nombre: Promart
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar, Ferretería
+Dirección: Vía de Evitamiento Nte. cuadra 4, Cajamarca 12055
+Teléfono: 
+Rating: 4.1
+Reseñas: 1357
+Sitio web: http://www.promart.pe/
+Latitud: -7.1541999
+Longitud: -78.506033
+Google Maps: https://www.google.com/maps?cid=11326167891452136128
+Place Id: ChIJS6Tv6eVaspERwIpwTLChLp0
+Fotos: Promart.jpg

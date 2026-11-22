@@ -1,0 +1,16 @@
+Nombre: FLAMAR RESTAURANT & LOUNGE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Guadalupe 251, Cajamarca 06001
+Teléfono: 923 910 799
+Rating: 4.6
+Reseñas: 28
+Sitio web: https://www.instagram.com/flamar.pe/
+Latitud: -7.161455699999999
+Longitud: -78.5170419
+Google Maps: https://www.google.com/maps?cid=3890516969338209964
+Place Id: ChIJHxzvm65bspERrIYIHpLk_TU
+Fotos: FLAMAR RESTAURANT & LOUNGE.jpg, FLAMAR RESTAURANT & LOUNGE-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

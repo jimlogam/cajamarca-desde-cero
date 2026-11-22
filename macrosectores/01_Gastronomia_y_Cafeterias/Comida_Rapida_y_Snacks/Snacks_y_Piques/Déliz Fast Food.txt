@@ -1,0 +1,15 @@
+Nombre: Déliz Fast Food
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Snacks_y_Piques
+Categoría Maps: Restaurante de comida rápida
+Dirección: La Alameda Mz.F L.20, Cajamarca 06001
+Teléfono: 931 427 106
+Rating: 5
+Reseñas: 9
+Sitio web: 
+Latitud: -7.145054
+Longitud: -78.51027169999999
+Google Maps: https://www.google.com/maps?cid=5194834915063698083
+Place Id: ChIJs2bm51pbspERoxIr89TCF0g
+Fotos: Déliz Fast Food.jpg

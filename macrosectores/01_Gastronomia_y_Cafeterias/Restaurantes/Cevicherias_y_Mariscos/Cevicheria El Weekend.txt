@@ -1,0 +1,16 @@
+Nombre: Cevicheria El Weekend
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: El Inca 718, Cajamarca 06002
+Teléfono: 971 222 472
+Rating: 4.2
+Reseñas: 57
+Sitio web: 
+Latitud: -7.1596439
+Longitud: -78.5056223
+Google Maps: https://www.google.com/maps?cid=13752759297173163812
+Place Id: ChIJMwOduolbspERJA91Lbed274
+Fotos: Cevicheria El Weekend.jpg, Cevicheria El Weekend-1.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

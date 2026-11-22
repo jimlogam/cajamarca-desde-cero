@@ -1,0 +1,15 @@
+Nombre: Siwichi Cevichería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Pachacútec 289, Baños del Inca 06004
+Teléfono: 997 867 177
+Rating: 4.4
+Reseñas: 14
+Sitio web: 
+Latitud: -7.1669049
+Longitud: -78.4667384
+Google Maps: https://www.google.com/maps?cid=6886466394645762722
+Place Id: ChIJB45juvhFspERopKGKrOkkV8
+Fotos: Siwichi Cevichería.jpg

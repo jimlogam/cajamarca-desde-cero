@@ -1,0 +1,15 @@
+Nombre: La Casa del Abuelo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería, Café de gatos
+Dirección: Jr, Tayabamba 303, Cajamarca 06000
+Teléfono: 976 977 368
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1517612999999995
+Longitud: -78.5165746
+Google Maps: https://www.google.com/maps?cid=2630945991659926576
+Place Id: ChIJG-hFtRtbspERMLQgqHD_giQ
+Fotos: La Casa del Abuelo.jpg

@@ -1,0 +1,15 @@
+Nombre: Toto´s Burguers
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: Av San Martín de Porres 1396, Cajamarca 00060
+Teléfono: 954 002 227
+Rating: 4.1
+Reseñas: 75
+Sitio web: https://www.facebook.com/Totosburguers/
+Latitud: -7.173820999999999
+Longitud: -78.49859719999999
+Google Maps: https://www.google.com/maps?cid=7648468582256352203
+Place Id: ChIJ5al_MM5bspERyxsg-abRJGo
+Fotos: Toto´s Burguers.jpg

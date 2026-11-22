@@ -1,0 +1,15 @@
+Nombre: Cevicheria Las Maruchitas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Av. La Cantuta 1090, Cajamarca 06002
+Teléfono: 976 722 852
+Rating: 3.7
+Reseñas: 59
+Sitio web: https://www.facebook.com/profile.php?id=100054479559568&mibextid=ZbWKwL
+Latitud: -7.1632488
+Longitud: -78.49862259999999
+Google Maps: https://www.google.com/maps?cid=830410869361789548
+Place Id: ChIJM7IHUd1bspERbMruNUk2hgs
+Fotos: Cevicheria Las Maruchitas.jpg

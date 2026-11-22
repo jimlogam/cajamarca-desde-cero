@@ -1,0 +1,15 @@
+Nombre: El delicioso (hamburguesa artesanales )
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: Simón Bolívar 101, Cajamarca 06002
+Teléfono: 918 815 257
+Rating: 5
+Reseñas: 7
+Sitio web: 
+Latitud: -7.166026899999999
+Longitud: -78.5119543
+Google Maps: https://www.google.com/maps?cid=1569654536515297179
+Place Id: ChIJv4feQBdbspERmx8TDXyIyBU
+Fotos: El delicioso (hamburguesa artesanales ).jpg

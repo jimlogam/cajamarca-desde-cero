@@ -1,0 +1,15 @@
+Nombre: Hacienda San Antonio Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante, Hotel
+Dirección: Entrada por el Puente Viaducto, Carr. a Baños del Inca Km 5, Baños del Inca 06002
+Teléfono: 955 481 993
+Rating: 4.4
+Reseñas: 306
+Sitio web: 
+Latitud: -7.1483072
+Longitud: -78.4683898
+Google Maps: https://www.google.com/maps?cid=10164204984031478310
+Place Id: ChIJb2pZcTFFspERJoJzqZSCDo0
+Fotos: Hacienda San Antonio Cajamarca.jpg

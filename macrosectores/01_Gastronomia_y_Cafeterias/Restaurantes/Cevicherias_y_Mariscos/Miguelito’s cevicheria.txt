@@ -1,0 +1,15 @@
+Nombre: Miguelito’s cevicheria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Jr, Los Naranjos # 342, Cajamarca
+Teléfono: 966 739 249
+Rating: 4.5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1484931
+Longitud: -78.513415
+Google Maps: https://www.google.com/maps?cid=9674517892769567992
+Place Id: ChIJ-Yzj50dbspER-NSwA8TKQoY
+Fotos: Miguelito’s cevicheria.jpg

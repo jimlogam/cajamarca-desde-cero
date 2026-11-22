@@ -1,0 +1,16 @@
+Nombre: Don Octavio
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: &, Jr del Batán, Cajamarca 06001
+Teléfono: 
+Rating: 4.1
+Reseñas: 401
+Sitio web: 
+Latitud: -7.1559272
+Longitud: -78.5170572
+Google Maps: https://www.google.com/maps?cid=6154990800640500102
+Place Id: ChIJ29PWCPlaspERhmH5y4XralU
+Fotos: Don Octavio.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

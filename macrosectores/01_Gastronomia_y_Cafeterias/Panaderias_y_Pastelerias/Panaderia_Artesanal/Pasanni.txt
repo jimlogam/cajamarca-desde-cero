@@ -1,0 +1,15 @@
+Nombre: Pasanni
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: RGJ6+F79, Cajamarca 06003
+Teléfono: 
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.168847599999999
+Longitud: -78.48925919999999
+Google Maps: https://www.google.com/maps?cid=17839274839519233215
+Place Id: ChIJk6S0d8JbspERv4QbNPPVkfc
+Fotos: Pasanni.jpg

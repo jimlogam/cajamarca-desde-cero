@@ -1,0 +1,16 @@
+Nombre: Restaurante Paprika Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Jr del Batán 123, Cajamarca 06001
+Teléfono: (076) 362472
+Rating: 4.1
+Reseñas: 128
+Sitio web: 
+Latitud: -7.1569842999999995
+Longitud: -78.5182876
+Google Maps: https://www.google.com/maps?cid=15218352076560740191
+Place Id: ChIJsfog5_haspERXy87VpVyMtM
+Fotos: Restaurante Paprika Cajamarca.jpg, Restaurante Paprika Cajamarca-1.jpg, Restaurante Paprika Cajamarca-2.jpg, Restaurante Paprika Cajamarca-3.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

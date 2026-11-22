@@ -1,0 +1,15 @@
+Nombre: KEBAB Rest.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante turco
+Dirección: Jirón Silva Santisteban 370, Cajamarca 06001
+Teléfono: 970 218 477
+Rating: 4.3
+Reseñas: 19
+Sitio web: 
+Latitud: -7.151176899999999
+Longitud: -78.5197431
+Google Maps: https://www.google.com/maps?cid=1258460540110716844
+Place Id: ChIJV6Q_B1haspERrD8lkTHzdhE
+Fotos: KEBAB Rest.jpg

@@ -1,0 +1,15 @@
+Nombre: Trattoria & Ak'shupa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pizzerias_y_Pastas
+Categoría Maps: Restaurante
+Dirección: San Martín 294, Cajamarca 06001
+Teléfono: 941 644 335
+Rating: 3.7
+Reseñas: 108
+Sitio web: 
+Latitud: -7.1583486
+Longitud: -78.51862489999999
+Google Maps: https://www.google.com/maps?cid=6692365857189765050
+Place Id: ChIJQ2c1xglbspERup-_GEoP4Fw
+Fotos: Trattoria & Ak'shupa.jpg

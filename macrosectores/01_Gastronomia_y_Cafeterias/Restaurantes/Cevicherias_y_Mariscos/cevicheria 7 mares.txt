@@ -1,0 +1,16 @@
+Nombre: cevicheria 7 mares
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Luis Alberto Sánchez 201, Cajamarca 06001
+Teléfono: 910 996 491
+Rating: 3.7
+Reseñas: 14
+Sitio web: 
+Latitud: -7.145125999999999
+Longitud: -78.5169629
+Google Maps: https://www.google.com/maps?cid=4229540550014695962
+Place Id: ChIJSzy-6YhbspERGnq8nrhYsjo
+Fotos: cevicheria 7 mares.jpg, cevicheria 7 mares-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

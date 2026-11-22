@@ -1,0 +1,15 @@
+Nombre: Miisabor Cevicheria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: 06001, Cajamarca 06001
+Teléfono: 919 506 997
+Rating: 4
+Reseñas: 5
+Sitio web: 
+Latitud: -7.180216799999999
+Longitud: -78.4915214
+Google Maps: https://www.google.com/maps?cid=14813268103130636826
+Place Id: ChIJlbxrPVRbspERGuK5EdtMk80
+Fotos: Miisabor Cevicheria.jpg

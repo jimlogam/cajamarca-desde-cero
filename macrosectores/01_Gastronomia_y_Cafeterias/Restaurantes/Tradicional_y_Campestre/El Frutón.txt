@@ -1,0 +1,15 @@
+Nombre: El Frutón
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jr, Jirón Silva Santisteban 184, Cajamarca 06002
+Teléfono: 
+Rating: 4.2
+Reseñas: 17
+Sitio web: 
+Latitud: -7.1597382
+Longitud: -78.5164317
+Google Maps: https://www.google.com/maps?cid=7412277444719678237
+Place Id: ChIJi50Vmc9bspERHRMoZRCz3WY
+Fotos: El Frutón.jpg

@@ -1,0 +1,15 @@
+Nombre: PERRICHOLI RESTAURANTE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jr, Lloque Yupanqui 260, Baños del Inca 06004
+Teléfono: 934 565 669
+Rating: 4.1
+Reseñas: 407
+Sitio web: https://www.instagram.com/perricholirestaurante?igsh=OHB1cXZuZmUwZ2Mx
+Latitud: -7.165332599999999
+Longitud: -78.4639497
+Google Maps: https://www.google.com/maps?cid=3893364981056370685
+Place Id: ChIJidweu6pFspER_XfPhNICCDY
+Fotos: PERRICHOLI RESTAURANTE.jpg

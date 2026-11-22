@@ -1,0 +1,16 @@
+Nombre: TAIPÁ Cevicheria & Marisqueria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería, Cervecería artesanal, Cafetería, Restaurante
+Dirección: Jr. José Sabogal 757, Cajamarca 06002
+Teléfono: 980 529 977
+Rating: 4.3
+Reseñas: 56
+Sitio web: https://drive.google.com/drive/folders/1go2hbiy24B8fQeNNQKRW_oGXp2sr0bSM?usp=sharing
+Latitud: -7.1558492
+Longitud: -78.5152042
+Google Maps: https://www.google.com/maps?cid=3266554728538132018
+Place Id: ChIJrR7Yq-NbspERMk7j-TciVS0
+Fotos: TAIPÁ Cevicheria & Marisqueria.jpg, TAIPÁ Cevicheria & Marisqueria-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

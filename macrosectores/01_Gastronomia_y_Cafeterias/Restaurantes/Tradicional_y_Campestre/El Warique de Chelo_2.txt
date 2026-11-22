@@ -1,0 +1,16 @@
+Nombre: El Warique de Chelo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante de cocina criolla
+Dirección: Colonial 198, Cajamarca 06000
+Teléfono: 918 343 454
+Rating: 4.1
+Reseñas: 1251
+Sitio web: 
+Latitud: -7.1730839
+Longitud: -78.49774529999999
+Google Maps: https://www.google.com/maps?cid=8150684045604212646
+Place Id: ChIJb4OcqCJbspERps-ujvQLHXE
+Fotos: El Warique de Chelo_2.jpg, El Warique de Chelo_2-1.jpg, El Warique de Chelo_2-2.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

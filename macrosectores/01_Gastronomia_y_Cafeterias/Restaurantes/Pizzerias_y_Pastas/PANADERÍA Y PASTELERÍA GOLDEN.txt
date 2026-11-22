@@ -1,0 +1,15 @@
+Nombre: PANADERÍA Y PASTELERÍA GOLDEN
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pizzerias_y_Pastas
+Categoría Maps: Panadería, Pastelería, Pizzería
+Dirección: Valle De Dios, Av. Cajamarca Mz 50 Lt04, 13630
+Teléfono: 922 115 566
+Rating: 3.8
+Reseñas: 5
+Sitio web: 
+Latitud: -8.508820799999999
+Longitud: -78.68536519999999
+Google Maps: https://www.google.com/maps?cid=10441538420029379613
+Place Id: ChIJiR6YoJf3rJERHdRxEt_L55A
+Fotos: PANADERÍA Y PASTELERÍA GOLDEN.jpg

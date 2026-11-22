@@ -1,0 +1,16 @@
+Nombre: Restaurante la Nonna Saludable
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano, Restaurante
+Dirección: Jaen 118, Cajamarca 06001
+Teléfono: 960 374 610
+Rating: 4.6
+Reseñas: 10
+Sitio web: https://www.facebook.com/share/1RtfXCV4D1/
+Latitud: -7.1614618
+Longitud: -78.508163
+Google Maps: https://www.google.com/maps?cid=13185863497403192297
+Place Id: ChIJ2zE9Yq9bspER6dOBO_2Y_bY
+Fotos: Restaurante la Nonna Saludable.jpg, Restaurante la Nonna Saludable-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

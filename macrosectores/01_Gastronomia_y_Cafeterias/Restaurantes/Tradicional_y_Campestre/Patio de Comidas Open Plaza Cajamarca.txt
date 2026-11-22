@@ -1,0 +1,16 @@
+Nombre: Patio de Comidas Open Plaza Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Patio de Comidas, Cajamarca 06001
+Teléfono: 997 112 851
+Rating: 5
+Reseñas: 3
+Sitio web: https://www.instagram.com/vigospizza
+Latitud: -7.1516728
+Longitud: -78.50512619999999
+Google Maps: https://www.google.com/maps?cid=14631551507158722718
+Place Id: ChIJ5Qey_6RbspERnugGEZO2Dcs
+Fotos: Patio de Comidas Open Plaza Cajamarca.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,15 @@
+Nombre: Hamburguesería BANANAS
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Hamburguesería, Pub restaurante, Restaurante
+Dirección: Jr, Antonio Astopilco 255, Cajamarca 06001
+Teléfono: 993 897 794
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1482655
+Longitud: -78.5000633
+Google Maps: https://www.google.com/maps?cid=963213931409258462
+Place Id: ChIJqdGKhuRaspER3jdboPcFXg0
+Fotos: Hamburguesería BANANAS.jpg

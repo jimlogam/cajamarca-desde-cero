@@ -1,0 +1,16 @@
+Nombre: Cevicheria La Base
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Av. Luis Rebaza Neyra 579, Cajamarca 06002
+Teléfono: (076) 365034
+Rating: 3.9
+Reseñas: 415
+Sitio web: 
+Latitud: -7.1633745
+Longitud: -78.5001911
+Google Maps: https://www.google.com/maps?cid=16602862932573179903
+Place Id: ChIJ3fcoNOBaspER_0-GFt83aeY
+Fotos: Cevicheria La Base.jpg, Cevicheria La Base-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

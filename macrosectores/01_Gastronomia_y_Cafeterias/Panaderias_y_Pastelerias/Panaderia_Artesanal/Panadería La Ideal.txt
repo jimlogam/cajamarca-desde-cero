@@ -1,0 +1,15 @@
+Nombre: Panadería La Ideal
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Amalia Puga 960, Cajamarca 06002
+Teléfono: (076) 773148
+Rating: 3.8
+Reseñas: 279
+Sitio web: 
+Latitud: -7.159385899999999
+Longitud: -78.51494629999999
+Google Maps: https://www.google.com/maps?cid=17735389710697831970
+Place Id: ChIJYQL8HfxaspERIh5Dy_nCIPY
+Fotos: Panadería La Ideal.jpg

@@ -1,0 +1,16 @@
+Nombre: Campo Verde
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Vía de Evitamiento Nte. 782, Cajamarca 06002
+Teléfono: 960 704 498
+Rating: 3.8
+Reseñas: 236
+Sitio web: 
+Latitud: -7.156478399999999
+Longitud: -78.5070343
+Google Maps: https://www.google.com/maps?cid=2646469394002874759
+Place Id: ChIJXyfzIYxbspERhxF8auQluiQ
+Fotos: Campo Verde.jpg, Campo Verde-1.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

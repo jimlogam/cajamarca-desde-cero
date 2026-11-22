@@ -1,0 +1,15 @@
+Nombre: Panaderia La Ideal - San Martin
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería, Cafetería
+Dirección: Av. Vía de Evitamiento Sur 1012, Cajamarca 06003
+Teléfono: (076) 772806
+Rating: 4
+Reseñas: 185
+Sitio web: 
+Latitud: -7.1676094
+Longitud: -78.5016113
+Google Maps: https://www.google.com/maps?cid=8707208216341622466
+Place Id: ChIJfdOG6x5bspERwq5ncL031ng
+Fotos: Panaderia La Ideal - San Martin.jpg

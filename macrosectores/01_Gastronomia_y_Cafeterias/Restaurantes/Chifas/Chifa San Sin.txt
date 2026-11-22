@@ -1,0 +1,15 @@
+Nombre: Chifa "San Sin"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante
+Dirección: San Ignacio 06845
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -5.146200599999999
+Longitud: -79.00175329999999
+Google Maps: https://www.google.com/maps?cid=217296035779635252
+Place Id: ChIJKxY7-hNotZERNOi-35f9AwM
+Fotos: Chifa San Sin.jpg

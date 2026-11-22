@@ -1,0 +1,15 @@
+Nombre: Panaderías e Inversiones El Triunfo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Jr. Amancaes 488, Cajamarca 06002
+Teléfono: 923 455 669
+Rating: 4.2
+Reseñas: 33
+Sitio web: 
+Latitud: -7.152779
+Longitud: -78.5085653
+Google Maps: https://www.google.com/maps?cid=2801867156836260901
+Place Id: ChIJt2JF3P5bspERJRwPj1U74iY
+Fotos: Panaderías e Inversiones El Triunfo.jpg

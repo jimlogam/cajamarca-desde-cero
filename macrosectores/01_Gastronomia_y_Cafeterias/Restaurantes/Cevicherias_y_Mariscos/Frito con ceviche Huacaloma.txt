@@ -1,0 +1,16 @@
+Nombre: Frito con ceviche Huacaloma
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av San Martín de Porres 1195, Cajamarca 06003
+Teléfono: 
+Rating: 3
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1723525
+Longitud: -78.4994225
+Google Maps: https://www.google.com/maps?cid=2037714685159677444
+Place Id: ChIJa8gw8-tbspERBB6KurVqRxw
+Fotos: Frito con ceviche Huacaloma.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,15 @@
+Nombre: Panadería Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Cra. 7 #5-53, Cajamarca, Tolima, Colombia
+Teléfono: +57 322 8351995
+Rating: 4.3
+Reseñas: 247
+Sitio web: https://panaderiacajamarca.cajatol.com/
+Latitud: 4.4415317
+Longitud: -75.4261501
+Google Maps: https://www.google.com/maps?cid=18375809448488079911
+Place Id: ChIJdR5S0M7oOI4RJxJmjVX9A_8
+Fotos: Panadería Cajamarca.jpg

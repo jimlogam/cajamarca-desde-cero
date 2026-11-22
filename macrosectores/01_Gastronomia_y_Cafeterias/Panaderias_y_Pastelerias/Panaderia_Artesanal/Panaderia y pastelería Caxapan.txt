@@ -1,0 +1,15 @@
+Nombre: Panaderia y pastelería Caxapan
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Jr, Jirón Manuel Seoane 230, Cajamarca 06002
+Teléfono: 993 648 726
+Rating: 4.6
+Reseñas: 7
+Sitio web: 
+Latitud: -7.151959799999999
+Longitud: -78.51167339999999
+Google Maps: https://www.google.com/maps?cid=1286202682331670804
+Place Id: ChIJh7RE_ERbspERFKmIZYaC2RE
+Fotos: Panaderia y pastelería Caxapan.jpg

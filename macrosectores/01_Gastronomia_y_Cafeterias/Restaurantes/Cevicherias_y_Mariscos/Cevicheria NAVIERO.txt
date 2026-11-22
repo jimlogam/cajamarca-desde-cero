@@ -1,0 +1,15 @@
+Nombre: Cevicheria NAVIERO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Arnaldo Márquez 360, Cajamarca 06002
+Teléfono: 914 329 575
+Rating: 3.9
+Reseñas: 261
+Sitio web: 
+Latitud: -7.1516373
+Longitud: -78.50859729999999
+Google Maps: https://www.google.com/maps?cid=14409188770244461825
+Place Id: ChIJ1X96aR5bspERAQX459e498c
+Fotos: Cevicheria NAVIERO.jpg

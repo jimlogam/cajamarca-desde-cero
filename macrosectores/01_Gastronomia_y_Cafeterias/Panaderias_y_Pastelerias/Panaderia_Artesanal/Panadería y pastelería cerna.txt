@@ -1,0 +1,15 @@
+Nombre: Panadería y pastelería cerna
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería mayorista
+Dirección: Jr. Cusco 650, Cajamarca 06003
+Teléfono: 980 609 814
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1781483999999995
+Longitud: -78.4937082
+Google Maps: https://www.google.com/maps?cid=15767544151937762573
+Place Id: ChIJHXDKfABbspERDcWJvN2R0do
+Fotos: Panadería y pastelería cerna.jpg

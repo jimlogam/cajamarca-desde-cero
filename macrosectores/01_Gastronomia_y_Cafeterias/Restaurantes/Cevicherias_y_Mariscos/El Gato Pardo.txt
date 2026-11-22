@@ -1,0 +1,15 @@
+Nombre: El Gato Pardo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Luiz, Av. Luis Rebaza Neyra 593, Cajamarca 15082
+Teléfono: 930 974 749
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1630251
+Longitud: -78.4997929
+Google Maps: https://www.google.com/maps?cid=6835915565132075813
+Place Id: ChIJBxnmsf9bspERJdNC_vwM3l4
+Fotos: El Gato Pardo.jpg

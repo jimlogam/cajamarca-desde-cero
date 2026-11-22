@@ -1,0 +1,16 @@
+Nombre: Chifa Manu
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: Vía de Evitamiento Nte. 1890, Cajamarca 06002
+Teléfono: 919 555 527
+Rating: 3.8
+Reseñas: 18
+Sitio web: 
+Latitud: -7.1526372
+Longitud: -78.50645759999999
+Google Maps: https://www.google.com/maps?cid=14784033826574206979
+Place Id: ChIJZWfl6qZbspERA4hQpG9wK80
+Fotos: Chifa Manu.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

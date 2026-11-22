@@ -1,0 +1,15 @@
+Nombre: Folklórica Café Bar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Restaurante, Bar, Cafetería
+Dirección: Hoyos Rubio MZ A Lote 5 Afuera de la puerta principal del Aeropuerto de, Cajamarca 06001
+Teléfono: 975 256 073
+Rating: 4.3
+Reseñas: 31
+Sitio web: 
+Latitud: -7.1433656
+Longitud: -78.4900624
+Google Maps: https://www.google.com/maps?cid=2520647584663137561
+Place Id: ChIJ6Ye30B1bspERGe3Kj58j-yI
+Fotos: Folklórica Café Bar.jpg

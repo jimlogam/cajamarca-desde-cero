@@ -1,0 +1,15 @@
+Nombre: PEPIO'S RESTAURANTE CEVICHERIA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Jr. Cumbe Mayo Nº190, Cajamarca 06000
+Teléfono: 978 371 373
+Rating: 4.6
+Reseñas: 16
+Sitio web: 
+Latitud: -7.163143799999999
+Longitud: -78.50858749999999
+Google Maps: https://www.google.com/maps?cid=14509577814571702529
+Place Id: ChIJa1Q8A-xbspERAVlvtiVgXMk
+Fotos: PEPIO'S RESTAURANTE CEVICHERIA.jpg

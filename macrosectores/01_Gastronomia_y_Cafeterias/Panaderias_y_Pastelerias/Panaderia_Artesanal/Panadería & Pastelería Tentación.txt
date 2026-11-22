@@ -1,0 +1,16 @@
+Nombre: Panadería & Pastelería Tentación
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: 
+Dirección: VFGH+499, Cajamarca 06000
+Teléfono: 
+Rating: 3
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1247183
+Longitud: -78.5215307
+Google Maps: https://www.google.com/maps?cid=1554259420703976598
+Place Id: ChIJ03cimHpbspERlmzdU7XWkRU
+Fotos: Panadería & Pastelería Tentación.jpg
+Nota: Sin categoria en Maps; clasificado por el nombre.

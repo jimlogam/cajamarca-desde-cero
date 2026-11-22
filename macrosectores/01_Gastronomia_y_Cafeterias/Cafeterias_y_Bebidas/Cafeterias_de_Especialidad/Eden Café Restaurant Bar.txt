@@ -1,0 +1,15 @@
+Nombre: Eden Café Restaurant Bar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Restaurante
+Dirección: Cajamarca 06002
+Teléfono: 988 761 551
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1617465
+Longitud: -78.51278549999999
+Google Maps: https://www.google.com/maps?cid=1475258811117862828
+Place Id: ChIJczfgcABbspERrP9xjBIseRQ
+Fotos: Eden Café Restaurant Bar.jpg

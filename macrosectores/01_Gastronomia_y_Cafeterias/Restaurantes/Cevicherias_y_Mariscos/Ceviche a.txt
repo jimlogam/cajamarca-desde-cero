@@ -1,0 +1,15 @@
+Nombre: Ceviche a
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante de comida rápida
+Dirección: Leoncio Prado 445, Cajamarca 06002
+Teléfono: 983 770 427
+Rating: 4.4
+Reseñas: 16
+Sitio web: 
+Latitud: -7.1579441
+Longitud: -78.5085613
+Google Maps: https://www.google.com/maps?cid=13410485375575028448
+Place Id: ChIJU0Rf0vhbspER4HK4tGWdG7o
+Fotos: Ceviche a.jpg

@@ -1,0 +1,15 @@
+Nombre: Panadería La Sanmarquinita
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería, Pastelería
+Dirección: Los Eucaliptos 112, Cajamarca 06001
+Teléfono: 987 884 382
+Rating: 4.7
+Reseñas: 29
+Sitio web: 
+Latitud: -7.146338999999999
+Longitud: -78.513123
+Google Maps: https://www.google.com/maps?cid=4518361911082955385
+Place Id: ChIJLSTHuPNaspEReTLBBDhytD4
+Fotos: Panadería La Sanmarquinita.jpg

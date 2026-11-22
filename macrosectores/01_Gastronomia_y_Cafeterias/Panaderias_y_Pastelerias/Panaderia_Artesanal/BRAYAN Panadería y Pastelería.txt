@@ -1,0 +1,15 @@
+Nombre: BRAYAN Panadería y Pastelería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av. Hoyos Rubio 646, Cajamarca 06001
+Teléfono: 976 855 983
+Rating: 3
+Reseñas: 9
+Sitio web: 
+Latitud: -7.1504147
+Longitud: -78.5097079
+Google Maps: https://www.google.com/maps?cid=5259828872217936534
+Place Id: ChIJYan7gD1bspERlsLk032q_kg
+Fotos: BRAYAN Panadería y Pastelería.jpg

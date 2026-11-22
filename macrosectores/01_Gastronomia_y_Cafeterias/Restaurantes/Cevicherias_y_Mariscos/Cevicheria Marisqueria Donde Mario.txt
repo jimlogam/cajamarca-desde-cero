@@ -1,0 +1,16 @@
+Nombre: "Cevicheria Marisqueria "Donde Mario"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. Mártires de Uchuraccay Nº 1662, Cajamarca 06000
+Teléfono: (076) 638889
+Rating: 4.1
+Reseñas: 30
+Sitio web: 
+Latitud: -7.1749626
+Longitud: -78.49587609999999
+Google Maps: https://www.google.com/maps?cid=5196911508347949282
+Place Id: ChIJ05B5zzlbspER4hA4gHsjH0g
+Fotos: Cevicheria Marisqueria Donde Mario.jpg, Cevicheria Marisqueria Donde Mario-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

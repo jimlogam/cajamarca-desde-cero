@@ -1,0 +1,15 @@
+Nombre: Cevichería el Paladar del Mar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante yemení
+Dirección: Av. Independencia 812, Cajamarca 06003
+Teléfono: 910 789 068
+Rating: 4.2
+Reseñas: 13
+Sitio web: 
+Latitud: -7.1716343
+Longitud: -78.51245899999999
+Google Maps: https://www.google.com/maps?cid=10585664206979812639
+Place Id: ChIJ2ZryqwVbspERH02Z0ILV55I
+Fotos: Cevichería el Paladar del Mar.jpg

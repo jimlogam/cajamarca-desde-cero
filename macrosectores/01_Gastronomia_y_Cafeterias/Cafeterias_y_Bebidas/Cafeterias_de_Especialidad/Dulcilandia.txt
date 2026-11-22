@@ -1,0 +1,15 @@
+Nombre: Dulcilandia
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: 06001 Jr, Amalia Puga 955, Cajamarca 06001
+Teléfono: 
+Rating: 4.2
+Reseñas: 85
+Sitio web: 
+Latitud: -7.1592081
+Longitud: -78.5148236
+Google Maps: https://www.google.com/maps?cid=11984123419545351916
+Place Id: ChIJ-90Zl-xbspER7LZwZsEoUKY
+Fotos: Dulcilandia.jpg

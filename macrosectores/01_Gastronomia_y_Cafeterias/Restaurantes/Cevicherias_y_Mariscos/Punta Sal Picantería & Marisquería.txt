@@ -1,0 +1,15 @@
+Nombre: Punta Sal Picantería & Marisquería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante de hot pot
+Dirección: Manuel Ibáñez Rosazza 587, Cajamarca 06002
+Teléfono: 951 737 786
+Rating: 4.1
+Reseñas: 30
+Sitio web: 
+Latitud: -7.1619831
+Longitud: -78.500801
+Google Maps: https://www.google.com/maps?cid=5954816257422409157
+Place Id: ChIJb0TZLWtbspERxT1iDtbBo1I
+Fotos: Punta Sal Picantería & Marisquería.jpg

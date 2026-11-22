@@ -1,0 +1,15 @@
+Nombre: Willka Cafe Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jr, San Salvador 138, Cajamarca 06002
+Teléfono: 993 041 889
+Rating: 4.3
+Reseñas: 63
+Sitio web: https://www.facebook.com/WilkaCafeCajamarca
+Latitud: -7.1557697
+Longitud: -78.5146609
+Google Maps: https://www.google.com/maps?cid=17750310078333397198
+Place Id: ChIJ_1VfItNbspERzigZmPjEVfY
+Fotos: Willka Cafe Cajamarca.jpg

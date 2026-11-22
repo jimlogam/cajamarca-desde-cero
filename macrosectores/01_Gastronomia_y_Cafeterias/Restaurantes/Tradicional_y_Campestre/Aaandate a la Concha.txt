@@ -1,0 +1,15 @@
+Nombre: Aaandate a la Concha
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Colonial 401, Cajamarca 06003
+Teléfono: (076) 602848
+Rating: 4.5
+Reseñas: 12
+Sitio web: 
+Latitud: -7.1719520999999995
+Longitud: -78.4965623
+Google Maps: https://www.google.com/maps?cid=3903402305642490480
+Place Id: ChIJJaBb_DRbspERcOpCQ7erKzY
+Fotos: Aaandate a la Concha.jpg

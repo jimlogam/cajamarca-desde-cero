@@ -1,0 +1,15 @@
+Nombre: Conga Restaurant
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. Atahualpa 833, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1654005
+Longitud: -78.4991897
+Google Maps: https://www.google.com/maps?cid=17918301679416186126
+Place Id: ChIJYWe5QYVbspERDhXjM3GYqvg
+Fotos: Conga Restaurant.jpg

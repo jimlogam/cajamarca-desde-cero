@@ -1,0 +1,15 @@
+Nombre: Recreo Campestre "EL RINCON MARINO"-RESTOBAR.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: 06001, Cajamarca 06001
+Teléfono: 931 666 796
+Rating: 3.4
+Reseñas: 15
+Sitio web: https://web.facebook.com/elrinconmarino20/?modal=admin_todo_tour
+Latitud: -7.1807712
+Longitud: -78.4822186
+Google Maps: https://www.google.com/maps?cid=15219086821014124435
+Place Id: ChIJ99s6VqRbspERkzdgXNQONdM
+Fotos: Recreo Campestre EL RINCON MARINO -RESTOBAR.jpg

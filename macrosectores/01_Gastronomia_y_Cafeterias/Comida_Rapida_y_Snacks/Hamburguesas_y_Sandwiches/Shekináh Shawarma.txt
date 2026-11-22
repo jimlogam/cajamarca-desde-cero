@@ -1,0 +1,16 @@
+Nombre: Shekináh Shawarma
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Restaurante de shawarma
+Dirección: JR, Cinco Esquinas 567, Cajamarca 06001
+Teléfono: 940 249 371
+Rating: 4.7
+Reseñas: 72
+Sitio web: 
+Latitud: -7.159747299999999
+Longitud: -78.5147566
+Google Maps: https://www.google.com/maps?cid=11558557982923917744
+Place Id: ChIJLQp52B1bspERsInv3z4_aKA
+Fotos: Shekináh Shawarma.jpg, Shekináh Shawarma-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

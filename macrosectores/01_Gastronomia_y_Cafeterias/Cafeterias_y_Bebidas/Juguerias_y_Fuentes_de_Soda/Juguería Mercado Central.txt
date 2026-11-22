@@ -1,0 +1,16 @@
+Nombre: Juguería Mercado Central
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante
+Dirección: Jr.Amazonas 511, Cajamarca 06001
+Teléfono: 
+Rating: 4.1
+Reseñas: 150
+Sitio web: 
+Latitud: -7.1550984
+Longitud: -78.51756979999999
+Google Maps: https://www.google.com/maps?cid=1988349941151299836
+Place Id: ChIJr7Z2svlaspER_Ph9m7wJmBs
+Fotos: Juguería Mercado Central.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

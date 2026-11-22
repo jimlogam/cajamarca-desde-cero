@@ -1,0 +1,15 @@
+Nombre: Chifa Blas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: Jr. Cajamarca, Huaraz 02001
+Teléfono: 
+Rating: 4
+Reseñas: 4
+Sitio web: 
+Latitud: -9.5260828
+Longitud: -77.5271333
+Google Maps: https://www.google.com/maps?cid=14698010482327188287
+Place Id: ChIJYzgYLAANqZERP3MUCKnS-cs
+Fotos: Chifa Blas.jpg

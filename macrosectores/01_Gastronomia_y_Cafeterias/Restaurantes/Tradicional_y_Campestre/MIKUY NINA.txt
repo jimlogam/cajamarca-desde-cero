@@ -1,0 +1,16 @@
+Nombre: MIKUY NINA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: 06001 JR, Belén 736, Cajamarca 06001
+Teléfono: 990 936 649
+Rating: 4.3
+Reseñas: 9
+Sitio web: https://www.facebook.com/profile.php?id=61560266493586&mibextid=ZbWKwL
+Latitud: -7.1580319999999995
+Longitud: -78.5157021
+Google Maps: https://www.google.com/maps?cid=9494737930053587076
+Place Id: ChIJHznmzcxbspERhJBFlNcVxIM
+Fotos: MIKUY NINA.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,15 @@
+Nombre: Don Tex Cevichería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Cumulca 160, Cajamarca 06002
+Teléfono: 976 357 433
+Rating: 4.4
+Reseñas: 8
+Sitio web: 
+Latitud: -7.159472
+Longitud: -78.5109741
+Google Maps: https://www.google.com/maps?cid=4422271628244625949
+Place Id: ChIJ54R_xQBbspERHSrPnZ0QXz0
+Fotos: Don Tex Cevichería.jpg

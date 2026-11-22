@@ -1,0 +1,15 @@
+Nombre: Mr. Papacho's
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Snacks_y_Piques
+Categoría Maps: Restaurante de comida rápida
+Dirección: Jr.Amazonas 862, Cajamarca 06002
+Teléfono: 967 186 937
+Rating: 3.8
+Reseñas: 30
+Sitio web: 
+Latitud: -7.157847299999999
+Longitud: -78.51477679999999
+Google Maps: https://www.google.com/maps?cid=11371005959220295224
+Place Id: ChIJl0iUER1bspEROPYseqztzZ0
+Fotos: Mr. Papacho's.jpg

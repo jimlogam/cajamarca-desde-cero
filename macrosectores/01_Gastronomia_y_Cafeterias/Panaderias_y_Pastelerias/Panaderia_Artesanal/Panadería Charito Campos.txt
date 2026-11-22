@@ -1,0 +1,15 @@
+Nombre: Panadería Charito Campos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Tahuantinsuyo 390, Cajamarca 06002
+Teléfono: 949 365 173
+Rating: 5
+Reseñas: 3
+Sitio web: https://www.charitocampos.com/
+Latitud: -7.176427299999999
+Longitud: -78.49936679999999
+Google Maps: https://www.google.com/maps?cid=10516272537259036313
+Place Id: ChIJ7cM7TOBbspERmU6FsCdO8ZE
+Fotos: Panadería Charito Campos.jpg

@@ -1,0 +1,15 @@
+Nombre: Recreo Campestre El kora
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante de comida rural
+Dirección: Cajamarca 06000
+Teléfono: 958 900 563
+Rating: 4.6
+Reseñas: 17
+Sitio web: 
+Latitud: -7.1475181
+Longitud: -78.48069799999999
+Google Maps: https://www.google.com/maps?cid=4289071895852776108
+Place Id: ChIJf09XVWVbspERrHpqMCrYhTs
+Fotos: Recreo Campestre El kora.jpg

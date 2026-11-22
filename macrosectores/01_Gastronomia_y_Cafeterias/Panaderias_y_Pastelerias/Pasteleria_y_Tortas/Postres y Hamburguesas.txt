@@ -1,0 +1,15 @@
+Nombre: Postres y Hamburguesas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Cafetería
+Dirección: Jirón Silva Santisteban 145, Cajamarca 06002
+Teléfono: 
+Rating: 3.3
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1596002
+Longitud: -78.5164437
+Google Maps: https://www.google.com/maps?cid=3534689960424669880
+Place Id: ChIJXZL3wP5aspERuIJAmsq9DTE
+Fotos: Postres y Hamburguesas.jpg

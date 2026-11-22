@@ -1,0 +1,15 @@
+Nombre: Manjar artesanal
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Comercio
+Dirección: RFVM+8H3, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1566825
+Longitud: -78.51607779999999
+Google Maps: https://www.google.com/maps?cid=3407162837013828607
+Place Id: ChIJg4S4VwBbspER_xMfYIysSC8
+Fotos: Manjar artesanal.jpg

@@ -1,0 +1,15 @@
+Nombre: Residencia Ayay
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: RFXF+X3Q, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1500487999999995
+Longitud: -78.5272801
+Google Maps: https://www.google.com/maps?cid=1053902396098814468
+Place Id: ChIJwycGOgBbspERBCJnO6U2oA4
+Fotos: Sin foto en Maps

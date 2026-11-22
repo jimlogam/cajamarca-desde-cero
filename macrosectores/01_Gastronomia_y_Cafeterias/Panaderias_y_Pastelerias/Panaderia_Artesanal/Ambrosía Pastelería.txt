@@ -1,0 +1,15 @@
+Nombre: Ambrosía Pastelería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Pastelería, Panadería, Servicio de catering, Service establishment
+Dirección: 
+Teléfono: 913 250 080
+Rating: 4.9
+Reseñas: 9
+Sitio web: https://www.ambrosiapasteleria.com/
+Latitud: -7.1606359
+Longitud: -78.4917998
+Google Maps: https://www.google.com/maps?cid=2095678548266049465
+Place Id: ChIJu5z-Iz5bspERud_NSIlYFR0
+Fotos: Ambrosía Pastelería.jpg

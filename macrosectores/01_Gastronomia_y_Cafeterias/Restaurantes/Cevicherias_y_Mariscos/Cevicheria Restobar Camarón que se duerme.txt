@@ -1,0 +1,15 @@
+Nombre: Cevicheria Restobar Camarón que se duerme
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. Hoyos Rubio 1601, Cajamarca 06001
+Teléfono: 969 060 934
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/restobar.camaronqsd?locale=es_LA
+Latitud: -7.146452999999999
+Longitud: -78.49999389999999
+Google Maps: https://www.google.com/maps?cid=7420698567918245087
+Place Id: ChIJEfeTKwBbspER31QE7gee-2Y
+Fotos: Cevicheria Restobar Camarón que se duerme.jpg

@@ -1,0 +1,15 @@
+Nombre: Cafe Los Jazmines
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Dos de Mayo 765-705, Cajamarca 06002
+Teléfono: 
+Rating: 4.2
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1554091
+Longitud: -78.5154039
+Google Maps: https://www.google.com/maps?cid=4635490629664600101
+Place Id: ChIJlb_K_fZbspERJXDP9CqSVEA
+Fotos: Cafe Los Jazmines.jpg

@@ -1,0 +1,15 @@
+Nombre: Panadería "la confianza"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: & Ca, Av Dinamarca, Cajamarca 06001
+Teléfono: 972 092 592
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1393477999999995
+Longitud: -78.5154318
+Google Maps: https://www.google.com/maps?cid=2843230936296450842
+Place Id: ChIJh7LL0gVbspERGutZ9HgvdSc
+Fotos: Panadería la confianza.jpg

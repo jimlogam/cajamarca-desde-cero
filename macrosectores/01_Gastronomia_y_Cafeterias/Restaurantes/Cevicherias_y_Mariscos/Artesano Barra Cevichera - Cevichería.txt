@@ -1,0 +1,16 @@
+Nombre: Artesano Barra Cevichera - Cevichería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería, Restaurante de pescados, Restaurante
+Dirección: Pasaje Chepén 480, Cajamarca 06001
+Teléfono: 944 895 259
+Rating: 4.3
+Reseñas: 175
+Sitio web: https://www.instagram.com/artesano_barracevichera?igsh=OTQ0Y3JoeW54Mm94&utm_source=qr
+Latitud: -7.1506979
+Longitud: -78.52014609999999
+Google Maps: https://www.google.com/maps?cid=12297395689656463136
+Place Id: ChIJ0eo_0PdaspERIK9ksDkgqao
+Fotos: Artesano Barra Cevichera - Cevichería.jpg, Artesano Barra Cevichera - Cevichería-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

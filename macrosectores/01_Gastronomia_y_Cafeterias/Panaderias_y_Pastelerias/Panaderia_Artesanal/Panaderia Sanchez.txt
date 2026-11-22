@@ -1,0 +1,15 @@
+Nombre: Panaderia Sanchez
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Hualgayoc 312, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.151614299999999
+Longitud: -78.5201414
+Google Maps: https://www.google.com/maps?cid=14993121867366474538
+Place Id: ChIJX4lUWgBbspERKiOFwuZEEtA
+Fotos: Panaderia Sanchez.jpg

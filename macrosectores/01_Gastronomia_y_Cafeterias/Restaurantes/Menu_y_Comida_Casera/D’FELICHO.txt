@@ -1,0 +1,15 @@
+Nombre: D’FELICHO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante de desayunos
+Dirección: Jirón Huánuco 1248, Cajamarca 06002
+Teléfono: 963 306 399
+Rating: 5
+Reseñas: 4
+Sitio web: https://www.facebook.com/share/1G7nbKVPPY/?mibextid=wwXIfr
+Latitud: -7.1593629
+Longitud: -78.5189876
+Google Maps: https://www.google.com/maps?cid=14597352157002306515
+Place Id: ChIJxfxbGxNbspER05NnW3I2lMo
+Fotos: D’FELICHO.jpg

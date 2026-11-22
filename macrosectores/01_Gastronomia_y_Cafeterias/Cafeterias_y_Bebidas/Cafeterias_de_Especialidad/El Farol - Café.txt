@@ -1,0 +1,15 @@
+Nombre: El Farol - Café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Belén 678, Cajamarca 06002
+Teléfono: 993 109 848
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1586075
+Longitud: -78.5161859
+Google Maps: https://www.google.com/maps?cid=1523846527207046501
+Place Id: ChIJ105k1sZbspERZX1jwlfKJRU
+Fotos: El Farol - Café.jpg

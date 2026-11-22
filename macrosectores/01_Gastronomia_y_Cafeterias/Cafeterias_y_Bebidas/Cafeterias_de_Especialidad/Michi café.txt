@@ -1,0 +1,15 @@
+Nombre: Michi café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: 06000, Cajamarca 06000
+Teléfono: 
+Rating: 4.9
+Reseñas: 35
+Sitio web: https://michicafe.com/
+Latitud: -7.1523414999999995
+Longitud: -78.5091016
+Google Maps: https://www.google.com/maps?cid=14225935255538348949
+Place Id: ChIJ-ZDmf8tbspERlbMRIL6sbMU
+Fotos: Michi café.jpg

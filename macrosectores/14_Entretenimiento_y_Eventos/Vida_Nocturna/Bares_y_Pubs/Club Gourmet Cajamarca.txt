@@ -1,0 +1,15 @@
+Nombre: Club Gourmet Cajamarca
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: Jr. Guillermo Urrelo 670, Cajamarca 06001
+Teléfono: 960 204 259
+Rating: 4.8
+Reseñas: 33
+Sitio web: 
+Latitud: -7.160088
+Longitud: -78.5163869
+Google Maps: https://www.google.com/maps?cid=6231119318554698221
+Place Id: ChIJm89Fqt9bspER7eGGnwFieVY
+Fotos: Club Gourmet Cajamarca.jpg

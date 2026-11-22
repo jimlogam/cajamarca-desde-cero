@@ -1,0 +1,16 @@
+Nombre: Chifa los Angeles 4
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Comedor social
+Dirección: Jirón Ayacucho 1478, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1548063
+Longitud: -78.507446
+Google Maps: https://www.google.com/maps?cid=17104107346536205355
+Place Id: ChIJ43x0PgBbspERK4xwngL_Xe0
+Fotos: Chifa los Angeles 4.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

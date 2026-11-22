@@ -1,0 +1,15 @@
+Nombre: Marakos Burger
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: Jr, Luis Portilla Alva 174, Cajamarca 00076
+Teléfono: 927 131 297
+Rating: 
+Reseñas: 
+Sitio web: https://marakos-burger.ola.click/products
+Latitud: -7.1504039
+Longitud: -78.5078303
+Google Maps: https://www.google.com/maps?cid=14180330457793886240
+Place Id: ChIJf3mMjqBbspERIPh0tmunysQ
+Fotos: Marakos Burger.jpg

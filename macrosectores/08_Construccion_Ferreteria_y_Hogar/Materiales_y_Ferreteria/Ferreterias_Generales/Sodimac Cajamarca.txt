@@ -1,0 +1,15 @@
+Nombre: Sodimac Cajamarca
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Altura grifo El Amigo, Av. Vía de Evitamiento Sur cdra. 3, Pueblo Libre 06003
+Teléfono: (01) 4192000
+Rating: 4
+Reseñas: 1421
+Sitio web: http://www.sodimac.com.pe/sodimac-pe/maestro
+Latitud: -7.1609693
+Longitud: -78.5033565
+Google Maps: https://www.google.com/maps?cid=2611913332406253099
+Place Id: ChIJ22c2huFaspERK3YuWlZhPyQ
+Fotos: Sodimac Cajamarca.jpg

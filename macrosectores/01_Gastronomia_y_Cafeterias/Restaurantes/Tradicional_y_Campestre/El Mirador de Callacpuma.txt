@@ -1,0 +1,15 @@
+Nombre: El Mirador de Callacpuma
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: RH69+X3P, Unnamed Rd, Huayrapongo
+Teléfono: 976 361 923
+Rating: 4
+Reseñas: 173
+Sitio web: http://www.elmiradordecallacpuma.com/
+Latitud: -7.1875481
+Longitud: -78.4322814
+Google Maps: https://www.google.com/maps?cid=8411211708936444389
+Place Id: ChIJybM60otEspER5VnDGXygunQ
+Fotos: El Mirador de Callacpuma.jpg

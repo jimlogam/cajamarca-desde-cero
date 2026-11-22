@@ -1,0 +1,16 @@
+Nombre: Mi Sopita PE - Caldo de Gallina en Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante
+Dirección: Inca Roca 199, Baños del Inca 06004
+Teléfono: 923 982 273
+Rating: 4.6
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1644758
+Longitud: -78.46396899999999
+Google Maps: https://www.google.com/maps?cid=4437958239242573099
+Place Id: ChIJDdi4eB1FspERK1USWoHLlj0
+Fotos: Mi Sopita PE - Caldo de Gallina en Cajamarca.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,15 @@
+Nombre: Caldo De Gallina "El King"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante
+Dirección: Cajamarca 06002
+Teléfono: 
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1600426
+Longitud: -78.5056518
+Google Maps: https://www.google.com/maps?cid=5156888430161717137
+Place Id: ChIJgTu-uuNaspERkWcccrTykEc
+Fotos: Caldo De Gallina El King.jpg

@@ -1,0 +1,15 @@
+Nombre: Panadería Mendoza de Rosa Mendoza
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Jirón Ayacucho 1301, Cajamarca 06002
+Teléfono: 935 801 583
+Rating: 4.2
+Reseñas: 58
+Sitio web: 
+Latitud: -7.1555965
+Longitud: -78.50926919999999
+Google Maps: https://www.google.com/maps?cid=7389946974958801307
+Place Id: ChIJT-rEOj1bspERm1Fkv55djmY
+Fotos: Panadería Mendoza de Rosa Mendoza.jpg

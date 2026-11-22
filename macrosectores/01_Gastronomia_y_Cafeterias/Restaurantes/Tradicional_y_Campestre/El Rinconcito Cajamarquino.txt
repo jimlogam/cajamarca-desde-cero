@@ -1,0 +1,15 @@
+Nombre: El Rinconcito Cajamarquino
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: JR, San Roque 150, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1503042
+Longitud: -78.5091485
+Google Maps: https://www.google.com/maps?cid=17339623287344475675
+Place Id: ChIJ4bezLgBbspERGy5CtYK3ovA
+Fotos: El Rinconcito Cajamarquino.jpg

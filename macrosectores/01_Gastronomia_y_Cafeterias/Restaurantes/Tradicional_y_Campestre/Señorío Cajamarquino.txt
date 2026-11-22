@@ -1,0 +1,15 @@
+Nombre: Señorío Cajamarquino
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Jr del Batán 169, Cajamarca 06001
+Teléfono: 979 704 954
+Rating: 3.5
+Reseñas: 48
+Sitio web: 
+Latitud: -7.156017299999999
+Longitud: -78.5174335
+Google Maps: https://www.google.com/maps?cid=13900604565835757683
+Place Id: ChIJPaCoBvlaspERczjQPTTe6MA
+Fotos: Señorío Cajamarquino.jpg

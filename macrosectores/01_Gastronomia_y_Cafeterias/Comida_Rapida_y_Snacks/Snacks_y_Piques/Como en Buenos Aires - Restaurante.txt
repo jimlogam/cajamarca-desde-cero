@@ -1,0 +1,15 @@
+Nombre: Como en Buenos Aires - Restaurante
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Snacks_y_Piques
+Categoría Maps: Restaurante, Restaurante de comida rápida
+Dirección: Eten 348, Cajamarca 06001
+Teléfono: 967 202 953
+Rating: 5
+Reseñas: 2
+Sitio web: https://como-en-buenos-aires.ola.click/products
+Latitud: -7.1611635
+Longitud: -78.51379299999999
+Google Maps: https://www.google.com/maps?cid=15455765226402448582
+Place Id: ChIJFyz9vZZbspERxoSN05XofdY
+Fotos: Como en Buenos Aires - Restaurante.jpg

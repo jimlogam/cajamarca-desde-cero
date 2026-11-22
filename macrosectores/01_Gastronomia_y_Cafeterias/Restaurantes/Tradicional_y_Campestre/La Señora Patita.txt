@@ -1,0 +1,15 @@
+Nombre: La Señora Patita
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Jr, Jirón Huánuco 1864, Cajamarca
+Teléfono: 972 049 566
+Rating: 4.7
+Reseñas: 18
+Sitio web: 
+Latitud: -7.1615723
+Longitud: -78.5158233
+Google Maps: https://www.google.com/maps?cid=1226307892974485412
+Place Id: ChIJVxMswIRbspERpH8ACoi4BBE
+Fotos: La Señora Patita.jpg

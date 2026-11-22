@@ -1,0 +1,15 @@
+Nombre: Panadería Y Pastelería "Sandoval"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av San Martín de Porres 1902, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1780465
+Longitud: -78.49533699999999
+Google Maps: https://www.google.com/maps?cid=9245795720423927975
+Place Id: ChIJj7Jryz1bspERp_CxrTiqT4A
+Fotos: Panadería Y Pastelería Sandoval.jpg

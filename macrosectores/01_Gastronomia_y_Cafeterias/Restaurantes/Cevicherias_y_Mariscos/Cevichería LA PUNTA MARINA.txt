@@ -1,0 +1,16 @@
+Nombre: Cevichería LA PUNTA MARINA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. Hoyos Rubio, Cajamarca 06001
+Teléfono: 976 932 447
+Rating: 4
+Reseñas: 54
+Sitio web: 
+Latitud: -7.1462921999999995
+Longitud: -78.498774
+Google Maps: https://www.google.com/maps?cid=10474774328822080837
+Place Id: ChIJCf2IEepaspERRSXSG8HfXZE
+Fotos: Cevichería LA PUNTA MARINA.jpg, Cevichería LA PUNTA MARINA-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

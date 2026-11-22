@@ -1,0 +1,15 @@
+Nombre: El Rincón de La Monarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Delfín Cerna 427, Cajamarca 06002
+Teléfono: (076) 638898
+Rating: 3.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.153971899999999
+Longitud: -78.5092142
+Google Maps: https://www.google.com/maps?cid=1837934756002020140
+Place Id: ChIJOy5TPzNbspERLDvYO-yngRk
+Fotos: El Rincón de La Monarca.jpg

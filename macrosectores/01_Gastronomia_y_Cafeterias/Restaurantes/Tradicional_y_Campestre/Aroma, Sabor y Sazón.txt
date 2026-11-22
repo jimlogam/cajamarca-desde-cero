@@ -1,0 +1,16 @@
+Nombre: Aroma, Sabor y Sazón
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Av Vía de Evitamiento Nte 426, Cajamarca 06001
+Teléfono: 
+Rating: 4.3
+Reseñas: 59
+Sitio web: 
+Latitud: -7.1472228
+Longitud: -78.521856
+Google Maps: https://www.google.com/maps?cid=4191562271319907544
+Place Id: ChIJrQ2BSF9aspER2Nzzi61rKzo
+Fotos: Aroma, Sabor y Sazón.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

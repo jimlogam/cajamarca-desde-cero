@@ -1,0 +1,16 @@
+Nombre: Cevichería El Pavita
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Av 26 de Octubre 111, Cajamarca 06001
+Teléfono: 976 885 552
+Rating: 3.9
+Reseñas: 114
+Sitio web: 
+Latitud: -7.1485308
+Longitud: -78.5044673
+Google Maps: https://www.google.com/maps?cid=6279763556846895153
+Place Id: ChIJd2Blue5aspERMYBN764zJlc
+Fotos: Cevichería El Pavita.jpg, Cevichería El Pavita-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

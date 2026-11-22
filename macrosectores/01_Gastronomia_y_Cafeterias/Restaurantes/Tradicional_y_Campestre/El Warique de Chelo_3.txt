@@ -1,0 +1,16 @@
+Nombre: El Warique de Chelo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jr, Las Orquideas 172, Cajamarca 06000
+Teléfono: 941 490 015
+Rating: 4.2
+Reseñas: 256
+Sitio web: 
+Latitud: -7.1462696999999995
+Longitud: -78.5218755
+Google Maps: https://www.google.com/maps?cid=16765151501789723570
+Place Id: ChIJ1x_lZlBbspERsnvIHXfIqeg
+Fotos: El Warique de Chelo_3.jpg, El Warique de Chelo_3-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

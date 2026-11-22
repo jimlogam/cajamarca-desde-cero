@@ -1,0 +1,16 @@
+Nombre: El Rincón Hawaiano
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Bar restaurante, Restaurante
+Dirección: Av San Martín de Porres 2014, Cajamarca 06003
+Teléfono: 939 507 777
+Rating: 4
+Reseñas: 177
+Sitio web: https://www.facebook.com/ElRinconHawaiano
+Latitud: -7.1802535999999995
+Longitud: -78.4933942
+Google Maps: https://www.google.com/maps?cid=17967448221409415265
+Place Id: ChIJR3x-SBhbspERYRBVNfYyWfk
+Fotos: El Rincón Hawaiano.jpg, El Rincón Hawaiano-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

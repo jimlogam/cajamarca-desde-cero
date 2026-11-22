@@ -1,0 +1,15 @@
+Nombre: Rumba & Sabor Restaurant
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Av. Luis Rebaza Neyra N°516, Cajamarca 06001
+Teléfono: 931 907 259
+Rating: 3.4
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1636704
+Longitud: -78.5003363
+Google Maps: https://www.google.com/maps?cid=17059096058638570626
+Place Id: ChIJgQr6DwpbspERghRrfHsVvuw
+Fotos: Rumba & Sabor Restaurant.jpg

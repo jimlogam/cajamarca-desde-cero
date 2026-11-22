@@ -1,0 +1,15 @@
+Nombre: Zavory Café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Frente al Grifo las Vegas, Av Vía de Evitamiento Nte G-18, Cajamarca 06001
+Teléfono: 920 081 751
+Rating: 5
+Reseñas: 3
+Sitio web: https://zavorycafe.com.pe/
+Latitud: -7.1454279
+Longitud: -78.5162246
+Google Maps: https://www.google.com/maps?cid=875550585212136247
+Place Id: ChIJzyNDwbJbspERN2t0Tp6UJgw
+Fotos: Zavory Café.jpg

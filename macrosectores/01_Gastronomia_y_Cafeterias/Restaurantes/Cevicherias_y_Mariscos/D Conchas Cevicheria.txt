@@ -1,0 +1,15 @@
+Nombre: D Conchas Cevicheria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: RFXR+FWP, Cajamarca 06002
+Teléfono: 
+Rating: 4.8
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1512885
+Longitud: -78.50766709999999
+Google Maps: https://www.google.com/maps?cid=2279574952129272394
+Place Id: ChIJ1b5mW8RbspERShqLXFetoh8
+Fotos: D Conchas Cevicheria.jpg

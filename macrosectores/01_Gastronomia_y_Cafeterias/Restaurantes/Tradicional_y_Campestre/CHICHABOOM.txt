@@ -1,0 +1,16 @@
+Nombre: CHICHABOOM
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Manuel Ibáñez Rosazza 418, Cajamarca 06001
+Teléfono: 940 163 028
+Rating: 5
+Reseñas: 2
+Sitio web: https://www.instagram.com/chichaboom00?igsh=MXQzMTlnYzhtZHUyMA==
+Latitud: -7.1631412
+Longitud: -78.5020031
+Google Maps: https://www.google.com/maps?cid=11891359005272395809
+Place Id: ChIJbR9TEwBbspERIVDnHQOYBqU
+Fotos: CHICHABOOM.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,15 @@
+Nombre: La Chola Food Truck
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería, Zona de restauración
+Dirección: Arnaldo Márquez 501, Cajamarca 06002
+Teléfono: 938 832 667
+Rating: 3.9
+Reseñas: 139
+Sitio web: 
+Latitud: -7.150944699999999
+Longitud: -78.5072344
+Google Maps: https://www.google.com/maps?cid=8561336141481171520
+Place Id: ChIJRQhh5XJbspERQNqyW9z5z3Y
+Fotos: La Chola Food Truck.jpg

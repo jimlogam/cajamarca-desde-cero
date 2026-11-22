@@ -1,0 +1,16 @@
+Nombre: La Chola Sangucheria Cajacha
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Bocatería
+Dirección: je cruz de piedra, Cajamarca
+Teléfono: 966 370 235
+Rating: 4.1
+Reseñas: 640
+Sitio web: https://www.instagram.com/lachola.sangucheria?igsh=OHI3eXdqY2l2YXQx&igsi=OHI3eXdqY2l2YXQx&utm_source=qr
+Latitud: -7.1573882
+Longitud: -78.51869959999999
+Google Maps: https://www.google.com/maps?cid=15747536490588541346
+Place Id: ChIJqfrK3PhaspERohEIEQF9ito
+Fotos: La Chola Sangucheria Cajacha.jpg, La Chola Sangucheria Cajacha-1.jpg, La Chola Sangucheria Cajacha-2.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

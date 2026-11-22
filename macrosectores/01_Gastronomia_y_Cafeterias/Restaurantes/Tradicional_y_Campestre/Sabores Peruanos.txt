@@ -1,0 +1,15 @@
+Nombre: Sabores Peruanos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av. Atahualpa 913, Cajamarca 06002
+Teléfono: 
+Rating: 3.9
+Reseñas: 42
+Sitio web: 
+Latitud: -7.1653845
+Longitud: -78.497564
+Google Maps: https://www.google.com/maps?cid=17756658146958397552
+Place Id: ChIJqQQtLyBbspERcFCAf4FSbPY
+Fotos: Sabores Peruanos.jpg

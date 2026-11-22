@@ -1,0 +1,15 @@
+Nombre: Panadería y Pastelería Pasanni
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería mayorista
+Dirección: Av. Atahualpa 824, Cajamarca 06002
+Teléfono: 968 702 823
+Rating: 4.6
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1657478999999995
+Longitud: -78.4999229
+Google Maps: https://www.google.com/maps?cid=5700102131991139447
+Place Id: ChIJXfPNox9bspERd1THSLDUGk8
+Fotos: Panadería y Pastelería Pasanni.jpg

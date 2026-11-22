@@ -1,0 +1,15 @@
+Nombre: Cevicheria y marisqueria ''Gol Marino''
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Jr, Los Naranjos 499, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/profile.php?id=61560942800744
+Latitud: -7.1480289
+Longitud: -78.512895
+Google Maps: https://www.google.com/maps?cid=12823586967241788492
+Place Id: ChIJs8w1EQBbspERTIzGiGeI9rE
+Fotos: Cevicheria y marisqueria ''Gol Marino''.jpg

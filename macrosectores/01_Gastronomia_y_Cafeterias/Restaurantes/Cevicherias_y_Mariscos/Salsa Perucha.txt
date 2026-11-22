@@ -1,0 +1,15 @@
+Nombre: Salsa Perucha
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: NUEVO CAJAMARCA, Av. La Paz Cuadra 10, Cajamarca 06003
+Teléfono: 961 436 959
+Rating: 4.8
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1730051999999995
+Longitud: -78.5046004
+Google Maps: https://www.google.com/maps?cid=10015425657967123468
+Place Id: ChIJxTsgnnlbspERDJx2aZLw_Yo
+Fotos: Salsa Perucha.jpg

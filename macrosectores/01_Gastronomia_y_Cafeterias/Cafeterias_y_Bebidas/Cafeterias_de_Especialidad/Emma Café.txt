@@ -1,0 +1,15 @@
+Nombre: Emma Café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Restaurante
+Dirección: Amalia Puga 714, Cajamarca 06002
+Teléfono: 
+Rating: 4.2
+Reseñas: 6
+Sitio web: 
+Latitud: -7.157785199999999
+Longitud: -78.5169605
+Google Maps: https://www.google.com/maps?cid=6865314673265776598
+Place Id: ChIJV0SYO_laspER1pdIQ1J_Rl8
+Fotos: Emma Café.jpg

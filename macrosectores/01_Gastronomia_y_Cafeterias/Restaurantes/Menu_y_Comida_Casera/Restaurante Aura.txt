@@ -1,0 +1,15 @@
+Nombre: Restaurante Aura
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante de brunch
+Dirección: Av. Andrés Zevallos 1449, Cajamarca 06002
+Teléfono: 901 616 553
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1501554
+Longitud: -78.5065504
+Google Maps: https://www.google.com/maps?cid=13754572017507100328
+Place Id: ChIJscYBEwBbspERqOYJBWAO4r4
+Fotos: Restaurante Aura.jpg

@@ -1,0 +1,16 @@
+Nombre: MyLu Café - Caldos & Chicharrones
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Restaurante de comida rápida
+Dirección: Jr, Amalia Puga 979, Cajamarca 06002
+Teléfono: 919 295 582
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1594937
+Longitud: -78.5146671
+Google Maps: https://www.google.com/maps?cid=8821704665135643730
+Place Id: ChIJi0ZM7RVbspERUvzQTqf9bHo
+Fotos: MyLu Café - Caldos & Chicharrones.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

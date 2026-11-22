@@ -1,0 +1,15 @@
+Nombre: El Remanso Chiclayano
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av. Atahualpa 893, Cajamarca 06002
+Teléfono: 915 218 703
+Rating: 4.6
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1656343
+Longitud: -78.5001474
+Google Maps: https://www.google.com/maps?cid=15227187024238380653
+Place Id: ChIJ6zJ-QLdbspERbYYq5OvVUdM
+Fotos: El Remanso Chiclayano.jpg

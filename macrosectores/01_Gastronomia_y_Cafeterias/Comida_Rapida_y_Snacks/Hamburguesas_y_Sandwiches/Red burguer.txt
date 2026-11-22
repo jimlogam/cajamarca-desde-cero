@@ -1,0 +1,15 @@
+Nombre: Red burguer
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: Av San Martín de Porres 623, Cajamarca 06003
+Teléfono: 
+Rating: 4.9
+Reseñas: 9
+Sitio web: 
+Latitud: -7.1678733999999995
+Longitud: -78.50428409999999
+Google Maps: https://www.google.com/maps?cid=2074888282134484882
+Place Id: ChIJm_0aH2ZbspERkhc_PeZ7yxw
+Fotos: Red burguer.jpg

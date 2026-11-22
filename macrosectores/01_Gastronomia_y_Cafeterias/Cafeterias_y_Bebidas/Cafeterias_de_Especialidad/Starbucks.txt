@@ -1,0 +1,15 @@
+Nombre: Starbucks
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Vía de Evitamiento Nte., Cajamarca 06000
+Teléfono: (01) 5055000
+Rating: 4.2
+Reseñas: 693
+Sitio web: http://www.starbucks.com.pe/
+Latitud: -7.1545214999999995
+Longitud: -78.5060031
+Google Maps: https://www.google.com/maps?cid=16313643143594394816
+Place Id: ChIJO53_SaRbspERwERudgG0ZeI
+Fotos: Starbucks.jpg

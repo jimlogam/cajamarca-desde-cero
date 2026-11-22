@@ -1,0 +1,15 @@
+Nombre: Mr. DUENDHE'Z
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Pub restaurante
+Dirección: costado de la punta marina A dos cuadras del grifo, Av. Hoyos Rubio 1706, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.146357999999999
+Longitud: -78.4985983
+Google Maps: https://www.google.com/maps?cid=16739650323133603799
+Place Id: ChIJdXWWLQ1bspER15-hRkcvT-g
+Fotos: Mr. DUENDHE'Z.jpg

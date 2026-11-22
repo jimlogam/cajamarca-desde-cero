@@ -1,0 +1,16 @@
+Nombre: La Leña Criolla
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: San Martín 351, Cajamarca 06000
+Teléfono: (076) 281243
+Rating: 3.7
+Reseñas: 13
+Sitio web: https://www.facebook.com/LaLenaCriolla/
+Latitud: -7.1578592
+Longitud: -78.5182464
+Google Maps: https://www.google.com/maps?cid=3695760681972740394
+Place Id: ChIJTwFqodVbspERKjHXX8L6STM
+Fotos: La Leña Criolla.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

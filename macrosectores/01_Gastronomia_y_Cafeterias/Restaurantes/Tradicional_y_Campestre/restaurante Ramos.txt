@@ -1,0 +1,15 @@
+Nombre: restaurante Ramos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Jr, Pasaje Chepén #490, Cajamarca
+Teléfono: 939 610 967
+Rating: 4.5
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1506596
+Longitud: -78.5201419
+Google Maps: https://www.google.com/maps?cid=11235020437075899813
+Place Id: ChIJHcrxqFpbspERpbUp1I_P6ps
+Fotos: restaurante Ramos.jpg

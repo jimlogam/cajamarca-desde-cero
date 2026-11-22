@@ -1,0 +1,16 @@
+Nombre: La Esquinita Restobar - Cajamarca
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Restaurante
+Dirección: Jirón Ayacucho 502, Cajamarca 06002
+Teléfono: 987 861 160
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1608183
+Longitud: -78.5141013
+Google Maps: https://www.google.com/maps?cid=11157282832398876979
+Place Id: ChIJXUKH8I9bspERMwGzS5-h1po
+Fotos: La Esquinita Restobar - Cajamarca.jpg, La Esquinita Restobar - Cajamarca-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

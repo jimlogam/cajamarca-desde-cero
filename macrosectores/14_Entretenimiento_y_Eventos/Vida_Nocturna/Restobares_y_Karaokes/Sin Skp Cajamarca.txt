@@ -1,0 +1,15 @@
+Nombre: Sin Skp Cajamarca
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Pub restaurante
+Dirección: Pje. San José Obrero 171, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: https://instagram.com/sin.skape.cajamarca?igshid=MzRlODBiNWFlZA==
+Latitud: -7.1763452
+Longitud: -78.4943306
+Google Maps: https://www.google.com/maps?cid=2831441256609258041
+Place Id: ChIJxTwpDC1bspEROZqUPtJMSyc
+Fotos: Sin Skp Cajamarca.jpg

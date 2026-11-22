@@ -1,0 +1,15 @@
+Nombre: Doña Crespita
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jiron Bambamarca 424, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.150963
+Longitud: -78.516701
+Google Maps: https://www.google.com/maps?cid=17974908030726952676
+Place Id: ChIJS33WHwBbspER5NbLaZ6zc_k
+Fotos: Doña Crespita.jpg

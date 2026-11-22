@@ -1,0 +1,15 @@
+Nombre: Pastelería Creativa - La Casa de los Sueños
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Av. Hoyos Rubio 1689, Cajamarca 06001
+Teléfono: 922 718 926
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1460633
+Longitud: -78.4989851
+Google Maps: https://www.google.com/maps?cid=13224287752471731837
+Place Id: ChIJ-ZhVE-paspERfV6gRaUbhrc
+Fotos: Sin foto en Maps

@@ -1,0 +1,15 @@
+Nombre: La Pastelería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Cafetería
+Dirección: Jirón del Comercio 940, Cajamarca 06002
+Teléfono: 993 919 289
+Rating: 4.2
+Reseñas: 11
+Sitio web: 
+Latitud: -7.1577500999999994
+Longitud: -78.51772319999999
+Google Maps: https://www.google.com/maps?cid=7339455903876346456
+Place Id: ChIJj0PSKPlaspERWHIxK0L82mU
+Fotos: La Pastelería.jpg

@@ -1,0 +1,15 @@
+Nombre: EL PILLKAY CEVICHERÍA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. Mártires de Uchuraccay 1266, Cajamarca 00600
+Teléfono: 901 184 865
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1723517999999995
+Longitud: -78.4985672
+Google Maps: https://www.google.com/maps?cid=6273040119573852496
+Place Id: ChIJkeEJROlbspERUDH5tMBQDlc
+Fotos: EL PILLKAY CEVICHERÍA.jpg

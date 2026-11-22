@@ -1,0 +1,15 @@
+Nombre: Cevicheria Restaurant
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Av Vía de Evitamiento Nte 1740, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.151715899999999
+Longitud: -78.5065441
+Google Maps: https://www.google.com/maps?cid=7237748864542247789
+Place Id: ChIJQ3q4n-9aspERbQuHvD6mcWQ
+Fotos: Cevicheria Restaurant.jpg

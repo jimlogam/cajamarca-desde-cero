@@ -1,0 +1,15 @@
+Nombre: PANADERÍA Y PASTELERÍA VALDEZ
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Calle Juan Machuca, Cajamarca 06000
+Teléfono: 951 411 210
+Rating: 3
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1940667
+Longitud: -78.4865727
+Google Maps: https://www.google.com/maps?cid=2453725885425784170
+Place Id: ChIJpxRzae9bspERahX8QLFiDSI
+Fotos: Sin foto en Maps

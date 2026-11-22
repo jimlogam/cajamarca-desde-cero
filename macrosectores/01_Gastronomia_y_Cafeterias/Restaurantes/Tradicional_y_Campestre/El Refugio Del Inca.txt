@@ -1,0 +1,15 @@
+Nombre: El Refugio Del Inca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jr. Sinchi Roca 403, Cajamarca 06004
+Teléfono: 
+Rating: 4.7
+Reseñas: 15
+Sitio web: 
+Latitud: -7.1640399
+Longitud: -78.46315849999999
+Google Maps: https://www.google.com/maps?cid=12264173934871487390
+Place Id: ChIJFV056PlFspERnqOeIzcZM6o
+Fotos: El Refugio Del Inca.jpg

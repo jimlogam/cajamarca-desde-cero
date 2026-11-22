@@ -1,0 +1,15 @@
+Nombre: Caldos EL SABOR DE CASA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante de brunch
+Dirección: Av. Manco Cápac, Baños del Inca 06004
+Teléfono: 937 608 329
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1587836
+Longitud: -78.45847429999999
+Google Maps: https://www.google.com/maps?cid=15086459399033221788
+Place Id: ChIJbQEOqrFFspERnHK6VeTeXdE
+Fotos: Caldos EL SABOR DE CASA.jpg

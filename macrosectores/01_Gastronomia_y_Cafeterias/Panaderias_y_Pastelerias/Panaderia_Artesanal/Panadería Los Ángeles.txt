@@ -1,0 +1,15 @@
+Nombre: Panadería "Los Ángeles"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Los Dogos 483, Cajamarca 06001
+Teléfono: 942 401 073
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.148301099999999
+Longitud: -78.5119995
+Google Maps: https://www.google.com/maps?cid=11104901275317731330
+Place Id: ChIJ5Y0vwbdbspERAoAYpd-IHJo
+Fotos: Panadería Los Ángeles.jpg

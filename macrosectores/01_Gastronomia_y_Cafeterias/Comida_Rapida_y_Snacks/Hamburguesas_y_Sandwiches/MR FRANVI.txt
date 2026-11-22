@@ -1,0 +1,15 @@
+Nombre: MR FRANVI
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Bocatería
+Dirección: Jr. Fraternidad 313, Cajamarca 06002
+Teléfono: 926 556 741
+Rating: 4.3
+Reseñas: 19
+Sitio web: 
+Latitud: -7.1532037
+Longitud: -78.5119163
+Google Maps: https://www.google.com/maps?cid=7115889874929052140
+Place Id: ChIJBYw3UABbspER7OnxvyO4wGI
+Fotos: MR FRANVI.jpg

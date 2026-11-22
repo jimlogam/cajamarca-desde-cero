@@ -1,0 +1,16 @@
+Nombre: STAR FOOD
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: 06001, Cajamarca 06001
+Teléfono: 983 790 973
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.instagram.com/star_f00d_?igsh=ODZqZjN4eHBleDdh
+Latitud: -7.176508
+Longitud: -78.4897317
+Google Maps: https://www.google.com/maps?cid=11606807442186431372
+Place Id: ChIJcXaKblZbspERjOvhh9-pE6E
+Fotos: STAR FOOD.jpg, STAR FOOD-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

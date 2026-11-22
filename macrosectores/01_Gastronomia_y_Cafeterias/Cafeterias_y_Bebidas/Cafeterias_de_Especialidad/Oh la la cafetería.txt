@@ -1,0 +1,15 @@
+Nombre: Oh la la cafetería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jr.Amazonas 721, Cajamarca 06001
+Teléfono: 
+Rating: 4.4
+Reseñas: 24
+Sitio web: 
+Latitud: -7.156553799999999
+Longitud: -78.5159166
+Google Maps: https://www.google.com/maps?cid=13807775963296241724
+Place Id: ChIJwY2bYTlbspERPBhz9hQTn78
+Fotos: Oh la la cafetería.jpg

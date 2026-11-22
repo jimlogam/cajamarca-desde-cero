@@ -1,0 +1,15 @@
+Nombre: Restaurante Cajamarquino Musuq Mikhuy
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Jr. Tarapacá 799, Cajamarca 06001
+Teléfono: 964 862 257
+Rating: 4.3
+Reseñas: 16
+Sitio web: 
+Latitud: -7.1552207
+Longitud: -78.51950169999999
+Google Maps: https://www.google.com/maps?cid=13936625970403659423
+Place Id: ChIJLYGj0lRbspERn85kDXvXaME
+Fotos: Restaurante Cajamarquino Musuq Mikhuy.jpg

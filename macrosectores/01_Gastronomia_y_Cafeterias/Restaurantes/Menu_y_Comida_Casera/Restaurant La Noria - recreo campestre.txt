@@ -1,0 +1,16 @@
+Nombre: Restaurant La Noria - recreo campestre
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante, Servicio de catering
+Dirección: Carretera a otuzco km5.5, Otuzco 06000
+Teléfono: 923 648 418
+Rating: 4.2
+Reseñas: 777
+Sitio web: 
+Latitud: -7.135345
+Longitud: -78.4730986
+Google Maps: https://www.google.com/maps?cid=700881230227000654
+Place Id: ChIJDxreLltFspERTk1r9cMHugk
+Fotos: Restaurant La Noria - recreo campestre.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

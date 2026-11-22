@@ -1,0 +1,16 @@
+Nombre: Cevicheria Pingüi
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Prol. Ayacucho Mz H7 LT 1, Cajamarca 06003
+Teléfono: 
+Rating: 4.3
+Reseñas: 16
+Sitio web: 
+Latitud: -7.154189799999999
+Longitud: -78.5066703
+Google Maps: https://www.google.com/maps?cid=12249512892491472190
+Place Id: ChIJjXu374JbspERPp2FNBMD_6k
+Fotos: Cevicheria Pingüi.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

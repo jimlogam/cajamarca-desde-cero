@@ -1,0 +1,16 @@
+Nombre: Restaurante, Cevichería Y Juguería: Xiomara
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante peruano, Restaurante de pescados, Tienda de zumos
+Dirección: Contamana 323, Cajamarca 06001
+Teléfono: 
+Rating: 4.5
+Reseñas: 13
+Sitio web: 
+Latitud: -7.1521111
+Longitud: -78.5175797
+Google Maps: https://www.google.com/maps?cid=16313357987531787093
+Place Id: ChIJESZkdvdaspERVQudZKiwZOI
+Fotos: Restaurante, Cevichería Y Juguería Xiomara.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

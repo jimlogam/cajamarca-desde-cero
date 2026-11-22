@@ -1,0 +1,15 @@
+Nombre: Emolientes el Beshi
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante de desayunos, Kiosco
+Dirección: Jr, Sta. Teresa de Journet, Cajamarca 06001
+Teléfono: 921 290 419
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1473166
+Longitud: -78.5097961
+Google Maps: https://www.google.com/maps?cid=11892854819427287374
+Place Id: ChIJLw4WfgBbspERToFBfXLoC6U
+Fotos: Emolientes el Beshi.jpg

@@ -1,0 +1,15 @@
+Nombre: Cevicheria & Grill Piscomares
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Pje. Sta. Anita 250, Cajamarca 06001
+Teléfono: 991 059 418
+Rating: 3.3
+Reseñas: 4
+Sitio web: 
+Latitud: -7.146776099999999
+Longitud: -78.5171639
+Google Maps: https://www.google.com/maps?cid=356241672699503930
+Place Id: ChIJW_-UHgBbspEROuVx8-mf8QQ
+Fotos: Cevicheria & Grill Piscomares.jpg

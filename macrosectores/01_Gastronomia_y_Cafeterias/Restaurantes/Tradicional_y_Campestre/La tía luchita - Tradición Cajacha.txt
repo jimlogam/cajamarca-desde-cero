@@ -1,0 +1,15 @@
+Nombre: La tía luchita - Tradición Cajacha
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jr.Amazonas 689, Cajamarca 06002
+Teléfono: 
+Rating: 3
+Reseñas: 53
+Sitio web: 
+Latitud: -7.156250399999999
+Longitud: -78.5162716
+Google Maps: https://www.google.com/maps?cid=2709647930367625023
+Place Id: ChIJyY0CEQBbspERP0fvs2-amiU
+Fotos: La tía luchita - Tradición Cajacha.jpg

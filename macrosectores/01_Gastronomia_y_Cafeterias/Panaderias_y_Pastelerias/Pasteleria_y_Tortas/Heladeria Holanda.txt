@@ -1,0 +1,15 @@
+Nombre: Heladeria Holanda
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: RFVM+C58, Amalia Puga, Cajamarca 06002
+Teléfono: 
+Rating: 4.1
+Reseñas: 249
+Sitio web: 
+Latitud: -7.1564673
+Longitud: -78.5170357
+Google Maps: https://www.google.com/maps?cid=15006270326385135526
+Place Id: ChIJy-bmD_laspERps-r71r7QNA
+Fotos: Heladeria Holanda.jpg

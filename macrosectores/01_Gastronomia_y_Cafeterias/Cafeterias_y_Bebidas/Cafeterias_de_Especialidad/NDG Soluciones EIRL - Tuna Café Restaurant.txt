@@ -1,0 +1,16 @@
+Nombre: NDG Soluciones EIRL - Tuna Café Restaurant
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Restaurante peruano
+Dirección: Kori Wasi, Sur Oeste del Qhapac Ñan, Cajamarca 06002
+Teléfono: 989 516 187
+Rating: 4.2
+Reseñas: 260
+Sitio web: 
+Latitud: -7.1622772999999995
+Longitud: -78.4956066
+Google Maps: https://www.google.com/maps?cid=7580498063720674450
+Place Id: ChIJl2mLL0VbspERknSbZNNWM2k
+Fotos: NDG Soluciones EIRL - Tuna Café Restaurant.jpg, NDG Soluciones EIRL - Tuna Café Restaurant-1.jpg, NDG Soluciones EIRL - Tuna Café Restaurant-2.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

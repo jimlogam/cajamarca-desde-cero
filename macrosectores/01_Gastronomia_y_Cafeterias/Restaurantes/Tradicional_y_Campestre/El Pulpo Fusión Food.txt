@@ -1,0 +1,15 @@
+Nombre: El Pulpo Fusión Food
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Jr. Huancayo 348, Cajamarca 06002
+Teléfono: 
+Rating: 3.7
+Reseñas: 23
+Sitio web: 
+Latitud: -7.1653115
+Longitud: -78.5023748
+Google Maps: https://www.google.com/maps?cid=12604539861769367088
+Place Id: ChIJA4w0TjVbspERMK4D-jhS7K4
+Fotos: El Pulpo Fusión Food.jpg

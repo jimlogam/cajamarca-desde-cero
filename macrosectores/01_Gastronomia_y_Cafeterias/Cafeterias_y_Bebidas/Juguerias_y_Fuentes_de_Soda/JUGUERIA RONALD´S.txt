@@ -1,0 +1,16 @@
+Nombre: JUGUERIA RONALD´S
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante de comida rápida
+Dirección: JR, Amalia Puga 973, Cajamarca 06000
+Teléfono: 950 737 725
+Rating: 4.4
+Reseñas: 139
+Sitio web: https://www.facebook.com/RonaldsForever
+Latitud: -7.1593640999999995
+Longitud: -78.5145919
+Google Maps: https://www.google.com/maps?cid=16632067331486155124
+Place Id: ChIJWb1FflFbspERdIGcFR750OY
+Fotos: JUGUERIA RONALD´S.jpg, JUGUERIA RONALD´S-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,16 @@
+Nombre: Bambino Pizza
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pizzerias_y_Pastas
+Categoría Maps: Pizzería, Restaurante
+Dirección: Jirón Silva Santisteban 141, Cajamarca 06002
+Teléfono: 976 016 103
+Rating: 4.4
+Reseñas: 907
+Sitio web: http://pizzasbambino.com/
+Latitud: -7.159331
+Longitud: -78.51647439999999
+Google Maps: https://www.google.com/maps?cid=9678932729585971675
+Place Id: ChIJ23rRwP5aspER27HfTwl6UoY
+Fotos: Bambino Pizza.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,15 @@
+Nombre: Panadería y Pastelería Delicias del Norte
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av. Los Manantiales #1603, Cajamarca 06002
+Teléfono: 
+Rating: 4
+Reseñas: 1
+Sitio web: https://panaderia-y-pasteleria-delicias-del-norte.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1667023
+Longitud: -78.5142894
+Google Maps: https://www.google.com/maps?cid=7331561399245932182
+Place Id: ChIJ4X-LwutbspERlgYFkz_wvmU
+Fotos: Panadería y Pastelería Delicias del Norte.jpg

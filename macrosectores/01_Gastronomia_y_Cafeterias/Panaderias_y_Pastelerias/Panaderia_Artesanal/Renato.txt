@@ -1,0 +1,15 @@
+Nombre: Renato
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Chanchamayo 950, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1505616
+Longitud: -78.51954909999999
+Google Maps: https://www.google.com/maps?cid=5200917483671535437
+Place Id: ChIJN29l1ppbspERTT9cUOVeLUg
+Fotos: Renato.jpg

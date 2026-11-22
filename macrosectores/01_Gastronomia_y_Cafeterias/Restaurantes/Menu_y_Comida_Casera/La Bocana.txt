@@ -1,0 +1,15 @@
+Nombre: La Bocana
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante de brunch
+Dirección: Junín 1375, Cajamarca 06002
+Teléfono: 981 675 906
+Rating: 4.6
+Reseñas: 5
+Sitio web: https://www.facebook.com/share/1Mvv2SdLRj/
+Latitud: -7.1589465
+Longitud: -78.5174827
+Google Maps: https://www.google.com/maps?cid=10183400847499065825
+Place Id: ChIJy_aaW8NbspER4fmX6B21Uo0
+Fotos: La Bocana.jpg

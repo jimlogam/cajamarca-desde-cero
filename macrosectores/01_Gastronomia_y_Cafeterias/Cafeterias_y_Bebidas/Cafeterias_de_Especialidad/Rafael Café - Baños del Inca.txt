@@ -1,0 +1,15 @@
+Nombre: Rafael Café - Baños del Inca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Av. Manco Cápac 226, Baños del Inca 06004
+Teléfono: 938 451 071
+Rating: 4.9
+Reseñas: 837
+Sitio web: https://www.rafaelcafe.pe/
+Latitud: -7.1648647
+Longitud: -78.4674965
+Google Maps: https://www.google.com/maps?cid=2940328885323264259
+Place Id: ChIJ-TqJSwBFspERA3GD7Iolzig
+Fotos: Rafael Café - Baños del Inca.jpg

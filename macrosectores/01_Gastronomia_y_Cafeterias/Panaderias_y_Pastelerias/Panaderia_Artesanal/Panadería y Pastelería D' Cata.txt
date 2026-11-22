@@ -1,0 +1,15 @@
+Nombre: Panadería y Pastelería D' Cata
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería, Tienda de alimentación
+Dirección: Jr. 2 de Mayo 800 - Esquina con Mario Urteaga, Cajamarca 06002
+Teléfono: 957 695 635
+Rating: 3.9
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1548583
+Longitud: -78.5148075
+Google Maps: https://www.google.com/maps?cid=10354783011047528072
+Place Id: ChIJvxIepAtbspERiNa8W0mUs48
+Fotos: Panadería y Pastelería D' Cata.jpg

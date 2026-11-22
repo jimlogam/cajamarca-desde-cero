@@ -1,0 +1,15 @@
+Nombre: Yuraq Cafe
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: +51, Cajamarca 06001
+Teléfono: 993 896 100
+Rating: 4.4
+Reseñas: 20
+Sitio web: 
+Latitud: -7.159158
+Longitud: -78.51402329999999
+Google Maps: https://www.google.com/maps?cid=4147423246455507869
+Place Id: ChIJv5ZGqfhbspERnYst-nebjjk
+Fotos: Yuraq Cafe.jpg

@@ -1,0 +1,16 @@
+Nombre: Restaurante Cesar's
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: San Martín 283, Cajamarca 06002
+Teléfono: 964 608 893
+Rating: 4.5
+Reseñas: 36
+Sitio web: 
+Latitud: -7.158449
+Longitud: -78.5187443
+Google Maps: https://www.google.com/maps?cid=4586447363703319036
+Place Id: ChIJ2RtbbRtbspER_CmQxpNVpj8
+Fotos: Restaurante Cesar's.jpg, Restaurante Cesar's-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

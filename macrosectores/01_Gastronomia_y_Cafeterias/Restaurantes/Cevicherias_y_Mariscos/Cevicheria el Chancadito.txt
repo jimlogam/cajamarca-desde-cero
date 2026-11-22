@@ -1,0 +1,16 @@
+Nombre: Cevicheria el Chancadito
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Jr. Guillermo Urrelo 1236, Cajamarca 06002
+Teléfono: 949 887 682
+Rating: 4.5
+Reseñas: 16
+Sitio web: 
+Latitud: -7.154771299999999
+Longitud: -78.5118655
+Google Maps: https://www.google.com/maps?cid=17022563573495888181
+Place Id: ChIJBXB-rd5bspERNfm5dGFLPOw
+Fotos: Cevicheria el Chancadito.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,15 @@
+Nombre: LA CHOCHITA
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: Juan Beato Macias 663, Cajamarca 06003
+Teléfono: 
+Rating: 3.6
+Reseñas: 14
+Sitio web: 
+Latitud: -7.1720539
+Longitud: -78.4971995
+Google Maps: https://www.google.com/maps?cid=7990669887510381112
+Place Id: ChIJH6xymiJbspEROIJ3Iu2P5G4
+Fotos: LA CHOCHITA.jpg

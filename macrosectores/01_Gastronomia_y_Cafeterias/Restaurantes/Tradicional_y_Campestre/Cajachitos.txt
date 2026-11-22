@@ -1,0 +1,16 @@
+Nombre: Cajachitos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Dos de Mayo 379b, Cajamarca 06002
+Teléfono: 
+Rating: 4.4
+Reseñas: 57
+Sitio web: 
+Latitud: -7.158086099999999
+Longitud: -78.5176128
+Google Maps: https://www.google.com/maps?cid=2042728355426261994
+Place Id: ChIJp5HyAflbspER6tvMzZ06WRw
+Fotos: Cajachitos.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

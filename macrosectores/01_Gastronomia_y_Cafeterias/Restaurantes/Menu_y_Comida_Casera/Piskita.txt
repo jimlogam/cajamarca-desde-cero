@@ -1,0 +1,16 @@
+Nombre: Piskita
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante de desayunos
+Dirección: Jr. Bolognesi 450, Cajamarca 06003
+Teléfono: 948 263 818
+Rating: 4.3
+Reseñas: 56
+Sitio web: 
+Latitud: -7.1668433
+Longitud: -78.50683459999999
+Google Maps: https://www.google.com/maps?cid=16027320004833172673
+Place Id: ChIJJ9GuemlbspERwdyXxaB6bN4
+Fotos: Piskita.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

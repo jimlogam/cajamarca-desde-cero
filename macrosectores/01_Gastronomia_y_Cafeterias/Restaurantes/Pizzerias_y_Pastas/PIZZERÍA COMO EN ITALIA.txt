@@ -1,0 +1,15 @@
+Nombre: PIZZERÍA COMO EN ITALIA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pizzerias_y_Pastas
+Categoría Maps: Pizzería
+Dirección: Jr, Juan Beato Macias 392, Cajamarca 06003
+Teléfono: 959 872 361
+Rating: 4.5
+Reseñas: 19
+Sitio web: https://www.facebook.com/share/1Bp5ZgvZvA/?mibextid=wwXIfr
+Latitud: -7.170274
+Longitud: -78.4994535
+Google Maps: https://www.google.com/maps?cid=10966672505929542461
+Place Id: ChIJnRFNs0tbspERPSv5S4pyMZg
+Fotos: PIZZERÍA COMO EN ITALIA.jpg

@@ -1,0 +1,15 @@
+Nombre: Coco Crêpe - MegaPlaza Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Crepería
+Dirección: Pueblo nuevo, Centro Comercial MegaPlaza, Jr. Sor Manuela Gil N° 151, Cajamarca 06002
+Teléfono: 970 586 745
+Rating: 5
+Reseñas: 34
+Sitio web: https://www.cococrepe.com/
+Latitud: -7.1455307999999995
+Longitud: -78.510786
+Google Maps: https://www.google.com/maps?cid=3994598409054929120
+Place Id: ChIJpepDaSVbspER4EAPuBaqbzc
+Fotos: Coco Crêpe - MegaPlaza Cajamarca.jpg

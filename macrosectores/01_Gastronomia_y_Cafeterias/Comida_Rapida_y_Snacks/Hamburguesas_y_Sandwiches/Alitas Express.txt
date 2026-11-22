@@ -1,0 +1,15 @@
+Nombre: Alitas Express
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Restaurante de comida rápida
+Dirección: Los Cipreses 493, Cajamarca 06000
+Teléfono: 942 797 714
+Rating: 4.3
+Reseñas: 22
+Sitio web: https://www.facebook.com/pages/Alitas%2520Express/2193527334193840/
+Latitud: -7.1482152
+Longitud: -78.5131852
+Google Maps: https://www.google.com/maps?cid=9070220564917201056
+Place Id: ChIJ3TcBv3RbspERoChVNozl330
+Fotos: Alitas Express.jpg

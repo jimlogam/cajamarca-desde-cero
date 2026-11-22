@@ -1,0 +1,15 @@
+Nombre: Cevicheria y Marisquería "JACOB"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Mision Bautista con Av. San Martin de Porres cuadra 20 Jr. Mision Bautista, con Av. San Martin altura, Cajamarca 06001
+Teléfono: 942 383 761
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1793192999999995
+Longitud: -78.49352379999999
+Google Maps: https://www.google.com/maps?cid=2955670115360676589
+Place Id: ChIJaZMIYyFbspER7ZpPY0-mBCk
+Fotos: Cevicheria y Marisquería JACOB.jpg

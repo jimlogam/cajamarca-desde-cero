@@ -1,0 +1,16 @@
+Nombre: Rustica
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Restaurante, Discoteca, Karaoke
+Dirección: CC. REAL PLAZA - CAJAMARCA Cajarmarca, Vía de Evitamiento Nte. LT. 1, Cajamarca 06001
+Teléfono: (076) 507556
+Rating: 3.7
+Reseñas: 440
+Sitio web: https://www.rustica.pe/
+Latitud: -7.1540349
+Longitud: -78.5058976
+Google Maps: https://www.google.com/maps?cid=11472138543104180428
+Place Id: ChIJdfQrmOVaspERzMDKEzk5NZ8
+Fotos: Rustica.jpg, Rustica-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

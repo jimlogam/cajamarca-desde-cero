@@ -1,0 +1,15 @@
+Nombre: Tortas Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Pasaje Perú 130, Cajamarca 06000
+Teléfono: 987 306 656
+Rating: 4.8
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1693696
+Longitud: -78.5015239
+Google Maps: https://www.google.com/maps?cid=8812381039408373004
+Place Id: ChIJC-ASJRlbspERDN1Sh93dS3o
+Fotos: Tortas Cajamarca.jpg

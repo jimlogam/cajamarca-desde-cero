@@ -1,0 +1,15 @@
+Nombre: CapulíPasteleríafina
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Cafetería
+Dirección: Los Sauces 341, Cajamarca 06000
+Teléfono: 976 371 323
+Rating: 4.9
+Reseñas: 14
+Sitio web: https://www.instagram.com/capuli.finapasteleria?igsh=MThkenhzeXh2OHFzbg==
+Latitud: -7.1475753
+Longitud: -78.51441439999999
+Google Maps: https://www.google.com/maps?cid=13775525535234787068
+Place Id: ChIJ58uN7FFbspER_Ab-CX1_LL8
+Fotos: CapulíPasteleríafina.jpg

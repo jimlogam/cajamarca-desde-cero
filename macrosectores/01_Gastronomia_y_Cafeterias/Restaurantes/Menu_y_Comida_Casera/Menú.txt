@@ -1,0 +1,15 @@
+Nombre: Menú
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante peruano
+Dirección: Av. Mártires de Uchuraccay 860 06003, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.169940899999999
+Longitud: -78.501581
+Google Maps: https://www.google.com/maps?cid=13836549112298085417
+Place Id: ChIJhyFaPrZbspERKRzGwxtMBcA
+Fotos: Menú.jpg

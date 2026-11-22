@@ -1,0 +1,16 @@
+Nombre: Cevicheria 69
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: 01, Cajamarca
+Teléfono: 910 105 513
+Rating: 5
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1498823
+Longitud: -78.50656239999999
+Google Maps: https://www.google.com/maps?cid=9346901005003175590
+Place Id: ChIJOVeOXaZbspERprb0KfHctoE
+Fotos: Cevicheria 69.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

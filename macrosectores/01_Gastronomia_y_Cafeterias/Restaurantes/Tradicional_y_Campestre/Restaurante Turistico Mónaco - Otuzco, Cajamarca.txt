@@ -1,0 +1,15 @@
+Nombre: Restaurante Turistico Mónaco - Otuzco, Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Bajo km 6, Otuzco, Lima
+Teléfono: 976 848 434
+Rating: 4
+Reseñas: 110
+Sitio web: 
+Latitud: -7.1353814
+Longitud: -78.4734634
+Google Maps: https://www.google.com/maps?cid=10147531089859570553
+Place Id: ChIJGww6l0xFspEReetPJsNF04w
+Fotos: Restaurante Turistico Mónaco - Otuzco, Cajamarca.jpg

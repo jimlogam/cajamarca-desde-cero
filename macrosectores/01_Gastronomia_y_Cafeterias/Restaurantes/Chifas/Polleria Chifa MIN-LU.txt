@@ -1,0 +1,16 @@
+Nombre: Polleria Chifa MIN-LU
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante
+Dirección: Jr. Conquistadores 155, Cajamarca 06003
+Teléfono: 935 853 279
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.176377899999999
+Longitud: -78.4954331
+Google Maps: https://www.google.com/maps?cid=17576327782606042225
+Place Id: ChIJlYTKOgBbspERcfQPsv6o6_M
+Fotos: Polleria Chifa MIN-LU.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

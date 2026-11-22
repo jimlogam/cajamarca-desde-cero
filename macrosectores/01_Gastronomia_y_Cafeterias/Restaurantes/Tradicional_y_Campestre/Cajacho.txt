@@ -1,0 +1,16 @@
+Nombre: Cajacho
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Prol. Revilla Perez 314, Cajamarca 06001
+Teléfono: 
+Rating: 4.2
+Reseñas: 20
+Sitio web: 
+Latitud: -7.151494199999999
+Longitud: -78.5132381
+Google Maps: https://www.google.com/maps?cid=347499130770326204
+Place Id: ChIJ-_-P6_BaspERvIJSSZ6Q0gQ
+Fotos: Cajacho.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

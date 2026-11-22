@@ -1,0 +1,15 @@
+Nombre: Panadería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av. Mario Urteaga 349, Cajamarca 06002
+Teléfono: 
+Rating: 3
+Reseñas: 1
+Sitio web: 
+Latitud: -7.160352199999999
+Longitud: -78.5084219
+Google Maps: https://www.google.com/maps?cid=2201567691298410077
+Place Id: ChIJkRME8NVbspERXY7RnCaKjR4
+Fotos: Panadería_3.jpg

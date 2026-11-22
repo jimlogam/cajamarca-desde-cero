@@ -1,0 +1,16 @@
+Nombre: WOK EXPRESS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: Cc. El Quinde, Av. Hoyos Rubio 06001, Cajamarca 06001
+Teléfono: 941 620 100
+Rating: 4.6
+Reseñas: 38
+Sitio web: 
+Latitud: -7.1492847
+Longitud: -78.50965149999999
+Google Maps: https://www.google.com/maps?cid=11198144235945838340
+Place Id: ChIJS-wOW35bspERBMcjL9rMZ5s
+Fotos: WOK EXPRESS.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

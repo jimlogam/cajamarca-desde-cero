@@ -1,0 +1,15 @@
+Nombre: Picanteria El Jarita
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante peruano
+Dirección: Av. Nuevo Cajamarca 680, Cajamarca 06003
+Teléfono: 961 378 267
+Rating: 4.5
+Reseñas: 28
+Sitio web: https://www.facebook.com/niltoncesarj
+Latitud: -7.1797394
+Longitud: -78.4975204
+Google Maps: https://www.google.com/maps?cid=13004121553866920653
+Place Id: ChIJDda0uRtbspERzRI9iqfrd7Q
+Fotos: Picanteria El Jarita.jpg

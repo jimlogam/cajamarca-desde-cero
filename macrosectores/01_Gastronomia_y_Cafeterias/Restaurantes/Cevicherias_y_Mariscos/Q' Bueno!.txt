@@ -1,0 +1,15 @@
+Nombre: Q' Bueno!
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Contamana 205, Cajamarca 06001
+Teléfono: 976 107 579
+Rating: 5
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1530321
+Longitud: -78.51837139999999
+Google Maps: https://www.google.com/maps?cid=9930845179112977187
+Place Id: ChIJmzImAs1bspERI_NtFBNz0Yk
+Fotos: Q' Bueno!.jpg

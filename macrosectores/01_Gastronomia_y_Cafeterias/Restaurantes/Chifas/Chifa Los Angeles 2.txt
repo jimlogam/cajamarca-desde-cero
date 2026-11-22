@@ -1,0 +1,16 @@
+Nombre: Chifa Los Angeles 2
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante
+Dirección: Cajamarca 06002
+Teléfono: 986 172 512
+Rating: 4.4
+Reseñas: 9
+Sitio web: 
+Latitud: -7.150108299999999
+Longitud: -78.506784
+Google Maps: https://www.google.com/maps?cid=13343222822817342062
+Place Id: ChIJvROcVO5aspERbqLpQHamLLk
+Fotos: Chifa Los Angeles 2.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

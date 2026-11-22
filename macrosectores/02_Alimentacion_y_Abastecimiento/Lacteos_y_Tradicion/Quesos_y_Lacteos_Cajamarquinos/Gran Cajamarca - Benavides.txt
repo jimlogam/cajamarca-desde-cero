@@ -1,0 +1,15 @@
+Nombre: Gran Cajamarca - Benavides
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Quesería
+Dirección: Av. Alfredo Benavides 1753, Miraflores 15048
+Teléfono: 958 902 635
+Rating: 5
+Reseñas: 2
+Sitio web: https://www.facebook.com/profile.php?id=100083379750363
+Latitud: -12.126832
+Longitud: -77.014341
+Google Maps: https://www.google.com/maps?cid=3851582478411444438
+Place Id: ChIJHYyKQqfJBZER1jDViNuRczU
+Fotos: Gran Cajamarca - Benavides.jpg

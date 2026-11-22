@@ -1,0 +1,16 @@
+Nombre: Cevicheria ¨Las Palabritas¨
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av. Vía de Evitamiento Sur 854, Cajamarca 06002
+Teléfono: 924 464 691
+Rating: 4
+Reseñas: 75
+Sitio web: 
+Latitud: -7.1652913
+Longitud: -78.50284649999999
+Google Maps: https://www.google.com/maps?cid=6504109485426158171
+Place Id: ChIJ82CTbx5bspERWyoT4x09Q1o
+Fotos: Cevicheria ¨Las Palabritas¨.jpg, Cevicheria ¨Las Palabritas¨-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

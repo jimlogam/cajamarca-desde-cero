@@ -1,0 +1,15 @@
+Nombre: Dulce Placer
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Jr, Junín 349, Cajamarca 06001
+Teléfono: 
+Rating: 3.3
+Reseñas: 3
+Sitio web: https://dulce-placer-1.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1555884999999995
+Longitud: -78.52243829999999
+Google Maps: https://www.google.com/maps?cid=4367253114443338310
+Place Id: ChIJteaQiYVbspERRhKdopGZmzw
+Fotos: Dulce Placer.jpg

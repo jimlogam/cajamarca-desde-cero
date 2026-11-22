@@ -1,0 +1,15 @@
+Nombre: La Cajamarqueza srl
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av. La Cantuta 1070, Cajamarca 06001
+Teléfono: 976 130 423
+Rating: 4.5
+Reseñas: 26
+Sitio web: 
+Latitud: -7.163231499999999
+Longitud: -78.498654
+Google Maps: https://www.google.com/maps?cid=6364898589966786312
+Place Id: ChIJr58aIwtbspERCN9afoupVFg
+Fotos: La Cajamarqueza srl.jpg

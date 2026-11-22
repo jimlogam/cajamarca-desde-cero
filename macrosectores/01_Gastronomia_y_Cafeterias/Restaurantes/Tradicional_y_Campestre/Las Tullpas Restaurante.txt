@@ -1,0 +1,16 @@
+Nombre: Las Tullpas Restaurante
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Bar restaurante
+Dirección: Dos de Mayo 390, Cajamarca 06002
+Teléfono: (076) 774469
+Rating: 4.1
+Reseñas: 330
+Sitio web: 
+Latitud: -7.1581224
+Longitud: -78.5173104
+Google Maps: https://www.google.com/maps?cid=15065737045889086084
+Place Id: ChIJg6YzKflaspERhHKpgwVAFNE
+Fotos: Las Tullpas Restaurante.jpg, Las Tullpas Restaurante-1.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

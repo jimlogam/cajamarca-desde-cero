@@ -1,0 +1,15 @@
+Nombre: JEVASA
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
+Categoría Maps: Empresa de construcción
+Dirección: Vía de Evitamiento Nte. A-2, Cajamarca 06001
+Teléfono: 931 137 841
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1573177
+Longitud: -78.506642
+Google Maps: https://www.google.com/maps?cid=5237048842910192626
+Place Id: ChIJLflazKJbspER8lMI8Sy8rUg
+Fotos: JEVASA.jpg

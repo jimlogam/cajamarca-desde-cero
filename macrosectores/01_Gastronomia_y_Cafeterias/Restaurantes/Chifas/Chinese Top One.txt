@@ -1,0 +1,16 @@
+Nombre: Chinese Top One
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: Av。hoyos rubio 718, Cajamarca 06001
+Teléfono: 926 442 573
+Rating: 4
+Reseñas: 388
+Sitio web: 
+Latitud: -7.149940399999999
+Longitud: -78.5089177
+Google Maps: https://www.google.com/maps?cid=15772942667142357791
+Place Id: ChIJH_o6s1hbspERH2Ofgcm_5No
+Fotos: Chinese Top One.jpg, Chinese Top One-1.jpg, Chinese Top One-2.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

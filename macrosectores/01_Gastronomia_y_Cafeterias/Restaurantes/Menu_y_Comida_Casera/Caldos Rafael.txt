@@ -1,0 +1,16 @@
+Nombre: Caldos Rafael
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante
+Dirección: Cinco Esquinas 1208, Cajamarca 06001
+Teléfono: 
+Rating: 4
+Reseñas: 28
+Sitio web: 
+Latitud: -7.1543364
+Longitud: -78.5097117
+Google Maps: https://www.google.com/maps?cid=15653807930763201574
+Place Id: ChIJyQDmyfpaspERJkxVJ2B_Pdk
+Fotos: Caldos Rafael.jpg, Caldos Rafael-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

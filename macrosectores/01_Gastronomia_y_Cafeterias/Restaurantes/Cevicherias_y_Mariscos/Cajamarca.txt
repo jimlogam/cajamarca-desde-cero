@@ -1,0 +1,15 @@
+Nombre: Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: RFWR+QPM Cal, Cinco Esquinas, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1530363999999995
+Longitud: -78.5082031
+Google Maps: https://www.google.com/maps?cid=14878724166533870947
+Place Id: ChIJ4WW3RABbspERY3VFcczYe84
+Fotos: Cajamarca.jpg

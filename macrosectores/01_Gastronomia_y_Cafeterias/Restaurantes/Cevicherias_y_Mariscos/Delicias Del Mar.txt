@@ -1,0 +1,15 @@
+Nombre: Delicias Del Mar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Cajamarca 06001
+Teléfono: 996 780 801
+Rating: 3.7
+Reseñas: 301
+Sitio web: 
+Latitud: -7.1472926
+Longitud: -78.5101427
+Google Maps: https://www.google.com/maps?cid=1580513651369315721
+Place Id: ChIJaUGBHPJaspERiQ2GwMoc7xU
+Fotos: Delicias Del Mar.jpg

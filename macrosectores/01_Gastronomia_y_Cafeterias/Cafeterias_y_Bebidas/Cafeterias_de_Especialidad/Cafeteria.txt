@@ -1,0 +1,15 @@
+Nombre: Cafeteria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: RG73+PJ3, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1857334999999996
+Longitud: -78.4959623
+Google Maps: https://www.google.com/maps?cid=8238418210602521888
+Place Id: ChIJ7xVPxrNbspERIJUSqra9VHI
+Fotos: Cafeteria.jpg

@@ -1,0 +1,15 @@
+Nombre: Hiper Asia
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado
+Dirección: VF2Q+RM2, Cajamarca 06001
+Teléfono: 
+Rating: 3.8
+Reseñas: 18
+Sitio web: 
+Latitud: -7.1479944
+Longitud: -78.5108723
+Google Maps: https://www.google.com/maps?cid=8947675763188853442
+Place Id: ChIJcdczucFbspERwmo-JrOHLHw
+Fotos: Hiper Asia.jpg

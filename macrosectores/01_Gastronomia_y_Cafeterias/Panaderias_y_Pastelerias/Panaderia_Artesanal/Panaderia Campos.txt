@@ -1,0 +1,15 @@
+Nombre: Panaderia Campos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Jirón del Comercio 661, Cajamarca 06001
+Teléfono: 915 391 153
+Rating: 4.3
+Reseñas: 606
+Sitio web: 
+Latitud: -7.156176599999999
+Longitud: -78.5194789
+Google Maps: https://www.google.com/maps?cid=12911624161413535163
+Place Id: ChIJMz05jPhaspERu5VnHsRNL7M
+Fotos: Panaderia Campos.jpg

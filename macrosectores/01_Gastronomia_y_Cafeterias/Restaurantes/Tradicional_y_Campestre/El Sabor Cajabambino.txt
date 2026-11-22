@@ -1,0 +1,16 @@
+Nombre: El Sabor Cajabambino
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av. La Paz 720, Cajamarca 06003
+Teléfono: (076) 366067
+Rating: 3.8
+Reseñas: 292
+Sitio web: 
+Latitud: -7.170018
+Longitud: -78.5072661
+Google Maps: https://www.google.com/maps?cid=1605002310255087901
+Place Id: ChIJe-zfbBtbspERHZFv9hgdRhY
+Fotos: El Sabor Cajabambino.jpg, El Sabor Cajabambino-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

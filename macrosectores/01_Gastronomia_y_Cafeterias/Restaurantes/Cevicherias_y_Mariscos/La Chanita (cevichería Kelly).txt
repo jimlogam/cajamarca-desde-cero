@@ -1,0 +1,16 @@
+Nombre: La Chanita (cevichería Kelly)
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Jiron Coronel Leoncio Prado Gutierrez 431, Cajamarca 06002
+Teléfono: 932 269 687
+Rating: 4.2
+Reseñas: 653
+Sitio web: 
+Latitud: -7.1578541
+Longitud: -78.5086833
+Google Maps: https://www.google.com/maps?cid=1881094607877465080
+Place Id: ChIJ14ZdqU9bspER-GNwU5T9Gho
+Fotos: La Chanita (cevichería Kelly).jpg, La Chanita (cevichería Kelly)-1.jpg, La Chanita (cevichería Kelly)-2.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

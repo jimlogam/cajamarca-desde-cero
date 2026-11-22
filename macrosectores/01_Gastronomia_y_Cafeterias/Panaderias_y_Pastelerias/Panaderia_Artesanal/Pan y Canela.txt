@@ -1,0 +1,15 @@
+Nombre: Pan y Canela
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av. Moyococha A-13, Cajamarca 06001
+Teléfono: 953 588 123
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1407077999999995
+Longitud: -78.517241
+Google Maps: https://www.google.com/maps?cid=18366255204388045204
+Place Id: ChIJAewPkd9bspERlAG4v8wL4v4
+Fotos: Pan y Canela.jpg

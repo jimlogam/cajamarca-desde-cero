@@ -1,0 +1,15 @@
+Nombre: Hotel Continental Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante, Hotel
+Dirección: Jr.Amazonas 760, Cajamarca 06001
+Teléfono: 
+Rating: 4.2
+Reseñas: 767
+Sitio web: 
+Latitud: -7.1569962
+Longitud: -78.51589729999999
+Google Maps: https://www.google.com/maps?cid=6784898725557807216
+Place Id: ChIJiZMkaPlaspERcKjfZXHNKF4
+Fotos: Hotel Continental Cajamarca.jpg

@@ -1,0 +1,15 @@
+Nombre: Corazón & Caramelo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: 06001, Cajamarca 06001
+Teléfono: 935 156 651
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1480906
+Longitud: -78.5092373
+Google Maps: https://www.google.com/maps?cid=3036873465153169877
+Place Id: ChIJC_kJ-URbspER1alDllMkJSo
+Fotos: Corazón & Caramelo.jpg

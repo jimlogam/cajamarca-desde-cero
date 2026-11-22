@@ -1,0 +1,16 @@
+Nombre: Restaurante La chacra cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: María Octavila Sánchez, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 3
+Sitio web: http://www.restaurantelachacra.com/
+Latitud: -7.1496626
+Longitud: -78.506131
+Google Maps: https://www.google.com/maps?cid=13080595617327906048
+Place Id: ChIJc6_mfYRbspERAH1c9Wich7U
+Fotos: Restaurante La chacra cajamarca.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

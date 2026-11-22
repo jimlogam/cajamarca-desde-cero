@@ -1,0 +1,15 @@
+Nombre: ANKA
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: Junín 1215, Cajamarca 06002
+Teléfono: 991 254 232
+Rating: 4.2
+Reseñas: 25
+Sitio web: 
+Latitud: -7.1583758
+Longitud: -78.5184221
+Google Maps: https://www.google.com/maps?cid=14230954805489119175
+Place Id: ChIJ80hse7JbspERxy_RK_-BfsU
+Fotos: ANKA.jpg

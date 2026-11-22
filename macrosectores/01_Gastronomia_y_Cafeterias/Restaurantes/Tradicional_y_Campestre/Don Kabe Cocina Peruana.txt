@@ -1,0 +1,16 @@
+Nombre: Don Kabe Cocina Peruana
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Sta. Rosa 123, Cajamarca 06002
+Teléfono: 931 693 062
+Rating: 3.6
+Reseñas: 14
+Sitio web: https://www.facebook.com/DonKbe
+Latitud: -7.1708549999999995
+Longitud: -78.5124822
+Google Maps: https://www.google.com/maps?cid=1293164339954520034
+Place Id: ChIJx3dhWQRbspER4g8xnx0-8hE
+Fotos: Don Kabe Cocina Peruana.jpg, Don Kabe Cocina Peruana-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

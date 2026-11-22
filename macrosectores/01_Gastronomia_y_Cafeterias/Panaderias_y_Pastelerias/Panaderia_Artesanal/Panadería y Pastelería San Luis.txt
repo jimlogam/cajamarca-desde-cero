@@ -1,0 +1,16 @@
+Nombre: Panadería y Pastelería San Luis
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Miguel Iglesias 715, Cajamarca 06001
+Teléfono: 976 889 848
+Rating: 4.1
+Reseñas: 126
+Sitio web: 
+Latitud: -7.148721699999999
+Longitud: -78.5181928
+Google Maps: https://www.google.com/maps?cid=15314366441170656324
+Place Id: ChIJFTx3ZPZaspERRNwjpiOPh9Q
+Fotos: Panadería y Pastelería San Luis.jpg, Panadería y Pastelería San Luis-1.jpg
+Nota: Aparecia 2 veces en los 2 archivos nuevos; fusionado en uno.

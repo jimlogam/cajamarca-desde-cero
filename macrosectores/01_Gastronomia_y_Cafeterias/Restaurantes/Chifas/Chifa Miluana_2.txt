@@ -1,0 +1,15 @@
+Nombre: Chifa Miluana
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante
+Dirección: Av. Mártires de Uchuraccay 2525, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1821535999999995
+Longitud: -78.4900585
+Google Maps: https://www.google.com/maps?cid=17085657184952327147
+Place Id: ChIJ7ZVAFgBbspER6xsvn69yHO0
+Fotos: Chifa Miluana_2.jpg

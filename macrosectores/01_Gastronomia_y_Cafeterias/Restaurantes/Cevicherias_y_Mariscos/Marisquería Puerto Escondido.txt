@@ -1,0 +1,16 @@
+Nombre: Marisquería Puerto Escondido
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante
+Dirección: Miguel Iglesias 672, Cajamarca 06001
+Teléfono: 
+Rating: 3.8
+Reseñas: 189
+Sitio web: 
+Latitud: -7.149449
+Longitud: -78.51759799999999
+Google Maps: https://www.google.com/maps?cid=2795616447727503981
+Place Id: ChIJERq06Q9bspERbYoJ71gGzCY
+Fotos: Marisquería Puerto Escondido.jpg, Marisquería Puerto Escondido-1.jpg, Marisquería Puerto Escondido-2.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

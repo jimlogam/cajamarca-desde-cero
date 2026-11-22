@@ -1,0 +1,15 @@
+Nombre: APOLONIA CAFE BAR
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Bar
+Dirección: Jirón del Comercio 702, Cajamarca 06001
+Teléfono: 940 179 650
+Rating: 4.6
+Reseñas: 43
+Sitio web: 
+Latitud: -7.1566583999999995
+Longitud: -78.5191652
+Google Maps: https://www.google.com/maps?cid=13210953749304678965
+Place Id: ChIJf0nWVm9bspERNZpru3C8Vrc
+Fotos: APOLONIA CAFE BAR.jpg

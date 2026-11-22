@@ -1,0 +1,15 @@
+Nombre: Chocolatt Tortas Tradicionales
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería, Tienda de magdalenas
+Dirección: Atahualpa 516, Cajamarca 06002
+Teléfono: 976 049 351
+Rating: 4.9
+Reseñas: 19
+Sitio web: 
+Latitud: -7.1585598
+Longitud: -78.5202552
+Google Maps: https://www.google.com/maps?cid=9980013177435363880
+Place Id: ChIJzY5n5fxaspERKJrAxhshgIo
+Fotos: Chocolatt Tortas Tradicionales.jpg

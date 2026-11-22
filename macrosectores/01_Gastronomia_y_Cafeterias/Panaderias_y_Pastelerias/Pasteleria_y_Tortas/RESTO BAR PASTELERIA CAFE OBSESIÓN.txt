@@ -1,0 +1,16 @@
+Nombre: RESTO BAR PASTELERIA CAFE "OBSESIÓN"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Snack bar, Restaurante
+Dirección: Amalia Puga 782, Cajamarca 06002
+Teléfono: 951 830 291
+Rating: 4.4
+Reseñas: 155
+Sitio web: 
+Latitud: -7.1582292
+Longitud: -78.51633989999999
+Google Maps: https://www.google.com/maps?cid=18161387149099476344
+Place Id: ChIJJ79fBLdbspEReCVrkmM1Cvw
+Fotos: RESTO BAR PASTELERIA CAFE OBSESIÓN.jpg, RESTO BAR PASTELERIA CAFE OBSESIÓN-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,15 @@
+Nombre: El Zarco Campestre
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: RGX5+CR6, Cajamarca 06001
+Teléfono: (076) 341085
+Rating: 3.9
+Reseñas: 388
+Sitio web: 
+Latitud: -7.1514735
+Longitud: -78.4904861
+Google Maps: https://www.google.com/maps?cid=7481960319683843837
+Place Id: ChIJQ_DHxsRaspER_dZSBkVD1Wc
+Fotos: El Zarco Campestre.jpg

@@ -1,0 +1,16 @@
+Nombre: Restaurant La Contumacina Caldos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante
+Dirección: Jirón Huánuco 254, Cajamarca 06001
+Teléfono: 991 687 419
+Rating: 3.9
+Reseñas: 253
+Sitio web: 
+Latitud: -7.1563897
+Longitud: -78.5238533
+Google Maps: https://www.google.com/maps?cid=16358915615362134238
+Place Id: ChIJ97-H-VZaspER3jBANBSLBuM
+Fotos: Restaurant La Contumacina Caldos.jpg, Restaurant La Contumacina Caldos-1.jpg, Restaurant La Contumacina Caldos-2.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

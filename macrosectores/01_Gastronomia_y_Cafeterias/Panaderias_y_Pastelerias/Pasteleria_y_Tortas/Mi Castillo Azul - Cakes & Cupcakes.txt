@@ -1,0 +1,15 @@
+Nombre: Mi Castillo Azul - Cakes & Cupcakes
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Hipólito Unanue 104, Cajamarca 06002
+Teléfono: 936 668 539
+Rating: 
+Reseñas: 
+Sitio web: http://www.facebook.com/micastilloazul
+Latitud: -7.1557783
+Longitud: -78.50985279999999
+Google Maps: https://www.google.com/maps?cid=6429759679770564957
+Place Id: ChIJt5jVerhbspERXZnax1wYO1k
+Fotos: Mi Castillo Azul - Cakes & Cupcakes.jpg

@@ -1,0 +1,15 @@
+Nombre: Santé Café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Clínica Limatambo, Sede, Manuel Ibáñez Rosazza, Cajamarca 06000
+Teléfono: 943 701 492
+Rating: 4.9
+Reseñas: 29
+Sitio web: 
+Latitud: -7.163267299999999
+Longitud: -78.5025891
+Google Maps: https://www.google.com/maps?cid=16450777395951754034
+Place Id: ChIJx0UqZelbspERMtu6tOHmTOQ
+Fotos: Santé Café.jpg

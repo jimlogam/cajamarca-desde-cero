@@ -1,0 +1,16 @@
+Nombre: Chifa Dragón Peruano
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante chino
+Dirección: Av. Luis Rebaza Neyra 593, Cajamarca 06002
+Teléfono: 913 827 551
+Rating: 4
+Reseñas: 49
+Sitio web: 
+Latitud: -7.1630135
+Longitud: -78.4997818
+Google Maps: https://www.google.com/maps?cid=17227886505991873203
+Place Id: ChIJSWg0crhbspERsyJk_H-_Fe8
+Fotos: Chifa Dragón Peruano.jpg, Chifa Dragón Peruano-1.jpg, Chifa Dragón Peruano-2.jpg, Chifa Dragón Peruano-3.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

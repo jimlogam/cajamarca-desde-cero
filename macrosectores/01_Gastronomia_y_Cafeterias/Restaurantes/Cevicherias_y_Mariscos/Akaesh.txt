@@ -1,0 +1,15 @@
+Nombre: Akaesh
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Jr. Conquistadores 127, Cajamarca 06003
+Teléfono: 988 976 642
+Rating: 1
+Reseñas: 1
+Sitio web: https://www.facebook.com/profile.php?id=61554285111085&mibextid=ZbWKwL
+Latitud: -7.1764885
+Longitud: -78.4955653
+Google Maps: https://www.google.com/maps?cid=2253606641363464286
+Place Id: ChIJ0wu837pbspERXjDu2UxrRh8
+Fotos: Akaesh.jpg

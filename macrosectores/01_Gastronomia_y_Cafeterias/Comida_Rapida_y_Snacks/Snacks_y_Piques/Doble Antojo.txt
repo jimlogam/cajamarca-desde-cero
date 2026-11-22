@@ -1,0 +1,16 @@
+Nombre: Doble Antojo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Snacks_y_Piques
+Categoría Maps: Restaurante de comida rápida
+Dirección: 2da cuadra de, Los Alisos, Cajamarca 06001
+Teléfono: 974 860 072
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1444199
+Longitud: -78.5215691
+Google Maps: https://www.google.com/maps?cid=9534566812759718748
+Place Id: ChIJrfPaxbZbspERXHvF-f-VUYQ
+Fotos: Doble Antojo.jpg, Doble Antojo-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

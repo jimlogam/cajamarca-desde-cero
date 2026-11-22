@@ -1,0 +1,15 @@
+Nombre: GOING MERRY
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Snacks_y_Piques
+Categoría Maps: Restaurante de comida rápida
+Dirección: San Martín 259, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1586707999999994
+Longitud: -78.5188794
+Google Maps: https://www.google.com/maps?cid=2138246112208594152
+Place Id: ChIJuz_AUABbspER6KSNmIKTrB0
+Fotos: GOING MERRY.jpg

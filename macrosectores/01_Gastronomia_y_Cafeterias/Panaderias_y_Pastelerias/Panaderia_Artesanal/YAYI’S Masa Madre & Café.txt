@@ -1,0 +1,15 @@
+Nombre: YAYI’S Masa Madre & Café
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Cafetería, Panadería, Restaurante de postres
+Dirección: Junín 1219, Cajamarca 06000
+Teléfono: 987 805 994
+Rating: 4.9
+Reseñas: 109
+Sitio web: https://www.yayis.com.pe/
+Latitud: -7.158379999999999
+Longitud: -78.5184132
+Google Maps: https://www.google.com/maps?cid=9629968287453140170
+Place Id: ChIJXd0lb5lbspERytTruyKFpIU
+Fotos: YAYI’S Masa Madre & Café.jpg

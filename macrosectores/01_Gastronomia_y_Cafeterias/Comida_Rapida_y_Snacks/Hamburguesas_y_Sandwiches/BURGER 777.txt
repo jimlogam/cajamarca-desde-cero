@@ -1,0 +1,15 @@
+Nombre: BURGER 777
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Hamburguesería
+Dirección: Vía de Evitamiento Nte. 2252, Cajamarca 06002
+Teléfono: 
+Rating: 4
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1536881999999995
+Longitud: -78.5061131
+Google Maps: https://www.google.com/maps?cid=11153874345254158328
+Place Id: ChIJlcsGIQBbspER-H83Cp-Fypo
+Fotos: BURGER 777.jpg

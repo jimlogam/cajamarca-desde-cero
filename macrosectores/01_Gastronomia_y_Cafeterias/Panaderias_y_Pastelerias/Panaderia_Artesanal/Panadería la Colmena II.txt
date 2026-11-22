@@ -1,0 +1,15 @@
+Nombre: Panadería la Colmena II
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av. Universitaria manzana A, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1695468
+Longitud: -78.49241769999999
+Google Maps: https://www.google.com/maps?cid=14162030271832940534
+Place Id: ChIJW8RoHwBbspER9l_uon-jicQ
+Fotos: Panadería la Colmena II.jpg

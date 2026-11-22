@@ -1,0 +1,15 @@
+Nombre: Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: RFWJ+HR9, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1535958
+Longitud: -78.51789959999999
+Google Maps: https://www.google.com/maps?cid=8119530834733167124
+Place Id: ChIJGbajTQBbspERFPIZa0ZernA
+Fotos: Cajamarca.jpg

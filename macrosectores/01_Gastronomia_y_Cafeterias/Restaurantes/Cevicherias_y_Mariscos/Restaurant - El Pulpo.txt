@@ -1,0 +1,16 @@
+Nombre: Restaurant - "El Pulpo"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante peruano, Restaurante de pollo frito para llevar, Hamburguesería, Tienda de aves de corral, Marisquería
+Dirección: Miguel Grau 690, Cajamarca 06002
+Teléfono: (076) 618739
+Rating: 5
+Reseñas: 4
+Sitio web: https://instagram.com/resto_deli?igshid=MzNlNGNkZWQ4Mg==
+Latitud: -7.157016
+Longitud: -78.5106728
+Google Maps: https://www.google.com/maps?cid=17581431262604407718
+Place Id: ChIJWf9sl2BbspERprN7OpXK_fM
+Fotos: Restaurant - El Pulpo.jpg, Restaurant - El Pulpo-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

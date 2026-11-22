@@ -1,0 +1,15 @@
+Nombre: Restaurant Romina
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: 406, Jr del Batán 300, Cajamarca
+Teléfono: 
+Rating: 3.3
+Reseñas: 21
+Sitio web: 
+Latitud: -7.1551925
+Longitud: -78.5164939
+Google Maps: https://www.google.com/maps?cid=780585579704398339
+Place Id: ChIJL248k_laspERA7IS83Iy1Qo
+Fotos: Restaurant Romina.jpg

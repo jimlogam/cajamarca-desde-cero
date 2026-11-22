@@ -1,0 +1,15 @@
+Nombre: Sr. Tigre 🐯
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Av Vía de Evitamiento Nte 1708, Cajamarca 06001
+Teléfono: 948 147 169
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.instagram.com/sr.tigre10?igsh=MTR4YXVrNHM3bmZ0NQ==
+Latitud: -7.1449649
+Longitud: -78.5110419
+Google Maps: https://www.google.com/maps?cid=5113584800772281337
+Place Id: ChIJB4KhKgBbspER-VPeikga90Y
+Fotos: Sr. Tigre 🐯.jpg

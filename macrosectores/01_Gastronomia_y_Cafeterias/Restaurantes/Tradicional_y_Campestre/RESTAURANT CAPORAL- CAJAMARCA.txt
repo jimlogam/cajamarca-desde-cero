@@ -1,0 +1,16 @@
+Nombre: RESTAURANT CAPORAL- CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Vía de Evitamiento Nte. 1857, Cajamarca 06001
+Teléfono: 976 077 229
+Rating: 4.1
+Reseñas: 625
+Sitio web: 
+Latitud: -7.152805099999999
+Longitud: -78.506146
+Google Maps: https://www.google.com/maps?cid=6352726322212398469
+Place Id: ChIJ44L3fu9aspERhWW-ju5qKVg
+Fotos: RESTAURANT CAPORAL- CAJAMARCA.jpg, RESTAURANT CAPORAL- CAJAMARCA-1.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

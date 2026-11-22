@@ -1,0 +1,15 @@
+Nombre: COAFE PERU
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jr, Cinco Esquinas 528, Cajamarca 06001
+Teléfono: 913 423 008
+Rating: 5
+Reseñas: 14
+Sitio web: https://www.coafeperu.com/
+Latitud: -7.1599993
+Longitud: -78.5146987
+Google Maps: https://www.google.com/maps?cid=9900120972629472420
+Place Id: ChIJhWoGzY1bspERpHT5TpJLZIk
+Fotos: COAFE PERU.jpg

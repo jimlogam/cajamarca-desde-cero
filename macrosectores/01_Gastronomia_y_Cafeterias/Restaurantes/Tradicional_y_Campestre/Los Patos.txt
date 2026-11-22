@@ -1,0 +1,15 @@
+Nombre: Los Patos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av. Universitaria 105, Cajamarca 06001
+Teléfono: 
+Rating: 4
+Reseñas: 124
+Sitio web: 
+Latitud: -7.1684689
+Longitud: -78.4926866
+Google Maps: https://www.google.com/maps?cid=12861930774356146710
+Place Id: ChIJmXGb_SNbspERFrop0-TBfrI
+Fotos: Los Patos.jpg

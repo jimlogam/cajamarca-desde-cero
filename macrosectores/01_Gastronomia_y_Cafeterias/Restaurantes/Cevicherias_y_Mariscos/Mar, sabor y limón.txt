@@ -1,0 +1,16 @@
+Nombre: Mar, sabor y limón.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Jr, Rafael Narváez 314, Cajamarca
+Teléfono: 989 230 131
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1505645
+Longitud: -78.50401719999999
+Google Maps: https://www.google.com/maps?cid=14516518321877997881
+Place Id: ChIJdZ2d8W9bspEROdn8foAIdck
+Fotos: Mar, sabor y limón.jpg, Mar, sabor y limón-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

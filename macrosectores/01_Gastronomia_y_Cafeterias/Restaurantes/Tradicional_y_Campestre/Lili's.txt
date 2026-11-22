@@ -1,0 +1,16 @@
+Nombre: Lili's
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: RFJV+FHF, Los Próceres, Cajamarca 06003
+Teléfono: 980 836 223
+Rating: 4.3
+Reseñas: 89
+Sitio web: 
+Latitud: -7.1688019999999995
+Longitud: -78.5060732
+Google Maps: https://www.google.com/maps?cid=17301393344975961768
+Place Id: ChIJXzB8eGRbspERqH6ZnpTlGvA
+Fotos: Lili's.jpg, Lili's-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

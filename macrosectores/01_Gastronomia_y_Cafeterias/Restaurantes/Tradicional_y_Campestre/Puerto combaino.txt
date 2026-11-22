@@ -1,0 +1,16 @@
+Nombre: Puerto combaino
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Jiron Los Ángeles 170 C, Cajamarca 06001
+Teléfono: 950 377 059
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1464707999999995
+Longitud: -78.50256069999999
+Google Maps: https://www.google.com/maps?cid=8931144332714894804
+Place Id: ChIJO5CCQBpbspER1OU2jXPM8Xs
+Fotos: Puerto combaino.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

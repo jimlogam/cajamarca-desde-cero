@@ -1,0 +1,16 @@
+Nombre: El Rinconsito Del Sabor
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Jirón Manuel Seoane 496, Cajamarca 06002
+Teléfono: 942 442 715
+Rating: 4.1
+Reseñas: 89
+Sitio web: 
+Latitud: -7.1543332
+Longitud: -78.5099067
+Google Maps: https://www.google.com/maps?cid=8526408653497338559
+Place Id: ChIJv8xZzPpaspERv4qG2X7jU3Y
+Fotos: El Rinconsito Del Sabor.jpg, El Rinconsito Del Sabor-1.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

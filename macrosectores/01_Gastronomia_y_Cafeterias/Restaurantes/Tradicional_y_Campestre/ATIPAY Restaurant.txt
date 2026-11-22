@@ -1,0 +1,16 @@
+Nombre: ATIPAY Restaurant
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante de fusión
+Dirección: Jr, Sta. Teresa de Journet 212, Cajamarca 06001
+Teléfono: 976 968 477
+Rating: 4.5
+Reseñas: 42
+Sitio web: 
+Latitud: -7.1476413
+Longitud: -78.5102795
+Google Maps: https://www.google.com/maps?cid=3707183522540257470
+Place Id: ChIJtwti39lbspERvoAxssWPcjM
+Fotos: ATIPAY Restaurant.jpg, ATIPAY Restaurant-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

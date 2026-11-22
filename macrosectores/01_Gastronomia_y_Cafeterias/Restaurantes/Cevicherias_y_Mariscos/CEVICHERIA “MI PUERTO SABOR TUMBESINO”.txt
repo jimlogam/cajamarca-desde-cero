@@ -1,0 +1,15 @@
+Nombre: CEVICHERIA “MI PUERTO SABOR TUMBESINO”
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: VG43+6Q5, Las praderas, Cajamarca 06001
+Teléfono: 970 871 112
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1445193
+Longitud: -78.4955402
+Google Maps: https://www.google.com/maps?cid=8295241028733968943
+Place Id: ChIJS4leCgBbspERLyLv-8OdHnM
+Fotos: Sin foto en Maps

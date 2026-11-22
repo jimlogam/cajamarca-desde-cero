@@ -1,0 +1,15 @@
+Nombre: Cevicheria El Chato
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: RGC4+FQP, Jr. Misión Bautista, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.178787799999999
+Longitud: -78.49303599999999
+Google Maps: https://www.google.com/maps?cid=7738287367206248641
+Place Id: ChIJ2dbsRwBbspERwaA4fFzrY2s
+Fotos: Cevicheria El Chato.jpg

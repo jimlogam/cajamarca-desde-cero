@@ -1,0 +1,15 @@
+Nombre: Panadería y pastelería TAPIA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Av San Martín de Porres 714, Cajamarca 06003
+Teléfono: 932 980 457
+Rating: 3.7
+Reseñas: 14
+Sitio web: https://www.instagram.com/panaderiaypasteleriatapia?igsh=MWR0b2Q0c2hxdHR0Zw==
+Latitud: -7.170001399999999
+Longitud: -78.5032002
+Google Maps: https://www.google.com/maps?cid=14705063431693616788
+Place Id: ChIJwZrHJ7hbspERlEavxUfhEsw
+Fotos: Panadería y pastelería TAPIA.jpg

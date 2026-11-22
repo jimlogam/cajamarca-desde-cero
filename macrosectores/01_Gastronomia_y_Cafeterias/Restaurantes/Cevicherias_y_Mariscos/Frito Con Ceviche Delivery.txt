@@ -1,0 +1,16 @@
+Nombre: Frito Con Ceviche Delivery
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Restaurante, Bar restaurante
+Dirección: Colonial 198, Cajamarca 06000
+Teléfono: 918 343 454
+Rating: 4.3
+Reseñas: 133
+Sitio web: 
+Latitud: -7.1731183
+Longitud: -78.4977771
+Google Maps: https://www.google.com/maps?cid=13750652124965032308
+Place Id: ChIJF1SFqCJbspERdNGC6kAh1L4
+Fotos: Frito Con Ceviche Delivery.jpg, Frito Con Ceviche Delivery-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,16 @@
+Nombre: El Chinito
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: 
+Dirección: Jr. Apurimac 1110, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1534875
+Longitud: -78.51650339999999
+Google Maps: https://www.google.com/maps?cid=5727673423447737824
+Place Id: ChIJt4jE3flaspER4EUM0qHIfE8
+Fotos: El Chinito.jpg
+Nota: Sin categoria en Maps; clasificado por el nombre.

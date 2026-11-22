@@ -1,0 +1,15 @@
+Nombre: El punto del Sabor-Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante
+Dirección: Av. Mártires de Uchuraccay 550, Cajamarca 06003
+Teléfono: 994 360 363
+Rating: 3.5
+Reseñas: 2
+Sitio web: https://www.facebook.com/DeleiteCajamarquino
+Latitud: -7.1706917
+Longitud: -78.5024127
+Google Maps: https://www.google.com/maps?cid=8799306597172259036
+Place Id: ChIJw2gRfcNbspER3Cg0urpqHXo
+Fotos: El punto del Sabor-Cajamarca.jpg

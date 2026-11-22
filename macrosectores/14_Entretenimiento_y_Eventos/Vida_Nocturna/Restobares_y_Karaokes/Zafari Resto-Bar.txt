@@ -1,0 +1,16 @@
+Nombre: Zafari Resto-Bar
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Restaurante peruano
+Dirección: Jr. Tarapacá 623, Cajamarca 06001
+Teléfono: 988 427 506
+Rating: 3.7
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1565511
+Longitud: -78.5206252
+Google Maps: https://www.google.com/maps?cid=4943215686283455141
+Place Id: ChIJT0eF-9xbspERpWoQ9XnUmUQ
+Fotos: Zafari Resto-Bar.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

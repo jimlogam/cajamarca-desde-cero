@@ -1,0 +1,16 @@
+Nombre: Las Negritas Cevichería y Restaurante
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Marisquería
+Dirección: Jirón Mariano Iberico 141, Cajamarca 06001
+Teléfono: 921 775 069
+Rating: 4.4
+Reseñas: 47
+Sitio web: https://www.facebook.com/lasnegritasconchasnegras
+Latitud: -7.1485714
+Longitud: -78.5039891
+Google Maps: https://www.google.com/maps?cid=11840009779354047452
+Place Id: ChIJVc6eEjdbspER3JOMyykqUKQ
+Fotos: Las Negritas Cevichería y Restaurante.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

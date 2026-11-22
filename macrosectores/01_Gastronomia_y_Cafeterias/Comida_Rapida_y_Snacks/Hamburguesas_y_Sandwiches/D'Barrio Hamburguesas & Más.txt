@@ -1,0 +1,15 @@
+Nombre: D'Barrio Hamburguesas & Más
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
+Categoría Maps: Restaurante de comida rápida
+Dirección: 06000, Cajamarca 06000
+Teléfono: 960 116 179
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1485018
+Longitud: -78.5219295
+Google Maps: https://www.google.com/maps?cid=16266304165522228107
+Place Id: ChIJS2KQ_dlbspERi8NounSFveE
+Fotos: D'Barrio Hamburguesas & Más.jpg

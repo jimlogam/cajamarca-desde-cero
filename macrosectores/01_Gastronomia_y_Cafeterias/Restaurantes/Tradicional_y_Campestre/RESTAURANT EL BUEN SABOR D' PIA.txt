@@ -1,0 +1,15 @@
+Nombre: RESTAURANT EL BUEN SABOR D' PIA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Restaurante peruano
+Dirección: Anaximandro Vega 231, Chota 06121
+Teléfono: 920 883 428
+Rating: 3.6
+Reseñas: 43
+Sitio web: 
+Latitud: -6.5626961
+Longitud: -78.6510098
+Google Maps: https://www.google.com/maps?cid=7868611768001634462
+Place Id: ChIJQ1SPGTqfs5ERniAym7bsMm0
+Fotos: RESTAURANT EL BUEN SABOR D' PIA.jpg

@@ -1,0 +1,15 @@
+Nombre: Caldo de gallina
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Restaurante
+Dirección: Jr del Batán 203-149, Cajamarca 06001
+Teléfono: 
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1560345
+Longitud: -78.5174574
+Google Maps: https://www.google.com/maps?cid=9805299021279949231
+Place Id: ChIJt122ueNbspERr3HgV4JrE4g
+Fotos: Caldo de gallina.jpg

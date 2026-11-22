@@ -1,0 +1,16 @@
+Nombre: Mercado Central
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Puestos_de_Mercado_de_Abastos
+Categoría Maps: Mercado
+Dirección: Jr. Apurimac 914, Cajamarca 06001
+Teléfono: 
+Rating: 3.9
+Reseñas: 2646
+Sitio web: 
+Latitud: -7.1550252
+Longitud: -78.517493
+Google Maps: https://www.google.com/maps?cid=9323211028782589062
+Place Id: ChIJQeNBsvlaspERhiSXwAizYoE
+Fotos: Mercado Central.jpg, Mercado Central-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

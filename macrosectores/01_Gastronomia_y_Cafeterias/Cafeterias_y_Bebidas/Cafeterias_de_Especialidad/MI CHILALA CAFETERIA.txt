@@ -1,0 +1,15 @@
+Nombre: MI CHILALA CAFETERIA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Junín 1128, Cajamarca 06001
+Teléfono: 976 667 754
+Rating: 4.2
+Reseñas: 21
+Sitio web: 
+Latitud: -7.1581724
+Longitud: -78.5189712
+Google Maps: https://www.google.com/maps?cid=11380470051363054294
+Place Id: ChIJ2ReAp7lbspER1mJ3JDeN750
+Fotos: MI CHILALA CAFETERIA.jpg

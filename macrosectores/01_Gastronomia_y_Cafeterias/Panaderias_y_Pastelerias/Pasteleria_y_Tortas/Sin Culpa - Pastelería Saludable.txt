@@ -1,0 +1,15 @@
+Nombre: Sin Culpa - Pastelería Saludable
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Tienda de postres, Tienda de artículos para bebés, Especialista en diabetes, Restaurante de comida sin gluten, Tienda de alimentos naturales, Restaurante vegano, Restaurante vegetariano
+Dirección: 7°08'42.6"S 78°30'53.6"W, Cajamarca 06001
+Teléfono: 948 707 690
+Rating: 5
+Reseñas: 2
+Sitio web: https://www.facebook.com/sin.culpa.comida.saludable.11/?modal=admin_todo_tour
+Latitud: -7.1452316
+Longitud: -78.5148825
+Google Maps: https://www.google.com/maps?cid=17452998365267355908
+Place Id: ChIJaW-i4R1bspERBOk7E4uBNfI
+Fotos: Sin Culpa - Pastelería Saludable.jpg

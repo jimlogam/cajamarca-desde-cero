@@ -1,0 +1,15 @@
+Nombre: Chifa Bravo's
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Restaurante
+Dirección: VF2Q+83X, Los Cipreses, Cajamarca 06001
+Teléfono: 
+Rating: 4.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1491431
+Longitud: -78.5122689
+Google Maps: https://www.google.com/maps?cid=6574172722068678514
+Place Id: ChIJpablCvFaspERcmf3XkInPFs
+Fotos: Chifa Bravo's.jpg
