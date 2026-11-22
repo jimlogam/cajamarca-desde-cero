@@ -1,0 +1,15 @@
+Nombre: Restauran polleria el festin
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Tienda de alimentación
+Dirección: Av. Independencia 700, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1706993
+Longitud: -78.5119271
+Google Maps: https://www.google.com/maps?cid=4989467844005116246
+Place Id: ChIJH1Ba8INbspERVrkonJEmPkU
+Fotos: Restauran polleria el festin.jpg

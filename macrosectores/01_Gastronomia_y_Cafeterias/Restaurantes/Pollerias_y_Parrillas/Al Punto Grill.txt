@@ -1,0 +1,15 @@
+Nombre: Al Punto Grill
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Hamburguesería
+Dirección: Jacarandá 404, Cajamarca 06002
+Teléfono: 
+Rating: 3.3
+Reseñas: 4
+Sitio web: 
+Latitud: -7.152790899999999
+Longitud: -78.50602429999999
+Google Maps: https://www.google.com/maps?cid=17417779294462402955
+Place Id: ChIJB3GSEdNbspERi-GVJvxhuPE
+Fotos: Al Punto Grill.jpg

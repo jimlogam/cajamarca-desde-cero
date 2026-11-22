@@ -1,0 +1,16 @@
+Nombre: Polleria EL ENCANTO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Pollería
+Dirección: Prol. Revilla Perez 557, Cajamarca 06001
+Teléfono: 976 527 386
+Rating: 3.3
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1487415
+Longitud: -78.5118796
+Google Maps: https://www.google.com/maps?cid=6544537107211680378
+Place Id: ChIJc6cPvKhbspERevq2FtPd0lo
+Fotos: Polleria EL ENCANTO.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,15 @@
+Nombre: Mamá Doricha
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante de alas de pollo
+Dirección: Calle Matuy 131, Cajamarca 06002
+Teléfono: 992 908 316
+Rating: 4.5
+Reseñas: 99
+Sitio web: 
+Latitud: -7.1557086
+Longitud: -78.5067735
+Google Maps: https://www.google.com/maps?cid=2482338428097711050
+Place Id: ChIJ7-uE_uRaspERyssQ-6UJcyI
+Fotos: Mamá Doricha.jpg

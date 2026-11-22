@@ -1,0 +1,16 @@
+Nombre: Señor Pollo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: RFWJ+3P5, Jr.Amazonas, Cajamarca 06001
+Teléfono: 976 765 960
+Rating: 4.2
+Reseñas: 54
+Sitio web: 
+Latitud: -7.1548592
+Longitud: -78.5181467
+Google Maps: https://www.google.com/maps?cid=861891426671206479
+Place Id: ChIJZfMUTPhaspERTyCxoa8N9gs
+Fotos: Señor Pollo.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

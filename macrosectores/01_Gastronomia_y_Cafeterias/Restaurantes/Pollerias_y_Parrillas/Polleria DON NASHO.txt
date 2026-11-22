@@ -1,0 +1,15 @@
+Nombre: Polleria DON NASHO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Jr. Alfonso Ugarte 1753, Cajamarca 06003
+Teléfono: 968 053 350
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.181507799999999
+Longitud: -78.5063108
+Google Maps: https://www.google.com/maps?cid=5747587904684765148
+Place Id: ChIJcVVVFR5bspER3C8RTr-Iw08
+Fotos: Polleria DON NASHO.jpg

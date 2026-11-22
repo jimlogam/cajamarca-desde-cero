@@ -1,0 +1,16 @@
+Nombre: El Buey Grill Bar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante, Parrilla, Bar
+Dirección: Miguel Grau 167, Cajamarca 06002
+Teléfono: 992 073 006
+Rating: 4.2
+Reseñas: 547
+Sitio web: 
+Latitud: -7.157064999999999
+Longitud: -78.51119159999999
+Google Maps: https://www.google.com/maps?cid=13460784215471872680
+Place Id: ChIJB5ysbftaspERqNpi-exPzro
+Fotos: El Buey Grill Bar.jpg, El Buey Grill Bar-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

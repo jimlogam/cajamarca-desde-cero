@@ -1,0 +1,16 @@
+Nombre: Super Chicken
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Romero, Cajamarca 06002
+Teléfono: (076) 365821
+Rating: 3.7
+Reseñas: 814
+Sitio web: 
+Latitud: -7.1608149
+Longitud: -78.5134376
+Google Maps: https://www.google.com/maps?cid=4465538634286886302
+Place Id: ChIJwcf3SvxaspERnu1ze7rH-D0
+Fotos: Super Chicken.jpg, Super Chicken-1.jpg, Super Chicken-2.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

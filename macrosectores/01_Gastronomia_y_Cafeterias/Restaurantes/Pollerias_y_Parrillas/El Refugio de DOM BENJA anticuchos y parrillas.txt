@@ -1,0 +1,15 @@
+Nombre: El Refugio de "DOM BENJA" anticuchos y parrillas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Pub restaurante
+Dirección: entre, Polongacion Loreto 185 Por paradero de santa Apolonia, Av. Perú y, Cajamarca 06001
+Teléfono: 946 115 715
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1604855
+Longitud: -78.5201831
+Google Maps: https://www.google.com/maps?cid=5836244559401167640
+Place Id: ChIJuxjsDdhbspERGKtpSYGB_lA
+Fotos: El Refugio de DOM BENJA anticuchos y parrillas.jpg

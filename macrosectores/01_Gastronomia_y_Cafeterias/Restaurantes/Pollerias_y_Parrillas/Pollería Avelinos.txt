@@ -1,0 +1,16 @@
+Nombre: Pollería Avelinos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Prol. Revilla Perez 361, Cajamarca 06001
+Teléfono: (076) 775183
+Rating: 4.6
+Reseñas: 7
+Sitio web: 
+Latitud: -7.151171
+Longitud: -78.51992469999999
+Google Maps: https://www.google.com/maps?cid=18343042260705154947
+Place Id: ChIJR3RrHdNbspERgxdPIcCTj_4
+Fotos: Pollería Avelinos.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

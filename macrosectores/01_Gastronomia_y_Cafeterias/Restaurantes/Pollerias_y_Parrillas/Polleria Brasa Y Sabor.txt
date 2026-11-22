@@ -1,0 +1,16 @@
+Nombre: Polleria Brasa Y Sabor
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Av. Héroes del Cenepa 1330, Cajamarca 06003
+Teléfono: 
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1813253999999995
+Longitud: -78.50070149999999
+Google Maps: https://www.google.com/maps?cid=5675102864152052563
+Place Id: ChIJ61AnrRVbspERU8OVqfwDwk4
+Fotos: Polleria Brasa Y Sabor.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

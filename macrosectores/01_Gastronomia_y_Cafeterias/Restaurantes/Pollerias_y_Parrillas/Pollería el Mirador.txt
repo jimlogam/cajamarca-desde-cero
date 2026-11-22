@@ -1,0 +1,15 @@
+Nombre: Pollería el Mirador
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Pollería
+Dirección: RFWC+HPV, Av. Vidal Gaitan, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.153517399999999
+Longitud: -78.52819629999999
+Google Maps: https://www.google.com/maps?cid=18158940738413680963
+Place Id: ChIJWw-JUQBbspERQ1mEMmSEAfw
+Fotos: Pollería el Mirador.jpg

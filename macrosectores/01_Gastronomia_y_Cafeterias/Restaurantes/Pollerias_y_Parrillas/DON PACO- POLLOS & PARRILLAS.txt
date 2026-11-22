@@ -1,0 +1,16 @@
+Nombre: DON PACO- POLLOS & PARRILLAS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Av. San Martin, Cajamarca 06001
+Teléfono: 971 225 868
+Rating: 4.5
+Reseñas: 11
+Sitio web: https://carnetcepre2024-2.my.canva.site/don-paco-pollos-y-parrillas-web
+Latitud: -7.1947392
+Longitud: -78.4845423
+Google Maps: https://www.google.com/maps?cid=11743388634020429217
+Place Id: ChIJLX6cItlbspERob0lVr7l-KI
+Fotos: DON PACO- POLLOS & PARRILLAS.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

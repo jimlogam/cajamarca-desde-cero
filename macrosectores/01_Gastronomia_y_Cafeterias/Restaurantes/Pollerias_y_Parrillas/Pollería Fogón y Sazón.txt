@@ -1,0 +1,16 @@
+Nombre: Pollería Fogón y Sazón
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Cinco Esquinas 379-395, Cajamarca 06002
+Teléfono: 
+Rating: 4
+Reseñas: 98
+Sitio web: 
+Latitud: -7.1604243
+Longitud: -78.51545949999999
+Google Maps: https://www.google.com/maps?cid=2590487806438776932
+Place Id: ChIJC6rFhP5aspERZKDDWe9C8yM
+Fotos: Pollería Fogón y Sazón.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,15 @@
+Nombre: Pierina's Grill
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante peruano
+Dirección: Jr, Prol. Revilla Perez 427, Cajamarca 06000
+Teléfono: 981 295 326
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.150739799999999
+Longitud: -78.5128247
+Google Maps: https://www.google.com/maps?cid=17910111327355587102
+Place Id: ChIJ8WOnPwBbspERHsq6Qlx_jfg
+Fotos: Pierina's Grill.jpg

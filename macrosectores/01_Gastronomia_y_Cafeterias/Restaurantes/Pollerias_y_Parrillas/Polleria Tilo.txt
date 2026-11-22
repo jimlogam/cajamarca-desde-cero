@@ -1,0 +1,16 @@
+Nombre: Polleria Tilo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Jr. Belaunde Terry 159, Cajamarca 06003
+Teléfono: 
+Rating: 3.7
+Reseñas: 32
+Sitio web: 
+Latitud: -7.178615199999999
+Longitud: -78.5057218
+Google Maps: https://www.google.com/maps?cid=11172664803702151266
+Place Id: ChIJXyt2bxFbspERYhgtk3FHDZs
+Fotos: Polleria Tilo.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

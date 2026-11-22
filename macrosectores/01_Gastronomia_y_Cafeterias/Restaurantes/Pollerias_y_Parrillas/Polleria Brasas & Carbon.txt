@@ -1,0 +1,15 @@
+Nombre: Polleria Brasas & Carbon
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Av. Mártires de Uchuraccay 918, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.170391899999999
+Longitud: -78.50109839999999
+Google Maps: https://www.google.com/maps?cid=15233755890578970901
+Place Id: ChIJ5d97HBlbspERFVn5REUsadM
+Fotos: Polleria Brasas & Carbon.jpg

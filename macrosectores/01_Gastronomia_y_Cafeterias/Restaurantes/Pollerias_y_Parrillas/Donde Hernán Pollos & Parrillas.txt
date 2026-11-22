@@ -1,0 +1,16 @@
+Nombre: Donde Hernán Pollos & Parrillas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Vía de Evitamiento Nte. 2254, Cajamarca 06002
+Teléfono: 976 111 276
+Rating: 3.1
+Reseñas: 15
+Sitio web: 
+Latitud: -7.154055
+Longitud: -78.5060355
+Google Maps: https://www.google.com/maps?cid=1343702036196520040
+Place Id: ChIJN0ZWt3FbspERaHB29-HJpRI
+Fotos: Donde Hernán Pollos & Parrillas.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,16 @@
+Nombre: D'Carlos Chicken
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Pollería
+Dirección: 051, Cajamarca 06002
+Teléfono: 936 955 115
+Rating: 4.7
+Reseñas: 20
+Sitio web: https://instagram.com/dcarloschickenn/
+Latitud: -7.1584121
+Longitud: -78.51192379999999
+Google Maps: https://www.google.com/maps?cid=13599886149524803302
+Place Id: ChIJHz5QhapbspER5k4u0GWAvLw
+Fotos: D'Carlos Chicken.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

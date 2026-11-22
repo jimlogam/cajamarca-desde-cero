@@ -1,0 +1,15 @@
+Nombre: Rickos Chicken
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Av. Perú 401, Cajamarca 06001
+Teléfono: 925 784 671
+Rating: 3
+Reseñas: 8
+Sitio web: 
+Latitud: -7.160120099999999
+Longitud: -78.5242767
+Google Maps: https://www.google.com/maps?cid=1474733283417409424
+Place Id: ChIJkRXa4GZbspERkEeKmBtOdxQ
+Fotos: Rickos Chicken.jpg

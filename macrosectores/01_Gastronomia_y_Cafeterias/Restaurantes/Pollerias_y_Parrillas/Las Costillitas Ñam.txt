@@ -1,0 +1,16 @@
+Nombre: Las Costillitas Ñam
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Parrilla, Tienda de aves de corral
+Dirección: Las costillitas Ñam, Av. Hoyos Rubio 878, Cajamarca 06001
+Teléfono: (076) 776772
+Rating: 4.1
+Reseñas: 234
+Sitio web: 
+Latitud: -7.149242399999999
+Longitud: -78.5076986
+Google Maps: https://www.google.com/maps?cid=4633021144430929110
+Place Id: ChIJV_NNguVaspER1uStHi_MS0A
+Fotos: Las Costillitas Ñam.jpg, Las Costillitas Ñam-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

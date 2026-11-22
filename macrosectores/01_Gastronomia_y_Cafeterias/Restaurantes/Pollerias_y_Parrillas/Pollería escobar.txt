@@ -1,0 +1,15 @@
+Nombre: Pollería escobar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: RF9V+CCG, Jr. Alfonso Ugarte, Cajamarca 06003
+Teléfono: 
+Rating: 2
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1814272
+Longitud: -78.5064301
+Google Maps: https://www.google.com/maps?cid=5672691141152591906
+Place Id: ChIJy41eXgBbspERItDnpIlyuU4
+Fotos: Pollería escobar.jpg

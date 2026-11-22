@@ -1,0 +1,15 @@
+Nombre: POLLERIA - RESTAURANT
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Av. Vía de Evitamiento Sur 1112, Cajamarca 06003
+Teléfono: 951 213 672
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1688427
+Longitud: -78.5000685
+Google Maps: https://www.google.com/maps?cid=4816821574075929641
+Place Id: ChIJOfVuiM5bspERKdQ7dbPJ2EI
+Fotos: POLLERIA - RESTAURANT.jpg

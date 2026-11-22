@@ -1,0 +1,16 @@
+Nombre: Polleria Medileny Chicken
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Av. Manco Cápac 136, Baños del Inca 06004
+Teléfono: (076) 348774
+Rating: 4.1
+Reseñas: 83
+Sitio web: 
+Latitud: -7.164860399999999
+Longitud: -78.4679362
+Google Maps: https://www.google.com/maps?cid=6472702094154345820
+Place Id: ChIJXecOzGZFspERXC3_wkKo01k
+Fotos: Polleria Medileny Chicken.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

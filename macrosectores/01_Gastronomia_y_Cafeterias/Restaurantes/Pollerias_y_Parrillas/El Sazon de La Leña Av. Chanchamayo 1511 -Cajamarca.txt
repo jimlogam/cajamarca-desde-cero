@@ -1,0 +1,16 @@
+Nombre: El Sazon de La Leña Av. Chanchamayo 1511 -Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Chanchamayo 1511, Cajamarca 06001
+Teléfono: 902 063 690
+Rating: 3.7
+Reseñas: 22
+Sitio web: 
+Latitud: -7.147556499999999
+Longitud: -78.52277459999999
+Google Maps: https://www.google.com/maps?cid=12151458069486529371
+Place Id: ChIJcWNrTKZbspERW2vMprumoqg
+Fotos: El Sazon de La Leña Av. Chanchamayo 1511 -Cajamarca.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

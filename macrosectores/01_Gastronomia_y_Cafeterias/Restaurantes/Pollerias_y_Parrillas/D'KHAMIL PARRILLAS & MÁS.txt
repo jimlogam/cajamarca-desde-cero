@@ -1,0 +1,15 @@
+Nombre: "D'KHAMIL" PARRILLAS & MÁS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante americano
+Dirección: Av. Industrial 202, Cajamarca 06003
+Teléfono: 985 114 665
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/share/1DZb655CmG/
+Latitud: -7.1846228
+Longitud: -78.49519219999999
+Google Maps: https://www.google.com/maps?cid=6956444143616934401
+Place Id: ChIJj_o5EgBbspERAUIigBdBimA
+Fotos: D'KHAMIL PARRILLAS & MÁS.jpg

@@ -1,0 +1,16 @@
+Nombre: Neilis Chicken
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante peruano
+Dirección: RGC7+6V7, Cajamarca 06003
+Teléfono: 978 894 381
+Rating: 4.5
+Reseñas: 22
+Sitio web: 
+Latitud: -7.1794375
+Longitud: -78.48531249999999
+Google Maps: https://www.google.com/maps?cid=7834613840379919848
+Place Id: ChIJ7bGRezdbspER6D00PMcjumw
+Fotos: Neilis Chicken.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

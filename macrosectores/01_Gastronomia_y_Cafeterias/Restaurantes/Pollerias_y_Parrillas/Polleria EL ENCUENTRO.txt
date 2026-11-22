@@ -1,0 +1,16 @@
+Nombre: Polleria "EL ENCUENTRO"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: 659, Av San Martín de Porres 687, Cajamarca
+Teléfono: 969 119 536
+Rating: 3.9
+Reseñas: 43
+Sitio web: 
+Latitud: -7.1695135
+Longitud: -78.5034331
+Google Maps: https://www.google.com/maps?cid=2023088490189041469
+Place Id: ChIJQ3i01zRbspERPS_mVkN0Exw
+Fotos: Polleria EL ENCUENTRO.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,15 @@
+Nombre: EL PARRILLAJE CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Los Sauces 575, Cajamarca 06000
+Teléfono: 976 531 582
+Rating: 3.7
+Reseñas: 53
+Sitio web: 
+Latitud: -7.1492347999999994
+Longitud: -78.5132414
+Google Maps: https://www.google.com/maps?cid=11147995823644364378
+Place Id: ChIJhWjwH3pbspERWk7cESOjtZo
+Fotos: EL PARRILLAJE CAJAMARCA.jpg

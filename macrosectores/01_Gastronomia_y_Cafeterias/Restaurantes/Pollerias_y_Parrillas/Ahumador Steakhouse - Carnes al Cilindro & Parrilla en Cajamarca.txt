@@ -1,0 +1,16 @@
+Nombre: Ahumador Steakhouse - Carnes al Cilindro & Parrilla en Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante de carnes asadas, Parrilla, Restaurante especializado en chuletas, Comida a domicilio, Restaurante peruano
+Dirección: Jr, Prol. Revilla Perez 419, Cajamarca 06001
+Teléfono: 920 131 019
+Rating: 4.8
+Reseñas: 337
+Sitio web: 
+Latitud: -7.150766399999999
+Longitud: -78.5128798
+Google Maps: https://www.google.com/maps?cid=12357857391145919749
+Place Id: ChIJrzvyaJpbspERBSUwkNLtf6s
+Fotos: Ahumador Steakhouse - Carnes al Cilindro & Parrilla en Cajamarca.jpg, Ahumador Steakhouse - Carnes al Cilindro & Parrilla en Cajamarca-1.jpg, Ahumador Steakhouse - Carnes al Cilindro & Parrilla en Cajamarca-2.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

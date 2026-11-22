@@ -1,0 +1,16 @@
+Nombre: Villa Rica Churrasquería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante, Parrilla, Tienda de aves de corral
+Dirección: Av. Manco Cápac 1055, Baños del Inca 06004
+Teléfono: 976 300 814
+Rating: 4.5
+Reseñas: 1271
+Sitio web: https://villaricachurrasqueria.pe/
+Latitud: -7.162204999999999
+Longitud: -78.4605886
+Google Maps: https://www.google.com/maps?cid=9775477101816980428
+Place Id: ChIJHY9cd9hEspERzCPEo6F4qYc
+Fotos: Villa Rica Churrasquería.jpg, Villa Rica Churrasquería-1.jpg, Villa Rica Churrasquería-2.jpg, Villa Rica Churrasquería-3.jpg, Villa Rica Churrasquería-4.jpg
+Nota: Aparecia 5 veces en los 5 archivos; fusionado en uno.

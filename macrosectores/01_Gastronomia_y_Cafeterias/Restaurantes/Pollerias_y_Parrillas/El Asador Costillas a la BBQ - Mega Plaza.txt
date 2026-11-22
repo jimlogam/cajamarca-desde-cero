@@ -1,0 +1,16 @@
+Nombre: El Asador Costillas a la BBQ - Mega Plaza
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Parrilla
+Dirección: Av. Hoyos Rubio 06001, Cajamarca 06001
+Teléfono: 980 623 453
+Rating: 4.5
+Reseñas: 211
+Sitio web: http://www.elasadorcarnesalcilindro.com/
+Latitud: -7.1495207
+Longitud: -78.5095882
+Google Maps: https://www.google.com/maps?cid=10876046712046806170
+Place Id: ChIJLZwdbMtbspERmuQaYNx675Y
+Fotos: El Asador Costillas a la BBQ - Mega Plaza.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

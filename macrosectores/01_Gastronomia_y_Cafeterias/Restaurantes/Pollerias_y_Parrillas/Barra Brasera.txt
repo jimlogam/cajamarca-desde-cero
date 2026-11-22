@@ -1,0 +1,15 @@
+Nombre: Barra Brasera
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en chuletas
+Dirección: Angamos 651, Cajamarca 06001
+Teléfono: 931 797 081
+Rating: 3.9
+Reseñas: 21
+Sitio web: https://www.facebook.com/barrabraseracajamarca/
+Latitud: -7.1511052
+Longitud: -78.5228042
+Google Maps: https://www.google.com/maps?cid=18370265521329475631
+Place Id: ChIJ8yAQpxZbspERLxBzbClL8P4
+Fotos: Barra Brasera.jpg

@@ -1,0 +1,16 @@
+Nombre: LA CALLE polleria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Tienda de aves de corral
+Dirección: Túpac Amaru 1188, Cajamarca 06003
+Teléfono: 983 425 447
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.178798199999999
+Longitud: -78.5036642
+Google Maps: https://www.google.com/maps?cid=533697314404084830
+Place Id: ChIJOZYm2olbspERXqyiOuESaAc
+Fotos: LA CALLE polleria.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

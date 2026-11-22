@@ -1,0 +1,16 @@
+Nombre: La Granjita Grill
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en barbacoa
+Dirección: Vía de Evitamiento Nte. 2214, Cajamarca 06002
+Teléfono: 925 693 285
+Rating: 4.3
+Reseñas: 75
+Sitio web: 
+Latitud: -7.1554224
+Longitud: -78.5065144
+Google Maps: https://www.google.com/maps?cid=5454384719690792072
+Place Id: ChIJh2QfLihbspERiPx8BQHesUs
+Fotos: La Granjita Grill.jpg, La Granjita Grill-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

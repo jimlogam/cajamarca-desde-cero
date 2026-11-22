@@ -1,0 +1,16 @@
+Nombre: POLLERÍA EL SUPREMO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo, Tienda de alimentación
+Dirección: prolongación 605, Cajamarca 06001
+Teléfono: 972 366 238
+Rating: 4.3
+Reseñas: 9
+Sitio web: 
+Latitud: -7.143573399999999
+Longitud: -78.5103986
+Google Maps: https://www.google.com/maps?cid=2877102523462353363
+Place Id: ChIJ-anDBFVbspER04FaZYCF7Sc
+Fotos: POLLERÍA EL SUPREMO.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

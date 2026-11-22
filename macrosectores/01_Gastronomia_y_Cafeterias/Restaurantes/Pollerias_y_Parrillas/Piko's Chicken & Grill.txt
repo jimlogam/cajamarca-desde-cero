@@ -1,0 +1,16 @@
+Nombre: Piko's Chicken & Grill
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Cinco Esquinas 1314, Cajamarca 06002
+Teléfono: (076) 368286
+Rating: 4.2
+Reseñas: 134
+Sitio web: 
+Latitud: -7.1537709
+Longitud: -78.5092214
+Google Maps: https://www.google.com/maps?cid=13970180306357351461
+Place Id: ChIJOdXdTOVaspERJXSWsPgM4ME
+Fotos: Piko's Chicken & Grill.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

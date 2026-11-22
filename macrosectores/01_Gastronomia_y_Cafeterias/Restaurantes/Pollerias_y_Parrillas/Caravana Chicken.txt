@@ -1,0 +1,16 @@
+Nombre: Caravana Chicken
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Av San Martín de Porres 642a, Cajamarca 06003
+Teléfono: (076) 507437
+Rating: 3.7
+Reseñas: 198
+Sitio web: 
+Latitud: -7.1687309
+Longitud: -78.5040904
+Google Maps: https://www.google.com/maps?cid=3889636517273922667
+Place Id: ChIJ8XG_-BtbspERa-x_5c3D-jU
+Fotos: Caravana Chicken.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,16 @@
+Nombre: Brasa Real Polleria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Av. Vía de Evitamiento Sur 2520, Cajamarca 06002
+Teléfono: 931 114 306
+Rating: 3
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1582944
+Longitud: -78.50659879999999
+Google Maps: https://www.google.com/maps?cid=10138845574040996828
+Place Id: ChIJTbawgmBbspER3EtB6VRqtIw
+Fotos: Brasa Real Polleria.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

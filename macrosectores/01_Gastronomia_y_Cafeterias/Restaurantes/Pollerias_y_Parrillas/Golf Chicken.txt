@@ -1,0 +1,16 @@
+Nombre: Golf Chicken
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Tienda de aves de corral
+Dirección: Av San Martín de Porres 979, Cajamarca 06003
+Teléfono: (076) 507597
+Rating: 2.6
+Reseñas: 9
+Sitio web: 
+Latitud: -7.171312899999999
+Longitud: -78.50141099999999
+Google Maps: https://www.google.com/maps?cid=12703808558289754844
+Place Id: ChIJa_G_pxlbspER3Jpte5P-TLA
+Fotos: Golf Chicken.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

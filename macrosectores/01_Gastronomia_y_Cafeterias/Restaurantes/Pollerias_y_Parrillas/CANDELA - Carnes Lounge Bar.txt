@@ -1,0 +1,15 @@
+Nombre: CANDELA - Carnes Lounge Bar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Jr. Cruz de Piedra, Cajamarca 06002
+Teléfono: 914 654 744
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.157889699999999
+Longitud: -78.5189293
+Google Maps: https://www.google.com/maps?cid=1262606517777801453
+Place Id: ChIJf8SdMMNbspER7SA9N_CthRE
+Fotos: CANDELA - Carnes Lounge Bar.jpg

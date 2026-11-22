@@ -1,0 +1,15 @@
+Nombre: La casa del anticucho
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en barbacoa
+Dirección: RFXJ+634, Miguel Iglesias, Cajamarca 06001
+Teléfono: 
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.151999399999999
+Longitud: -78.5198118
+Google Maps: https://www.google.com/maps?cid=12764451602149729174
+Place Id: ChIJI8i6wtZbspERluPMahpxJLE
+Fotos: La casa del anticucho.jpg

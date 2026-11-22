@@ -1,0 +1,16 @@
+Nombre: Polleria El Pollo Magico
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Pollería
+Dirección: 060101, Cajamarca
+Teléfono: 928 562 104
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.187922299999999
+Longitud: -78.4796841
+Google Maps: https://www.google.com/maps?cid=6879474054924158264
+Place Id: ChIJ61n7ZAJbspEROEVFNTTNeF8
+Fotos: Polleria El Pollo Magico.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,16 @@
+Nombre: Polleria El capataz
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: jacarandá, Avenida Andres Cevallos esquina con jirón, Cajamarca
+Teléfono: 937 795 909
+Rating: 4.5
+Reseñas: 63
+Sitio web: 
+Latitud: -7.1528585
+Longitud: -78.5064458
+Google Maps: https://www.google.com/maps?cid=14476104046325023015
+Place Id: ChIJ4T1XyYJbspERJ0HMtO5z5cg
+Fotos: Polleria El capataz.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

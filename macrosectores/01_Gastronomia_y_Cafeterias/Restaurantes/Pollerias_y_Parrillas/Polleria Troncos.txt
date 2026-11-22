@@ -1,0 +1,16 @@
+Nombre: Polleria Troncos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Tienda de aves de corral
+Dirección: Av. La Paz 2188, Cajamarca 06003
+Teléfono: 
+Rating: 4
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1812860999999995
+Longitud: -78.4990246
+Google Maps: https://www.google.com/maps?cid=4556393527660044861
+Place Id: ChIJxa7_WwBbspERPeIQycWPOz8
+Fotos: Polleria Troncos.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,16 @@
+Nombre: Pollería el buen Pollo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Av. Vía de Evitamiento Sur 905, Cajamarca 06002
+Teléfono: 951 213 672
+Rating: 3.9
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1652955
+Longitud: -78.5025397
+Google Maps: https://www.google.com/maps?cid=322897129747108273
+Place Id: ChIJpxCmch5bspERsdGRjTopewQ
+Fotos: Pollería el buen Pollo.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

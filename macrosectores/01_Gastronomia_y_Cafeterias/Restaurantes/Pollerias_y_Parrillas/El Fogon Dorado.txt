@@ -1,0 +1,16 @@
+Nombre: El Fogon Dorado
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante, Restaurante especializado en pollo
+Dirección: Av. Hoyos Rubio 486, Cajamarca 06001
+Teléfono: 940 627 505
+Rating: 3.9
+Reseñas: 876
+Sitio web: https://grupofogondorado.com/
+Latitud: -7.1512671999999995
+Longitud: -78.51117579999999
+Google Maps: https://www.google.com/maps?cid=8915662567869183046
+Place Id: ChIJLcOORvBaspERRvQWR97Luns
+Fotos: El Fogon Dorado.jpg, El Fogon Dorado-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

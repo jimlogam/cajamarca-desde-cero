@@ -1,0 +1,15 @@
+Nombre: pollería yahuar chicken
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Tienda de aves de corral
+Dirección: cajamarca, Baños del Inca 06004
+Teléfono: 924 260 227
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.166506
+Longitud: -78.4616039
+Google Maps: https://www.google.com/maps?cid=17552597409889959056
+Place Id: ChIJ_SBps-NFspERkLzuvVhal_M
+Fotos: pollería yahuar chicken.jpg

@@ -1,0 +1,16 @@
+Nombre: Polleria y Restaurante Rico Norte
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Tienda de aves de corral
+Dirección: Prol. Revilla Perez 118, Cajamarca 06002
+Teléfono: 999 420 121
+Rating: 4.7
+Reseñas: 3
+Sitio web: https://www.facebook.com/profile.php?id=100063500709419&mibextid=ZbWKwL
+Latitud: -7.1479032
+Longitud: -78.5115466
+Google Maps: https://www.google.com/maps?cid=11762350310790725294
+Place Id: ChIJkdK4-PlaspERrv5ivklDPKM
+Fotos: Polleria y Restaurante Rico Norte.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

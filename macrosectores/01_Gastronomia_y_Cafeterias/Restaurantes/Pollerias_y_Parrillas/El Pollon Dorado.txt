@@ -1,0 +1,16 @@
+Nombre: El Pollon Dorado
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: VF2G+WQV, Av Vía de Evitamiento Nte, Cajamarca 06001
+Teléfono: 953 510 036
+Rating: 4
+Reseñas: 53
+Sitio web: 
+Latitud: -7.1476318
+Longitud: -78.5230651
+Google Maps: https://www.google.com/maps?cid=8105005120301935059
+Place Id: ChIJGeSmLl9aspER06lR-jbDenA
+Fotos: El Pollon Dorado.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

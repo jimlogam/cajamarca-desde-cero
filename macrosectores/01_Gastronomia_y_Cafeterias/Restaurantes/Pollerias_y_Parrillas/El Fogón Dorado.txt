@@ -1,0 +1,16 @@
+Nombre: El Fogón Dorado
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Amalia Puga 418, Cajamarca 06001
+Teléfono: (076) 506839
+Rating: 3.8
+Reseñas: 444
+Sitio web: https://free.facebook.com/ELFOGONDORADOCAJAMARCA/?_rdc=1&_rdr
+Latitud: -7.1553005
+Longitud: -78.5193228
+Google Maps: https://www.google.com/maps?cid=3292064664498402753
+Place Id: ChIJ_xppZ_haspERwfUKyV7Dry0
+Fotos: El Fogón Dorado.jpg, El Fogón Dorado-1.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

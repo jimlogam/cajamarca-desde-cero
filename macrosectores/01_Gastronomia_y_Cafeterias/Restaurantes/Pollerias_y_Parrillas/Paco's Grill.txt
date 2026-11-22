@@ -1,0 +1,16 @@
+Nombre: Paco's Grill
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en barbacoa, Restaurante
+Dirección: jr., Cinco Esquinas 815, Cajamarca
+Teléfono: 994 899 247
+Rating: 4.2
+Reseñas: 305
+Sitio web: 
+Latitud: -7.1577186
+Longitud: -78.51284129999999
+Google Maps: https://www.google.com/maps?cid=1228688607191451705
+Place Id: ChIJXTKKj_taspEROUg3Q8ctDRE
+Fotos: Paco's Grill.jpg, Paco's Grill-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

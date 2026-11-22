@@ -1,0 +1,16 @@
+Nombre: El dorado pollos y parrillas.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Jr.amazonas 909 Centro comercial Open plaza, Cajamarca 06000
+Teléfono: 923 671 813
+Rating: 3.8
+Reseñas: 628
+Sitio web: https://www.facebook.com/ElDoradoPollosYParrillas/
+Latitud: -7.157764599999999
+Longitud: -78.5145122
+Google Maps: https://www.google.com/maps?cid=12068124905211105984
+Place Id: ChIJq3VFNJlbspERwBInYKmXeqc
+Fotos: El dorado pollos y parrillas.jpg, El dorado pollos y parrillas-1.jpg, El dorado pollos y parrillas-2.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

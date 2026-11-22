@@ -1,0 +1,15 @@
+Nombre: Tasty Chicken
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: LI, CAJ, Jirón Olimpia N° 151, Cajamarca 06001
+Teléfono: 
+Rating: 2.6
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1490392
+Longitud: -78.50965719999999
+Google Maps: https://www.google.com/maps?cid=659588599397814509
+Place Id: ChIJoZqUmxlbspER7RABJVZUJwk
+Fotos: Tasty Chicken.jpg

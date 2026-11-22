@@ -1,0 +1,16 @@
+Nombre: Restaurante y pollería sabor norteño el rincón de juancito
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Tienda de aves de corral
+Dirección: JR, Sta. Catalina 303, Cajamarca 06003
+Teléfono: 916 286 726
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1785226
+Longitud: -78.5082491
+Google Maps: https://www.google.com/maps?cid=14839869674209497679
+Place Id: ChIJn7bKlvFbspERT1JZ_NfO8c0
+Fotos: Restaurante y pollería sabor norteño el rincón de juancito.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

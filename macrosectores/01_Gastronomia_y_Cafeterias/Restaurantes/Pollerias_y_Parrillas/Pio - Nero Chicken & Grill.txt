@@ -1,0 +1,16 @@
+Nombre: Pio - Nero Chicken & Grill
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante peruano, Pollería
+Dirección: Prol. Revilla Perez 517, Cajamarca 06001
+Teléfono: 967 070 922
+Rating: 5
+Reseñas: 1
+Sitio web: https://polleriapionero.com/
+Latitud: -7.148997199999999
+Longitud: -78.5120975
+Google Maps: https://www.google.com/maps?cid=17466841966590985963
+Place Id: ChIJ18bZ0cpbspER64aKrjmwZvI
+Fotos: Pio - Nero Chicken & Grill.jpg, Pio - Nero Chicken & Grill-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,15 @@
+Nombre: Pollos a la plancha Ricardo's
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo, Tienda de aves de corral
+Dirección: Jr. Sara MacDougall 473, Cajamarca 06001
+Teléfono: 933 043 450
+Rating: 4.8
+Reseñas: 6
+Sitio web: 
+Latitud: -7.150331899999999
+Longitud: -78.5210041
+Google Maps: https://www.google.com/maps?cid=4281082342724503160
+Place Id: ChIJp757E0dbspEReIZKZLV1aTs
+Fotos: Pollos a la plancha Ricardo's.jpg

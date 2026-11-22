@@ -1,0 +1,16 @@
+Nombre: Carozo's
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: la costa antes de transportes, Av. Independencia 706, Cajamarca 06002
+Teléfono: 976 933 020
+Rating: 3.9
+Reseñas: 181
+Sitio web: 
+Latitud: -7.1706471
+Longitud: -78.5120989
+Google Maps: https://www.google.com/maps?cid=17722351893016582714
+Place Id: ChIJNw4Y9wRbspEROpq5TyZx8vU
+Fotos: Carozo's.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

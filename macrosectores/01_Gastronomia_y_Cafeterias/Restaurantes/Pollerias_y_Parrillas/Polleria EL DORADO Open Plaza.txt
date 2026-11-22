@@ -1,0 +1,16 @@
+Nombre: Polleria EL DORADO Open Plaza
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Tienda de aves de corral
+Dirección: RFXV+9HV, Cajamarca 06002
+Teléfono: (076) 638773
+Rating: 2.7
+Reseñas: 23
+Sitio web: 
+Latitud: -7.151514199999999
+Longitud: -78.50608489999999
+Google Maps: https://www.google.com/maps?cid=1652272227616280191
+Place Id: ChIJXe6qDO9aspERf85PP9YM7hY
+Fotos: Polleria EL DORADO Open Plaza.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

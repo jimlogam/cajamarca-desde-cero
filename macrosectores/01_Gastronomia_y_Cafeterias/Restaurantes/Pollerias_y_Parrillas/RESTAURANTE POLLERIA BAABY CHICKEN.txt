@@ -1,0 +1,16 @@
+Nombre: RESTAURANTE POLLERIA BAABY CHICKEN
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Av Vía de Evitamiento Nte 174, Cajamarca 06001
+Teléfono: 917 577 239
+Rating: 4.1
+Reseñas: 38
+Sitio web: https://www.tiktok.com/@baaby.chicken7?_t=ZM-8uRfC7qSqXu&_r=1
+Latitud: -7.148067299999999
+Longitud: -78.52340509999999
+Google Maps: https://www.google.com/maps?cid=6364224855704065800
+Place Id: ChIJBUwrqXaas5ERCNfzgslEUlg
+Fotos: RESTAURANTE POLLERIA BAABY CHICKEN.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

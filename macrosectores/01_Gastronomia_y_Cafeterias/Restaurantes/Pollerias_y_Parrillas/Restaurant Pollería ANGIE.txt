@@ -1,0 +1,16 @@
+Nombre: Restaurant Pollería "ANGIE"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante peruano
+Dirección: Pasaje Chepén 953, Cajamarca 06001
+Teléfono: 976 340 727
+Rating: 4.3
+Reseñas: 13
+Sitio web: 
+Latitud: -7.1486306
+Longitud: -78.5184577
+Google Maps: https://www.google.com/maps?cid=4117497905440506241
+Place Id: ChIJhxN8kqlbspERgUEykYdKJDk
+Fotos: Restaurant Pollería ANGIE.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

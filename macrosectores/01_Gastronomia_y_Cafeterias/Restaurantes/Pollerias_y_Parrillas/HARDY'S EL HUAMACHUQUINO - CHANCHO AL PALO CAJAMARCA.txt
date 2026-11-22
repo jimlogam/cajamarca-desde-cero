@@ -1,0 +1,16 @@
+Nombre: HARDY'S EL HUAMACHUQUINO - CHANCHO AL PALO CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante peruano, Restaurante especializado en chuletas
+Dirección: AV. ATAHUALPA - BELLA UNIÓN, Cajamarca 06001
+Teléfono: 990 007 632
+Rating: 4.3
+Reseñas: 3
+Sitio web: https://www.tiktok.com/@hardys41?_r=1&_t=ZS-943vz9ZI1qb
+Latitud: -7.165099799999999
+Longitud: -78.4832074
+Google Maps: https://www.google.com/maps?cid=5293206709889069457
+Place Id: ChIJL4LlsgnlrZERkfGmQXU_dUk
+Fotos: HARDY'S EL HUAMACHUQUINO - CHANCHO AL PALO CAJAMARCA.jpg, HARDY'S EL HUAMACHUQUINO - CHANCHO AL PALO CAJAMARCA-1.jpg, HARDY'S EL HUAMACHUQUINO - CHANCHO AL PALO CAJAMARCA-2.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

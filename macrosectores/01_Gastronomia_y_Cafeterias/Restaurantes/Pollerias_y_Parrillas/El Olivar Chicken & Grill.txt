@@ -1,0 +1,16 @@
+Nombre: El Olivar Chicken & Grill
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Av. Hoyos Rubio 1356, Cajamarca 06001
+Teléfono: 984 770 415
+Rating: 3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.147700599999999
+Longitud: -78.5023058
+Google Maps: https://www.google.com/maps?cid=4094060196121202839
+Place Id: ChIJR1w1q_dbspERl9Deng4G0Tg
+Fotos: El Olivar Chicken & Grill.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

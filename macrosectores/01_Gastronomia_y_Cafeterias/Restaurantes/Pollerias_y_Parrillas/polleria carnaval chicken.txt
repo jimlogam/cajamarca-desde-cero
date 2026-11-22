@@ -1,0 +1,16 @@
+Nombre: polleria carnaval chicken
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Av San Martín de Porres 1079, Cajamarca 06003
+Teléfono: (076) 343312
+Rating: 3.9
+Reseñas: 79
+Sitio web: 
+Latitud: -7.1720293999999996
+Longitud: -78.5001489
+Google Maps: https://www.google.com/maps?cid=15327362562588093362
+Place Id: ChIJ17AzThhbspERsiuv9gq7tdQ
+Fotos: polleria carnaval chicken.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

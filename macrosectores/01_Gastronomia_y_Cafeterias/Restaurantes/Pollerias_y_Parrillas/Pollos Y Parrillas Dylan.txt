@@ -1,0 +1,16 @@
+Nombre: Pollos Y Parrillas Dylan
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Av. Perú N° 415, Cajamarca 06002
+Teléfono: 951 558 805
+Rating: 2.9
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1603216
+Longitud: -78.52384119999999
+Google Maps: https://www.google.com/maps?cid=16084495482971249826
+Place Id: ChIJr5yoTi5bspERolzgJWybN98
+Fotos: Pollos Y Parrillas Dylan.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

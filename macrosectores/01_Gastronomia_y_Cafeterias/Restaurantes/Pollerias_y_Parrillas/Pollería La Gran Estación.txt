@@ -1,0 +1,16 @@
+Nombre: Pollería La Gran Estación
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante, Restaurante peruano
+Dirección: Av. Atahualpa 201, Cajamarca 06002
+Teléfono: (076) 368162
+Rating: 3.7
+Reseñas: 300
+Sitio web: https://www.facebook.com/profile.php?id=6155468199154
+Latitud: -7.1654032
+Longitud: -78.50822869999999
+Google Maps: https://www.google.com/maps?cid=13148685023142250531
+Place Id: ChIJvcZJOx1bspERI4jkI12DebY
+Fotos: Pollería La Gran Estación.jpg, Pollería La Gran Estación-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

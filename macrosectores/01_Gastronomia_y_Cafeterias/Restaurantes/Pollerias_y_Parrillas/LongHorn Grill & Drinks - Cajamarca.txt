@@ -1,0 +1,16 @@
+Nombre: LongHorn Grill & Drinks - Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante, Parrilla, Zona de barbacoa, Restaurante peruano
+Dirección: Vía de Evitamiento Nte. Lote 1, Cajamarca 06002
+Teléfono: 
+Rating: 4
+Reseñas: 172
+Sitio web: http://delivery.longhorn.com.pe/
+Latitud: -7.1547068
+Longitud: -78.5059364
+Google Maps: https://www.google.com/maps?cid=15260739200563464482
+Place Id: ChIJYU2IpuVaspERIsl2s3IJydM
+Fotos: LongHorn Grill & Drinks - Cajamarca.jpg, LongHorn Grill & Drinks - Cajamarca-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

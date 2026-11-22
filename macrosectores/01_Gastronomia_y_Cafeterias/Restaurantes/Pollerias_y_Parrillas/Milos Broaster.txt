@@ -1,0 +1,16 @@
+Nombre: Milos Broaster
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: RFHW+VVF, Cajamarca 06003
+Teléfono: 998 693 121
+Rating: 3.9
+Reseñas: 45
+Sitio web: 
+Latitud: -7.170318699999999
+Longitud: -78.5028167
+Google Maps: https://www.google.com/maps?cid=16911748498958535171
+Place Id: ChIJx0bJnx5bspERA0orU6iZsuo
+Fotos: Milos Broaster.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

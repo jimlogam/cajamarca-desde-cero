@@ -1,0 +1,15 @@
+Nombre: Genaros Pollería hamburguesas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Chanchamayo 1511, Cajamarca 06001
+Teléfono: (076) 314519
+Rating: 3.7
+Reseñas: 20
+Sitio web: 
+Latitud: -7.1473973
+Longitud: -78.5228368
+Google Maps: https://www.google.com/maps?cid=409217772862584437
+Place Id: ChIJM5INd71bspERdTZAc2XVrQU
+Fotos: Genaros Pollería hamburguesas.jpg

@@ -1,0 +1,15 @@
+Nombre: El Fogoncito
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Jr. Sor Manuela Gil 530, Cajamarca 06001
+Teléfono: 990 311 980
+Rating: 4.2
+Reseñas: 44
+Sitio web: https://www.facebook.com/fogoncito.quiliche
+Latitud: -7.1454105
+Longitud: -78.5108489
+Google Maps: https://www.google.com/maps?cid=11872846005920325479
+Place Id: ChIJlzKFWPJaspERZ9_Lj4nSxKQ
+Fotos: El Fogoncito.jpg

@@ -1,0 +1,15 @@
+Nombre: Mulato anticuchero
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante de casquería
+Dirección: ex vía de evitamiento Ex vía de evitamiento a media cuadra de la UPN,al frente de colegio de ciencias, Av. Andrés Zevallos, Cajamarca 06002
+Teléfono: 983 238 764
+Rating: 4.3
+Reseñas: 26
+Sitio web: https://www.mulatoanticuchero.com.pe/
+Latitud: -7.1500338
+Longitud: -78.5065647
+Google Maps: https://www.google.com/maps?cid=6158049299737479766
+Place Id: ChIJjRAzsaFbspERVgoyHDbJdVU
+Fotos: Mulato anticuchero.jpg

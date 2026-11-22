@@ -1,0 +1,16 @@
+Nombre: RESTAURANT-POLLOS Y PARRILLAS CIELO AZUL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante peruano
+Dirección: Av. Vía de Evitamiento Sur 1112, Cajamarca 06003
+Teléfono: 960 348 268
+Rating: 3.3
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1687848
+Longitud: -78.5000216
+Google Maps: https://www.google.com/maps?cid=16823791515678749305
+Place Id: ChIJ_32XOQBbspEReTJDSz8deuk
+Fotos: RESTAURANT-POLLOS Y PARRILLAS CIELO AZUL.jpg, RESTAURANT-POLLOS Y PARRILLAS CIELO AZUL-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

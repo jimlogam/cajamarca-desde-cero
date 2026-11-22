@@ -1,0 +1,16 @@
+Nombre: POLLOS Y PARRILAS EL HAWAIANO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Av. Héroes del Cenepa 1480, Cajamarca 06003
+Teléfono: (076) 287353
+Rating: 3.8
+Reseñas: 92
+Sitio web: 
+Latitud: -7.1821581
+Longitud: -78.5018372
+Google Maps: https://www.google.com/maps?cid=10949082918599043872
+Place Id: ChIJSZjIupNbspERIKtkW-f08pc
+Fotos: POLLOS Y PARRILAS EL HAWAIANO.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

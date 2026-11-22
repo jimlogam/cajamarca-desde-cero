@@ -1,0 +1,16 @@
+Nombre: La Comarca Polleria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante, Tienda de aves de corral
+Dirección: Jr. Chepén 193 B, Cajamarca 06001
+Teléfono: 946 777 697
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1526083
+Longitud: -78.52215749999999
+Google Maps: https://www.google.com/maps?cid=12960102499275334794
+Place Id: ChIJayqnoslbspERimT1uY6I27M
+Fotos: La Comarca Polleria.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

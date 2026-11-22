@@ -1,0 +1,16 @@
+Nombre: Pollos Pluma De Oro
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Av. Héroes del Cenepa 1238, Cajamarca 06003
+Teléfono: 
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.180777399999999
+Longitud: -78.4999165
+Google Maps: https://www.google.com/maps?cid=17381849312863236663
+Place Id: ChIJWw2FuRVbspERN7KUaNu7OPE
+Fotos: Pollos Pluma De Oro.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

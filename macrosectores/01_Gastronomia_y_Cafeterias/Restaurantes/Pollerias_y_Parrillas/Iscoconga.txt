@@ -1,0 +1,16 @@
+Nombre: Iscoconga
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Pollería, Emanuel km8, Cajamarca 06001
+Teléfono: 931 047 690
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.148458499999999
+Longitud: -78.5272131
+Google Maps: https://www.google.com/maps?cid=6752571553782091789
+Place Id: ChIJeSZtlhNbspERDdCWLw30tV0
+Fotos: Iscoconga.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

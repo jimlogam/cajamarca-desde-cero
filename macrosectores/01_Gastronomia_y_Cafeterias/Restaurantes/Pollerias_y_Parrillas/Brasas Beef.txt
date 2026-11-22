@@ -1,0 +1,16 @@
+Nombre: Brasas Beef
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante, Parrilla, Pollería
+Dirección: Jr.Amazonas 679, Cajamarca 06001
+Teléfono: 976 901 010
+Rating: 4.7
+Reseñas: 761
+Sitio web: https://www.instagram.com/brasasbeef/?igsh=NTFjamV2eDJoaHI5&utm_source=qr#
+Latitud: -7.1563164
+Longitud: -78.5163714
+Google Maps: https://www.google.com/maps?cid=16303220646290370202
+Place Id: ChIJKfME0bdbspERmq7ztMysQOI
+Fotos: Brasas Beef.jpg, Brasas Beef-1.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

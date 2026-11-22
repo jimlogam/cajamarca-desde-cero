@@ -1,0 +1,16 @@
+Nombre: POLLERÍA DUBÁI
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo, Tienda de aves de corral
+Dirección: Av. Independencia 304, Cajamarca 06003
+Teléfono: 929 921 961
+Rating: 3.8
+Reseñas: 45
+Sitio web: 
+Latitud: -7.1651508999999995
+Longitud: -78.51160709999999
+Google Maps: https://www.google.com/maps?cid=14808759381803207585
+Place Id: ChIJLVXNn5dbspERoQudlDJIg80
+Fotos: POLLERÍA DUBÁI.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,16 @@
+Nombre: El Pollon Dorado
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Av San Martín de Porres 581, Cajamarca 06003
+Teléfono: 980 281 916
+Rating: 3.9
+Reseñas: 53
+Sitio web: 
+Latitud: -7.1673252
+Longitud: -78.5045686
+Google Maps: https://www.google.com/maps?cid=6987262074280218335
+Place Id: ChIJzbucPhxbspER3w4IIta992A
+Fotos: El Pollon Dorado_2.jpg, El Pollon Dorado_2-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

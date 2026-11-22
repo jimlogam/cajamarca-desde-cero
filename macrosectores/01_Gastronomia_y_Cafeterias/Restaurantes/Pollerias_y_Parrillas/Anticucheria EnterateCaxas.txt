@@ -1,0 +1,16 @@
+Nombre: Anticucheria EnterateCaxas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante de casquería
+Dirección: jr, Jirón Silva Santisteban 322, Cajamarca 06001
+Teléfono: 976 620 490
+Rating: 4.4
+Reseñas: 9
+Sitio web: https://www.facebook.com/anticuchosparrillasenteratecaxas?mibextid=LQQJ4d
+Latitud: -7.1602985
+Longitud: -78.51574389999999
+Google Maps: https://www.google.com/maps?cid=9780308034619391563
+Place Id: ChIJAyteXoZbspERSz5j1Vaiuoc
+Fotos: Anticucheria EnterateCaxas.jpg, Anticucheria EnterateCaxas-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

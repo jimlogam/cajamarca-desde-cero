@@ -1,0 +1,16 @@
+Nombre: Polleria El Castillo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Hermano Miguel Carducci 285, Cajamarca 06001
+Teléfono: 917 922 845
+Rating: 4.9
+Reseñas: 8
+Sitio web: 
+Latitud: -7.141113799999999
+Longitud: -78.5258978
+Google Maps: https://www.google.com/maps?cid=17655277056593329170
+Place Id: ChIJFwGsUshbspEREnxZ-fAkBPU
+Fotos: Polleria El Castillo.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

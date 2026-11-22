@@ -1,0 +1,15 @@
+Nombre: LA DELICIA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Parrilla
+Dirección: 13 De Julio 620, Cajamarca 06001
+Teléfono: 943 334 693
+Rating: 4.7
+Reseñas: 18
+Sitio web: https://www.facebook.com/pg/La-Delicia-147927892469274/community/
+Latitud: -7.149824
+Longitud: -78.52547249999999
+Google Maps: https://www.google.com/maps?cid=5018774617313171514
+Place Id: ChIJkZ8hpntbspEROtiygOxEpkU
+Fotos: LA DELICIA.jpg

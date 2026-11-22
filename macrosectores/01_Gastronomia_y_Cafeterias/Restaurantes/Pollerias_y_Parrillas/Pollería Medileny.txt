@@ -1,0 +1,16 @@
+Nombre: Pollería Medileny
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Jr, Chanchamayo 1527, Cajamarca
+Teléfono: 941 532 648
+Rating: 4
+Reseñas: 787
+Sitio web: https://m.facebook.com/pages/category/Fast-Food-Restaurant/Medileny-Chicken-135085193261823/?locale2=es_LA
+Latitud: -7.1472112
+Longitud: -78.5229799
+Google Maps: https://www.google.com/maps?cid=4242776366293145704
+Place Id: ChIJdxNzJV9aspERaFhTPqBe4To
+Fotos: Pollería Medileny.jpg, Pollería Medileny-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

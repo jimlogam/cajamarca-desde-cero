@@ -1,0 +1,16 @@
+Nombre: Palacio del cuy restaurant pollería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante familiar
+Dirección: Av. Hoyos Rubio 1356, Cajamarca 06001
+Teléfono: 
+Rating: 3.6
+Reseñas: 13
+Sitio web: 
+Latitud: -7.1476804
+Longitud: -78.5022559
+Google Maps: https://www.google.com/maps?cid=4381014700149327887
+Place Id: ChIJdVCVCGBbspERD0gqfqh9zDw
+Fotos: Palacio del cuy restaurant pollería.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

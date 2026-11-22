@@ -1,0 +1,15 @@
+Nombre: Pollos y Parrillas la Gran Brasa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Los Fresnos 357, Cajamarca 06001
+Teléfono: 
+Rating: 3.8
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1476337
+Longitud: -78.51388089999999
+Google Maps: https://www.google.com/maps?cid=4953062700757549325
+Place Id: ChIJmQV-ZxtbspERDQHkrEjQvEQ
+Fotos: Pollos y Parrillas la Gran Brasa.jpg

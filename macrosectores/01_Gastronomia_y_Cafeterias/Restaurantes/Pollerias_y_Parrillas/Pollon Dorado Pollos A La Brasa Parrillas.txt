@@ -1,0 +1,16 @@
+Nombre: Pollon Dorado Pollos A La Brasa Parrillas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Av San Martín de Porres 1047, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1718386
+Longitud: -78.5005599
+Google Maps: https://www.google.com/maps?cid=12598169205426366561
+Place Id: ChIJ83V7UhhbspERYSi09SSw1a4
+Fotos: Pollon Dorado Pollos A La Brasa Parrillas.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

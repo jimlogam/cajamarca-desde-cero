@@ -1,0 +1,16 @@
+Nombre: Restaurant-polleria la sazón del abuelo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Av. Vía de Evitamiento Sur 2160, Cajamarca 06001
+Teléfono: 940 443 168
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1751429
+Longitud: -78.4910621
+Google Maps: https://www.google.com/maps?cid=563243524436568880
+Place Id: ChIJneOtnsVbspERMKsUVAAL0Qc
+Fotos: Restaurant-polleria la sazón del abuelo.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

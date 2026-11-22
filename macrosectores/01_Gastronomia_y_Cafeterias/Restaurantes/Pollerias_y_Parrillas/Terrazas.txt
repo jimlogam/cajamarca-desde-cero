@@ -1,0 +1,16 @@
+Nombre: Terrazas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante de alas de pollo
+Dirección: Av. Independencia 532, Cajamarca 06002
+Teléfono: 912 215 203
+Rating: 4.1
+Reseñas: 9
+Sitio web: 
+Latitud: -7.1685333
+Longitud: -78.5113456
+Google Maps: https://www.google.com/maps?cid=6769663806264653501
+Place Id: ChIJeS39bg5bspERvTY5VV2t8l0
+Fotos: Terrazas.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

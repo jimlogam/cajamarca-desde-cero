@@ -1,0 +1,16 @@
+Nombre: Polleria Dolce Capriccio
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Jr. Emancipación 125, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.167758
+Longitud: -78.50743899999999
+Google Maps: https://www.google.com/maps?cid=1343871742835057766
+Place Id: ChIJffmxg-ZbspERZmRe3zpkphI
+Fotos: Polleria Dolce Capriccio.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

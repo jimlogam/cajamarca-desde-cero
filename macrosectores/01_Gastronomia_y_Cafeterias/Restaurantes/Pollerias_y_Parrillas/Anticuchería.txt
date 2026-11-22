@@ -1,0 +1,15 @@
+Nombre: Anticuchería
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en barbacoa
+Dirección: Túpac Amaru 803-769, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.175982299999999
+Longitud: -78.50641999999999
+Google Maps: https://www.google.com/maps?cid=7805954918972726150
+Place Id: ChIJKz1PGwBbspERhhsVHqRSVGw
+Fotos: Anticuchería.jpg

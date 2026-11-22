@@ -1,0 +1,16 @@
+Nombre: Max's Chicken - Pollería & Parrillas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Spa, Pub restaurante, Restaurante peruano
+Dirección: Vía de Evitamiento Nte. 2240, Cajamarca 06002
+Teléfono: 921 661 974
+Rating: 5
+Reseñas: 3
+Sitio web: https://www.facebook.com/maxschicken.pe
+Latitud: -7.1555786999999995
+Longitud: -78.50871889999999
+Google Maps: https://www.google.com/maps?cid=5034222307892359851
+Place Id: ChIJTyeyl-BbspERq3JFPoQm3UU
+Fotos: Max's Chicken - Pollería & Parrillas.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

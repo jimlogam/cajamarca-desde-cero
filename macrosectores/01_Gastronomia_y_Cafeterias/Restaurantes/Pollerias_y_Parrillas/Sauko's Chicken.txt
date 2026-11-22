@@ -1,0 +1,16 @@
+Nombre: Sauko's Chicken
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Pollería
+Dirección: Av. Manco Cápac 644, Baños del Inca 06004
+Teléfono: 958 612 635
+Rating: 3
+Reseñas: 44
+Sitio web: 
+Latitud: -7.1637714
+Longitud: -78.4637532
+Google Maps: https://www.google.com/maps?cid=14656202341990701001
+Place Id: ChIJMaEHVKdFspERyZeazmBKZcs
+Fotos: Sauko's Chicken.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

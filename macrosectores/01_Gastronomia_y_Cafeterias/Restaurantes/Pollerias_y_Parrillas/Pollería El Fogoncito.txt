@@ -1,0 +1,16 @@
+Nombre: Pollería El Fogoncito
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Tienda de aves de corral
+Dirección: Los Girasoles 381-327, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1693858
+Longitud: -78.5001422
+Google Maps: https://www.google.com/maps?cid=4065366900758868887
+Place Id: ChIJqSmgIDtbspERl_NcMagVazg
+Fotos: Pollería El Fogoncito.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,16 @@
+Nombre: Mr. Grill - Mega Plaza
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Parrilla
+Dirección: Jr. Sor Manuela Gil, Cajamarca 06001
+Teléfono: 968 749 403
+Rating: 4.2
+Reseñas: 315
+Sitio web: http://www.mrgrill.pe/
+Latitud: -7.1481908
+Longitud: -78.5093538
+Google Maps: https://www.google.com/maps?cid=1387591481168550383
+Place Id: ChIJ_zRP_fFaspER79losBm3QRM
+Fotos: Mr. Grill - Mega Plaza.jpg, Mr. Grill - Mega Plaza-1.jpg, Mr. Grill - Mega Plaza-2.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

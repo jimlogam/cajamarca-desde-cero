@@ -1,0 +1,15 @@
+Nombre: Pollería KAEL CHICKEN
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Tienda de aves de corral
+Dirección: Av. Perú 901, Cajamarca 06002
+Teléfono: 936 839 163
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.160919499999999
+Longitud: -78.5198467
+Google Maps: https://www.google.com/maps?cid=11408083148881297193
+Place Id: ChIJGVrCQLVbspERKX8waS6nUZ4
+Fotos: Pollería KAEL CHICKEN.jpg

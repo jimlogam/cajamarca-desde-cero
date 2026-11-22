@@ -1,0 +1,16 @@
+Nombre: Pollería El Colorao
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Prol. Revilla Perez 605, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.143573399999999
+Longitud: -78.5103986
+Google Maps: https://www.google.com/maps?cid=7951985769149228425
+Place Id: ChIJSylwvvJaspERieUZ9ewgW24
+Fotos: Pollería El Colorao.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

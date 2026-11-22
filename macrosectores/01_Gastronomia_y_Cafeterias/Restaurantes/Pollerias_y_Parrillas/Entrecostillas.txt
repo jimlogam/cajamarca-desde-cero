@@ -1,0 +1,16 @@
+Nombre: Entrecostillas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Parrilla, Pollería, Coctelería, Tienda de artículos para barbacoas, Hamburguesería
+Dirección: Av. Andrés Zevallos A-2, Cajamarca 06002
+Teléfono: (076) 620005
+Rating: 4
+Reseñas: 195
+Sitio web: 
+Latitud: -7.153738
+Longitud: -78.5063023
+Google Maps: https://www.google.com/maps?cid=6026129936996147445
+Place Id: ChIJ3aCuneVaspER9aAA-T8doVM
+Fotos: Entrecostillas.jpg, Entrecostillas-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

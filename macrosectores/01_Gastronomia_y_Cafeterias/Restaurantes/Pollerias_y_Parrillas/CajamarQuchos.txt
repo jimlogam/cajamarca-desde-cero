@@ -1,0 +1,16 @@
+Nombre: CajamarQuchos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante de casquería
+Dirección: Av. Hoyos Rubio 1300, Cajamarca 06001
+Teléfono: 965 681 934
+Rating: 4.3
+Reseñas: 227
+Sitio web: 
+Latitud: -7.1490179
+Longitud: -78.51902539999999
+Google Maps: https://www.google.com/maps?cid=8014003785553659462
+Place Id: ChIJ2zrE_C1bspERRsaPovt1N28
+Fotos: CajamarQuchos.jpg, CajamarQuchos-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -1,0 +1,15 @@
+Nombre: La Tranquera Broaster
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: José Quiñones 1010, Cajamarca 06002
+Teléfono: 997 039 936
+Rating: 3.3
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1705226
+Longitud: -78.5141455
+Google Maps: https://www.google.com/maps?cid=14711700448177751210
+Place Id: ChIJW-9y2XlbspERqgSXl5x1Ksw
+Fotos: La Tranquera Broaster.jpg

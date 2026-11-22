@@ -1,0 +1,15 @@
+Nombre: Pollería Copacabana
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Jr. Dinamarca Mz R1 Lt2, Baños del Inca, Cajamarca 06001
+Teléfono: 980 428 529
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.160211599999999
+Longitud: -78.508696
+Google Maps: https://www.google.com/maps?cid=8544507344452424986
+Place Id: ChIJhRIZfFdbspERGpXNtigwlHY
+Fotos: Sin foto en Maps

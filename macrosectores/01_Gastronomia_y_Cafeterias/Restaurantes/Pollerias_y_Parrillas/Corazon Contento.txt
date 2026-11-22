@@ -1,0 +1,16 @@
+Nombre: Corazon Contento
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante de casquería
+Dirección: Miguel Grau 295, Cajamarca 06002
+Teléfono: 931 994 849
+Rating: 4.2
+Reseñas: 84
+Sitio web: 
+Latitud: -7.1546682
+Longitud: -78.51258399999999
+Google Maps: https://www.google.com/maps?cid=16809431014000685935
+Place Id: ChIJyViKW_paspERb_PxcXIYR-k
+Fotos: Corazon Contento.jpg, Corazon Contento-1.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

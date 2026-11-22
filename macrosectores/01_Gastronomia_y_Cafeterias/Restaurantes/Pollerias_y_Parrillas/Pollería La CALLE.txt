@@ -1,0 +1,15 @@
+Nombre: Pollería La CALLE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Tienda de aves de corral
+Dirección: Av. Héroes del Cenepa 775, Cajamarca 06003
+Teléfono: 902 443 835
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1791298
+Longitud: -78.49728929999999
+Google Maps: https://www.google.com/maps?cid=17352123525099100504
+Place Id: ChIJzbXUFMZbspERWBk7HGkgz_A
+Fotos: Pollería La CALLE.jpg

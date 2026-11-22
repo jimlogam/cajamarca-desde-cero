@@ -1,0 +1,16 @@
+Nombre: LOVELY CHICKEN
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo, Restaurante especializado en chuletas
+Dirección: Av. Moyococha A13, Cajamarca 06002
+Teléfono: 980 194 800
+Rating: 4.1
+Reseñas: 15
+Sitio web: https://instagram.com/lovely.chicken.grill?utm_medium=copy_link
+Latitud: -7.1407007
+Longitud: -78.5174717
+Google Maps: https://www.google.com/maps?cid=2733430015776913712
+Place Id: ChIJ-eJN009bspERMPnF9B0Y7yU
+Fotos: LOVELY CHICKEN.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

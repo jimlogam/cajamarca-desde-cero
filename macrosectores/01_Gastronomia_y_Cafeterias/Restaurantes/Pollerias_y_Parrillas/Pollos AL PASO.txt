@@ -1,0 +1,16 @@
+Nombre: Pollos "AL PASO"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Jirón Silva Santisteban 488, Cajamarca 06002
+Teléfono: 993 048 730
+Rating: 4
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1608247
+Longitud: -78.5150259
+Google Maps: https://www.google.com/maps?cid=15195797077345017743
+Place Id: ChIJ0x6DC2pbspERj58RWu5Q4tI
+Fotos: Pollos AL PASO.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

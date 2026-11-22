@@ -1,0 +1,16 @@
+Nombre: EL RANCHO (Sede Atahualpa)
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Parrilla
+Dirección: Av. Atahualpa 203, Cajamarca 00602
+Teléfono: 940 509 157
+Rating: 4.8
+Reseñas: 52
+Sitio web: 
+Latitud: -7.165483
+Longitud: -78.5081663
+Google Maps: https://www.google.com/maps?cid=9231314897803444270
+Place Id: ChIJ62OplztbspERLoBYbf03HIA
+Fotos: EL RANCHO (Sede Atahualpa).jpg, EL RANCHO (Sede Atahualpa)-1.jpg, EL RANCHO (Sede Atahualpa)-2.jpg
+Nota: Aparecia 4 veces en los 5 archivos; fusionado en uno.

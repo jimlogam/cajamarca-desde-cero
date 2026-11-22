@@ -1,0 +1,16 @@
+Nombre: Polleria Prados
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: VF4G+C2H, Jr. Francisco Gallardo, Cajamarca 06001
+Teléfono: 980 348 224
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.143930999999999
+Longitud: -78.52489539999999
+Google Maps: https://www.google.com/maps?cid=6584487966899950058
+Place Id: ChIJW-KIFV5aspER6tHnduvMYFs
+Fotos: Polleria Prados.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

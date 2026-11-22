@@ -1,0 +1,16 @@
+Nombre: Entre Pollos & Costillas Food Drinks
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante peruano
+Dirección: 06001, Cajamarca 06001
+Teléfono: 965 100 804
+Rating: 4.5
+Reseñas: 17
+Sitio web: 
+Latitud: -7.151440999999999
+Longitud: -78.51143979999999
+Google Maps: https://www.google.com/maps?cid=10287890508738015729
+Place Id: ChIJVy-gmZ9bspER8TFx_ejtxY4
+Fotos: Entre Pollos & Costillas Food Drinks.jpg, Entre Pollos & Costillas Food Drinks-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

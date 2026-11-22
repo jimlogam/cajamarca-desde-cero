@@ -1,0 +1,15 @@
+Nombre: Kankay Parrilladas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Jr. Silva Santisteban 327
+Teléfono: (076) 345838
+Rating: 4.4
+Reseñas: 13
+Sitio web: https://es.foursquare.com/v/kankay-parrilladas/4da8e8bb5da3ba8a4765075f
+Latitud: -7.158436
+Longitud: -78.5152336
+Google Maps: https://www.google.com/maps?cid=5477132478920318550
+Place Id: ChIJS7A_q_5aspERVt7McfiuAkw
+Fotos: Kankay Parrilladas.jpg

@@ -1,0 +1,16 @@
+Nombre: Polleria "Los Sabores de Doña Male"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: RFWJ+CJ6, Jr. Tarapacá, Cajamarca 06001
+Teléfono: 950 205 764
+Rating: 4
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1539674
+Longitud: -78.5184834
+Google Maps: https://www.google.com/maps?cid=4878664959661520690
+Place Id: ChIJHwiLMPhaspERMjfFuu5_tEM
+Fotos: Polleria Los Sabores de Doña Male.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

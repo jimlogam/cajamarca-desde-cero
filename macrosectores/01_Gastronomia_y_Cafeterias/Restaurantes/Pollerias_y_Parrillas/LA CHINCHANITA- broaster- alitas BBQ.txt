@@ -1,0 +1,15 @@
+Nombre: LA CHINCHANITA- broaster- alitas BBQ
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: VG6C+WPF, Cajamarca 06000
+Teléfono: 994 147 454
+Rating: 4.7
+Reseñas: 12
+Sitio web: 
+Latitud: -7.1376903
+Longitud: -78.4781876
+Google Maps: https://www.google.com/maps?cid=17216171441671896518
+Place Id: ChIJI08vCQ5bspERxv0TBbYg7O4
+Fotos: LA CHINCHANITA- broaster- alitas BBQ.jpg

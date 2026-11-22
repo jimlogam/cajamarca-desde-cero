@@ -1,0 +1,16 @@
+Nombre: POLLERÍA GOLDEN CHICKEN
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Tienda de aves de corral
+Dirección: Av Vía de Evitamiento Nte 186-188, Cajamarca 06001
+Teléfono: (076) 313505
+Rating: 3.8
+Reseñas: 72
+Sitio web: 
+Latitud: -7.1480827
+Longitud: -78.5232407
+Google Maps: https://www.google.com/maps?cid=6775310999568085233
+Place Id: ChIJBZRPK19aspER8XAN_HS9Bl4
+Fotos: POLLERÍA GOLDEN CHICKEN.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

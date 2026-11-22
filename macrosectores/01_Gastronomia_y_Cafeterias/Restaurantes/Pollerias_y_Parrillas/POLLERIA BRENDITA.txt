@@ -1,0 +1,16 @@
+Nombre: POLLERIA BRENDITA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: VF2F+7C3, Prol. Avenida Perú, Cajamarca 06001
+Teléfono: 953 966 540
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.149360199999999
+Longitud: -78.5264402
+Google Maps: https://www.google.com/maps?cid=12293181176749257995
+Place Id: ChIJUYd9DTVbspERC3Wo7yUnmqo
+Fotos: POLLERIA BRENDITA.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

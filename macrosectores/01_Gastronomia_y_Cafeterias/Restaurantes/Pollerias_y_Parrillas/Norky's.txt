@@ -1,0 +1,16 @@
+Nombre: Norky's
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo, Tienda de aves de corral
+Dirección: Vía de Evitamiento Nte. 2254, Cajamarca 06002
+Teléfono: (076) 363825
+Rating: 3.8
+Reseñas: 562
+Sitio web: http://norkys.pe/
+Latitud: -7.154109999999999
+Longitud: -78.5060348
+Google Maps: https://www.google.com/maps?cid=12517198472896503558
+Place Id: ChIJQZ-NmOVaspERBt8OMLEFtq0
+Fotos: Norky's.jpg, Norky's-1.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

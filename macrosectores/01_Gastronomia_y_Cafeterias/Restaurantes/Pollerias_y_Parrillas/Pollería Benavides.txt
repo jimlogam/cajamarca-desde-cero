@@ -1,0 +1,16 @@
+Nombre: Pollería Benavides
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Jirón Silva Santisteban 444, Cajamarca 06002
+Teléfono: 984 034 240
+Rating: 4.3
+Reseñas: 29
+Sitio web: 
+Latitud: -7.1607214
+Longitud: -78.5151374
+Google Maps: https://www.google.com/maps?cid=11031795659192014313
+Place Id: ChIJMWdjK_JbspER6RXW_LPPGJk
+Fotos: Pollería Benavides.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

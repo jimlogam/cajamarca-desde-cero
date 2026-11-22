@@ -1,0 +1,16 @@
+Nombre: Restaurant Polleria Horna's Chicken
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Av. Héroes del Cenepa 208, Cajamarca 06000
+Teléfono: 995 845 042
+Rating: 
+Reseñas: 
+Sitio web: https://maps.app.goo.gl/mP7Nj
+Latitud: -7.175242099999999
+Longitud: -78.4921698
+Google Maps: https://www.google.com/maps?cid=18256220868481573324
+Place Id: ChIJe97tpDdbspERzOHqficgW_0
+Fotos: Restaurant Polleria Horna's Chicken.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

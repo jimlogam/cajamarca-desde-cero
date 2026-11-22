@@ -1,0 +1,16 @@
+Nombre: Restaurant.Polleria Caleb
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante peruano
+Dirección: Av Vía de Evitamiento Nte 1845, Cajamarca 06001
+Teléfono: 943 685 041
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1452298999999995
+Longitud: -78.50896759999999
+Google Maps: https://www.google.com/maps?cid=18117722222750330560
+Place Id: ChIJw_7HqqlbspERwO47ql4Ub_s
+Fotos: Restaurant.Polleria Caleb.jpg
+Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

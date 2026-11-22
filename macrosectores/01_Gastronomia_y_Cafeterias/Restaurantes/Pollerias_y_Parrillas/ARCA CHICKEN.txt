@@ -1,0 +1,16 @@
+Nombre: ARCA CHICKEN
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Pollería
+Dirección: 06003, Jr. Alfonso Ugarte 1444, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/ElArcaChicken
+Latitud: -7.178882
+Longitud: -78.50769079999999
+Google Maps: https://www.google.com/maps?cid=7086500533451398895
+Place Id: ChIJvVaiCZlbspER7578dLBOWGI
+Fotos: ARCA CHICKEN.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

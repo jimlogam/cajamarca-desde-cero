@@ -1,0 +1,16 @@
+Nombre: Pollos y Parrillas La Alameda
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Jr. Sor Manuela Gil 374, Cajamarca 06001
+Teléfono: (076) 775868
+Rating: 4.4
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1464554
+Longitud: -78.510374
+Google Maps: https://www.google.com/maps?cid=1951626325718456956
+Place Id: ChIJ_fORUfJbspERfNq_ls2RFRs
+Fotos: Pollos y Parrillas La Alameda.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

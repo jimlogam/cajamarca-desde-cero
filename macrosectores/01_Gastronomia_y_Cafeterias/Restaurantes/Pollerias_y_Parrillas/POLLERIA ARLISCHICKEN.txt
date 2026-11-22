@@ -1,0 +1,16 @@
+Nombre: POLLERIA ARLISCHICKEN
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Pollería
+Dirección: Jirón Puno 240, Cajamarca 06001
+Teléfono: 951 213 672
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1513393
+Longitud: -78.5232733
+Google Maps: https://www.google.com/maps?cid=697627344073187542
+Place Id: ChIJEUn3AQhbspER1uAUjV94rgk
+Fotos: POLLERIA ARLISCHICKEN.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

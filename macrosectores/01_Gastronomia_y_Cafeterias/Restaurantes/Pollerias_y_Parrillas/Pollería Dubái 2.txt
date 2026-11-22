@@ -1,0 +1,16 @@
+Nombre: Pollería Dubái 2
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: 06001, Cajamarca 06002
+Teléfono: 991 496 346
+Rating: 3.1
+Reseñas: 8
+Sitio web: https://wa.me/51991496346
+Latitud: -7.1521041
+Longitud: -78.52275379999999
+Google Maps: https://www.google.com/maps?cid=4589616628645311561
+Place Id: ChIJ92TnXlRbspERSTShxQGYsT8
+Fotos: Pollería Dubái 2.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

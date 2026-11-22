@@ -1,0 +1,15 @@
+Nombre: Pollería César Vallejo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante especializado en pollo
+Dirección: Av. Perú 421, Cajamarca 06001
+Teléfono: 918 699 582
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1600486
+Longitud: -78.5237344
+Google Maps: https://www.google.com/maps?cid=1932506373927886457
+Place Id: ChIJG_Jiy_lbspEReV4m6E6k0Ro
+Fotos: Pollería César Vallejo.jpg

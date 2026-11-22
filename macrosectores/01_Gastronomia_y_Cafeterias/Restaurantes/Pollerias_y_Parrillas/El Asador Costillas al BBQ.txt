@@ -1,0 +1,16 @@
+Nombre: El Asador Costillas al BBQ
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Parrilla
+Dirección: Jr, Prol. Revilla Perez 352, Cajamarca
+Teléfono: 912 421 447
+Rating: 4.2
+Reseñas: 1474
+Sitio web: http://www.elasadorcarnesalcilindro.com/
+Latitud: -7.1508161999999995
+Longitud: -78.51269599999999
+Google Maps: https://www.google.com/maps?cid=13577579829316382448
+Place Id: ChIJt_hi-vBaspER8G7p6-pAbbw
+Fotos: El Asador Costillas al BBQ.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

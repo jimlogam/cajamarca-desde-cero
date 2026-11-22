@@ -1,0 +1,16 @@
+Nombre: Polleria brasa dorada
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Angamos 1188, Cajamarca 06002
+Teléfono: 967 121 041
+Rating: 
+Reseñas: 
+Sitio web: https://wa.me/51967121041
+Latitud: -7.145800299999999
+Longitud: -78.5246098
+Google Maps: https://www.google.com/maps?cid=725965290008706828
+Place Id: ChIJIWaPpSRbspERDH87vpUlEwo
+Fotos: Polleria brasa dorada.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

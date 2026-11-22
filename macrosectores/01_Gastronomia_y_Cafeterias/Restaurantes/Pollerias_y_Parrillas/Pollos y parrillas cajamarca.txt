@@ -1,0 +1,16 @@
+Nombre: Pollos y parrillas cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Comercio
+Dirección: Jr, Jirón Huancavelica 326, Cajamarca 06001
+Teléfono: 910 269 318
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.149021899999999
+Longitud: -78.5205615
+Google Maps: https://www.google.com/maps?cid=648614479939167023
+Place Id: ChIJKxzfJDtbspERL-Py2G5XAAk
+Fotos: Pollos y parrillas cajamarca.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

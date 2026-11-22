@@ -1,0 +1,16 @@
+Nombre: Polleria La Recoleta
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Av. Héroes de San Ramón 160, Cajamarca 06002
+Teléfono: 953 966 540
+Rating: 3.7
+Reseñas: 39
+Sitio web: 
+Latitud: -7.1615445
+Longitud: -78.51333489999999
+Google Maps: https://www.google.com/maps?cid=442317192859391169
+Place Id: ChIJ_b8Xt_1aspERwZRutiRtIwY
+Fotos: Polleria La Recoleta.jpg
+Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

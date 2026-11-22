@@ -1,0 +1,15 @@
+Nombre: Anticuchos Ña Catina
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Restaurante
+Dirección: Av. Independencia 678, Cajamarca 06002
+Teléfono: 961 059 447
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1704785
+Longitud: -78.5117856
+Google Maps: https://www.google.com/maps?cid=3171726150224462049
+Place Id: ChIJrf49-2pbspER4UDyDCE8BCw
+Fotos: Anticuchos Ña Catina.jpg

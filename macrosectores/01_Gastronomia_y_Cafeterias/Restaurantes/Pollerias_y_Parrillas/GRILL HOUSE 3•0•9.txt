@@ -1,0 +1,15 @@
+Nombre: GRILL HOUSE 3•0•9
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Hamburguesería
+Dirección: Romero 309, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1618654
+Longitud: -78.514213
+Google Maps: https://www.google.com/maps?cid=2371849837126876043
+Place Id: ChIJozBok9FbspERi_uDOtyA6iA
+Fotos: GRILL HOUSE 3•0•9.jpg
