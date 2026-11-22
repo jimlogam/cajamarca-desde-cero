@@ -1,0 +1,17 @@
+Nombre: Urbano Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficina de correos
+Dirección: Pje. Los Cartuchos 433, Cajamarca 06003
+Teléfono: 
+Rating: 2
+Reseñas: 39
+Sitio web: 
+Latitud: -7.171561
+Longitud: -78.4969705
+Google Maps: https://www.google.com/maps?cid=9336669600371535503
+Place Id: ChIJAW9WY9tbspERj25Vo4iDkoE
+Fotos: Urbano Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Hotel Casona del Inca Cajamarca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Dos de Mayo 460, Cajamarca 06002
+Teléfono: 935 865 869
+Rating: 4.3
+Reseñas: 138
+Sitio web: https://seguriape.my.canva.site/casonadelincacajamarca
+Latitud: -7.1576194
+Longitud: -78.517059
+Google Maps: https://www.google.com/maps?cid=2681803053801536593
+Place Id: ChIJ6c3YOvlaspERUfxlK6utNyU
+Fotos: Hotel Casona del Inca Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

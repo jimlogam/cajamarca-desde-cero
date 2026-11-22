@@ -1,0 +1,17 @@
+Nombre: Andrea´s Dulces Recuerdos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: RFQQ+VMJ, Las Orquideas, Cajamarca 06002
+Teléfono: 943 210 344
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/dulcesrecuerdos2230
+Latitud: -7.1602805
+Longitud: -78.5108608
+Google Maps: https://www.google.com/maps?cid=10839909010963778453
+Place Id: ChIJhz5MICpbspERlUsNLNAXb5Y
+Fotos: Andrea´s Dulces Recuerdos.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

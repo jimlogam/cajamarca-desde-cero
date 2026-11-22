@@ -1,0 +1,17 @@
+Nombre: Pionier Store
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: RFVM+Q35 Del Batán, Cajamarca 06001
+Teléfono: 
+Rating: 3.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1556035
+Longitud: -78.5172541
+Google Maps: https://www.google.com/maps?cid=13956868052310155340
+Place Id: ChIJ2dLno_laspERTODxAozBsME
+Fotos: Pionier Store.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

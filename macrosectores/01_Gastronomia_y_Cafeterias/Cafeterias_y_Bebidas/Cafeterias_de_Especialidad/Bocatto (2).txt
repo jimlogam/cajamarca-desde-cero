@@ -1,0 +1,17 @@
+Nombre: Bocatto
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jirón Cruz de Piedra 650, Cajamarca 06001
+Teléfono: 935 040 019
+Rating: 3.9
+Reseñas: 7
+Sitio web: 
+Latitud: -7.157608
+Longitud: -78.51862469999999
+Google Maps: https://www.google.com/maps?cid=13478673963690696515
+Place Id: ChIJ_TjnfwBbspERQx8XkY7eDbs
+Fotos: Bocatto (2).jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

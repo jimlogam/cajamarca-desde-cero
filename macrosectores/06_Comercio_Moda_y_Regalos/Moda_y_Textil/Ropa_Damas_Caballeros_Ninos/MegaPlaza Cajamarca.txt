@@ -1,0 +1,17 @@
+Nombre: MegaPlaza Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Av. Hoyos Rubio, Cajamarca 06001
+Teléfono: 6139500
+Rating: 4.4
+Reseñas: 416
+Sitio web: https://www.megaplaza.com.pe/cajamarca
+Latitud: -7.149686699999999
+Longitud: -78.50952529999999
+Google Maps: https://www.google.com/maps?cid=7957283417105340562
+Place Id: ChIJRT9e_xxbspERkpirvRvzbW4
+Fotos: MegaPlaza Cajamarca.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

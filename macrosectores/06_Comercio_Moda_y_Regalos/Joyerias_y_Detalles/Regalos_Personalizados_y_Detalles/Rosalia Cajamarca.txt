@@ -1,0 +1,17 @@
+Nombre: Rosalia Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Joyerias_y_Detalles
+Subrubro: Regalos_Personalizados_y_Detalles
+Categoría Maps: Tienda de regalos
+Dirección: Mercadito del Emprendedor, Mega Plaza, Cajamarca 06001
+Teléfono: 989 160 445
+Rating: 3.8
+Reseñas: 4
+Sitio web: https://m.facebook.com/RosaliaCajamarca15/
+Latitud: -7.144915999999999
+Longitud: -78.506447
+Google Maps: https://www.google.com/maps?cid=5153773283574485772
+Place Id: ChIJFaniVRNbspERDBNb3H7hhUc
+Fotos: Rosalia Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

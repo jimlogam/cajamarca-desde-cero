@@ -1,0 +1,17 @@
+Nombre: Stand del Terno, Venta.
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: C.C, San Antonio, Cajamarca 06001
+Teléfono: 910 763 750
+Rating: 5
+Reseñas: 3
+Sitio web: https://www.facebook.com/Stand-del-Terno-596514187541340/
+Latitud: -7.1536119
+Longitud: -78.5168961
+Google Maps: https://www.google.com/maps?cid=12665065487362343535
+Place Id: ChIJXZGwHOJbspERb8JKV_VZw68
+Fotos: Stand del Terno, Venta.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

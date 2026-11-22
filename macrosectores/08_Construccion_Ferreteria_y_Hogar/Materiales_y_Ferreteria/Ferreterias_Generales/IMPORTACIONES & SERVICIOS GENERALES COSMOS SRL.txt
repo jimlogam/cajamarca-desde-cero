@@ -1,0 +1,17 @@
+Nombre: IMPORTACIONES & SERVICIOS GENERALES COSMOS SRL
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería, Centro comercial
+Dirección: Chanchamayo 751, Cajamarca 06001
+Teléfono: 963 331 355
+Rating: 
+Reseñas: 
+Sitio web: https://imporservicosmos.wixsite.com/importservicosmos
+Latitud: -7.1515191
+Longitud: -78.5188529
+Google Maps: https://www.google.com/maps?cid=7756953826564050420
+Place Id: ChIJx1odfNZbspER9A11O2g8pms
+Fotos: IMPORTACIONES & SERVICIOS GENERALES COSMOS SRL.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Factoría Industrial SAC
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
+Categoría Maps: Empresa de construcciones metálicas
+Dirección: Av. Carlos Malpica Rivarola No. 332, Cajamarca 06002
+Teléfono: (076) 368481
+Rating: 5
+Reseñas: 5
+Sitio web: https://www.factoriaindustrial.com/
+Latitud: -7.168881799999999
+Longitud: -78.4946188
+Google Maps: https://www.google.com/maps?cid=16326145378905261662
+Place Id: ChIJsWKf_zpbspERXoYI9bgekuI
+Fotos: Sin foto en Maps
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

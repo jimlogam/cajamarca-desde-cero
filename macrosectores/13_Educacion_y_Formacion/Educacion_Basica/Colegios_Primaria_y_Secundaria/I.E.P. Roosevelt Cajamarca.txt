@@ -1,0 +1,17 @@
+Nombre: I.E.P. Roosevelt Cajamarca
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Colegio universitario
+Dirección: Jr. José Sabogal 942, Cajamarca 06002
+Teléfono: 916 682 061
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.156746999999999
+Longitud: -78.5144176
+Google Maps: https://www.google.com/maps?cid=7478402750939008993
+Place Id: ChIJibccPkJbspER4Q8GAa6fyGc
+Fotos: I.E.P. Roosevelt Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

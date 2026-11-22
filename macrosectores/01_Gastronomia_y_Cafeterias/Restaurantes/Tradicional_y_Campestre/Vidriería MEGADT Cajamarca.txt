@@ -1,0 +1,17 @@
+Nombre: Vidriería MEGADT Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de cristales y espejos, Tienda de cristales
+Dirección: Jr, Jirón Las Casuarinas 377, Cajamarca 06001
+Teléfono: 951 144 121
+Rating: 5
+Reseñas: 4
+Sitio web: http://megadt.pe/
+Latitud: -7.1477958
+Longitud: -78.5169329
+Google Maps: https://www.google.com/maps?cid=4575777767738419030
+Place Id: ChIJxYwbkuBbspERVqct4aJtgD8
+Fotos: Vidriería MEGADT Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

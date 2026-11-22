@@ -1,0 +1,17 @@
+Nombre: TIENDA MAYORISTA
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: RFXM+H8Q, Contamana, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1510355
+Longitud: -78.5166418
+Google Maps: https://www.google.com/maps?cid=9904983398980799395
+Place Id: ChIJ-WgbLABbspERo0tkKuyRdYk
+Fotos: Sin foto en Maps
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

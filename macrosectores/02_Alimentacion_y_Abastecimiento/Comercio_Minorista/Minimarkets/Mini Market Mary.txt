@@ -1,0 +1,17 @@
+Nombre: Mini Market Mary
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Luis Reyna Farge 191, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1669171
+Longitud: -78.5074405
+Google Maps: https://www.google.com/maps?cid=1312100240796187180
+Place Id: ChIJdeAj7xxbspERLHpcmjeENRI
+Fotos: Mini Market Mary.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

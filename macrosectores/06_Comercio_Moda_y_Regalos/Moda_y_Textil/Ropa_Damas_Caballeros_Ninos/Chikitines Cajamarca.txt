@@ -1,0 +1,17 @@
+Nombre: Chikitines Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa infantil
+Dirección: Vía de Evitamiento Nte. Lote 1, Cajamarca 06002
+Teléfono: 947 285 077
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1546579999999995
+Longitud: -78.5060183
+Google Maps: https://www.google.com/maps?cid=6705202717423674144
+Place Id: ChIJcYLuZPhbspERIKMFh1iqDV0
+Fotos: Chikitines Cajamarca.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

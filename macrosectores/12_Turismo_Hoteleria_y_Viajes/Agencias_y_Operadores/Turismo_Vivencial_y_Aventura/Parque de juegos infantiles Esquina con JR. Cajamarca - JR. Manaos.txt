@@ -1,0 +1,17 @@
+Nombre: Parque de juegos infantiles Esquina con JR. Cajamarca - JR. Manaos
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Agencias_y_Operadores
+Subrubro: Turismo_Vivencial_y_Aventura
+Categoría Maps: Parque
+Dirección: Cajamarca 504, Pucusana 15866
+Teléfono: 
+Rating: 3.5
+Reseñas: 2
+Sitio web: 
+Latitud: -12.482866699999999
+Longitud: -76.7956067
+Google Maps: https://www.google.com/maps?cid=17221359112351216494
+Place Id: ChIJF3Au5bp1BZERbnMhud6O_u4
+Fotos: Parque de juegos infantiles Esquina con JR. Cajamarca - JR. Manaos.jpg
+Nota: Atraccion turistica, no es un negocio Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

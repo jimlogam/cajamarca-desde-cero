@@ -1,0 +1,17 @@
+Nombre: I. E. P. Jardín N°105 Pachacútec
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Jardín de infancia
+Dirección: Miguel de Cervantes 406, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1649211
+Longitud: -78.5215066
+Google Maps: https://www.google.com/maps?cid=14525689239435164427
+Place Id: ChIJp-i9gtBbspERCzs_Imedlck
+Fotos: I. E. P. Jardín N°105 Pachacútec.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Tendencia Urbana (ropa moda)
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa para jóvenes
+Dirección: RFWJ+PHW, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1531348999999995
+Longitud: -78.5185458
+Google Maps: https://www.google.com/maps?cid=12961665978877178120
+Place Id: ChIJp0zv1TFbspERCHE9sIgW4bM
+Fotos: Tendencia Urbana (ropa moda).jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

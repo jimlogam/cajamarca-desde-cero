@@ -1,0 +1,17 @@
+Nombre: Minimarket colca
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Tahuantinsuyo 535, Cajamarca 10006
+Teléfono: 914 601 315
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1778369
+Longitud: -78.50080179999999
+Google Maps: https://www.google.com/maps?cid=13993065780749402553
+Place Id: ChIJT7D_FjdbspERuQE-bDBbMcI
+Fotos: Minimarket colca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

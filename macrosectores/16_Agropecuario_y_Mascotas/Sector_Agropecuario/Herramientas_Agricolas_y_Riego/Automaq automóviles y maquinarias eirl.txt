@@ -1,0 +1,17 @@
+Nombre: Automaq automóviles y maquinarias eirl
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Av. Héroes del Cenepa 568, Cajamarca 06003
+Teléfono: 976 787 979
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1779924
+Longitud: -78.4960249
+Google Maps: https://www.google.com/maps?cid=18389778586996603750
+Place Id: ChIJ8XfMQ0JbspERZnsEEDGeNf8
+Fotos: Automaq automóviles y maquinarias eirl.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

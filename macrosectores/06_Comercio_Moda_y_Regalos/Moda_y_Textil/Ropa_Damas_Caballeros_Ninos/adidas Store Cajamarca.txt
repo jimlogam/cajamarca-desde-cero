@@ -1,0 +1,17 @@
+Nombre: adidas Store Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa de deportes, Tienda de ropa infantil, Tienda de ropa, Tienda de material deportivo, Tienda de ropa de hombre, Tienda de deportes al aire libre, Zapatería, Tienda de deportes, Tienda de ropa de mujer
+Dirección: Vía de Evitamiento Nte., Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: https://www.adidas.pe/stores/peru/cajamarca/av-evitamiento-norte-lote-1a-urbanizacion-santa-mercedes/9990164574
+Latitud: -7.154731099999999
+Longitud: -78.50594009999999
+Google Maps: https://www.google.com/maps?cid=2270865562000941614
+Place Id: ChIJFy1ifmRbspERLuK7czK8gx8
+Fotos: adidas Store Cajamarca.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

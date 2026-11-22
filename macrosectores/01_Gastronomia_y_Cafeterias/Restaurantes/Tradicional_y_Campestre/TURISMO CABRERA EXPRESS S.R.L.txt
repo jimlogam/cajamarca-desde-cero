@@ -1,0 +1,17 @@
+Nombre: TURISMO CABRERA EXPRESS S.R.L.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: 06003, Cajamarca 06003
+Teléfono: 937 219 518
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1791722
+Longitud: -78.49778289999999
+Google Maps: https://www.google.com/maps?cid=14315718260494768432
+Place Id: ChIJfY24IxFbspERMBld9eilq8Y
+Fotos: TURISMO CABRERA EXPRESS S.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

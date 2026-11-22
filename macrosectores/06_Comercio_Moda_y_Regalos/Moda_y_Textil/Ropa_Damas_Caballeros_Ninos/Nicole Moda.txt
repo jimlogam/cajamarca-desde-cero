@@ -1,0 +1,17 @@
+Nombre: Nicole Moda
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa interior
+Dirección: Jr. José Sabogal 335, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1544688999999995
+Longitud: -78.51695459999999
+Google Maps: https://www.google.com/maps?cid=12805482459345807970
+Place Id: ChIJDdzLFDxbspERYmrNTnM2trE
+Fotos: Nicole Moda.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

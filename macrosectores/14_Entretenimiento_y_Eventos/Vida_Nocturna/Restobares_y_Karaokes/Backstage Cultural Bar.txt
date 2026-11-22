@@ -1,0 +1,17 @@
+Nombre: Backstage Cultural Bar
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Pub restaurante
+Dirección: Jirón Ayacucho 1525, Cajamarca 06002
+Teléfono: 968 514 553
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1543461
+Longitud: -78.50704089999999
+Google Maps: https://www.google.com/maps?cid=2477639836995615137
+Place Id: ChIJjUESCQBbspERofl6_U1YYiI
+Fotos: Backstage Cultural Bar.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

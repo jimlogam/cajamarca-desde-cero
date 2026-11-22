@@ -1,0 +1,17 @@
+Nombre: Minimarket Maná
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Av. Hoyos Rubio km. 3, Cajamarca 06001
+Teléfono: 927 629 509
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1459768
+Longitud: -78.4926246
+Google Maps: https://www.google.com/maps?cid=7490800964209740108
+Place Id: ChIJKWwZMABbspERTAng-smr9Gc
+Fotos: Minimarket Maná.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

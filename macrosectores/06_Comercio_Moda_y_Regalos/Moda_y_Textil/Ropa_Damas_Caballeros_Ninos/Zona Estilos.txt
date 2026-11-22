@@ -1,0 +1,17 @@
+Nombre: Zona Estilos
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa de mujer
+Dirección: Jr. Gladiolos 165, Cajamarca 06003
+Teléfono: 929 843 381
+Rating: 4.7
+Reseñas: 7
+Sitio web: https://www.facebook.com/Zonaestilos/
+Latitud: -7.171156099999999
+Longitud: -78.5005517
+Google Maps: https://www.google.com/maps?cid=6758407687108928505
+Place Id: ChIJ3e9y_xhbspER-aNl3fuvyl0
+Fotos: Zona Estilos.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

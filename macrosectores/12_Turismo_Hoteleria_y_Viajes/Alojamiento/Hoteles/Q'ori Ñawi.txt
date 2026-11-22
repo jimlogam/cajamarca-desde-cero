@@ -1,0 +1,17 @@
+Nombre: Q'ori Ñawi
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Pje. la Hacienda 100, Cajamarca 06001
+Teléfono: 952 492 643
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.148312799999999
+Longitud: -78.4874446
+Google Maps: https://www.google.com/maps?cid=6705942077151488132
+Place Id: ChIJv_eJSqVbspERhKj1IMpKEF0
+Fotos: Q'ori Ñawi.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

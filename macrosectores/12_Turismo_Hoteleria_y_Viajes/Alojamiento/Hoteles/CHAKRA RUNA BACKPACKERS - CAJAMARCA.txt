@@ -1,0 +1,17 @@
+Nombre: CHAKRA RUNA BACKPACKERS - CAJAMARCA
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Cutervo 129, Cajamarca 06002
+Teléfono: 
+Rating: 4.3
+Reseñas: 126
+Sitio web: 
+Latitud: -7.1622033
+Longitud: -78.50882949999999
+Google Maps: https://www.google.com/maps?cid=10180455855697512724
+Place Id: ChIJd2MjtuJaspERFEllkqk-SI0
+Fotos: CHAKRA RUNA BACKPACKERS - CAJAMARCA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: CONSTRUCTORA C.J.L SERVICIOS GENERALES S.R.L
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
+Categoría Maps: Empresa de construcción
+Dirección: Jr, Salaverry 394, Cajamarca 06001
+Teléfono: 975 834 865
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.167706399999999
+Longitud: -78.50940179999999
+Google Maps: https://www.google.com/maps?cid=12902802934776062076
+Place Id: ChIJX9dJft1bspERfOAxPuj2D7M
+Fotos: CONSTRUCTORA C.J.L SERVICIOS GENERALES S.R.L.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

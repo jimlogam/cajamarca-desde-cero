@@ -1,0 +1,17 @@
+Nombre: Parque La Colmena Baja
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Agencias_y_Operadores
+Subrubro: Turismo_Vivencial_y_Aventura
+Categoría Maps: Parque
+Dirección: Jr. Marino Melgar 475, Cajamarca 06002
+Teléfono: 
+Rating: 3.9
+Reseñas: 516
+Sitio web: 
+Latitud: -7.157043799999999
+Longitud: -78.50860019999999
+Google Maps: https://www.google.com/maps?cid=15160792081497298334
+Place Id: ChIJUat4t-RaspERnpUzoxL0ZdI
+Fotos: Parque La Colmena Baja.jpg
+Nota: Atraccion turistica, no es un negocio Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

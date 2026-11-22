@@ -1,0 +1,17 @@
+Nombre: BAZAR POLICIAL SANTA ROSA
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa para jóvenes
+Dirección: Mariano Melgar 108, Cajamarca 06001
+Teléfono: 938 116 394
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.146776099999999
+Longitud: -78.5210208
+Google Maps: https://www.google.com/maps?cid=1630433038494792293
+Place Id: ChIJc369eQBbspERZfqKyTV2oBY
+Fotos: BAZAR POLICIAL SANTA ROSA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

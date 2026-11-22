@@ -1,0 +1,17 @@
+Nombre: Mercado San Antonio
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Jr. Apurimac 997, Cajamarca 06001
+Teléfono: 982 893 109
+Rating: 3.7
+Reseñas: 1320
+Sitio web: 
+Latitud: -7.1542894
+Longitud: -78.517304
+Google Maps: https://www.google.com/maps?cid=3197204262901438714
+Place Id: ChIJAQAAyflaspER-tiabFbAXiw
+Fotos: Mercado San Antonio.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 10 veces en los archivos de la cosecha original; fusionado en uno.
+

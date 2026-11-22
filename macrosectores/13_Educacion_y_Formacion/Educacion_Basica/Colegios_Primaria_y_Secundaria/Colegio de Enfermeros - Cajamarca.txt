@@ -1,0 +1,17 @@
+Nombre: Colegio de Enfermeros - Cajamarca
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Escuela de enfermería
+Dirección: Jr. Niño Jesús B8 Urb Sarita, Cajamarca 06001
+Teléfono: 956 376 850
+Rating: 4
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1467684
+Longitud: -78.520213
+Google Maps: https://www.google.com/maps?cid=5173614660225631879
+Place Id: ChIJq78ix3FbspERh4aAWx9fzEc
+Fotos: Colegio de Enfermeros - Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

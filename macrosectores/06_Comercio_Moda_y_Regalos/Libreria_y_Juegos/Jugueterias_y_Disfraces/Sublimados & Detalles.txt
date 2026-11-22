@@ -1,0 +1,17 @@
+Nombre: Sublimados & Detalles
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
+Categoría Maps: Juguetería
+Dirección: Jr, Dos de Mayo 1154, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.151425199999999
+Longitud: -78.51284799999999
+Google Maps: https://www.google.com/maps?cid=15859117831474887818
+Place Id: ChIJG-OPHbxbspERirwffKTnFtw
+Fotos: Sublimados & Detalles.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

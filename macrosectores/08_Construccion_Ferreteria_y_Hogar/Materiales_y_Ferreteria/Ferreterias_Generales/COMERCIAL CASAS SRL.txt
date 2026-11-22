@@ -1,0 +1,17 @@
+Nombre: COMERCIAL CASAS SRL
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Av. Hoyos Rubio 716, Cajamarca 06000
+Teléfono: 976 761 558
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1500455999999994
+Longitud: -78.5090802
+Google Maps: https://www.google.com/maps?cid=16354403200617896001
+Place Id: ChIJ9fgDlflaspERQVhXxg-D9uI
+Fotos: COMERCIAL CASAS SRL.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: LA CASA DEL BEBÉ
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: JR ANGAMOS 297, Cajamarca 06001
+Teléfono: 977 394 249
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.153009
+Longitud: -78.5205371
+Google Maps: https://www.google.com/maps?cid=5991048514866995760
+Place Id: ChIJZw-LCMxbspERMGLH4OF6JFM
+Fotos: LA CASA DEL BEBÉ.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

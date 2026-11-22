@@ -1,0 +1,17 @@
+Nombre: PLANTA QUESERA CHUGUR QUESO S.R.L.
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Tienda de alimentación
+Dirección: Avenida MZ C LOTE 12 Y, Av. Manco Cápac 13, Baños del Inca
+Teléfono: (076) 348812
+Rating: 4.1
+Reseñas: 42
+Sitio web: http://www.chugurquesos.com/
+Latitud: -7.159752999999999
+Longitud: -78.459036
+Google Maps: https://www.google.com/maps?cid=11417539829240928965
+Place Id: ChIJ7-U2IydFspERxZrHYvs_c54
+Fotos: PLANTA QUESERA CHUGUR QUESO S.R.L.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

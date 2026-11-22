@@ -1,0 +1,17 @@
+Nombre: D Lila Tortas y Cupcakes
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Cafetería
+Dirección: Delfín Cerna 425, Cajamarca 06002
+Teléfono: 988 451 449
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.154072299999999
+Longitud: -78.50930749999999
+Google Maps: https://www.google.com/maps?cid=14753427314366246804
+Place Id: ChIJzX8xS-VaspERlG9YtPmzvsw
+Fotos: D Lila Tortas y Cupcakes.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

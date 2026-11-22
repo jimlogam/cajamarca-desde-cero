@@ -1,0 +1,17 @@
+Nombre: Hotel valle verde
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Av. Alzamora Miranda 06001, Baños del Inca 06001
+Teléfono: 961 619 083
+Rating: 2.5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1396238
+Longitud: -78.4880984
+Google Maps: https://www.google.com/maps?cid=3424820584364198868
+Place Id: ChIJWfBROLxbspER1Et5Di1ohy8
+Fotos: Hotel valle verde.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

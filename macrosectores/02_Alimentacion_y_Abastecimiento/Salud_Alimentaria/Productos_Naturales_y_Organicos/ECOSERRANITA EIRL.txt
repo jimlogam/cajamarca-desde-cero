@@ -1,0 +1,17 @@
+Nombre: ECOSERRANITA EIRL
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Salud_Alimentaria
+Subrubro: Productos_Naturales_y_Organicos
+Categoría Maps: Tienda de alimentos naturales
+Dirección: 452,, Jirón Ayacucho 450, Cajamarca
+Teléfono: 976 914 242
+Rating: 4.2
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1609722
+Longitud: -78.514144
+Google Maps: https://www.google.com/maps?cid=5617202772552157146
+Place Id: ChIJrW7MMvxaspER2odPESlQ9E0
+Fotos: ECOSERRANITA EIRL.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

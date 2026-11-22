@@ -1,0 +1,17 @@
+Nombre: Distribuidora y Ferreteria Alfonso
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Jr. Cumbe Mayo 317, Cajamarca 06001
+Teléfono: 976 823 571
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1613967
+Longitud: -78.50662969999999
+Google Maps: https://www.google.com/maps?cid=4440494060709777585
+Place Id: ChIJ45i_jCRbspERsZDWS9LNnz0
+Fotos: Distribuidora y Ferreteria Alfonso.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

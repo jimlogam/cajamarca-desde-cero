@@ -1,0 +1,17 @@
+Nombre: TIME TO TRAVEL PERU - Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de visitas turísticas, Service establishment
+Dirección: 
+Teléfono: 962 661 573
+Rating: 5
+Reseñas: 1
+Sitio web: http://www.timetotravelperu.com/
+Latitud: -6.3872392
+Longitud: -78.81934319999999
+Google Maps: https://www.google.com/maps?cid=4939599804004250829
+Place Id: ChIJlQTxPNjispERzTRDwtn7jEQ
+Fotos: TIME TO TRAVEL PERU - Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

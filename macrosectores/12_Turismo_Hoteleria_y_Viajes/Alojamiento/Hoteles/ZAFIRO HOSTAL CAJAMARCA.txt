@@ -1,0 +1,17 @@
+Nombre: ZAFIRO HOSTAL CAJAMARCA
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Los Zafiros 365, Cajamarca 06001
+Teléfono: (076) 607811
+Rating: 4.6
+Reseñas: 19
+Sitio web: https://www.zafirohostalcajamarca.com/
+Latitud: -7.163860199999999
+Longitud: -78.5002848
+Google Maps: https://www.google.com/maps?cid=12722165704103271343
+Place Id: ChIJ11gB84VbspERr5u7jk02jrA
+Fotos: ZAFIRO HOSTAL CAJAMARCA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

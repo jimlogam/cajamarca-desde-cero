@@ -1,0 +1,17 @@
+Nombre: EPPA DESCARTABLES
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: Jirón, Tayabamba 346, Cajamarca 06001
+Teléfono: 963 744 892
+Rating: 4.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1516950999999995
+Longitud: -78.5164233
+Google Maps: https://www.google.com/maps?cid=6369805676075136304
+Place Id: ChIJ2XOQZm5bspERMLW5goMYZlg
+Fotos: EPPA DESCARTABLES.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

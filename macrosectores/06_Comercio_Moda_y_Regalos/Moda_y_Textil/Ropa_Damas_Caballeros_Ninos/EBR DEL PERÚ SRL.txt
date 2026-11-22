@@ -1,0 +1,17 @@
+Nombre: EBR DEL PERÚ SRL.
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Av Vía de Evitamiento 2390, Cajamarca 06002
+Teléfono: 976 364 009
+Rating: 4.4
+Reseñas: 14
+Sitio web: https://www.ebrdelperu.com/
+Latitud: -7.156721699999999
+Longitud: -78.5075229
+Google Maps: https://www.google.com/maps?cid=7664521385106282605
+Place Id: ChIJL3x97ORaspERbRilZJfZXWo
+Fotos: EBR DEL PERÚ SRL.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

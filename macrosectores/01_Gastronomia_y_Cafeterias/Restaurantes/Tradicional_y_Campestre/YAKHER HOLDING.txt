@@ -1,0 +1,17 @@
+Nombre: YAKHER HOLDING
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Soporte y servicios informáticos
+Dirección: JR, Ucayali N° 469, Cajamarca 06001
+Teléfono: 986 286 080
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1543415999999995
+Longitud: -78.52263769999999
+Google Maps: https://www.google.com/maps?cid=11092595650434251764
+Place Id: ChIJrYilecVbspER9DstFfnQ8Jk
+Fotos: YAKHER HOLDING.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

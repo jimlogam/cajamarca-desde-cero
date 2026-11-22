@@ -1,0 +1,17 @@
+Nombre: La Minie Market
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: RG76+285, Av. San Martin, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1874797
+Longitud: -78.48915079999999
+Google Maps: https://www.google.com/maps?cid=7117176252806343307
+Place Id: ChIJgbZSUwBbspERiype8BdKxWI
+Fotos: La Minie Market.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

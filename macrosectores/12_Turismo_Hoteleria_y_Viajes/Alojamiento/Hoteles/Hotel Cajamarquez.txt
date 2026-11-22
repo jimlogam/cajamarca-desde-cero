@@ -1,0 +1,17 @@
+Nombre: Hotel Cajamarquez
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr. Apurimac 865, Cajamarca 06001
+Teléfono: 915 102 513
+Rating: 5
+Reseñas: 6
+Sitio web: 
+Latitud: -7.155404099999999
+Longitud: -78.51828499999999
+Google Maps: https://www.google.com/maps?cid=5152942805332026622
+Place Id: ChIJA_aBtGtbspER_mS4Ey7ugkc
+Fotos: Hotel Cajamarquez.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

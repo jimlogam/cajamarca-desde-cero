@@ -1,0 +1,17 @@
+Nombre: Eventos & Detalles
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Empresa de organización de eventos, Servicio de catering
+Dirección: Ilo, Cajamarca 06001
+Teléfono: 959 121 122
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1601807
+Longitud: -78.5243109
+Google Maps: https://www.google.com/maps?cid=9926031464488973942
+Place Id: ChIJu0foQ9RbspERdjY3zgZZwIk
+Fotos: Eventos & Detalles.jpg
+Nota: Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

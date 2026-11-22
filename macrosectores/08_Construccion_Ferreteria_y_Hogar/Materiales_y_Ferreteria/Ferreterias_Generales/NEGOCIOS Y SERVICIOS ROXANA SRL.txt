@@ -1,0 +1,17 @@
+Nombre: NEGOCIOS Y SERVICIOS ROXANA SRL
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Jr. Tacna 318, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1607119
+Longitud: -78.5264827
+Google Maps: https://www.google.com/maps?cid=4386559545619434967
+Place Id: ChIJo8VjgqxbspER182-bqow4Dw
+Fotos: NEGOCIOS Y SERVICIOS ROXANA SRL.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

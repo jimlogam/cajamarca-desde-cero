@@ -1,0 +1,17 @@
+Nombre: MONTHAÑAS HOTEL
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel, Alojamiento con servicio
+Dirección: Ref. A una cuadra de plaza mayor, Jr. Guillermo Urrelo N° 891, Cajamarca 06001
+Teléfono: 920 811 462
+Rating: 4.5
+Reseñas: 69
+Sitio web: http://www.hotelmonthanas.com/
+Latitud: -7.1580989
+Longitud: -78.5149771
+Google Maps: https://www.google.com/maps?cid=8396301247701067384
+Place Id: ChIJOcJGoEpbspEReCZk0H-nhXQ
+Fotos: MONTHAÑAS HOTEL.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

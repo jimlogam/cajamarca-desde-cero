@@ -1,0 +1,17 @@
+Nombre: Drywall Cajamarca
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Av. Vía de Evitamiento Sur 412, Cajamarca 06002
+Teléfono: 935 286 554
+Rating: 4.8
+Reseñas: 26
+Sitio web: https://www.facebook.com/drywalltechperu/
+Latitud: -7.1614724999999995
+Longitud: -78.50506969999999
+Google Maps: https://www.google.com/maps?cid=16639172688239381457
+Place Id: ChIJPXusQ3JbspER0cvj3mY36uY
+Fotos: Drywall Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

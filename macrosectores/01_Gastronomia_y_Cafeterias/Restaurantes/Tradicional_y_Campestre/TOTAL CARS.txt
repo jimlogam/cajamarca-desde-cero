@@ -1,0 +1,17 @@
+Nombre: TOTAL CARS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller mecánico
+Dirección: Los Tulipanes 248, Cajamarca 06002
+Teléfono: 957 802 350
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1721425
+Longitud: -78.49793799999999
+Google Maps: https://www.google.com/maps?cid=9483876724645972186
+Place Id: ChIJYwPG5YtbspER2kgeIqJ_nYM
+Fotos: TOTAL CARS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Pia bebe y bazar
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Av San Martín de Porres 929 06000, Cajamarca 06000
+Teléfono: 991 590 601
+Rating: 
+Reseñas: 
+Sitio web: https://wa.me/c/51991590601
+Latitud: -7.170856
+Longitud: -78.5016646
+Google Maps: https://www.google.com/maps?cid=16156599084346743477
+Place Id: ChIJV1Lz4bFbspERtZrjEETFN-A
+Fotos: Pia bebe y bazar.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

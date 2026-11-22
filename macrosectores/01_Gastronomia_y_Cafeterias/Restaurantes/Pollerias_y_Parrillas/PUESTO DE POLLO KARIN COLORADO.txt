@@ -1,0 +1,17 @@
+Nombre: PUESTO DE POLLO KARIN COLORADO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Granja avícola
+Dirección: Jr. San Martin 817, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1546151
+Longitud: -78.515438
+Google Maps: https://www.google.com/maps?cid=238716507711657385
+Place Id: ChIJhVnvSGxbspERqdUsJGYXUAM
+Fotos: PUESTO DE POLLO KARIN COLORADO.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

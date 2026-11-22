@@ -1,0 +1,17 @@
+Nombre: Vairena Studio
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón de manicura y pedicura
+Dirección: El Misti 307, Cajamarca 06001
+Teléfono: 934 806 882
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.159775
+Longitud: -78.5071076
+Google Maps: https://www.google.com/maps?cid=5196383288241504510
+Place Id: ChIJ0dbY5FtbspER_kBprBFDHUg
+Fotos: Vairena Studio.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

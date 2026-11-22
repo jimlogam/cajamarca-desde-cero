@@ -1,0 +1,17 @@
+Nombre: Sauna Spa Yaku Hostal
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel, Balneario, Sauna
+Dirección: Jr. Conquistadores 134, Cajamarca 06003
+Teléfono: (076) 264176
+Rating: 4.2
+Reseñas: 103
+Sitio web: https://yaku-peru.com/
+Latitud: -7.1765979
+Longitud: -78.49549669999999
+Google Maps: https://www.google.com/maps?cid=6292416627222540102
+Place Id: ChIJld2CqT1bspERRm9cdJUnU1c
+Fotos: Sauna Spa Yaku Hostal.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

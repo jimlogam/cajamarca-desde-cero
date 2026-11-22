@@ -1,0 +1,17 @@
+Nombre: ALDEA ENCANTADA 2
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
+Categoría Maps: Parque infantil cubierto
+Dirección: Jr, Los Eucaliptos N° 152, Cajamarca 06001
+Teléfono: 948 423 286
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1445653
+Longitud: -78.5203038
+Google Maps: https://www.google.com/maps?cid=13105304734408035853
+Place Id: ChIJPZ5E5VxbspERDc6ilzhl37U
+Fotos: ALDEA ENCANTADA 2.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Multimuebles K
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
+Categoría Maps: Tienda de muebles
+Dirección: La Molina K1 Lt 13, Cajamarca 06001
+Teléfono: 932 822 613
+Rating: 
+Reseñas: 
+Sitio web: https://multimuebles-k.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1617465
+Longitud: -78.51278549999999
+Google Maps: https://www.google.com/maps?cid=13669384176607672583
+Place Id: ChIJD-oJaOhbspERB7kLMXxos70
+Fotos: Multimuebles K.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

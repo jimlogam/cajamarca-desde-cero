@@ -1,0 +1,17 @@
+Nombre: Vidriería y aceros inox SAENZ
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de instalación de ventanas, Servicio de instalación eléctrica
+Dirección: Jr, Prol. Revilla Perez 509, Cajamarca 06002
+Teléfono: 945 695 633
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1492964
+Longitud: -78.51194919999999
+Google Maps: https://www.google.com/maps?cid=6305835980362001276
+Place Id: ChIJJymb5VNbspERfKtaFWrUglc
+Fotos: Vidriería y aceros inox SAENZ.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

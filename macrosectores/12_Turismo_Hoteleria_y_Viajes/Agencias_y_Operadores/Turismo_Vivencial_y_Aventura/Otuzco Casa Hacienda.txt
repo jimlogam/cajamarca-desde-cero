@@ -1,0 +1,17 @@
+Nombre: Otuzco Casa Hacienda
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Agencias_y_Operadores
+Subrubro: Turismo_Vivencial_y_Aventura
+Categoría Maps: Atracción turística
+Dirección: Otuzco 13201
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.9035896999999995
+Longitud: -78.5646508
+Google Maps: https://www.google.com/maps?cid=18133587092090836796
+Place Id: ChIJUa-pVwCbrZERPNeuZ2Jxp_s
+Fotos: Otuzco Casa Hacienda.jpg
+Nota: Atraccion turistica, no es un negocio Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

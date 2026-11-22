@@ -1,0 +1,17 @@
+Nombre: La Casa Magica Todo Disfraces
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Los Juncos 319, Cajamarca 06001
+Teléfono: (076) 368711
+Rating: 4
+Reseñas: 33
+Sitio web: 
+Latitud: -7.1512819
+Longitud: -78.51480529999999
+Google Maps: https://www.google.com/maps?cid=16623029451125814364
+Place Id: ChIJA0rX0fBaspERXPQ1lTbdsOY
+Fotos: La Casa Magica Todo Disfraces.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

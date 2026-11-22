@@ -1,0 +1,17 @@
+Nombre: Anticucheria Lidia
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Carnicería
+Dirección: Jiron Miraflores 367, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1451025999999995
+Longitud: -78.52368349999999
+Google Maps: https://www.google.com/maps?cid=7625877359251923978
+Place Id: ChIJTWEnJQBbspERCqTn-g2P1Gk
+Fotos: Anticucheria Lidia.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

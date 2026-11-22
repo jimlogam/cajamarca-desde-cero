@@ -1,0 +1,17 @@
+Nombre: Tiendas Exclusiva
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: Jr. Apurimac 1069, Cajamarca 06001
+Teléfono: (076) 364032
+Rating: 3.7
+Reseñas: 18
+Sitio web: 
+Latitud: -7.153827
+Longitud: -78.5169196
+Google Maps: https://www.google.com/maps?cid=5030452253217284801
+Place Id: ChIJc_3jxPlaspERwWKU_KvBz0U
+Fotos: Tiendas Exclusiva.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

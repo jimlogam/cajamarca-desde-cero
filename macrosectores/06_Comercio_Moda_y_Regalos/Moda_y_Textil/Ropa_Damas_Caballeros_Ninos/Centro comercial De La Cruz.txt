@@ -1,0 +1,17 @@
+Nombre: Centro comercial "De La Cruz"
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: 3N 06000, Cajamarca 06001
+Teléfono: 
+Rating: 4.8
+Reseñas: 33
+Sitio web: https://www.facebook.com/Centro-Comercial-De-La-Cruz-1762693680461278
+Latitud: -7.1000092
+Longitud: -78.5572718
+Google Maps: https://www.google.com/maps?cid=17570927357528487805
+Place Id: ChIJO-9lr6tRspERfbetP1Z52PM
+Fotos: Centro comercial De La Cruz.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

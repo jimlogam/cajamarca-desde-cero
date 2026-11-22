@@ -1,0 +1,17 @@
+Nombre: Hotel La Hispana
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Angamos 679-589, Cajamarca 06001
+Teléfono: 
+Rating: 3
+Reseñas: 16
+Sitio web: 
+Latitud: -7.151205099999999
+Longitud: -78.5225253
+Google Maps: https://www.google.com/maps?cid=3186805367646937560
+Place Id: ChIJp3YrSXpbspER2GHn8pjOOSw
+Fotos: Hotel La Hispana.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

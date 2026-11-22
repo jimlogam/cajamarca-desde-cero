@@ -1,0 +1,17 @@
+Nombre: MAQUITRACTOR SERVICIOS GENERALES E.I.R.L.
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Taller de maquinaria
+Dirección: Av. Nuevo Cajamarca N° 547, Cajamarca 06003
+Teléfono: 
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.174631
+Longitud: -78.502813
+Google Maps: https://www.google.com/maps?cid=579112288881777508
+Place Id: ChIJS1rhCyNbspERZJvc945rCQg
+Fotos: MAQUITRACTOR SERVICIOS GENERALES E.I.R.L.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

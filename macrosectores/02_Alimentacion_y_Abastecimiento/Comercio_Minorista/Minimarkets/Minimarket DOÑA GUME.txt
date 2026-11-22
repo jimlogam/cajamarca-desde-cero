@@ -1,0 +1,17 @@
+Nombre: Minimarket "DOÑA GUME"
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Cajamarca 06000
+Teléfono: 976 950 628
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.129692299999999
+Longitud: -78.5059485
+Google Maps: https://www.google.com/maps?cid=1749859632382419895
+Place Id: ChIJfdPyNp5bspERtyPzghDASBg
+Fotos: Minimarket DOÑA GUME.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: HOTEL NILA
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jirón Silva Santisteban 1050, Cajamarca 06001
+Teléfono: 981 818 995
+Rating: 3.7
+Reseñas: 6
+Sitio web: https://wa.me/message/QTRZ74HY3LMCA1
+Latitud: -7.1635165999999995
+Longitud: -78.512089
+Google Maps: https://www.google.com/maps?cid=1184059676397797353
+Place Id: ChIJm3VTp_JbspER6f-NlACgbhA
+Fotos: HOTEL NILA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

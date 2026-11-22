@@ -1,0 +1,17 @@
+Nombre: JUNE MODA PERÚ
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa, Modista, Service establishment
+Dirección: 
+Teléfono: 948 031 926
+Rating: 
+Reseñas: 
+Sitio web: https://www.instagram.com/modacristiana.pe/?hl=es
+Latitud: -9.2435385
+Longitud: -75.01950459999999
+Google Maps: https://www.google.com/maps?cid=12493820050662763478
+Place Id: ChIJ0X0YdmhbspER1itoFyT3Yq0
+Fotos: JUNE MODA PERÚ.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: OM Club
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
+Categoría Maps: Discoteca
+Dirección: Av. Atahualpa 947, Cajamarca 06001
+Teléfono: 901 460 772
+Rating: 3.9
+Reseñas: 170
+Sitio web: https://www.facebook.com/Goa-Disco-Club-110651330314719/
+Latitud: -7.1653677
+Longitud: -78.4972444
+Google Maps: https://www.google.com/maps?cid=676333082780170812
+Place Id: ChIJG0pSTBJbspERPPr0_FrRYgk
+Fotos: OM Club.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

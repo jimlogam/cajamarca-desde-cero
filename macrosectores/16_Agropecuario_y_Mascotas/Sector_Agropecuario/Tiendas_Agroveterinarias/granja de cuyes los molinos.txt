@@ -1,0 +1,17 @@
+Nombre: granja de cuyes "los molinos"
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Tiendas_Agroveterinarias
+Categoría Maps: Granja
+Dirección: jr, Pardo s/n, Jesús 06371
+Teléfono: 965 006 852
+Rating: 4.5
+Reseñas: 2
+Sitio web: https://www.facebook.com/profile.php?id=100057371202650
+Latitud: -7.2435671
+Longitud: -78.38492529999999
+Google Maps: https://www.google.com/maps?cid=6993353756393762224
+Place Id: ChIJw-GfPQ1DspERsG1-ZjBiDWE
+Fotos: granja de cuyes los molinos.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

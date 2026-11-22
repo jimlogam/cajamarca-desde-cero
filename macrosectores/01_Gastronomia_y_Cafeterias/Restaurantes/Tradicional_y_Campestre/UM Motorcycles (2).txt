@@ -1,0 +1,17 @@
+Nombre: UM Motorcycles
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de repuestos para motos
+Dirección: Jr. Apurimac 823, Cajamarca 06001
+Teléfono: 978 133 198
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.155659399999999
+Longitud: -78.51858299999999
+Google Maps: https://www.google.com/maps?cid=2725440652271329339
+Place Id: ChIJ4-IzWPhaspERO6AKT9W10iU
+Fotos: UM Motorcycles (2).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

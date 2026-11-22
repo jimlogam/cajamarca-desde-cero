@@ -1,0 +1,17 @@
+Nombre: Todomoda
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de accesorios de moda
+Dirección: Jr. Sor Manuela Gil 151, San Lucas 321, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: https://pe.todomoda.com/
+Latitud: -7.1494738
+Longitud: -78.5090943
+Google Maps: https://www.google.com/maps?cid=1893017361935249963
+Place Id: ChIJWbG_icVbspERKzLM00JZRRo
+Fotos: Todomoda (2).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Negocios Mi Arianita
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Jirón Olimpia 280, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1515552
+Longitud: -78.51612469999999
+Google Maps: https://www.google.com/maps?cid=458608196885878032
+Place Id: ChIJ0_IOaJZbspEREBV3qrlNXQY
+Fotos: Negocios Mi Arianita.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Cheese Car
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Tienda de productos lácteos, Quesería, Comercio
+Dirección: Jr. Del comercio 972, Jr.Amazonas 530, Cajamarca 06001
+Teléfono: 956 252 659
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1579163999999995
+Longitud: -78.5174906
+Google Maps: https://www.google.com/maps?cid=15785702667581061156
+Place Id: ChIJU17kfuNbspERJPgan_AUEts
+Fotos: Cheese Car.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

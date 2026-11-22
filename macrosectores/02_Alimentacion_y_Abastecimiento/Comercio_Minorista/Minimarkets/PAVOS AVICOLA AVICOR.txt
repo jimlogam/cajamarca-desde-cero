@@ -1,0 +1,17 @@
+Nombre: PAVOS AVICOLA AVICOR
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: 270, Cajamarca 06003
+Teléfono: 988 643 202
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1789679
+Longitud: -78.49217709999999
+Google Maps: https://www.google.com/maps?cid=4571575415141874935
+Place Id: ChIJ5yhx6PVbspER97xwa55_cT8
+Fotos: PAVOS AVICOLA AVICOR.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

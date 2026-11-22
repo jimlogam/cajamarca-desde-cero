@@ -1,0 +1,17 @@
+Nombre: Salones "Victoria"
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
+Categoría Maps: Club nocturno
+Dirección: Buganvillas 112, Cajamarca 06002
+Teléfono: 
+Rating: 4.8
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1650439
+Longitud: -78.4975374
+Google Maps: https://www.google.com/maps?cid=5979009483918213477
+Place Id: ChIJPxOKKABbspERZQGjjXK1-VI
+Fotos: Salones Victoria.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

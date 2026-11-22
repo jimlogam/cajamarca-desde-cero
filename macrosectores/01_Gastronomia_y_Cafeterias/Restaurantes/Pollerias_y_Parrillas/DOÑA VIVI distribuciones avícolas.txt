@@ -1,0 +1,17 @@
+Nombre: DOÑA VIVI distribuciones avícolas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Tienda de aves de corral
+Dirección: JR. Once de febrero 177 Jr, 11 de Febrero N° 177, Cajamarca 06002
+Teléfono: (076) 623974
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.152085199999999
+Longitud: -78.5162175
+Google Maps: https://www.google.com/maps?cid=2310458331132012992
+Place Id: ChIJdyg2nwNbspERwCl3X5xlECA
+Fotos: DOÑA VIVI distribuciones avícolas.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: YEService Computer
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de informática, Tienda de accesorios informáticos, Servicio de reparación de ordenadores
+Dirección: Jirón del Comercio 515, Cajamarca 06001
+Teléfono: 966 423 847
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.155517199999999
+Longitud: -78.5202978
+Google Maps: https://www.google.com/maps?cid=15804028532372956455
+Place Id: ChIJTReylcBbspERJ2U6hDcwU9s
+Fotos: YEService Computer.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

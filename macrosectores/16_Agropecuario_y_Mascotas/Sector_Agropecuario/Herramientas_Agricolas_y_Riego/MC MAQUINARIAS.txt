@@ -1,0 +1,17 @@
+Nombre: MC MAQUINARIAS
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Plaza Pecuaria Iscoconga, Carretera a Jesús A 1km de la, Cajamarca 06001
+Teléfono: 970 905 675
+Rating: 4.9
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1999477999999995
+Longitud: -78.45705699999999
+Google Maps: https://www.google.com/maps?cid=7579499080312273655
+Place Id: ChIJUV5Lpt1FspER97ppcUHKL2k
+Fotos: MC MAQUINARIAS.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

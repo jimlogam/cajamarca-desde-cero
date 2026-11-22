@@ -1,0 +1,17 @@
+Nombre: Dreams Kids
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa infantil
+Dirección: Jr.Amazonas 1066, Cajamarca 06002
+Teléfono: 928 069 562
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.158633699999999
+Longitud: -78.51391509999999
+Google Maps: https://www.google.com/maps?cid=14593793503040979525
+Place Id: ChIJ4-1B869bspERRUIpqt6Rh8o
+Fotos: Dreams Kids.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: WALO MOTORS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Concesionario de motos
+Dirección: Av. Manco Cápac 211, Baños del Inca 06004
+Teléfono: 937 066 911
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1645493
+Longitud: -78.4675291
+Google Maps: https://www.google.com/maps?cid=13203788892530924832
+Place Id: ChIJRdqzHwBFspERIN2NhApIPbc
+Fotos: WALO MOTORS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

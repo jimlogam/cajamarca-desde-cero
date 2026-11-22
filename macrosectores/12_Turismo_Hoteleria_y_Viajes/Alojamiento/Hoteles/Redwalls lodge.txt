@@ -1,0 +1,17 @@
+Nombre: Redwalls lodge
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Baños del Inca 06004
+Teléfono: 977 966 681
+Rating: 4
+Reseñas: 9
+Sitio web: https://instagram.com/redwalls_lodge?igshid=YmMyMTA2M2Y=
+Latitud: -7.1597443
+Longitud: -78.4670518
+Google Maps: https://www.google.com/maps?cid=17492917714161494616
+Place Id: ChIJA1OwFepFspERWOq7xfpTw_I
+Fotos: Redwalls lodge.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

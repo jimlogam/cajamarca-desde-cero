@@ -1,0 +1,17 @@
+Nombre: minimarket profase
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Angamos 1080, Cajamarca 06001
+Teléfono: 932 981 920
+Rating: 5
+Reseñas: 1
+Sitio web: http://cms.minimarketprofase-com.webnode.es/
+Latitud: -7.147500699999999
+Longitud: -78.5242434
+Google Maps: https://www.google.com/maps?cid=8659084369935532478
+Place Id: ChIJly48FX9bspERvgElTls_K3g
+Fotos: minimarket profase.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

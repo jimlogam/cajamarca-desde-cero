@@ -1,0 +1,17 @@
+Nombre: Colegio Gauss
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Instituto de secundaria
+Dirección: Av. Hoyos Rubio 1804, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1462712999999995
+Longitud: -78.4970261
+Google Maps: https://www.google.com/maps?cid=12068244524549155592
+Place Id: ChIJQ8jio2tbspERCCtObHQEe6c
+Fotos: Colegio Gauss.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

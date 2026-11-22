@@ -1,0 +1,17 @@
+Nombre: VIDRIERIA DIAZ
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Cristalero, Tienda de cristales
+Dirección: Juan Velasco Alvarado, Cajamarca 06002
+Teléfono: 988 459 105
+Rating: 3
+Reseñas: 10
+Sitio web: 
+Latitud: -7.165127099999999
+Longitud: -78.5040625
+Google Maps: https://www.google.com/maps?cid=16252968098176089847
+Place Id: ChIJm7H92x1bspER976KlV8kjuE
+Fotos: VIDRIERIA DIAZ.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

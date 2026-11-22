@@ -1,0 +1,17 @@
+Nombre: Arlequín Bar
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar, Lounge
+Dirección: Jirón Cruz de Piedra 541, Cajamarca 06001
+Teléfono: 983 047 127
+Rating: 4.1
+Reseñas: 705
+Sitio web: https://www.facebook.com/Arlequinbarcafe
+Latitud: -7.158492799999999
+Longitud: -78.5196205
+Google Maps: https://www.google.com/maps?cid=1115490192755847896
+Place Id: ChIJ2QxI0_haspER2PKkkWsEew8
+Fotos: Arlequín Bar.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

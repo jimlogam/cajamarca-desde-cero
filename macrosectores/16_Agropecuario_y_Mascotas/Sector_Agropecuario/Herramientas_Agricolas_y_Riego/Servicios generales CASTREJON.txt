@@ -1,0 +1,17 @@
+Nombre: Servicios generales CASTREJON
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Alquiler de maquinaria y equipos industriales
+Dirección: Sin dirección, Cajamarca 06001
+Teléfono: 992 027 193
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.170413
+Longitud: -78.4847118
+Google Maps: https://www.google.com/maps?cid=580759430786332466
+Place Id: ChIJm9QuNtpbspERMjf6E6BFDwg
+Fotos: Sin foto en Maps
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

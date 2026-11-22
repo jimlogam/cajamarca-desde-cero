@@ -1,0 +1,17 @@
+Nombre: Distribuciones Olano S.A.C.
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería, Mayorista de cerámicas, Mayorista de materiales de construcción
+Dirección: Av. Vía de Evitamiento Sur 325, Cajamarca 06002
+Teléfono: (076) 345755
+Rating: 3.9
+Reseñas: 122
+Sitio web: 
+Latitud: -7.1607581
+Longitud: -78.5051939
+Google Maps: https://www.google.com/maps?cid=5474837862809125452
+Place Id: ChIJn2ertONaspERTMKYfweI-ks
+Fotos: Distribuciones Olano S.A.C.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

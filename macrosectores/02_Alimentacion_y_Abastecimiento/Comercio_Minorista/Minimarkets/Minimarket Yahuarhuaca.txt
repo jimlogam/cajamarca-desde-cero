@@ -1,0 +1,17 @@
+Nombre: Minimarket Yahuarhuaca
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: Jr, Yahuar Huaca, Cajamarca
+Teléfono: 
+Rating: 4
+Reseñas: 6
+Sitio web: 
+Latitud: -7.166944399999999
+Longitud: -78.4598419
+Google Maps: https://www.google.com/maps?cid=10530870360122410447
+Place Id: ChIJo4DssaJFspERz0XJLswqJZI
+Fotos: Minimarket Yahuarhuaca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

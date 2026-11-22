@@ -1,0 +1,17 @@
+Nombre: Panadería y pastelería CIELO
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería mayorista
+Dirección: Av. Manco Cápac 1386, Baños del Inca 06004
+Teléfono: 918 330 144
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1574576
+Longitud: -78.4571923
+Google Maps: https://www.google.com/maps?cid=2425029931109440961
+Place Id: ChIJvUGowKdFspERwd13vd9vpyE
+Fotos: Panadería y pastelería CIELO.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

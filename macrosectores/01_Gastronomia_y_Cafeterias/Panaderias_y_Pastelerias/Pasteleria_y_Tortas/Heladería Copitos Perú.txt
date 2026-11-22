@@ -1,0 +1,17 @@
+Nombre: Heladería Copitos Perú
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Heladería
+Dirección: Av. Hoyos Rubio 444, Cajamarca 06001
+Teléfono: 901 237 560
+Rating: 5
+Reseñas: 11
+Sitio web: 
+Latitud: -7.151498999999999
+Longitud: -78.5114408
+Google Maps: https://www.google.com/maps?cid=4600116934920113751
+Place Id: ChIJXSvbI6tbspERVw4s1_rl1j8
+Fotos: Heladería Copitos Perú.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

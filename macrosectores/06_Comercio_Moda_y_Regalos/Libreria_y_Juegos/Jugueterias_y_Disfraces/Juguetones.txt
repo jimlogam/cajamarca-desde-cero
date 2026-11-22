@@ -1,0 +1,17 @@
+Nombre: Juguetones
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
+Categoría Maps: Juguetería
+Dirección: Jr, Horacio Urteaga 436, Cajamarca 06001
+Teléfono: 910 306 255
+Rating: 
+Reseñas: 
+Sitio web: https://juguetones.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1541641
+Longitud: -78.5214642
+Google Maps: https://www.google.com/maps?cid=6710917958569980061
+Place Id: ChIJabsVNIBbspERnXBazVP4IV0
+Fotos: Juguetones.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

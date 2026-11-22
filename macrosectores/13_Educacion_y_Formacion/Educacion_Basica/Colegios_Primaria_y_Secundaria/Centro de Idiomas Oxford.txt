@@ -1,0 +1,17 @@
+Nombre: Centro de Idiomas Oxford
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Academia de inglés, Institución educativa
+Dirección: Cumulca 154, Cajamarca 06000
+Teléfono: 927 330 092
+Rating: 4.4
+Reseñas: 18
+Sitio web: http://www.facebook.com/oxfordlc
+Latitud: -7.159389
+Longitud: -78.5109142
+Google Maps: https://www.google.com/maps?cid=11277942163325408375
+Place Id: ChIJR-V4ePxaspERd1Rp-qRMg5w
+Fotos: Centro de Idiomas Oxford.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: TRC Express Sac
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de envíos
+Dirección: Av. Atahualpa 496, Cajamarca 06002
+Teléfono: 960 400 785
+Rating: 4.2
+Reseñas: 249
+Sitio web: http://www.trcexpress.com/
+Latitud: -7.165871999999999
+Longitud: -78.50415009999999
+Google Maps: https://www.google.com/maps?cid=1638009753497329831
+Place Id: ChIJJccDqh1bspERp2DVNzFhuxY
+Fotos: TRC Express Sac.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

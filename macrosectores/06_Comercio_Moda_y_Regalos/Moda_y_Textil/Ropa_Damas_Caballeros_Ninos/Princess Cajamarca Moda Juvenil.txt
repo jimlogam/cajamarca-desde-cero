@@ -1,0 +1,17 @@
+Nombre: Princess Cajamarca "Moda Juvenil"
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Jr. Mejillones 124, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1544718
+Longitud: -78.5164862
+Google Maps: https://www.google.com/maps?cid=14397095915835018246
+Place Id: ChIJZ_TnlPlaspERBsyS1HTCzMc
+Fotos: Princess Cajamarca Moda Juvenil.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

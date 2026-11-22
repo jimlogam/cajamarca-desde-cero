@@ -1,0 +1,17 @@
+Nombre: Magui fashion
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: galería coremarca, Jirón José Sabogal 368 Jr José Sabogal 425, Jr.Amazonas 304, Cajamarca 06001
+Teléfono: 981 981 852
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -7.154679499999999
+Longitud: -78.51693449999999
+Google Maps: https://www.google.com/maps?cid=7913360885945850475
+Place Id: ChIJwZdDuItbspERa9pFiszn0W0
+Fotos: Magui fashion.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

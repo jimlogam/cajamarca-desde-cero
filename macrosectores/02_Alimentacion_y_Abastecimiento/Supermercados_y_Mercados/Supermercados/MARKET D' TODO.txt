@@ -1,0 +1,17 @@
+Nombre: MARKET D' TODO
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado
+Dirección: AV. VIA EVITAMIENTO NORTE #1046, Av Vía de Evitamiento Nte 935, Cajamarca 06001
+Teléfono: 
+Rating: 4.2
+Reseñas: 16
+Sitio web: 
+Latitud: -7.145842399999999
+Longitud: -78.517242
+Google Maps: https://www.google.com/maps?cid=1816619517929454925
+Place Id: ChIJ-2nSwPNbspERTf05otPtNRk
+Fotos: MARKET D' TODO.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

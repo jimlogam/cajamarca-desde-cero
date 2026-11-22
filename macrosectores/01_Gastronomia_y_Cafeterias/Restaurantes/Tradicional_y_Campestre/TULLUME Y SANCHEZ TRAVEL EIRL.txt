@@ -1,0 +1,17 @@
+Nombre: TULLUME Y SANCHEZ TRAVEL EIRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: Los Cipreses 1339, Cajamarca 06001
+Teléfono: 944 743 254
+Rating: 
+Reseñas: 
+Sitio web: http://www.facebook.com/tystravelperu
+Latitud: -7.1465197
+Longitud: -78.5144395
+Google Maps: https://www.google.com/maps?cid=2681932691500922350
+Place Id: ChIJL7q3glZbspER7nVrzJIjOCU
+Fotos: TULLUME Y SANCHEZ TRAVEL EIRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Barra Vip Discoteca
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
+Categoría Maps: Discoteca
+Dirección: Av. Hoyos Rubio 1671, Cajamarca 06001
+Teléfono: 976 920 928
+Rating: 4.1
+Reseñas: 23
+Sitio web: 
+Latitud: -7.1461849
+Longitud: -78.49906229999999
+Google Maps: https://www.google.com/maps?cid=9339638942995955308
+Place Id: ChIJVVIpId9bspERbL6tlyIQnYE
+Fotos: Barra Vip Discoteca.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Suite & Sauna Puñuykuna | Cajamarca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel, Piscina cubierta, Sauna
+Dirección: Prol. Barrantes Lingan Cdra 4, Cajamarca 06003
+Teléfono: 989 186 629
+Rating: 4.5
+Reseñas: 44
+Sitio web: http://www.suitespapunuykuna.com/
+Latitud: -7.181802299999999
+Longitud: -78.5045478
+Google Maps: https://www.google.com/maps?cid=13152729964281829428
+Place Id: ChIJi4zLiu5bspERNJinYzfih7Y
+Fotos: Suite & Sauna Puñuykuna - Cajamarca.jpg
+Nota: Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

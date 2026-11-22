@@ -1,0 +1,17 @@
+Nombre: I.E.P. Del Pacífico College
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Institución educativa
+Dirección: San Francisco 311-291, Cajamarca 06002
+Teléfono: 950 100 904
+Rating: 4.5
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1636802
+Longitud: -78.5036669
+Google Maps: https://www.google.com/maps?cid=2626919027383276226
+Place Id: ChIJeZ2NwQ5bspERwhLl-O-wdCQ
+Fotos: I.E.P. Del Pacífico College.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

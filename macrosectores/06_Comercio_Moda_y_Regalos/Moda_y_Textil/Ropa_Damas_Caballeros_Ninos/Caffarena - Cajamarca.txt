@@ -1,0 +1,17 @@
+Nombre: Caffarena - Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa de mujer
+Dirección: frente a Coolbox, Centro Comercial Real Plaza, Cajamarca 06002
+Teléfono: 964 843 450
+Rating: 
+Reseñas: 
+Sitio web: https://caffarena.pe/
+Latitud: -7.15438
+Longitud: -78.5058761
+Google Maps: https://www.google.com/maps?cid=1175158580044275899
+Place Id: ChIJaT0Wct1bspERu6BKloAATxA
+Fotos: Caffarena - Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

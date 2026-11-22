@@ -1,0 +1,17 @@
+Nombre: MINIMARKET "LA PAPITA"
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado
+Dirección: +51, Cajamarca 06001
+Teléfono: 956 254 950
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1334575
+Longitud: -78.51716139999999
+Google Maps: https://www.google.com/maps?cid=18125632189583404082
+Place Id: ChIJG8n8ME1bspERMiyBVXEui_s
+Fotos: MINIMARKET LA PAPITA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

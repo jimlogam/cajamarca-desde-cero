@@ -1,0 +1,17 @@
+Nombre: Fashion Boutique Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Jr. Fraternidad 233, Cajamarca 06001
+Teléfono: 982 747 948
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1523727
+Longitud: -78.512406
+Google Maps: https://www.google.com/maps?cid=1207730292074347578
+Place Id: ChIJ8Q3GGe1bspEROvyRQ024whA
+Fotos: Fashion Boutique Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: VENTA DE POLLOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Carnicería
+Dirección: Contamana 398, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1514944
+Longitud: -78.5169095
+Google Maps: https://www.google.com/maps?cid=17393493357440974610
+Place Id: ChIJqcNFqCVbspEREr9izQ0aYvE
+Fotos: Sin foto en Maps
+Nota: Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

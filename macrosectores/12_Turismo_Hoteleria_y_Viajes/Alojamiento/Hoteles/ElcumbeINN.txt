@@ -1,0 +1,17 @@
+Nombre: ElcumbeINN
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel, Alojamiento con servicio
+Dirección: Pasaje, Atahualpa 345
+Teléfono: 947 228 880
+Rating: 4.4
+Reseñas: 146
+Sitio web: http://www.elcumbeinn.pe/
+Latitud: -7.159173399999999
+Longitud: -78.52099679999999
+Google Maps: https://www.google.com/maps?cid=14494225725748554191
+Place Id: ChIJB9j_-VVaspERzymS_YDVJck
+Fotos: ElcumbeINN.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: H & M
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: CC El Quinde, Jr. Sor Manuela Gil 151, Cajamarca
+Teléfono: 
+Rating: 4.7
+Reseñas: 10
+Sitio web: http://www.topitop.com.pe/
+Latitud: -7.1488572999999995
+Longitud: -78.5104254
+Google Maps: https://www.google.com/maps?cid=1551823341003881135
+Place Id: ChIJoSYw6vFaspERrzqyUhsviRU
+Fotos: H & M.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

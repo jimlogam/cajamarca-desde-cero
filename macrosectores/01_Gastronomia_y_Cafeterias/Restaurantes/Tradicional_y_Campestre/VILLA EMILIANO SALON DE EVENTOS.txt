@@ -1,0 +1,17 @@
+Nombre: VILLA EMILIANO SALON DE EVENTOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón para eventos
+Dirección: 06004, Cajamarca 06004
+Teléfono: 917 142 465
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1601357
+Longitud: -78.46724569999999
+Google Maps: https://www.google.com/maps?cid=6884158597340153934
+Place Id: ChIJlYNqMiVFspERTkjpO8VxiV8
+Fotos: VILLA EMILIANO SALON DE EVENTOS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

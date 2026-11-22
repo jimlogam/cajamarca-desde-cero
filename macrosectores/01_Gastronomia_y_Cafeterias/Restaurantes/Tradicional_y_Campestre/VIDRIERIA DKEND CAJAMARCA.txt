@@ -1,0 +1,17 @@
+Nombre: VIDRIERIA DKEND CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de cristales y espejos, Tienda de cristales, Servicio de corte de vidrio, Fabricante de vidrio
+Dirección: Av. Hoyos Rubio 2345, Cajamarca 06001
+Teléfono: 961 107 487
+Rating: 5
+Reseñas: 3
+Sitio web: https://www.facebook.com/Vidrier%C3%ADa-Muebleria-DKend-102305958189164/?view_public_for=102305958189164
+Latitud: -7.1460113
+Longitud: -78.4969812
+Google Maps: https://www.google.com/maps?cid=8006757055839906629
+Place Id: ChIJuSSH8fVaspERRasw5B63HW8
+Fotos: VIDRIERIA DKEND CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

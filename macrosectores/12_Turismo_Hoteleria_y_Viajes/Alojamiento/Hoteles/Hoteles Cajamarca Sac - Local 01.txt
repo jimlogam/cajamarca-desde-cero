@@ -1,0 +1,17 @@
+Nombre: Hoteles Cajamarca Sac - Local 01
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel, Salón para eventos, Lavandería, Agencia de visitas turísticas
+Dirección: Jr. Bolívar 387, Ubicado por la salida a la costa, entre Jr. Bolívar y Jr. Huanuco., Tomar la Linea 14, Cajamarca 06002
+Teléfono: 964 677 575
+Rating: 3.9
+Reseñas: 144
+Sitio web: http://www.hotelescajamarca.pe/
+Latitud: -7.168131
+Longitud: -78.51259399999999
+Google Maps: https://www.google.com/maps?cid=15781712182808136562
+Place Id: ChIJWfZymwNbspERcsu7e53nA9s
+Fotos: Hoteles Cajamarca Sac - Local 01.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

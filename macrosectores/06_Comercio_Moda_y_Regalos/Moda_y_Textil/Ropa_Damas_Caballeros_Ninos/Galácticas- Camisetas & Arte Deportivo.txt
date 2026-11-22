@@ -1,0 +1,17 @@
+Nombre: Galácticas: Camisetas & Arte Deportivo
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: JR, Irene Silva 154, Cajamarca 06002
+Teléfono: 914 063 023
+Rating: 5
+Reseñas: 14
+Sitio web: https://www.instagram.com/galacticas.pe?igsh=bDE0YWY2b2RwZmY1
+Latitud: -7.1493514
+Longitud: -78.50711629999999
+Google Maps: https://www.google.com/maps?cid=2510887663499237401
+Place Id: ChIJm6NbHwBbspERGVjI1QZ32CI
+Fotos: Galácticas- Camisetas & Arte Deportivo.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

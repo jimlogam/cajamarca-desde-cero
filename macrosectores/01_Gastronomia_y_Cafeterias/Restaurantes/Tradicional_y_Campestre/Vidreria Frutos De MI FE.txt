@@ -1,0 +1,17 @@
+Nombre: Vidreria Frutos De MI FE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de cristales
+Dirección: Chanchamayo 1301, Cajamarca 06001
+Teléfono: 943 028 749
+Rating: 2
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1490148
+Longitud: -78.5214367
+Google Maps: https://www.google.com/maps?cid=223886299391429743
+Place Id: ChIJP4bAvFhaspERb4xNMWdnGwM
+Fotos: Vidreria Frutos De MI FE.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Hotel Baños del Inca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: JR, Jr. Sinchi Roca 139, Baños del Inca 06004
+Teléfono: (076) 774716
+Rating: 4.2
+Reseñas: 266
+Sitio web: 
+Latitud: -7.1648596
+Longitud: -78.4651817
+Google Maps: https://www.google.com/maps?cid=5377259548504345723
+Place Id: ChIJwSMgvC5FspERe8ytxRHdn0o
+Fotos: Hotel Baños del Inca.jpg
+Nota: Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

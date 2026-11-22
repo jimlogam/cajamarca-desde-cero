@@ -1,0 +1,17 @@
+Nombre: C&C SERVICIOS GENERALES SAN JOSÉ SRL
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Servicio de alquiler de maquinaria para construcción
+Dirección: C.P. HUAMBOCANCHA BAJA, Cajamarca 06001
+Teléfono: 930 429 016
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1121561
+Longitud: -78.53245989999999
+Google Maps: https://www.google.com/maps?cid=9608815045762084416
+Place Id: ChIJ1RBJjm9RspERQO4T219eWYU
+Fotos: C&C SERVICIOS GENERALES SAN JOSÉ SRL.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

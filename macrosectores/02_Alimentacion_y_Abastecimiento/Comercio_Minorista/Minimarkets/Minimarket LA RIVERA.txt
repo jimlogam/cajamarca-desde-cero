@@ -1,0 +1,17 @@
+Nombre: Minimarket LA RIVERA
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Jr. La Rivera 161, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.158021499999999
+Longitud: -78.50580269999999
+Google Maps: https://www.google.com/maps?cid=14037607600889671953
+Place Id: ChIJUeohyOFbspERETFaE72Zz8I
+Fotos: Minimarket LA RIVERA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

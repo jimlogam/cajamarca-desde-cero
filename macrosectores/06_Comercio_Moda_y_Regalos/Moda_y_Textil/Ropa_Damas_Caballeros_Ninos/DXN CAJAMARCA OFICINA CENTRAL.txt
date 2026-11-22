@@ -1,0 +1,17 @@
+Nombre: DXN CAJAMARCA OFICINA CENTRAL
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Jr, Cinco Esquinas 982, Cajamarca 06001
+Teléfono: 988 690 175
+Rating: 4
+Reseñas: 10
+Sitio web: https://www.facebook.com/profile.php?id=100008017488348&mibextid=9R9pXO
+Latitud: -7.1561126999999995
+Longitud: -78.5112047
+Google Maps: https://www.google.com/maps?cid=8512078976156791336
+Place Id: ChIJpcb2GwJbspERKHLl2br6IHY
+Fotos: DXN CAJAMARCA OFICINA CENTRAL.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

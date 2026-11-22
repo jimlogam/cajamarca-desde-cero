@@ -1,0 +1,17 @@
+Nombre: Mágico Mundo
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Jirón Marañón 324, Cajamarca 06001
+Teléfono: 986 937 159
+Rating: 4.6
+Reseñas: 7
+Sitio web: https://m.facebook.com/M%C3%A1gico-Mundo-121854325869850/
+Latitud: -7.1527372
+Longitud: -78.51903539999999
+Google Maps: https://www.google.com/maps?cid=10100702581675687168
+Place Id: ChIJOz5YQIhbspERAH2mcnvnLIw
+Fotos: Mágico Mundo.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

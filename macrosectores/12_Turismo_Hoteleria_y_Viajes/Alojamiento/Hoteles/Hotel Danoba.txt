@@ -1,0 +1,17 @@
+Nombre: Hotel Danoba
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Luis Reyna Farge 721, Cajamarca 06003
+Teléfono: (076) 261237
+Rating: 4.3
+Reseñas: 370
+Sitio web: https://hoteldanoba.com/
+Latitud: -7.1704894999999995
+Longitud: -78.5051924
+Google Maps: https://www.google.com/maps?cid=14176016647085296960
+Place Id: ChIJz0wi1JVbspERQA2LYwhUu8Q
+Fotos: Hotel Danoba.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

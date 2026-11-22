@@ -1,0 +1,17 @@
+Nombre: WEDOT PERÚ
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: Pasajes, Av. Independencia 175, Cajamarca 06002
+Teléfono: 971 514 902
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1641585999999995
+Longitud: -78.511042
+Google Maps: https://www.google.com/maps?cid=1534656552445020013
+Place Id: ChIJkV0BokJbspERbQe25AAyTBU
+Fotos: WEDOT PERÚ.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

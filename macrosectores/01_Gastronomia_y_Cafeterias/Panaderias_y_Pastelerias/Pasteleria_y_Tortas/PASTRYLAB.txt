@@ -1,0 +1,17 @@
+Nombre: PASTRYLAB
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Los Leones B- 5, Cajamarca 06002
+Teléfono: 902 771 571
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.153094299999999
+Longitud: -78.50521069999999
+Google Maps: https://www.google.com/maps?cid=18106690640456749488
+Place Id: ChIJe-hfG7JbspERsJFQQjTjR_s
+Fotos: PASTRYLAB.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

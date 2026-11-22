@@ -1,0 +1,17 @@
+Nombre: Ripley Real Cajamarca Real Plaza
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
+Categoría Maps: Tienda de muebles, Tienda de electrodomésticos, Tienda de productos de belleza, Tienda infantil, Tienda de ropa, Tienda de accesorios de moda, Grandes almacenes, Tienda de artículos de cocina, Tienda de deportes
+Dirección: Vía de Evitamiento Nte. Lote 1, Cajamarca 06001
+Teléfono: 
+Rating: 4
+Reseñas: 1500
+Sitio web: https://simple.ripley.com.pe/
+Latitud: -7.1537809999999995
+Longitud: -78.50489
+Google Maps: https://www.google.com/maps?cid=7460753638823912608
+Place Id: ChIJt0GS7OVaspERoGTN3ufriWc
+Fotos: Ripley Real Cajamarca Real Plaza.jpg
+Nota: Aparecia 8 veces en los archivos de la cosecha original; fusionado en uno.
+

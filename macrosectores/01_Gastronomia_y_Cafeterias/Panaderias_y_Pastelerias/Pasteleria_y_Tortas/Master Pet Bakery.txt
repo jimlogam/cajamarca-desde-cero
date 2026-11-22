@@ -1,0 +1,17 @@
+Nombre: Master Pet Bakery
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Tienda de alimentos para animales, Pastelería
+Dirección: Juan Villanueva 415, Cajamarca 06001
+Teléfono: 935 050 848
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1557493
+Longitud: -78.52219339999999
+Google Maps: https://www.google.com/maps?cid=3779294644536554100
+Place Id: ChIJIyD8aY1bspERdDIjpXTAcjQ
+Fotos: Master Pet Bakery.jpg
+Nota: Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

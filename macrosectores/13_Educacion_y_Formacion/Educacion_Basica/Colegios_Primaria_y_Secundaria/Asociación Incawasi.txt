@@ -1,0 +1,17 @@
+Nombre: Asociación Incawasi
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Beneficencia, Centro educativo, Organización sin ánimo de lucro, Organización de voluntariado
+Dirección: Jr. Tarapacá 580, Cajamarca 06001
+Teléfono: (076) 344645
+Rating: 5
+Reseñas: 4
+Sitio web: http://www.incawasi.org/
+Latitud: -7.157069399999999
+Longitud: -78.5209781
+Google Maps: https://www.google.com/maps?cid=286124367567219986
+Place Id: ChIJVU6PIVZaspEREm1tqpiE-AM
+Fotos: Asociación Incawasi.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

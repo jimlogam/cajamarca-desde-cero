@@ -1,0 +1,17 @@
+Nombre: Minimarket La Previa - Cajamarca
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: Passage Shaullo 174, Cajamarca 06002
+Teléfono: 978 369 265
+Rating: 4
+Reseñas: 13
+Sitio web: 
+Latitud: -7.1600576
+Longitud: -78.5105734
+Google Maps: https://www.google.com/maps?cid=4776467925818415909
+Place Id: ChIJK4kLw_xaspERJRt0j0VsSUI
+Fotos: Minimarket La Previa - Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

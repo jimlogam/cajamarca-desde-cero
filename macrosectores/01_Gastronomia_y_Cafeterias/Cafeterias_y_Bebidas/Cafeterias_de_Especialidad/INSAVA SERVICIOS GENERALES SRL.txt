@@ -1,0 +1,17 @@
+Nombre: INSAVA SERVICIOS GENERALES SRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Unnamed Road 06000, Cajamarca 06002
+Teléfono: 930 224 600
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1633144
+Longitud: -78.5109428
+Google Maps: https://www.google.com/maps?cid=17499729534704672621
+Place Id: ChIJSfxeulRFspERbd97VUuH2_I
+Fotos: INSAVA SERVICIOS GENERALES SRL.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

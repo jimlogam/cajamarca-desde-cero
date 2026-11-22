@@ -1,0 +1,17 @@
+Nombre: Jhon Maluma
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Jr. Tarapacá, Cajamarca 06001
+Teléfono: 923 415 689
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1546066999999995
+Longitud: -78.5189109
+Google Maps: https://www.google.com/maps?cid=12112661384401694184
+Place Id: ChIJgUhQvUdbspER6K3afVrRGKg
+Fotos: Jhon Maluma.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Casa y Campo Los Cipreses
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr. Huayrapongo N°134, Baños de Inca - Cajamarca
+Teléfono: 943 732 560
+Rating: 4.5
+Reseñas: 52
+Sitio web: 
+Latitud: -7.168672699999999
+Longitud: -78.4665278
+Google Maps: https://www.google.com/maps?cid=13017755966446432770
+Place Id: ChIJmSe82NBEspERAvLCmBRcqLQ
+Fotos: Casa y Campo Los Cipreses.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Leslys fashion
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa de mujer, Boutique, Tienda de vestidos de novia, Tienda de accesorios de moda
+Dirección: Jr. Tarapacá 785, Cajamarca 06001
+Teléfono: (076) 312785
+Rating: 4.9
+Reseñas: 39
+Sitio web: https://www.facebook.com/ropavestidosdefiestaaccesorios/
+Latitud: -7.155325599999999
+Longitud: -78.5196048
+Google Maps: https://www.google.com/maps?cid=1917358485200066480
+Place Id: ChIJ6aO-JeZbspERsFduOWLTmxo
+Fotos: Leslys fashion.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

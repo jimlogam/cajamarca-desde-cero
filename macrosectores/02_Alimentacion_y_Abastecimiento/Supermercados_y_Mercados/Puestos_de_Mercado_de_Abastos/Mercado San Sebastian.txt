@@ -1,0 +1,17 @@
+Nombre: Mercado San Sebastian
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Puestos_de_Mercado_de_Abastos
+Categoría Maps: Mercado
+Dirección: RFPQ+Q72, Jirón Silva Santisteban, Cajamarca 06002
+Teléfono: 984 993 743
+Rating: 3.7
+Reseñas: 1011
+Sitio web: 
+Latitud: -7.1631222
+Longitud: -78.5118584
+Google Maps: https://www.google.com/maps?cid=6756061785686916994
+Place Id: ChIJY6ZFf_1aspERgr91IGZawl0
+Fotos: Mercado San Sebastian.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

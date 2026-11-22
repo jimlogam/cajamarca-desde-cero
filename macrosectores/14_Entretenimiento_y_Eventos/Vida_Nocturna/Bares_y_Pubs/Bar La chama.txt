@@ -1,0 +1,17 @@
+Nombre: Bar "La chama"
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: Av. Atahualpa 735, Cajamarca 06002
+Teléfono: 
+Rating: 3.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.165624599999999
+Longitud: -78.4997848
+Google Maps: https://www.google.com/maps?cid=10681536389754838803
+Place Id: ChIJOw3hZgBbspERE9--1sBwPJQ
+Fotos: Bar La chama.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

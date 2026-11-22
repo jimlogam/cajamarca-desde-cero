@@ -1,0 +1,17 @@
+Nombre: Supermercado Caxas
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado
+Dirección: 06002, Cajamarca 06002
+Teléfono: 988 745 080
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/profile.php?id=61554184456417
+Latitud: -7.1680066
+Longitud: -78.51122339999999
+Google Maps: https://www.google.com/maps?cid=15080035124170639883
+Place Id: ChIJT-M2vz9bspERC8qaSAwMR9E
+Fotos: Supermercado Caxas.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

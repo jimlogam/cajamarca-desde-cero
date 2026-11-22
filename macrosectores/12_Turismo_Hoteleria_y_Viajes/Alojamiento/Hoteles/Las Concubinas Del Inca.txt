@@ -1,0 +1,17 @@
+Nombre: Las Concubinas Del Inca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jiron, Dos de Mayo 644, Cajamarca 06002
+Teléfono: 
+Rating: 4.4
+Reseñas: 10
+Sitio web: https://wa.me/51900638459
+Latitud: -7.1562364
+Longitud: -78.51574579999999
+Google Maps: https://www.google.com/maps?cid=18407680788767974079
+Place Id: ChIJR8FwlVJbspERvyJMOSY4df8
+Fotos: Las Concubinas Del Inca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Jano Juegos Didácticos
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
+Categoría Maps: Juguetería
+Dirección: Jr. Sor Manuela Gil 06001, Cajamarca 06001
+Teléfono: 968 920 701
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1484761
+Longitud: -78.5091431
+Google Maps: https://www.google.com/maps?cid=3328549887270821445
+Place Id: ChIJj-2OAORbspERRZ7xr3xiMS4
+Fotos: Jano Juegos Didácticos.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

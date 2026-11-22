@@ -1,0 +1,17 @@
+Nombre: Casa Bonita Hostal Boutique
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr. Pisagua 731, Cajamarca 06001
+Teléfono: (076) 262277
+Rating: 4.5
+Reseñas: 141
+Sitio web: 
+Latitud: -7.1545035
+Longitud: -78.5196473
+Google Maps: https://www.google.com/maps?cid=2224649891079925764
+Place Id: ChIJNVhOE_haspERBDBuC0qL3x4
+Fotos: Casa Bonita Hostal Boutique.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

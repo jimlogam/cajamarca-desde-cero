@@ -1,0 +1,17 @@
+Nombre: FÁBRICA PRINCIPAL DE PRODUCTOS LÁCTEOS AGUA BLANCA - EL CUMBE
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Quesería, Explotación lechera, Tienda de productos lácteos
+Dirección: Jr.Amazonas 455, Cajamarca 06001
+Teléfono: 944 813 999
+Rating: 3.5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.154935999999999
+Longitud: -78.5180153
+Google Maps: https://www.google.com/maps?cid=9241199410022850379
+Place Id: ChIJtwUlpf1aspERSx_2xOZVP4A
+Fotos: FÁBRICA PRINCIPAL DE PRODUCTOS LÁCTEOS AGUA BLANCA - EL CUMBE.jpg
+Nota: Aparecia 10 veces en los archivos de la cosecha original; fusionado en uno.
+

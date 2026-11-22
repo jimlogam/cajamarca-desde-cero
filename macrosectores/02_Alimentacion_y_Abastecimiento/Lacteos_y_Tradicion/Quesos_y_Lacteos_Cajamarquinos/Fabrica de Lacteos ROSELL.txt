@@ -1,0 +1,17 @@
+Nombre: Fabrica de Lacteos ROSELL
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Quesería
+Dirección: Dos de Mayo 600, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1564597999999995
+Longitud: -78.5161126
+Google Maps: https://www.google.com/maps?cid=1837186322998625356
+Place Id: ChIJtekTbflaspERTASKGDr_fhk
+Fotos: Fabrica de Lacteos ROSELL.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

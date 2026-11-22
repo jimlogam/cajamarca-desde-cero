@@ -1,0 +1,17 @@
+Nombre: Productos Lácteos Agua Blanca
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: Av. Atahualpa 335, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1656451
+Longitud: -78.5066927
+Google Maps: https://www.google.com/maps?cid=13151683222075611838
+Place Id: ChIJKyZmV7tbspERvhpIujUqhLY
+Fotos: Productos Lácteos Agua Blanca (2).jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

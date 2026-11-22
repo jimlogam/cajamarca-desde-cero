@@ -1,0 +1,17 @@
+Nombre: LA CHINITA HOSPEDAJE
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel, Alojamiento con servicio
+Dirección: Ucayali 334, Cajamarca 06001
+Teléfono: 964 310 585
+Rating: 4.9
+Reseñas: 50
+Sitio web: 
+Latitud: -7.1558950999999995
+Longitud: -78.5238701
+Google Maps: https://www.google.com/maps?cid=13038038947497399553
+Place Id: ChIJe5J8wbJbspERAVVKIVhr8LQ
+Fotos: LA CHINITA HOSPEDAJE.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

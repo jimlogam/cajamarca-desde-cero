@@ -1,0 +1,17 @@
+Nombre: Moda Oversize
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Jirón Marañón 115, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.153534
+Longitud: -78.5182384
+Google Maps: https://www.google.com/maps?cid=4468455107483364363
+Place Id: ChIJO_BThJpbspERC2xT0D4kAz4
+Fotos: Moda Oversize.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

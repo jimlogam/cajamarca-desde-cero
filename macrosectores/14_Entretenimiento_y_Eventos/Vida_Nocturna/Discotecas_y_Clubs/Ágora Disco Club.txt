@@ -1,0 +1,17 @@
+Nombre: Ágora Disco Club
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
+Categoría Maps: Discoteca
+Dirección: Av. Hoyos Rubio 1425, Cajamarca 06001
+Teléfono: 900 346 903
+Rating: 4.1
+Reseñas: 70
+Sitio web: 
+Latitud: -7.1471938999999995
+Longitud: -78.50164079999999
+Google Maps: https://www.google.com/maps?cid=2239284307519992285
+Place Id: ChIJB1Uf6QlbspER3fHVpDaJEx8
+Fotos: Ágora Disco Club.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

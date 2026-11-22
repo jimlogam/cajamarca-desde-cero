@@ -1,0 +1,17 @@
+Nombre: Mr.Market
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado
+Dirección: Jr, Jirón Silva Santisteban N°645, Cajamarca 06001
+Teléfono: 914 392 222
+Rating: 
+Reseñas: 
+Sitio web: https://www.instagram.com/mr_market3?igsh=MTgwM2ZpNXRtczdkcQ==&utm_source=qr
+Latitud: -7.1613358
+Longitud: -78.5142225
+Google Maps: https://www.google.com/maps?cid=4842353367705181477
+Place Id: ChIJOxiuC-hbspERJd37Zrt-M0M
+Fotos: Mr.Market.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

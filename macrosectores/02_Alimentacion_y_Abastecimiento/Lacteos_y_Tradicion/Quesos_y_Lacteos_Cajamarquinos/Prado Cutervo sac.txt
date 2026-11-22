@@ -1,0 +1,17 @@
+Nombre: Prado Cutervo sac
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Quesería
+Dirección: Carr Chiclayo - Chota Kilometro 27, Cajamarca 06001
+Teléfono: 945 078 610
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/Prado-Express-232793260221457
+Latitud: -7.161842
+Longitud: -78.5083569
+Google Maps: https://www.google.com/maps?cid=9601639479928597567
+Place Id: ChIJT-OCiuBbspERP6yCPjzgP4U
+Fotos: Prado Cutervo sac.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

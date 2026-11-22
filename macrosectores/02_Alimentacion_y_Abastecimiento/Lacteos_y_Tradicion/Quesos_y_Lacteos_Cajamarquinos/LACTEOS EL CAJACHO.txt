@@ -1,0 +1,17 @@
+Nombre: LACTEOS EL CAJACHO
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Quesería
+Dirección: RFVJ+RXQ, Jr.Amazonas431, Cajamarca 06001
+Teléfono: 970 242 346
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1554074
+Longitud: -78.5175132
+Google Maps: https://www.google.com/maps?cid=4627482203198350955
+Place Id: ChIJ0crgqPlaspERa2YU3oseOEA
+Fotos: LACTEOS EL CAJACHO.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

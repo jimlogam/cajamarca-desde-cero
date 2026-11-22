@@ -1,0 +1,17 @@
+Nombre: Comercial
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Bodegas
+Categoría Maps: Bodega
+Dirección: Manco Cápac 106, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1649882
+Longitud: -78.51223519999999
+Google Maps: https://www.google.com/maps?cid=5243679647240418370
+Place Id: ChIJy5tcHxifs5ERQvS1YdtKxUg
+Fotos: Comercial.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

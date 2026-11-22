@@ -1,0 +1,17 @@
+Nombre: Zeus Sauna&Spa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Sauna pública
+Dirección: Jirón Manuel Seoane N° 502, Cajamarca 06001
+Teléfono: 937 727 491
+Rating: 3.4
+Reseñas: 14
+Sitio web: 
+Latitud: -7.1544855
+Longitud: -78.50977619999999
+Google Maps: https://www.google.com/maps?cid=115778210491609849
+Place Id: ChIJoWk62CxbspER-TIVRatTmwE
+Fotos: Zeus Sauna&Spa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

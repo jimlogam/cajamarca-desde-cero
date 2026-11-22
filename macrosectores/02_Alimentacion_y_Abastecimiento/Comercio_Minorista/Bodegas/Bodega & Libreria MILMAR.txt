@@ -1,0 +1,17 @@
+Nombre: Bodega & Libreria MILMAR
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Bodegas
+Categoría Maps: Bodega
+Dirección: Jr. Alfonso Ugarte 894, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1735852
+Longitud: -78.5097438
+Google Maps: https://www.google.com/maps?cid=10779222280848682872
+Place Id: ChIJbdsGWQBbspEReC_2vI19l5U
+Fotos: Bodega & Libreria MILMAR.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

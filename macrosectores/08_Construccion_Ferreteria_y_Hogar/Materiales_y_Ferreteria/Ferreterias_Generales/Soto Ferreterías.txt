@@ -1,0 +1,17 @@
+Nombre: Soto Ferreterías
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería, Tienda de artículos de fontanería
+Dirección: Plaza de Armas, Jr. Amazonas, 633-635 A una cuadra de la, Cajamarca
+Teléfono: (076) 366780
+Rating: 1.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1559579
+Longitud: -78.5167766
+Google Maps: https://www.google.com/maps?cid=15757454474247920684
+Place Id: ChIJbwN7CflaspERLNzvlVu5rdo
+Fotos: Soto Ferreterías.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Bar "La Oveja Negra"
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: Coronel Becerra 212, Chota 06121
+Teléfono: 
+Rating: 4.5
+Reseñas: 30
+Sitio web: 
+Latitud: -6.5620968
+Longitud: -78.6492155
+Google Maps: https://www.google.com/maps?cid=4164155346668957138
+Place Id: ChIJjf06aCSes5ER0i2_ozkNyjk
+Fotos: Bar La Oveja Negra.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

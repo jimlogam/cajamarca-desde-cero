@@ -1,0 +1,17 @@
+Nombre: ISUM CONTRATISTAS EIRL (Servicios Generales Casas)
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: JR. LIMA N° 775 LA ENCAÑADA CAJAMARCA CAJAMARCA
+Teléfono: (076) 774677
+Rating: 3.3
+Reseñas: 4
+Sitio web: 
+Latitud: -7.0881153
+Longitud: -78.3448825
+Google Maps: https://www.google.com/maps?cid=7927568644878593732
+Place Id: ChIJJRZvKfFIspERxG6DMq5hBG4
+Fotos: ISUM CONTRATISTAS EIRL (Servicios Generales Casas).jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

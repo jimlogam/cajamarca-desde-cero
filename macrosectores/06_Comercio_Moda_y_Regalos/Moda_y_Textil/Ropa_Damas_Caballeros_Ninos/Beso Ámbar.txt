@@ -1,0 +1,17 @@
+Nombre: Beso Ámbar
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Estrecho 114, Cajamarca 06001
+Teléfono: 978 371 446
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.161976999999999
+Longitud: -78.5128902
+Google Maps: https://www.google.com/maps?cid=16091472540013698801
+Place Id: ChIJG6pQ67JbspER8R541ARlUN8
+Fotos: Beso Ámbar.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

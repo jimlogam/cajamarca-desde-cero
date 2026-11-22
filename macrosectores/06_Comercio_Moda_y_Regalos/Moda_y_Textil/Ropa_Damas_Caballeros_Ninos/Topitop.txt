@@ -1,0 +1,17 @@
+Nombre: Topitop
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa, Tienda de ropa infantil, Tienda de accesorios de moda, Tienda de ropa de hombre, Tienda de ropa de mujer, Tienda de ropa para jóvenes
+Dirección: Jr. Apurimac 950, Cajamarca 06001
+Teléfono: 983 818 491
+Rating: 3.6
+Reseñas: 73
+Sitio web: https://www.topitop.pe/
+Latitud: -7.154667
+Longitud: -78.51735699999999
+Google Maps: https://www.google.com/maps?cid=5159782521607690538
+Place Id: ChIJJb4TtPlaspERKhmynt06m0c
+Fotos: Topitop.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

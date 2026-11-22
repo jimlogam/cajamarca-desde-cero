@@ -1,0 +1,17 @@
+Nombre: Distribuidora "J&S"
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Tienda de bebidas alcohólicas
+Dirección: Av. La Paz 2564, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1850974999999995
+Longitud: -78.49644769999999
+Google Maps: https://www.google.com/maps?cid=5283566621978632650
+Place Id: ChIJGf5GbUBbspERyqElYtn_Ukk
+Fotos: Distribuidora J&S.jpg
+Nota: Categoria Maps: tienda de bebidas alcoholicas Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

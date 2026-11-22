@@ -1,0 +1,17 @@
+Nombre: Hotel El Ingenio
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel, Bar, Restaurante
+Dirección: VF2P+GX4, Los Cipreses, Cajamarca 06001
+Teléfono: (076) 367121
+Rating: 4.2
+Reseñas: 188
+Sitio web: http://www.elingenio.com/
+Latitud: -7.1487485
+Longitud: -78.5125606
+Google Maps: https://www.google.com/maps?cid=1917808110733327189
+Place Id: ChIJvU2Jc_FaspERVXuf01BsnRo
+Fotos: Hotel El Ingenio.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

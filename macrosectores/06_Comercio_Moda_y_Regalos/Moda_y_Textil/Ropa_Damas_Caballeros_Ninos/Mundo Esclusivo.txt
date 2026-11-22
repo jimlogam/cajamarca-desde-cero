@@ -1,0 +1,17 @@
+Nombre: Mundo Esclusivo
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa de hombre
+Dirección: Cajamarca 06001
+Teléfono: 950 878 205
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1449155
+Longitud: -78.50644729999999
+Google Maps: https://www.google.com/maps?cid=5347022342488112551
+Place Id: ChIJKz4N_ApbspERp70Uon1wNEo
+Fotos: Sin foto en Maps
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

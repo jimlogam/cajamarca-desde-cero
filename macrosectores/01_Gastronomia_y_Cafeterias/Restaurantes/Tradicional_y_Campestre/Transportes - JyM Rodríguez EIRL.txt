@@ -1,0 +1,17 @@
+Nombre: Transportes : JyM Rodríguez EIRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de mudanzas, Servicio de logística
+Dirección: JR.Cuzco y, Sta. María 345, Cajamarca 06002
+Teléfono: 910 846 662
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1798835
+Longitud: -78.4957881
+Google Maps: https://www.google.com/maps?cid=4273940553131383974
+Place Id: ChIJ40RaFABbspERplyI7EkWUDs
+Fotos: Transportes - JyM Rodríguez EIRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

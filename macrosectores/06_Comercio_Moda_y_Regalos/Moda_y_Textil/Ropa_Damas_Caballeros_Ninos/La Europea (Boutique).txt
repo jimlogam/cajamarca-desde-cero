@@ -1,0 +1,17 @@
+Nombre: La Europea (Boutique)
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa de mujer
+Dirección: Jr.Amazonas 671, Cajamarca 06002
+Teléfono: 
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.156303599999999
+Longitud: -78.5164017
+Google Maps: https://www.google.com/maps?cid=18124319285559705900
+Place Id: ChIJH9wZLQBbspERLEGMC12Ehvs
+Fotos: La Europea (Boutique).jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

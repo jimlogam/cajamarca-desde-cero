@@ -1,0 +1,17 @@
+Nombre: Tienda Variedades
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Av. Independencia 568, Cajamarca 06002
+Teléfono: 
+Rating: 4.6
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1690267
+Longitud: -78.5114052
+Google Maps: https://www.google.com/maps?cid=17441355228564165494
+Place Id: ChIJXRqHO79bspERdhP4DywkDPI
+Fotos: Tienda Variedades.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Tours Sol Chotano
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de envíos
+Dirección: Jr. Sara MacDougall 243, Cajamarca 06001
+Teléfono: 975 970 766
+Rating: 3.8
+Reseñas: 212
+Sitio web: 
+Latitud: -7.1517624
+Longitud: -78.52240739999999
+Google Maps: https://www.google.com/maps?cid=8822541858986948889
+Place Id: ChIJRTjTRlhaspERGXnusBP3b3o
+Fotos: Tours Sol Chotano.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

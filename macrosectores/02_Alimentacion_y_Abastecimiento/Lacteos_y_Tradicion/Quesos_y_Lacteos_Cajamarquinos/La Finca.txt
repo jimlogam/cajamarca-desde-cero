@@ -1,0 +1,17 @@
+Nombre: La Finca
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Quesería
+Dirección: QHQ3+P7J, Unnamed Road, Iscoconga, Iscoconga
+Teléfono: 976 671 726
+Rating: 4.1
+Reseñas: 27
+Sitio web: 
+Latitud: -7.210658
+Longitud: -78.4468447
+Google Maps: https://www.google.com/maps?cid=5041055549432983594
+Place Id: ChIJUxy-oGZDspERKvD2RFBt9UU
+Fotos: La Finca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Ztec S.R.L
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Consultora informática, Soporte y servicios informáticos
+Dirección: Jirón Cruz de Piedra, Cajamarca 06002
+Teléfono: (076) 361384
+Rating: 4.6
+Reseñas: 10
+Sitio web: http://www.ztec.pe/
+Latitud: -7.1578349999999995
+Longitud: -78.5187554
+Google Maps: https://www.google.com/maps?cid=8015522620476590432
+Place Id: ChIJJ8GoxfhaspERYImd8lrbPG8
+Fotos: Ztec S.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: El Cruceñito Cajamarca
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Quesería
+Dirección: Av. Gral. Eugenio Garzón 1599, Jesús María 15072
+Teléfono: (01) 5837828
+Rating: 4.1
+Reseñas: 15
+Sitio web: 
+Latitud: -12.0759633
+Longitud: -77.0525378
+Google Maps: https://www.google.com/maps?cid=4266652354975316416
+Place Id: ChIJ6ftdz_zIBZERwDljDrYxNjs
+Fotos: El Cruceñito Cajamarca.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

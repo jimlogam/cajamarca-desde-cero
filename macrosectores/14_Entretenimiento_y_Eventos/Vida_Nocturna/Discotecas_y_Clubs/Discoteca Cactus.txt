@@ -1,0 +1,17 @@
+Nombre: Discoteca Cactus
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
+Categoría Maps: Discoteca
+Dirección: Av. Hoyos Rubio 1465, Cajamarca 06001
+Teléfono: 963 803 921
+Rating: 3.6
+Reseñas: 495
+Sitio web: 
+Latitud: -7.147011399999999
+Longitud: -78.50125469999999
+Google Maps: https://www.google.com/maps?cid=6761725819639905303
+Place Id: ChIJvRzF0OtaspERFzw5zM551l0
+Fotos: Discoteca Cactus.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

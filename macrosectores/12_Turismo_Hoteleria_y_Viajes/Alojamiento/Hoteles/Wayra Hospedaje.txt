@@ -1,0 +1,17 @@
+Nombre: Wayra Hospedaje
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel, Agencia de excursiones en autobús, Agencia de visitas turísticas, Servicio de transporte
+Dirección: JR. El Bosque 115, Baños del Inca 06004
+Teléfono: 981 077 075
+Rating: 4.1
+Reseñas: 86
+Sitio web: http://booking.com/
+Latitud: -7.158937
+Longitud: -78.4574427
+Google Maps: https://www.google.com/maps?cid=12419115726367742905
+Place Id: ChIJwdqXLyFFspERududLvSPWaw
+Fotos: Wayra Hospedaje.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

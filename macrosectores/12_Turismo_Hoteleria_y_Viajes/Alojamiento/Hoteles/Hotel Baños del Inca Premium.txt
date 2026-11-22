@@ -1,0 +1,17 @@
+Nombre: Hotel Baños del Inca "Premium"
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Baños del Inca 06004
+Teléfono: 934 695 424
+Rating: 4.6
+Reseñas: 126
+Sitio web: 
+Latitud: -7.1624536999999995
+Longitud: -78.4599126
+Google Maps: https://www.google.com/maps?cid=4286246107178444062
+Place Id: ChIJgwdS5DxFspERHqVF_h_Oezs
+Fotos: Hotel Baños del Inca Premium.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

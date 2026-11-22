@@ -1,0 +1,17 @@
+Nombre: Imperial International Institute
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Institución educativa, Service establishment
+Dirección: 
+Teléfono: 948 494 170
+Rating: 
+Reseñas: 
+Sitio web: http://www.imperial.edu.pe/
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=5142126579974221434
+Place Id: ChIJAxHhRgl342cRei51XeGAXEc
+Fotos: Imperial International Institute.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Hotel Aural | Hotel en Cajamarca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Amalia Puga 1118, Cajamarca 06001
+Teléfono: 984 284 373
+Rating: 4.5
+Reseñas: 91
+Sitio web: https://auralhotelcajamarca.com/
+Latitud: -7.1605973
+Longitud: -78.51367119999999
+Google Maps: https://www.google.com/maps?cid=16118354549691627159
+Place Id: ChIJobmtFYRbspERl7YrchDmr98
+Fotos: Hotel Aural - Hotel en Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

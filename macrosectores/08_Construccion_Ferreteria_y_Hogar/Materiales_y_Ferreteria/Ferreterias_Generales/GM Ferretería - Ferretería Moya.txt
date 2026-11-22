@@ -1,0 +1,17 @@
+Nombre: GM Ferretería - Ferretería Moya
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Prol. Amalia Puga 243, Cajamarca 06001
+Teléfono: 
+Rating: 4.1
+Reseñas: 50
+Sitio web: 
+Latitud: -7.1527487999999995
+Longitud: -78.5220293
+Google Maps: https://www.google.com/maps?cid=4208966982679027511
+Place Id: ChIJM_aHGFhaspERN1_usStBaTo
+Fotos: GM Ferretería - Ferretería Moya.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

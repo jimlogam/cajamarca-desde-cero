@@ -1,0 +1,17 @@
+Nombre: SOLGAS CAJAMARCA SALCEDO
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Prolongacion Petateros 2535, Cajamarca 06000
+Teléfono: 976 331 281
+Rating: 4.4
+Reseñas: 13
+Sitio web: 
+Latitud: -7.174273899999999
+Longitud: -78.5132364
+Google Maps: https://www.google.com/maps?cid=14965294758139938593
+Place Id: ChIJNxHO2ppbspERIUfyAUtor88
+Fotos: SOLGAS CAJAMARCA SALCEDO.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

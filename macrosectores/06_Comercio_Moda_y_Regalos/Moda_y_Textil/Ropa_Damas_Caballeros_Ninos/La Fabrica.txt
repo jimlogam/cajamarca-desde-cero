@@ -1,0 +1,17 @@
+Nombre: La Fabrica
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Jr. Apurimac 1024, Cajamarca 06001
+Teléfono: 
+Rating: 4.3
+Reseñas: 9
+Sitio web: 
+Latitud: -7.1541557
+Longitud: -78.5170347
+Google Maps: https://www.google.com/maps?cid=15098297925152658373
+Place Id: ChIJOV7fxflaspERxdO9_ffth9E
+Fotos: La Fabrica.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: MECÁNICA CHINITO - Taller Autorizado Motocorp
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Taller de automóviles
+Dirección: Jr. Alfonso Ugarte 106, Cajamarca 06002
+Teléfono: 977 210 600
+Rating: 3.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1673484
+Longitud: -78.5111842
+Google Maps: https://www.google.com/maps?cid=17823890484849212113
+Place Id: ChIJffSmEwNbspER0frmAPYtW_c
+Fotos: MECÁNICA CHINITO - Taller Autorizado Motocorp.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

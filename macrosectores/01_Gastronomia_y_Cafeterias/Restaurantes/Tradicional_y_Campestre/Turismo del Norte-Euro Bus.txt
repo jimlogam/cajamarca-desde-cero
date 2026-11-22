@@ -1,0 +1,17 @@
+Nombre: Turismo del Norte/Euro Bus
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de autobuses
+Dirección: Av. Vía de Evitamiento Sur 2339, Cajamarca 06003
+Teléfono: 964 916 371
+Rating: 1.6
+Reseñas: 7
+Sitio web: http://www.turismodelnorte.com/
+Latitud: -7.174811999999999
+Longitud: -78.4907561
+Google Maps: https://www.google.com/maps?cid=14977512817889556274
+Place Id: ChIJV12OeABbspERMrcquY3Q2s8
+Fotos: Turismo del Norte-Euro Bus.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

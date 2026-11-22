@@ -1,0 +1,17 @@
+Nombre: Melamina "EL MAGO:
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Andes 244, Cajamarca 06003
+Teléfono: 914 573 127
+Rating: 4.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1691883999999995
+Longitud: -78.5014951
+Google Maps: https://www.google.com/maps?cid=7263096039606302884
+Place Id: ChIJr-axCINbspERpLhH0l2zy2Q
+Fotos: Melamina EL MAGO-.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

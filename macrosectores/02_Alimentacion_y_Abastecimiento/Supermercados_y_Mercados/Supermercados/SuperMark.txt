@@ -1,0 +1,17 @@
+Nombre: SuperMark
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado, Tienda de alimentación
+Dirección: Av. Andrés Zevallos 2240, Cajamarca 06002
+Teléfono: 916 979 895
+Rating: 4.9
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1558917
+Longitud: -78.50661219999999
+Google Maps: https://www.google.com/maps?cid=1666890350983724863
+Place Id: ChIJWShHaaZbspERPz_pUfH7IRc
+Fotos: SuperMark.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

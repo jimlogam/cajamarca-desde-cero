@@ -1,0 +1,17 @@
+Nombre: Distribuidora Ferretera
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Túpac Amaru 1785 06000, Cajamarca 06001
+Teléfono: 951 233 134
+Rating: 3.8
+Reseñas: 6
+Sitio web: 
+Latitud: -7.183539199999999
+Longitud: -78.4999416
+Google Maps: https://www.google.com/maps?cid=12105914053068812298
+Place Id: ChIJzfRycz1bspERCnCT_rDYAKg
+Fotos: Distribuidora Ferretera.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

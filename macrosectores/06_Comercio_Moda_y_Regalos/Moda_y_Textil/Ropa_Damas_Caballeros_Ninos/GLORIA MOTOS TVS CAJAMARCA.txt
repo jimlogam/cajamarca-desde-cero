@@ -1,0 +1,17 @@
+Nombre: "GLORIA MOTOS" TVS CAJAMARCA
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Vía de Evitamiento Nte. 2539, Cajamarca 06002
+Teléfono: 976 361 189
+Rating: 3.2
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1578431
+Longitud: -78.50652889999999
+Google Maps: https://www.google.com/maps?cid=6018063379866925809
+Place Id: ChIJ7Wm2gORaspER8TrBSMJ0hFM
+Fotos: GLORIA MOTOS TVS CAJAMARCA.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

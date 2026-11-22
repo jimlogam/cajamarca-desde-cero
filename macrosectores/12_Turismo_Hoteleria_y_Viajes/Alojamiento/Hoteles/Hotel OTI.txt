@@ -1,0 +1,17 @@
+Nombre: Hotel OTI
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Miguel Grau 307, Cajamarca 06000
+Teléfono: 994 611 683
+Rating: 4.6
+Reseñas: 25
+Sitio web: 
+Latitud: -7.154760899999999
+Longitud: -78.5124834
+Google Maps: https://www.google.com/maps?cid=4593368279513022520
+Place Id: ChIJBw7ED79bspEROMDrDh3svj8
+Fotos: Hotel OTI.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

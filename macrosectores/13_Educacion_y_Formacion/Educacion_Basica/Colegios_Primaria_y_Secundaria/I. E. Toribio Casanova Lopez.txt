@@ -1,0 +1,17 @@
+Nombre: I. E. Toribio Casanova Lopez
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Institución educativa
+Dirección: Dos de Mayo 1018, Cajamarca 06002
+Teléfono: 930 656 677
+Rating: 3.6
+Reseñas: 9
+Sitio web: 
+Latitud: -7.153232
+Longitud: -78.5136218
+Google Maps: https://www.google.com/maps?cid=14761570600086789505
+Place Id: ChIJw9juGfpaspERgd0FKUCi28w
+Fotos: I. E. Toribio Casanova Lopez.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

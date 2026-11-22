@@ -1,0 +1,17 @@
+Nombre: JAVIER MOTOS MULTIMARCAS - CAJAMARCA
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Av Vía de Evitamiento Nte 256, Cajamarca 06001
+Teléfono: 962 089 820
+Rating: 4.6
+Reseñas: 5
+Sitio web: 
+Latitud: -7.147939
+Longitud: -78.52301729999999
+Google Maps: https://www.google.com/maps?cid=8382249362512624849
+Place Id: ChIJDQNB58FbspER0TxPV2K7U3Q
+Fotos: JAVIER MOTOS MULTIMARCAS - CAJAMARCA.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

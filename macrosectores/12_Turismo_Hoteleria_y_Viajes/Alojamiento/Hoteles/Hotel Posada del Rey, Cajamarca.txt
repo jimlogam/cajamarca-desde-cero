@@ -1,0 +1,17 @@
+Nombre: Hotel Posada del Rey, Cajamarca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Av. Aurelio pastor mz c. Lt 5-6, Cajamarca 06002
+Teléfono: 959 886 223
+Rating: 4.1
+Reseñas: 35
+Sitio web: https://www.facebook.com/PosadaDelReyCajamarca/
+Latitud: -7.1699139
+Longitud: -78.49223169999999
+Google Maps: https://www.google.com/maps?cid=14267148798052019316
+Place Id: ChIJwzLT_OdbspERdCyIwT0Y_8U
+Fotos: Hotel Posada del Rey, Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

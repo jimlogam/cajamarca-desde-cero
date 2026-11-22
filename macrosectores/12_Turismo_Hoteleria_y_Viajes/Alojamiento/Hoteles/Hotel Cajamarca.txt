@@ -1,0 +1,17 @@
+Nombre: Hotel Cajamarca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Dos de Mayo 311, Cajamarca 06002
+Teléfono: (076) 262025
+Rating: 4.1
+Reseñas: 405
+Sitio web: http://www.hotelcajamarca.com.pe/
+Latitud: -7.1585747
+Longitud: -78.5179406
+Google Maps: https://www.google.com/maps?cid=2594825363416871315
+Place Id: ChIJIf7XeG1bspERk_GiiOurAiQ
+Fotos: Hotel Cajamarca.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

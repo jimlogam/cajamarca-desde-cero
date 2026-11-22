@@ -1,0 +1,17 @@
+Nombre: NEGOCIOS KAMBER
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado
+Dirección: Chanchamayo N° 1231, Cajamarca 06001
+Teléfono: 948 628 086
+Rating: 4.4
+Reseñas: 7
+Sitio web: http://www.negocioskamber.com/
+Latitud: -7.149246
+Longitud: -78.5212355
+Google Maps: https://www.google.com/maps?cid=4698308301021267966
+Place Id: ChIJ8fQ3ifdaspER_kekz4G-M0E
+Fotos: NEGOCIOS KAMBER.jpg
+Nota: Aparecia 3 veces en los archivos de la cosecha original; fusionado en uno.
+

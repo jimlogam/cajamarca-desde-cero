@@ -1,0 +1,17 @@
+Nombre: Tucellperu
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Distribuidor de equipos de telecomunicación
+Dirección: Cajamarca 06001
+Teléfono: 955 780 664
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1478060999999995
+Longitud: -78.5124862
+Google Maps: https://www.google.com/maps?cid=11922498793002407277
+Place Id: ChIJ-RU79wVbspERbZXu73s5daU
+Fotos: Tucellperu.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

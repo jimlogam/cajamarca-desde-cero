@@ -1,0 +1,17 @@
+Nombre: Molilandia
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
+Categoría Maps: Parque infantil cubierto
+Dirección: VFCP+5GW, Av. Juan Miguel Rosse, Cajamarca 06000
+Teléfono: 
+Rating: 4.3
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1297476
+Longitud: -78.51358809999999
+Google Maps: https://www.google.com/maps?cid=7581273639786729493
+Place Id: ChIJ8xClZClbspERFVCFRDUYNmk
+Fotos: Molilandia.jpg
+Nota: Aparecia 8 veces en los archivos de la cosecha original; fusionado en uno.
+

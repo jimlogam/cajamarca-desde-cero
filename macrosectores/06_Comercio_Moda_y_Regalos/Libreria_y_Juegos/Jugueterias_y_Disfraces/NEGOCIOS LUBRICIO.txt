@@ -1,0 +1,17 @@
+Nombre: NEGOCIOS LUBRICIO
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
+Categoría Maps: Juguetería
+Dirección: Colladar, Cajamarca 06002
+Teléfono: 969 617 702
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1601596
+Longitud: -78.5102272
+Google Maps: https://www.google.com/maps?cid=13933313049709755962
+Place Id: ChIJ66ShecRbspEROr5DmGUSXcE
+Fotos: NEGOCIOS LUBRICIO.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

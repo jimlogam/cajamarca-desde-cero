@@ -1,0 +1,17 @@
+Nombre: Lácteos Sorochuco
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Tienda de productos lácteos
+Dirección: Jr.Amazonas 525, Cajamarca 06002
+Teléfono: 936 487 027
+Rating: 3.5
+Reseñas: 2
+Sitio web: https://www.facebook.com/Lacteos.Sorochuco?mibextid=LQQJ4dY
+Latitud: -7.1552677
+Longitud: -78.51768919999999
+Google Maps: https://www.google.com/maps?cid=10646721575742583465
+Place Id: ChIJI6kTdCVbspERqbKfSN3AwJM
+Fotos: Lácteos Sorochuco.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

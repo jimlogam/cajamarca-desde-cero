@@ -1,0 +1,17 @@
+Nombre: Waytec Peru (Oficina Cajamarca)
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Proveedor de servicios de Internet
+Dirección: Jr, Av. La Cantuta 609, Cajamarca
+Teléfono: 945 525 102
+Rating: 3.8
+Reseñas: 5
+Sitio web: https://waytec.pe/
+Latitud: -7.1606171
+Longitud: -78.50065409999999
+Google Maps: https://www.google.com/maps?cid=3555598413099559264
+Place Id: ChIJCcmYfCxbspERYOm9GOsFWDE
+Fotos: Waytec Peru (Oficina Cajamarca).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Campo Deportivo EL INGENIO
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
+Categoría Maps: Parque infantil
+Dirección: 051, Jirón Las Casuarinas 603, Cajamarca
+Teléfono: 
+Rating: 3.3
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1494332
+Longitud: -78.51554159999999
+Google Maps: https://www.google.com/maps?cid=7681094951673380380
+Place Id: ChIJ29GuXgNbspERHL6JkCm7mGo
+Fotos: Campo Deportivo EL INGENIO.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: KAYSER | Real Plaza Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa interior, Tienda de ropa, Tienda general, Tienda de lencería
+Dirección: Vía de Evitamiento Nte. Lote 1, Cajamarca 06002
+Teléfono: 970 841 623
+Rating: 3.4
+Reseñas: 10
+Sitio web: https://www.kayser.pe/
+Latitud: -7.1545945
+Longitud: -78.505912
+Google Maps: https://www.google.com/maps?cid=6100646126237051088
+Place Id: ChIJUfDzZPRaspER0Oi4RlTZqVQ
+Fotos: KAYSER - Real Plaza Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

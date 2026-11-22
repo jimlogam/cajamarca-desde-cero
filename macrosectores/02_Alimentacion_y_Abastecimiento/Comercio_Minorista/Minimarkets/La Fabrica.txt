@@ -1,0 +1,17 @@
+Nombre: La Fabrica
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Dos de Mayo 572, Cajamarca 06002
+Teléfono: 
+Rating: 4.3
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1566696
+Longitud: -78.51634229999999
+Google Maps: https://www.google.com/maps?cid=8352771577315867066
+Place Id: ChIJbZTJbPlaspERujnko34B63M
+Fotos: La Fabrica.jpg
+Nota: Aparecia 8 veces en los archivos de la cosecha original; fusionado en uno.
+

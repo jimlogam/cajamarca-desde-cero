@@ -1,0 +1,17 @@
+Nombre: Black 2.0
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa para jóvenes
+Dirección: Jr.Amazonas 1079, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1585613
+Longitud: -78.51368719999999
+Google Maps: https://www.google.com/maps?cid=3049830914582683690
+Place Id: ChIJr1FSqPJbspERKqC04A4tUyo
+Fotos: Black 2.0.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

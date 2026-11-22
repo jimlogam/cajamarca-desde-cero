@@ -1,0 +1,17 @@
+Nombre: DKTOYS - LIBRERIA JUGUETERIA
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
+Categoría Maps: Librería, Tienda de disfraces, Juguetería
+Dirección: Jr. José Sabogal 211, Cajamarca 06001
+Teléfono: 977 636 039
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/Importaciones-DHk-100166875097546/
+Latitud: -7.1539163
+Longitud: -78.5175593
+Google Maps: https://www.google.com/maps?cid=4042090747323904790
+Place Id: ChIJQf9bJ1ZbspERFnMiaB5kGDg
+Fotos: DKTOYS - LIBRERIA JUGUETERIA.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

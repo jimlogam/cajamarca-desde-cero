@@ -1,0 +1,17 @@
+Nombre: Mercado San Martin
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Puestos_de_Mercado_de_Abastos
+Categoría Maps: Mercado
+Dirección: Jirón El Milagro 292, Cajamarca 06003
+Teléfono: 
+Rating: 3.9
+Reseñas: 1152
+Sitio web: 
+Latitud: -7.1676581
+Longitud: -78.5014735
+Google Maps: https://www.google.com/maps?cid=12173744496982739592
+Place Id: ChIJx6PzxB5bspERiMoF6R7U8ag
+Fotos: Mercado San Martin.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Tienda de motocargueras y lineales cajamarca MOTOWORX
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de motocicletas
+Dirección: 7.175795 78.492575, Cajamarca 06001
+Teléfono: 940 300 412
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1757975
+Longitud: -78.4925658
+Google Maps: https://www.google.com/maps?cid=15813745790108078979
+Place Id: ChIJn-9LkStbspERg5O44wK2dds
+Fotos: Tienda de motocargueras y lineales cajamarca MOTOWORX.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

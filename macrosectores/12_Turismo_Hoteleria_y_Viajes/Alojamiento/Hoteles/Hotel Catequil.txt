@@ -1,0 +1,17 @@
+Nombre: Hotel Catequil
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr. Guillermo Urrelo 688, Cajamarca 06002
+Teléfono: (076) 368838
+Rating: 4.4
+Reseñas: 152
+Sitio web: 
+Latitud: -7.1599013
+Longitud: -78.5162995
+Google Maps: https://www.google.com/maps?cid=15362961523699380427
+Place Id: ChIJJanglP5aspERy3AY_hs0NNU
+Fotos: Hotel Catequil.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Kokito’s Minimarket
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Bodegas
+Categoría Maps: Bodega
+Dirección: Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1470495
+Longitud: -78.5081122
+Google Maps: https://www.google.com/maps?cid=15907995327046887695
+Place Id: ChIJ2VjmSZJbspERDyk0PXeNxNw
+Fotos: Kokito’s Minimarket.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: IEP La Católica
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Centro de educación preescolar
+Dirección: Jr. Tarapacá 634, Cajamarca 06001
+Teléfono: 261626
+Rating: 4.7
+Reseñas: 6
+Sitio web: 
+Latitud: -7.156492399999999
+Longitud: -78.5204356
+Google Maps: https://www.google.com/maps?cid=8888375533198406029
+Place Id: ChIJx2kzhfhaspERjXGQbnTaWXs
+Fotos: IEP La Católica.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Minimarket Don Sheguito
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado
+Dirección: Jr Clodomiro Cerna 212, Cajamarca 06002
+Teléfono: 948 464 149
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.164090099999999
+Longitud: -78.50002599999999
+Google Maps: https://www.google.com/maps?cid=18372829269771102242
+Place Id: ChIJTb8BhblbspERIiibn-Bm-f4
+Fotos: Minimarket Don Sheguito.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

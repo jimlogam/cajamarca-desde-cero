@@ -1,0 +1,17 @@
+Nombre: Minimarket El Jacal
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado, Tienda de alimentación
+Dirección: Jr. Marina Rojas, Cajamarca 06003
+Teléfono: 936 171 911
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.184581799999999
+Longitud: -78.48632669999999
+Google Maps: https://www.google.com/maps?cid=16391555986836824432
+Place Id: ChIJuZydVUJbspERcCFW51KBeuM
+Fotos: Minimarket El Jacal.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

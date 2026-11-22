@@ -1,0 +1,17 @@
+Nombre: PRIA
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa de mujer
+Dirección: Los Dogos 295, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.147097199999999
+Longitud: -78.5129278
+Google Maps: https://www.google.com/maps?cid=18049976447358381475
+Place Id: ChIJz26sIQBbspERo632LPJlfvo
+Fotos: PRIA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

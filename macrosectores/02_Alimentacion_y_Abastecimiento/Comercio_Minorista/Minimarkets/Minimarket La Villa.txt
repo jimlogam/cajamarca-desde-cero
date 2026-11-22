@@ -1,0 +1,17 @@
+Nombre: Minimarket La Villa
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Universitaria 585, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.162435299999999
+Longitud: -78.5005498
+Google Maps: https://www.google.com/maps?cid=4029417903920213300
+Place Id: ChIJb0iuM-BaspERNG3DHjxe6zc
+Fotos: Minimarket La Villa.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Muebleria Miguel Angel
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
+Categoría Maps: Tienda de muebles
+Dirección: Leguía 245, Cajamarca 06001
+Teléfono: 976 701 015
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1524557
+Longitud: -78.5187426
+Google Maps: https://www.google.com/maps?cid=17781178616499801560
+Place Id: ChIJ8Tx_C2lbspER2A0-NL5vw_Y
+Fotos: Muebleria Miguel Angel.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

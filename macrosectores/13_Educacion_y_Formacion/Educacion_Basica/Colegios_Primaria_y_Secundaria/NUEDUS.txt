@@ -1,0 +1,17 @@
+Nombre: NUEDUS
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Institución educativa
+Dirección: Jr. Apurimac 579, Cajamarca 06001
+Teléfono: (076) 340109
+Rating: 
+Reseñas: 
+Sitio web: http://nuedus.com/
+Latitud: -7.1575317
+Longitud: -78.5201709
+Google Maps: https://www.google.com/maps?cid=11446232769387829750
+Place Id: ChIJr1FwpPhaspER9hnMGw8w2Z4
+Fotos: NUEDUS.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

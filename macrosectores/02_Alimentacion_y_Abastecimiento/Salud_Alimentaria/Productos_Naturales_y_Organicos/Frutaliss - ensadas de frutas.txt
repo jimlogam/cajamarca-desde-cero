@@ -1,0 +1,17 @@
+Nombre: Frutaliss - ensadas de frutas
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Salud_Alimentaria
+Subrubro: Productos_Naturales_y_Organicos
+Categoría Maps: Tienda de alimentos naturales
+Dirección: Av Vía de Evitamiento Nte 1329, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.149462
+Longitud: -78.50673669999999
+Google Maps: https://www.google.com/maps?cid=14178214077958480702
+Place Id: ChIJy22NGDVbspERPmMoopUiw8Q
+Fotos: Frutaliss - ensadas de frutas.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

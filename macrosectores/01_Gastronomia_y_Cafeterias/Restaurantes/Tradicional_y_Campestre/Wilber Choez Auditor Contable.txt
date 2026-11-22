@@ -1,0 +1,17 @@
+Nombre: Wilber Choez Auditor Contable
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de contabilidad
+Dirección: Cajamarca 06003
+Teléfono: 976 970 580
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1858887
+Longitud: -78.4943321
+Google Maps: https://www.google.com/maps?cid=1749025991720470238
+Place Id: ChIJWXtYg9VbspER3oZsa9_JRRg
+Fotos: Wilber Choez Auditor Contable.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Mirador Santa Apolonia
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Agencias_y_Operadores
+Subrubro: Turismo_Vivencial_y_Aventura
+Categoría Maps: Atracción turística
+Dirección: RFQJ+R96, Cajamarca 06002
+Teléfono: 
+Rating: 4.6
+Reseñas: 4652
+Sitio web: 
+Latitud: -7.1604684999999995
+Longitud: -78.5191047
+Google Maps: https://www.google.com/maps?cid=1513177417213647008
+Place Id: ChIJLYj-cf9aspERoJgpA9ji_xQ
+Fotos: Mirador Santa Apolonia.jpg
+Nota: Atraccion turistica, no es un negocio Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

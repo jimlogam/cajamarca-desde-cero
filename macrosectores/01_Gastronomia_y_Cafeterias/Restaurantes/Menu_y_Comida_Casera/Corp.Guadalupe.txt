@@ -1,0 +1,17 @@
+Nombre: Corp.Guadalupe
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Tienda de bolígrafos, Tienda de cubertería, Tienda general, Comida a domicilio, Tienda de material escolar, Proveedor de servicios de telecomunicaciones
+Dirección: Jr. José Sabogal #942, Cajamarca 06002
+Teléfono: 988 265 759
+Rating: 
+Reseñas: 
+Sitio web: https://corp-guadalupe.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.156746999999999
+Longitud: -78.5144176
+Google Maps: https://www.google.com/maps?cid=16632263097097294913
+Place Id: ChIJgYTIzWBbspERQZRSUSqr0eY
+Fotos: Corp.Guadalupe.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

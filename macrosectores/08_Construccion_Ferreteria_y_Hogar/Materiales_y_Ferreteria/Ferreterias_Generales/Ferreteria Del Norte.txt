@@ -1,0 +1,17 @@
+Nombre: Ferreteria Del Norte
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Angamos 1163, Cajamarca 06001
+Teléfono: (076) 340949
+Rating: 4.3
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1469051
+Longitud: -78.5244936
+Google Maps: https://www.google.com/maps?cid=3531548914371624956
+Place Id: ChIJ3QYiwl5aspER_H8J1AaVAjE
+Fotos: Ferreteria Del Norte.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

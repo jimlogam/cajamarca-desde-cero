@@ -1,0 +1,17 @@
+Nombre: minimarket el veshy
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: VF6M+M45, C. Irlanda, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.138367199999999
+Longitud: -78.51713769999999
+Google Maps: https://www.google.com/maps?cid=15451973520132609356
+Place Id: ChIJ5QkDntNbspERTBU_agxwcNY
+Fotos: minimarket el veshy.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

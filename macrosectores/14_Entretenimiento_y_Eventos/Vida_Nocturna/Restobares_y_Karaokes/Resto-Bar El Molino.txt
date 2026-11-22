@@ -1,0 +1,17 @@
+Nombre: Resto-Bar El Molino
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Bar
+Dirección: Av. Nuevo Perú, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.130717799999999
+Longitud: -78.52371459999999
+Google Maps: https://www.google.com/maps?cid=13074864640738418058
+Place Id: ChIJXS36CvhbspERil2H_R1Ac7U
+Fotos: Resto-Bar El Molino.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

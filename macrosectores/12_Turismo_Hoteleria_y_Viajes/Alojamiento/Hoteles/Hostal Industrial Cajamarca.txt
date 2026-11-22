@@ -1,0 +1,17 @@
+Nombre: Hostal Industrial Cajamarca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Av. Industrial 755, Cajamarca 06003
+Teléfono: 974 173 399
+Rating: 3.8
+Reseñas: 33
+Sitio web: 
+Latitud: -7.179856399999999
+Longitud: -78.486999
+Google Maps: https://www.google.com/maps?cid=18346988799368491060
+Place Id: ChIJ43djckBbspERNPBtRBuZnf4
+Fotos: Hostal Industrial Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

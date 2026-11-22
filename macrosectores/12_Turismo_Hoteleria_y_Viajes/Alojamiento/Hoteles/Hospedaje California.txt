@@ -1,0 +1,17 @@
+Nombre: Hospedaje California
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Av. Nuevo Cajamarca 712, Cajamarca 06003
+Teléfono: 
+Rating: 3.5
+Reseñas: 46
+Sitio web: 
+Latitud: -7.180529099999999
+Longitud: -78.4966803
+Google Maps: https://www.google.com/maps?cid=5443812017330964114
+Place Id: ChIJbag-FT5bspERksYD7S9OjEs
+Fotos: Hospedaje California.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

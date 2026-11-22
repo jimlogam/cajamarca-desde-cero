@@ -1,0 +1,17 @@
+Nombre: Hotel & Spa Laguna Seca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Av. Manco Cápac 1098, Baños del Inca 06004
+Teléfono: 976 332 043
+Rating: 4.5
+Reseñas: 739
+Sitio web: https://lagunaseca.com.pe/
+Latitud: -7.1640454
+Longitud: -78.458321
+Google Maps: https://www.google.com/maps?cid=16110842838148352779
+Place Id: ChIJj4izS99EspERC4v6zzM2ld8
+Fotos: Hotel & Spa Laguna Seca.jpg
+Nota: Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Muebleria Cajamarquez
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Av San Martín de Porres 2010, Cajamarca 06003
+Teléfono: 976 835 030
+Rating: 5
+Reseñas: 1
+Sitio web: http://www.facebook.com/muebles.cajamarquez.caj
+Latitud: -7.1799814
+Longitud: -78.493557
+Google Maps: https://www.google.com/maps?cid=2396595986877002721
+Place Id: ChIJixZ6lfBbspER4TPuM1prQiE
+Fotos: Muebleria Cajamarquez.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

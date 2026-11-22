@@ -1,0 +1,17 @@
+Nombre: Market San Pedro
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado
+Dirección: Junín 372, Cajamarca 06001
+Teléfono: 
+Rating: 4.6
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1557832999999995
+Longitud: -78.5224478
+Google Maps: https://www.google.com/maps?cid=16860964560012115694
+Place Id: ChIJUfxU49tbspER7v74Ie8t_uk
+Fotos: Market San Pedro.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

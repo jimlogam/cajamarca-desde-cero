@@ -1,0 +1,17 @@
+Nombre: Walá Bookstore
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Librería
+Dirección: Jr.Amazonas 663, Cajamarca 06010
+Teléfono: 982 754 720
+Rating: 3.9
+Reseñas: 12
+Sitio web: http://www.walabookstore.com/
+Latitud: -7.1561452999999995
+Longitud: -78.5164468
+Google Maps: https://www.google.com/maps?cid=1739826110965468062
+Place Id: ChIJ3x-0z8dbspERnssLQ6EaJRg
+Fotos: Walá Bookstore.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: J&G minimarket
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: Av. El Maestro 365, Cajamarca 06002
+Teléfono: 
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1589569
+Longitud: -78.5115352
+Google Maps: https://www.google.com/maps?cid=10820605971207842166
+Place Id: ChIJDeeqEQBbspERdmlQAM2DKpY
+Fotos: J&G minimarket.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

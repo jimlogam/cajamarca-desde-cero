@@ -1,0 +1,17 @@
+Nombre: Kalle Minimarket
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Jirón del Comercio 708, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.156695
+Longitud: -78.5190288
+Google Maps: https://www.google.com/maps?cid=11715162599976553429
+Place Id: ChIJo3tC7PhaspER1UuLqVCelKI
+Fotos: Kalle Minimarket.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

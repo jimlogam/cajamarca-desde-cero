@@ -1,0 +1,17 @@
+Nombre: Minimarket Huacaloma
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Av San Martín de Porres 1331, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1732068
+Longitud: -78.49880069999999
+Google Maps: https://www.google.com/maps?cid=13153494029318221101
+Place Id: ChIJ72ZkGhhbspERLe27JCGZirY
+Fotos: Minimarket Huacaloma.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

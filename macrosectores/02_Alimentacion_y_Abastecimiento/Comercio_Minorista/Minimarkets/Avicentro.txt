@@ -1,0 +1,17 @@
+Nombre: Avicentro
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Chanchamayo 497, Cajamarca 06001
+Teléfono: 970 088 727
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1524921
+Longitud: -78.5178076
+Google Maps: https://www.google.com/maps?cid=16194560845693997937
+Place Id: ChIJT6a1uBpbspERcVMKZUmjvuA
+Fotos: Avicentro.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

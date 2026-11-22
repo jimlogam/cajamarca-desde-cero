@@ -1,0 +1,17 @@
+Nombre: Mini market Sarita
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Av. Hoyos Rubio 1725, Cajamarca 06001
+Teléfono: 954 098 970
+Rating: 4.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1460852
+Longitud: -78.4985605
+Google Maps: https://www.google.com/maps?cid=11635406609958985473
+Place Id: ChIJLTiyL_tbspERAV_WK6pEeaE
+Fotos: Mini market Sarita.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

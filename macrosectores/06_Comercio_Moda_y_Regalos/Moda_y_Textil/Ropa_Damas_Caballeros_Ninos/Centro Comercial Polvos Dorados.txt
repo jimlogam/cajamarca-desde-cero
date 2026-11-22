@@ -1,0 +1,17 @@
+Nombre: Centro Comercial "Polvos Dorados"
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Chanchamayo 700, Cajamarca 06001
+Teléfono: 998 032 789
+Rating: 3.3
+Reseñas: 125
+Sitio web: 
+Latitud: -7.151514
+Longitud: -78.51864549999999
+Google Maps: https://www.google.com/maps?cid=6006708821238361905
+Place Id: ChIJj0uDvPdaspERMS8eF9kdXFM
+Fotos: Centro Comercial Polvos Dorados.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

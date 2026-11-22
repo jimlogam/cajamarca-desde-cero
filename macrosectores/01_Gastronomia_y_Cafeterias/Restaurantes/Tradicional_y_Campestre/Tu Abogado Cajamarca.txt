@@ -1,0 +1,17 @@
+Nombre: Tu Abogado Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Abogado
+Dirección: Mariano Melgar 280, Cajamarca 06002
+Teléfono: 921 855 425
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/profile.php?id=100089232445478
+Latitud: -7.1565449999999995
+Longitud: -78.5093392
+Google Maps: https://www.google.com/maps?cid=12669906365812282849
+Place Id: ChIJ0d96AABbspER4ZWzL7aM1K8
+Fotos: Tu Abogado Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

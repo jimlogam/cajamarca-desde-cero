@@ -1,0 +1,17 @@
+Nombre: Anyfer Store
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa infantil
+Dirección: Jr, Jr. Sara MacDougall 309, Cajamarca 06001
+Teléfono: 976 363 548
+Rating: 
+Reseñas: 
+Sitio web: https://anyfer-store.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1513374999999995
+Longitud: -78.5220817
+Google Maps: https://www.google.com/maps?cid=270464177224187813
+Place Id: ChIJBS-vqdpbspERpX_qd7zhwAM
+Fotos: Anyfer Store.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

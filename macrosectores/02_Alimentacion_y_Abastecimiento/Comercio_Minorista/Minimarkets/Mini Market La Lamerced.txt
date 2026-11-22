@@ -1,0 +1,17 @@
+Nombre: Mini Market La Lamerced
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Amalia Puga 537, Cajamarca 06001
+Teléfono: (076) 341238
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1560616999999995
+Longitud: -78.51835539999999
+Google Maps: https://www.google.com/maps?cid=3273314828309556210
+Place Id: ChIJre-a-fhaspER8utoW34mbS0
+Fotos: Mini Market La Lamerced.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

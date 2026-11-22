@@ -1,0 +1,17 @@
+Nombre: Quequis Tortas y Cupcakes
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: RFWQ+69X, Jr. Guillermo Urrelo, 1284Cajamarca 06002
+Teléfono: 956 486 323
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1543791
+Longitud: -78.5115067
+Google Maps: https://www.google.com/maps?cid=11409898033662118686
+Place Id: ChIJZ19HrQ1bspERHsvbM88ZWJ4
+Fotos: Quequis Tortas y Cupcakes.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

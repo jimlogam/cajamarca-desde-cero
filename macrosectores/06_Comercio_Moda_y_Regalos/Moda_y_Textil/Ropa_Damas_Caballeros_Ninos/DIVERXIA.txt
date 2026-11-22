@@ -1,0 +1,17 @@
+Nombre: DIVERXIA
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: RFWV+6P8, Vía de Evitamiento Nte., Cajamarca 06002
+Teléfono: 
+Rating: 3
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1544516
+Longitud: -78.5056692
+Google Maps: https://www.google.com/maps?cid=3736534584898071455
+Place Id: ChIJibGYyVpbspERn6vPb2jW2jM
+Fotos: DIVERXIA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Piscina en Cajamarca
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
+Categoría Maps: Parque infantil
+Dirección: RGPP+PJCBaños del Inca, Baños del Inca 06004
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.163187499999999
+Longitud: -78.4634844
+Google Maps: https://www.google.com/maps?cid=7373760765955697456
+Place Id: ChIJ--BEGQBFspERMGuASVncVGY
+Fotos: Piscina en Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

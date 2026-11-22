@@ -1,0 +1,17 @@
+Nombre: Hotel Pilancones
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jirón Puno 280, Cajamarca 06002
+Teléfono: 958 808 220
+Rating: 4.1
+Reseñas: 253
+Sitio web: https://hotelpilanconescajamarca.com/
+Latitud: -7.1510561
+Longitud: -78.523523
+Google Maps: https://www.google.com/maps?cid=14305093609848890492
+Place Id: ChIJu-K-joNbspERfOTAtdjmhcY
+Fotos: Hotel Pilancones.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

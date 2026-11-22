@@ -1,0 +1,17 @@
+Nombre: MINIMARKET VIVAR
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Bodegas
+Categoría Maps: Bodega
+Dirección: Av los héroes 514, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.160935599999999
+Longitud: -78.5121286
+Google Maps: https://www.google.com/maps?cid=3901314147743151476
+Place Id: ChIJt-ZdTQBbspERdLVvHYxAJDY
+Fotos: Sin foto en Maps
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

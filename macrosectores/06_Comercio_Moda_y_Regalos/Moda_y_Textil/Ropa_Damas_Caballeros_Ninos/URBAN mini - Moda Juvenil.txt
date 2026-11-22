@@ -1,0 +1,17 @@
+Nombre: URBAN mini - Moda Juvenil
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa para jóvenes
+Dirección: Jr. Apurimac 1274, Cajamarca 06001
+Teléfono: 901 078 601
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1523895
+Longitud: -78.5154738
+Google Maps: https://www.google.com/maps?cid=3410799639134795967
+Place Id: ChIJ0f3Mlk5bspERv_ioWjOYVS8
+Fotos: Sin foto en Maps
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

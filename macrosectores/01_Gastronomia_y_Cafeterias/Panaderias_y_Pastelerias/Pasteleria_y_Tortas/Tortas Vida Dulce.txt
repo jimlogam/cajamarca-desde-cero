@@ -1,0 +1,17 @@
+Nombre: Tortas Vida Dulce
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Jirón Puno 351, Cajamarca 06001
+Teléfono: 950 188 638
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1503844999999995
+Longitud: -78.5243994
+Google Maps: https://www.google.com/maps?cid=9700738331307994957
+Place Id: ChIJ0W5PwfBbspERTe-gmB3yn4Y
+Fotos: Tortas Vida Dulce.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

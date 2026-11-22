@@ -1,0 +1,17 @@
+Nombre: TRANSPORTES TSP
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de transporte
+Dirección: TERMINAL TERRESTRE TTP, Cajamarca 06001
+Teléfono: 940 508 694
+Rating: 
+Reseñas: 
+Sitio web: https://wa.link/f5xwui
+Latitud: -7.166670099999999
+Longitud: -78.5011653
+Google Maps: https://www.google.com/maps?cid=10613509961009773025
+Place Id: ChIJLWzcLI5bspER4bkOphPDSpM
+Fotos: TRANSPORTES TSP.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

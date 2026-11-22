@@ -1,0 +1,17 @@
+Nombre: Tina Style
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Modista
+Dirección: Av. Venecia S/N, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: https://tina-style.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1395840999999995
+Longitud: -78.50749239999999
+Google Maps: https://www.google.com/maps?cid=9433056859808785418
+Place Id: ChIJzaxHmgJbspERCuT2Sjzz6II
+Fotos: Tina Style.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

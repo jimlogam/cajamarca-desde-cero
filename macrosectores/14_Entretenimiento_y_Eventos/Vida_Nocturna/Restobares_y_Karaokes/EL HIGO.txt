@@ -1,0 +1,17 @@
+Nombre: EL HIGO
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Pub restaurante
+Dirección: Av. Atahualpa 732, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1657683
+Longitud: -78.4997961
+Google Maps: https://www.google.com/maps?cid=7638477645898341774
+Place Id: ChIJ9WbBniBbspERjl2I1PJSAWo
+Fotos: EL HIGO.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

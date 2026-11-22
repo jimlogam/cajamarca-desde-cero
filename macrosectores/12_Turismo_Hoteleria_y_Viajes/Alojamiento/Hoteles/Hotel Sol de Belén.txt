@@ -1,0 +1,17 @@
+Nombre: Hotel Sol de Belén
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Centro Historico Jirón, Belén N° 636, Cajamarca 06000
+Teléfono: 943 773 549
+Rating: 4.4
+Reseñas: 373
+Sitio web: http://www.hotelsoldebelen.com/
+Latitud: -7.1590978
+Longitud: -78.5165962
+Google Maps: https://www.google.com/maps?cid=3649193710032755541
+Place Id: ChIJf5iZyP5aspERVZsXU1iKpDI
+Fotos: Hotel Sol de Belén.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

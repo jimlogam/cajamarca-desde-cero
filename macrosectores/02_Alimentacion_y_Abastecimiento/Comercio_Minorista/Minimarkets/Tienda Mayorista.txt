@@ -1,0 +1,17 @@
+Nombre: Tienda Mayorista
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Jr, Angamos 1080, Cajamarca
+Teléfono: 942 381 207
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.147498
+Longitud: -78.5242332
+Google Maps: https://www.google.com/maps?cid=2811579310321601421
+Place Id: ChIJ57LTz15aspERjYuOgXy8BCc
+Fotos: Tienda Mayorista.jpg
+Nota: Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Minimarket y licoreria keyled
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: Av. El Maestro 425, Cajamarca 06002
+Teléfono: 924 229 349
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.157873299999999
+Longitud: -78.5103996
+Google Maps: https://www.google.com/maps?cid=13245871038455189589
+Place Id: ChIJLfevXABbspERVZDBo4fJ0rc
+Fotos: Minimarket y licoreria keyled.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

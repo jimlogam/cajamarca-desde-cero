@@ -1,0 +1,17 @@
+Nombre: UNIMAQ S.A.
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Proveedor de maquinaria de construcción
+Dirección: Av. Vía de Evitamiento Sur S/N, Cajamarca 06000
+Teléfono: (01) 2021300
+Rating: 4.3
+Reseñas: 11
+Sitio web: http://www.unimaq.com.pe/
+Latitud: -7.167630099999999
+Longitud: -78.5008244
+Google Maps: https://www.google.com/maps?cid=11449808850627388183
+Place Id: ChIJUxtgy9BbspERF-PEZ3zk5Z4
+Fotos: UNIMAQ S.A.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

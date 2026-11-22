@@ -1,0 +1,17 @@
+Nombre: Lecik boutique
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa para jóvenes
+Dirección: RFRC+HP8, Pasaje El Molino, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1585792999999995
+Longitud: -78.5281749
+Google Maps: https://www.google.com/maps?cid=17415870999424175171
+Place Id: ChIJ5cQFiWtbspERQ4y0lmaasfE
+Fotos: Lecik boutique.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

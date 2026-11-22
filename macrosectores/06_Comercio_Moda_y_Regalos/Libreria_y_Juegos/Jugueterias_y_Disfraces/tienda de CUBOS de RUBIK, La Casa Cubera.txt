@@ -1,0 +1,17 @@
+Nombre: tienda de CUBOS de RUBIK, La Casa Cubera
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
+Categoría Maps: Juguetería
+Dirección: El Inca 413, Cajamarca 06002
+Teléfono: 930 300 338
+Rating: 5
+Reseñas: 4
+Sitio web: http://www.facebook.com/casadelibrocasacubera/
+Latitud: -7.1583185
+Longitud: -78.5108996
+Google Maps: https://www.google.com/maps?cid=17204938254388710872
+Place Id: ChIJsV90AVBbspER2E1eyy84xO4
+Fotos: tienda de CUBOS de RUBIK, La Casa Cubera.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

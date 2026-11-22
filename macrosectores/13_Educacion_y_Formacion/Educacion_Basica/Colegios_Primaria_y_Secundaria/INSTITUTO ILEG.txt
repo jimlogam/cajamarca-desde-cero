@@ -1,0 +1,17 @@
+Nombre: INSTITUTO ILEG
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Centro escolar, Centro educativo
+Dirección: Jr, Prol. Revilla Perez 249, Cajamarca 06001
+Teléfono: 910 745 470
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/ILEG.Instituto.Oficial/
+Latitud: -7.1520823
+Longitud: -78.5140009
+Google Maps: https://www.google.com/maps?cid=17604783329246090634
+Place Id: ChIJUXEIOwBbspERipVu7ynBUPQ
+Fotos: INSTITUTO ILEG.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

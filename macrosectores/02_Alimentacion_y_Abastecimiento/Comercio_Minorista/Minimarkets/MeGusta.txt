@@ -1,0 +1,17 @@
+Nombre: MeGusta
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Cinco Esquinas 1254, Cajamarca 06002
+Teléfono: 923 951 373
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1540646
+Longitud: -78.5094823
+Google Maps: https://www.google.com/maps?cid=5755741080670786143
+Place Id: ChIJ9W__k8pbspERX1KBhASA4E8
+Fotos: MeGusta.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

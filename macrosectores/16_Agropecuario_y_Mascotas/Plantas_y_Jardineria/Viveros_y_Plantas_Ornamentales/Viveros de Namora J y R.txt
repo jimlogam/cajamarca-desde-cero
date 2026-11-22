@@ -1,0 +1,17 @@
+Nombre: Viveros de Namora J y R
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero mayorista
+Dirección: Casa Blanca, Cajamarca 06001
+Teléfono: 941 488 921
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1924814999999995
+Longitud: -78.3089725
+Google Maps: https://www.google.com/maps?cid=4138541027908061143
+Place Id: ChIJg4D6J-pHspER1wfXUCMNbzk
+Fotos: Viveros de Namora J y R.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

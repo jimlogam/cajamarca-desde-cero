@@ -1,0 +1,17 @@
+Nombre: JH MACC EIRL
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Proveedor de maquinaria de construcción
+Dirección: Av San Martín de Porres N° 540, Cajamarca 06003
+Teléfono: 976 879 621
+Rating: 5
+Reseñas: 1
+Sitio web: http://www.jhmacc.com/
+Latitud: -7.1667254
+Longitud: -78.5052347
+Google Maps: https://www.google.com/maps?cid=5550636345366613061
+Place Id: ChIJaf4HTBxbspERRQzz-ljSB00
+Fotos: JH MACC EIRL.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

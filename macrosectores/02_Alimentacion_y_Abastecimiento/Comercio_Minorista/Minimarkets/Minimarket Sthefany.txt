@@ -1,0 +1,17 @@
+Nombre: Minimarket Sthefany
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Tahuantinsuyo 380, Cajamarca 06003
+Teléfono: 953 120 688
+Rating: 4.8
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1762783
+Longitud: -78.4992247
+Google Maps: https://www.google.com/maps?cid=2627393217757891083
+Place Id: ChIJoSLzrv5aspERC8q6BTZgdiQ
+Fotos: Minimarket Sthefany.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

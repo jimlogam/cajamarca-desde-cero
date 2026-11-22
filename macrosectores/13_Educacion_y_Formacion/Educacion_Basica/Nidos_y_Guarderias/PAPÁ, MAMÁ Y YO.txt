@@ -1,0 +1,17 @@
+Nombre: "PAPÁ, MAMÁ Y YO"
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Jardín de infancia
+Dirección: Colladar 134, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.160456
+Longitud: -78.5104138
+Google Maps: https://www.google.com/maps?cid=16687365889070235586
+Place Id: ChIJI8zZvKVbspERwn8A19xulec
+Fotos: PAPÁ, MAMÁ Y YO.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

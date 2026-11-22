@@ -1,0 +1,17 @@
+Nombre: Kukuli
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa infantil
+Dirección: RFWV+8RM, Cajamarca 06002
+Teléfono: 933 446 884
+Rating: 4
+Reseñas: 2
+Sitio web: http://www.kukuli.com.pe/
+Latitud: -7.1541523
+Longitud: -78.50543909999999
+Google Maps: https://www.google.com/maps?cid=15009330017135478528
+Place Id: ChIJ9w8yuvtbspERAMf3syDaS9A
+Fotos: Kukuli.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

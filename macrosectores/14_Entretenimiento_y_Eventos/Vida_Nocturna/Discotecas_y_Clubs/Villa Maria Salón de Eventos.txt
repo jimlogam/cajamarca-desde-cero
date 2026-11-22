@@ -1,0 +1,17 @@
+Nombre: Villa Maria Salón de Eventos
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
+Categoría Maps: Club nocturno
+Dirección: José Gálvez 325, Cajamarca 06001
+Teléfono: 984 242 515
+Rating: 4
+Reseñas: 4
+Sitio web: https://www.facebook.com/villa.maria.94064
+Latitud: -7.1582821
+Longitud: -78.5237872
+Google Maps: https://www.google.com/maps?cid=1944527442045456605
+Place Id: ChIJNzAjdZ1bspER3VAe72dZ_Bo
+Fotos: Villa Maria Salón de Eventos.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: DISTRIBUIDORA FERRETERA TARISA
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: 51, Cajamarca
+Teléfono: 942 829 800
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.166754999999999
+Longitud: -78.5067318
+Google Maps: https://www.google.com/maps?cid=12111607848322907435
+Place Id: ChIJn48Bym1bspERK70eAisTFag
+Fotos: DISTRIBUIDORA FERRETERA TARISA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

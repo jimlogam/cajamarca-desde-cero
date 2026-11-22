@@ -1,0 +1,17 @@
+Nombre: Wanxin Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de motocicletas
+Dirección: 13006, Cajamarca 13006
+Teléfono: 983 152 387
+Rating: 4.4
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1462103
+Longitud: -78.5206922
+Google Maps: https://www.google.com/maps?cid=3814752437041963482
+Place Id: ChIJbXrN3_FbspER2iHxSyG58DQ
+Fotos: Wanxin Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

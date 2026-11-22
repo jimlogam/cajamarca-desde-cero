@@ -1,0 +1,17 @@
+Nombre: Molino antiguo del Urubamba
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Agencias_y_Operadores
+Subrubro: Turismo_Vivencial_y_Aventura
+Categoría Maps: Atracción turística
+Dirección: Jr. Cruz de Mayo 282, Cajamarca 06002
+Teléfono: 
+Rating: 4.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1590032
+Longitud: -78.5293555
+Google Maps: https://www.google.com/maps?cid=12678257297063976409
+Place Id: ChIJQfms8vhbspER2Z2A4tY38q8
+Fotos: Molino antiguo del Urubamba.jpg
+Nota: Atraccion turistica, no es un negocio Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

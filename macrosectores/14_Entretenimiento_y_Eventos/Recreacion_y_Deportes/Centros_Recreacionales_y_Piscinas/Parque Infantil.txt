@@ -1,0 +1,17 @@
+Nombre: Parque Infantil
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
+Categoría Maps: Parque infantil
+Dirección: RG73+HX8, Cajamarca 06003
+Teléfono: 
+Rating: 4.1
+Reseñas: 19
+Sitio web: 
+Latitud: -7.1860775
+Longitud: -78.49503469999999
+Google Maps: https://www.google.com/maps?cid=12892285446148589075
+Place Id: ChIJVw86OgBbspEREwagmE6Z6rI
+Fotos: Parque Infantil.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

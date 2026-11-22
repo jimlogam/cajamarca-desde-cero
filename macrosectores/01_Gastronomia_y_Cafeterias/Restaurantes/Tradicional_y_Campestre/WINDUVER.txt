@@ -1,0 +1,17 @@
+Nombre: WINDUVER
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de software, Tienda de informática
+Dirección: Los Eucaliptos 112, Cajamarca 06001
+Teléfono: 976 313 531
+Rating: 4.9
+Reseñas: 23
+Sitio web: https://winduver.com/
+Latitud: -7.1463505
+Longitud: -78.5130781
+Google Maps: https://www.google.com/maps?cid=1337663320778582691
+Place Id: ChIJwx6RuPNaspERo6oT-LNVkBI
+Fotos: WINDUVER.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Ubelder medina Venta Internet fibra
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Electricista
+Dirección: JR, Mashcon 678, Cajamarca 06010
+Teléfono: 900 830 325
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1430133
+Longitud: -78.51399769999999
+Google Maps: https://www.google.com/maps?cid=2628403353659615317
+Place Id: ChIJNUSRPeJbspERVahTnez2eSQ
+Fotos: Ubelder medina Venta Internet fibra.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

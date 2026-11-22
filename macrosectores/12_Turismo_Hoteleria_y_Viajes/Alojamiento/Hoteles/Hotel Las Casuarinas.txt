@@ -1,0 +1,17 @@
+Nombre: Hotel Las Casuarinas
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jirón Las Casuarinas 363, Cajamarca 06001
+Teléfono: 937 697 662
+Rating: 4.8
+Reseñas: 9
+Sitio web: 
+Latitud: -7.1476751
+Longitud: -78.51697399999999
+Google Maps: https://www.google.com/maps?cid=10875181229454546885
+Place Id: ChIJxaiO3M1bspERxVeigbVn7JY
+Fotos: Hotel Las Casuarinas.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

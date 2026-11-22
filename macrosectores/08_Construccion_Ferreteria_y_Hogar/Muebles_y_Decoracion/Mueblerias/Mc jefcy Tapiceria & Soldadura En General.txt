@@ -1,0 +1,17 @@
+Nombre: Mc jefcy Tapiceria & Soldadura En General
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
+Categoría Maps: Tienda de muebles
+Dirección: Av. Héroes del Cenepa 442, Cajamarca 06003
+Teléfono: 959 899 279
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1770669
+Longitud: -78.4946966
+Google Maps: https://www.google.com/maps?cid=2329373502856149804
+Place Id: ChIJHbIcTjxbspERLLvy-tuYUyA
+Fotos: Mc jefcy Tapiceria & Soldadura En General.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

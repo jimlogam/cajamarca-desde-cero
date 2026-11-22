@@ -1,0 +1,17 @@
+Nombre: MINI MARKET BELEN
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Puestos_de_Mercado_de_Abastos
+Categoría Maps: Mercado
+Dirección: 06001, Cajamarca 06001
+Teléfono: 950 190 430
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/mimarketbelen
+Latitud: -7.1573812
+Longitud: -78.5151625
+Google Maps: https://www.google.com/maps?cid=17470166946321641136
+Place Id: ChIJvdyj2u5bspERsK5F2kaAcvI
+Fotos: MINI MARKET BELEN.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

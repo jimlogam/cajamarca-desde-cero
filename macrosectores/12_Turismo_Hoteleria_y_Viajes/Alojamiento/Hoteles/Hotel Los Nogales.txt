@@ -1,0 +1,17 @@
+Nombre: Hotel Los Nogales
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: 051976222117, Mariano Melgar 496, Cajamarca
+Teléfono: 976 222 117
+Rating: 4.4
+Reseñas: 86
+Sitio web: https://www.losnogaleshotel.com/
+Latitud: -7.1578738
+Longitud: -78.50791439999999
+Google Maps: https://www.google.com/maps?cid=12983404352515688349
+Place Id: ChIJk4QZFEtbspERnUf1NnhRLrQ
+Fotos: Hotel Los Nogales.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

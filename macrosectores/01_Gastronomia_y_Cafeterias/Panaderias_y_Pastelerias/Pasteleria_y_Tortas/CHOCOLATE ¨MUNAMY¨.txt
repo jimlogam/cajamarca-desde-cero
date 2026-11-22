@@ -1,0 +1,17 @@
+Nombre: CHOCOLATE ¨MUNAMY¨
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Artesano de chocolate
+Dirección: Prol. Guadalupe N° 411, Cajamarca 00076
+Teléfono: 976 407 788
+Rating: 5
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1548321999999995
+Longitud: -78.5106873
+Google Maps: https://www.google.com/maps?cid=1336285946239327060
+Place Id: ChIJZedy-0RbspERVBvx9_xwixI
+Fotos: CHOCOLATE ¨MUNAMY¨.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

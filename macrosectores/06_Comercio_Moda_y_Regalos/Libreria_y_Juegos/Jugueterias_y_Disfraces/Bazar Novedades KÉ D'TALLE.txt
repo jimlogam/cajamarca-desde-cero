@@ -1,0 +1,17 @@
+Nombre: Bazar Novedades KÉ D'TALLE
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
+Categoría Maps: Tienda de regalos, Tienda de cubertería, Tienda de artículos de aseo personal, Juguetería
+Dirección: PP. JJ Simón Bolívar, Jirón Venezuela 232, Cajamarca 06001
+Teléfono: 900 870 338
+Rating: 
+Reseñas: 
+Sitio web: https://wa.link/59ks4l
+Latitud: -7.149062799999999
+Longitud: -78.5250322
+Google Maps: https://www.google.com/maps?cid=12582993059205772688
+Place Id: ChIJ9Z4EkCFbspERkHUqEYXFn64
+Fotos: Bazar Novedades KÉ D'TALLE.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

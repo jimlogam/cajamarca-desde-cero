@@ -1,0 +1,17 @@
+Nombre: Hospedaje La Paz
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Av. La Paz 1916, Cajamarca 06001
+Teléfono: 966 309 168
+Rating: 5
+Reseñas: 1
+Sitio web: https://wa.me/51966309168
+Latitud: -7.1791795
+Longitud: -78.5008271
+Google Maps: https://www.google.com/maps?cid=15260081472701118971
+Place Id: ChIJIwkKWadbspER-7nefz-zxtM
+Fotos: Hospedaje La Paz.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

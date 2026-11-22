@@ -1,0 +1,17 @@
+Nombre: IBEET BOUTIQUE
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Jr.Amazonas 304, Cajamarca 06001
+Teléfono: 958 524 949
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1546275999999995
+Longitud: -78.5186332
+Google Maps: https://www.google.com/maps?cid=5243950311978333365
+Place Id: ChIJ9fgRlu5bspERtXREbQZBxkg
+Fotos: IBEET BOUTIQUE.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

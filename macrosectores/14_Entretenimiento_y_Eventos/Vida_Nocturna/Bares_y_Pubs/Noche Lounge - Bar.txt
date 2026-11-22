@@ -1,0 +1,17 @@
+Nombre: Noche Lounge - Bar
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: San Martín 198, Cajamarca 06002
+Teléfono: 958 130 879
+Rating: 3.7
+Reseñas: 385
+Sitio web: 
+Latitud: -7.1592766999999995
+Longitud: -78.5192158
+Google Maps: https://www.google.com/maps?cid=13586572733144353659
+Place Id: ChIJ37fqMv9aspERe8sTguozjbw
+Fotos: Noche Lounge - Bar.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

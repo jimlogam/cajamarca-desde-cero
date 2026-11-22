@@ -1,0 +1,17 @@
+Nombre: Tic Tec Store
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de accesorios informáticos
+Dirección: 06001, Cajamarca 06001
+Teléfono: 925 864 870
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/tictec.oficial
+Latitud: -7.1589575
+Longitud: -78.52142649999999
+Google Maps: https://www.google.com/maps?cid=17392633196523870736
+Place Id: ChIJqcXid6BbspERENp4-70LX_E
+Fotos: Tic Tec Store.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

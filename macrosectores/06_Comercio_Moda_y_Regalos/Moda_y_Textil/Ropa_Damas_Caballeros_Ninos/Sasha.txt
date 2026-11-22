@@ -1,0 +1,17 @@
+Nombre: Sasha
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa de mujer
+Dirección: 06001, Cajamarca 06001
+Teléfono: 950 861 908
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/profile.php?id=100086234105574
+Latitud: -7.1687823999999996
+Longitud: -78.5029263
+Google Maps: https://www.google.com/maps?cid=2507188454029911145
+Place Id: ChIJX1GYLhJbspERaeRpg51SyyI
+Fotos: Sasha.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

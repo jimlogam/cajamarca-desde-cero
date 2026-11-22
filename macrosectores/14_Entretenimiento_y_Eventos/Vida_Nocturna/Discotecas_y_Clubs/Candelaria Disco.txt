@@ -1,0 +1,17 @@
+Nombre: Candelaria Disco
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
+Categoría Maps: Discoteca
+Dirección: Jirón Ciro Alegria 296, Cajamarca 06001
+Teléfono: 
+Rating: 4.1
+Reseñas: 7
+Sitio web: https://www.instagram.com/candelaria_disco/
+Latitud: -7.143690899999999
+Longitud: -78.5121511
+Google Maps: https://www.google.com/maps?cid=13739852930203255167
+Place Id: ChIJm8-rCH9bspERfwHgcnHDrb4
+Fotos: Candelaria Disco.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

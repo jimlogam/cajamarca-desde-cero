@@ -1,0 +1,17 @@
+Nombre: Sun & Moon
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Jr.Amazonas 1044, Cajamarca 06002
+Teléfono: 929 309 112
+Rating: 4.4
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1585272
+Longitud: -78.5139731
+Google Maps: https://www.google.com/maps?cid=17340456034478299573
+Place Id: ChIJcXpFSxlbspERtZlbwuOspfA
+Fotos: Sun & Moon.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

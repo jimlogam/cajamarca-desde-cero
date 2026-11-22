@@ -1,0 +1,17 @@
+Nombre: Arco del Triunfo
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Agencias_y_Operadores
+Subrubro: Turismo_Vivencial_y_Aventura
+Categoría Maps: Atracción turística
+Dirección: Jirón del Comercio 101, Cajamarca 06001
+Teléfono: 
+Rating: 4.1
+Reseñas: 472
+Sitio web: 
+Latitud: -7.1539649
+Longitud: -78.52226139999999
+Google Maps: https://www.google.com/maps?cid=4724117959116984842
+Place Id: ChIJ4QjlATNbspERChI2HkFwj0E
+Fotos: Arco del Triunfo.jpg
+Nota: Atraccion turistica, no es un negocio Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

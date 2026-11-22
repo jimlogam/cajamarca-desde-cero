@@ -1,0 +1,17 @@
+Nombre: MINIMARKET LA HACIENDA
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado
+Dirección: Porcón Bajo, Cajamarca 06000
+Teléfono: 987 677 454
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.088876
+Longitud: -78.579179
+Google Maps: https://www.google.com/maps?cid=1424100932691005526
+Place Id: ChIJkXd6E35XspERVpBZyUBswxM
+Fotos: MINIMARKET LA HACIENDA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

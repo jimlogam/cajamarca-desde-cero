@@ -1,0 +1,17 @@
+Nombre: dleidys accesorios y mas
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa de vestir
+Dirección: 06001, Cajamarca 06001
+Teléfono: 945 933 588
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1449155
+Longitud: -78.50644729999999
+Google Maps: https://www.google.com/maps?cid=6777956564728772103
+Place Id: ChIJZScDtRhbspERB3avn5UjEF4
+Fotos: Sin foto en Maps
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

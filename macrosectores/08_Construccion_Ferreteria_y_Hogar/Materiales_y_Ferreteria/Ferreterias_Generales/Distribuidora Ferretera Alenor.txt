@@ -1,0 +1,17 @@
+Nombre: Distribuidora Ferretera Alenor
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: CPM EL CERRILLO MZA.C LOTE 203 A, Cajamarca
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1617465
+Longitud: -78.51278549999999
+Google Maps: https://www.google.com/maps?cid=11346920068783882949
+Place Id: ChIJx2s7WwBbspERxUKdGq9beJ0
+Fotos: Distribuidora Ferretera Alenor.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

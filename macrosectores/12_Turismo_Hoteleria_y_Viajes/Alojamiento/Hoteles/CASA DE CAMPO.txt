@@ -1,0 +1,17 @@
+Nombre: CASA DE CAMPO
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: RFRQ+2QW, Passage Shaullo, Cajamarca 06002
+Teléfono: 978 805 642
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1598789
+Longitud: -78.5105385
+Google Maps: https://www.google.com/maps?cid=16056094588886390731
+Place Id: ChIJOe8kwvxaspERyxelsvW00t4
+Fotos: CASA DE CAMPO.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

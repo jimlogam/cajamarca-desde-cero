@@ -1,0 +1,17 @@
+Nombre: Tendencias SOFAS y SALAS
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Jr. Sara MacDougall 325, Cajamarca 06002
+Teléfono: 933 810 187
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/TendenciasCAJ/
+Latitud: -7.1512109
+Longitud: -78.521992
+Google Maps: https://www.google.com/maps?cid=7847793636764734052
+Place Id: ChIJ37Qk-xNbspERZNLutbv26Gw
+Fotos: Tendencias SOFAS y SALAS.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

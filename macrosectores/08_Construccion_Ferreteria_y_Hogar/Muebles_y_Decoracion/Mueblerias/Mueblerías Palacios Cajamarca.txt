@@ -1,0 +1,17 @@
+Nombre: Mueblerías Palacios Cajamarca
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
+Categoría Maps: Tienda de muebles
+Dirección: Jr. Tarapacá 941, Cajamarca 06001
+Teléfono: 933 460 104
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1534473
+Longitud: -78.51811119999999
+Google Maps: https://www.google.com/maps?cid=2011349351387347980
+Place Id: ChIJhQ2BMPhaspERDLynGJS_6Rs
+Fotos: Mueblerías Palacios Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: VR Servicios Generales
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
+Categoría Maps: Empresa de construcciones metálicas
+Dirección: Caserío Chinchimachay Mz. A Lt. 2 Caserío Chinchimachay Mz, Cajamarca 06000
+Teléfono: 914 161 503
+Rating: 5
+Reseñas: 1
+Sitio web: https://web.facebook.com/VRserge
+Latitud: -7.130881199999999
+Longitud: -78.5231615
+Google Maps: https://www.google.com/maps?cid=11490138488898548369
+Place Id: ChIJ6w6DiflbspERkXLXChQsdZ8
+Fotos: VR Servicios Generales.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

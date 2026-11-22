@@ -1,0 +1,17 @@
+Nombre: QUESOS Sierra Verde
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Jr.Amazonas 685, Cajamarca 06002
+Teléfono: 953 687 817
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1562510999999995
+Longitud: -78.5163196
+Google Maps: https://www.google.com/maps?cid=1061768681724035243
+Place Id: ChIJTb1NDflaspERq8DLk_0ovA4
+Fotos: QUESOS Sierra Verde.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

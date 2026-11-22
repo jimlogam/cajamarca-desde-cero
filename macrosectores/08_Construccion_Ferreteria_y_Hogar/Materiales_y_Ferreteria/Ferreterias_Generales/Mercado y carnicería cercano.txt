@@ -1,0 +1,17 @@
+Nombre: Mercado y carnicería cercano
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Jr. Iquique 426, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1501722999999995
+Longitud: -78.5165937
+Google Maps: https://www.google.com/maps?cid=9519081914453491507
+Place Id: ChIJ0fz1CABbspERM3_YIpGSGoQ
+Fotos: Mercado y carnicería cercano.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

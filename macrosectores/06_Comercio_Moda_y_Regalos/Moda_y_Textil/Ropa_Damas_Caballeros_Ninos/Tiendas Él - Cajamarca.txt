@@ -1,0 +1,17 @@
+Nombre: Tiendas Él - Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Jr. Apurimac 848, Cajamarca 06001
+Teléfono: 
+Rating: 4.1
+Reseñas: 15
+Sitio web: https://www.tiendasel.com/
+Latitud: -7.1555082
+Longitud: -78.5182414
+Google Maps: https://www.google.com/maps?cid=3662849026647098266
+Place Id: ChIJA91x7vFaspERmoMve8gN1TI
+Fotos: Tiendas Él - Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

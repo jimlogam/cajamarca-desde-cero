@@ -1,0 +1,17 @@
+Nombre: Corporación el Dorado
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: RFRP+Q2Q, Cajamarca 06002
+Teléfono: (076) 364578
+Rating: 3.5
+Reseñas: 102
+Sitio web: 
+Latitud: -7.1580363
+Longitud: -78.5148803
+Google Maps: https://www.google.com/maps?cid=16656964718762050282
+Place Id: ChIJw6ul__taspER6sIGyihtKec
+Fotos: Corporación el Dorado.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

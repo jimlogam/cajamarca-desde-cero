@@ -1,0 +1,17 @@
+Nombre: De Grecia Boutique
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Progreso 514, Cajamarca 05101
+Teléfono: 938 579 544
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.163541899999999
+Longitud: -78.50712949999999
+Google Maps: https://www.google.com/maps?cid=8289717473198370253
+Place Id: ChIJQ-HopDZbspERzW1W_h7-CnM
+Fotos: De Grecia Boutique.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

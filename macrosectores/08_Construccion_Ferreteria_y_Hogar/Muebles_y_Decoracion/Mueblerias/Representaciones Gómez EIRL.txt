@@ -1,0 +1,17 @@
+Nombre: Representaciones Gómez EIRL
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
+Categoría Maps: Tienda de muebles
+Dirección: Jirón Silva Santisteban 798, Cajamarca 06002
+Teléfono: 979 059 754
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1547328
+Longitud: -78.5149381
+Google Maps: https://www.google.com/maps?cid=15256863567333914616
+Place Id: ChIJ3w1DS2xbspER-HeJhZREu9M
+Fotos: Representaciones Gómez EIRL.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

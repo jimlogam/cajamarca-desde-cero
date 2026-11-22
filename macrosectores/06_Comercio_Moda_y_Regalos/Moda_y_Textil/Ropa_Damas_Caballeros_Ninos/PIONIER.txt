@@ -1,0 +1,17 @@
+Nombre: PIONIER
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Vía de Evitamiento Nte. 2317, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1546791999999995
+Longitud: -78.5060769
+Google Maps: https://www.google.com/maps?cid=15370510091277974663
+Place Id: ChIJWwdfNhRbspERhzwu130FT9U
+Fotos: PIONIER.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

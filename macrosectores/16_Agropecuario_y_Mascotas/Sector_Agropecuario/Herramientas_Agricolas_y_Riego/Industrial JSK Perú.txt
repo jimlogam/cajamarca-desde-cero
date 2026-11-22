@@ -1,0 +1,17 @@
+Nombre: Industrial JSK Perú.
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Fábrica de maquinaria agrícola, Fabricante de repuestos para maquinaria, Taller de automóviles, Equipos y soluciones de energía, Proveedor de productos para cerrar, Proveedor de maquinaria de alimentos, Empresa de procesamiento de metales, Empresa de transporte por camión, Soldador
+Dirección: Av. La Paz 1813, Cajamarca 06003
+Teléfono: (076) 613861
+Rating: 5
+Reseñas: 1
+Sitio web: http://www.jskperu.com/
+Latitud: -7.1783715
+Longitud: -78.5012478
+Google Maps: https://www.google.com/maps?cid=12652554592644446368
+Place Id: ChIJZV0aKGxbspERoDjPq13nlq8
+Fotos: Industrial JSK Perú.jpg
+Nota: Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

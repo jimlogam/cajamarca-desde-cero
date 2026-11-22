@@ -1,0 +1,17 @@
+Nombre: Hotel Serra Nova - Cajamarca, Baños del Inca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr Los Sauces 163, Baños del Inca 06004
+Teléfono: 986 068 818
+Rating: 4.5
+Reseñas: 330
+Sitio web: http://www.serranova.pe/
+Latitud: -7.1638122
+Longitud: -78.4622152
+Google Maps: https://www.google.com/maps?cid=15766260102432505725
+Place Id: ChIJj174QNhEspERfT_nqQcCzdo
+Fotos: Hotel Serra Nova - Cajamarca, Baños del Inca.jpg
+Nota: Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

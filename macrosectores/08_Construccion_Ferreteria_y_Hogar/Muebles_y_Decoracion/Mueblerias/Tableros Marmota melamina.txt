@@ -1,0 +1,17 @@
+Nombre: Tableros Marmota melamina
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
+Categoría Maps: Tienda de muebles
+Dirección: Jirón Jesus de Nazareth 358, Cajamarca 06003
+Teléfono: 995 132 065
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.176868799999999
+Longitud: -78.5050333
+Google Maps: https://www.google.com/maps?cid=12490631495789444076
+Place Id: ChIJWYcQNC5bspER7PvVziqjV60
+Fotos: Tableros Marmota melamina.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

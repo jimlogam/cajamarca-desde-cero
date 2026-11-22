@@ -1,0 +1,17 @@
+Nombre: Taller De Motos El Chino
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Taller de reparación de automóviles
+Dirección: VF4P+W6M, C. Alemania, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1426693
+Longitud: -78.514443
+Google Maps: https://www.google.com/maps?cid=13237599938171987778
+Place Id: ChIJL3VRUvNaspERQmd5CQJntbc
+Fotos: Taller De Motos El Chino.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

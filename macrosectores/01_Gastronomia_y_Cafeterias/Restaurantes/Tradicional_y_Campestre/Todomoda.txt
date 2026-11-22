@@ -1,0 +1,17 @@
+Nombre: Todomoda
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de accesorios de moda
+Dirección: CC REAL PLAZA, Av. Andrés Zevallos 115, Cajamarca 06002
+Teléfono: 
+Rating: 1
+Reseñas: 1
+Sitio web: https://pe.todomoda.com/
+Latitud: -7.1546714
+Longitud: -78.5059603
+Google Maps: https://www.google.com/maps?cid=18168385749208870487
+Place Id: ChIJU-HNfrJbspERVy7dI5QSI_w
+Fotos: Todomoda.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

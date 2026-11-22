@@ -1,0 +1,17 @@
+Nombre: Outfit _Kollekton
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Lima, Cajamarca 06002
+Teléfono: 910 764 432
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/profile.php?id=100091502534538&mibextid=ZbWKwL
+Latitud: -7.1653915999999995
+Longitud: -78.51407979999999
+Google Maps: https://www.google.com/maps?cid=9658527761374841541
+Place Id: ChIJ80wXPPBbspERxQr_bdP7CYY
+Fotos: Outfit _Kollekton.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Crisol Megaplaza Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
+Categoría Maps: Tienda de bolígrafos, Juguetería
+Dirección: Av. Hoyos Rubio N°151, Cajamarca 06000
+Teléfono: (01) 6449191
+Rating: 3.3
+Reseñas: 3
+Sitio web: https://www.crisol.com.pe/
+Latitud: -7.1494881999999995
+Longitud: -78.5084466
+Google Maps: https://www.google.com/maps?cid=3480900749225825014
+Place Id: ChIJf8xCTq9bspER9hL_78mkTjA
+Fotos: Crisol Megaplaza Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

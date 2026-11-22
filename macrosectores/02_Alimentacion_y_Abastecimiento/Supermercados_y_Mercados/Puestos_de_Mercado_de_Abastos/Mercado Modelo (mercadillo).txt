@@ -1,0 +1,17 @@
+Nombre: Mercado Modelo (mercadillo)
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Puestos_de_Mercado_de_Abastos
+Categoría Maps: Mercado
+Dirección: RFWM+R7J, 11 de Febrero 192 A, Cajamarca 06000
+Teléfono: 
+Rating: 3.8
+Reseñas: 352
+Sitio web: 
+Latitud: -7.152561899999999
+Longitud: -78.5158881
+Google Maps: https://www.google.com/maps?cid=17655267175405522115
+Place Id: ChIJ12EXZvdaspERwwypVPQbBPU
+Fotos: Mercado Modelo (mercadillo).jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

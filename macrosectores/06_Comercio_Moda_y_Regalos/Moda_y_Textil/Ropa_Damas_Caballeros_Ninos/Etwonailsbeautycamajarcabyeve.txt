@@ -1,0 +1,17 @@
+Nombre: Etwonailsbeautycamajarcabyeve
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Av. Hoyos Rubio, Cajamarca 06001
+Teléfono: 927 689 384
+Rating: 5
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1494067
+Longitud: -78.50968069999999
+Google Maps: https://www.google.com/maps?cid=9915585572066980867
+Place Id: ChIJR2F2v-BbspERA3QK84o8m4k
+Fotos: Etwonailsbeautycamajarcabyeve.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

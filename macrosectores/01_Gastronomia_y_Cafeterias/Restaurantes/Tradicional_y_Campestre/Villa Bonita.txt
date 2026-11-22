@@ -1,0 +1,17 @@
+Nombre: Villa Bonita
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de ocio infantil
+Dirección: C.C. MegaPlaza, Cajamarca 06001
+Teléfono: 966 601 718
+Rating: 5
+Reseñas: 3
+Sitio web: https://www.facebook.com/villabonitacajamarca/
+Latitud: -7.149495399999999
+Longitud: -78.5096087
+Google Maps: https://www.google.com/maps?cid=2719484643363323878
+Place Id: ChIJ5ft1K_taspER5v_M69-MvSU
+Fotos: Villa Bonita.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

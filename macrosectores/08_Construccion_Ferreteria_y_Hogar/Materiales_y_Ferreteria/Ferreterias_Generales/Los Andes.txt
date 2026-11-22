@@ -1,0 +1,17 @@
+Nombre: Los Andes
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería, Tienda de artículos para el hogar, Pintura
+Dirección: Av. Perú 609, Cajamarca 06001
+Teléfono: 999 501 252
+Rating: 4
+Reseñas: 6
+Sitio web: 
+Latitud: -7.160447
+Longitud: -78.522635
+Google Maps: https://www.google.com/maps?cid=5905805733893712221
+Place Id: ChIJ72vfpFVaspERXSkzUQaj9VE
+Fotos: Los Andes.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

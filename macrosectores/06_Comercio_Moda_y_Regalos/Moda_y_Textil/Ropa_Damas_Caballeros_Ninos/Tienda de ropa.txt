@@ -1,0 +1,17 @@
+Nombre: Tienda de ropa
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Jiron, Tayabamba 162, Cajamarca 06001
+Teléfono: 960 705 216
+Rating: 4.7
+Reseñas: 3
+Sitio web: https://capellamoda.com/
+Latitud: -7.1531347
+Longitud: -78.517624
+Google Maps: https://www.google.com/maps?cid=772183602901778883
+Place Id: ChIJJ0P3NiJbspERw4FXSOVYtwo
+Fotos: Tienda de ropa.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

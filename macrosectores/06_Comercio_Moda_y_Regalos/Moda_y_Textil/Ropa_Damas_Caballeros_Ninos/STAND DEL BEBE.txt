@@ -1,0 +1,17 @@
+Nombre: STAND DEL BEBE
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa para bebés, Tienda de ropa infantil
+Dirección: 0600, Cajamarca 06000
+Teléfono: 987 807 728
+Rating: 4.4
+Reseñas: 23
+Sitio web: http://www.standdelbebe.com/
+Latitud: -7.1534878
+Longitud: -78.5172065
+Google Maps: https://www.google.com/maps?cid=1100166569636668678
+Place Id: ChIJQ0732flaspERBiX0iKqTRA8
+Fotos: STAND DEL BEBE.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

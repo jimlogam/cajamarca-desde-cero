@@ -1,0 +1,17 @@
+Nombre: Lácteos Los Alpes
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Tienda de productos lácteos
+Dirección: Junín 965, Cajamarca 06001
+Teléfono: (076) 362287
+Rating: 3.9
+Reseñas: 8
+Sitio web: 
+Latitud: -7.157523899999999
+Longitud: -78.51955509999999
+Google Maps: https://www.google.com/maps?cid=7444210642680887106
+Place Id: ChIJp0QMQtxbspERQjctbiMmT2c
+Fotos: Lácteos Los Alpes.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

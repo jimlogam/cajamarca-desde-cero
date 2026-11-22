@@ -1,0 +1,17 @@
+Nombre: ALMACEN CIA ROCA BLANCA SERVICIOS - CAJAMARCA
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: A6-B, Av. Universitaria, Cajamarca
+Teléfono: 
+Rating: 3.5
+Reseñas: 12
+Sitio web: 
+Latitud: -7.1715632
+Longitud: -78.4908473
+Google Maps: https://www.google.com/maps?cid=12942311705440816316
+Place Id: ChIJuxo2jSRbspERvAwuv-xTnLM
+Fotos: ALMACEN CIA ROCA BLANCA SERVICIOS - CAJAMARCA.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

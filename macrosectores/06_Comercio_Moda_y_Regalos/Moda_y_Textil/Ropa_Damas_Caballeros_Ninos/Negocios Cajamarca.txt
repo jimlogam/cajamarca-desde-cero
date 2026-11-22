@@ -1,0 +1,17 @@
+Nombre: Negocios Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Jr. Fraternidad 229, Cajamarca 06001
+Teléfono: 980 692 341
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1524569
+Longitud: -78.51241859999999
+Google Maps: https://www.google.com/maps?cid=2447757993415903645
+Place Id: ChIJs5P0izdbspERnYmtHe0u-CE
+Fotos: Negocios Cajamarca.jpg
+Nota: Aparecia 5 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Turismo de Aventura Extrema, Cajamarca.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: Av. Vía de Evitamiento Sur 1238, Cajamarca 06001
+Teléfono: 965 310 175
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1688028
+Longitud: -78.4997212
+Google Maps: https://www.google.com/maps?cid=14322494345227315792
+Place Id: ChIJOVMpA31bspERUKrQILm4w8Y
+Fotos: Turismo de Aventura Extrema, Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

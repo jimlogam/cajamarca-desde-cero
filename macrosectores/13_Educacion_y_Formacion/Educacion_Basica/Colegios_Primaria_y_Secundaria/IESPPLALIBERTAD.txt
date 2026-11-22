@@ -1,0 +1,17 @@
+Nombre: IESPPLALIBERTAD
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Institución educativa
+Dirección: Calle Lima N° 485, Cajamarca 06001
+Teléfono: (044) 561347
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1505664
+Longitud: -78.52031579999999
+Google Maps: https://www.google.com/maps?cid=2343248876080340513
+Place Id: ChIJh4Gr1PdaspERIR4aD3DkhCA
+Fotos: IESPPLALIBERTAD.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

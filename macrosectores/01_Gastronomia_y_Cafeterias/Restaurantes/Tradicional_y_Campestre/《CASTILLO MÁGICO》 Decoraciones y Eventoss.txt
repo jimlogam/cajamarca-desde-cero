@@ -1,0 +1,17 @@
+Nombre: 《CASTILLO MÁGICO》 Decoraciones y Eventoss
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Organizador de eventos
+Dirección: Jr, Julio César Tello 320, Cajamarca 06001
+Teléfono: 945 149 502
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.15037
+Longitud: -78.5075681
+Google Maps: https://www.google.com/maps?cid=2083133060080284812
+Place Id: ChIJuSNeaABbspERjDT1MXvG6Bw
+Fotos: 《CASTILLO MÁGICO》 Decoraciones y Eventoss.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

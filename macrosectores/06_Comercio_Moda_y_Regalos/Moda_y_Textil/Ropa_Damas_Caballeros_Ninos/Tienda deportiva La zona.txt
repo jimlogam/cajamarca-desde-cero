@@ -1,0 +1,17 @@
+Nombre: Tienda deportiva "La zona"
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: RFXV+R7H, 3N, Cajamarca 06002
+Teléfono: 934 673 055
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.150437999999999
+Longitud: -78.5067528
+Google Maps: https://www.google.com/maps?cid=10223419628080513991
+Place Id: ChIJw58vEkBbspERx8N-Wfzh4I0
+Fotos: Tienda deportiva La zona.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

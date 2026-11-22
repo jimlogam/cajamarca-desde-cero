@@ -1,0 +1,17 @@
+Nombre: Minimarket
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Cárdenas 117, Cajamarca 06003
+Teléfono: 954 395 475
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.170541999999999
+Longitud: -78.4928173
+Google Maps: https://www.google.com/maps?cid=11577560289480740249
+Place Id: ChIJ0yDLMwBbspERmQ0rJL7Bq6A
+Fotos: Minimarket.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

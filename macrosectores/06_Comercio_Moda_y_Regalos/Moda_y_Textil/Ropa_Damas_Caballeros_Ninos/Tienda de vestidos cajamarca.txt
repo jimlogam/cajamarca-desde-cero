@@ -1,0 +1,17 @@
+Nombre: Tienda de vestidos cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa de mujer
+Dirección: Jr.Amazonas 1044, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1585277
+Longitud: -78.5139779
+Google Maps: https://www.google.com/maps?cid=1036824248251109721
+Place Id: ChIJ9TyLBuJbspERWdGEEymKYw4
+Fotos: Tienda de vestidos cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

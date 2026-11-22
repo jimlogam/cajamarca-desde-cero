@@ -1,0 +1,17 @@
+Nombre: Hotel Los Reyes
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel, Alojamiento con servicio
+Dirección: Amalia Puga 418, Cajamarca 06001
+Teléfono: (076) 345722
+Rating: 3.7
+Reseñas: 130
+Sitio web: 
+Latitud: -7.1553005
+Longitud: -78.5193228
+Google Maps: https://www.google.com/maps?cid=11855178749097458310
+Place Id: ChIJy966XfhaspERhrq2yEIOhqQ
+Fotos: Hotel Los Reyes.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

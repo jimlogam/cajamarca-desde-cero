@@ -1,0 +1,17 @@
+Nombre: El mercadillo
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado
+Dirección: Amalia Puga 807, Cajamarca 06002
+Teléfono: 955 642 322
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.158278999999999
+Longitud: -78.5158399
+Google Maps: https://www.google.com/maps?cid=10983174055030414473
+Place Id: ChIJX_MG_9xbspERidxfmJwSbJg
+Fotos: El mercadillo.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

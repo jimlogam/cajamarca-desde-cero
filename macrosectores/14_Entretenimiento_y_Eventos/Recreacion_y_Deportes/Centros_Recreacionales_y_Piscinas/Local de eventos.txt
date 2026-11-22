@@ -1,0 +1,17 @@
+Nombre: Local de eventos
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
+Categoría Maps: Parque infantil
+Dirección: VF7J+4JM, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.137169999999999
+Longitud: -78.518464
+Google Maps: https://www.google.com/maps?cid=16821296804747400559
+Place Id: ChIJ66HFMgBbspERb9VhJFJAcek
+Fotos: Local de eventos.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

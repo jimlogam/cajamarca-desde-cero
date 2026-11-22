@@ -1,0 +1,17 @@
+Nombre: TractoPartes Repuestos Para Maquinaria Pesada
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Proveedor de maquinaria de construcción
+Dirección: Av, Vía de Evitamiento Nte. N°2338, Cajamarca
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: http://www.tractopartes.com.pe/
+Latitud: -7.156342899999999
+Longitud: -78.5080534
+Google Maps: https://www.google.com/maps?cid=15192620231025404288
+Place Id: ChIJT_nLUbRbspERgKmuLZsH19I
+Fotos: TractoPartes Repuestos Para Maquinaria Pesada.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

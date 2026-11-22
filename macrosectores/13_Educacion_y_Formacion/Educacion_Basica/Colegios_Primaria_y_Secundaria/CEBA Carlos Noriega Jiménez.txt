@@ -1,0 +1,17 @@
+Nombre: CEBA Carlos Noriega Jiménez
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Institución educativa
+Dirección: Ceba Carlos Noriega Jiménez, Nueva Cajamarca 22845
+Teléfono: 945 129 926
+Rating: 5
+Reseñas: 1
+Sitio web: http://www.cebacarlosnoriega.com/
+Latitud: -5.9251838999999995
+Longitud: -77.315085
+Google Maps: https://www.google.com/maps?cid=17188745440993998169
+Place Id: ChIJN8_ZR3ndtpERWfUPoeiwiu4
+Fotos: CEBA Carlos Noriega Jiménez.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

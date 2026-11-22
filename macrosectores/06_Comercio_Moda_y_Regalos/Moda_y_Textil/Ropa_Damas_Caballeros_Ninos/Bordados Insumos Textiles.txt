@@ -1,0 +1,17 @@
+Nombre: Bordados Insumos Textiles
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Jr. Jequetepeque 231, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1520057999999995
+Longitud: -78.5189698
+Google Maps: https://www.google.com/maps?cid=2315160487797740803
+Place Id: ChIJVT61lfdaspERA1U0iTIaISA
+Fotos: Bordados Insumos Textiles.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

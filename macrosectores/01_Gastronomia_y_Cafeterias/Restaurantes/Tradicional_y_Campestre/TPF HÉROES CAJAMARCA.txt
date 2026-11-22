@@ -1,0 +1,17 @@
+Nombre: TPF HÉROES CAJAMARCA
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Distribuidor de equipos de telecomunicación
+Dirección: Av. Héroes de San Ramón 476, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1633
+Longitud: -78.51132609999999
+Google Maps: https://www.google.com/maps?cid=15242453686511108330
+Place Id: ChIJm416V4xbspER6oDWsd4SiNM
+Fotos: TPF HÉROES CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

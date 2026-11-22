@@ -1,0 +1,17 @@
+Nombre: CONSTRUCTORA GL
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
+Categoría Maps: Empresa de construcción
+Dirección: Jr del Batán 169, Cajamarca 06001
+Teléfono: 934 986 648
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/ConstructoraGL.AGNIS
+Latitud: -7.156017299999999
+Longitud: -78.5174335
+Google Maps: https://www.google.com/maps?cid=9521243341344806166
+Place Id: ChIJbQD3zZdbspERFhXpjF9AIoQ
+Fotos: CONSTRUCTORA GL.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

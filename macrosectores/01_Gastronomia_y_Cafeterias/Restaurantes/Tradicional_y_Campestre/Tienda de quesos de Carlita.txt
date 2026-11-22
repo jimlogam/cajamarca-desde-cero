@@ -1,0 +1,17 @@
+Nombre: Tienda de quesos de Carlita
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda naturista
+Dirección: Los Olivos 226, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1471075
+Longitud: -78.5145166
+Google Maps: https://www.google.com/maps?cid=11787319490104363468
+Place Id: ChIJ__1gC_NbspERzIm11Z_4lKM
+Fotos: Tienda de quesos de Carlita.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

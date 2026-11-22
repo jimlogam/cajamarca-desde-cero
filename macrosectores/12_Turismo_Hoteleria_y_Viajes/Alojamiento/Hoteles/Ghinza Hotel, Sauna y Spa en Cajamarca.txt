@@ -1,0 +1,17 @@
+Nombre: Ghinza Hotel, Sauna y Spa en Cajamarca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr. Los Cipreses 1761, Los Cipreses 543, Cajamarca 06001
+Teléfono: 920 601 136
+Rating: 4.5
+Reseñas: 24
+Sitio web: https://ghinzahotel.com/
+Latitud: -7.1488741
+Longitud: -78.5124634
+Google Maps: https://www.google.com/maps?cid=569232813495759926
+Place Id: ChIJn669dgBbspERNjTpWjpS5gc
+Fotos: Ghinza Hotel, Sauna y Spa en Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

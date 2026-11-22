@@ -1,0 +1,17 @@
+Nombre: Los Alpes
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Quesería, Tienda de productos lácteos
+Dirección: Av Tres Molinos B 44, Km 3 Carretera Moyococha, Santa Bárbara
+Teléfono: 941 342 093
+Rating: 4.2
+Reseñas: 307
+Sitio web: 
+Latitud: -7.1333335
+Longitud: -78.5160393
+Google Maps: https://www.google.com/maps?cid=11768650343673583489
+Place Id: ChIJG-Eax4haspERgVdxdCKlUqM
+Fotos: Los Alpes.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

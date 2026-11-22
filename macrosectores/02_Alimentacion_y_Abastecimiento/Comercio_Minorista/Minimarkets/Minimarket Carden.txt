@@ -1,0 +1,17 @@
+Nombre: Minimarket Carden
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: RFWP+357, Av. Mario Urteaga, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1548362
+Longitud: -78.5145867
+Google Maps: https://www.google.com/maps?cid=12356764145560544578
+Place Id: ChIJY9AoJPpaspERQmVrfYULfKs
+Fotos: Minimarket Carden.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

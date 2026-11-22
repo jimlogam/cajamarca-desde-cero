@@ -1,0 +1,17 @@
+Nombre: VS SERVICIOS GENERALES E.I.R.L.
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
+Categoría Maps: Empresa de construcción
+Dirección: CAS, 076, Jr. Barrantes Lingan MZA. 041, Cajamarca
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: https://vsserviciosgenerales.com/
+Latitud: -7.1862159
+Longitud: -78.50155869999999
+Google Maps: https://www.google.com/maps?cid=17237141801279758989
+Place Id: ChIJMx42GzJbspERjSJRWCShNu8
+Fotos: VS SERVICIOS GENERALES E.I.R.L.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Hostal El Principe
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Av. Vía de Evitamiento Sur 1762, Cajamarca 06003
+Teléfono: 935 210 100
+Rating: 4.7
+Reseñas: 6
+Sitio web: 
+Latitud: -7.171981199999999
+Longitud: -78.4956364
+Google Maps: https://www.google.com/maps?cid=767678540341100344
+Place Id: ChIJlZTF1BFbspEROL-4qpBXpwo
+Fotos: Hostal El Principe.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Minimarket ANGEL
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Cajamarca 06000
+Teléfono: 921 687 840
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -6.7572519
+Longitud: -78.5092389
+Google Maps: https://www.google.com/maps?cid=12226868345244737894
+Place Id: ChIJbTLvlJ6ls5ERZuHHsfqPrqk
+Fotos: Minimarket ANGEL.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

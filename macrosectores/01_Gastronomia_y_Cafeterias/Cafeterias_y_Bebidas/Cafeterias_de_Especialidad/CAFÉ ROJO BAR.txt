@@ -1,0 +1,17 @@
+Nombre: CAFÉ ROJO BAR
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Bar musical
+Dirección: Jr, Prol. Revilla Perez 427, Cajamarca 06000
+Teléfono: 945 194 026
+Rating: 4.2
+Reseñas: 61
+Sitio web: https://www.facebook.com/caferojo.pe/
+Latitud: -7.1507587
+Longitud: -78.5128294
+Google Maps: https://www.google.com/maps?cid=14220872541557926842
+Place Id: ChIJNbT7iFVbspERuquqKzuwWsU
+Fotos: CAFÉ ROJO BAR.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

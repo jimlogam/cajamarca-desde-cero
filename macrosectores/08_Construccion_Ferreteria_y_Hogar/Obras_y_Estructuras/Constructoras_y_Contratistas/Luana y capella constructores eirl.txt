@@ -1,0 +1,17 @@
+Nombre: Luana y capella constructores eirl
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
+Categoría Maps: Empresa de construcción
+Dirección: Jr. Fraternidad 321, Cajamarca 06001
+Teléfono: 942 735 658
+Rating: 5
+Reseñas: 2
+Sitio web: http://www.luanaycapella.com/
+Latitud: -7.1532811
+Longitud: -78.5118372
+Google Maps: https://www.google.com/maps?cid=10559372403252058443
+Place Id: ChIJGXd3FG5bspERS9nmOkFtipI
+Fotos: Luana y capella constructores eirl.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

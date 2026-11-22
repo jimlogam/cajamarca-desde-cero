@@ -1,0 +1,17 @@
+Nombre: Babymodas Cajamarca- Jr.Amazonas
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa infantil
+Dirección: Jr. Amazonas 304 La Merced, Jr.Amazonas 304, Cajamarca 06001
+Teléfono: 989 018 047
+Rating: 1
+Reseñas: 1
+Sitio web: https://www.babymodas.com/
+Latitud: -7.15442
+Longitud: -78.5188814
+Google Maps: https://www.google.com/maps?cid=5854851070662441317
+Place Id: ChIJzc23GQBbspERZXmmRwecQFE
+Fotos: Babymodas Cajamarca- Jr.Amazonas.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

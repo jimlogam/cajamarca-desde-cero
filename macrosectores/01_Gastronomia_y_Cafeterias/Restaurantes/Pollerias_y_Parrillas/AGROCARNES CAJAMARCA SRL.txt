@@ -1,0 +1,17 @@
+Nombre: AGROCARNES CAJAMARCA SRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Carnicería
+Dirección: Av San Martín de Porres 263, Cajamarca 06001
+Teléfono: 950 796 874
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1637343
+Longitud: -78.5087221
+Google Maps: https://www.google.com/maps?cid=9844153767702612266
+Place Id: ChIJLXeLbVdbspERKsk89rF1nYg
+Fotos: AGROCARNES CAJAMARCA SRL.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: KAYSER | Cajamarca (Amazonas)
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa interior
+Dirección: Jr.Amazonas 448, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: https://www.kayser.pe/
+Latitud: -7.1550037
+Longitud: -78.5181849
+Google Maps: https://www.google.com/maps?cid=5108041525691135956
+Place Id: ChIJYZWzscVbspER1LfDPLRo40Y
+Fotos: KAYSER - Cajamarca (Amazonas).jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

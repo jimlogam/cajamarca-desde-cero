@@ -1,0 +1,17 @@
+Nombre: Ysabella Cajamarca Boutique
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Galerías "Coremarca" entre, Jr.Amazonas y, Cajamarca 06001
+Teléfono: 989 676 281
+Rating: 
+Reseñas: 
+Sitio web: https://ysabellaboutique.com/
+Latitud: -7.1545920999999995
+Longitud: -78.5187471
+Google Maps: https://www.google.com/maps?cid=9638512209939555702
+Place Id: ChIJj2A5ChBbspERdmW2tMnfwoU
+Fotos: Ysabella Cajamarca Boutique.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

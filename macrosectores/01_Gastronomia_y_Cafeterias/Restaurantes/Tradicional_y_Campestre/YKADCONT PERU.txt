@@ -1,0 +1,17 @@
+Nombre: YKADCONT PERU
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Contable
+Dirección: Jr. Alfonso Ugarte, Cajamarca 06003
+Teléfono: 952 136 143
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1776127999999995
+Longitud: -78.5081369
+Google Maps: https://www.google.com/maps?cid=12348789656220291166
+Place Id: ChIJKQRG2J9bspERXlAHAcS2X6s
+Fotos: YKADCONT PERU.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

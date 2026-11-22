@@ -1,0 +1,17 @@
+Nombre: Ukhunas Gyn Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Ciro Alegría 310, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1446404999999995
+Longitud: -78.51566079999999
+Google Maps: https://www.google.com/maps?cid=14817055487888192402
+Place Id: ChIJ27rajPRaspERkvPTTHbBoM0
+Fotos: Ukhunas Gyn Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

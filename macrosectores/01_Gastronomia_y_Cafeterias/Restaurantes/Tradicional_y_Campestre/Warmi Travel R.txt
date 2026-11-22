@@ -1,0 +1,17 @@
+Nombre: Warmi Travel R
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de viajes
+Dirección: Jr, Dos de Mayo 570, Cajamarca 06001
+Teléfono: 975 076 320
+Rating: 
+Reseñas: 
+Sitio web: https://warmi-travel-r.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1567314
+Longitud: -78.5164064
+Google Maps: https://www.google.com/maps?cid=14782952430421369872
+Place Id: ChIJv6QhCRdbspEREGTDeumYJ80
+Fotos: Warmi Travel R.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

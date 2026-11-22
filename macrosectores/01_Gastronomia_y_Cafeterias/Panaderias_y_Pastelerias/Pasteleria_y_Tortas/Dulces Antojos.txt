@@ -1,0 +1,17 @@
+Nombre: Dulces Antojos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Jr, Los Sauces 370, Cajamarca 06001
+Teléfono: 998 240 030
+Rating: 
+Reseñas: 
+Sitio web: https://dulces-antojos.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1478781
+Longitud: -78.5145364
+Google Maps: https://www.google.com/maps?cid=16547758172208090221
+Place Id: ChIJO2nO5aNbspERbcyHQ2JypeU
+Fotos: Dulces Antojos.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

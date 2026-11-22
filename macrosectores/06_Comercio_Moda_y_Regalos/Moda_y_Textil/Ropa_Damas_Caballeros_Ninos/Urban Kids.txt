@@ -1,0 +1,17 @@
+Nombre: Urban Kids
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa infantil
+Dirección: C.C San Antonio Pab. R, Cajamarca
+Teléfono: 916 512 451
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.153363499999999
+Longitud: -78.5171434
+Google Maps: https://www.google.com/maps?cid=7932474005798219690
+Place Id: ChIJSzDL0jhbspERqm-fiRTPFW4
+Fotos: Urban Kids.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

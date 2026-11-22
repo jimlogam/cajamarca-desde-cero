@@ -1,0 +1,17 @@
+Nombre: Kamiar
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: VF4F+XVF, Cajamarca 06001
+Teléfono: 910 859 740
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/KAMIARPAS
+Latitud: -7.1425626
+Longitud: -78.52531789999999
+Google Maps: https://www.google.com/maps?cid=9319135143994191666
+Place Id: ChIJHdQ5o6JbspERMu-h3wk4VIE
+Fotos: Kamiar.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

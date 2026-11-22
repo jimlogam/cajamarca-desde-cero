@@ -1,0 +1,17 @@
+Nombre: Caprichos
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa de mujer
+Dirección: Amalia Puga 439, Cajamarca 06001
+Teléfono: (076) 312105
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1554462999999995
+Longitud: -78.5189247
+Google Maps: https://www.google.com/maps?cid=6373683522132139506
+Place Id: ChIJIcanXvhaspER8l1y52Tfc1g
+Fotos: Caprichos.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

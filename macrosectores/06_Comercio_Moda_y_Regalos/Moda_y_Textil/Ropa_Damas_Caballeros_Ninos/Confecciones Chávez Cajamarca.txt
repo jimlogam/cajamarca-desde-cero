@@ -1,0 +1,17 @@
+Nombre: Confecciones Chávez Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Jr, Jr. Tarapacá 280, Cajamarca 06002
+Teléfono: 976 637 750
+Rating: 4
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1587955
+Longitud: -78.522381
+Google Maps: https://www.google.com/maps?cid=11292924331176727113
+Place Id: ChIJQfxXfERbspERSZInw9iGuJw
+Fotos: Confecciones Chávez Cajamarca.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

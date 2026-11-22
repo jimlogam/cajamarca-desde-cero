@@ -1,0 +1,17 @@
+Nombre: La Farola Cajamarca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel de larga estancia, Motel (hotel para automovilistas), Hostal juvenil
+Dirección: Av. Atahualpa 808, Cajamarca 06002
+Teléfono: 993 248 120
+Rating: 4.3
+Reseñas: 16
+Sitio web: https://sites.google.com/view/la-farola-cajamarca
+Latitud: -7.1657477
+Longitud: -78.5001195
+Google Maps: https://www.google.com/maps?cid=15989759077755352030
+Place Id: ChIJ5bDKsfhaspER3nOv8SkJ590
+Fotos: La Farola Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

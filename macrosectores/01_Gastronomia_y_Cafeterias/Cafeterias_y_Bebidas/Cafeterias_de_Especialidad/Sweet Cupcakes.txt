@@ -1,0 +1,17 @@
+Nombre: Sweet Cupcakes
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jr. Los Nogales 330, Cajamarca 06002
+Teléfono: 943 779 160
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1640022
+Longitud: -78.4992141
+Google Maps: https://www.google.com/maps?cid=4272322132826792340
+Place Id: ChIJqz3DbQlbspERlCEuFVhWSjs
+Fotos: Sweet Cupcakes.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

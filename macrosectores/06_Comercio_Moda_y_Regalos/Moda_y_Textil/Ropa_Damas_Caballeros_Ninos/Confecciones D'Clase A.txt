@@ -1,0 +1,17 @@
+Nombre: Confecciones D'Clase A
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Jr.Amazonas 949, Cajamarca 06002
+Teléfono: 976 746 603
+Rating: 
+Reseñas: 
+Sitio web: https://confecciones-dclase-a.negocio.site/?utm_source=gmb&utm_medium=referral
+Latitud: -7.1580432
+Longitud: -78.5143506
+Google Maps: https://www.google.com/maps?cid=14204649660680387655
+Place Id: ChIJc-IPSktbspERRzy6X5sNIcU
+Fotos: Confecciones D'Clase A.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: DISCO KARAOKE MALIBÚ
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Karaoke, Discoteca, Pub restaurante
+Dirección: Av. Vía de Evitamiento Sur 511, Cajamarca 06002
+Teléfono: 976 691 269
+Rating: 4
+Reseñas: 31
+Sitio web: 
+Latitud: -7.1617413
+Longitud: -78.5045769
+Google Maps: https://www.google.com/maps?cid=14876203977009433572
+Place Id: ChIJR5hgTOJaspER5IvmF7Pkcs4
+Fotos: DISCO KARAOKE MALIBÚ.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

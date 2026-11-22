@@ -1,0 +1,17 @@
+Nombre: Minimarket La favorita
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: AV: MANCO CAPAC N:1717 Barrio, Cajamarca 06001
+Teléfono: 928 756 483
+Rating: 
+Reseñas: 
+Sitio web: http://mimimarket_favorita.com/
+Latitud: -7.1579599
+Longitud: -78.4581506
+Google Maps: https://www.google.com/maps?cid=560703599981313349
+Place Id: ChIJ3VlQUA1FspERRT0rFfQEyAc
+Fotos: Minimarket La favorita.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

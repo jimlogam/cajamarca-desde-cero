@@ -1,0 +1,17 @@
+Nombre: Panaderia Saavedra
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
+Categoría Maps: Panadería
+Dirección: Cajamarca 825, Chimbote 02801
+Teléfono: 
+Rating: 4.3
+Reseñas: 7
+Sitio web: 
+Latitud: -9.0833192
+Longitud: -78.571647
+Google Maps: https://www.google.com/maps?cid=8876288963292676099
+Place Id: ChIJhY5yf--Bq5ERA8DHlMjpLns
+Fotos: Panaderia Saavedra.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

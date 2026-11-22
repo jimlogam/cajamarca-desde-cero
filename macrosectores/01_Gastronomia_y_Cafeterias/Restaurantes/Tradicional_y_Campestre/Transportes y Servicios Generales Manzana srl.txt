@@ -1,0 +1,17 @@
+Nombre: Transportes y Servicios Generales Manzana srl
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de transporte por camión, Service establishment
+Dirección: 
+Teléfono: 962 571 063
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=9433135190840931626
+Place Id: ChIJNa0dI5tuvmQRKnVPKHo66YI
+Fotos: Transportes y Servicios Generales Manzana srl.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

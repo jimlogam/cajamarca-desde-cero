@@ -1,0 +1,17 @@
+Nombre: Muebles Daíro
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
+Categoría Maps: Tienda de muebles
+Dirección: Av. Atahualpa 833, Cajamarca 06003
+Teléfono: 960 962 645
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1653375
+Longitud: -78.4991825
+Google Maps: https://www.google.com/maps?cid=12100986927040123028
+Place Id: ChIJuV_ePBlbspERlFDfEX9X76c
+Fotos: Muebles Daíro.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

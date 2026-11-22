@@ -1,0 +1,17 @@
+Nombre: Crocce Boutique
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa de vestir
+Dirección: Amalia Puga 443, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1555824999999995
+Longitud: -78.5188968
+Google Maps: https://www.google.com/maps?cid=14761482922474053392
+Place Id: ChIJxUpYKgBbspEREJ8PIIJS28w
+Fotos: Crocce Boutique.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

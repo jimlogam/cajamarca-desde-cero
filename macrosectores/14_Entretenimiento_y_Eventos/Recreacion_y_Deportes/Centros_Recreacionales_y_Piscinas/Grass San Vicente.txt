@@ -1,0 +1,17 @@
+Nombre: Grass San Vicente
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
+Categoría Maps: Parque infantil
+Dirección: Prolongación revolución s/n sector 15 barrio San Vicente, Jirón Silva Santisteban 452, Cajamarca 06002
+Teléfono: (076) 362644
+Rating: 4.4
+Reseñas: 101
+Sitio web: 
+Latitud: -7.1629659
+Longitud: -78.52846629999999
+Google Maps: https://www.google.com/maps?cid=18110632694734861148
+Place Id: ChIJh9DHP_1aspERXDM_S3vkVfs
+Fotos: Grass San Vicente.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

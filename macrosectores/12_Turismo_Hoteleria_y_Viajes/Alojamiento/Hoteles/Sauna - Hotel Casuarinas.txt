@@ -1,0 +1,17 @@
+Nombre: Sauna - Hotel Casuarinas
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel, Club de sauna
+Dirección: Jr, Jirón Las Casuarinas 157, Cajamarca 06001
+Teléfono: 951 368 598
+Rating: 5
+Reseñas: 3
+Sitio web: https://www.facebook.com/casuarinassauna
+Latitud: -7.146490099999999
+Longitud: -78.5178047
+Google Maps: https://www.google.com/maps?cid=12749011225615196474
+Place Id: ChIJ7yedwM1bspEROuFCnCmW7bA
+Fotos: Sauna - Hotel Casuarinas.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

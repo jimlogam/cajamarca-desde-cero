@@ -1,0 +1,17 @@
+Nombre: Supermercado en Linea
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado
+Dirección: Av. Industrial N° 695, Cajamarca 06001
+Teléfono: 985 905 598
+Rating: 4.4
+Reseñas: 14
+Sitio web: 
+Latitud: -7.1850344999999995
+Longitud: -78.4962745
+Google Maps: https://www.google.com/maps?cid=12534584220317603269
+Place Id: ChIJlT9ydc5bspERxVU_8-_J860
+Fotos: Supermercado en Linea.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Confecciones Rosalía
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Psj, San Ignacio 193, Cajamarca 06002
+Teléfono: 962 051 000
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.160899199999999
+Longitud: -78.5086357
+Google Maps: https://www.google.com/maps?cid=6260942127446917943
+Place Id: ChIJNxMSr7dbspERN4PAabFV41Y
+Fotos: Confecciones Rosalía.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

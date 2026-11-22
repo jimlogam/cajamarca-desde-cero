@@ -1,0 +1,17 @@
+Nombre: Loza Deportiva "Santa Rosa"
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
+Categoría Maps: Parque infantil
+Dirección: Los Cedros 295, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1456259
+Longitud: -78.5220441
+Google Maps: https://www.google.com/maps?cid=14278406609050686390
+Place Id: ChIJJx_UbgBbspERtlMOIykXJ8Y
+Fotos: Loza Deportiva Santa Rosa.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

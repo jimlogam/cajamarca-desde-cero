@@ -1,0 +1,17 @@
+Nombre: MUEBLERIA SEBASTIAN
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
+Categoría Maps: Tienda de muebles
+Dirección: JR. CHANCHAMAYO # 1479 CON, Av Vía de Evitamiento Nte, Cajamarca 06001
+Teléfono: 939 134 670
+Rating: 5
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1477664
+Longitud: -78.5227019
+Google Maps: https://www.google.com/maps?cid=13766614708186695637
+Place Id: ChIJH4pV7FpbspER1ccicSPXDL8
+Fotos: MUEBLERIA SEBASTIAN.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

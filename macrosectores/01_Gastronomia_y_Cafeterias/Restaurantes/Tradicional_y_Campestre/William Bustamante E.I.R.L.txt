@@ -1,0 +1,17 @@
+Nombre: William Bustamante E.I.R.L
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de envíos
+Dirección: Jr. Rumania, Cajamarca 06001
+Teléfono: 954 820 270
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1454661999999995
+Longitud: -78.5241637
+Google Maps: https://www.google.com/maps?cid=15685358723484465651
+Place Id: ChIJQdwGrvpbspER87ndh6eWrdk
+Fotos: William Bustamante E.I.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Tortas Santa Maria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Tienda de postres
+Dirección: San Gerónimo 367, Cajamarca 06001
+Teléfono: 918 149 651
+Rating: 
+Reseñas: 
+Sitio web: https://wa.link/dncqh8
+Latitud: -7.1448535
+Longitud: -78.522525
+Google Maps: https://www.google.com/maps?cid=9115230795560311559
+Place Id: ChIJwSqmWgBbspERB9sSLx3Of34
+Fotos: Tortas Santa Maria.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

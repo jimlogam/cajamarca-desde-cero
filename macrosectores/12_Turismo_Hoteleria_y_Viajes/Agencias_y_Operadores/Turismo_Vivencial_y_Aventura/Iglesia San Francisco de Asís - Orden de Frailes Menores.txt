@@ -1,0 +1,17 @@
+Nombre: Iglesia San Francisco de Asís - Orden de Frailes Menores
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Agencias_y_Operadores
+Subrubro: Turismo_Vivencial_y_Aventura
+Categoría Maps: Atracción turística, Iglesia católica
+Dirección: Amalia Puga 714, Cajamarca 06002
+Teléfono: 925 117 734
+Rating: 4.6
+Reseñas: 470
+Sitio web: https://pidelope.app/places/local.html?id=ChIJ48FnOflaspERoHLvAV1MU68
+Latitud: -7.1575744
+Longitud: -78.516421
+Google Maps: https://www.google.com/maps?cid=12633525342052512416
+Place Id: ChIJ48FnOflaspERoHLvAV1MU68
+Fotos: Iglesia San Francisco de Asís - Orden de Frailes Menores.jpg
+Nota: Atraccion turistica, no es un negocio Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

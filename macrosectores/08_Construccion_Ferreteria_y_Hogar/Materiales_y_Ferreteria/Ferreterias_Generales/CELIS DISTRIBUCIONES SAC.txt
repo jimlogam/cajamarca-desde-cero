@@ -1,0 +1,17 @@
+Nombre: CELIS DISTRIBUCIONES SAC
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Av. Vía de Evitamiento Sur 180, Cajamarca 06002
+Teléfono: (076) 363171
+Rating: 4.5
+Reseñas: 19
+Sitio web: http://celisdistribuciones.com/
+Latitud: -7.1599333
+Longitud: -78.5059812
+Google Maps: https://www.google.com/maps?cid=10002299715929000398
+Place Id: ChIJYatK-PNbspERzknw4JhOz4o
+Fotos: CELIS DISTRIBUCIONES SAC.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

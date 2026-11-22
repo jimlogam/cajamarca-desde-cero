@@ -1,0 +1,17 @@
+Nombre: Mercado Campo Real
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Puestos_de_Mercado_de_Abastos
+Categoría Maps: Mercado
+Dirección: RGX2+R2F, Cajamarca 06001
+Teléfono: 
+Rating: 4.1
+Reseñas: 56
+Sitio web: 
+Latitud: -7.150430999999999
+Longitud: -78.4999423
+Google Maps: https://www.google.com/maps?cid=6934311403834975297
+Place Id: ChIJ19EEYOJbspERQSSGc3ufO2A
+Fotos: Mercado Campo Real.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

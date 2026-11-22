@@ -1,0 +1,17 @@
+Nombre: La Union Mini Market
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: RGG2+462, Colonial, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1747359
+Longitud: -78.4994923
+Google Maps: https://www.google.com/maps?cid=14600588017697980791
+Place Id: ChIJn5IOkxdbspERd4G24nG1n8o
+Fotos: La Union Mini Market.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

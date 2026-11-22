@@ -1,0 +1,17 @@
+Nombre: Hospedaje Casa Historia
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr, La Historia, Cajamarca 06003
+Teléfono: 997 872 538
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.173468799999999
+Longitud: -78.5038601
+Google Maps: https://www.google.com/maps?cid=1070416016961811943
+Place Id: ChIJrXAfHrdbspER57XlNLLh2g4
+Fotos: Hospedaje Casa Historia.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

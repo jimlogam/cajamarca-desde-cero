@@ -1,0 +1,17 @@
+Nombre: QUESOS RODRIGUEZ
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Salud_Alimentaria
+Subrubro: Productos_Naturales_y_Organicos
+Categoría Maps: Tienda de alimentos naturales
+Dirección: Jiron, Jr. Los Gladiolos 141, Cajamarca 06001
+Teléfono: 916 595 251
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1520939
+Longitud: -78.515104
+Google Maps: https://www.google.com/maps?cid=923019408806455170
+Place Id: ChIJHUBr88tbspERgiezDkM5zww
+Fotos: QUESOS RODRIGUEZ.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

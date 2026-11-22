@@ -1,0 +1,17 @@
+Nombre: Hotel Puñuykuna - Cajamarca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Barrio Mollepampa, Prolg. Barrantes Lingan S/N, Cajamarca 06003
+Teléfono: 950 584 908
+Rating: 4.6
+Reseñas: 90
+Sitio web: http://www.hotelpunuykuna.com/
+Latitud: -7.1822218
+Longitud: -78.50420729999999
+Google Maps: https://www.google.com/maps?cid=15719047455641711231
+Place Id: ChIJMTXM82VbspERfzIIuWBGJdo
+Fotos: Hotel Puñuykuna - Cajamarca.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: I.E.P. Ingeniería
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Facultad de Ingeniería
+Dirección: Juan Beato Macias 687, Cajamarca 06003
+Teléfono: 968 223 235
+Rating: 4.4
+Reseñas: 7
+Sitio web: 
+Latitud: -7.172254
+Longitud: -78.4969531
+Google Maps: https://www.google.com/maps?cid=17113155196450168932
+Place Id: ChIJn3xpS7ZbspERZOCKVvsjfu0
+Fotos: I.E.P. Ingeniería.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

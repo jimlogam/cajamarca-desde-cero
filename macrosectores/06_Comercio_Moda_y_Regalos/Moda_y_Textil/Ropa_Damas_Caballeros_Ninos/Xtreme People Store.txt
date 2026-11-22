@@ -1,0 +1,17 @@
+Nombre: Xtreme People Store
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Amalia Puga 812, Cajamarca 06001
+Teléfono: (076) 341172
+Rating: 4.4
+Reseñas: 12
+Sitio web: http://www.xtremepeoplestore.com/
+Latitud: -7.158531099999999
+Longitud: -78.5158285
+Google Maps: https://www.google.com/maps?cid=9190284037360984199
+Place Id: ChIJv0IBEflaspERhyDYx6Nyin8
+Fotos: Xtreme People Store.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

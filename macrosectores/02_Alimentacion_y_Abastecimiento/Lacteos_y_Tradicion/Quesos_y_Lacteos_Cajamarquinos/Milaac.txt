@@ -1,0 +1,17 @@
+Nombre: Milaac
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Quesería
+Dirección: Jr, Ciro Alegría 115, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1447731
+Longitud: -78.51759679999999
+Google Maps: https://www.google.com/maps?cid=2219377546042932276
+Place Id: ChIJlzcfEmlbspERNPxdjh7QzB4
+Fotos: Milaac.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

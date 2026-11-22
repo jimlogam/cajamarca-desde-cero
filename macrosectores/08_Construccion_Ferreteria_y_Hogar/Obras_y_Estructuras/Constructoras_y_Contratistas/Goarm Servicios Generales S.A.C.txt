@@ -1,0 +1,17 @@
+Nombre: Goarm Servicios Generales S.A.C
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
+Categoría Maps: Empresa de construcción
+Dirección: 0600, Cajamarca 06001
+Teléfono: 989 733 223
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1724336
+Longitud: -78.4995185
+Google Maps: https://www.google.com/maps?cid=5998185966011306732
+Place Id: ChIJiXrhkBVbspER7FLWOFvWPVM
+Fotos: Goarm Servicios Generales S.A.C.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

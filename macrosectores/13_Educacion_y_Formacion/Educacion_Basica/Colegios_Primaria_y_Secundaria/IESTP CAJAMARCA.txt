@@ -1,0 +1,17 @@
+Nombre: IESTP "CAJAMARCA"
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Institución educativa, Service establishment
+Dirección: 
+Teléfono: (076) 262303
+Rating: 
+Reseñas: 
+Sitio web: https://www.iestpcajamarca.edu.pe/
+Latitud: -9.2435385
+Longitud: -75.01950459999999
+Google Maps: https://www.google.com/maps?cid=14206707112708545045
+Place Id: ChIJlZSEy12nJ2ERFRoCQdlcKMU
+Fotos: IESTP CAJAMARCA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

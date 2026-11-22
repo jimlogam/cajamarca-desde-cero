@@ -1,0 +1,17 @@
+Nombre: Lacteos Chugur Quesos
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: dos de, Dos de Mayo 679, Cajamarca
+Teléfono: (076) 340178
+Rating: 4.4
+Reseñas: 42
+Sitio web: http://www.chugurquesos.com/
+Latitud: -7.1558006
+Longitud: -78.5158354
+Google Maps: https://www.google.com/maps?cid=12837391298169782973
+Place Id: ChIJ6x_qbPlaspERvcIZyl6TJ7I
+Fotos: Lacteos Chugur Quesos.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

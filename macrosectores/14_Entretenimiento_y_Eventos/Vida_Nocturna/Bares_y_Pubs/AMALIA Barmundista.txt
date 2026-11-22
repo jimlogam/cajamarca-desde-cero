@@ -1,0 +1,17 @@
+Nombre: AMALIA Barmundista
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: Jr. Tarapacá 730, Cajamarca 06001
+Teléfono: 
+Rating: 4.6
+Reseñas: 12
+Sitio web: 
+Latitud: -7.1556850999999995
+Longitud: -78.5197108
+Google Maps: https://www.google.com/maps?cid=18116178950420619512
+Place Id: ChIJpwLlawBbspER-OA6k8WYafs
+Fotos: AMALIA Barmundista.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

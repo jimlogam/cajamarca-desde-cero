@@ -1,0 +1,17 @@
+Nombre: Themis Abogados Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: San Luis 285, Cajamarca 06002
+Teléfono: 989 559 568
+Rating: 
+Reseñas: 
+Sitio web: http://themisabogados.org/
+Latitud: -7.1629501
+Longitud: -78.5063371
+Google Maps: https://www.google.com/maps?cid=1719199109174780937
+Place Id: ChIJQbylfeJaspERCeSHKHvS2xc
+Fotos: Themis Abogados Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

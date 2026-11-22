@@ -1,0 +1,17 @@
+Nombre: Tiendas Mi Cholo
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Puestos_de_Mercado_de_Abastos
+Categoría Maps: Mercado
+Dirección: Vía de Evitamiento Nte. c -8, Cajamarca 06002
+Teléfono: 951 363 486
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.155703399999999
+Longitud: -78.50654209999999
+Google Maps: https://www.google.com/maps?cid=4637530310693729301
+Place Id: ChIJI6TCyRdbspERFbQBND_RW0A
+Fotos: Tiendas Mi Cholo.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

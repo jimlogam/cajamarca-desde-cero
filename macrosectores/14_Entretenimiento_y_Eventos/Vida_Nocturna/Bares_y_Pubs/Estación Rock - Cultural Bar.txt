@@ -1,0 +1,17 @@
+Nombre: Estación Rock - Cultural Bar
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: Vía de Evitamiento Nte. 1914, Cajamarca 06002
+Teléfono: 968 514 453
+Rating: 4
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1539727
+Longitud: -78.5060711
+Google Maps: https://www.google.com/maps?cid=11959639958593475471
+Place Id: ChIJXYUYaABbspERjxOIbS0t-aU
+Fotos: Estación Rock - Cultural Bar.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

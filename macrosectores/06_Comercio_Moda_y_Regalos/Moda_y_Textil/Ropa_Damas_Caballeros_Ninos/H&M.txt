@@ -1,0 +1,17 @@
+Nombre: H&M
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa, Tienda de ropa infantil, Tienda de ropa de hombre
+Dirección: Jr. Sor Manuela Gil 571, Cajamarca 06001
+Teléfono: (01) 6805800
+Rating: 4.4
+Reseñas: 156
+Sitio web: https://www.hm.com/pe?utm_source=google_location&utm_medium=organic&utm_campaign=PE0017
+Latitud: -7.1491548
+Longitud: -78.5099395
+Google Maps: https://www.google.com/maps?cid=13405684865032787752
+Place Id: ChIJ2_uM7PFaspERKBccv1uPCro
+Fotos: H&M.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

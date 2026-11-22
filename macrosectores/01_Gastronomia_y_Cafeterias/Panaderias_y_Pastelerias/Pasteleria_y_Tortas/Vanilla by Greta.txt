@@ -1,0 +1,17 @@
+Nombre: Vanilla by Greta
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Tienda de postres
+Dirección: Jr, Jirón Silva Santisteban 188, Cajamarca 06002
+Teléfono: 976 385 173
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.159762
+Longitud: -78.516375
+Google Maps: https://www.google.com/maps?cid=5017212838185457014
+Place Id: ChIJRz6QLr5bspERdtWSdn64oEU
+Fotos: Vanilla by Greta.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

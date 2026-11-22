@@ -1,0 +1,17 @@
+Nombre: Novedades Yanelix EIRL
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Amalia Puga 805, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1582823
+Longitud: -78.5159072
+Google Maps: https://www.google.com/maps?cid=9402740494847589549
+Place Id: ChIJvcnoTPlaspERrTyShqk-fYI
+Fotos: Novedades Yanelix EIRL.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

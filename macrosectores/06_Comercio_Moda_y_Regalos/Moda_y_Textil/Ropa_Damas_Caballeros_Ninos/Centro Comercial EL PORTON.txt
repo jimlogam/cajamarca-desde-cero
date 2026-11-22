@@ -1,0 +1,17 @@
+Nombre: Centro Comercial "EL PORTON"
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Jr.Amazonas 207, Cajamarca 06001
+Teléfono: 
+Rating: 3.7
+Reseñas: 201
+Sitio web: 
+Latitud: -7.1540425
+Longitud: -78.5190886
+Google Maps: https://www.google.com/maps?cid=2582374637431012813
+Place Id: ChIJjTqwPfhaspERzb0N_Qxw1iM
+Fotos: Centro Comercial EL PORTON.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 8 veces en los archivos de la cosecha original; fusionado en uno.
+

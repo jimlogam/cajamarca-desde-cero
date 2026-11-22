@@ -1,0 +1,17 @@
+Nombre: LAVANDERIA MAGUI CLEAN
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Av. Atahualpa 372, Cajamarca 06003
+Teléfono: (076) 603913
+Rating: 3.5
+Reseñas: 21
+Sitio web: 
+Latitud: -7.1658598
+Longitud: -78.5060752
+Google Maps: https://www.google.com/maps?cid=3698707403858014732
+Place Id: ChIJ7fL0qh1bspERDHIQh8lyVDM
+Fotos: LAVANDERIA MAGUI CLEAN.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Bodega Mi Angelito
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: jr, La Historia #262, Cajamarca
+Teléfono: 994 360 363
+Rating: 4.5
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1725704
+Longitud: -78.5029907
+Google Maps: https://www.google.com/maps?cid=14438871065805783101
+Place Id: ChIJKT44jRlbspERPQAF47ssYcg
+Fotos: Bodega Mi Angelito.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

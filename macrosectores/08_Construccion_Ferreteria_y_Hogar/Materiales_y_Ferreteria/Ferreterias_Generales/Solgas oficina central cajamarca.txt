@@ -1,0 +1,17 @@
+Nombre: Solgas oficina central cajamarca
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Hualgayoc 258, Cajamarca 06001
+Teléfono: 935 671 940
+Rating: 
+Reseñas: 
+Sitio web: http://www.solgasconfianzakg.com/
+Latitud: -7.1520174
+Longitud: -78.52050899999999
+Google Maps: https://www.google.com/maps?cid=2217931557470017964
+Place Id: ChIJ50BsRB1bspERrBkhGwCtxx4
+Fotos: Solgas oficina central cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Negocio cajamarca
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: Jirón Marañón 105, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.153612099999999
+Longitud: -78.51818949999999
+Google Maps: https://www.google.com/maps?cid=5518961698267615283
+Place Id: ChIJYap8UU9bspERM1A6gmxKl0w
+Fotos: Negocio cajamarca.jpg
+Nota: Aparecia 3 veces en los archivos de la cosecha original; fusionado en uno.
+

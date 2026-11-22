@@ -1,0 +1,17 @@
+Nombre: DHANAB MODA INFANTIL
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa para bebés
+Dirección: Jr. José Sabogal 368, Cajamarca 06001
+Teléfono: 970 485 933
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1546885
+Longitud: -78.51693139999999
+Google Maps: https://www.google.com/maps?cid=16649809111383449633
+Place Id: ChIJ02JxFrlbspERIaASHiwBEOc
+Fotos: DHANAB MODA INFANTIL.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Casa Delle Delizie
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Pastelería
+Dirección: Bambamarca 179, Cajamarca 06000
+Teléfono: 948 315 005
+Rating: 4
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1609504
+Longitud: -78.5093732
+Google Maps: https://www.google.com/maps?cid=16818640153381092317
+Place Id: ChIJLRV2LP1aspER3btmSxzQZ-k
+Fotos: Casa Delle Delizie.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

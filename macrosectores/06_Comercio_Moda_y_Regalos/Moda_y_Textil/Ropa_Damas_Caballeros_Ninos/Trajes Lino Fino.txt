@@ -1,0 +1,17 @@
+Nombre: Trajes Lino Fino
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Jr. Tarapacá 939 06001, Cajamarca 06001
+Teléfono: 948 899 642
+Rating: 2
+Reseñas: 1
+Sitio web: https://www.facebook.com/Venta-y-Alquiler-de-Trajes-Lino-Fino-114626944056773
+Latitud: -7.1540288
+Longitud: -78.5185297
+Google Maps: https://www.google.com/maps?cid=8922471310445065689
+Place Id: ChIJH4sCq-xbspER2TWxMWL80ns
+Fotos: Trajes Lino Fino.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

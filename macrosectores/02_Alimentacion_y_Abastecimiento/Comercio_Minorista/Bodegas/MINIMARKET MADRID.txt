@@ -1,0 +1,17 @@
+Nombre: MINIMARKET MADRID
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Bodegas
+Categoría Maps: Bodega
+Dirección: JR, Los Naranjos 608, Cajamarca 06001
+Teléfono: 947 574 640
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1478807
+Longitud: -78.5124872
+Google Maps: https://www.google.com/maps?cid=13926242981702913607
+Place Id: ChIJpemCM5ZbspERR84tHDX0Q8E
+Fotos: MINIMARKET MADRID.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

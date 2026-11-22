@@ -1,0 +1,17 @@
+Nombre: Talentos School Cajamarca
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Escuela primaria, Centro de educación preescolar
+Dirección: Jr, Los Sauces 470, Cajamarca 06001
+Teléfono: 966 585 013
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1477688
+Longitud: -78.5143156
+Google Maps: https://www.google.com/maps?cid=8117337711292305640
+Place Id: ChIJsZSCRPFaspER6NB1E6STpnA
+Fotos: Talentos School Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

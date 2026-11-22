@@ -1,0 +1,17 @@
+Nombre: Rosell Distribuidora
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Av. Perú 1296, Cajamarca 06002
+Teléfono: 976 236 293
+Rating: 3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.164877199999999
+Longitud: -78.5164514
+Google Maps: https://www.google.com/maps?cid=1794321788204677035
+Place Id: ChIJ2_3TwQFbspERq_eu3ii25hg
+Fotos: Rosell Distribuidora (2).jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

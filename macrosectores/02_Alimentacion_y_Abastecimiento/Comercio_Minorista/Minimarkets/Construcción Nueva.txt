@@ -1,0 +1,17 @@
+Nombre: Construcción Nueva
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: RFQP+8V4, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1617465
+Longitud: -78.51278549999999
+Google Maps: https://www.google.com/maps?cid=1295472859458863403
+Place Id: ChIJEbYnAGJbspERK4E0tLNx-hE
+Fotos: Construcción Nueva.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Apicola RODYSAN
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Salud_Alimentaria
+Subrubro: Productos_Naturales_y_Organicos
+Categoría Maps: Tienda de alimentos naturales
+Dirección: Av. Perú 409, Cajamarca 06001
+Teléfono: 964 100 188
+Rating: 4.3
+Reseñas: 10
+Sitio web: https://sites.google.com/view/apicolarodysan
+Latitud: -7.160202699999999
+Longitud: -78.5240219
+Google Maps: https://www.google.com/maps?cid=11207896513618153247
+Place Id: ChIJsxPpDsJbspERH4-MRX9yips
+Fotos: Apicola RODYSAN.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

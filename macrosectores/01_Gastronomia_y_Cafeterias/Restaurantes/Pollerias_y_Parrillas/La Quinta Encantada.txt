@@ -1,0 +1,17 @@
+Nombre: La Quinta Encantada
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Parrilla
+Dirección: 3N 3590, Cajamarca 06000
+Teléfono: 985 013 436
+Rating: 3.9
+Reseñas: 108
+Sitio web: 
+Latitud: -7.1842577
+Longitud: -78.4786809
+Google Maps: https://www.google.com/maps?cid=4400552264790064228
+Place Id: ChIJ_3QRekpbspERZDxaPvjmET0
+Fotos: La Quinta Encantada.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

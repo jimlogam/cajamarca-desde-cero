@@ -1,0 +1,17 @@
+Nombre: Nina Point
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
+Categoría Maps: Discoteca
+Dirección: Jirón Silva Santisteban 178, Cajamarca 06002
+Teléfono: 976 372 458
+Rating: 3.9
+Reseñas: 34
+Sitio web: 
+Latitud: -7.1597089
+Longitud: -78.5164679
+Google Maps: https://www.google.com/maps?cid=17903337407520119866
+Place Id: ChIJOVpCaGVbspEROhwzJYRudfg
+Fotos: Nina Point.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

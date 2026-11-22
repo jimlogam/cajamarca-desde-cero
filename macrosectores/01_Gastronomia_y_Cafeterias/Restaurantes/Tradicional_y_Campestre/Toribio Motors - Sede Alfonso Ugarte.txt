@@ -1,0 +1,17 @@
+Nombre: Toribio Motors - Sede Alfonso Ugarte
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: Jr. Alfonso Ugarte 104, Cajamarca 06001
+Teléfono: 900 707 392
+Rating: 4.9
+Reseñas: 16
+Sitio web: 
+Latitud: -7.1673747
+Longitud: -78.5111929
+Google Maps: https://www.google.com/maps?cid=7296893668058269648
+Place Id: ChIJA2epsfhbspER0AdpaCHGQ2U
+Fotos: Toribio Motors - Sede Alfonso Ugarte.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

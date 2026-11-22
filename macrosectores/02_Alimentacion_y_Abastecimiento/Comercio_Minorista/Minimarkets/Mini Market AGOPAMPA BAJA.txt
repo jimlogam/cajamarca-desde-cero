@@ -1,0 +1,17 @@
+Nombre: Mini Market AGOPAMPA BAJA
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación, Comercio
+Dirección: 06000, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.2089243
+Longitud: -78.4702301
+Google Maps: https://www.google.com/maps?cid=15418646368558588461
+Place Id: ChIJW6cP5UpDspERLSJNQy4J-tU
+Fotos: Mini Market AGOPAMPA BAJA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

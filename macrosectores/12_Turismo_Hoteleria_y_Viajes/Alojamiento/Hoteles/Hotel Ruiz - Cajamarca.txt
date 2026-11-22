@@ -1,0 +1,17 @@
+Nombre: Hotel Ruiz - Cajamarca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Av Vía de Evitamiento Nte 1814, Cajamarca 06001
+Teléfono: (076) 607975
+Rating: 3.9
+Reseñas: 118
+Sitio web: https://hotelruizcajamarca.pe/
+Latitud: -7.1469388
+Longitud: -78.5081579
+Google Maps: https://www.google.com/maps?cid=6603600202385943457
+Place Id: ChIJSU8g5-1aspERoWvpjWWzpFs
+Fotos: Hotel Ruiz - Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

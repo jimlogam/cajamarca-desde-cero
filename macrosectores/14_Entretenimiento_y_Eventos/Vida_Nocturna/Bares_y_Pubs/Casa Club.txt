@@ -1,0 +1,17 @@
+Nombre: Casa Club
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: Av. Vía de Evitamiento Sur 452, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1622679
+Longitud: -78.504519
+Google Maps: https://www.google.com/maps?cid=14445870890334528573
+Place Id: ChIJFXdkdlZbspERPaSLiQkLesg
+Fotos: Casa Club.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

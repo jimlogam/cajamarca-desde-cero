@@ -1,0 +1,17 @@
+Nombre: SUMAK Salon Y Spa
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: VF2Q+8VX, Cajamarca 06001
+Teléfono: 950 307 016
+Rating: 4.2
+Reseñas: 16
+Sitio web: 
+Latitud: -7.1491465
+Longitud: -78.510268
+Google Maps: https://www.google.com/maps?cid=14034978970769106283
+Place Id: ChIJYaSwqjhbspERayXFbgNDxsI
+Fotos: SUMAK Salon Y Spa.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

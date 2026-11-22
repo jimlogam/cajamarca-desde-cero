@@ -1,0 +1,17 @@
+Nombre: AVIMARK
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado
+Dirección: Jorge Chavez 190, Cajamarca 06003
+Teléfono: 
+Rating: 4.5
+Reseñas: 2
+Sitio web: https://instagram.com/avimark.corp?utm_medium=copy_link
+Latitud: -7.1750859
+Longitud: -78.5079433
+Google Maps: https://www.google.com/maps?cid=5117948070330207586
+Place Id: ChIJdZNsX39bspERYo3tZqeaBkc
+Fotos: AVIMARK.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

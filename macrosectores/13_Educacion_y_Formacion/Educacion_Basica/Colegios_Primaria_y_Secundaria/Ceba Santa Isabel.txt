@@ -1,0 +1,17 @@
+Nombre: Ceba Santa Isabel
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Institución educativa
+Dirección: Jr. Jequetepeque 200-242, Cajamarca 06001
+Teléfono: 
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1523129999999995
+Longitud: -78.5191614
+Google Maps: https://www.google.com/maps?cid=13424773545643168309
+Place Id: ChIJD0Mlk_daspERNVIfimlgTro
+Fotos: Ceba Santa Isabel.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

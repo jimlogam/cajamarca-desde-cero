@@ -1,0 +1,17 @@
+Nombre: Centro Comercial Sagitario
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Jr. José Sabogal 279, Cajamarca 06001
+Teléfono: (076) 366330
+Rating: 3.8
+Reseñas: 20
+Sitio web: https://www.facebook.com/CentroComercialSagitario
+Latitud: -7.1541369999999995
+Longitud: -78.5173336
+Google Maps: https://www.google.com/maps?cid=2943530922669914113
+Place Id: ChIJ_7W_zvlaspERATgeV8eF2Sg
+Fotos: Centro Comercial Sagitario.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

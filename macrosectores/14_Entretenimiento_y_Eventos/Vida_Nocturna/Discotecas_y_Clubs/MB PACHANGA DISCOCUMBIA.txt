@@ -1,0 +1,17 @@
+Nombre: MB PACHANGA DISCOCUMBIA
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
+Categoría Maps: Discoteca
+Dirección: Av. Hoyos Rubio 1677, Cajamarca 06001
+Teléfono: 963 658 828
+Rating: 3.7
+Reseñas: 116
+Sitio web: 
+Latitud: -7.1461827
+Longitud: -78.4990528
+Google Maps: https://www.google.com/maps?cid=11164880989276354879
+Place Id: ChIJl2qpFepaspERPzlUDRug8Zo
+Fotos: MB PACHANGA DISCOCUMBIA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

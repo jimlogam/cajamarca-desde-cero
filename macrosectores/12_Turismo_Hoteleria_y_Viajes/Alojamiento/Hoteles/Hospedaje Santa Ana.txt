@@ -1,0 +1,17 @@
+Nombre: Hospedaje Santa Ana
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr. José Sabogal 1139, Cajamarca 06002
+Teléfono: 969 423 389
+Rating: 4.8
+Reseñas: 16
+Sitio web: 
+Latitud: -7.157623399999999
+Longitud: -78.5132239
+Google Maps: https://www.google.com/maps?cid=3862511489733535129
+Place Id: ChIJpfcEkvtaspERmaVuRrxlmjU
+Fotos: Hospedaje Santa Ana.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

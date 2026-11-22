@@ -1,0 +1,17 @@
+Nombre: Axford
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Jr, El Inca, Cajamarca 06004
+Teléfono: 988 529 608
+Rating: 3
+Reseñas: 1
+Sitio web: https://axford.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1588579999999995
+Longitud: -78.50820499999999
+Google Maps: https://www.google.com/maps?cid=12080369849579544870
+Place Id: ChIJqRZFjb9bspERJiGHp18Ypqc
+Fotos: Axford.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Vidrieria Estanteria Y Melamina El Chino
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: 
+Dirección: Tahuantinsuyo 637, Cajamarca 10006
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1777168
+Longitud: -78.5006779
+Google Maps: https://www.google.com/maps?cid=11266188376664428338
+Place Id: ChIJGYGYXxZbspERMs-3Q6OKWZw
+Fotos: Vidrieria Estanteria Y Melamina El Chino.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
+

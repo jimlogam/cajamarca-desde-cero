@@ -1,0 +1,17 @@
+Nombre: Piñateria Lizandher
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Jirón Silva Santisteban 115, Cajamarca 06001
+Teléfono: 
+Rating: 3.8
+Reseñas: 28
+Sitio web: 
+Latitud: -7.1533913
+Longitud: -78.5194298
+Google Maps: https://www.google.com/maps?cid=17465161673514143308
+Place Id: ChIJ6QrjHvhaspERTM6T9gG4YPI
+Fotos: Piñateria Lizandher.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Hospedaje 3 molinos
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Cajamarca 06000
+Teléfono: 904 490 678
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1298506999999995
+Longitud: -78.5136764
+Google Maps: https://www.google.com/maps?cid=6240306579426344558
+Place Id: ChIJQTzv3t1bspERbn49fMUFmlY
+Fotos: Hospedaje 3 molinos.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

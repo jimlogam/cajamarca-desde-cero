@@ -1,0 +1,17 @@
+Nombre: Violett Spa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Salón de manicura y pedicura
+Dirección: Cumullca B 13, Pasaje Perú
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.169626399999999
+Longitud: -78.50120319999999
+Google Maps: https://www.google.com/maps?cid=1497279189852462031
+Place Id: ChIJxyGYuv1bspERz5u9gH1nxxQ
+Fotos: Violett Spa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

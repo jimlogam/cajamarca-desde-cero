@@ -1,0 +1,17 @@
+Nombre: La Alforja Market
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado
+Dirección: Av. Andrés Zevallos 1973, Cajamarca 06002
+Teléfono: 959 729 212
+Rating: 4.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.153514899999999
+Longitud: -78.5062935
+Google Maps: https://www.google.com/maps?cid=10695651741477410367
+Place Id: ChIJlbrkBX9bspERP5YMRJeWbpQ
+Fotos: La Alforja Market.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

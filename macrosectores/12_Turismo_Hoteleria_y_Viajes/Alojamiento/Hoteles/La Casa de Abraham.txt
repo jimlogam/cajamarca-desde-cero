@@ -1,0 +1,17 @@
+Nombre: La Casa de Abraham
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Carretera al aeropuerto km 3.5, Cajamarca
+Teléfono: 944 223 005
+Rating: 4.2
+Reseñas: 129
+Sitio web: 
+Latitud: -7.1511442999999995
+Longitud: -78.49086299999999
+Google Maps: https://www.google.com/maps?cid=1225199509347333085
+Place Id: ChIJN6FWU8RaspER3XOhXXbIABE
+Fotos: La Casa de Abraham.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

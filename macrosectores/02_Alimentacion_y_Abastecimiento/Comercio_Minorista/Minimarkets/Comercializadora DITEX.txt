@@ -1,0 +1,17 @@
+Nombre: Comercializadora DITEX
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: JR, Tayabamba 427, Cajamarca
+Teléfono: 976 921 399
+Rating: 4.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1512511
+Longitud: -78.5161443
+Google Maps: https://www.google.com/maps?cid=5185462769796075874
+Place Id: ChIJyX0MNzZbspERYlG1Vep29kc
+Fotos: Comercializadora DITEX.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

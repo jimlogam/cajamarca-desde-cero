@@ -1,0 +1,17 @@
+Nombre: Frida Bar
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: Jirón Cruz de Piedra 622, Cajamarca 06002
+Teléfono: 963 355 699
+Rating: 4.7
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1578538
+Longitud: -78.51878239999999
+Google Maps: https://www.google.com/maps?cid=6716379641265785090
+Place Id: ChIJhx8GZABbspERAglQ5rJfNV0
+Fotos: Frida Bar.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

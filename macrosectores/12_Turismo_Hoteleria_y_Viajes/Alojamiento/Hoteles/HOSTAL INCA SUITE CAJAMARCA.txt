@@ -1,0 +1,17 @@
+Nombre: HOSTAL INCA SUITE CAJAMARCA
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr. Sinchi Roca 161, Baños del Inca 06001
+Teléfono: 939 057 594
+Rating: 4.9
+Reseñas: 13
+Sitio web: http://www.incasuite.pe/
+Latitud: -7.1649446999999995
+Longitud: -78.4649998
+Google Maps: https://www.google.com/maps?cid=8333213542876960908
+Place Id: ChIJr4STgmBFspERjNin5JCFpXM
+Fotos: HOSTAL INCA SUITE CAJAMARCA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

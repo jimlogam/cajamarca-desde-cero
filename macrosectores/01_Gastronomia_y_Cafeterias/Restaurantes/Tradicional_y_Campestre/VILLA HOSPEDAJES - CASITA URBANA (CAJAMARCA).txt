@@ -1,0 +1,17 @@
+Nombre: VILLA HOSPEDAJES - CASITA URBANA (CAJAMARCA)
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Alojamiento con servicio
+Dirección: Universitaria 404 -406, Cajamarca 06002
+Teléfono: 
+Rating: 4.5
+Reseñas: 25
+Sitio web: https://www.villahospedajes.com/
+Latitud: -7.1635626
+Longitud: -78.50192419999999
+Google Maps: https://www.google.com/maps?cid=2419686522768001706
+Place Id: ChIJuWWr5f5bspERqgpjiRJ0lCE
+Fotos: VILLA HOSPEDAJES - CASITA URBANA (CAJAMARCA).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

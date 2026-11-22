@@ -1,0 +1,17 @@
+Nombre: Productos Lácteos Agua Blanca
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Av. Independencia 351, Cajamarca 06002
+Teléfono: 
+Rating: 3.8
+Reseñas: 14
+Sitio web: 
+Latitud: -7.16595
+Longitud: -78.51159179999999
+Google Maps: https://www.google.com/maps?cid=14619791587600708132
+Place Id: ChIJH4HU8vdbspERJDIvbf3u48o
+Fotos: Productos Lácteos Agua Blanca.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

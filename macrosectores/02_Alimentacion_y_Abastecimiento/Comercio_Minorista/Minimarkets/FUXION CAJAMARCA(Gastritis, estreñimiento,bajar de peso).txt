@@ -1,0 +1,17 @@
+Nombre: FUXION CAJAMARCA(Gastritis, estreñimiento,bajar de peso)
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: +051, Cajamarca 06002
+Teléfono: 914 212 962
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1798835
+Longitud: -78.4957881
+Google Maps: https://www.google.com/maps?cid=1786876257857425032
+Place Id: ChIJp6z0dvdbspERiM4rP31CzBg
+Fotos: FUXION CAJAMARCA(Gastritis, estreñimiento,bajar de peso).jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

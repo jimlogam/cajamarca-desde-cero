@@ -1,0 +1,17 @@
+Nombre: Rafaella Kids
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa para bebés
+Dirección: Jr, Jr. Apurimac 811, Cajamarca 06001
+Teléfono: 934 877 557
+Rating: 
+Reseñas: 
+Sitio web: https://rafaella-kids.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1556926
+Longitud: -78.5185734
+Google Maps: https://www.google.com/maps?cid=11792921367172603251
+Place Id: ChIJW9QFmSZbspERc91veoDfqKM
+Fotos: Rafaella Kids.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

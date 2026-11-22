@@ -1,0 +1,17 @@
+Nombre: SaritaDistribuciones
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: RFWM+XP3, 11 de Febrero, Cajamarca 06001
+Teléfono: 
+Rating: 3.7
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1526109
+Longitud: -78.5157064
+Google Maps: https://www.google.com/maps?cid=8411656590059258894
+Place Id: ChIJHS5mWvdaspERDkQODxo1vHQ
+Fotos: SaritaDistribuciones.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: VALETEC SERVICIOS TECNOLOGICOS INTEGRALES
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de software
+Dirección: JR, San Sebastián 116, Cajamarca 06001
+Teléfono: 901 037 068
+Rating: 
+Reseñas: 
+Sitio web: https://valetec.pe/
+Latitud: -7.1616725
+Longitud: -78.5134702
+Google Maps: https://www.google.com/maps?cid=4814946149221691564
+Place Id: ChIJY8kFL7pbspERrHD-FAMg0kI
+Fotos: VALETEC SERVICIOS TECNOLOGICOS INTEGRALES.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

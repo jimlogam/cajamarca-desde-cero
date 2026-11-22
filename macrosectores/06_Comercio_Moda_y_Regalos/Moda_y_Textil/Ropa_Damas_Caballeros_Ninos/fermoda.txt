@@ -1,0 +1,17 @@
+Nombre: fermoda
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa de mujer
+Dirección: 06000, Cajamarca 06000
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1633144
+Longitud: -78.5109428
+Google Maps: https://www.google.com/maps?cid=7367696856073720337
+Place Id: ChIJ-zkm_TlbspEREVIJP0FRP2Y
+Fotos: Sin foto en Maps
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

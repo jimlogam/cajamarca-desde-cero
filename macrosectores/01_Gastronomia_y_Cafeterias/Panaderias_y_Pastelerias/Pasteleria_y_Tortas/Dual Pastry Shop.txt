@@ -1,0 +1,17 @@
+Nombre: Dual Pastry Shop
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
+Categoría Maps: Tienda de postres
+Dirección: Jirón Las Casuarinas 137, Cajamarca 06001
+Teléfono: 984 403 616
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.146294999999999
+Longitud: -78.5181164
+Google Maps: https://www.google.com/maps?cid=4894737758692569020
+Place Id: ChIJFcvQmw1bspERvO-P3w6a7UM
+Fotos: Dual Pastry Shop.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Hospedaje El Emperador
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Av. Mártires de Uchuraccay 820, Cajamarca 06003
+Teléfono: 960 425 550
+Rating: 4.9
+Reseñas: 8
+Sitio web: 
+Latitud: -7.169656
+Longitud: -78.501803
+Google Maps: https://www.google.com/maps?cid=6615213074712473299
+Place Id: ChIJB9OPe0dbspER067BFz71zVs
+Fotos: Hospedaje El Emperador.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

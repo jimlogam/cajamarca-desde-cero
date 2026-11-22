@@ -1,0 +1,17 @@
+Nombre: Distribuidora Padre Eterno
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Jr, Angamos 510, Cajamarca
+Teléfono: 970 905 439
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1518592
+Longitud: -78.5217177
+Google Maps: https://www.google.com/maps?cid=13138901849552519784
+Place Id: ChIJB-qVtkFbspERaAJNiZ7BVrY
+Fotos: Distribuidora Padre Eterno.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

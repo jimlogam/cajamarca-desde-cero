@@ -1,0 +1,17 @@
+Nombre: Locería Plast
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: BAR. PUEBLO LIBRE (SUCRE, Av. Atahualpa 293, Cajamarca 06002
+Teléfono: 953 413 592
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/loceriaplastCajamarca
+Latitud: -7.1655532
+Longitud: -78.5076667
+Google Maps: https://www.google.com/maps?cid=1411367071478223744
+Place Id: ChIJhdJBA11bspERgJMkr98ulhM
+Fotos: Locería Plast.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

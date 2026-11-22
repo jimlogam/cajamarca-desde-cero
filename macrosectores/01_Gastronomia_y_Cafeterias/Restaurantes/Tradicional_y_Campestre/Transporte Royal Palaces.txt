@@ -1,0 +1,17 @@
+Nombre: Transporte Royal Palaces
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de envíos
+Dirección: Luis Reyna Farge 141, Cajamarca 06003
+Teléfono: 989 480 472
+Rating: 3.1
+Reseñas: 112
+Sitio web: 
+Latitud: -7.166263
+Longitud: -78.5078521
+Google Maps: https://www.google.com/maps?cid=6513400658466538301
+Place Id: ChIJ0x103xxbspERPYOxr2M_ZFo
+Fotos: Transporte Royal Palaces.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

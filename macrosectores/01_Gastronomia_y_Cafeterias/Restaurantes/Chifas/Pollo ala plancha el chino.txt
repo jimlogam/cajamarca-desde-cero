@@ -1,0 +1,17 @@
+Nombre: Pollo ala plancha el chino
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Carnicería
+Dirección: RFVG+GXC Juan Villanueva, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1561873
+Longitud: -78.5226191
+Google Maps: https://www.google.com/maps?cid=5737494354235168089
+Place Id: ChIJjZfgx2tbspERWRX_dLesn08
+Fotos: Pollo ala plancha el chino.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

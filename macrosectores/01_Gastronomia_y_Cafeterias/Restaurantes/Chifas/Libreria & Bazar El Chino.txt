@@ -1,0 +1,17 @@
+Nombre: Libreria & Bazar "El Chino"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
+Categoría Maps: Librería
+Dirección: Prol. Revilla Perez #542, Cajamarca 06001
+Teléfono: 960 113 312
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.148701399999999
+Longitud: -78.51165979999999
+Google Maps: https://www.google.com/maps?cid=17476575321373636060
+Place Id: ChIJC9PTpTxbspER3HXV8KhEifI
+Fotos: Libreria & Bazar El Chino.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: CEBA Irene Silva de Santolalla
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Institución educativa
+Dirección: 3N 123, Cajamarca 06000
+Teléfono: 976 860 004
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1186788
+Longitud: -78.5278853
+Google Maps: https://www.google.com/maps?cid=9500248205518188089
+Place Id: ChIJ2TnStYNQspEROS70j2ip14M
+Fotos: CEBA Irene Silva de Santolalla.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

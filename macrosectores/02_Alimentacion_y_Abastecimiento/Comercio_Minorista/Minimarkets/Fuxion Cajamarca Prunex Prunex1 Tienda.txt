@@ -1,0 +1,17 @@
+Nombre: Fuxion Cajamarca Prunex Prunex1 Tienda
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Jr. primero de mayo 231, Cajamarca 06002
+Teléfono: 959 093 565
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1652229
+Longitud: -78.5031107
+Google Maps: https://www.google.com/maps?cid=16413073200737383322
+Place Id: ChIJzzNzWgBbspERmnNvqh3zxuM
+Fotos: Fuxion Cajamarca Prunex Prunex1 Tienda.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

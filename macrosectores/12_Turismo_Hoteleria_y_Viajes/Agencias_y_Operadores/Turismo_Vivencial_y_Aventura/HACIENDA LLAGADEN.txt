@@ -1,0 +1,17 @@
+Nombre: HACIENDA LLAGADEN
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Agencias_y_Operadores
+Subrubro: Turismo_Vivencial_y_Aventura
+Categoría Maps: Atracción turística
+Dirección: PCG9+CR7, Choropampa 06411
+Teléfono: 995 966 151
+Rating: 4.5
+Reseñas: 14
+Sitio web: 
+Latitud: -7.2739503
+Longitud: -78.58045919999999
+Google Maps: https://www.google.com/maps?cid=13359898194921462263
+Place Id: ChIJz_J9qhNespER9xmt35_kZ7k
+Fotos: HACIENDA LLAGADEN.jpg
+Nota: Atraccion turistica, no es un negocio Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

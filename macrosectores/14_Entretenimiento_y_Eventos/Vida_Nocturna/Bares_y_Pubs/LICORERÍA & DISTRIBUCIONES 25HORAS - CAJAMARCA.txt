@@ -1,0 +1,17 @@
+Nombre: LICORERÍA & DISTRIBUCIONES 25HORAS - CAJAMARCA
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Tienda de bebidas alcohólicas, Tienda de licores del estado
+Dirección: Av. Andrés Zevallos 1442, Cajamarca 06001
+Teléfono: 933 085 412
+Rating: 5
+Reseñas: 47
+Sitio web: https://25horas.ola.click/products
+Latitud: -7.1499801
+Longitud: -78.5068428
+Google Maps: https://www.google.com/maps?cid=5648740997177559077
+Place Id: ChIJfUv5cbpbspERJUj0NAJcZE4
+Fotos: LICORERÍA & DISTRIBUCIONES 25HORAS - CAJAMARCA.jpg
+Nota: Categoria Maps: tienda de bebidas alcoholicas Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

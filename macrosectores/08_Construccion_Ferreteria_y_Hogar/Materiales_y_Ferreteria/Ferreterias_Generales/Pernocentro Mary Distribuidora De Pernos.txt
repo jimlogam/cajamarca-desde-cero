@@ -1,0 +1,17 @@
+Nombre: Pernocentro Mary Distribuidora De Pernos
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: VF3Q+XVP, La Alameda, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.145039199999999
+Longitud: -78.5103018
+Google Maps: https://www.google.com/maps?cid=11190045474355888627
+Place Id: ChIJR7McYvJaspER80FzTxIHS5s
+Fotos: Pernocentro Mary Distribuidora De Pernos.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

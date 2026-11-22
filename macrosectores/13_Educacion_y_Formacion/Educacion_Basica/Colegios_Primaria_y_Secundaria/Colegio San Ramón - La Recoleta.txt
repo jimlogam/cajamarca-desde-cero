@@ -1,0 +1,17 @@
+Nombre: Colegio San Ramón - La Recoleta
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Instituto de secundaria
+Dirección: RFQQ+82C, Cajamarca 06002
+Teléfono: (076) 343427
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1616858
+Longitud: -78.5124859
+Google Maps: https://www.google.com/maps?cid=15751984560931628076
+Place Id: ChIJpc42rv1aspERLGTEJYBKmto
+Fotos: Colegio San Ramón - La Recoleta.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

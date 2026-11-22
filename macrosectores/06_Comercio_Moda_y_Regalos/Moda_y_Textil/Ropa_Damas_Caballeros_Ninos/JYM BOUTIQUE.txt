@@ -1,0 +1,17 @@
+Nombre: JYM BOUTIQUE
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa de mujer
+Dirección: Cajamarca 06003
+Teléfono: 950 152 891
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1502136
+Longitud: -78.5089694
+Google Maps: https://www.google.com/maps?cid=5707607522889196365
+Place Id: ChIJjcZPrkJbspERTWMoR81-NU8
+Fotos: JYM BOUTIQUE.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

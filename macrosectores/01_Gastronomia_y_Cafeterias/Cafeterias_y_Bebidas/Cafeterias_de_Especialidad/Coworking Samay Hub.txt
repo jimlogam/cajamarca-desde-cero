@@ -1,0 +1,17 @@
+Nombre: Coworking Samay Hub
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Espacio de coworking, Librería, Cafetería
+Dirección: Cinco Esquinas 1652, Cajamarca 06001
+Teléfono: 939 539 183
+Rating: 5
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1520782
+Longitud: -78.50679629999999
+Google Maps: https://www.google.com/maps?cid=436939090682264439
+Place Id: ChIJ89anQkdbspERdzuZuMlREAY
+Fotos: Coworking Samay Hub.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Colegio Antonio Raimondi - Cajamarca
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Centro educativo
+Dirección: Av Vía de Evitamiento Nte 300, Cajamarca 06001
+Teléfono: 958 067 078
+Rating: 4.4
+Reseñas: 29
+Sitio web: 
+Latitud: -7.1450092
+Longitud: -78.51426029999999
+Google Maps: https://www.google.com/maps?cid=13100514473079205007
+Place Id: ChIJ5X9pdZNbspERj-y_9oBgzrU
+Fotos: Colegio Antonio Raimondi - Cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

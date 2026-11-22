@@ -1,0 +1,17 @@
+Nombre: Molle Plaza
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado
+Dirección: RG92+VFV, Av. Héroes del Cenepa, Cajamarca 06003
+Teléfono: 
+Rating: 4
+Reseñas: 111
+Sitio web: 
+Latitud: -7.1802658
+Longitud: -78.4988406
+Google Maps: https://www.google.com/maps?cid=1227416779635726438
+Place Id: ChIJ12J-r9JbspERZpiK1Q6pCBE
+Fotos: Molle Plaza.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

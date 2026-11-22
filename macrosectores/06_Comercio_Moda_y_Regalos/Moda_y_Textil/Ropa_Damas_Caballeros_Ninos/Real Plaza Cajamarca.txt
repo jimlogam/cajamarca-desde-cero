@@ -1,0 +1,17 @@
+Nombre: Real Plaza Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: En, Vía de Evitamiento Nte. Lote 1A, Cajamarca
+Teléfono: 
+Rating: 4.3
+Reseñas: 5427
+Sitio web: https://www.realplaza.com/cajamarca
+Latitud: -7.154731099999999
+Longitud: -78.50594009999999
+Google Maps: https://www.google.com/maps?cid=18138907981814930011
+Place Id: ChIJsf85v-VaspERW5qTlbRYuvs
+Fotos: Real Plaza Cajamarca.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 10 veces en los archivos de la cosecha original; fusionado en uno.
+

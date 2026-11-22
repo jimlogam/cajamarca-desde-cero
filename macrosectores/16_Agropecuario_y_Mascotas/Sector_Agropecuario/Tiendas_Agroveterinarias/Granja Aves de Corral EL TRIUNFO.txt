@@ -1,0 +1,17 @@
+Nombre: Granja Aves de Corral EL TRIUNFO
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Tiendas_Agroveterinarias
+Categoría Maps: Pajarería
+Dirección: Ps la primavera, Av. Los Eucaliptos con, Baños del Inca 06004
+Teléfono: 966 601 843
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.166259999999999
+Longitud: -78.453797
+Google Maps: https://www.google.com/maps?cid=12893180102946076911
+Place Id: ChIJQQW_YAJFspER7zg8Hf7G7bI
+Fotos: Granja Aves de Corral EL TRIUNFO.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

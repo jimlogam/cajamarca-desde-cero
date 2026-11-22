@@ -1,0 +1,17 @@
+Nombre: Vegano's Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Frutería
+Dirección: Psj, Pachacútec N°235, Cajamarca
+Teléfono: 945 495 922
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1497826
+Longitud: -78.5189001
+Google Maps: https://www.google.com/maps?cid=18414974963535034726
+Place Id: ChIJlVAvwl1bspERZrk3oSkij_8
+Fotos: Vegano's Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: CUMPLEAÑOS DE STEFANO
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
+Categoría Maps: Parque infantil
+Dirección: Túpac Amaru 1838, Cajamarca 06002
+Teléfono: 961 592 816
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1849026
+Longitud: -78.4992822
+Google Maps: https://www.google.com/maps?cid=749129619430847385
+Place Id: ChIJV_osI4BbspERmTPmeGtxZQo
+Fotos: CUMPLEAÑOS DE STEFANO.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

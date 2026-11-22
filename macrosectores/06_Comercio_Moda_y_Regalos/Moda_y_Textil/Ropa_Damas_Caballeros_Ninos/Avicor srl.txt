@@ -1,0 +1,17 @@
+Nombre: Avicor srl
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: once Jr. Once de febrero 153 Jr, 11 de Febrero 169, Cajamarca 06002
+Teléfono: 
+Rating: 3.7
+Reseñas: 101
+Sitio web: 
+Latitud: -7.152023499999999
+Longitud: -78.516286
+Google Maps: https://www.google.com/maps?cid=10622658294273596388
+Place Id: ChIJuyWFavdaspER5NuI-G9Da5M
+Fotos: Avicor srl.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

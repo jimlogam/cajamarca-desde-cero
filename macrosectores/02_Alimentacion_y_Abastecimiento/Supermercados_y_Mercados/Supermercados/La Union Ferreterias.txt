@@ -1,0 +1,17 @@
+Nombre: La Union Ferreterias
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado industrial
+Dirección: Jr del Batán 466, Cajamarca 06002
+Teléfono: 976 668 884
+Rating: 4.3
+Reseñas: 26
+Sitio web: 
+Latitud: -7.153827799999999
+Longitud: -78.5152761
+Google Maps: https://www.google.com/maps?cid=15498820807987855229
+Place Id: ChIJA9_9-flaspERfX-MmWjfFtc
+Fotos: La Union Ferreterias.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

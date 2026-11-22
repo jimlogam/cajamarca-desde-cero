@@ -1,0 +1,17 @@
+Nombre: ITEM - Ingenieria,Tecnologia y Maquinaria
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Institución educativa, Escuela
+Dirección: Jr, José Gálvez 767, Cajamarca 06002
+Teléfono: 931 551 927
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/itemperu
+Latitud: -7.1553499
+Longitud: -78.521239
+Google Maps: https://www.google.com/maps?cid=16540331113155585452
+Place Id: ChIJeS6aIVBbspERrOX6UoMPi-U
+Fotos: ITEM - Ingenieria,Tecnologia y Maquinaria.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

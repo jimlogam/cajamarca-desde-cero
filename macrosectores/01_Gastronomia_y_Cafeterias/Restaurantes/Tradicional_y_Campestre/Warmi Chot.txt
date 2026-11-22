@@ -1,0 +1,17 @@
+Nombre: Warmi Chot
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de registros contables, Service establishment
+Dirección: 
+Teléfono: 989 945 943
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -6.5600363999999995
+Longitud: -78.65073679999999
+Google Maps: https://www.google.com/maps?cid=13827360980375115446
+Place Id: ChIJGZQXiNtDp2wRthZbGI2n5L8
+Fotos: Warmi Chot.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

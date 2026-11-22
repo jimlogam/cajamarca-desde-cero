@@ -1,0 +1,17 @@
+Nombre: Ceramica San Lorenzo - mega San Luis
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Av Vía de Evitamiento Nte 1003, Cajamarca 06001
+Teléfono: 922 468 878
+Rating: 4.6
+Reseñas: 14
+Sitio web: 
+Latitud: -7.146852099999999
+Longitud: -78.5079768
+Google Maps: https://www.google.com/maps?cid=6907849742584427106
+Place Id: ChIJ09hp6O1aspERYrKE1L2c3V8
+Fotos: Ceramica San Lorenzo - mega San Luis.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

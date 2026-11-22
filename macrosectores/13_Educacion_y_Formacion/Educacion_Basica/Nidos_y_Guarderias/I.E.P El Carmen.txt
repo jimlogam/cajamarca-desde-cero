@@ -1,0 +1,17 @@
+Nombre: I.E.P El Carmen
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Colegio privado, Centro de educación secundaria, Centro de educación preescolar
+Dirección: Av. Hoyos Rubio Km3, Cajamarca 06001
+Teléfono: (076) 288025
+Rating: 
+Reseñas: 
+Sitio web: http://www.elcarmen.edu.pe/
+Latitud: -7.146302299999999
+Longitud: -78.4933245
+Google Maps: https://www.google.com/maps?cid=14125314666293555523
+Place Id: ChIJgyloQ8FaspERQ_EKkdkyB8Q
+Fotos: I.E.P El Carmen.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

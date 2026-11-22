@@ -1,0 +1,17 @@
+Nombre: I.E.P. Mariano Iberico Rodríguez
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Centro educativo
+Dirección: Amalia Puga 115, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1539363
+Longitud: -78.5206176
+Google Maps: https://www.google.com/maps?cid=9952246292425559501
+Place Id: ChIJK9ila0FbspERzU05EUZ7HYo
+Fotos: I.E.P. Mariano Iberico Rodríguez.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

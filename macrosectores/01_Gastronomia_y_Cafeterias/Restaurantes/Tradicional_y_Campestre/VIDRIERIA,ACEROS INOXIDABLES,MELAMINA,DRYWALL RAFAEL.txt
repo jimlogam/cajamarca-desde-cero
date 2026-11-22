@@ -1,0 +1,17 @@
+Nombre: VIDRIERIA,ACEROS INOXIDABLES,MELAMINA,DRYWALL "RAFAEL"
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de cristales, Tienda de artículos para el hogar
+Dirección: Av. Hoyos Rubio 113, Cajamarca 06001
+Teléfono: 976 824 182
+Rating: 4.8
+Reseñas: 4
+Sitio web: https://vidrieria-rafael.netlify.app/#catalogo
+Latitud: -7.152414899999999
+Longitud: -78.5139737
+Google Maps: https://www.google.com/maps?cid=16360289283953032655
+Place Id: ChIJo-3PFtpbspERz32mWGxsC-M
+Fotos: VIDRIERIA,ACEROS INOXIDABLES,MELAMINA,DRYWALL RAFAEL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

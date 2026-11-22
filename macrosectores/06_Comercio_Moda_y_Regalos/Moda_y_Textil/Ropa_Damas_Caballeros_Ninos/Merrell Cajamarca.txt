@@ -1,0 +1,17 @@
+Nombre: Merrell Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Real Plaza, Vía de Evitamiento Nte., Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.154853999999999
+Longitud: -78.50542639999999
+Google Maps: https://www.google.com/maps?cid=18316542710663979044
+Place Id: ChIJBV8kEQBbspERJKBl1oxuMf4
+Fotos: Merrell Cajamarca.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

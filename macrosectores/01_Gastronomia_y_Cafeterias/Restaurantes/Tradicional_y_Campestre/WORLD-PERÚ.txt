@@ -1,0 +1,17 @@
+Nombre: WORLD-PERÚ
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de software
+Dirección: espaldas del mercado, Pje Libertad 113 - (A, Cajamarca 06001
+Teléfono: 950 652 738
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1638744
+Longitud: -78.5120364
+Google Maps: https://www.google.com/maps?cid=8232732428595880129
+Place Id: ChIJa_vUqbJbspERweBLYYaKQHI
+Fotos: WORLD-PERÚ.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

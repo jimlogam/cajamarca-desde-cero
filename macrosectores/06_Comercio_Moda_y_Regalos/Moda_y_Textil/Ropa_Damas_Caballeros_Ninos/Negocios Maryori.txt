@@ -1,0 +1,17 @@
+Nombre: Negocios Maryori
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Jirón El Milagro 297, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1675341999999995
+Longitud: -78.5018162
+Google Maps: https://www.google.com/maps?cid=14187801162110344033
+Place Id: ChIJO9j-BjpbspERYRt2m_wx5cQ
+Fotos: Negocios Maryori.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

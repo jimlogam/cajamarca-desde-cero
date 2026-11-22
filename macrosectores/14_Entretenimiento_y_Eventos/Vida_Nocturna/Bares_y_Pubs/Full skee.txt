@@ -1,0 +1,17 @@
+Nombre: Full skee
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: Jr.Amazonas 705, Cajamarca 06000
+Teléfono: 
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1564312
+Longitud: -78.51606939999999
+Google Maps: https://www.google.com/maps?cid=2308004685882861390
+Place Id: ChIJAzAMYwBbspERTif8kQiuByA
+Fotos: Full skee.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

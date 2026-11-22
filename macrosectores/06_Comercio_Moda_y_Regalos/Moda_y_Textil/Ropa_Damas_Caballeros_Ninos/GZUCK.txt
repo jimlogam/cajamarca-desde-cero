@@ -1,0 +1,17 @@
+Nombre: GZUCK
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: RFWV+8RM, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1541549
+Longitud: -78.5053896
+Google Maps: https://www.google.com/maps?cid=10928810843937894785
+Place Id: ChIJYWiZLNtbspERgfFaKo_vqpc
+Fotos: GZUCK.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Representaciones Gamaliel EIRL
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Av. Atahualpa 833, Cajamarca 06002
+Teléfono: 948 227 214
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1653375
+Longitud: -78.4991825
+Google Maps: https://www.google.com/maps?cid=3762165569239331752
+Place Id: ChIJ3w4Ef_9bspERqDO3BKflNTQ
+Fotos: Representaciones Gamaliel EIRL.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

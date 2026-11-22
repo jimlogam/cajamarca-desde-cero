@@ -1,0 +1,17 @@
+Nombre: Hotel Pradera de los Celajes
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr, Miguel Iglesias 794, Cajamarca 06001
+Teléfono: (076) 265948
+Rating: 4.5
+Reseñas: 12
+Sitio web: 
+Latitud: -7.1474826
+Longitud: -78.5183416
+Google Maps: https://www.google.com/maps?cid=15504363115296416032
+Place Id: ChIJP5yG3SH7spERIGHpkxuQKtc
+Fotos: Hotel Pradera de los Celajes.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

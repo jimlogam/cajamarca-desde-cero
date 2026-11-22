@@ -1,0 +1,17 @@
+Nombre: ESDEP - CAJAMARCA
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Centro educativo
+Dirección: RFHV+M7C, Jr. Diego Ferré, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1708108
+Longitud: -78.5068654
+Google Maps: https://www.google.com/maps?cid=12214222533154361521
+Place Id: ChIJJZs-cm1bspERsdA8IK6igak
+Fotos: ESDEP - CAJAMARCA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

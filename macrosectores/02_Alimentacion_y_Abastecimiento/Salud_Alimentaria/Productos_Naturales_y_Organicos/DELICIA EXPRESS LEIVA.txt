@@ -1,0 +1,17 @@
+Nombre: DELICIA EXPRESS LEIVA
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Salud_Alimentaria
+Subrubro: Productos_Naturales_y_Organicos
+Categoría Maps: Tienda de alimentos naturales
+Dirección: Hermano Miguel Carducci 754, Cajamarca 06001
+Teléfono: 963 853 036
+Rating: 
+Reseñas: 
+Sitio web: https://gleiva6.wixsite.com/deliciaexpressleiva
+Latitud: -7.133728199999999
+Longitud: -78.5244
+Google Maps: https://www.google.com/maps?cid=15812519782328518940
+Place Id: ChIJN0geEJFbspERHEmHtfZacds
+Fotos: DELICIA EXPRESS LEIVA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

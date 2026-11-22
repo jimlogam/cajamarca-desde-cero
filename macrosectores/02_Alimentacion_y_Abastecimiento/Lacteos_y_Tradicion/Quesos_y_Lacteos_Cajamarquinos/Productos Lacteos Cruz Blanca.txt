@@ -1,0 +1,17 @@
+Nombre: Productos Lacteos Cruz Blanca
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Tienda de productos lácteos, Supermercado
+Dirección: Av. Independencia # 2032, Cajamarca 06003
+Teléfono: 986 644 423
+Rating: 4.3
+Reseñas: 135
+Sitio web: 
+Latitud: -7.1891158
+Longitud: -78.5110088
+Google Maps: https://www.google.com/maps?cid=13874817554711285246
+Place Id: ChIJI1kM1-dbspER_o3r1w1BjcA
+Fotos: Productos Lacteos Cruz Blanca.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

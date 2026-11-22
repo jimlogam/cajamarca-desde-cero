@@ -1,0 +1,17 @@
+Nombre: Parque infantil Qhapac Ñan
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
+Categoría Maps: Parque infantil
+Dirección: RGQ3+7J2, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1618514
+Longitud: -78.49599719999999
+Google Maps: https://www.google.com/maps?cid=18083145373742991458
+Place Id: ChIJ166YOSlbspERYgizp-g89Po
+Fotos: Parque infantil Qhapac Ñan.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

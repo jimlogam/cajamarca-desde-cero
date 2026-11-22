@@ -1,0 +1,17 @@
+Nombre: La Casona
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
+Categoría Maps: Club nocturno
+Dirección: Vía de Evitamiento Nte. 1914, Cajamarca 06002
+Teléfono: 916 692 937
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1537939999999995
+Longitud: -78.5060544
+Google Maps: https://www.google.com/maps?cid=8944956621611725124
+Place Id: ChIJA-wZMfRbspERRPFxqqfeInw
+Fotos: La Casona.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: MERCADO CHONTAPACCHA
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Puestos_de_Mercado_de_Abastos
+Categoría Maps: Mercado
+Dirección: Jr. san, Chanchamayo 372, Cajamarca 06001
+Teléfono: 
+Rating: 4.1
+Reseñas: 107
+Sitio web: 
+Latitud: -7.1455315
+Longitud: -78.5233064
+Google Maps: https://www.google.com/maps?cid=9170481258052052460
+Place Id: ChIJcbYfB19aspER7OWR7R0YRH8
+Fotos: MERCADO CHONTAPACCHA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

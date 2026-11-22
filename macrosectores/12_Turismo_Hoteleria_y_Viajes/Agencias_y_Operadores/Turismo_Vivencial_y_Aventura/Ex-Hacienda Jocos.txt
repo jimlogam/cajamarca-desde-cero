@@ -1,0 +1,17 @@
+Nombre: Ex-Hacienda Jocos
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Agencias_y_Operadores
+Subrubro: Turismo_Vivencial_y_Aventura
+Categoría Maps: Atracción turística
+Dirección: Jocos 06355
+Teléfono: 965 735 129
+Rating: 4.1
+Reseñas: 9
+Sitio web: https://www.facebook.com/profile.php?id=100068911644332
+Latitud: -7.5167509
+Longitud: -78.0101607
+Google Maps: https://www.google.com/maps?cid=11500485401340624824
+Place Id: ChIJ40-msTsDspERuD95U4rumZ8
+Fotos: Ex-Hacienda Jocos.jpg
+Nota: Atraccion turistica, no es un negocio Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

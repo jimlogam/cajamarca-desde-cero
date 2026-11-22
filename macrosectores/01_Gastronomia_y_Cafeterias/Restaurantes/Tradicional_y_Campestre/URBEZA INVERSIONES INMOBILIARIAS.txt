@@ -1,0 +1,17 @@
+Nombre: URBEZA INVERSIONES INMOBILIARIAS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Urbanización
+Dirección: Jr. La República 198, Cajamarca 00076
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1753794
+Longitud: -78.49556489999999
+Google Maps: https://www.google.com/maps?cid=14158982928702952557
+Place Id: ChIJyR50JQBbspERbdQoxvTPfsQ
+Fotos: URBEZA INVERSIONES INMOBILIARIAS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

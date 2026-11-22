@@ -1,0 +1,17 @@
+Nombre: Videojuegos Ozach
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Jr. Los Gladiolos 210, Cajamarca 06001
+Teléfono: 988 936 521
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.151327299999999
+Longitud: -78.5155048
+Google Maps: https://www.google.com/maps?cid=9496983919023848401
+Place Id: ChIJCVIdIqlbspER0XsDo44QzIM
+Fotos: Videojuegos Ozach.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

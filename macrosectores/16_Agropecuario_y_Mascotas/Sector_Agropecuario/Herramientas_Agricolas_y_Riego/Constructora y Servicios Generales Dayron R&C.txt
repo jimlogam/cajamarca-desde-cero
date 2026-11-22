@@ -1,0 +1,17 @@
+Nombre: Constructora y Servicios Generales Dayron R&C
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Servicio de alquiler de maquinaria para construcción
+Dirección: +51, Cajamarca 06002
+Teléfono: 973 407 184
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1613019
+Longitud: -78.5080878
+Google Maps: https://www.google.com/maps?cid=49083974786191830
+Place Id: ChIJQVrfjbtbspER1pFLcZ1hrgA
+Fotos: Sin foto en Maps
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

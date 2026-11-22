@@ -1,0 +1,17 @@
+Nombre: Mini Market
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: VF5P+C5V, C. Alemania, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.141397899999999
+Longitud: -78.5145934
+Google Maps: https://www.google.com/maps?cid=9289014601070249939
+Place Id: ChIJ_QPeo4xaspER04c1epA16YA
+Fotos: Mini Market.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

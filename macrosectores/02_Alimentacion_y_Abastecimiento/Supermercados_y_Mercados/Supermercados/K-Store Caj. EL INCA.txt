@@ -1,0 +1,17 @@
+Nombre: K-Store Caj. EL INCA
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado coreano
+Dirección: El Inca 744, Cajamarca 06002
+Teléfono: 938 482 493
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1597107
+Longitud: -78.5050917
+Google Maps: https://www.google.com/maps?cid=4423780078290152628
+Place Id: ChIJU1gAQgBbspERtCzvAotsZD0
+Fotos: Sin foto en Maps
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

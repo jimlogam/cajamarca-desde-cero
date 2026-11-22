@@ -1,0 +1,17 @@
+Nombre: Cajamarca Store
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa infantil
+Dirección: Jr, José Gálvez #672, Cajamarca 06002
+Teléfono: 973 605 103
+Rating: 
+Reseñas: 
+Sitio web: https://cajamarca-store.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1565243
+Longitud: -78.5220944
+Google Maps: https://www.google.com/maps?cid=694187931421593233
+Place Id: ChIJ_xciEnBbspERkU6_4z5Aogk
+Fotos: Cajamarca Store.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

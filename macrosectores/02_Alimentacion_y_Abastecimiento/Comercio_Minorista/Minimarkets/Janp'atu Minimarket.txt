@@ -1,0 +1,17 @@
+Nombre: Janp'atu Minimarket
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Tienda de alimentación
+Dirección: Jirón Huánuco 362, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1566997
+Longitud: -78.523364
+Google Maps: https://www.google.com/maps?cid=7800509016918334101
+Place Id: ChIJyaBFWFZaspERlRqmPJ_5QGw
+Fotos: Janp'atu Minimarket.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

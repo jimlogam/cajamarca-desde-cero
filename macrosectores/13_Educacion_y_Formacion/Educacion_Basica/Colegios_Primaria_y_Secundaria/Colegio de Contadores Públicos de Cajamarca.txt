@@ -1,0 +1,17 @@
+Nombre: Colegio de Contadores Públicos de Cajamarca
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Asociación profesional
+Dirección: Jr. Jorge Isaac 353, Cajamarca 06001
+Teléfono: 941 951 948
+Rating: 4.2
+Reseñas: 53
+Sitio web: http://www.ccpcaxamarca.org/
+Latitud: -7.1443764
+Longitud: -78.5155508
+Google Maps: https://www.google.com/maps?cid=18057445247523390672
+Place Id: ChIJnUjvmvRaspER0ISyucfumPo
+Fotos: Colegio de Contadores Públicos de Cajamarca.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

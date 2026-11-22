@@ -1,0 +1,17 @@
+Nombre: Caffē Misky
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jirón Cruz de Piedra 654, Cajamarca 06002
+Teléfono: 920 432 793
+Rating: 3.6
+Reseñas: 23
+Sitio web: https://www.instagram.com/misky.sunqu?igsh=aHhrNmRhb3NoZ24w
+Latitud: -7.1575371
+Longitud: -78.5185187
+Google Maps: https://www.google.com/maps?cid=3159723030713601800
+Place Id: ChIJnwbCFgRbspERCA9OAluX2Ss
+Fotos: Caffē Misky.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

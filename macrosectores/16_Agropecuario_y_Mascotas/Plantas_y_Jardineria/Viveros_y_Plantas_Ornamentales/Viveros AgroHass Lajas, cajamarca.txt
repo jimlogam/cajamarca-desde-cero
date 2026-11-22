@@ -1,0 +1,17 @@
+Nombre: Viveros AgroHass Lajas, cajamarca
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: vía lajas, chota 06601
+Teléfono: 953 461 111
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/profile.php?id=100090815483913
+Latitud: -6.5527479
+Longitud: -78.7286259
+Google Maps: https://www.google.com/maps?cid=1591148763509637203
+Place Id: ChIJF75h18B1s5ERU0DLwV7lFBY
+Fotos: Viveros AgroHass Lajas, cajamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

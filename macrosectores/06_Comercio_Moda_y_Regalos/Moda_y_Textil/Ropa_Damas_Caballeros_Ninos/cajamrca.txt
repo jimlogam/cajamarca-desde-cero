@@ -1,0 +1,17 @@
+Nombre: cajamrca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Dos de Mayo 728, Cajamarca 60101
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1555276
+Longitud: -78.51527399999999
+Google Maps: https://www.google.com/maps?cid=2953111496960437075
+Place Id: ChIJx9R-4shbspERU-tynkKP-yg
+Fotos: cajamrca.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

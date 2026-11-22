@@ -1,0 +1,17 @@
+Nombre: Hospedaje La Pascana
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr. José Sabogal 224, Cajamarca 06001
+Teléfono: 913 421 496
+Rating: 4.5
+Reseñas: 119
+Sitio web: https://lapascana.com.pe/
+Latitud: -7.1541261
+Longitud: -78.5174809
+Google Maps: https://www.google.com/maps?cid=5460024808512949917
+Place Id: ChIJIxR-zPlaspERnQ48iKLnxUs
+Fotos: Hospedaje La Pascana.jpg
+Nota: Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

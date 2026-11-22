@@ -1,0 +1,17 @@
+Nombre: El Mirador Hotel
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: La Mar 435, Cajamarca 06001
+Teléfono: (076) 364149
+Rating: 3.9
+Reseñas: 136
+Sitio web: 
+Latitud: -7.157683
+Longitud: -78.5209667
+Google Maps: https://www.google.com/maps?cid=14264807474466513088
+Place Id: ChIJ82A3n_haspERwODp4NHG9sU
+Fotos: El Mirador Hotel.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

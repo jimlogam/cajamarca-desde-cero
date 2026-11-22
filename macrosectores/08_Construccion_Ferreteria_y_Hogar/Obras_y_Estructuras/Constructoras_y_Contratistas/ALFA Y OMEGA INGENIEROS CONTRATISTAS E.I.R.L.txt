@@ -1,0 +1,17 @@
+Nombre: ALFA Y OMEGA INGENIEROS CONTRATISTAS E.I.R.L.
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
+Categoría Maps: Empresa de construcción
+Dirección: Jr. Sor Manuela Gil 236, Cajamarca 06001
+Teléfono: 976 372 310
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1477907
+Longitud: -78.50965769999999
+Google Maps: https://www.google.com/maps?cid=6928561644576269338
+Place Id: ChIJFRVY8AtbspERGmRdTRsyJ2A
+Fotos: ALFA Y OMEGA INGENIEROS CONTRATISTAS E.I.R.L.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

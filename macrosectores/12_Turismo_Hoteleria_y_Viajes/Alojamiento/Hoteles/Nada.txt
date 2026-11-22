@@ -1,0 +1,17 @@
+Nombre: Nada
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Leguía 372, Cajamarca 06001
+Teléfono: 999 999 999
+Rating: 3.6
+Reseñas: 17
+Sitio web: https://youtu.be/CkaE237oiwE?si=ZLKHFxAySvWrx4Rd
+Latitud: -7.1515195
+Longitud: -78.51755659999999
+Google Maps: https://www.google.com/maps?cid=1819789307183470379
+Place Id: ChIJfSKDUPRaspERK5e5tLswQRk
+Fotos: Nada.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

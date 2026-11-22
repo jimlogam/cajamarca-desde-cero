@@ -1,0 +1,17 @@
+Nombre: SOLCO Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Av. Mario Urteaga 315, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.157003199999999
+Longitud: -78.5124357
+Google Maps: https://www.google.com/maps?cid=906423162365720306
+Place Id: ChIJO8WodwBbspER8rb-UBBDlAw
+Fotos: SOLCO Cajamarca.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

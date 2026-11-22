@@ -1,0 +1,17 @@
+Nombre: Hotel Marzano- 3 Estrellas
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr. Cumbe Mayo 329, Cajamarca 06002
+Teléfono: 987 821 160
+Rating: 4.4
+Reseñas: 46
+Sitio web: 
+Latitud: -7.161352099999999
+Longitud: -78.5065743
+Google Maps: https://www.google.com/maps?cid=5745827283589373831
+Place Id: ChIJ5T-i1AlbspERh58Xw3hHvU8
+Fotos: Hotel Marzano- 3 Estrellas.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

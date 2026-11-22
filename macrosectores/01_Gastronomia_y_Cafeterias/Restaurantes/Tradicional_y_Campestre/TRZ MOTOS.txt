@@ -1,0 +1,17 @@
+Nombre: TRZ MOTOS
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Taller de reparación de motos
+Dirección: San Salvador 649, Cajamarca 06000
+Teléfono: 931 675 465
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1521968
+Longitud: -78.51082199999999
+Google Maps: https://www.google.com/maps?cid=8589786392741157650
+Place Id: ChIJHwppN1hbspEREhvSqzYNNXc
+Fotos: TRZ MOTOS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+

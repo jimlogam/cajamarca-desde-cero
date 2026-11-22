@@ -1,0 +1,17 @@
+Nombre: Mackey Productos Lácteos
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Categoría Maps: Quesería, Tienda de alimentación
+Dirección: Garcilazo de la Vega 309, Cajamarca 06002
+Teléfono: 
+Rating: 4.5
+Reseñas: 2
+Sitio web: https://lacteosmackey.com/
+Latitud: -7.165362699999999
+Longitud: -78.51252989999999
+Google Maps: https://www.google.com/maps?cid=13262518648953301360
+Place Id: ChIJxxLPWwJbspERcOnagXHuDbg
+Fotos: Mackey Productos Lácteos.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

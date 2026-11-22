@@ -1,0 +1,17 @@
+Nombre: HOTEL EL SOL DE LOS INCAS
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: 06004, Baños del Inca 06004
+Teléfono: 943 657 166
+Rating: 5
+Reseñas: 15
+Sitio web: 
+Latitud: -7.166754699999999
+Longitud: -78.459859
+Google Maps: https://www.google.com/maps?cid=16388749432320554409
+Place Id: ChIJH7V_ET5FspERqfVZAseIcOM
+Fotos: HOTEL EL SOL DE LOS INCAS.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

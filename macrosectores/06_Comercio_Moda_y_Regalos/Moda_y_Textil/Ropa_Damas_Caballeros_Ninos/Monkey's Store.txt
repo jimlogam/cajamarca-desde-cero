@@ -1,0 +1,17 @@
+Nombre: Monkey's Store
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Av. Nuevo Cajamarca 201, Cajamarca 06003
+Teléfono: 931 664 593
+Rating: 5
+Reseñas: 2
+Sitio web: https://instagram.com/monkeys_store11?utm_medium=copy_link
+Latitud: -7.1766483
+Longitud: -78.4993377
+Google Maps: https://www.google.com/maps?cid=13969716336572716541
+Place Id: ChIJ95rUMzFbspER_VVjTv5m3sE
+Fotos: Monkey's Store.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

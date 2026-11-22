@@ -1,0 +1,17 @@
+Nombre: Minimarket La Gordita
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: Prol. Amalia Puga 113, Cajamarca 06000
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1535595
+Longitud: -78.5212095
+Google Maps: https://www.google.com/maps?cid=2284980390057611151
+Place Id: ChIJ21fZDQBbspERjw8e9I7htR8
+Fotos: Minimarket La Gordita.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Colegio Saco Oliveros
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Centro educativo
+Dirección: Jiron, Juan XXIII 130, Cajamarca 06002
+Teléfono: 965 203 680
+Rating: 4.4
+Reseñas: 34
+Sitio web: 
+Latitud: -7.1626116
+Longitud: -78.5101695
+Google Maps: https://www.google.com/maps?cid=6782357711998648464
+Place Id: ChIJFa_sLCdbspERkIBPk2fGH14
+Fotos: Colegio Saco Oliveros.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

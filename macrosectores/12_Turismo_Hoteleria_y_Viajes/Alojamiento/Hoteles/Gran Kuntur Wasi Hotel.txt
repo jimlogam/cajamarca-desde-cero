@@ -1,0 +1,17 @@
+Nombre: Gran Kuntur Wasi Hotel
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr, Los Pinos 275, Cajamarca 06001
+Teléfono: (076) 363488
+Rating: 4.2
+Reseñas: 138
+Sitio web: https://grankunturwasihotel.com/
+Latitud: -7.1470953999999995
+Longitud: -78.5160235
+Google Maps: https://www.google.com/maps?cid=5389243975121487822
+Place Id: ChIJCU7dGfRaspERzscHiddwyko
+Fotos: Gran Kuntur Wasi Hotel.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

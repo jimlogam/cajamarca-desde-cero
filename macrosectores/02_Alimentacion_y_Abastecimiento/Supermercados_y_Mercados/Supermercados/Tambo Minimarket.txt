@@ -1,0 +1,17 @@
+Nombre: Tambo Minimarket
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
+Categoría Maps: Supermercado japonés
+Dirección: RFRQ+8PP, Cumulca, Cajamarca 06002
+Teléfono: 
+Rating: 2
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1591594
+Longitud: -78.5106873
+Google Maps: https://www.google.com/maps?cid=11353870944769636121
+Place Id: ChIJu7i5eoZbspERGXefCHgNkZ0
+Fotos: Tambo Minimarket.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Negocios fanny
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
+Categoría Maps: Bar
+Dirección: RGC2+2HR, Av. Héroes del Cenepa, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1798752
+Longitud: -78.4986151
+Google Maps: https://www.google.com/maps?cid=5119535910823931931
+Place Id: ChIJC8vzOABbspERGzCEU8k-DEc
+Fotos: Negocios fanny.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

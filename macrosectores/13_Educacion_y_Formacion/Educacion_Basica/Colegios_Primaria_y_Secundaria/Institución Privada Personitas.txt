@@ -1,0 +1,17 @@
+Nombre: Institución Privada Personitas
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Centro educativo
+Dirección: Arróspide de Loyola 260, Cajamarca 06001
+Teléfono: 943 487 997
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1511947
+Longitud: -78.5244412
+Google Maps: https://www.google.com/maps?cid=7669876716187150282
+Place Id: ChIJi8420i5bspERyudfkzzgcGo
+Fotos: Institución Privada Personitas.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

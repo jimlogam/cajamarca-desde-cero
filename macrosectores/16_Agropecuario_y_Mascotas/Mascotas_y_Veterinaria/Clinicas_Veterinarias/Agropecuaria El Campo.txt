@@ -1,0 +1,17 @@
+Nombre: Agropecuaria El Campo
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1767598999999995
+Longitud: -78.48816169999999
+Google Maps: https://www.google.com/maps?cid=14728448679919235123
+Place Id: ChIJ8YjiXDpbspERMzAoKwr2Zcw
+Fotos: Agropecuaria El Campo.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

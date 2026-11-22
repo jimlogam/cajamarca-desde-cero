@@ -1,0 +1,17 @@
+Nombre: IRM MAQUINARIAS SRL - IMPORTACION DE REPUESTOS Y MANTENIMIENTOS
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Tienda de repuestos para tractores
+Dirección: Av. Mártires de Uchuraccay 870, Cajamarca 06001
+Teléfono: 976 390 506
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/irm.maquinarias.3?locale=es_LA
+Latitud: -7.170041599999999
+Longitud: -78.5015166
+Google Maps: https://www.google.com/maps?cid=15789543556714382716
+Place Id: ChIJZbxQaUBbspERfMWETzW6H9s
+Fotos: IRM MAQUINARIAS SRL - IMPORTACION DE REPUESTOS Y MANTENIMIENTOS.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

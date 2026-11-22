@@ -1,0 +1,17 @@
+Nombre: Negocios Generales Cajamarca
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Av. Independencia 700, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1706615
+Longitud: -78.51192139999999
+Google Maps: https://www.google.com/maps?cid=13344273890550273625
+Place Id: ChIJ8bD79gRbspERWdbEB2diMLk
+Fotos: Negocios Generales Cajamarca.jpg
+Nota: Aparecia 3 veces en los archivos de la cosecha original; fusionado en uno.
+

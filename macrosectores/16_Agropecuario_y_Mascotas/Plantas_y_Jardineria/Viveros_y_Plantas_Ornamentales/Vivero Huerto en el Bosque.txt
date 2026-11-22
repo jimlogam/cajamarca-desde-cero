@@ -1,0 +1,17 @@
+Nombre: Vivero "Huerto en el Bosque"
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
+Categoría Maps: Vivero
+Dirección: Av. Cajamarca S/N, 06225
+Teléfono: 916 758 572
+Rating: 4
+Reseñas: 1
+Sitio web: 
+Latitud: -6.8816099
+Longitud: -78.1399483
+Google Maps: https://www.google.com/maps?cid=12424385341547303840
+Place Id: ChIJ_RCFw0XNs5ERoFN_E6RIbKw
+Fotos: Vivero Huerto en el Bosque.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

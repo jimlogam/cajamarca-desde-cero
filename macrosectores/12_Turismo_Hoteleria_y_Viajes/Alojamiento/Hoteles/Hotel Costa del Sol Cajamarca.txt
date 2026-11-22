@@ -1,0 +1,17 @@
+Nombre: Hotel Costa del Sol Cajamarca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel, Posada
+Dirección: Jirón Cruz de Piedra 707, Cajamarca 00000
+Teléfono: (076) 362472
+Rating: 4.6
+Reseñas: 1669
+Sitio web: https://www.wyndhamhotels.com/es-xl/wyndham/cajamarca-peru/wyndham-costa-del-sol-cajamarca/overview?CID=LC:46q62bu8edfbx3y:49080&iata=00093796
+Latitud: -7.1570145
+Longitud: -78.5182659
+Google Maps: https://www.google.com/maps?cid=9557215024286498511
+Place Id: ChIJn4ll5vhaspERz36fpG0MooQ
+Fotos: Hotel Costa del Sol Cajamarca.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

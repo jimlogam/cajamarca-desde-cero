@@ -1,0 +1,17 @@
+Nombre: Hotel Cajamarca Bonita
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: 06001, Cajamarca 06001
+Teléfono: 931 826 774
+Rating: 4.5
+Reseñas: 23
+Sitio web: 
+Latitud: -7.1605028
+Longitud: -78.5056862
+Google Maps: https://www.google.com/maps?cid=11345720317954032744
+Place Id: ChIJXQhwTItbspERaASVWIQYdJ0
+Fotos: Hotel Cajamarca Bonita.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

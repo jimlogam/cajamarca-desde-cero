@@ -1,0 +1,17 @@
+Nombre: Hacienda Yanamarca
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Carretera a Jesus km 13, Jr. Yanamarca s/n - Distrito de Llacanora
+Teléfono: (076) 631652
+Rating: 4.2
+Reseñas: 25
+Sitio web: 
+Latitud: -7.2184617
+Longitud: -78.4212733
+Google Maps: https://www.google.com/maps?cid=16537124594345846305
+Place Id: ChIJg7RPM5pDspERISZcfDOrf-U
+Fotos: Hacienda Yanamarca.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

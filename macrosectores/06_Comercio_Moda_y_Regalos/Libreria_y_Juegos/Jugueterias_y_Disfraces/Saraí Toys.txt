@@ -1,0 +1,17 @@
+Nombre: Saraí Toys
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
+Categoría Maps: Juguetería
+Dirección: Tienda Jirón, Tayabamba 235, Cajamarca 06001
+Teléfono: 980 914 788
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/LaColmenaJuguetes/
+Latitud: -7.152256899999999
+Longitud: -78.5171151
+Google Maps: https://www.google.com/maps?cid=15170904976133563955
+Place Id: ChIJgRefrgVbspERM6alZ7LhidI
+Fotos: Saraí Toys.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

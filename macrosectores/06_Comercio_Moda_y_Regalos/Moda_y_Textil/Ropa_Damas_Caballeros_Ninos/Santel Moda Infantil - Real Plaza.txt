@@ -1,0 +1,17 @@
+Nombre: Santel Moda Infantil - Real Plaza
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: RFWV+9PF, Cajamarca 06002
+Teléfono: 942 844 370
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1541324
+Longitud: -78.5057223
+Google Maps: https://www.google.com/maps?cid=249181797485239422
+Place Id: ChIJ7V2AompbspERftyZS4ZFdQM
+Fotos: Santel Moda Infantil - Real Plaza.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

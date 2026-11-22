@@ -1,0 +1,17 @@
+Nombre: Noise Resto Bar
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Bar
+Dirección: Av. Atahualpa 947, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1653728999999995
+Longitud: -78.4972732
+Google Maps: https://www.google.com/maps?cid=9508964245707548277
+Place Id: ChIJvZAQBwBbspERdeZJz5mg9oM
+Fotos: Noise Resto Bar.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: ITEM - Ingeniería, Tecnología y Maquinaria
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Ingeniero de diseño
+Dirección: Av Vía de Evitamiento Nte 2588, Cajamarca 06001
+Teléfono: 986 930 133
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1472215
+Longitud: -78.5081076
+Google Maps: https://www.google.com/maps?cid=3035203252148876264
+Place Id: ChIJTZ4yPVtbspER6LNx0UY1Hyo
+Fotos: ITEM - Ingeniería, Tecnología y Maquinaria.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

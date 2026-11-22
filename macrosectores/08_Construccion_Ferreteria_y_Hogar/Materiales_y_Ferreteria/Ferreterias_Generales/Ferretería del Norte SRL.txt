@@ -1,0 +1,17 @@
+Nombre: Ferretería del Norte SRL
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Jr.Amazonas 532, Cajamarca 06001
+Teléfono: 944 240 982
+Rating: 4.3
+Reseñas: 21
+Sitio web: 
+Latitud: -7.155562499999999
+Longitud: -78.5175862
+Google Maps: https://www.google.com/maps?cid=5072885609814783307
+Place Id: ChIJbZgurflaspERS3Uzt5WCZkY
+Fotos: Ferretería del Norte SRL.jpg
+Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
+

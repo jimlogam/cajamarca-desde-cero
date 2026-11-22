@@ -1,0 +1,17 @@
+Nombre: Minimarket Canela
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Bodegas
+Categoría Maps: Bodega
+Dirección: Jirón El Milagro 156, Cajamarca 06003
+Teléfono: 927 972 336
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1687245
+Longitud: -78.5031872
+Google Maps: https://www.google.com/maps?cid=8198358783704557560
+Place Id: ChIJEV3fA8BbspER-Ofpg-BrxnE
+Fotos: Minimarket Canela.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

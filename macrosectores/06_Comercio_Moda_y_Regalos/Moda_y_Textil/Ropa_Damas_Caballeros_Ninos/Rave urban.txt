@@ -1,0 +1,17 @@
+Nombre: Rave urban
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa para jóvenes
+Dirección: 06000, Cajamarca 06001
+Teléfono: 959 951 172
+Rating: 
+Reseñas: 
+Sitio web: https://instagram.com/rave_urban01?utm_medium=copy_link
+Latitud: -7.1550194
+Longitud: -78.51622429999999
+Google Maps: https://www.google.com/maps?cid=9383536389463587427
+Place Id: ChIJU7oEu4FbspERY7rtTqEEOYI
+Fotos: Rave urban.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

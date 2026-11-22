@@ -1,0 +1,17 @@
+Nombre: CASA ROSITA
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Av. La Cantuta 1156, Cajamarca 06002
+Teléfono: 974 600 629
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1636044
+Longitud: -78.4981581
+Google Maps: https://www.google.com/maps?cid=6989326180674230163
+Place Id: ChIJq-aeQ2hbspERk9dsWiET_2A
+Fotos: CASA ROSITA.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

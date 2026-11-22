@@ -1,0 +1,17 @@
+Nombre: Estilos Collection
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Jr.Amazonas 679, Cajamarca 06001
+Teléfono: 976 000 787
+Rating: 3.6
+Reseñas: 21
+Sitio web: 
+Latitud: -7.1562988999999995
+Longitud: -78.5163567
+Google Maps: https://www.google.com/maps?cid=15306263252218322251
+Place Id: ChIJNwPVcvlaspERS50W81TFatQ
+Fotos: Estilos Collection.jpg
+Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

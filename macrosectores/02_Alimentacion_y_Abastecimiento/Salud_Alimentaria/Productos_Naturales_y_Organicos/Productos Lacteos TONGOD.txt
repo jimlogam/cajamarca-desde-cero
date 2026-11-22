@@ -1,0 +1,17 @@
+Nombre: Productos Lacteos TONGOD
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Salud_Alimentaria
+Subrubro: Productos_Naturales_y_Organicos
+Categoría Maps: Tienda de alimentos naturales
+Dirección: Guadalupe 117, Cajamarca 06002
+Teléfono: (076) 363943
+Rating: 4.3
+Reseñas: 102
+Sitio web: 
+Latitud: -7.1580369
+Longitud: -78.51417099999999
+Google Maps: https://www.google.com/maps?cid=3954365317291410828
+Place Id: ChIJGbI98ftaspERjIVHEU664DY
+Fotos: Productos Lacteos TONGOD.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

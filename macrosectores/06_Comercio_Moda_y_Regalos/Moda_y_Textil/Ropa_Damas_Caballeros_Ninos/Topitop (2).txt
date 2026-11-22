@@ -1,0 +1,17 @@
+Nombre: Topitop
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: CC. Real Plaza, Vía de Evitamiento Nte., Cajamarca 06002
+Teléfono: (01) 2020320
+Rating: 4.7
+Reseñas: 3
+Sitio web: http://www.topitop.pe/
+Latitud: -7.154643999999999
+Longitud: -78.5054917
+Google Maps: https://www.google.com/maps?cid=9674551360469193552
+Place Id: ChIJGREyveVaspERUNMJUjTpQoY
+Fotos: Topitop (2).jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

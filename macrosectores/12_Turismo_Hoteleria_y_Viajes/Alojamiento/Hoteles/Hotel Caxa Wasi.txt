@@ -1,0 +1,17 @@
+Nombre: Hotel Caxa Wasi
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Av San Martín de Porres 2021, Cajamarca 06003
+Teléfono: 955 569 968
+Rating: 4.7
+Reseñas: 48
+Sitio web: 
+Latitud: -7.1804244
+Longitud: -78.49303259999999
+Google Maps: https://www.google.com/maps?cid=1164319239181747720
+Place Id: ChIJp_7D9q5bspERCMaU4C1-KBA
+Fotos: Hotel Caxa Wasi.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

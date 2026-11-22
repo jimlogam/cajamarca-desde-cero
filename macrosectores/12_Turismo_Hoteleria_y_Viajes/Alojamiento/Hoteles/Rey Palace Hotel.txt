@@ -1,0 +1,17 @@
+Nombre: Rey Palace Hotel
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Av. Hoyos Rubio N° 1190, Cajamarca 06001
+Teléfono: 976 225 364
+Rating: 4.3
+Reseñas: 151
+Sitio web: https://reypalacehotel.com.pe/
+Latitud: -7.1484545
+Longitud: -78.5042899
+Google Maps: https://www.google.com/maps?cid=5276129522734208710
+Place Id: ChIJp9MTuu5aspERxhaGx9iTOEk
+Fotos: Rey Palace Hotel.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Host Apart,CasaBella
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Ucayali, Cajamarca 06001
+Teléfono: 983 330 427
+Rating: 3.6
+Reseñas: 15
+Sitio web: http://www.casabellahosthome.com/
+Latitud: -7.1555142
+Longitud: -78.5236378
+Google Maps: https://www.google.com/maps?cid=12922898513423322471
+Place Id: ChIJR3PadABbspERZ00FwbpbV7M
+Fotos: Host Apart,CasaBella.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

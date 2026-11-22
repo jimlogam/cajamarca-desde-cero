@@ -1,0 +1,17 @@
+Nombre: Innova Muebles
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
+Categoría Maps: Tienda de muebles, Interiorista
+Dirección: Plazuela Miguel Grau, 167, Cajamarca
+Teléfono: 976 362 386
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.157139
+Longitud: -78.511465
+Google Maps: https://www.google.com/maps?cid=15622827218934533357
+Place Id: ChIJ39BkcvtaspER7YzlE5Vuz9g
+Fotos: Innova Muebles.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

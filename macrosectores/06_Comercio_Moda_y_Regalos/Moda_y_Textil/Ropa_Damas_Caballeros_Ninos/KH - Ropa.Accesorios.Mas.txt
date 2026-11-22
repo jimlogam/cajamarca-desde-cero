@@ -1,0 +1,17 @@
+Nombre: KH - Ropa.Accesorios.Mas
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Tienda de ropa
+Dirección: Contamana 532, Cajamarca 06001
+Teléfono: 943 589 170
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.150983999999999
+Longitud: -78.51638919999999
+Google Maps: https://www.google.com/maps?cid=4009014529096438776
+Place Id: ChIJ6QppfklbspER-FMsOnnhojc
+Fotos: Sin foto en Maps
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

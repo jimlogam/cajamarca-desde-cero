@@ -1,0 +1,17 @@
+Nombre: Instituto Universitario de Ciencia y Tecnologia
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
+Categoría Maps: Centro educativo
+Dirección: José Gálvez 651, Cajamarca 06001
+Teléfono: 939 322 689
+Rating: 
+Reseñas: 
+Sitio web: http://iuct.t-itec.com/
+Latitud: -7.1565464
+Longitud: -78.52234829999999
+Google Maps: https://www.google.com/maps?cid=17099114285668055231
+Place Id: ChIJI_yJnNFbspERvzgNC9lBTO0
+Fotos: Instituto Universitario de Ciencia y Tecnologia.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

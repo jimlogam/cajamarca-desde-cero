@@ -1,0 +1,17 @@
+Nombre: ¡Aló! Tienda de Computo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de informática, Tienda de accesorios informáticos, Servicio de reparación de ordenadores
+Dirección: Av. Nuevo Cajamarca 489, Cajamarca 06003
+Teléfono: 959 534 146
+Rating: 4.9
+Reseñas: 18
+Sitio web: 
+Latitud: -7.1789670999999995
+Longitud: -78.4974958
+Google Maps: https://www.google.com/maps?cid=8186553722031028920
+Place Id: ChIJ5yaLWnRbspERuLpPaDx7nHE
+Fotos: ¡Aló! Tienda de Computo.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+

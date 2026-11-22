@@ -1,0 +1,17 @@
+Nombre: Distribuidora Ferretera ALLFYM - Tienda Oficial de INGCO
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Jirón, Dos de Mayo 1136, Cajamarca 06001
+Teléfono: 980 286 813
+Rating: 4.3
+Reseñas: 4
+Sitio web: 
+Latitud: -7.151876799999999
+Longitud: -78.5128371
+Google Maps: https://www.google.com/maps?cid=9061402582233600804
+Place Id: ChIJP0Y15vJbspERJFPXoKORwH0
+Fotos: Distribuidora Ferretera ALLFYM - Tienda Oficial de INGCO.jpg
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+
