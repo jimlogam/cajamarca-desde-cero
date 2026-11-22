@@ -12,6 +12,6 @@ Latitud: -7.147617599999999
 Longitud: -78.518228
 Google Maps: https://www.google.com/maps?cid=12596593734087638518
 Place Id: ChIJFR7oB65bspER9n009EIX0K4
-Fotos: Sin foto en Maps
+Fotos: M&M Market y Licorería.jpg
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

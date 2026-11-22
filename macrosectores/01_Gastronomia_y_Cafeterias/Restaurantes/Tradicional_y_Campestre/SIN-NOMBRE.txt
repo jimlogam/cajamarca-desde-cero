@@ -12,6 +12,6 @@ Latitud: -7.152857699999999
 Longitud: -78.5121176
 Google Maps: https://www.google.com/maps?cid=18264886512853227701
 Place Id: ChIJTdKaWSlbspERtZhwDYPpef0
-Fotos: Sin foto en Maps
+Fotos: SIN-NOMBRE.jpg
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
