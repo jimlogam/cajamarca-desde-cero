@@ -13,4 +13,5 @@ Longitud: -78.52126109999999
 Google Maps: https://www.google.com/maps?cid=6508973135960777778
 Place Id: ChIJ3SaLNaNbspERMqSAxZSEVFo
 Fotos: Mi dulce flor.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rHL4FS__AsvHvSQa2GNwdA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=162.63214&pitch=0&thumbfov=100
 

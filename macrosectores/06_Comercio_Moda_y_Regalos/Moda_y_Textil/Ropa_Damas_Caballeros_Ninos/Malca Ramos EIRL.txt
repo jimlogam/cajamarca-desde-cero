@@ -13,5 +13,6 @@ Longitud: -78.5184409
 Google Maps: https://www.google.com/maps?cid=9451754513251655774
 Place Id: ChIJpb-zzcNbspERXmCP-qZgK4M
 Fotos: Malca Ramos EIRL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=C3ju0mL0bdMRD0plJBeLtA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=294.6092&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

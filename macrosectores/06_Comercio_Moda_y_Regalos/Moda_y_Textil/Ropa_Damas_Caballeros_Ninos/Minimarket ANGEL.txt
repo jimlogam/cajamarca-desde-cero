@@ -13,5 +13,6 @@ Longitud: -78.5092389
 Google Maps: https://www.google.com/maps?cid=12226868345244737894
 Place Id: ChIJbTLvlJ6ls5ERZuHHsfqPrqk
 Fotos: Minimarket ANGEL.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLeGff4zt-KbgiW0H73OT53VTOladtxvgH8pX--qZnYhvSLMRJutPhZ5WwOuu__gGvR2fRVqsjHdspUpFBpWc771y9WfO2FfqW-O9BYs-DhLmXSC4KF-1tl3gndDoL1eFxcP8vkK6Q=w1600-h1200-k-no
 Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

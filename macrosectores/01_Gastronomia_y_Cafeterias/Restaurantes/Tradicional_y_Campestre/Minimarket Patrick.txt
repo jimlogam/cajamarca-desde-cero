@@ -13,5 +13,6 @@ Longitud: -78.50917
 Google Maps: https://www.google.com/maps?cid=9614503772474702353
 Place Id: ChIJ_6Ue1RxbspEREfoBwj2UbYU
 Fotos: Minimarket Patrick.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CTqq3-Bvvj8lmlzNEGy9sg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=139.83038&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,3 +13,4 @@ Longitud: -78.5184355
 Google Maps: https://www.google.com/maps?cid=10506360413792664680
 Place Id: ChIJA8usSQBbspERaHxWmiEXzpE
 Fotos: Ventas de productos de panaderia.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iqaQQReU_VQfCtac6R05aw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=246.95445&pitch=0&thumbfov=100

@@ -13,4 +13,5 @@ Longitud: -78.5036642
 Google Maps: https://www.google.com/maps?cid=533697314404084830
 Place Id: ChIJOZYm2olbspERXqyiOuESaAc
 Fotos: LA CALLE polleria.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=m4s0tRnr2UOiUXMpAdRTYw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=220.37553&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

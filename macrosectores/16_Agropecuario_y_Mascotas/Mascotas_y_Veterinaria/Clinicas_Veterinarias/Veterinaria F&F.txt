@@ -13,4 +13,5 @@ Longitud: -78.50812239999999
 Google Maps: https://www.google.com/maps?cid=18394892800280729793
 Place Id: ChIJqYuLkC1bspERwZgfoorJR_8
 Fotos: Veterinaria F&F.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLe1BVp6fT7DohDebD3PZabK95D88X8LmWjr0dEWS-IGpqkOBP3-np72pTAVMGonAamEoClH4dj4naZgsOqH9Bmq5AAfeBq0lS_vBfT-bp76VPqvCDbSntxyod5GpmPBSLDgvoos=w1600-h1200-k-no
 

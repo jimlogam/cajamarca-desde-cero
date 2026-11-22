@@ -13,5 +13,6 @@ Longitud: -78.50508339999999
 Google Maps: https://www.google.com/maps?cid=12690160407162166008
 Place Id: ChIJ6ytxwwZbspER-Jqgq6eBHLA
 Fotos: DeliveryGo.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1GzuCUSpRzKsRP5BBvLO7w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=349.75125&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
 

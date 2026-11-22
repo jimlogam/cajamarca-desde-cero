@@ -13,5 +13,6 @@ Longitud: -78.51122339999999
 Google Maps: https://www.google.com/maps?cid=15080035124170639883
 Place Id: ChIJT-M2vz9bspERC8qaSAwMR9E
 Fotos: Supermercado Caxas.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcZF69bmi1_TbSsxhDofLSSHecVN2bUQJ_KLav8zlnmE8fe0OYUlU0SZFopzhldpo0dhVWyG-LoO8W8KjfN9a20DLxg_CVDrrc9Z8S8XamR_5lV8stoGvotUzAlXzp1S0w8ru2A=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

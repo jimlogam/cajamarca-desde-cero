@@ -13,5 +13,6 @@ Longitud: -78.5028493
 Google Maps: https://www.google.com/maps?cid=14846353035641221447
 Place Id: ChIJl5XZaHJbspERR_FvM23XCM4
 Fotos: BOTICA RONCAL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2kiwZE96_14RWW2kwnp4ig&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=40.580513&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

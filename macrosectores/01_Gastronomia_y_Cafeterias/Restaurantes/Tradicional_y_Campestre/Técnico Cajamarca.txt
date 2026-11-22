@@ -13,5 +13,6 @@ Longitud: -78.5167803
 Google Maps: https://www.google.com/maps?cid=14477364323697487408
 Place Id: ChIJB1JCTQBbspERMO7m5SXu6cg
 Fotos: Técnico Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ADeITROvZygkA1KKghlGhA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=241.25868&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

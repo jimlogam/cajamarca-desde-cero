@@ -13,5 +13,6 @@ Longitud: -78.5060451
 Google Maps: https://www.google.com/maps?cid=14940681659405278430
 Place Id: ChIJqWDkbfM4LAsR3pwLY8_2V88
 Fotos: IMPERIAL barber shop, Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ropNq44vHrROf4sCEi04EA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=111.41178&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

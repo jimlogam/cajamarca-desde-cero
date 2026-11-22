@@ -13,4 +13,5 @@ Longitud: -78.5179276
 Google Maps: https://www.google.com/maps?cid=1336356825050069838
 Place Id: ChIJPyOzhIRbspERTjtHunOxixI
 Fotos: GRUPO ZAVALETA.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLee7qjUFdnA4W4a5_4pMrvl2M4vSX444cbVvsDkzgqacx1K-bBM8eTiHdMtCfxtc6VOWINRELTLkY137ZVXkME0j-jA8XX5OrJ-oMV2O99UPAYYABVqm82PhdsaQicBPiCgkAdOvA=w1600-h1200-k-no
 

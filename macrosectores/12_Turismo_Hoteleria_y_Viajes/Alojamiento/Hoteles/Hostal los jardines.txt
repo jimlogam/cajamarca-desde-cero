@@ -13,4 +13,5 @@ Longitud: -78.5179326
 Google Maps: https://www.google.com/maps?cid=920540711325170865
 Place Id: ChIJi6i8W1RnspERsXzSU-Zqxgw
 Fotos: Hostal los jardines.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLet2033kNt_r1pxWl1XfFTm0E9tAg1uz617CQEvjh02zf7A7C3fEnakPPEpVj5_Kmgxr64v8rQmO2gqQm5ysg3AEVvKuTNqKBE9vGeNdgfDi_KzETwxcsJ-z39nU_PVS_7dWF2s=w1600-h1200-k-no
 

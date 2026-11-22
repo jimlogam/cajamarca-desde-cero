@@ -13,5 +13,6 @@ Longitud: -78.503053
 Google Maps: https://www.google.com/maps?cid=334574663803315617
 Place Id: ChIJ6YdZpB5bspERoaXXUuKlpAQ
 Fotos: Servicio Tecnico De Motos En General Gaby.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vG_UM74jqFWx1nVOAdny5A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=111.67029&pitch=1.2660267&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

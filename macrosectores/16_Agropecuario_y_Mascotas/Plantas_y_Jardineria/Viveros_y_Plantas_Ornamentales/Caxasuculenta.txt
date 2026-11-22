@@ -13,4 +13,5 @@ Longitud: -78.501598
 Google Maps: https://www.google.com/maps?cid=15012874124373040233
 Place Id: ChIJAU-feBxbspERaZzoeHlxWNA
 Fotos: Caxasuculenta.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfxND1Vvc_VOHujd8odb5ALyp6ft7vyp7sprKDvUQZcNpgcX_wNi7Yb7fuCAN6MzKlkdOKf9DX180PudDGY_H8shyVzZe1v14klNb0no4u9VVYUlOiHC9YYw1FUzOVZ_6fPvs4RGw=w1600-h1200-k-no
 

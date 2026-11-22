@@ -13,4 +13,5 @@ Longitud: -78.5101181
 Google Maps: https://www.google.com/maps?cid=8042251540283820112
 Place Id: ChIJQSu7LCZbspERUIj0jCrRm28
 Fotos: Planta electrica antigua.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfXwlEiJLnmEfAOMc1Y4RlkZZQCviPwrMl8xr0uetuYc5eBwUWwEMEEF21JDKrkgQXYOJeh8BZE1FwBcfxrjL_aoBD_BxGo9whCXEE-ThIYv1kaFIkYe12MGSGqWugFkzskJ-is=w1600-h1200-k-no
 

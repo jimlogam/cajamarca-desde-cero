@@ -13,4 +13,5 @@ Longitud: -78.5042277
 Google Maps: https://www.google.com/maps?cid=1784604807247563704
 Place Id: ChIJDyStQABbspERuAty8J0wxBg
 Fotos: Panadería (2).jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OVoVPssl6sdoGQAwfx963g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=88.70471&pitch=0&thumbfov=100
 

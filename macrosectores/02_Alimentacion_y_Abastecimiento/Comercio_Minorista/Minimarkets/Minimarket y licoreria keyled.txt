@@ -13,5 +13,6 @@ Longitud: -78.5103996
 Google Maps: https://www.google.com/maps?cid=13245871038455189589
 Place Id: ChIJLfevXABbspERVZDBo4fJ0rc
 Fotos: Minimarket y licoreria keyled.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KvDTKMECU8_eklbTdF6UgQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=344.6066&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

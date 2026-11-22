@@ -13,5 +13,6 @@ Longitud: -78.5066243
 Google Maps: https://www.google.com/maps?cid=12586589433207241871
 Place Id: ChIJAXB4FQBbspERj7wAJGeMrK4
 Fotos: TECNOLOGIA AUTOMOTRIZ CAJAMARCA EIRL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KihAsHRm_wH_-I9XMRWdcg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=310.33472&pitch=-0.42951512&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

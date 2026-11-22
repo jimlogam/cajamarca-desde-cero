@@ -13,4 +13,5 @@ Longitud: -78.5151842
 Google Maps: https://www.google.com/maps?cid=7232312235480366377
 Place Id: ChIJa8t_JTNbspERKb2E5KhVXmQ
 Fotos: FERRETERIA BIANCHI.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLenzoqvQoV80ZOXcxnxw9FNAFtLWE3YwL_9qt_DaireJW52IAPjPF0BjW1OK-WOUniCTGnDFnvfGVp6QN6zqRWNi1W0s7ODPRXNIgTHZTnVnSAui2xR614To3hxDi5ZfPExmJdw=w1600-h1200-k-no
 

@@ -13,4 +13,5 @@ Longitud: -78.5098028
 Google Maps: https://www.google.com/maps?cid=12192331195602198565
 Place Id: ChIJJzhO-NdbspERJWDI6Z_cM6k
 Fotos: Aceros Saldaña.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLepK0Dmbpt-1EVwZUFwIEmGmQLGgypwD2lhz1HNkueM_sjAmpawDQEGQA_JILNW-eJrSJ9tKIE_teGNb8t9GslCT8Z-QVIIRyaTJMEv2vj0uk7HjxWvnSWy-fS9sSJMOoaPXXdW=w1600-h1200-k-no
 

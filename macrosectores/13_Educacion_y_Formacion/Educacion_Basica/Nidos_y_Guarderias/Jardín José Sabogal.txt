@@ -13,4 +13,5 @@ Longitud: -78.5208425
 Google Maps: https://www.google.com/maps?cid=12727113920290047242
 Place Id: ChIJe-G-QG9bspERCkXR6q3Kn7A
 Fotos: Jardín José Sabogal.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLeD_PA7H-CPYt_jkK-lHF6Agu8tCU9BrJ8We82nApTu9vMQbWdqfrmxcGvwOp0YaqsjptkwL8D_yYvGMSZivqY1_Ga_x476l75cUU7nxPOIMOXMTr2LkQOi2ZYUcN64DGAhT6clDw=w1600-h1200-k-no
 

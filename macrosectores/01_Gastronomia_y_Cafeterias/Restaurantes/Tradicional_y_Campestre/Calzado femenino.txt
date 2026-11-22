@@ -13,5 +13,6 @@ Longitud: -78.51118869999999
 Google Maps: https://www.google.com/maps?cid=11709626854981800478
 Place Id: ChIJ0d0w4Q1bspERHpKQl5XzgKI
 Fotos: Calzado femenino.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eH4zqALFQc1pVRHcA0OFRg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=219.99478&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

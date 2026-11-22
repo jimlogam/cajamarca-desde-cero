@@ -13,5 +13,6 @@ Longitud: -78.4581506
 Google Maps: https://www.google.com/maps?cid=560703599981313349
 Place Id: ChIJ3VlQUA1FspERRT0rFfQEyAc
 Fotos: Minimarket La favorita.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BJEGVJqOpO2pL8W0WBqa5Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=296.5554&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

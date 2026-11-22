@@ -13,3 +13,4 @@ Longitud: -78.4616039
 Google Maps: https://www.google.com/maps?cid=17552597409889959056
 Place Id: ChIJ_SBps-NFspERkLzuvVhal_M
 Fotos: pollería yahuar chicken.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qcty75PsNbfCpI-k6bfPQA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=196.3365&pitch=0&thumbfov=100

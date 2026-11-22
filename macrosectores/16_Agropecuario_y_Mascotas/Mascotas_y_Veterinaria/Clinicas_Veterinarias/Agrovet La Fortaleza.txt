@@ -13,4 +13,5 @@ Longitud: -78.49607069999999
 Google Maps: https://www.google.com/maps?cid=10920165622139794538
 Place Id: ChIJf6o_Oj1bspERajQTnMY4jJc
 Fotos: Agrovet La Fortaleza.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcLh2vHkt_koWbkxlnbhjwaa00FiBrybFJS_o1CsFaMBE0e8jr-uEva9IzTvTDJoBxhKz5u11JJow0xn2_WYbl_z7-F1UZguNqCHOKRTs3OC0fMh78OMPRttq0ERnqMCckBl-6d=w1600-h1200-k-no
 

@@ -13,5 +13,6 @@ Longitud: -78.5114052
 Google Maps: https://www.google.com/maps?cid=7142468647115341779
 Place Id: ChIJ5UjmewBbspER07-sYmQlH2M
 Fotos: Almacén MarAli BrinBrinca Toys.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lqIgu7Bd-vcSyUDxzf6r-Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=302.28854&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

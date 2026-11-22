@@ -13,5 +13,6 @@ Longitud: -78.5073231
 Google Maps: https://www.google.com/maps?cid=11078619373599947007
 Place Id: ChIJS0WkF7tbspER_3gvjZ8pv5k
 Fotos: BOTICA ALVARADO.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9YcjTalB7KOlIrv0sXYn9w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=357.55835&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

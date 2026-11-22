@@ -13,4 +13,5 @@ Longitud: -78.50743899999999
 Google Maps: https://www.google.com/maps?cid=1343871742835057766
 Place Id: ChIJffmxg-ZbspERZmRe3zpkphI
 Fotos: Polleria Dolce Capriccio.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h5uBPjhtkejeM-17dvCvYQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=333.5944&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

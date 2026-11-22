@@ -13,5 +13,6 @@ Longitud: -78.5178076
 Google Maps: https://www.google.com/maps?cid=16194560845693997937
 Place Id: ChIJT6a1uBpbspERcVMKZUmjvuA
 Fotos: Avicentro.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=s8YTtx4kbXP30cGqUdeJkw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=222.3388&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

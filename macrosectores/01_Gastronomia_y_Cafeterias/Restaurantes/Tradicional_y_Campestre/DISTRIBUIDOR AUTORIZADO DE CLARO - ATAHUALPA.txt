@@ -13,5 +13,6 @@ Longitud: -78.5072701
 Google Maps: https://www.google.com/maps?cid=10413105182603568389
 Place Id: ChIJUzmOiIhbspERBWXdGf7HgpA
 Fotos: DISTRIBUIDOR AUTORIZADO DE CLARO - ATAHUALPA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sqO4sBEoRhIQS6BXa2dzNQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=358.45465&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

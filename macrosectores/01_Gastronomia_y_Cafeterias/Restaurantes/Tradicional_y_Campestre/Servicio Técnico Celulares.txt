@@ -13,5 +13,6 @@ Longitud: -78.5029005
 Google Maps: https://www.google.com/maps?cid=18439034832289970804
 Place Id: ChIJ9aPSeh5bspERdLqyW3yc5P8
 Fotos: Servicio Técnico Celulares.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ejQ7j8T9NDkMtqbfr3-Jvw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=1.7814311&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
 

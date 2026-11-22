@@ -13,4 +13,5 @@ Longitud: -78.50311839999999
 Google Maps: https://www.google.com/maps?cid=14937239337083665884
 Place Id: ChIJmdMmlOJbspER3P3cQwm8S88
 Fotos: “El Warique De Chochito”.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLeILjUwl-R6eERmxIFdhZZ0GSVe9tOxrGogjBgblSGm4NTccSP0yq_XO8vcHuDtc3xQ1bFZOEO6xju_TjgyNeaNQAghrXIzi33bx4HYuauududmEf79vM-RM46J2Tni7KKEbJH3Poe4NFty=w1600-h1200-k-no
 

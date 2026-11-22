@@ -13,4 +13,5 @@ Longitud: -78.4926189
 Google Maps: https://www.google.com/maps?cid=2497320200438650845
 Place Id: ChIJmxg5Kj9bspER3ZeNrX1DqCI
 Fotos: Agroveterinaria Nuevo Amancer.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MNTeF_oY05fHsp2lieKB_Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=221.39555&pitch=-0.28411976&thumbfov=100
 

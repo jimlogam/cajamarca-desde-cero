@@ -13,4 +13,5 @@ Longitud: -78.506419
 Google Maps: https://www.google.com/maps?cid=13302783243486880367
 Place Id: ChIJ8_WnCwBbspERb-IN-OD6nLg
 Fotos: Garoto Açai Bowls.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c-LspoiFdwM2y7DTqbutrA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=295.95847&pitch=0&thumbfov=100
 

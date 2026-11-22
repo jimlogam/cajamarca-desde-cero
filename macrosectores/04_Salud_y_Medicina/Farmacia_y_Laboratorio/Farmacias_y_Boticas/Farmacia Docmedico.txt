@@ -13,5 +13,6 @@ Longitud: -78.50399349999999
 Google Maps: https://www.google.com/maps?cid=16476615798861929799
 Place Id: ChIJVXacThFbspERRx3Br8WyqOQ
 Fotos: Farmacia Docmedico.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Kv0ZqzYhZ4gA8KhkHX_yoA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=253.2006&pitch=2.579999&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

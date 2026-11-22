@@ -13,4 +13,5 @@ Longitud: -78.51089619999999
 Google Maps: https://www.google.com/maps?cid=9740090798045269346
 Place Id: ChIJxezAaS9bspERYg2KwfnAK4c
 Fotos: VETERINARIA EL DOGO.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=510ReQwIVsrURK_nZUDyww&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=307.96646&pitch=0&thumbfov=100
 

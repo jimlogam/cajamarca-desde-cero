@@ -13,5 +13,6 @@ Longitud: -78.47968929999999
 Google Maps: https://www.google.com/maps?cid=16026229189656603410
 Place Id: ChIJM2eSJ2ZbspEREmt6komaaN4
 Fotos: Santa Rosa.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLeg7Z-JcO-ISoihXB4-bDmZPw9CJ3OYxLzQoi0Fuy7ADP3giEh3k-oHeanZw1cgTQMkJkwIwcRdi542phgnQv23OA70LPwJJYASHkJTiC6vv1yPhwm60PCBOp2oARiCKE8VxeaT=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
 

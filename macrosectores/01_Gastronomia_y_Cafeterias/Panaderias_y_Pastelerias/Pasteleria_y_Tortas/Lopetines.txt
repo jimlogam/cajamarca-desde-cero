@@ -13,4 +13,5 @@ Longitud: -78.517864
 Google Maps: https://www.google.com/maps?cid=13825203713544356443
 Place Id: ChIJDZ-HKuJbspERWwI5RYf93L8
 Fotos: Lopetines.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLc3qMnmPepGpopFrTy9rltrqSy7XQTPPfJliOeXsN2cNLisq5Vk9HuGivL-0WwpMH4TbRWgGtjl19Imn9zW-iKidU9jH1lQjaS01ehIIfgjsM-L0JqSfrWDhVi4P2EEOP6-wLwY=w1600-h1200-k-no
 

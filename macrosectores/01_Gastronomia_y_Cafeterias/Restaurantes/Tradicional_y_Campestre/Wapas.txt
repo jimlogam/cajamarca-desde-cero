@@ -13,5 +13,6 @@ Longitud: -78.50731809999999
 Google Maps: https://www.google.com/maps?cid=4618350468484017445
 Place Id: ChIJmwWc58xbspERJa0_MkitF0A
 Fotos: Wapas.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mbn40pBr-r1Y34AuJbHOrg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=290.9116&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

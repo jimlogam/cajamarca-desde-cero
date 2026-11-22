@@ -13,5 +13,6 @@ Longitud: -78.5244
 Google Maps: https://www.google.com/maps?cid=15812519782328518940
 Place Id: ChIJN0geEJFbspERHEmHtfZacds
 Fotos: DELICIA EXPRESS LEIVA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=epxi76o9vn9E07DhLupE0Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=165.61247&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

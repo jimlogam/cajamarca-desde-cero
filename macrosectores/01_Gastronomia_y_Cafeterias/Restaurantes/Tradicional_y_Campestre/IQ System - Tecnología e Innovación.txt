@@ -13,5 +13,6 @@ Longitud: -78.5158881
 Google Maps: https://www.google.com/maps?cid=3139000513319159303
 Place Id: ChIJuS_a-B1bspERB0Yo8lX4jys
 Fotos: IQ System - Tecnología e Innovación.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KxsuRs9nK8nM1-w8ClVczQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=349.8535&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

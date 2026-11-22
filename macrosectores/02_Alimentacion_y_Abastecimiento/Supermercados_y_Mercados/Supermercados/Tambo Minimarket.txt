@@ -13,5 +13,6 @@ Longitud: -78.5106873
 Google Maps: https://www.google.com/maps?cid=11353870944769636121
 Place Id: ChIJu7i5eoZbspERGXefCHgNkZ0
 Fotos: Tambo Minimarket.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MH8mUeXHyDjyVlRCHsutVw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=227.4587&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

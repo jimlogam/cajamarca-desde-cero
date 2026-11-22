@@ -13,4 +13,5 @@ Longitud: -78.50214509999999
 Google Maps: https://www.google.com/maps?cid=3405809316402532799
 Place Id: ChIJi58EKgBbspERv5HjTIfdQy8
 Fotos: Chifa Los Angeles 3.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rEI5Cjx6yzWi2oUfDxTRow&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=149.50237&pitch=0&thumbfov=100
 Nota: Sin categoria en Maps; clasificado por el nombre.

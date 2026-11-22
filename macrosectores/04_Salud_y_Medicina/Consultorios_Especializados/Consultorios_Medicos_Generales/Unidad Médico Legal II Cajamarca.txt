@@ -13,5 +13,6 @@ Longitud: -78.4996683
 Google Maps: https://www.google.com/maps?cid=11138685680727004780
 Place Id: ChIJgYQPEABbspERbJZ2gJyPlJo
 Fotos: Unidad Médico Legal II Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XdjpKb9Dcgk1-c6oieh0SQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=280.92786&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

@@ -13,5 +13,6 @@ Longitud: -78.5014951
 Google Maps: https://www.google.com/maps?cid=7263096039606302884
 Place Id: ChIJr-axCINbspERpLhH0l2zy2Q
 Fotos: Melamina EL MAGO-.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BkMDv-loVQiy_Se9IDS9hw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=6.6010866&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

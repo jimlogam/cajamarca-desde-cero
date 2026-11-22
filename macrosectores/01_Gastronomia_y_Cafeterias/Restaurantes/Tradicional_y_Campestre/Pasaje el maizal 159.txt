@@ -13,5 +13,6 @@ Longitud: -78.510553
 Google Maps: https://www.google.com/maps?cid=1469501254869673631
 Place Id: ChIJe79jR0dbspERn2Z_BZu3ZBQ
 Fotos: Pasaje el maizal 159.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dFq5wl9JJPpE2dgQMyIndA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=134.66298&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

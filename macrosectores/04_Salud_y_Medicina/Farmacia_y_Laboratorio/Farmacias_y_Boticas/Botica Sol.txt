@@ -13,5 +13,6 @@ Longitud: -78.5224643
 Google Maps: https://www.google.com/maps?cid=8585772670372157979
 Place Id: ChIJkyWdFlVaspERGxrKG8HKJnc
 Fotos: Botica Sol.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HUUCKktuZlfbWxo6b_Mx5A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=158.2976&pitch=7.8052783&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

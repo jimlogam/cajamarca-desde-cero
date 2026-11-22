@@ -13,3 +13,4 @@ Longitud: -78.51388089999999
 Google Maps: https://www.google.com/maps?cid=4953062700757549325
 Place Id: ChIJmQV-ZxtbspERDQHkrEjQvEQ
 Fotos: Pollos y Parrillas la Gran Brasa.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KgdVxKu_MMu0nO-QjGnLbQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=340.55237&pitch=0&thumbfov=100

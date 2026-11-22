@@ -13,5 +13,6 @@ Longitud: -78.51711089999999
 Google Maps: https://www.google.com/maps?cid=8308946380854111034
 Place Id: ChIJFeB0UPRaspEROquT8LVOT3M
 Fotos: Autonort Cajamarca B&P.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WzzJmk_u8z52GzCDsBtgkg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=221.31139&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

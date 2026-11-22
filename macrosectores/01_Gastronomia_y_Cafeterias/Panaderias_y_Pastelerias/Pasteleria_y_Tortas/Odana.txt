@@ -13,4 +13,5 @@ Longitud: -78.5178251
 Google Maps: https://www.google.com/maps?cid=5677090534048610039
 Place Id: ChIJebIuWFdbspER9zazH8MTyU4
 Fotos: Odana.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcokZv8ACMhpddr9zwpXtYV5gINTrn8k_oroYJKP1LVD-78AEoAHGI_rJDlC2Xts0grn6zg_SS9bkrVjGmQNjMQ4QzNpPTjuqsNTJu6MgMLuCQ9zxWDtueTzzIiPrhvfC5IvKOe=w1600-h1200-k-no
 

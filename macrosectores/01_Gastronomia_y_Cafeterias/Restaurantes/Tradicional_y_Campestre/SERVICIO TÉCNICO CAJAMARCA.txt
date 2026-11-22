@@ -13,5 +13,6 @@ Longitud: -78.5072299
 Google Maps: https://www.google.com/maps?cid=16400674396691617567
 Place Id: ChIJS966yVRbspERH9elI3jmmuM
 Fotos: SERVICIO TÉCNICO CAJAMARCA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eUDnFUL9G_MQG3hmaAcpLA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=175.52809&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
 

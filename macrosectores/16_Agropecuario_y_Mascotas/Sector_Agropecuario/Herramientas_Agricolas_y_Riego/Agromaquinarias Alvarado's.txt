@@ -13,4 +13,5 @@ Longitud: -78.5086212
 Google Maps: https://www.google.com/maps?cid=12197424479929032796
 Place Id: ChIJpzWEDSdbspERXODSlPD0Rak
 Fotos: Agromaquinarias Alvarado's.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DC9MkFWsRHMJEIVQP4vAzw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=223.07965&pitch=0&thumbfov=100
 

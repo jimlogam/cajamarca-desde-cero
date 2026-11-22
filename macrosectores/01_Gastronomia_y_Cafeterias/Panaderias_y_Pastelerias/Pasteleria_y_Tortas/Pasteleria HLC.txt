@@ -13,3 +13,4 @@ Longitud: -78.4967466
 Google Maps: https://www.google.com/maps?cid=1025653387270423923
 Place Id: ChIJa7ZSjbVbspERcwXuUlLaOw4
 Fotos: Pasteleria HLC.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_rZwt_uUFicE5tfQzeWb7g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=4.7891254&pitch=0&thumbfov=100

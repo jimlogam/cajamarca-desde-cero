@@ -13,4 +13,5 @@ Longitud: -78.4964327
 Google Maps: https://www.google.com/maps?cid=10084417243400398971
 Place Id: ChIJmQQKNbxaspERe2i0pw0M84s
 Fotos: Los jardines de Teresa.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfVcrlf6w5A9fSLy-n2huEJTN839f3I0KxIJgjDpRVJsk3bXbeGmsIgnvPcTq17i_mFm13ICN9E9sP8rsU0c0Qadg0NEzQm2k6Hnfm_apYSsrkORScIRt5y2zGDuhWLRYH9iRev=w1600-h1200-k-no
 

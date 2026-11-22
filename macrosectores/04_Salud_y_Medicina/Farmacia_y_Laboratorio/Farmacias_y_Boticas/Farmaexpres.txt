@@ -13,5 +13,6 @@ Longitud: -78.5028446
 Google Maps: https://www.google.com/maps?cid=8065068048326562052
 Place Id: ChIJDZMash5bspERBJHbzajg7G8
 Fotos: Farmaexpres.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lvtMxZu0hv9Wg3p1_c3NSA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=282.5606&pitch=1.4184264&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

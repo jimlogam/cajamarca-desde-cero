@@ -13,5 +13,6 @@ Longitud: -78.504519
 Google Maps: https://www.google.com/maps?cid=14445870890334528573
 Place Id: ChIJFXdkdlZbspERPaSLiQkLesg
 Fotos: Casa Club.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=f9y7c9_hJjBZogtZNO_mVA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=259.78882&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

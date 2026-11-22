@@ -13,5 +13,6 @@ Longitud: -78.5207442
 Google Maps: https://www.google.com/maps?cid=12048431992725194527
 Place Id: ChIJBy1HYlVaspERH0fW4g-hNKc
 Fotos: Botica Silva Cuidando Tu Salud.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2pVwLvYjiLoU-hdAS0UhrQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=143.93849&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

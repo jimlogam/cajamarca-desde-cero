@@ -13,5 +13,6 @@ Longitud: -78.4994923
 Google Maps: https://www.google.com/maps?cid=14600588017697980791
 Place Id: ChIJn5IOkxdbspERd4G24nG1n8o
 Fotos: La Union Mini Market.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nwJnAm37Ana2uUl0FSmm3w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=146.87265&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.49936459999999
 Google Maps: https://www.google.com/maps?cid=4565888077870092582
 Place Id: ChIJqVWkD_VbspERJlGjBQRLXT8
 Fotos: Estancia del Alba Hotel.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfLdmDjDL69_1EGgAyuafByVqIhiympxPFg_d4mNBer7TdEb0JagD3pb9vWPQUTv4Ef5T4dEEyfSrq2OoIrY3OALyg6kmT7QTywLRTGVWMe93ROkXd346UYtObBU42zS-EPFMzAoRzclZgP=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

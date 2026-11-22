@@ -13,5 +13,6 @@ Longitud: -78.49011899999999
 Google Maps: https://www.google.com/maps?cid=11649516738378619831
 Place Id: ChIJ42Le6_FbspERt1sGdMBlq6E
 Fotos: J&R Servicios Múltiples Chugur S.R.L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PIjKlk6sPDB1ItOhXyRQOg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=202.89848&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

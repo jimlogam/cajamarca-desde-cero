@@ -13,5 +13,6 @@ Longitud: -78.5201196
 Google Maps: https://www.google.com/maps?cid=9551945168559785241
 Place Id: ChIJZ3j9DPhaspERGcUDvoVTj4Q
 Fotos: Imprenta 'El Rosario' Impresiones En General.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7rRj4gWPSFYaiuUmjdsHPg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=56.004013&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
 

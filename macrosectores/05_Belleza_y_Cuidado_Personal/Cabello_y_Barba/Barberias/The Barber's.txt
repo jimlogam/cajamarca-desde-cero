@@ -13,5 +13,6 @@ Longitud: -78.5228846
 Google Maps: https://www.google.com/maps?cid=8620310313344690921
 Place Id: ChIJ47G6bgBbspER6eqLwI5-oXc
 Fotos: The Barber's.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d0DGGHbk6gcOYl9v5rM06g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=341.23712&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

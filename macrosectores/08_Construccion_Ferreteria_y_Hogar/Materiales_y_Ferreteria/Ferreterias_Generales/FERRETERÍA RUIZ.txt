@@ -13,4 +13,5 @@ Longitud: -78.49245499999999
 Google Maps: https://www.google.com/maps?cid=10866768619809884883
 Place Id: ChIJx1ElqTxbspER00ohMHyEzpY
 Fotos: FERRETERÍA RUIZ.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLe_8HVdwGiXwce2izzW3luqcwrAE8hTmloMgU2FT9bDecRWGm6zLzl3U_EoNWLPksz9IW_RbpRBFbGIwCJmpP8H8DldJ5F5rWqyI3C5Z0ww4nbM8UKIGSjgUjHFOUH7AR7kx-NSWw=w1600-h1200-k-no
 

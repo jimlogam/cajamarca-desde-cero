@@ -13,4 +13,5 @@ Longitud: -78.50801249999999
 Google Maps: https://www.google.com/maps?cid=446503580441100470
 Place Id: ChIJVdq7Ne5aspERtsAhB6RMMgY
 Fotos: ASHKA - Café y Pastelería.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9sWtOapGkVkOTejbcRrZCQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=153.39749&pitch=0&thumbfov=100
 

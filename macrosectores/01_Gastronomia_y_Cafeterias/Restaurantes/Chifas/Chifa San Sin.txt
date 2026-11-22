@@ -13,3 +13,4 @@ Longitud: -79.00175329999999
 Google Maps: https://www.google.com/maps?cid=217296035779635252
 Place Id: ChIJKxY7-hNotZERNOi-35f9AwM
 Fotos: Chifa San Sin.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EXD5zkSctTZapqfVvgclRA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=316.76926&pitch=0&thumbfov=100

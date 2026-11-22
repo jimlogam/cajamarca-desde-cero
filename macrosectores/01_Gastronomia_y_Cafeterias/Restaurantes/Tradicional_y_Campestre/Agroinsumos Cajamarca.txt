@@ -13,5 +13,6 @@ Longitud: -75.427143
 Google Maps: https://www.google.com/maps?cid=5110996661319739251
 Place Id: ChIJYaoaOMnoOI4Rc6crXmLo7UY
 Fotos: Agroinsumos Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c1wN5lYsgHcUHFi1vbZOjA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=58.195763&pitch=-3.0019162&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

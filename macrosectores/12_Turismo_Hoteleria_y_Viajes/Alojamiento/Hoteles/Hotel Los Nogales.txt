@@ -13,5 +13,6 @@ Longitud: -78.50791439999999
 Google Maps: https://www.google.com/maps?cid=12983404352515688349
 Place Id: ChIJk4QZFEtbspERnUf1NnhRLrQ
 Fotos: Hotel Los Nogales.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfG5I8PNC5_SaKWDVTpj-3WvVtKIDaTmY3IT49UbuUvOWfF7yXA00rBBk212daz5iLBd_ArAIxmMnf9p4ZmyRBnkZaOoZrm0HdD6taHO6_Vlvhxo5cBqEr30b1zz-U0PNYE89-g=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

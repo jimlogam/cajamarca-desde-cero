@@ -13,5 +13,6 @@ Longitud: -78.5080586
 Google Maps: https://www.google.com/maps?cid=9253971060214236211
 Place Id: ChIJM5IrleVbspERM4TQTaa1bIA
 Fotos: Porongo Market.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6o3w8m8wp0uGx00X3POg_A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=58.206875&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

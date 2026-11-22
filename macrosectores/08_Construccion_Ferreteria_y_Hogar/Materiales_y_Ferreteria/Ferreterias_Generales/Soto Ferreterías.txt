@@ -13,5 +13,6 @@ Longitud: -78.5167766
 Google Maps: https://www.google.com/maps?cid=15757454474247920684
 Place Id: ChIJbwN7CflaspERLNzvlVu5rdo
 Fotos: Soto Ferreterías.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=19QKj8zEAVJeuYyNMzIl8Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=28.325619&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

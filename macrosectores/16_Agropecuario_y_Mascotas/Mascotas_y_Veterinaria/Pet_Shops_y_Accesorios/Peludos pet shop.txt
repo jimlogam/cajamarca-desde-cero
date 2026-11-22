@@ -13,4 +13,5 @@ Longitud: -78.5600417
 Google Maps: https://www.google.com/maps?cid=435466374793266281
 Place Id: ChIJNzzaVUdmYaMRaQQuVVwWCwY
 Fotos: Peludos pet shop.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLevxWpHu0GEbnxtMmTMWJrrTpbdIeKILBd2T9LSW6jBcHcMh6ofO1gDiVTsd3QlJxE0-4asXlK9uf4Vc-GG_pVV-lGyT5Erhn1fGwFRIt18i4-gqKWLoAxQe_k_Fp8hjNKUjNpB=w1600-h1200-k-no
 

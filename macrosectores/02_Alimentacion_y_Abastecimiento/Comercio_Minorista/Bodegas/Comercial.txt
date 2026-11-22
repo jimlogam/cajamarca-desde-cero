@@ -13,5 +13,6 @@ Longitud: -78.51223519999999
 Google Maps: https://www.google.com/maps?cid=5243679647240418370
 Place Id: ChIJy5tcHxifs5ERQvS1YdtKxUg
 Fotos: Comercial.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLe2FBuu_1DUAbuVczHJk8XV7Nw2THW5ROtL27Wv2RohI_ehYoWdGRO03QpKJrroNO8amgMxJyaxNK9d3lV28hhPsa6Ttq0vCpbqA02fV1GyxleGYvkwk8RCccNKLTz8TRS6VBQG=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

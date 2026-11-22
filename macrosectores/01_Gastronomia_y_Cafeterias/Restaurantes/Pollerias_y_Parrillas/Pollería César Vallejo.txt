@@ -13,3 +13,4 @@ Longitud: -78.5237344
 Google Maps: https://www.google.com/maps?cid=1932506373927886457
 Place Id: ChIJG_Jiy_lbspEReV4m6E6k0Ro
 Fotos: Pollería César Vallejo.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1ruwfiFUj2xaUyflK8wIcA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=30.3609&pitch=0&thumbfov=100

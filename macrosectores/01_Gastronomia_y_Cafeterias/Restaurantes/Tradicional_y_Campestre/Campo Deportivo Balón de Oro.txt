@@ -13,5 +13,6 @@ Longitud: -78.4968226
 Google Maps: https://www.google.com/maps?cid=14620187163621743229
 Place Id: ChIJfeLHawBbspERfVpmpcNW5co
 Fotos: Campo Deportivo Balón de Oro.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6ZUPoVSxq-HWPRd7TR2V8w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=237.2717&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

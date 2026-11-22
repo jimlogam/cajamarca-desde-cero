@@ -13,5 +13,6 @@ Longitud: -78.5019554
 Google Maps: https://www.google.com/maps?cid=8086692875169926299
 Place Id: ChIJu_5YDBlbspERm4wvKFO0OXA
 Fotos: New America Boticas + Belleza.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FQFihIb8GousAGTo0BNbiQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=48.535603&pitch=3.2275894&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

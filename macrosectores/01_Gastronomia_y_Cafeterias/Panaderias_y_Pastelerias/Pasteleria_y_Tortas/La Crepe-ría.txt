@@ -13,4 +13,5 @@ Longitud: -78.5057161
 Google Maps: https://www.google.com/maps?cid=14704978259185932157
 Place Id: ChIJaRaYsylbspERfZeeANGTEsw
 Fotos: La Crepe-ría.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLc9Vqecrprk9FIm8rdyb21SQetjSj4iJbpvIiovVcobJlJx9H0Ic2iKbYCORv-qLK7YATstcjt6pG3UT6JPxIFdm0eIRFT8fhSYjhZcFrJobJuwFcIKRfPIr0fifaKSCOxVsQCiWQ=w1600-h1200-k-no
 

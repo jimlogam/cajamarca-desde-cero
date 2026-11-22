@@ -13,5 +13,6 @@ Longitud: -78.502169
 Google Maps: https://www.google.com/maps?cid=17949202079762667059
 Place Id: ChIJyZLcfd5bspERM9b0TTFgGPk
 Fotos: SANTIFE soluciones y accesorios.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ak05qguPNIUOGM1zp6Zv7w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=214.70418&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

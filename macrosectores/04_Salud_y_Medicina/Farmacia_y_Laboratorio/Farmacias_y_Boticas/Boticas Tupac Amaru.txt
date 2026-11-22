@@ -13,5 +13,6 @@ Longitud: -78.5065503
 Google Maps: https://www.google.com/maps?cid=10580975106777715689
 Place Id: ChIJT0FAWBBbspER6ZO8mMws15I
 Fotos: Boticas Tupac Amaru.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Gj3iBnpo21GJs0MT84mRVQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=43.944&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

@@ -13,5 +13,6 @@ Longitud: -78.4946966
 Google Maps: https://www.google.com/maps?cid=2329373502856149804
 Place Id: ChIJHbIcTjxbspERLLvy-tuYUyA
 Fotos: Mc jefcy Tapiceria & Soldadura En General.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CmFPncsEM6EZ4hU7MjC1ng&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=290.3597&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.5141172
 Google Maps: https://www.google.com/maps?cid=4639151115825502630
 Place Id: ChIJ19b6RwBbspERptkiTlyTYUA
 Fotos: ROPA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=p___eoZRs5jQkYpPq9vE2g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=347.4056&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

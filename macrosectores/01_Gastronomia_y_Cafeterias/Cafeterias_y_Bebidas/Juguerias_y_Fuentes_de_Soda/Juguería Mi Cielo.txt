@@ -13,4 +13,5 @@ Longitud: -78.5133555
 Google Maps: https://www.google.com/maps?cid=5015165728579810137
 Place Id: ChIJ_ZYSDqBbspERWXO2nahymUU
 Fotos: Juguería Mi Cielo.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RBluMKyGf8OqXniaJvve-Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=57.92897&pitch=0&thumbfov=100
 

@@ -13,5 +13,6 @@ Longitud: -78.5230885
 Google Maps: https://www.google.com/maps?cid=17452900675877843446
 Place Id: ChIJTetgZwBbspER9rHf_bEoNfI
 Fotos: Transportes Super.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lqC1IlREHzCoMVIZ95isuA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=76.58147&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

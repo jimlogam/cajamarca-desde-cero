@@ -13,4 +13,5 @@ Longitud: -78.49261369999999
 Google Maps: https://www.google.com/maps?cid=3844719772851533009
 Place Id: ChIJ92j4KT9bspER0XS8YUMwWzU
 Fotos: Ferreteria Orion.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zX_ojV4xB2BK9BmLj2h6dQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=236.88963&pitch=-4.984607&thumbfov=100
 

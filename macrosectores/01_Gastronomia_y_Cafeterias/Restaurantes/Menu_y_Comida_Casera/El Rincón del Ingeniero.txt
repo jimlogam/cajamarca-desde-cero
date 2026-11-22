@@ -13,3 +13,4 @@ Longitud: -78.4970123
 Google Maps: https://www.google.com/maps?cid=13789003735284191647
 Place Id: ChIJo7kbKABbspERnxEmCNdhXL8
 Fotos: El Rincón del Ingeniero.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcsfV7Q5JSIsKeohLl0K9cewk2JUz4g6qYBUku3o4MSDr0yModTAbkYXrjinZnsMRvhBgdyjXyOlcTxtu1_oUExGVjg5SPvYAMr-g1yyxW6jnv-yzLDgRK8l6MC6rX8gwa_JK4L1ffRytc=w1600-h1200-k-no

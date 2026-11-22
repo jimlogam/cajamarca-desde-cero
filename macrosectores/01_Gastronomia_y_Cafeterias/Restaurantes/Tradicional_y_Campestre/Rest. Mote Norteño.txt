@@ -13,5 +13,6 @@ Longitud: -78.51047609999999
 Google Maps: https://www.google.com/maps?cid=12507755598250296992
 Place Id: ChIJGT0HHqVbspERoMYcm3J5lK0
 Fotos: Rest. Mote Norteño.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdRWT8pgFo8OccTzFcFh64ef1TtW0dLvpKqBB36e53ypafPeCsRz12-1tMvSGeWfdy3Dco-wXfeiufFrwM3xA8bq7kWtkPgqVfuetZ83HHqZ5BATd6MYnJDI3dSDDOlmSAAKgVw=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

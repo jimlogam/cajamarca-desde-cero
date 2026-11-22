@@ -13,5 +13,6 @@ Longitud: -78.50055329999999
 Google Maps: https://www.google.com/maps?cid=17606509003290028910
 Place Id: ChIJkT7q-xVbspERbqvRu6fiVvQ
 Fotos: Servicios ELKIN.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uKkR6g6_omBVsM2DwpTHOA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=145.16089&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

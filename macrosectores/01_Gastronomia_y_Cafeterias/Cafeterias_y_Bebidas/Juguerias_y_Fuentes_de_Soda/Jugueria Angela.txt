@@ -13,4 +13,5 @@ Longitud: -78.51628649999999
 Google Maps: https://www.google.com/maps?cid=6143630243922195663
 Place Id: ChIJ1TDBtEFbspERzzRUECiPQlU
 Fotos: Jugueria Angela.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfyMh9MhrGmi5m-JKViQ8amaPCpu0viSd9zS_oHFnwVyWSWcHvtg57jbaMpVgMyNNi6fXrB7kEadB-fLQV68jOBydUhnFh1nAN6thDTDbICHbZPQqAZhNnocku6CMamuGad0WWceeNZJb0=w1600-h1200-k-no
 

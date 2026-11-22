@@ -13,5 +13,6 @@ Longitud: -78.50712949999999
 Google Maps: https://www.google.com/maps?cid=8289717473198370253
 Place Id: ChIJQ-HopDZbspERzW1W_h7-CnM
 Fotos: De Grecia Boutique.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kxCgDaSmaXI_z3yeU6UX3Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=237.49242&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.5090393
 Google Maps: https://www.google.com/maps?cid=9582570927168498176
 Place Id: ChIJ9wabC0dbspERACrd1Hwh_IQ
 Fotos: TALLER MANTENIMIENTO TURISMO DIAS.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=x7kzr6aHd5xxQ3M5xypatQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=251.19899&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

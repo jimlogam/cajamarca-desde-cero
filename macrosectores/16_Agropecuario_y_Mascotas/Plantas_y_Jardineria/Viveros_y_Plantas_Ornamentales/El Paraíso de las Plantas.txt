@@ -13,5 +13,6 @@ Longitud: -78.5154388
 Google Maps: https://www.google.com/maps?cid=15774629453930188488
 Place Id: ChIJzx0AhPlaspERyE7sKOm96to
 Fotos: El Paraíso de las Plantas.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcJk21dTSvuS2qsM9_ycQqXAyGy79tKPRF8G7C23NXORWUovipaQcswr5AKHkij-mBCM0vOGomY4vlzEKY4HEB4i_KGyy1r_W1SdJaE9LgxiwhnH9mDyGUFCeIpVhB08kfpPDHj=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
 

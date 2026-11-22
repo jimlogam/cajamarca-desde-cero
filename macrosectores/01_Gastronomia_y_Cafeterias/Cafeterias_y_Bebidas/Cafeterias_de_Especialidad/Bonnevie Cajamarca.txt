@@ -13,3 +13,4 @@ Longitud: -78.5190329
 Google Maps: https://www.google.com/maps?cid=11851540137224401192
 Place Id: ChIJRTQcKQBbspERKHGLcPYgeaQ
 Fotos: Bonnevie Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rzI40aJk3Y1vevCtpwwp2w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=181.50705&pitch=0&thumbfov=100

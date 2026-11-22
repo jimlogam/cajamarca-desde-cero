@@ -13,4 +13,5 @@ Longitud: -78.5064034
 Google Maps: https://www.google.com/maps?cid=4442638309007426795
 Place Id: ChIJ647_MlFbspER6wTuAQFspz0
 Fotos: Jugueria Mary.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfPtOk6vzD-qFuTFnvn2_4NYJ_RoWr0dar85OVdMllFiP6Bra5XmF1lPXbZgndyH0_zsEwR5NvP2zc3msVTfXnKpfeKZAQZMxVVCSUXmPaQJOiXXxhjmna1z2AU7zOhsoTyWzfAfQ=w1600-h1200-k-no
 

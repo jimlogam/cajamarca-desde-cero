@@ -13,4 +13,5 @@ Longitud: -78.517051
 Google Maps: https://www.google.com/maps?cid=16940990512418415438
 Place Id: ChIJh5rGDLNbspERTmP2Ix19Gus
 Fotos: Helartesano.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLe-W8eYiHYsJRK-WmDYciqV6oEg7vWoocLYWQEcNYbgTavzMJALuzr0qSjFSwj1xXK4NkvzEndQozKPYPIH3pmuUGFxktSjMZEF8aWzUQiZqvX58gkYTwbr4XjxyFuJfjfMHweg=w1600-h1200-k-no
 

@@ -13,4 +13,5 @@ Longitud: -78.516167
 Google Maps: https://www.google.com/maps?cid=18306298567752019101
 Place Id: ChIJ-R5EOABbspERnewZc44JDf4
 Fotos: Mascotas Market D'pelos.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DRwk0WZbbXW5GSAAIGrHmw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=281.17545&pitch=0&thumbfov=100
 

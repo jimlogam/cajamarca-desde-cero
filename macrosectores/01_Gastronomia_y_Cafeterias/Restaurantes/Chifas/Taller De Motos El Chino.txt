@@ -13,5 +13,6 @@ Longitud: -78.514443
 Google Maps: https://www.google.com/maps?cid=13237599938171987778
 Place Id: ChIJL3VRUvNaspERQmd5CQJntbc
 Fotos: Taller De Motos El Chino.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iqWAXrJpKcTiwrmib1E1uA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=270.63205&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

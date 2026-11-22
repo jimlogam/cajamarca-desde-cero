@@ -13,5 +13,6 @@ Longitud: -78.5153017
 Google Maps: https://www.google.com/maps?cid=2555742728856059135
 Place Id: ChIJEw6IhgFbspER_7zAknjSdyM
 Fotos: Mis Fármacos Botica Perfumería.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2HgL90sP9jl1pS4vejk59w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=23.400202&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

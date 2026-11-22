@@ -13,5 +13,6 @@ Longitud: -78.49139439999999
 Google Maps: https://www.google.com/maps?cid=14064788037263506591
 Place Id: ChIJHTj48tpbspERnzxBkjMqMMM
 Fotos: Avícola San Fernando Cajamarca E. I. R. L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2bccgGMVv1sTkWB4YKDYlQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=270.17883&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
 

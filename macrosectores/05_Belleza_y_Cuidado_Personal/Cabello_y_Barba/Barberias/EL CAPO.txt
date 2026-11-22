@@ -13,5 +13,6 @@ Longitud: -78.5016761
 Google Maps: https://www.google.com/maps?cid=8575173300405345817
 Place Id: ChIJ_fMQTABbspERGR4T-q4iAXc
 Fotos: EL CAPO.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SZx-rLV_uNUX6qrAeppyNg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=211.53783&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

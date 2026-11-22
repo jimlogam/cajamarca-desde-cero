@@ -13,5 +13,6 @@ Longitud: -78.48816169999999
 Google Maps: https://www.google.com/maps?cid=14728448679919235123
 Place Id: ChIJ8YjiXDpbspERMzAoKwr2Zcw
 Fotos: Agropecuaria El Campo.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TdGNnV2gOSLfBbr4_ji2ug&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=25.0228&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

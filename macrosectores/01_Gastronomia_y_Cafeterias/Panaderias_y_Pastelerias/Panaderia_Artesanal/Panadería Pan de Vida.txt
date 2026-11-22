@@ -13,4 +13,5 @@ Longitud: -78.49678689999999
 Google Maps: https://www.google.com/maps?cid=18251537744818277208
 Place Id: ChIJWZrzUABbspERWAuHzOB8Sv0
 Fotos: Panadería Pan de Vida.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cdPA4ZZZWqTm_Q3Cwd-4eg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=89.74479&pitch=0&thumbfov=100
 

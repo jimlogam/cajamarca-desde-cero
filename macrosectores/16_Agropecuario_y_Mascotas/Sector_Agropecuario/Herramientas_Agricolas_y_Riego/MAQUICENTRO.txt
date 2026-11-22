@@ -13,4 +13,5 @@ Longitud: -78.5034388
 Google Maps: https://www.google.com/maps?cid=9885685215018858764
 Place Id: ChIJecBqtx5bspERDLmHklMCMYk
 Fotos: MAQUICENTRO.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdlygJ0iEE1qTm429UHBqF7cGbPWJWca8GJwphFfA8QpkPzKJxs0KAQrRioV1RdmHYTX1SzIqX3RFvd1aRdp4ESuWEHD_G4nGzkVDGxBgGxsj3ssnQJWRNF4XQED4_VwzH1H91o8g=w1600-h1200-k-no
 

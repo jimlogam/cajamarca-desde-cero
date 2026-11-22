@@ -13,5 +13,6 @@ Longitud: -78.50095449999999
 Google Maps: https://www.google.com/maps?cid=5935005268790781140
 Place Id: ChIJM2kzo4hbspER1KRY0thfXVI
 Fotos: MOVIL BUS - Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZmxfBtikWkj0pJwi-Tilzw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=140.66835&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

@@ -13,5 +13,6 @@ Longitud: -78.493139
 Google Maps: https://www.google.com/maps?cid=14946333333217342360
 Place Id: ChIJ9d7C-DhbspERmPP_PPoKbM8
 Fotos: TALLER DE SOLDADURA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Dgu-pVq2uoX4LXfx0fDHyg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=254.26425&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

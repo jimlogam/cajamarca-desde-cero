@@ -13,4 +13,5 @@ Longitud: -78.5117515
 Google Maps: https://www.google.com/maps?cid=14411498376993676647
 Place Id: ChIJfSZ4gCRbspERZ53TIWvt_8c
 Fotos: JUGUERIA Jehova es mi pastor.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HolLitmfLHRXpkZrhv7f_Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=222.53607&pitch=0&thumbfov=100
 

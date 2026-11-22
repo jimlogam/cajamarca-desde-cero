@@ -13,4 +13,5 @@ Longitud: -78.510887
 Google Maps: https://www.google.com/maps?cid=3201120165104192098
 Place Id: ChIJvXGMdfBaspERYgpgdNSpbCw
 Fotos: Centro Ferretero.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfeefsXE4d1M9cKFtEhrya1Gljd_0dKcQzaKVveB1LEH3kz38EQ4EeRUekuOct9MKRJdGsGR6ymsrIp0BElgfr0i4wsBzUewEjNpXZAv6MC52LVnf0d16hOo801vovUx8fYF4sS=w1600-h1200-k-no
 

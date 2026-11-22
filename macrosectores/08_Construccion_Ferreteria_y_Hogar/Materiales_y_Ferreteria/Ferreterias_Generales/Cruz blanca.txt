@@ -13,4 +13,5 @@ Longitud: -78.5105688
 Google Maps: https://www.google.com/maps?cid=11904319276916819503
 Place Id: ChIJTzLrgdFbspERL0Z2gU-jNKU
 Fotos: Cruz blanca.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLe-LcIUE4kVyBYPKKfkMT2-fpL0x-K4DNhoAuwPUJLpxsHiI0x9sDisdk8wWIgUfpMy-En2qeDQGIQ07oGQ6zddMuqPJh62yIzJ9VcW1BRJh9q6_6_amnb2H2gbnxwWRob0u1EP=w1600-h1200-k-no
 

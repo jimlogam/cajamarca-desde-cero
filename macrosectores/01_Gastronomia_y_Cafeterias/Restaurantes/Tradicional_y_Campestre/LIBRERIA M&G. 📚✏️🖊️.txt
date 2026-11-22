@@ -13,5 +13,6 @@ Longitud: -78.4599401
 Google Maps: https://www.google.com/maps?cid=12773324393132366751
 Place Id: ChIJIbRn9vJbspERn5t8Ddz2Q7E
 Fotos: LIBRERIA M&G. 📚✏️🖊️.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CRNETm-7EpFBDqznWdwhGA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=147.29002&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

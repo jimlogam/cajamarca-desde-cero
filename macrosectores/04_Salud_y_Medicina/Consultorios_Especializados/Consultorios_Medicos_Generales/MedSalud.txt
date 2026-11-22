@@ -13,5 +13,6 @@ Longitud: -78.5124692
 Google Maps: https://www.google.com/maps?cid=10698140579001798431
 Place Id: ChIJRXzwiKpbspERHw-Y6Cxud5Q
 Fotos: MedSalud.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Hrov0FWvWbBzoW9WGa7E4Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=114.63687&pitch=5.1948576&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

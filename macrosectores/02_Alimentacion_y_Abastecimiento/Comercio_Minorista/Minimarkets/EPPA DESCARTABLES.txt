@@ -13,5 +13,6 @@ Longitud: -78.5164233
 Google Maps: https://www.google.com/maps?cid=6369805676075136304
 Place Id: ChIJ2XOQZm5bspERMLW5goMYZlg
 Fotos: EPPA DESCARTABLES.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TC5owm_nNajPlwmNLi7ZSQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=157.93472&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

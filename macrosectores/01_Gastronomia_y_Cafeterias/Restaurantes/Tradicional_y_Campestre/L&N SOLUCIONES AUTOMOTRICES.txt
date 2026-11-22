@@ -13,5 +13,6 @@ Longitud: -78.5128756
 Google Maps: https://www.google.com/maps?cid=12715043495998594315
 Place Id: ChIJY14kUwBbspERCx2jQrHodLA
 Fotos: L&N SOLUCIONES AUTOMOTRICES.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9BPX--d8j_RqVfVfa1zIbw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=177.98248&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

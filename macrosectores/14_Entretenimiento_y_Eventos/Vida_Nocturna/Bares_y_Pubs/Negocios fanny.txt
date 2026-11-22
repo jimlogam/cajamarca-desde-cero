@@ -13,5 +13,6 @@ Longitud: -78.4986151
 Google Maps: https://www.google.com/maps?cid=5119535910823931931
 Place Id: ChIJC8vzOABbspERGzCEU8k-DEc
 Fotos: Negocios fanny.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ChZJlvNwC5y_5LciYjsLTA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=286.8096&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

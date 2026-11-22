@@ -13,3 +13,4 @@ Longitud: -78.5113022
 Google Maps: https://www.google.com/maps?cid=4816631941220495538
 Place Id: ChIJN3yDuctbspERsnA_Hjsd2EI
 Fotos: Panadería La Marquinita.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KGxK-7XV6q23-eAMFQB0-g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=289.39645&pitch=0&thumbfov=100

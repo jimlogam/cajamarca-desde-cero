@@ -13,5 +13,6 @@ Longitud: -78.51478519999999
 Google Maps: https://www.google.com/maps?cid=3545704265896081589
 Place Id: ChIJW1242ftaspERtbhSbz7fNDE
 Fotos: Farmacia San Jose.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xhXZt7RRXqeGJiiBvg4adw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=254.25392&pitch=2.0706952&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

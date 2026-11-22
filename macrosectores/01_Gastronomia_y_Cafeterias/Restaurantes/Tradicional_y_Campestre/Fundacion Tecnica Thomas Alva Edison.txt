@@ -13,5 +13,6 @@ Longitud: -78.52226399999999
 Google Maps: https://www.google.com/maps?cid=11612445882761338250
 Place Id: ChIJT8TxtjNbspERit1vRwGyJ6E
 Fotos: Fundacion Tecnica Thomas Alva Edison.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cv5LhUjlftq_YBOiAU0ogg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=295.92276&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

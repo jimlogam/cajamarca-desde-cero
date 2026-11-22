@@ -13,4 +13,5 @@ Longitud: -78.52449419999999
 Google Maps: https://www.google.com/maps?cid=11544908174110857288
 Place Id: ChIJ_T9E6V5aspERSJhhGtHAN6A
 Fotos: Agrovet La Finca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XkqIZndd-r0RExCAp-Ku7Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=321.99966&pitch=0.5145205&thumbfov=100
 

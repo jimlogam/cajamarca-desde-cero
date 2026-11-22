@@ -13,5 +13,6 @@ Longitud: -78.50922179999999
 Google Maps: https://www.google.com/maps?cid=10383032541542496695
 Place Id: ChIJGxHNyxFbspERtzn2uRXxF5A
 Fotos: NAYO Salón Spa & Armonización Facial.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=l8egEVnIx6WJHZgxAY5zMw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=141.10765&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

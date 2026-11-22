@@ -13,4 +13,5 @@ Longitud: -78.4994225
 Google Maps: https://www.google.com/maps?cid=2037714685159677444
 Place Id: ChIJa8gw8-tbspERBB6KurVqRxw
 Fotos: Frito con ceviche Huacaloma.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oDKe5aPUiET8uUEUmK46ew&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=31.90824&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

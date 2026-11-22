@@ -13,5 +13,6 @@ Longitud: -78.50047479999999
 Google Maps: https://www.google.com/maps?cid=10936530272184808950
 Place Id: ChIJLYMgXQBbspER9rXhnFZcxpc
 Fotos: Cochera las Torrecitas.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mc9LAldEbSaDTlUuiRERPQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=70.68748&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

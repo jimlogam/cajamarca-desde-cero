@@ -13,4 +13,5 @@ Longitud: -78.5129532
 Google Maps: https://www.google.com/maps?cid=8861074136464035271
 Place Id: ChIJP7vo0vNbspERxw1XqPrb-Ho
 Fotos: Juguería Happy Fruit- Las frutas felices.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H9RmG4ZWRZy3rZXb-Yscuw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=250.23598&pitch=0&thumbfov=100
 

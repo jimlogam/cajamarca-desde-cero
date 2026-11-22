@@ -13,3 +13,4 @@ Longitud: -78.5133834
 Google Maps: https://www.google.com/maps?cid=12946173571290852144
 Place Id: ChIJcWySl7tbspERMGtXdUUMqrM
 Fotos: SAZON NORTEÑA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CVQW_ZtEGqwS5KV965WijQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=346.67038&pitch=0&thumbfov=100

@@ -13,5 +13,6 @@ Longitud: -78.5065687
 Google Maps: https://www.google.com/maps?cid=7147167074862509170
 Place Id: ChIJi0r6goJbspERciyMV5bWL2M
 Fotos: Insumos Alimentarios Samil.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XzCW_pOAhAjyGkhFnHjTLw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=89.53389&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

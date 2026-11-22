@@ -13,3 +13,4 @@ Longitud: -78.49533699999999
 Google Maps: https://www.google.com/maps?cid=9245795720423927975
 Place Id: ChIJj7Jryz1bspERp_CxrTiqT4A
 Fotos: Panadería Y Pastelería Sandoval.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PWOT1mOp0Xx_0b0D0fVH5Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=256.85153&pitch=0&thumbfov=100

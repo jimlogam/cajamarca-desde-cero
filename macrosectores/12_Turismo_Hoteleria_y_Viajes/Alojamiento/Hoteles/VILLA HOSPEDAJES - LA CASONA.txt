@@ -13,4 +13,5 @@ Longitud: -78.50640349999999
 Google Maps: https://www.google.com/maps?cid=9173226578092725572
 Place Id: ChIJN-Fa__lbspERRJVjj_jYTX8
 Fotos: VILLA HOSPEDAJES - LA CASONA.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfYTOXdwfCgFIimWB704OIbAvqgdBkWKjWDaNOqtOhB5x-MwLS2tz4weC6aQ2oirZlmgINTdRqlU_QUptVmB16TicDyaovrzQy5W2w_qxEXFQA_8gJ3uW0EBftyMrSO7-KmAkqB=w1600-h1200-k-no
 

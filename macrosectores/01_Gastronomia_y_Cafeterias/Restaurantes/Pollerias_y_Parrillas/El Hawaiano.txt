@@ -13,4 +13,5 @@ Longitud: -78.5067265
 Google Maps: https://www.google.com/maps?cid=10162761701713902169
 Place Id: ChIJ4X0MgeRaspERWfqZT-xhCY0
 Fotos: El Hawaiano.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLeR3p9rt826JSujaPXvmJLKlYkIQtXquXPrIxMCBNDUSg18PeNwfO--EfIY9JjuXFYAXgLqTIMzrVZITRTNCzKy4IVWaKq6eTyB4gaqY2gC24a2ff1HTGdDH77IS8cqlOJRQNBJJg=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

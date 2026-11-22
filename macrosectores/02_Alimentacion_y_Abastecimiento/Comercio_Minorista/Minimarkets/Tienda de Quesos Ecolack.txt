@@ -13,5 +13,6 @@ Longitud: -78.5172039
 Google Maps: https://www.google.com/maps?cid=10387514676028842445
 Place Id: ChIJXZ0TKwBbspERzSHb-4_dJ5A
 Fotos: Tienda de Quesos Ecolack.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rYRjVcTBv7dCbkOs9qIWlw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=332.76862&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

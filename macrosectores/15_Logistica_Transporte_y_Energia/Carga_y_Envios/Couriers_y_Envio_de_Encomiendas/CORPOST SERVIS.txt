@@ -13,5 +13,6 @@ Longitud: -78.4998411
 Google Maps: https://www.google.com/maps?cid=14862545176740266464
 Place Id: ChIJ8ctvuolbspER4IHM1RdeQs4
 Fotos: CORPOST SERVIS.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lNn3Zeefx8kTKP1ueutZ9Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=247.89633&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

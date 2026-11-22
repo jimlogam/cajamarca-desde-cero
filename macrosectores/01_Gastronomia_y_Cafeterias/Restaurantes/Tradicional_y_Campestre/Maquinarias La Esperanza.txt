@@ -13,4 +13,5 @@ Longitud: -78.5214124
 Google Maps: https://www.google.com/maps?cid=11365549025511572495
 Place Id: ChIJwW-wkFhaspERD4TnFp-Kup0
 Fotos: Maquinarias La Esperanza.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=p3USu7A6dNW9tlawlTxrYw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=280.60974&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general

@@ -13,4 +13,5 @@ Longitud: -78.5077702
 Google Maps: https://www.google.com/maps?cid=14939397824084159191
 Place Id: ChIJLcI6EABbspER16rHLitnU88
 Fotos: Ferromack Company.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcaomBpAiN8co7WN_B5wsrhzr3QAlp6XvbvVAi3omyegJaNvJtQZEI2xUkw6ld3u2lDTHW2elM4lI4_gort9sNoYq-Iw2_yxQLbBlf4jr1ZTmEpKbdbQncqtZRRMolfQUWz5RZVaDuK62Ww=w1600-h1200-k-no
 

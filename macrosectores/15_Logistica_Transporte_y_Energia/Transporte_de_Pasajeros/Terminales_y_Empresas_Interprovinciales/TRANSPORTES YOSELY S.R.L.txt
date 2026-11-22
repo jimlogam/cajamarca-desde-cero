@@ -13,5 +13,6 @@ Longitud: -78.5051565
 Google Maps: https://www.google.com/maps?cid=1369060896123079821
 Place Id: ChIJx_kmWSVbspERjUxLpaHh_xI
 Fotos: TRANSPORTES YOSELY S.R.L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S-MX3QynyJk-omm4J46o6w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=224.90077&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

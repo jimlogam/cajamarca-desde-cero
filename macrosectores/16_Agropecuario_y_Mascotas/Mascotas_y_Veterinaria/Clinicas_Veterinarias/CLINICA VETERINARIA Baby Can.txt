@@ -13,4 +13,5 @@ Longitud: -78.50090139999999
 Google Maps: https://www.google.com/maps?cid=2361147390697378446
 Place Id: ChIJuXWg-r9bspERjpLbvAp7xCA
 Fotos: CLINICA VETERINARIA Baby Can.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-_nLEuff0uuJehKx4vnzbA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=83.75016&pitch=4.60913&thumbfov=100
 

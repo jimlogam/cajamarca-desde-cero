@@ -13,4 +13,5 @@ Longitud: -78.50815589999999
 Google Maps: https://www.google.com/maps?cid=16188981796955253515
 Place Id: ChIJvxSFjf5bspERC2vI4ivRquA
 Fotos: Don FENA.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfH3-9WoHviqtGAPTko1Zmc0Mj7q4f2ewy79F8g__AlWwUxGNVoH-xoKO6VsLbOBMMk5h5l3ASDinXhB36lV7z5VfioX488fTFc4pPiFqutVcS2oQlv2KcNgMtvu2NFdlpFMAtK=w1600-h1200-k-no
 

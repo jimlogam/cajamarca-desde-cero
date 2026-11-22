@@ -13,5 +13,6 @@ Longitud: -78.50755219999999
 Google Maps: https://www.google.com/maps?cid=3827002044861973494
 Place Id: ChIJG04v6eRaspER9gOxXhU-HDU
 Fotos: SOLARCYTEC.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfjkscOQcbKQFnp-dfER-svRM9s6hnEfy2KgqLEhE9dWeSuBa1Qle1Ge4J5Tt-IBxBMzIiMMjH1T0mcKBUqUxt_4zoRB2mdd7zyC-C6eiMlXbkiFQe1oEL8hATiO6-pCWB54XqNEw=w1600-h1200-k-no
 Nota: Centro comercial (no es una tienda individual)
 

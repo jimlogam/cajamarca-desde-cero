@@ -13,5 +13,6 @@ Longitud: -78.522635
 Google Maps: https://www.google.com/maps?cid=5905805733893712221
 Place Id: ChIJ72vfpFVaspERXSkzUQaj9VE
 Fotos: Los Andes.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfzDy01jum934gUnBM_3Jfjt1K5oLsG_no2VFZOxCEzy4SejFF8-zpY-xZnJBGuHAJWOFsFgKfo9ntakWBoKbyviKgs7Ck7mIMBe848fQcEixvEpofW9Pt5lHbSqx5hQdTIehGR=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

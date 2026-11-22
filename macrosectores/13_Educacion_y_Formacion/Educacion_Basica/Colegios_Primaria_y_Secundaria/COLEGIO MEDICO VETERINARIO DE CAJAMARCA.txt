@@ -13,4 +13,5 @@ Longitud: -78.5174713
 Google Maps: https://www.google.com/maps?cid=6043889690056314422
 Place Id: ChIJB5BckfJbspERNs5ztaY14FM
 Fotos: COLEGIO MEDICO VETERINARIO DE CAJAMARCA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ooFvZjKFItWJoI_n7Is4yw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=1.3429426&pitch=0&thumbfov=100
 

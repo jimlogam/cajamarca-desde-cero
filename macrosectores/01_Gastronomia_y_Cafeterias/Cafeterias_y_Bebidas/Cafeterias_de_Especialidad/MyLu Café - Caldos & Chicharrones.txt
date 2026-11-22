@@ -13,4 +13,5 @@ Longitud: -78.5146671
 Google Maps: https://www.google.com/maps?cid=8821704665135643730
 Place Id: ChIJi0ZM7RVbspERUvzQTqf9bHo
 Fotos: MyLu Café - Caldos & Chicharrones.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pUGDje8dXdyJaB0-JWx8Gw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=96.766624&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

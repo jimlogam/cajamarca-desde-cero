@@ -13,5 +13,6 @@ Longitud: -78.497636
 Google Maps: https://www.google.com/maps?cid=5195325654932196836
 Place Id: ChIJe33OE4xbspER5A21OiiBGUg
 Fotos: Servicio Generales °JHOTMON°.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ipjrtItcfvRkqmuGbIVt0A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=71.9651&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

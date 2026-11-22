@@ -13,5 +13,6 @@ Longitud: -78.49775919999999
 Google Maps: https://www.google.com/maps?cid=10305279256419054834
 Place Id: ChIJxTh8df1bspER8jQPTuK0A48
 Fotos: Carniceria La Matarina.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S8sSijoruy4gQQP32lEzQg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=48.86191&pitch=0&thumbfov=100
 Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

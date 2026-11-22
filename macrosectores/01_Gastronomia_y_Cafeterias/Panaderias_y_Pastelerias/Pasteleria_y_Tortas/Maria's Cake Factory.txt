@@ -13,4 +13,5 @@ Longitud: -78.5148426
 Google Maps: https://www.google.com/maps?cid=13392546237519892861
 Place Id: ChIJfzVEPkxbspERfRFepdjh27k
 Fotos: Maria's Cake Factory.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kQ7G7xr8vj6zMIWcApOnMw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=232.60774&pitch=0&thumbfov=100
 

@@ -13,5 +13,6 @@ Longitud: -78.4992247
 Google Maps: https://www.google.com/maps?cid=2627393217757891083
 Place Id: ChIJoSLzrv5aspERC8q6BTZgdiQ
 Fotos: Minimarket Sthefany.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eAUVayaDnuZsP7yWnjRA4g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=315.45966&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

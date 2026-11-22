@@ -13,5 +13,6 @@ Longitud: -78.5142309
 Google Maps: https://www.google.com/maps?cid=1376442731296030627
 Place Id: ChIJh7Wh5sVbspERo3-RFF8bGhM
 Fotos: Turismo combayo y turismo express.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mugHi2BH26ghuP-JF0-W6A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=250.15224&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

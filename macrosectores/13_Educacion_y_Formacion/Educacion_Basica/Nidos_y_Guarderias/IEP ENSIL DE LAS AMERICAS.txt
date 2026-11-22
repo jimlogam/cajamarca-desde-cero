@@ -13,4 +13,5 @@ Longitud: -78.488317
 Google Maps: https://www.google.com/maps?cid=719057176313262109
 Place Id: ChIJ-R-N3zNbspERHfBYL7Ga-gk
 Fotos: IEP ENSIL DE LAS AMERICAS.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLd0I-LEgUTsCQ0f2LHOQgstK-3SdkD7_N5inlQBZZiGy4AKPqrcutI1BbZhGCcZiEDyV4Ahn4SC-kQVMcWHBlzaegTLmF4LdxExF29yekcdRwXoZgFA0yc2jIRuMCd0P_9lHffNvQ=w1600-h1200-k-no
 

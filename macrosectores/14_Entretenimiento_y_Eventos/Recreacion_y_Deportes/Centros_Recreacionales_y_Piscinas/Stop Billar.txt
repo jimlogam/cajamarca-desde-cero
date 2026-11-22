@@ -13,5 +13,6 @@ Longitud: -78.4969941
 Google Maps: https://www.google.com/maps?cid=12669231957756778172
 Place Id: ChIJmQywsyJbspERvJYeU1cn0q8
 Fotos: Stop Billar.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B1kN9t1YZgylWObg8FshGA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=30.383291&pitch=0&thumbfov=100
 Nota: Rescatado: en Maps salia sin categoria ni datos de contacto; clasificado por el nombre.
 

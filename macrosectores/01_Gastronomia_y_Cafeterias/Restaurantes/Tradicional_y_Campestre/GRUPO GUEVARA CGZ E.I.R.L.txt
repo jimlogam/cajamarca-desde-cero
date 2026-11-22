@@ -13,5 +13,6 @@ Longitud: -78.50661869999999
 Google Maps: https://www.google.com/maps?cid=14568929531043692749
 Place Id: ChIJ5wvOuA0u7IYRzcCODzg8L8o
 Fotos: GRUPO GUEVARA CGZ E.I.R.L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fPVVFCCtWZpM21vG_3_9YA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=54.07679&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

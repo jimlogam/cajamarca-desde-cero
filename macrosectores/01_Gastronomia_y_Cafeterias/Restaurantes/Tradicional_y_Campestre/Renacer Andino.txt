@@ -13,5 +13,6 @@ Longitud: -78.5172757
 Google Maps: https://www.google.com/maps?cid=1520602317090791511
 Place Id: ChIJ6ZDFS_RaspERVyDVOsBDGhU
 Fotos: Renacer Andino.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jwn0gw-vVVe4_Qs2bA3KQg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=317.7615&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
 

@@ -13,5 +13,6 @@ Longitud: -78.5075067
 Google Maps: https://www.google.com/maps?cid=7115018477842890270
 Place Id: ChIJP5VS7xxbspERHn4qzpufvWI
 Fotos: Mi Jugueria.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KqO6qJTzII5UTPEWEZHWqg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=103.219894&pitch=3.9334645&thumbfov=100
 Nota: Sin categoria en Maps; clasificado por el nombre.
 

@@ -13,3 +13,4 @@ Longitud: -78.497323
 Google Maps: https://www.google.com/maps?cid=1675209787551072782
 Place Id: ChIJM3O32sFaspERDkI9F22KPxc
 Fotos: Panaderia & Pasteleria YOYITO.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5cYhLL9YoEp9N3hFkwVlpA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=348.45218&pitch=0&thumbfov=100

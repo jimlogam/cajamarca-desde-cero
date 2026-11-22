@@ -13,4 +13,5 @@ Longitud: -78.454464
 Google Maps: https://www.google.com/maps?cid=16431736632453871015
 Place Id: ChIJpYgOHzBFspERp7UvfGhBCeQ
 Fotos: Clínica Veterinaria Padre Eterno.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdBSMSf__TJt61S8i4XCYbcP5M1A4tApFTP_8ncC5Qsoc4br7k43898pL_P9zcaxzkLlMX3BemfH4gDmuSxc4po4cSBSZDytvs5FcE0lXvX7qc_NCtyYpK8Zg4UK5odQnJ9xvp_=w1600-h1200-k-no
 

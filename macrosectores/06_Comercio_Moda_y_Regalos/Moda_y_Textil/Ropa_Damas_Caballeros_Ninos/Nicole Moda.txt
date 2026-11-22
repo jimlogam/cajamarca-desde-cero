@@ -13,5 +13,6 @@ Longitud: -78.51695459999999
 Google Maps: https://www.google.com/maps?cid=12805482459345807970
 Place Id: ChIJDdzLFDxbspERYmrNTnM2trE
 Fotos: Nicole Moda.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B0R8erWgG3QkyWnfGLgLOA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=41.14526&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

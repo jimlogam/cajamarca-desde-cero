@@ -13,4 +13,5 @@ Longitud: -78.52108609999999
 Google Maps: https://www.google.com/maps?cid=947750027574967751
 Place Id: ChIJWax4pFhaspERx_148aAVJw0
 Fotos: CASA TORO SRL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YfK8nEEEYLYx_AsAy4wH3g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=58.12561&pitch=0&thumbfov=100
 

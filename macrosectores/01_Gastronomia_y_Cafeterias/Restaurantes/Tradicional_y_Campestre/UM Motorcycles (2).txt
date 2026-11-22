@@ -13,5 +13,6 @@ Longitud: -78.51858299999999
 Google Maps: https://www.google.com/maps?cid=2725440652271329339
 Place Id: ChIJ4-IzWPhaspERO6AKT9W10iU
 Fotos: UM Motorcycles (2).jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tcZP8TAJrkQqnvlzI3Li2A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=327.57742&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

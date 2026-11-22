@@ -13,5 +13,6 @@ Longitud: -78.50970629999999
 Google Maps: https://www.google.com/maps?cid=3555711330597034191
 Place Id: ChIJaXNscYFbspERz1gRwJ1sWDE
 Fotos: Lácteos Villalac.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TSDE08GVB4TQeSCiTay3Hw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=93.12465&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

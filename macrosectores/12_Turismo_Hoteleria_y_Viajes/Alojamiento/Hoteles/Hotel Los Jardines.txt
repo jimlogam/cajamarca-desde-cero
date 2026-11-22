@@ -13,4 +13,5 @@ Longitud: -78.5244084
 Google Maps: https://www.google.com/maps?cid=11206578069850460403
 Place Id: ChIJ87SppBpbspER85AeKWHDhZs
 Fotos: Hotel Los Jardines.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdshUXGOkiMeN8dRpUwTYUKl0YTRII2JiLXjJl_iyvIlrLYkokWKyBvLHCO_dwYPwKm4vQkrqGpNG73TUZpniEjozk2ShD26uaadg-KJohf_YOxm4rW2vS7by04c8TTvEtXd6D5=w1600-h1200-k-no
 

@@ -13,5 +13,6 @@ Longitud: -78.509996
 Google Maps: https://www.google.com/maps?cid=11430290301663512887
 Place Id: ChIJNbwV0itbspERNwk_FniMoJ4
 Fotos: Mundo Glass Servicios Generales E.I.R.L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IjMTlrEAJUaieuR6ziYovg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=245.35365&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

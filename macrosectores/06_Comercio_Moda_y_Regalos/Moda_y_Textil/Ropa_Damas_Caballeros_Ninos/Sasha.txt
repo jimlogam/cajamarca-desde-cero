@@ -13,5 +13,6 @@ Longitud: -78.5029263
 Google Maps: https://www.google.com/maps?cid=2507188454029911145
 Place Id: ChIJX1GYLhJbspERaeRpg51SyyI
 Fotos: Sasha.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcpGVihucExAn33rfF5e2cUtP2y5Y2Xc95qRCK-XF8t07ojFjG7KEtOlOqDlBsxglzHCmI8pccmuuqLAUluSSTToHh-j8iUF4VyEqJpBXKpQccEhlgrsBBV08ptUFFuIrT86hkvmA=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

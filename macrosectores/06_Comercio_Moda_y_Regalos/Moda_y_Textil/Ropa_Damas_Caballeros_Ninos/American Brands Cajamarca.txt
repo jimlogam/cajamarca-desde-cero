@@ -13,5 +13,6 @@ Longitud: -78.51737419999999
 Google Maps: https://www.google.com/maps?cid=11991245660905179161
 Place Id: ChIJr0kFsA9bspERGYiycGV2aaY
 Fotos: American Brands Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YK2EzY7B50ugVavnanG-vg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=54.940216&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

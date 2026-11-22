@@ -13,5 +13,6 @@ Longitud: -78.5211329
 Google Maps: https://www.google.com/maps?cid=13838641568999323646
 Place Id: ChIJ7authV9aspER_rcozi-7DMA
 Fotos: J & G Electro Mecanica.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QkduQce9EdFcy7rEGumiAQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=18.370481&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

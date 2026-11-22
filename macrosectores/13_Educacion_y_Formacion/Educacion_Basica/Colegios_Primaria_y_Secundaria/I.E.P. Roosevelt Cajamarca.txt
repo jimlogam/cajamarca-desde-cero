@@ -13,5 +13,6 @@ Longitud: -78.5144176
 Google Maps: https://www.google.com/maps?cid=7478402750939008993
 Place Id: ChIJibccPkJbspER4Q8GAa6fyGc
 Fotos: I.E.P. Roosevelt Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zPqKpLWtYTPqy52P9Gc6AA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=198.00354&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

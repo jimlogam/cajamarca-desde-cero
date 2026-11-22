@@ -13,3 +13,4 @@ Longitud: -78.518526
 Google Maps: https://www.google.com/maps?cid=2928389617815357525
 Place Id: ChIJDSog4-5bspERVYjTlde6oyg
 Fotos: Casa Diseños Angeles.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PfddFzdmz13qqVd-p2K7Ew&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=232.59714&pitch=0&thumbfov=100

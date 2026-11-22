@@ -13,4 +13,5 @@ Longitud: -78.5028244
 Google Maps: https://www.google.com/maps?cid=6111921232041851737
 Place Id: ChIJL2ucT2VbspERWbsFa_rn0VQ
 Fotos: Abiva Chocolatería.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLf-EcvlI_tuZw1_mB1irDR8OZI3Fv3NtAngGzevNB5K7DVRSGesGYAZr4VGNe9mRiWJtLB115BtBxhKhCS0OjlZAKgbT18mOZzHFBwYrkIkMSXCkXRvha3EmCOCB4EL0Ur3_29ePaCw4W0F=w1600-h1200-k-no
 

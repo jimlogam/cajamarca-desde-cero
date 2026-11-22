@@ -13,5 +13,6 @@ Longitud: -78.509484
 Google Maps: https://www.google.com/maps?cid=10093717644497503094
 Place Id: ChIJ9-yr1QJbspERdsNdB7gWFIw
 Fotos: Librería - Bazar Virgen De La Puerta.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pkjR9t_fWy3NuEFr9wJpJA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=200.1418&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

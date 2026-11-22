@@ -13,5 +13,6 @@ Longitud: -78.52371459999999
 Google Maps: https://www.google.com/maps?cid=13074864640738418058
 Place Id: ChIJXS36CvhbspERil2H_R1Ac7U
 Fotos: Resto-Bar El Molino.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLflzXrgLC4MXsmj2oPCv6ayM1p_pVRAJvgz6YhUkPywH_SX7KvcC3BRPKWnwyudOYX_EWyA00obRGJWI6sGgBVEPjDC6TXEIWv4SR3Eu5T99epCORs95Iq2FCgqsyGrpeiqyPOOO-mGQ1BY=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

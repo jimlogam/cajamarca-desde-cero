@@ -13,5 +13,6 @@ Longitud: -78.5225253
 Google Maps: https://www.google.com/maps?cid=3186805367646937560
 Place Id: ChIJp3YrSXpbspER2GHn8pjOOSw
 Fotos: Hotel La Hispana.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLeUvCnjpMjMazVLeC2gV4Uht9RqX8zzuHHg7h7spW-lHWxOTO8OW93zMdLApLk0AIavOUdHnIIFBxUyxppHQ3L_eL8bo_z8NW7UioFzIgY4IRmbZGUChOrfExxNEN4kJNCrHek=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,3 +13,4 @@ Longitud: -78.5093811
 Google Maps: https://www.google.com/maps?cid=4222097073967513028
 Place Id: ChIJ-8qusdVbspERxL0MTevmlzo
 Fotos: Panadería RITA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4ShiS0DPgtLpSAEFl1KzMA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=139.84177&pitch=0&thumbfov=100

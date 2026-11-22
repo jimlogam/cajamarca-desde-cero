@@ -13,5 +13,6 @@ Longitud: -78.5156909
 Google Maps: https://www.google.com/maps?cid=14786766339221295230
 Place Id: ChIJ6x9aytNbspERfhD9UaQlNc0
 Fotos: Mega Soluciones Flores.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CHbOcT3Swnc4V4vHHWMYVg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=343.90414&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

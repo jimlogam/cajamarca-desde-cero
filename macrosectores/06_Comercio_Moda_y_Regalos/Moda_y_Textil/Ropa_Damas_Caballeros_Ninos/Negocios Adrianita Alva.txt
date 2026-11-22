@@ -13,5 +13,6 @@ Longitud: -78.5230249
 Google Maps: https://www.google.com/maps?cid=8097578817019879505
 Place Id: ChIJ4a7oJBFbspERUaAyAQhhYHA
 Fotos: Negocios Adrianita Alva.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B252_Eewh-zPcmOccCfmWg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=124.55225&pitch=0&thumbfov=100
 Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

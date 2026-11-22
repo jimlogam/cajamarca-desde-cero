@@ -13,5 +13,6 @@ Longitud: -78.5078508
 Google Maps: https://www.google.com/maps?cid=12214805110254049870
 Place Id: ChIJqesTrC9bspERTppR7Ye0g6k
 Fotos: Ferreteria RH EL ALBAÑIL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zBTw98zoD0yfxWafnNZZ3g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=277.44095&pitch=-4.0554256&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

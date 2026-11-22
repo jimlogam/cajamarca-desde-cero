@@ -13,4 +13,5 @@ Longitud: -78.51761619999999
 Google Maps: https://www.google.com/maps?cid=17970868895077144756
 Place Id: ChIJcZDDCwVbspERtJgw3AtaZfk
 Fotos: Jugueria Nancy's Puesto #56.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLd2pHZsi-8VEn1lkbot5iARbRxSjKVfWG4tYMIKHoWRXleJEkMUcInY7ql1ahChBMIgLbUwdkiwdlUyMExOM0D4lkUTnf_EKaCHgBvgmiwJEKrJNRs35pNaevnlQrNyywTk7jo=w1600-h1200-k-no
 

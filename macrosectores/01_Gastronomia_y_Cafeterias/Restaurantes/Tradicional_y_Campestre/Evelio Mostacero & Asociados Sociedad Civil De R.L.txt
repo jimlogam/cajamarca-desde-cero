@@ -13,5 +13,6 @@ Longitud: -78.500969
 Google Maps: https://www.google.com/maps?cid=13044143134368785888
 Place Id: ChIJUcRQ1OtaspER4OVm4xEbBrU
 Fotos: Evelio Mostacero & Asociados Sociedad Civil De R.L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xi1qg2kAcI1qeXy4E4tBNw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=158.33495&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

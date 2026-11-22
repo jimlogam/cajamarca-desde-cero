@@ -13,4 +13,5 @@ Longitud: -78.5113456
 Google Maps: https://www.google.com/maps?cid=6769663806264653501
 Place Id: ChIJeS39bg5bspERvTY5VV2t8l0
 Fotos: Terrazas.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Y_4tSD7GJRZJ0XMhGb8n6w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=299.6378&pitch=1.220791&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -13,5 +13,6 @@ Longitud: -78.5160393
 Google Maps: https://www.google.com/maps?cid=11768650343673583489
 Place Id: ChIJG-Eax4haspERgVdxdCKlUqM
 Fotos: Los Alpes.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLeeofr4HdiMNTFYktQ3PdfXdStkGVAQMAkpQrLUJPofZkveVvPwMEwb8gpU40Taa46qWMVJ3v0FOoojTgnmifMy8QpzfpzZ5GsOyR6lUKSuFf8L4wMSJHSQm0DmjPjFAP2DFhM=w1600-h1200-k-no
 Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,4 +13,5 @@ Longitud: -78.50098489999999
 Google Maps: https://www.google.com/maps?cid=12405533908779486170
 Place Id: ChIJa5JrBx5bspER2kvd2VxPKaw
 Fotos: Jardin arcoiris kids.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdAfctDyyZNQNX2HDsl3bnmLQ5Rc4--aJxlvU933YY5LVmxQElpdq03spxBg7QG1gBlqgQH3GrOdM_U9rmbl5MR7ZryOvUFPfQ9BIF-cowJogKTb7a3fINzpSKOqLBgZJmniTm6=w1600-h1200-k-no
 

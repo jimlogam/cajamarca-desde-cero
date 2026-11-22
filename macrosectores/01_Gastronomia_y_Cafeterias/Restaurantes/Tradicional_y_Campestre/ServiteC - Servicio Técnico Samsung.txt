@@ -13,5 +13,6 @@ Longitud: -78.5184159
 Google Maps: https://www.google.com/maps?cid=2334718117305282087
 Place Id: ChIJN-6lumdbspERJ26mAMKVZiA
 Fotos: ServiteC - Servicio Técnico Samsung.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gDmgjE1buCFL-Dm-hOOyOg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=26.69929&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

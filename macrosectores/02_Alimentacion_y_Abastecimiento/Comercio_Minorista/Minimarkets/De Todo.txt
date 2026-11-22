@@ -13,4 +13,5 @@ Longitud: -78.51278549999999
 Google Maps: https://www.google.com/maps?cid=6742771645323218341
 Place Id: ChIJL1ElQhdbspERpQ0RMRYjk10
 Fotos: De Todo.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AoNYP10UAcI3Yc_yIQjbBQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=19.83564&pitch=0&thumbfov=100
 

@@ -13,5 +13,6 @@ Longitud: -78.5163718
 Google Maps: https://www.google.com/maps?cid=3378387973766159786
 Place Id: ChIJg21CH_RaspERqp3IcfZx4i4
 Fotos: SGIT.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9dPiQtE5S7nMZl0k7Q-Ixg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=335.0637&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

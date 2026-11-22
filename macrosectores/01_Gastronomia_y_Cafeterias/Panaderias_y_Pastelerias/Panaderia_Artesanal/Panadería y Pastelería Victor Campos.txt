@@ -13,3 +13,4 @@ Longitud: -78.4921772
 Google Maps: https://www.google.com/maps?cid=13353250834499647861
 Place Id: ChIJHVOU3QlbspERdTkKq-JGULk
 Fotos: Panadería y Pastelería Victor Campos.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BsGkGLQTQ6x9Lr2o_-_tag&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=62.445744&pitch=0&thumbfov=100

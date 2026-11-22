@@ -13,5 +13,6 @@ Longitud: -78.5039742
 Google Maps: https://www.google.com/maps?cid=16981894061427652183
 Place Id: ChIJz65T-RtbspERV_a1yKzOq-s
 Fotos: Marifarma Botica - Perfumeria.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1isHKlct01z0tAMMgSXiug&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=251.13573&pitch=0.8838936&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

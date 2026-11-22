@@ -13,4 +13,5 @@ Longitud: -78.5104714
 Google Maps: https://www.google.com/maps?cid=17418741728123868767
 Place Id: ChIJI_ZbWM5bspERX9YYM1DNu_E
 Fotos: Helados Artesanales Ricko's.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcPFttv-vvSdA2ewTFb35mGN_l28RdmY8we9YYh0NYDtXjxFjlJET5ra0kv9i0fsb7-p457_MipGgfi33mCoWHkadvCCeiXWw7z6OKkGdlxd-zj35h3sZy-dIstD6TnlvTNztkh=w1600-h1200-k-no
 

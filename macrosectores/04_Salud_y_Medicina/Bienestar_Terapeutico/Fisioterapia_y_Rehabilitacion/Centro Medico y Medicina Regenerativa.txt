@@ -13,5 +13,6 @@ Longitud: -78.5056264
 Google Maps: https://www.google.com/maps?cid=9584630036929345326
 Place Id: ChIJj8q0YPRbspERLne2rjxyA4U
 Fotos: Centro Medico y Medicina Regenerativa.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DRbz5eVfEj9Uf187Iw6Llg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=96.861046&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

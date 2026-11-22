@@ -13,5 +13,6 @@ Longitud: -78.5025817
 Google Maps: https://www.google.com/maps?cid=9699821656821602879
 Place Id: ChIJA5CSgR9bspERPxp-r2ewnIY
 Fotos: Castañas Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=L7XJHMYFRXXC_vqry8Rurg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=38.1573&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
 

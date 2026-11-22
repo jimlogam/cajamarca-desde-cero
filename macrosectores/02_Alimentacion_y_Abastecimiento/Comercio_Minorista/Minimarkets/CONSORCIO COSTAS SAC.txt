@@ -13,5 +13,6 @@ Longitud: -78.5211114
 Google Maps: https://www.google.com/maps?cid=5872789670383480865
 Place Id: ChIJ_SiQ21daspERIXDK_xZXgFE
 Fotos: CONSORCIO COSTAS SAC.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-OL6QuGPq_mklGN2QooJvQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=130.36018&pitch=0&thumbfov=100
 Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

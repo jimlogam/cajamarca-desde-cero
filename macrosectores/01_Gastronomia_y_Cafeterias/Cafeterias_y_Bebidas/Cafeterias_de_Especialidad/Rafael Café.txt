@@ -13,4 +13,5 @@ Longitud: -78.51523069999999
 Google Maps: https://www.google.com/maps?cid=6829674231442301394
 Place Id: ChIJBaz0SABbspER0uHBQIfgx14
 Fotos: Rafael Café.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcQ4WVmCMGi-3IKeBHDO1MZUpJ81KNaEgqbZCSsHEI49zPDnSIf8q8hok2Z4bdn1Crq0crQ1ATOxQV47w41tOkspQ6fpplQ8D6ga318RY1fwCxiua-T4eK7HMISYo5KYKnYVm0nJhc3tbJZ=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

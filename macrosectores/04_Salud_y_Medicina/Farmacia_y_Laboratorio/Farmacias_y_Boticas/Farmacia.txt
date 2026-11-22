@@ -13,5 +13,6 @@ Longitud: -78.5072951
 Google Maps: https://www.google.com/maps?cid=10532491438934103393
 Place Id: ChIJ1ZtRcBBbspERYZWCASntKpI
 Fotos: Farmacia.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zy10-GtHhjm1HfmY9AzWXg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=192.29556&pitch=2.1599894&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

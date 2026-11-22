@@ -13,5 +13,6 @@ Longitud: -78.5204059
 Google Maps: https://www.google.com/maps?cid=4578040233488304835
 Place Id: ChIJG4mR_jVbspERw0qEPFZ3iD8
 Fotos: Agropecuaria Caxamarca S.R.L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HCxI9T6A_p9bN6a1hM-4Xg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=283.15897&pitch=1.3033456&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

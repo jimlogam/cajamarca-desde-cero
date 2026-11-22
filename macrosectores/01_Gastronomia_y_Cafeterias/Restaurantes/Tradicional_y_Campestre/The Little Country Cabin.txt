@@ -13,5 +13,6 @@ Longitud: -78.5215353
 Google Maps: https://www.google.com/maps?cid=5167095373274359650
 Place Id: ChIJZTgGkV9aspERYieVlN01tUc
 Fotos: The Little Country Cabin.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-EKWPrs5YjWZIHf7QX5_0w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=28.169268&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

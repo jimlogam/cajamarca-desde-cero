@@ -13,4 +13,5 @@ Longitud: -78.5220001
 Google Maps: https://www.google.com/maps?cid=10030659411839555595
 Place Id: ChIJrxwgcnJbspERCxigIZcPNIs
 Fotos: Ke Krearte Pastelería y Craft.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4T7Q_UFkRFJHIeN3_FtirA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=280.67847&pitch=0&thumbfov=100
 

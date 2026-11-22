@@ -13,5 +13,6 @@ Longitud: -78.4988726
 Google Maps: https://www.google.com/maps?cid=7366596178589769674
 Place Id: ChIJW55YjhhbspERyt-XzDFoO2Y
 Fotos: Farmacia Salud Y Vida.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oOHn2C6L_HZkcyLyP-cm4Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=58.42187&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

@@ -13,4 +13,5 @@ Longitud: -78.50989899999999
 Google Maps: https://www.google.com/maps?cid=11975521155924769026
 Place Id: ChIJAxBmbY5bspERAjkS0wqZMaY
 Fotos: Ferretería Cruz de motupe.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=r_KivrOkXOiIjPelGDPclw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=260.1418&pitch=0&thumbfov=100
 

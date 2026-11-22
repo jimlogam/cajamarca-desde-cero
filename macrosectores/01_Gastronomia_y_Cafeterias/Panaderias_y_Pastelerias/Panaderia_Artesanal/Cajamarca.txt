@@ -13,3 +13,4 @@ Longitud: -78.50078669999999
 Google Maps: https://www.google.com/maps?cid=7638147323922160698
 Place Id: ChIJMeOROABbspEROhx7wIUmAGo
 Fotos: Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=r6uySdqSIdHAn-KHq2pRJg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=333.17514&pitch=0&thumbfov=100

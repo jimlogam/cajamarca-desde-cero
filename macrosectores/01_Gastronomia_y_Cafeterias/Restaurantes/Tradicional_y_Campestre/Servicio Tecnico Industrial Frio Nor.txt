@@ -13,5 +13,6 @@ Longitud: -78.4912578
 Google Maps: https://www.google.com/maps?cid=1413231905808050677
 Place Id: ChIJJTi4xDhbspER9envQu7OnBM
 Fotos: Servicio Tecnico Industrial Frio Nor.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e41kgHiv-6rebbNv_2_p4Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=168.32755&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
 

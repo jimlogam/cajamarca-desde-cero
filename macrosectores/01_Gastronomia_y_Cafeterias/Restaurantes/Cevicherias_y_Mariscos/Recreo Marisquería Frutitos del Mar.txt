@@ -13,3 +13,4 @@ Longitud: -78.51274959999999
 Google Maps: https://www.google.com/maps?cid=11544410221351615227
 Place Id: ChIJzzZvT49bspER-zoNce77NaA
 Fotos: Recreo Marisquería Frutitos del Mar.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=utN72Ba3IVRlbMQEBBV3YQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=22.07787&pitch=0&thumbfov=100

@@ -13,5 +13,6 @@ Longitud: -78.5173336
 Google Maps: https://www.google.com/maps?cid=2943530922669914113
 Place Id: ChIJ_7W_zvlaspERATgeV8eF2Sg
 Fotos: Centro Comercial Sagitario.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfP9dMGCE-QMksbaYYPaEnk27dTG95YyFDSFchHDdgmkkSmkyn3z8iNBjjOXIz3wkm7vCWoGMVYmLEbXHqSqL2bbeIn_x3ANKl_dNdt384e6qBxAuKpG76LjSahA_2bRmBZq7A6RA=w1600-h1200-k-no
 Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

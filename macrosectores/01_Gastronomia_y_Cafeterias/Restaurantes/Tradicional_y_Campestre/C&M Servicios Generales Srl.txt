@@ -13,5 +13,6 @@ Longitud: -78.5076746
 Google Maps: https://www.google.com/maps?cid=18336082875440949874
 Place Id: ChIJj2bh5hxbspERcurH-jnadv4
 Fotos: C&M Servicios Generales Srl.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zvwS_9MMJNPpjswjqgkC4Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=106.09549&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
 

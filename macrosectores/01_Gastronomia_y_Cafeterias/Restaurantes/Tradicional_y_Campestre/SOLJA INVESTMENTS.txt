@@ -13,5 +13,6 @@ Longitud: -78.4991277
 Google Maps: https://www.google.com/maps?cid=143309304924316603
 Place Id: ChIJpbZQnh9bspERu6MFtQ0j_QE
 Fotos: SOLJA INVESTMENTS.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d0SZOumtCD2M-Jcs5zV6RQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=182.72789&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

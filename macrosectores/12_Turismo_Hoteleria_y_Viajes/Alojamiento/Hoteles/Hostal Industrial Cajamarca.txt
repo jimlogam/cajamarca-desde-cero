@@ -13,5 +13,6 @@ Longitud: -78.486999
 Google Maps: https://www.google.com/maps?cid=18346988799368491060
 Place Id: ChIJ43djckBbspERNPBtRBuZnf4
 Fotos: Hostal Industrial Cajamarca.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdOcgf4iDI5hPmnhGZrTHY_9lVYw68gGknTfdxtVBI-pwGERHIOKRgblplNE2KFhNbaZjhsAZGil03UiPw763kQXb1FLedKgTmCXwW5etQsaf82PxccoeAknnWwf6nuGKgG_mJRcQ=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

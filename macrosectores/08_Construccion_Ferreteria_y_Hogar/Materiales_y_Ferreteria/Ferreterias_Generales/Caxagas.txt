@@ -13,4 +13,5 @@ Longitud: -78.5164594
 Google Maps: https://www.google.com/maps?cid=17636624747959683498
 Place Id: ChIJrx6DM_9aspERqgkA88PgwfQ
 Fotos: Caxagas.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLc3XOCLzsd5-Hl-RldURmztDA-rSHStRkxP1EMNWha0GqeteHWvqS2WBvIdXJzm7p_rf33S8019gsRGZk7CoyWIZphC0EEsVMId09B74_kiOqumBoeGJOBlla3PN4O-FO3aj0UJ=w1600-h1200-k-no
 

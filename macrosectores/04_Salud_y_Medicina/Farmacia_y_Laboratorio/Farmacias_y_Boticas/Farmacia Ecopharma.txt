@@ -13,5 +13,6 @@ Longitud: -78.5181654
 Google Maps: https://www.google.com/maps?cid=9094933625942960598
 Place Id: ChIJ9yXLnvdaspER1ukVHvKxN34
 Fotos: Farmacia Ecopharma.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UK3A80YDCMHWTUR32yCrSg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=175.43826&pitch=2.9549239&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

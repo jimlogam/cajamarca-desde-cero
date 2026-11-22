@@ -13,4 +13,5 @@ Longitud: -78.5082491
 Google Maps: https://www.google.com/maps?cid=14839869674209497679
 Place Id: ChIJn7bKlvFbspERT1JZ_NfO8c0
 Fotos: Restaurante y pollería sabor norteño el rincón de juancito.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FRrAvDapto1lkyZ_qDokiA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=249.78128&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

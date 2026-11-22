@@ -13,5 +13,6 @@ Longitud: -78.4993329
 Google Maps: https://www.google.com/maps?cid=9789499307194577578
 Place Id: ChIJN7UcKhpbspERqvJDvsBJ24c
 Fotos: Inelcos SRL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oTYGZjUGBizSYGziSScQfw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=83.44042&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

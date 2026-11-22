@@ -13,5 +13,6 @@ Longitud: -78.51676479999999
 Google Maps: https://www.google.com/maps?cid=12768460881175685172
 Place Id: ChIJMZteCflaspERNKjyboWvMrE
 Fotos: Ferreteria JSV.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLc9HNhpYALcNxhtMjryqvAgyMt0u51W__rBC6ZMwdIDDUMDEdbh7sFAW_CW4lZlaz4ioUG30U5LSzwBNqjw3eANPZ65ReFKQEdMX4eJKRuqh11V6suvJZ8os8yMRMXmyOVaHmJpKg=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

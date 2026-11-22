@@ -13,4 +13,5 @@ Longitud: -78.5042023
 Google Maps: https://www.google.com/maps?cid=15845055024007029638
 Place Id: ChIJ1dPgkmY3Oa0RhiN1-Jfx5Ns
 Fotos: Finca cacautera.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcnKsSQfChB5VM-OP7DyJuhscBNP0zdA35LiESoJ139rASLXqikNrzpXKJt_3PI0iS3mkvP7CRcQylxH7iGNbZr5wgDZTMZ1sX8ieOpvtDrd5gOABDin81bO76vZNH8-YT1cZIUEg=w1600-h1200-k-no
 

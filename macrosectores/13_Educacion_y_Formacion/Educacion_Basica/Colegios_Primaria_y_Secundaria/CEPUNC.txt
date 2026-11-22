@@ -13,5 +13,6 @@ Longitud: -78.52499879999999
 Google Maps: https://www.google.com/maps?cid=16161331105124809884
 Place Id: ChIJTwENFlRaspERnHxvggOVSOA
 Fotos: CEPUNC.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdBZnBUWPJAF6kK9MwyYC098kWkoHQhwCmE8zS9EF4RqAecnSNVHfE3VJZk3rmb_uDIN7L-obyl7D6-61GNH1Nni33FdQ9gyG-DsRRjPOcRcunRibJThW23tTmHQPaqIzKF1Woo=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

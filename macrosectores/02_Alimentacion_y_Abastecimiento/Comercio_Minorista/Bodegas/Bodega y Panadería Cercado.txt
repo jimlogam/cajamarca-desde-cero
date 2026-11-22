@@ -13,4 +13,5 @@ Longitud: -78.5244695
 Google Maps: https://www.google.com/maps?cid=14153179393852867723
 Place Id: ChIJD3f3le5bspERi4T6BKwxasQ
 Fotos: Bodega y Panadería Cercado.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9k0EmZYPBl_CWiK6U_d66w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=59.06135&pitch=0&thumbfov=100
 

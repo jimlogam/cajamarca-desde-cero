@@ -13,5 +13,6 @@ Longitud: -78.5041607
 Google Maps: https://www.google.com/maps?cid=12057754561786637889
 Place Id: ChIJAc0ABRxbspERQW4jpOO_Vac
 Fotos: Jugueria Anghela.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hULoRi2Y6psoXWuX7W2HTw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=30.235518&pitch=2.9878414&thumbfov=100
 Nota: Sin categoria en Maps; clasificado por el nombre.
 

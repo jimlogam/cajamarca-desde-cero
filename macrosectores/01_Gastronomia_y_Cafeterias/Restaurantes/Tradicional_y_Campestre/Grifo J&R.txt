@@ -13,5 +13,6 @@ Longitud: -78.5066291
 Google Maps: https://www.google.com/maps?cid=14276528894935543084
 Place Id: ChIJnf-8SgBbspERLK07wGNrIMY
 Fotos: Grifo J&R.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zyDQNyApfMzc1_60dHwYaA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=234.6018&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.4998894
 Google Maps: https://www.google.com/maps?cid=6600049073447546848
 Place Id: ChIJb0o7iLtbspER4K_86qkVmFs
 Fotos: Piura.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=J7EV4vaD3bqbCkz3EONjRA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=73.924095&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

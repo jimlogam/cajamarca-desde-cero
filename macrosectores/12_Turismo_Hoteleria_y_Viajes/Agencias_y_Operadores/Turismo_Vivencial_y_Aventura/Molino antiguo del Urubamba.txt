@@ -13,5 +13,6 @@ Longitud: -78.5293555
 Google Maps: https://www.google.com/maps?cid=12678257297063976409
 Place Id: ChIJQfms8vhbspER2Z2A4tY38q8
 Fotos: Molino antiguo del Urubamba.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=asPdIxy-RCNrJsk_v1msvw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=163.58342&pitch=0&thumbfov=100
 Nota: Atraccion turistica, no es un negocio Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

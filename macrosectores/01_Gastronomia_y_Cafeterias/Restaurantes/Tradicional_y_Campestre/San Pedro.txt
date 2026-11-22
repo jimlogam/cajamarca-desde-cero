@@ -13,5 +13,6 @@ Longitud: -78.49918699999999
 Google Maps: https://www.google.com/maps?cid=10142104586250862581
 Place Id: ChIJr_ZENQBbspER9b9X0mL-v4w
 Fotos: San Pedro.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iHVd_2h8NzGUC02RejFrSA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=116.66173&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

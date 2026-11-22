@@ -13,5 +13,6 @@ Longitud: -78.49494849999999
 Google Maps: https://www.google.com/maps?cid=16992502316445877739
 Place Id: ChIJrzpwF_tbspER60XCoNN-0es
 Fotos: PRODUCTOS BELLEZA YULY.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Wblzaowep3zy--1ArH_Pvg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=205.42482&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

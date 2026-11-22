@@ -13,5 +13,6 @@ Longitud: -78.5068654
 Google Maps: https://www.google.com/maps?cid=12214222533154361521
 Place Id: ChIJJZs-cm1bspERsdA8IK6igak
 Fotos: ESDEP - CAJAMARCA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WASGAX4zHLblNzg8isONew&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=194.1189&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

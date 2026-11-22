@@ -13,4 +13,5 @@ Longitud: -78.5035766
 Google Maps: https://www.google.com/maps?cid=12996566594321512132
 Place Id: ChIJk6uWBFtbspERxPY9cnUUXbQ
 Fotos: La Plantita Guapa.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLeHhjlKMuCQIAdtesBMT1rCs4gyQHeBMPOxEBectH2-artEZEzp8SLPL35kSGYy-oOJN4IN83xI9s2UEPfaTWKw3HrqyPJHHo_ebDRnR-KKdVDYP8kgHzavbStOkbK07dkvaM0=w1600-h1200-k-no
 

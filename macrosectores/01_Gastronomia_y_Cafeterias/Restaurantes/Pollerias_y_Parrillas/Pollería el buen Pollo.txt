@@ -13,4 +13,5 @@ Longitud: -78.5025397
 Google Maps: https://www.google.com/maps?cid=322897129747108273
 Place Id: ChIJpxCmch5bspERsdGRjTopewQ
 Fotos: Pollería el buen Pollo.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OIeIZjE3Gv1wVcm_5ImoLw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=71.85011&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

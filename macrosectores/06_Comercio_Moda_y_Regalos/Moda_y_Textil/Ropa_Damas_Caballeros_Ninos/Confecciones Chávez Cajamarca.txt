@@ -13,5 +13,6 @@ Longitud: -78.522381
 Google Maps: https://www.google.com/maps?cid=11292924331176727113
 Place Id: ChIJQfxXfERbspERSZInw9iGuJw
 Fotos: Confecciones Chávez Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ELvL1LXOSgOWk_WZ5iZpQg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=150.42172&pitch=0&thumbfov=100
 Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

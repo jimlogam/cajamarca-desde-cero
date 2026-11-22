@@ -13,5 +13,6 @@ Longitud: -78.51602179999999
 Google Maps: https://www.google.com/maps?cid=8143343064168406086
 Place Id: ChIJhWUkk6JbspERRhzmH1_3AnE
 Fotos: Yelka Salón y Spa.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Qq8DsCF-7pmr7A1ay08qYg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=221.27075&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

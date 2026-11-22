@@ -13,5 +13,6 @@ Longitud: -78.52166749999999
 Google Maps: https://www.google.com/maps?cid=865891738393517098
 Place Id: ChIJp5XEYs5bspERKhzkyPJDBAw
 Fotos: Casa Wayra.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfZmv6E3OwlDrMvMv829RyiWh7rCcEnYphImeRDYvjPWsM09cSmtJQwfTMFwV8UqSD8pRqjzTKEZKoaQrbu_Aft-UnwE0QKQU4tHhIC50N0g5yckmzB9XBk_r6cByvb4GH-irI=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

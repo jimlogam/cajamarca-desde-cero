@@ -13,5 +13,6 @@ Longitud: -78.4872568
 Google Maps: https://www.google.com/maps?cid=16922344567044458636
 Place Id: ChIJbRX9FABbspERjEhyrbk-2Oo
 Fotos: Transportes Sagitario.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=O8lqiDVFNbFpBcA_uZoqWQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=31.859375&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

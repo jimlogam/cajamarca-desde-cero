@@ -13,5 +13,6 @@ Longitud: -78.5061731
 Google Maps: https://www.google.com/maps?cid=681494748314263539
 Place Id: ChIJrW37V8lbspER89-Q5dwndQk
 Fotos: Empalagosos Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UzEITumZqWTSgh92Wd9MDw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=102.696594&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
 

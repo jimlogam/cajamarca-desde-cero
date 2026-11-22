@@ -13,3 +13,4 @@ Longitud: -78.50641999999999
 Google Maps: https://www.google.com/maps?cid=7805954918972726150
 Place Id: ChIJKz1PGwBbspERhhsVHqRSVGw
 Fotos: Anticuchería.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9i_H6YHifHWTO4Imc0gSUQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=19.0259&pitch=0&thumbfov=100

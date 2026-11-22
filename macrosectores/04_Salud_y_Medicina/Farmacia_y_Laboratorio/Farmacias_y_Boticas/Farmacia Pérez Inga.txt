@@ -13,5 +13,6 @@ Longitud: -78.5246219
 Google Maps: https://www.google.com/maps?cid=654948681036297533
 Place Id: ChIJYeHM6FZaspERPXVH91rYFgk
 Fotos: Farmacia Pérez Inga.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dLf9LcvAzcOfQ4dhq_NJzw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=192.668&pitch=-0.40362722&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

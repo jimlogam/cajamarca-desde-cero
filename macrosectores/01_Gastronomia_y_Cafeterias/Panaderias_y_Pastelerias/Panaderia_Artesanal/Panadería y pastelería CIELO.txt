@@ -13,5 +13,6 @@ Longitud: -78.4571923
 Google Maps: https://www.google.com/maps?cid=2425029931109440961
 Place Id: ChIJvUGowKdFspERwd13vd9vpyE
 Fotos: Panadería y pastelería CIELO.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdU9aa-E438Y00iVAzbpmbmojW03nGgserEtAp9Kcan9BULOkZWJx70REpLVxEW8ZmjZEphrJuEgcCvU0HhXsbxs_8CXLdCmTzlVDQVmKtgEiyW-W08a3scMixOmwU_VpeVFIwekA=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

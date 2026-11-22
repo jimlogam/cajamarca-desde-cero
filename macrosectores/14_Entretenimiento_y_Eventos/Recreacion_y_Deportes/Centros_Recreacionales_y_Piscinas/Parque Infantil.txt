@@ -13,5 +13,6 @@ Longitud: -78.49503469999999
 Google Maps: https://www.google.com/maps?cid=12892285446148589075
 Place Id: ChIJVw86OgBbspEREwagmE6Z6rI
 Fotos: Parque Infantil.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLft0CY45UU5VrRN0KTkLA-k4_Fx2zGDmI9UIq9Sbaq-_45XjPTEvHSa3NAuX2kWzIrU6q3uwNxCbzkPF_WUo2lQOlh4s1iBHDtNQr7c2VgdS4SbQICbywu81sjiAVUSt9hlv8Ce=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

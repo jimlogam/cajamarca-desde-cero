@@ -13,5 +13,6 @@ Longitud: -78.5059109
 Google Maps: https://www.google.com/maps?cid=4842262577599395360
 Place Id: ChIJKQFrN4dbspERILb6rigsM0M
 Fotos: CAT.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLc6l08T9vDd8ozXcasUJDezi1vCw4z-k9X-6qnkTiOdJt7cVcGXenEGCPlsm-Luotd-Xbdn5gnaVcdOa5F0PWStCOReSH7N9jlf1ytmrEdrWT7Qya9b9kCCAt8X9P5hF21joSvsjQ=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.50820499999999
 Google Maps: https://www.google.com/maps?cid=12080369849579544870
 Place Id: ChIJqRZFjb9bspERJiGHp18Ypqc
 Fotos: Axford.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6JmDQnZt9kfhKEyQcyY9WA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=30.454304&pitch=0&thumbfov=100
 Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

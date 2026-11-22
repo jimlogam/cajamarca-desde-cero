@@ -13,5 +13,6 @@ Longitud: -78.489364
 Google Maps: https://www.google.com/maps?cid=4490862869583499292
 Place Id: ChIJQbgYZABbspERHBCEfPy_Uj4
 Fotos: Estudio Contable JR & Asociados.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PsD9gI9CukcoQtdp6CV3Ew&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=49.647694&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

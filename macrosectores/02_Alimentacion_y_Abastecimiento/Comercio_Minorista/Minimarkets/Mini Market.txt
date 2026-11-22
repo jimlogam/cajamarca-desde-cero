@@ -13,5 +13,6 @@ Longitud: -78.5145934
 Google Maps: https://www.google.com/maps?cid=9289014601070249939
 Place Id: ChIJ_QPeo4xaspER04c1epA16YA
 Fotos: Mini Market.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CG9KZdfOMH9VOYEq21ajSg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=286.97656&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

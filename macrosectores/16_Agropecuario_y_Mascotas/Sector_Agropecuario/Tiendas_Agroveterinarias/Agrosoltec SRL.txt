@@ -13,4 +13,5 @@ Longitud: -78.5148676
 Google Maps: https://www.google.com/maps?cid=8961060841054637907
 Place Id: ChIJtU2dqvBaspERU4-5cVsVXHw
 Fotos: Agrosoltec SRL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iyFmQhjH0jNvcCyw_Ea6Pw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=285.43054&pitch=1.979024&thumbfov=100
 

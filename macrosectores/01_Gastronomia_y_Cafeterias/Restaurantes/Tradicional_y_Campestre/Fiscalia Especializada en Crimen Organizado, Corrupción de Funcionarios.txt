@@ -13,5 +13,6 @@ Longitud: -78.5139828
 Google Maps: https://www.google.com/maps?cid=2577211532192643012
 Place Id: ChIJn-jgKk5bspERxPdh3zsYxCM
 Fotos: Fiscalia Especializada en Crimen Organizado, Corrupción de Funcionarios.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=As2gAFLcVss4eL93NQWQpw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=119.31414&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.5268286
 Google Maps: https://www.google.com/maps?cid=12711366337756163242
 Place Id: ChIJRd2ElkVbspERqmzQI1bYZ7A
 Fotos: Ferretería JH.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZKvDndqm1TpRIjMV8GXc1Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=279.97357&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

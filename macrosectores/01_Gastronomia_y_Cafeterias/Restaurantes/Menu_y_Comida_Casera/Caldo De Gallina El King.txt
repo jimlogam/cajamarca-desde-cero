@@ -13,3 +13,4 @@ Longitud: -78.5056518
 Google Maps: https://www.google.com/maps?cid=5156888430161717137
 Place Id: ChIJgTu-uuNaspERkWcccrTykEc
 Fotos: Caldo De Gallina El King.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iYrBSWqQl23TFet5uOqkoA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=58.281395&pitch=4.8924384&thumbfov=100

@@ -13,5 +13,6 @@ Longitud: -78.51359409999999
 Google Maps: https://www.google.com/maps?cid=8125834958252464143
 Place Id: ChIJS1bMFL9bspERD9gWjtfDxHA
 Fotos: Negocios y multicervicios Alegria.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UMK8N2Wd4W-Dg01d7Tbexw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=330.47882&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 3 veces en los archivos de la cosecha original; fusionado en uno.
 

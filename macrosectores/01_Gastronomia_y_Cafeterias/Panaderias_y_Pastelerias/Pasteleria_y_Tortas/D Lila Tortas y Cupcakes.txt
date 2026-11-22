@@ -13,5 +13,6 @@ Longitud: -78.50930749999999
 Google Maps: https://www.google.com/maps?cid=14753427314366246804
 Place Id: ChIJzX8xS-VaspERlG9YtPmzvsw
 Fotos: D Lila Tortas y Cupcakes.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gQkuUaZp8WWmCnMwOCm_tw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=248.94101&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

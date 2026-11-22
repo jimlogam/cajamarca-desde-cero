@@ -13,5 +13,6 @@ Longitud: -78.5116345
 Google Maps: https://www.google.com/maps?cid=2645551372535977713
 Place Id: ChIJUbnNZSRbspER8dYN4_TitiQ
 Fotos: Carsolution.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wew03w_JVqGFRcNHMAlFyw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=350.89355&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

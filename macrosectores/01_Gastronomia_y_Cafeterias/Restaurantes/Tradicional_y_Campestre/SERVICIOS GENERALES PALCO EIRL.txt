@@ -13,5 +13,6 @@ Longitud: -78.5431887
 Google Maps: https://www.google.com/maps?cid=10879701043534437510
 Place Id: ChIJY0SkAvpbspERhhxRunR2_JY
 Fotos: SERVICIOS GENERALES PALCO EIRL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YMA4Tjrz20riuTg4CZ1JQA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=115.99516&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
 

@@ -13,5 +13,6 @@ Longitud: -78.51465019999999
 Google Maps: https://www.google.com/maps?cid=9349136988336940728
 Place Id: ChIJRSDEuHlbspERuOZJmo7OvoE
 Fotos: Imprenta Glaismar E.I.R.L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vg_BWGSlJaRUgvRbm68Nng&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=234.27464&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.5081754
 Google Maps: https://www.google.com/maps?cid=4329140436433009594
 Place Id: ChIJ25FNIx1bspERunteSEoyFDw
 Fotos: Boticas Aaron.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z_9-U7eanZ7_xjD3Se0xvw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=1.9753791&pitch=3.0520992&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

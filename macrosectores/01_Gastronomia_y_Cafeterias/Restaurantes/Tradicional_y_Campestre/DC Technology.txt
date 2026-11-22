@@ -13,5 +13,6 @@ Longitud: -78.5202798
 Google Maps: https://www.google.com/maps?cid=1836096343363710717
 Place Id: ChIJ7doxYgZbspER_W6Wb-Ufexk
 Fotos: DC Technology.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QDg3vUIdE27tR0uZcocvAg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=331.28943&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,4 +13,5 @@ Longitud: -78.4645669
 Google Maps: https://www.google.com/maps?cid=8344598972459820405
 Place Id: ChIJ2WyIHABFspERdaWOyo34zXM
 Fotos: JUGUERÍA Y PARRILLAS.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLen7Ib08iCG7sqVMSvyivrjL9PEgFkZvNRfagsDSWiF7FBUxjv9My3gFDl4ndjP9kLb_sxYJzuUii9fra9IwbUS7RMQFx4blBIx7uiAAKCAgOhKjb2dDUsTeIfFJz3lrMYMkq_ZPWZzWPFm=w1600-h1200-k-no
 

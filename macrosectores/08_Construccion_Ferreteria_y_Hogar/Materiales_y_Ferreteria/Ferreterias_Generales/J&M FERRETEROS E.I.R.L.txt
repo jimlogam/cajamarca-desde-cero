@@ -13,4 +13,5 @@ Longitud: -78.5057626
 Google Maps: https://www.google.com/maps?cid=4703023564109616996
 Place Id: ChIJAwzt40cNupERZJcLjQN_REE
 Fotos: J&M FERRETEROS E.I.R.L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SYRHrmgJSwDY6jiPzGeLvg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=142.31148&pitch=0&thumbfov=100
 

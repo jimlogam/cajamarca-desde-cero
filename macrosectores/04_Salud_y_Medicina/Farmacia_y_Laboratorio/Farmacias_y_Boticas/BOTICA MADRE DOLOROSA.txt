@@ -13,5 +13,6 @@ Longitud: -78.5044952
 Google Maps: https://www.google.com/maps?cid=5345604500199154863
 Place Id: ChIJmbYyjiRbspERr6QZgPhmL0o
 Fotos: BOTICA MADRE DOLOROSA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EnWTSGxtkZHX69Zcv_Akrg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=178.7837&pitch=1.0176749&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

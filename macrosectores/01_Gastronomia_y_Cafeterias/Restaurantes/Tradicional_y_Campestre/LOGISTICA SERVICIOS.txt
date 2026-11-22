@@ -13,5 +13,6 @@ Longitud: -78.5137919
 Google Maps: https://www.google.com/maps?cid=4960173934645102908
 Place Id: ChIJnyuCkY1bspERPEms1ukT1kQ
 Fotos: LOGISTICA SERVICIOS.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5NPW61Ea2kJ74GsNR2IGgA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=40.049454&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

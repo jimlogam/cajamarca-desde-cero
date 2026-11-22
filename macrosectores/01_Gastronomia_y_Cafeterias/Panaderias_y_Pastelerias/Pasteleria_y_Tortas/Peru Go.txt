@@ -13,4 +13,5 @@ Longitud: -78.4973775
 Google Maps: https://www.google.com/maps?cid=3871305242947119569
 Place Id: ChIJv8dl3B5bspER0Wn4fpujuTU
 Fotos: Peru Go.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HNZiZ9ciUuqOCXz7yzhYIA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=75.446075&pitch=0&thumbfov=100
 

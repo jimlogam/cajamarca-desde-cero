@@ -13,3 +13,4 @@ Longitud: -78.5122689
 Google Maps: https://www.google.com/maps?cid=6574172722068678514
 Place Id: ChIJpablCvFaspERcmf3XkInPFs
 Fotos: Chifa Bravo's.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dQQe_-MgnCTNGctKQ-GlEA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=77.205864&pitch=-6.8908343&thumbfov=100

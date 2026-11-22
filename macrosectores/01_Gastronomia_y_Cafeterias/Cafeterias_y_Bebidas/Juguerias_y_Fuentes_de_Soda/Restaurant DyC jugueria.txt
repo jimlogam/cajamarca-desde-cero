@@ -13,4 +13,5 @@ Longitud: -78.4990206
 Google Maps: https://www.google.com/maps?cid=18128197229990583206
 Place Id: ChIJiXkMFQBbspERphvPV1VLlPs
 Fotos: Restaurant DyC jugueria.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MhGLQ2FgLtuiq7bpK8AFqA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=313.27255&pitch=0&thumbfov=100
 

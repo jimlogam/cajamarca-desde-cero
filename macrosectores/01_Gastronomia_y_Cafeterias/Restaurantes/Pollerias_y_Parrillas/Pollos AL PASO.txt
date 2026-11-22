@@ -13,4 +13,5 @@ Longitud: -78.5150259
 Google Maps: https://www.google.com/maps?cid=15195797077345017743
 Place Id: ChIJ0x6DC2pbspERj58RWu5Q4tI
 Fotos: Pollos AL PASO.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6AzBBxzFUbn7xBMXzQXcWA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=265.49554&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

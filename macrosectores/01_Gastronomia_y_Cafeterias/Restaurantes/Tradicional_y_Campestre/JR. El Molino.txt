@@ -13,5 +13,6 @@ Longitud: -78.524397
 Google Maps: https://www.google.com/maps?cid=6931362358485372116
 Place Id: ChIJ34MgknpbspER1MwIU1clMWA
 Fotos: JR. El Molino.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QfsS2_6IPa2rYwmgW81BVQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=348.31366&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

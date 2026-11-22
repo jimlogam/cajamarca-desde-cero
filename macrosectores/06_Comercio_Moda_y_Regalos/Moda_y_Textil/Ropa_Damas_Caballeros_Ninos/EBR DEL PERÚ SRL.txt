@@ -13,5 +13,6 @@ Longitud: -78.5075229
 Google Maps: https://www.google.com/maps?cid=7664521385106282605
 Place Id: ChIJL3x97ORaspERbRilZJfZXWo
 Fotos: EBR DEL PERÚ SRL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=39ZRG8ScUyRldFPx7EAEmg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=189.87651&pitch=0&thumbfov=100
 Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

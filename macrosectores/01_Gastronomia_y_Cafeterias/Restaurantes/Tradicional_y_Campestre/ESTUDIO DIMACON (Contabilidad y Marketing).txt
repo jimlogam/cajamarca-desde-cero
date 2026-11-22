@@ -13,5 +13,6 @@ Longitud: -78.4986483
 Google Maps: https://www.google.com/maps?cid=3524487999334952424
 Place Id: ChIJt2xGy3xbspER6K18byl_6TA
 Fotos: ESTUDIO DIMACON (Contabilidad y Marketing).jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pTzPjgBM98STT7PpEdWz4Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=14.366522&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

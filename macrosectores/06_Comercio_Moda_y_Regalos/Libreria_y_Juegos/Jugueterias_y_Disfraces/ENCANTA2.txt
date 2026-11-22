@@ -13,4 +13,5 @@ Longitud: -78.5040664
 Google Maps: https://www.google.com/maps?cid=8143852729949956824
 Place Id: ChIJkXDtsYRbspER2CrD7-jGBHE
 Fotos: ENCANTA2.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfpPbQpfHV1WcoanPrUqomsNjMFKHPVHXVPlmsyABnOkUsAO_hDwN0wd89hdoRLGe7OLGtT3pT5F5q3xkZDdpjds05homUkwCPJLJWzyTkYOXAhUo9hfaxE63rZlVwG0Q7DcTX6NWK-3E3D=w1600-h1200-k-no
 

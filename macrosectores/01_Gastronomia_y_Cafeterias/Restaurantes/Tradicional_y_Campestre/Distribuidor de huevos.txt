@@ -13,5 +13,6 @@ Longitud: -78.52335649999999
 Google Maps: https://www.google.com/maps?cid=12718161650108692160
 Place Id: ChIJ-4r4AQBbspERwHa5FqP8f7A
 Fotos: Distribuidor de huevos.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lyyQ-1mKjQf5Z4rxyW2S1Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=30.030346&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

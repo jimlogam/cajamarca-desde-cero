@@ -13,5 +13,6 @@ Longitud: -78.50542639999999
 Google Maps: https://www.google.com/maps?cid=18316542710663979044
 Place Id: ChIJBV8kEQBbspERJKBl1oxuMf4
 Fotos: Merrell Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Oo3tJZ5QKL14SYdPouHlnQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=97.04944&pitch=0&thumbfov=100
 Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

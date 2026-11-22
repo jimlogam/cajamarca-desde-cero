@@ -13,3 +13,4 @@ Longitud: -78.50932519999999
 Google Maps: https://www.google.com/maps?cid=108616948272505103
 Place Id: ChIJAQDw6PFaspERD6Fe-onigQE
 Fotos: Deli Café_2.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=toMsKYCzizx0Cnm65xqkjA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=33.763866&pitch=0&thumbfov=100

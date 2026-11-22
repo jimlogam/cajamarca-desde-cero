@@ -13,5 +13,6 @@ Longitud: -78.5139162
 Google Maps: https://www.google.com/maps?cid=13307834155837110588
 Place Id: ChIJJ1fKMPpaspERPDl7JKjsrrg
 Fotos: Laboratorio Regional de Referencia - Instituto Nacional de Salud - Ministerio de Salud.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cMCe2Oxz-JVr3P4f9RlrVg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=120.536865&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

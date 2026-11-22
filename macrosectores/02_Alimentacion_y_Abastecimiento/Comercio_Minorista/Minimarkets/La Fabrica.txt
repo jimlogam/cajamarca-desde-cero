@@ -13,5 +13,6 @@ Longitud: -78.51634229999999
 Google Maps: https://www.google.com/maps?cid=8352771577315867066
 Place Id: ChIJbZTJbPlaspERujnko34B63M
 Fotos: La Fabrica.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfdqFtQt6Oijr0z_idli4z3IxhsVwtjF2c6Kg1Kgp8h-IJj2daRB1OF0HmGjEqnN64Pe6n6jo7HpUu_eUGFJYzufaCsyjMpp27YAOEeC2dfzQzQ4XCu9cPH9dJxnenNMxafMAcp=w1600-h1200-k-no
 Nota: Aparecia 8 veces en los archivos de la cosecha original; fusionado en uno.
 

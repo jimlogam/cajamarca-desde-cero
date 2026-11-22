@@ -13,4 +13,5 @@ Longitud: -78.5167888
 Google Maps: https://www.google.com/maps?cid=13107935045176204988
 Place Id: ChIJ_yKbDvlaspERvB6finm96LU
 Fotos: Las Americas Hotel.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfiMPile-X2cqX5FPAYiItX5Ja1D5To8vg9tyYfubM43YAVaRgx-F186OLQe8_s3gjhYaL6gQH2gQgJ4GAPnX18BGjMokCnq468ChfMrdTnPRorHj-nOgRRIqbIq75LdxNyqwfZlw=w1600-h1200-k-no
 

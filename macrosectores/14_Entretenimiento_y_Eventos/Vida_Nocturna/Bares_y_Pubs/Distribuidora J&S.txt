@@ -13,5 +13,6 @@ Longitud: -78.49644769999999
 Google Maps: https://www.google.com/maps?cid=5283566621978632650
 Place Id: ChIJGf5GbUBbspERyqElYtn_Ukk
 Fotos: Distribuidora J&S.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wm-qUFkn6NDIFdKV4tZ2vg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=262.4673&pitch=0&thumbfov=100
 Nota: Categoria Maps: tienda de bebidas alcoholicas Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,3 +13,4 @@ Longitud: -78.5092645
 Google Maps: https://www.google.com/maps?cid=10192015702030720427
 Place Id: ChIJ4TjcSuVaspERq52-CEhQcY0
 Fotos: Don Jota.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H-qRYw1EcoJw1FJyw5QtPQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=229.07867&pitch=0&thumbfov=100

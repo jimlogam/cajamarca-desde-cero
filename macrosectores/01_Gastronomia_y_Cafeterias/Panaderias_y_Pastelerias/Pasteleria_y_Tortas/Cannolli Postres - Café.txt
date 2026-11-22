@@ -13,4 +13,5 @@ Longitud: -78.5127447
 Google Maps: https://www.google.com/maps?cid=12151651131547283169
 Place Id: ChIJt5NfLsBbspER4W5ZalJWo6g
 Fotos: Cannolli Postres - Café.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfyMZb6Y2H-aBGQ7aaXaBbtyOOgIQSV_kt2zx8_9BjNuyxpdPHAp-UzIFuaUANLew3kxCSfxecCUZLaVhfgZirNjkqIp4jvu9rN3lW_Sy9QJgOqAcutpNv6e56Eb6cyXJVx-ySP7A=w1600-h1200-k-no
 

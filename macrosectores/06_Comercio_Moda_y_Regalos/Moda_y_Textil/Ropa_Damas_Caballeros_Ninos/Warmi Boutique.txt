@@ -13,5 +13,6 @@ Longitud: -78.5196562
 Google Maps: https://www.google.com/maps?cid=17169019234976419363
 Place Id: ChIJH5BYXepbspERI06eYgecRO4
 Fotos: Warmi Boutique.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vIeis53p_WPvGZQXfAS0yw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=352.24927&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

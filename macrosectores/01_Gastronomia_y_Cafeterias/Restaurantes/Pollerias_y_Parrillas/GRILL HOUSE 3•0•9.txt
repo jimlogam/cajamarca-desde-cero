@@ -13,3 +13,4 @@ Longitud: -78.514213
 Google Maps: https://www.google.com/maps?cid=2371849837126876043
 Place Id: ChIJozBok9FbspERi_uDOtyA6iA
 Fotos: GRILL HOUSE 3•0•9.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k5TogZz8rARM3ZyLAWRrWA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=145.13164&pitch=0&thumbfov=100

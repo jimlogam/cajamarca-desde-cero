@@ -13,5 +13,6 @@ Longitud: -78.4990172
 Google Maps: https://www.google.com/maps?cid=7244231662690565392
 Place Id: ChIJC0e-7UFbspEREP1OzVCuiGQ
 Fotos: NEGOCIOS INVERSIONES NISALIA SRL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ShUxDIjli3E1OPPDjjWmDQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=310.32727&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

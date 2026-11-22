@@ -13,5 +13,6 @@ Longitud: -78.52531789999999
 Google Maps: https://www.google.com/maps?cid=9319135143994191666
 Place Id: ChIJHdQ5o6JbspERMu-h3wk4VIE
 Fotos: Kamiar.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aGVGle48e1--V4R6Kz_wHw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=73.06628&pitch=0&thumbfov=100
 Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

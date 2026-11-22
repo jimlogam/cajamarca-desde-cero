@@ -13,5 +13,6 @@ Longitud: -78.52271809999999
 Google Maps: https://www.google.com/maps?cid=6320077518486390987
 Place Id: ChIJQ2qqy-JbspERy0hQkgRttVc
 Fotos: Agencia de viajes international student's growth.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mon6PIc2W8HFBnc8Lgi7yA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=160.99081&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

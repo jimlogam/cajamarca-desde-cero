@@ -13,5 +13,6 @@ Longitud: -78.5248225
 Google Maps: https://www.google.com/maps?cid=14273157281200559531
 Place Id: ChIJDVVGMABbspERq1U9wexwFMY
 Fotos: Minimarket paris.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLc5gbJbpAOquMezDrsYmQ7zPY8qLMfnNzaG967XfTfOU6f-1RwcJOvE2lbCBMasew4nGobRFhcYRTf7lzX7CHJFOkHAnIxTP9hGCiZpohzLCTx6T97uadJOUq9YyeFlREGXVprZXN4HLV3Y=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

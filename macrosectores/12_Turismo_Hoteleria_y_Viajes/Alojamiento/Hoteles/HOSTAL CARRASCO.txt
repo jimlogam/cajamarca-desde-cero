@@ -13,5 +13,6 @@ Longitud: -78.5196318
 Google Maps: https://www.google.com/maps?cid=8108032817428435717
 Place Id: ChIJvbkNTmRbspERBRMIpuOEhXA
 Fotos: HOSTAL CARRASCO.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcGmbcKmbpjKvi_qquvSM-TfN1l1ZCgBzewa9CqJ_3ApTe4GEL3utajoIa_XdvmML48sHwscltcVNeql1EjmXbs9u4b3Qc0L0svoZZPiddAJtWF-x9UUo3-AGC0Ww071nKxo7BR=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

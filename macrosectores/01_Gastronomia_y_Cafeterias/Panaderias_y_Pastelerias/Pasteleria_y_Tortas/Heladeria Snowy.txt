@@ -13,4 +13,5 @@ Longitud: -78.5043419
 Google Maps: https://www.google.com/maps?cid=5864021169100090696
 Place Id: ChIJH8qC_CRbspERSO2UMy8wYVE
 Fotos: Heladeria Snowy.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qmH_93d08zkghmDADo2KSA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=316.0483&pitch=0&thumbfov=100
 

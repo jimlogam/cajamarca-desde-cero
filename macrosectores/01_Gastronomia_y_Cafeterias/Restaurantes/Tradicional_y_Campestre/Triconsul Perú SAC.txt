@@ -13,5 +13,6 @@ Longitud: -78.50815519999999
 Google Maps: https://www.google.com/maps?cid=10208184274602346372
 Place Id: ChIJw6dxCEdbspERhMdmMYPBqo0
 Fotos: Triconsul Perú SAC.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8mw1boTxvVWqpqmS-R-P6g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=296.76788&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

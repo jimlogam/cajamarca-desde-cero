@@ -13,5 +13,6 @@ Longitud: -78.4963193
 Google Maps: https://www.google.com/maps?cid=13265765999506461327
 Place Id: ChIJF29LhYZbspERj5IJOuR3Gbg
 Fotos: Illay Costura Creativa.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YuCj9kOpnvkEIUMHRUPC4A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=298.69196&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.51527399999999
 Google Maps: https://www.google.com/maps?cid=2953111496960437075
 Place Id: ChIJx9R-4shbspERU-tynkKP-yg
 Fotos: cajamrca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wqZ2WcWHQAoWSNHyZ72Xdw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=133.56207&pitch=0&thumbfov=100
 Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

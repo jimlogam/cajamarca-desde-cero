@@ -13,5 +13,6 @@ Longitud: -78.5025491
 Google Maps: https://www.google.com/maps?cid=4398577516358077389
 Place Id: ChIJ00L6RgRbspERzQuLS_LiCj0
 Fotos: CAJENUAL EIRL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IQ64Rd-Qgng9zwlCnYbE9w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=34.025917&pitch=0&thumbfov=100
 Nota: Sin categoria en Maps; ubicado por el contexto de las busquedas agro de esta tanda. Sin categoria en Maps; clasificado por el nombre.
 

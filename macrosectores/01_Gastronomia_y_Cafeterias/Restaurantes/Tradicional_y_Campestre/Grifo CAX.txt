@@ -13,5 +13,6 @@ Longitud: -78.5248333
 Google Maps: https://www.google.com/maps?cid=13557709405510992084
 Place Id: ChIJv5ATUQBbspER1IB0W9-oJrw
 Fotos: Grifo CAX.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YaAc5y1Gc09-1ceADm72Bw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=276.09927&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

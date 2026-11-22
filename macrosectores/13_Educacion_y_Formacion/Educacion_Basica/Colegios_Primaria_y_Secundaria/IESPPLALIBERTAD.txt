@@ -13,5 +13,6 @@ Longitud: -78.52031579999999
 Google Maps: https://www.google.com/maps?cid=2343248876080340513
 Place Id: ChIJh4Gr1PdaspERIR4aD3DkhCA
 Fotos: IESPPLALIBERTAD.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=65-CYRJyn98wGKs2ikP2gg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=313.6518&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

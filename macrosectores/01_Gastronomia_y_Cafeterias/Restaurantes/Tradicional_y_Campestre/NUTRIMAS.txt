@@ -13,5 +13,6 @@ Longitud: -78.50719029999999
 Google Maps: https://www.google.com/maps?cid=5252841492365796455
 Place Id: ChIJ0ZBKOABbspERZ2TlrYHX5Ug
 Fotos: NUTRIMAS.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JPX6UzOzogr_q0eHKMrHRQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=336.39786&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.51038179999999
 Google Maps: https://www.google.com/maps?cid=3720735469030104171
 Place Id: ChIJ_cguN_BaspERa1y8HjK1ojM
 Fotos: Valmar Servicio Tecnico Accesorios.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=091Ic-yWjZMTh3YMQJ9r7g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=151.64215&pitch=7.3741803&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
 

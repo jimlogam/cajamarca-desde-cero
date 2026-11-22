@@ -13,3 +13,4 @@ Longitud: -78.5176886
 Google Maps: https://www.google.com/maps?cid=1473431668549070961
 Place Id: ChIJ30kw1mVbspERcbCtxEuuchQ
 Fotos: La Abuela Café.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HmgG8kU-TWSvxd3vU4MuKg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=132.27794&pitch=0&thumbfov=100

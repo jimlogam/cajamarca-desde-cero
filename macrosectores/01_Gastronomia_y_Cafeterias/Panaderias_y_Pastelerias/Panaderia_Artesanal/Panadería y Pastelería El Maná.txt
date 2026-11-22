@@ -13,4 +13,5 @@ Longitud: -78.45934249999999
 Google Maps: https://www.google.com/maps?cid=1655909897807225906
 Place Id: ChIJcXtEt2tFspERMmTaVkf5-hY
 Fotos: Panadería y Pastelería El Maná.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oJhfVlmV9guh0VkfKAqGOg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=234.56229&pitch=0&thumbfov=100
 

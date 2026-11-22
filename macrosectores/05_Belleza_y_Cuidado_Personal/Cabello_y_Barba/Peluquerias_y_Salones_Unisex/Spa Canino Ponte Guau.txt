@@ -13,5 +13,6 @@ Longitud: -78.51227569999999
 Google Maps: https://www.google.com/maps?cid=4923622299586892460
 Place Id: ChIJ9ziGUmFbspERrJIRH2U4VEQ
 Fotos: Spa Canino Ponte Guau.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nnkq7nUmugBATN5YaaRbDQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=320.59988&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

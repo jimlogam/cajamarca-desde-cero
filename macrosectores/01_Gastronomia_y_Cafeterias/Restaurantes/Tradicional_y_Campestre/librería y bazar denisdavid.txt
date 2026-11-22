@@ -13,5 +13,6 @@ Longitud: -78.4983429
 Google Maps: https://www.google.com/maps?cid=1558569874541258482
 Place Id: ChIJB_BEXPxbspER8iaoEQsnoRU
 Fotos: librería y bazar denisdavid.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yFGSytITdEPrl0L2QVvYfQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=7.2802444&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

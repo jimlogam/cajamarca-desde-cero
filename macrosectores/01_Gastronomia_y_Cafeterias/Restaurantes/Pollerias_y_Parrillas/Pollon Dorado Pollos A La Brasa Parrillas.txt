@@ -13,4 +13,5 @@ Longitud: -78.5005599
 Google Maps: https://www.google.com/maps?cid=12598169205426366561
 Place Id: ChIJ83V7UhhbspERYSi09SSw1a4
 Fotos: Pollon Dorado Pollos A La Brasa Parrillas.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_EUaIHf3nIwfqiYMAqbmlA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=50.929535&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

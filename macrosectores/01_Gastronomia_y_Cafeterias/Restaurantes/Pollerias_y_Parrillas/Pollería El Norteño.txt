@@ -13,4 +13,5 @@ Longitud: -78.5236798
 Google Maps: https://www.google.com/maps?cid=5014896607268562793
 Place Id: ChIJvztSxn5bspERaeeN7eR9mEU
 Fotos: Pollería El Norteño.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CW15NE2UCF8YUWui3PIPjw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=198.2611&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

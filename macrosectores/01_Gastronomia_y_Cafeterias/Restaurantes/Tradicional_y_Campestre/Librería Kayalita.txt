@@ -13,5 +13,6 @@ Longitud: -78.4993739
 Google Maps: https://www.google.com/maps?cid=8646053899742496151
 Place Id: ChIJlZMlSBZbspERl0UIizb0_Hc
 Fotos: Librería Kayalita.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9O-lLGfkixoj-KdSnXi1mQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=219.69301&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.5194513
 Google Maps: https://www.google.com/maps?cid=17917344779785524467
 Place Id: ChIJTyKaK-5bspER89RQpSUyp_g
 Fotos: Cax Adventours.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RLi_0VYHntGZj5KgN7qSxg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=86.956245&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

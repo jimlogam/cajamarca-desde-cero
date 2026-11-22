@@ -13,5 +13,6 @@ Longitud: -78.5204335
 Google Maps: https://www.google.com/maps?cid=9928602363668350397
 Place Id: ChIJaZ1MnJtbspERvUWO6j57yYk
 Fotos: Negocios Dalesscam.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=futwCCnwuFDUqZreLFAcEQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=208.52313&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

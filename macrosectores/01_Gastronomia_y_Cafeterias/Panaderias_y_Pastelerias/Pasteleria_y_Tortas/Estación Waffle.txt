@@ -13,4 +13,5 @@ Longitud: -78.5170516
 Google Maps: https://www.google.com/maps?cid=16796242490680457355
 Place Id: ChIJsff40EtbspERi7hUEo49GOk
 Fotos: Estación Waffle.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfEavkM_iqJTo9TAX34hvZOGG1B3Z7MG1xy_vvoslfltTpEDIsydFdtz65kNRrfj6dNnVUp9pZ9zEowNV4CJKvcNq27L2NJ-ne7offpiH7YS5JJONH-X6Hs2TcP3yf-OBFdpFGXAim9Jrs=w1600-h1200-k-no
 

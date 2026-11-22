@@ -13,3 +13,4 @@ Longitud: -78.5119271
 Google Maps: https://www.google.com/maps?cid=4989467844005116246
 Place Id: ChIJH1Ba8INbspERVrkonJEmPkU
 Fotos: Restauran polleria el festin.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NNxVIMdRpx0OmH3eHUqZwA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=309.52274&pitch=0&thumbfov=100

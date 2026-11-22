@@ -13,5 +13,6 @@ Longitud: -78.5149503
 Google Maps: https://www.google.com/maps?cid=13819987333782170604
 Place Id: ChIJYYGBGKVbspER7Ot7NkJ1yr8
 Fotos: Librería LAS PAULINAS.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u3NuYTYftM9FG2GAM4lZQQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=62.567177&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

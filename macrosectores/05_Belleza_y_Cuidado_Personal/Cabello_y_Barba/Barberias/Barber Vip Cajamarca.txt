@@ -13,5 +13,6 @@ Longitud: -78.5152732
 Google Maps: https://www.google.com/maps?cid=10565573052993801221
 Place Id: ChIJMTD0YDxbspERBYwigLZ0oJI
 Fotos: Barber Vip Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MIVkogTbo8gWfDwg7rdpvw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=94.39582&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

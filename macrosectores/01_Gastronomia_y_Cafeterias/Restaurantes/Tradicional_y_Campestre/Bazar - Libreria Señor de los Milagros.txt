@@ -13,5 +13,6 @@ Longitud: -78.5180596
 Google Maps: https://www.google.com/maps?cid=4516372124327827971
 Place Id: ChIJKZh47rdbspERA1oJsIRgrT4
 Fotos: Bazar - Libreria Señor de los Milagros.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IDZdCHqj6Sth_dtE9jT0-w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=330.90234&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

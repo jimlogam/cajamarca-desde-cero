@@ -13,4 +13,5 @@ Longitud: -78.5265972
 Google Maps: https://www.google.com/maps?cid=18135997987760420888
 Place Id: ChIJrcVAXqpbspERGLioyxQCsPs
 Fotos: Pollería Traza.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Wn5eOoqiMqveankGxW31AQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=213.75883&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

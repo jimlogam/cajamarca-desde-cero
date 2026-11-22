@@ -13,5 +13,6 @@ Longitud: -78.5079647
 Google Maps: https://www.google.com/maps?cid=11719165818379311613
 Place Id: ChIJw_RZwO9aspER_RlmlDjXoqI
 Fotos: G&S Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Dbyh6v91PiWFmXwBCtFqSw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=158.52583&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

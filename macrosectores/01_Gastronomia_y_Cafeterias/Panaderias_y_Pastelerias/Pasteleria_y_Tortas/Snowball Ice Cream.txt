@@ -13,4 +13,5 @@ Longitud: -78.5065085
 Google Maps: https://www.google.com/maps?cid=16539520118063768042
 Place Id: ChIJYZotzpNbspER6iGe0OotiOU
 Fotos: Snowball Ice Cream.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfg2z2MjoUxnTTxS2RtzLh8kPRQrMrjD-V_4GJdWgw0vrBAj4ng21Wu95aHxEKc6kNv3U0yJ7x2GfoUXi7hsB8k0c4ieJaKDRFntkZsec9asBtEAv43NuL3iC7FBxEDfbcCsbo8phBi5k4=w1600-h1200-k-no
 

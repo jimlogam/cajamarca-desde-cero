@@ -13,5 +13,6 @@ Longitud: -78.50532179999999
 Google Maps: https://www.google.com/maps?cid=3118807696306675640
 Place Id: ChIJ1fE5Fp1bspERuB8dXRM7SCs
 Fotos: Cochera.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cLeouPR2jgMMRjSquXuwow&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=184.9881&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

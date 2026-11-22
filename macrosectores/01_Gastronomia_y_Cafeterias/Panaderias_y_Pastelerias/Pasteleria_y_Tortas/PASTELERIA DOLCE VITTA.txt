@@ -13,4 +13,5 @@ Longitud: -78.51168969999999
 Google Maps: https://www.google.com/maps?cid=6186815302843817546
 Place Id: ChIJN16eWfJaspERSt70IL3721U
 Fotos: PASTELERIA DOLCE VITTA.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcM0DV0yrpfsKarJuDSHT_B6B5b00XVODiy_4Lxf8opCU85l6l54j00imVAmL12dBnOqAjphKHAd_M-JnDl2_aUSdtK-4-rqZlhG-97BM04EsJCjF7TbK9RdcxyJa0dyjmbQiY=w1600-h1200-k-no
 

@@ -13,5 +13,6 @@ Longitud: -78.51955509999999
 Google Maps: https://www.google.com/maps?cid=13412201532760713209
 Place Id: ChIJjZZ8t_haspER-ecmsDu2Ibo
 Fotos: Quesería Los Alpes.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdoRX4ub3ExevzgmYaza3OyZCQ5w4ljayBks2LY2GqPYMD2QRXT1akqvxyInHTdxbrb-LVu1sAF0WVLXa6toFCfqar5d2XC9U4x6f6hIivYOlbfDYJKUHtOI-80WUYT8ASm9a6UYQ=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

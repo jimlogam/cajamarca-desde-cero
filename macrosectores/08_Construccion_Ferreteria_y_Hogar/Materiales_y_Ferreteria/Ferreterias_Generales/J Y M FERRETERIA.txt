@@ -13,4 +13,5 @@ Longitud: -78.5074471
 Google Maps: https://www.google.com/maps?cid=10724465312288850401
 Place Id: ChIJ88kp7PRbspER4cH5gGH01JQ
 Fotos: J Y M FERRETERIA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3g3Ht1JXXpXb7P1qXorhYw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=35.733204&pitch=0&thumbfov=100
 

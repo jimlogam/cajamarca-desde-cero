@@ -13,4 +13,5 @@ Longitud: -78.52316139999999
 Google Maps: https://www.google.com/maps?cid=14241616268613234224
 Place Id: ChIJw1EPd_NbspERMK4dfopipMU
 Fotos: FERRETERÍA CAXAS.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sRR9Hib1_SgxvTzzoPZaUA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=10.972474&pitch=0&thumbfov=100
 

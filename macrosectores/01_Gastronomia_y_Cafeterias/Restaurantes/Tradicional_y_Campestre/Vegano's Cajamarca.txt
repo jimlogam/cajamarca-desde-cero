@@ -13,5 +13,6 @@ Longitud: -78.5189001
 Google Maps: https://www.google.com/maps?cid=18414974963535034726
 Place Id: ChIJlVAvwl1bspERZrk3oSkij_8
 Fotos: Vegano's Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3Lkt_5W7CKZ8HYtiJtdzew&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=0.079556815&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

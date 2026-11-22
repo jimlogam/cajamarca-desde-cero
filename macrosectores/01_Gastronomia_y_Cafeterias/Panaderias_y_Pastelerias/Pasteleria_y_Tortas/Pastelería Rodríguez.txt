@@ -13,5 +13,6 @@ Longitud: -78.5177777
 Google Maps: https://www.google.com/maps?cid=4976038013115679922
 Place Id: ChIJ4ZzzE-RbspERssSZcDVwDkU
 Fotos: Pastelería Rodríguez.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLc6HKWg-vqgU9HaMfLNoNoRn-T9NaDUi9HNpmGtX3HTqO0rcr1W63_wCSgdB5jZWw_QkyYp19WZhAjln-HSb-KKSUrLLGnsV-4wnYgJtA48D8A52X5tGigeeTUr4d5w0qCE3GKSmA=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
 

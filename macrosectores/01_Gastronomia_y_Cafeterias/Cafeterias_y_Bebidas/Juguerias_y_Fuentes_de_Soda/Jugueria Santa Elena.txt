@@ -13,4 +13,5 @@ Longitud: -78.5122507
 Google Maps: https://www.google.com/maps?cid=4043415759580816016
 Place Id: ChIJ_QTnJgBbspERkOIH3TUZHTg
 Fotos: Jugueria Santa Elena.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xwYfd9-T2dMOQLcqzh5lPw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=300.91693&pitch=0&thumbfov=100
 

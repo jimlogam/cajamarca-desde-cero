@@ -13,3 +13,4 @@ Longitud: -78.5206278
 Google Maps: https://www.google.com/maps?cid=17033193086797157622
 Place Id: ChIJfwV0bo9bspER9hQv4d0OYuw
 Fotos: Caldos tradicionales y ceviches Las Criadillas.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sRVwSBDRD7wWeLi6Rr_oZA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=227.66096&pitch=0&thumbfov=100

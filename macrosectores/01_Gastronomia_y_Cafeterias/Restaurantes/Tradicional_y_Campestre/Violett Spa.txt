@@ -13,5 +13,6 @@ Longitud: -78.50120319999999
 Google Maps: https://www.google.com/maps?cid=1497279189852462031
 Place Id: ChIJxyGYuv1bspERz5u9gH1nxxQ
 Fotos: Violett Spa.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nx2FHRGFBO_DiAa4eY_Gbw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=255.86604&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

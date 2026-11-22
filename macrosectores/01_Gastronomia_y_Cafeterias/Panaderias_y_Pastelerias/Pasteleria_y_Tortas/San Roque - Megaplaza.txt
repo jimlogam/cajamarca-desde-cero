@@ -13,4 +13,5 @@ Longitud: -78.51009379999999
 Google Maps: https://www.google.com/maps?cid=15527332427177077309
 Place Id: ChIJudXHD6VbspERPSpLP5MqfNc
 Fotos: San Roque - Megaplaza.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfix5Ra-v3aH6qhKSW5HwAw7bFCtC-7pfWLYHYxZ_zwC_wXu-2yG3mO0suQMUg2jKnJMZgaBSYSTrhrVODzZHr1pMOrq9Rff0u7QSq47U0goQrsZ21AabphGS-uWfZG7g47h0nYewTSPfA=w1600-h1200-k-no
 

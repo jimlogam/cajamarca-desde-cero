@@ -13,3 +13,4 @@ Longitud: -78.5063108
 Google Maps: https://www.google.com/maps?cid=5747587904684765148
 Place Id: ChIJcVVVFR5bspER3C8RTr-Iw08
 Fotos: Polleria DON NASHO.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_i74IplOPd5xSTwp7NlsWQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=155.81348&pitch=0&thumbfov=100

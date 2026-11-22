@@ -13,5 +13,6 @@ Longitud: -78.5090802
 Google Maps: https://www.google.com/maps?cid=16354403200617896001
 Place Id: ChIJ9fgDlflaspERQVhXxg-D9uI
 Fotos: COMERCIAL CASAS SRL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=O5lsoCH29iwnTHUPxeBS5w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=216.26231&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

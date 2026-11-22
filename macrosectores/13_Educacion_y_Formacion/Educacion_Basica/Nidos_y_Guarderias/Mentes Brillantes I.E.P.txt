@@ -13,4 +13,5 @@ Longitud: -78.48034679999999
 Google Maps: https://www.google.com/maps?cid=3684582396672512811
 Place Id: ChIJ55doHLlbspERK5NSAytEIjM
 Fotos: Mentes Brillantes I.E.P.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfdIwgh3eZ4UyFb3Xsogu9EMIfEkPASIO3NKOzDAeibRZ3sTIY68g3fadLQ30wmHFnOm1DoAikq6vkEDtOK4sxxwHycvIZUmNgyL1zkYnR5ey9cS3fpHxoocO8f6rGas0JhOaumUw=w1600-h1200-k-no
 

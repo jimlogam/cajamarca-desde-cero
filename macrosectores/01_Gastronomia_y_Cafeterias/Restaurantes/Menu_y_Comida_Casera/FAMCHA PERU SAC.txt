@@ -13,4 +13,5 @@ Longitud: -78.5027431
 Google Maps: https://www.google.com/maps?cid=16525042134742686226
 Place Id: ChIJS6qJ_9lbspERElqzo0S-VOU
 Fotos: FAMCHA PERU SAC.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tQ6LC_76eH_8kwvDhuc1tA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=116.77728&pitch=0&thumbfov=100
 

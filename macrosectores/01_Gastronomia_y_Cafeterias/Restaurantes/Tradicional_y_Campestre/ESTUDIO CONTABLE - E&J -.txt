@@ -13,5 +13,6 @@ Longitud: -78.5218952
 Google Maps: https://www.google.com/maps?cid=5634916477791922678
 Place Id: ChIJT_xuNZBbspER9mnIda4-M04
 Fotos: ESTUDIO CONTABLE - E&J -.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7YAjYnsHyV27oZNTEaJmOQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=318.62344&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

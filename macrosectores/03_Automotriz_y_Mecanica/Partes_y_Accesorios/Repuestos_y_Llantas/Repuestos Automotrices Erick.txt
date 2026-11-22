@@ -13,5 +13,6 @@ Longitud: -78.5089575
 Google Maps: https://www.google.com/maps?cid=5140158168342068324
 Place Id: ChIJ1bjCKx1bspERZPxZ0Z6CVUc
 Fotos: Repuestos Automotrices Erick.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UtiI36Tj5J_aErPDfxvo3A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=3.0131254&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

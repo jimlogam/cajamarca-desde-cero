@@ -13,5 +13,6 @@ Longitud: -78.517624
 Google Maps: https://www.google.com/maps?cid=772183602901778883
 Place Id: ChIJJ0P3NiJbspERw4FXSOVYtwo
 Fotos: Tienda de ropa.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLeMG1gJGOELttyVMmi9Yo0bxmX-E_2Nx5X8BrlzyFGnmphRBJ7EeZ5kl20lc1gb3_K8lhmIR66t7leFPzr63eBp4nS3OKhIsemKu4heKQ5_PgB5Zay0ZYsIe7vI0xclpQPoO6Wu-N6xMY-D=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

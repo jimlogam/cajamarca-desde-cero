@@ -13,4 +13,5 @@ Longitud: -78.5005822
 Google Maps: https://www.google.com/maps?cid=5605832316013919957
 Place Id: ChIJSUCKgOlaspER1T5qWsrqy00
 Fotos: Agroveterinaria Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XfiMdvndzUOFvijg-e79iA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=0.09612046&pitch=0&thumbfov=100
 

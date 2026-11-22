@@ -13,5 +13,6 @@ Longitud: -78.5066129
 Google Maps: https://www.google.com/maps?cid=16074771764471956693
 Place Id: ChIJSw0AK_tbspER1YTUgsAPFd8
 Fotos: Inkillay Agencia de Marketing Digital en Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TcQIdwbPzZfNDXAs2zWr4A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=323.95035&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

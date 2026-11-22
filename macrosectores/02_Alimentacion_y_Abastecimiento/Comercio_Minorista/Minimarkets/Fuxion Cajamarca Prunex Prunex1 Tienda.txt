@@ -13,5 +13,6 @@ Longitud: -78.5031107
 Google Maps: https://www.google.com/maps?cid=16413073200737383322
 Place Id: ChIJzzNzWgBbspERmnNvqh3zxuM
 Fotos: Fuxion Cajamarca Prunex Prunex1 Tienda.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M-cabD3LYH0LU5-aC1FAZw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=36.637413&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

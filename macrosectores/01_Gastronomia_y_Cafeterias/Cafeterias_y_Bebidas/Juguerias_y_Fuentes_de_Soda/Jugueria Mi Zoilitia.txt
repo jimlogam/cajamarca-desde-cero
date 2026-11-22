@@ -13,4 +13,5 @@ Longitud: -78.5146845
 Google Maps: https://www.google.com/maps?cid=11615918939768137793
 Place Id: ChIJ4cOubM1bspERQaicYLsINKE
 Fotos: Jugueria Mi Zoilitia.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLc1W3PjuRFCL3nNoMa0t4LiPBaoVN7CIhG5xDRUevTy0vxWepvz66UkeXTpP4I8gy5sVjOZajD-4K6vtqYIcO3XKso30ctgxa_l3cp3L11RXwhrXNBepTCUrSFaKmT0Mb3pIaGJuA=w1600-h1200-k-no
 

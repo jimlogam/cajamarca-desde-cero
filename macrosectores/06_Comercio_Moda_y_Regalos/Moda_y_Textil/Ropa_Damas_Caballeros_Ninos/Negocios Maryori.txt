@@ -13,5 +13,6 @@ Longitud: -78.5018162
 Google Maps: https://www.google.com/maps?cid=14187801162110344033
 Place Id: ChIJO9j-BjpbspERYRt2m_wx5cQ
 Fotos: Negocios Maryori.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-94rDXKfZ7vKw-8LaBAfDQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=338.7921&pitch=0&thumbfov=100
 Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

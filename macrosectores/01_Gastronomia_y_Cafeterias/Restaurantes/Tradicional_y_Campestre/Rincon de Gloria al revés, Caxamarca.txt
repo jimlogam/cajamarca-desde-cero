@@ -13,5 +13,6 @@ Longitud: -78.5017818
 Google Maps: https://www.google.com/maps?cid=9429746060506202960
 Place Id: ChIJFeFQamhbspERUIOcwhQw3YI
 Fotos: Rincon de Gloria al revés, Caxamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0a0t08Q3m3F_TIA9FC1qlg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=113.16644&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

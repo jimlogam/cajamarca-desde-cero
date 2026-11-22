@@ -13,5 +13,6 @@ Longitud: -78.5154194
 Google Maps: https://www.google.com/maps?cid=4510632786181017101
 Place Id: ChIJh4eEUgBbspERDc6M5J78mD4
 Fotos: Cajamarca peru.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TO4NvRKokWBZ7D6zuzyQ7w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=214.72865&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

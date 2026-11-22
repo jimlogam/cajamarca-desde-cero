@@ -13,3 +13,4 @@ Longitud: -78.5000685
 Google Maps: https://www.google.com/maps?cid=4816821574075929641
 Place Id: ChIJOfVuiM5bspERKdQ7dbPJ2EI
 Fotos: POLLERIA - RESTAURANT.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7P6AZj8_zUQ9wJK_LIxziw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=191.09225&pitch=0&thumbfov=100

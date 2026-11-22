@@ -13,5 +13,6 @@ Longitud: -78.4970261
 Google Maps: https://www.google.com/maps?cid=12068244524549155592
 Place Id: ChIJQ8jio2tbspERCCtObHQEe6c
 Fotos: Colegio Gauss.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLetoYFd16iFZ68RiFcyt78b98_AcZXz8Y5vOUXTp0EkwyEnIb5KEHUwgbrRpsgMdqfEniIVNSvhteG0tcsq6m78o_TYGwk_HpjbnM6k_BxEhVyameikMteSVB4uwPY9noKzV7_gsQ=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

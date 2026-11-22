@@ -13,5 +13,6 @@ Longitud: -78.51955509999999
 Google Maps: https://www.google.com/maps?cid=7444210642680887106
 Place Id: ChIJp0QMQtxbspERQjctbiMmT2c
 Fotos: Lácteos Los Alpes.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdc7wQ_MLQkuhC939TzXPJenD5DwV_iXfnvW-kxSjqVzzo91xDlQHBmb_5uisIaI32ymLA5_kf8KSdj_3kNm5DvYOuko1IjJNXXZGobkhNjuBOQ1LS0zdafg5bmZKB6fuNmCzydTg=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.5078324
 Google Maps: https://www.google.com/maps?cid=10149331904606322542
 Place Id: ChIJZfx8YBtbspERbj-ZAZir2Yw
 Fotos: Servicios Generales Marmoleria Atalaya.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=O_E5-PUcof8c6GIjEyNEtg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=75.027374&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
 

@@ -13,5 +13,6 @@ Longitud: -78.51903539999999
 Google Maps: https://www.google.com/maps?cid=10100702581675687168
 Place Id: ChIJOz5YQIhbspERAH2mcnvnLIw
 Fotos: Mágico Mundo.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdk8HtDKgUsPDWwtHZTnHNYypA-LX2oVcFTmp6W1IguJ7aietgn1qCE-SzFI0fziVt3uZgSF46rljSawODZqf794qHWxmlyJl8vUGPC47jnuXJfADgWRigqy643C506SDL59nU2iA=w1600-h1200-k-no
 Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

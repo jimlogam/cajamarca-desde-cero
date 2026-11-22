@@ -13,5 +13,6 @@ Longitud: -78.51358809999999
 Google Maps: https://www.google.com/maps?cid=7581273639786729493
 Place Id: ChIJ8xClZClbspERFVCFRDUYNmk
 Fotos: Molilandia.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2ApUF_krV9Vbzx85oKyDGA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=182.36621&pitch=0&thumbfov=100
 Nota: Aparecia 8 veces en los archivos de la cosecha original; fusionado en uno.
 

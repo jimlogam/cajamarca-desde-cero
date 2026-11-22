@@ -13,5 +13,6 @@ Longitud: -78.50990039999999
 Google Maps: https://www.google.com/maps?cid=10779980154324141649
 Place Id: ChIJYfdxNgBbspERUUZA6NUumpU
 Fotos: Grifo El Guitarrero.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=emZAzP5Ly8bs_TuHGWTX4w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=123.07454&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

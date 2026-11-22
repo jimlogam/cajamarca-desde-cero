@@ -13,5 +13,6 @@ Longitud: -78.5110893
 Google Maps: https://www.google.com/maps?cid=7369668702495761916
 Place Id: ChIJ68wMj5xbspER_OWShKNSRmY
 Fotos: Tienda los Claveles.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdBZofMFNrDbhH7WcuMG6tgCiTi5PJ2xFujVpBepXLS0yzeqxqfFBhkNs0bq0f64IWhgaqotG8zn1UVEWskNIcEryfqx0V0UAvQHirOgA-y7QKn9SrfyXBYjjiGkMminjVLt9CiTA=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
 

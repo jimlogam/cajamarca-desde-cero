@@ -13,5 +13,6 @@ Longitud: -78.51503869999999
 Google Maps: https://www.google.com/maps?cid=3858682383432257408
 Place Id: ChIJLfS-OmpbspERgI-J_S7LjDU
 Fotos: Estudio Contable Centrocont Degik.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h1-fQ40SvrmaS8zGpINl0w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=8.2906475&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

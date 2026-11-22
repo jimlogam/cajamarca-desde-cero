@@ -13,3 +13,4 @@ Longitud: -78.50587159999999
 Google Maps: https://www.google.com/maps?cid=8625508249904542296
 Place Id: ChIJTZjXmhtbspERWPLCqg32s3c
 Fotos: Quinua Y Caldos.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4gP19FwyCgrc6AcJ-FUUZg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=19.628027&pitch=4.881059&thumbfov=100

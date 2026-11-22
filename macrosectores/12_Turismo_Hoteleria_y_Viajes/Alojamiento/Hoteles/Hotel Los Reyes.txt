@@ -13,5 +13,6 @@ Longitud: -78.5193228
 Google Maps: https://www.google.com/maps?cid=11855178749097458310
 Place Id: ChIJy966XfhaspERhrq2yEIOhqQ
 Fotos: Hotel Los Reyes.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLe82iZI9Kd4uUVrs9LUFPMRyjl7mK32L91W9ddc1Azp5lJHd-q1nZSrFc_P8MznsKIo-qhJUY50Jgz-z5AUyTJxrc4JG-BkO0Ai_lr6RX4G5s_SEQg1ukabpGU1dspnjWAxRXwkLQ=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

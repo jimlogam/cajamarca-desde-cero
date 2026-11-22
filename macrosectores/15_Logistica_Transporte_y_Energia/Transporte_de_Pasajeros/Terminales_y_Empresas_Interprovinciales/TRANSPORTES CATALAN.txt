@@ -13,5 +13,6 @@ Longitud: -78.5048139
 Google Maps: https://www.google.com/maps?cid=1889316837139020578
 Place Id: ChIJT_x-DHdbspERIvvVQaczOBo
 Fotos: TRANSPORTES CATALAN.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=frg4MYlyAIjbiYznCtnqrw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=164.14505&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

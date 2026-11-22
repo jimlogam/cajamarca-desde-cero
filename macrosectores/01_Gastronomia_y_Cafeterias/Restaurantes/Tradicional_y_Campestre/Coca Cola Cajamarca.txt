@@ -13,5 +13,6 @@ Longitud: -78.5082785
 Google Maps: https://www.google.com/maps?cid=15198845086290525717
 Place Id: ChIJ7Yem4ExbspERFb6JPBQl7dI
 Fotos: Coca Cola Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j9j6GE46riB_SVM3zj6niQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=259.64328&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

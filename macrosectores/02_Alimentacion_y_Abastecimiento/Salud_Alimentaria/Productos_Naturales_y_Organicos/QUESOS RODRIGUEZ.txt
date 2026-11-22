@@ -13,5 +13,6 @@ Longitud: -78.515104
 Google Maps: https://www.google.com/maps?cid=923019408806455170
 Place Id: ChIJHUBr88tbspERgiezDkM5zww
 Fotos: QUESOS RODRIGUEZ.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=beGFSa5wldPxyuDmlCSttQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=246.47346&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

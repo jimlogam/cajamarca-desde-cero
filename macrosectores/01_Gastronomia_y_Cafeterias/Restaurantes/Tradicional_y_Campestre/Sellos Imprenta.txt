@@ -13,5 +13,6 @@ Longitud: -78.51529529999999
 Google Maps: https://www.google.com/maps?cid=611662490471554086
 Place Id: ChIJj_lhgvlaspERJtz8WssPfQg
 Fotos: Sellos Imprenta.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gk_NWqo6FpsyLE6vYH6zHw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=16.272842&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

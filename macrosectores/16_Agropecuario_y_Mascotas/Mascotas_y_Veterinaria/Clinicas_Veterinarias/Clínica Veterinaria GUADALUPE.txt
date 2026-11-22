@@ -13,4 +13,5 @@ Longitud: -78.49984289999999
 Google Maps: https://www.google.com/maps?cid=3463115984849864469
 Place Id: ChIJ5TrIHgBbspERFQf0zKN1DzA
 Fotos: Clínica Veterinaria GUADALUPE.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q18XRO3tB94wcM3qLgavcA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=158.90419&pitch=1.6300045&thumbfov=100
 

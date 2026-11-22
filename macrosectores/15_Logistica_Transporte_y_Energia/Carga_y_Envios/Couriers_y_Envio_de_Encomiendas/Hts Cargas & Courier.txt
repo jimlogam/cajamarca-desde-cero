@@ -13,5 +13,6 @@ Longitud: -78.4983184
 Google Maps: https://www.google.com/maps?cid=80799212304283503
 Place Id: ChIJoRQtfBhbspERbzeHm3QOHwE
 Fotos: Hts Cargas & Courier.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=34yXM4p3zFOeGWDzjacWhw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=277.56827&pitch=1.4507035&thumbfov=100
 Nota: Rescatado: en Maps salia sin categoria ni datos de contacto; clasificado por el nombre.
 

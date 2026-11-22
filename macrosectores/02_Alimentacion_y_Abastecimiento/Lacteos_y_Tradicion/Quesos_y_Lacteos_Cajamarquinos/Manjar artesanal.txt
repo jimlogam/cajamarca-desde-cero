@@ -13,3 +13,4 @@ Longitud: -78.51607779999999
 Google Maps: https://www.google.com/maps?cid=3407162837013828607
 Place Id: ChIJg4S4VwBbspER_xMfYIysSC8
 Fotos: Manjar artesanal.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yuWn4s4HrcUyFCXu9Voljg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=207.96796&pitch=0&thumbfov=100

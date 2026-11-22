@@ -13,4 +13,5 @@ Longitud: -78.5042362
 Google Maps: https://www.google.com/maps?cid=11221858771929960958
 Place Id: ChIJAUEWbgBbspER_pF83BgNvJs
 Fotos: Heladería López.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLc9tmiuYinjxapTcOlDc3lYy1ghkWPqbOqFizHJ3zXpEtEEKM7ZO_ypI-Q42Jie65MIKOTru8oU2C4UaGU77QDr4NgshPdxINxvCsbRn3182uI223JevF8yI4-zyu_oglqIjEpY7Txq7deF=w1600-h1200-k-no
 

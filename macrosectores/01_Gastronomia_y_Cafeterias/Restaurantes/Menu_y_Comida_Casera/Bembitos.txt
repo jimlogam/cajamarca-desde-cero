@@ -13,4 +13,5 @@ Longitud: -78.5020378
 Google Maps: https://www.google.com/maps?cid=13052823019677170787
 Place Id: ChIJQUnSExZbspERYzzmK2HxJLU
 Fotos: Bembitos.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfTSptUBkKcigXwsgzvTsvcTNW23GEI9YDzkYY8MQby4GBki3iW0EUYKXqHf9v2oY9TQA3ts88nX8rVJG4BawMEJVhx0IGlRgCxVXFTeHpdo9CIZDXwj9aivXgEjaMt67saJJaLdA=w1600-h1200-k-no
 

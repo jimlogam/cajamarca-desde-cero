@@ -13,5 +13,6 @@ Longitud: -78.5231419
 Google Maps: https://www.google.com/maps?cid=2825224185628241021
 Place Id: ChIJf1FjMyNbspERfaw2m202NSc
 Fotos: G&M SAC.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ob7LAeibutu1h7b8PxpgsQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=278.65186&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

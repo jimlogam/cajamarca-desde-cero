@@ -13,4 +13,5 @@ Longitud: -78.5165856
 Google Maps: https://www.google.com/maps?cid=16474104384144726508
 Place Id: ChIJ_4EVOZhbspER7NmmYafGn-Q
 Fotos: Cevicheria y salón de billar.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLePtARLtWWlyvJYKYA2a8Lik6OXuhcUGpOVBBSzhRJoMDMQMIpIIBvbW93AwXz1bLhJJ_eq5MXksvSKUNcaVihByaJZbsrdxi9Qc2F6SD2he5rVhv1Fegv4MLSum4j08XFR3Yu2=w1600-h1200-k-no
 

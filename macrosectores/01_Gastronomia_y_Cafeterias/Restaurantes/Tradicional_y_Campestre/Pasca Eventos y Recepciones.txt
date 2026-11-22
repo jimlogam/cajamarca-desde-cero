@@ -13,5 +13,6 @@ Longitud: -78.50029959999999
 Google Maps: https://www.google.com/maps?cid=16780197361091201570
 Place Id: ChIJgeLpB6dbspERIsrJOJg83-g
 Fotos: Pasca Eventos y Recepciones.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XZ0O7I2tup_nprgW-zmr4w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=201.48413&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

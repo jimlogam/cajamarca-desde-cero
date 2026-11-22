@@ -13,5 +13,6 @@ Longitud: -78.5176104
 Google Maps: https://www.google.com/maps?cid=15459366080490351428
 Place Id: ChIJkcJQzpJbspERRKtZAIuzitY
 Fotos: Carteras nacionales e importadas, billeteras, joyas de acero, joyas de oro, joyas de plata, bisutería, correas y más.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RFBv4JPkUjPsOgljdDPB6A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=98.50019&pitch=0&thumbfov=100
 Nota: Centro comercial (no es una tienda individual) Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

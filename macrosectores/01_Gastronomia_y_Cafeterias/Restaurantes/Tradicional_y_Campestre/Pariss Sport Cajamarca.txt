@@ -13,5 +13,6 @@ Longitud: -78.5156307
 Google Maps: https://www.google.com/maps?cid=17732680324665096852
 Place Id: ChIJmZxLcjVbspERlLo4s80iF_Y
 Fotos: Pariss Sport Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ls6LKNi-KALDvkJp4HJ61w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=232.25816&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

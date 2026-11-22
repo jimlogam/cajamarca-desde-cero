@@ -13,3 +13,4 @@ Longitud: -78.5149627
 Google Maps: https://www.google.com/maps?cid=7826454130845585286
 Place Id: ChIJn9tMTwBbspERho_wz5AmnWw
 Fotos: Pollería Chifa.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7qmScglx_82fHCv4GZTK8w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=310.41193&pitch=0&thumbfov=100

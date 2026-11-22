@@ -13,3 +13,4 @@ Longitud: -78.5119995
 Google Maps: https://www.google.com/maps?cid=11104901275317731330
 Place Id: ChIJ5Y0vwbdbspERAoAYpd-IHJo
 Fotos: Panadería Los Ángeles.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_XHcyZabiV_Kg1INef_BFQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=28.3016&pitch=0&thumbfov=100

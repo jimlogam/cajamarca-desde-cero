@@ -13,4 +13,5 @@ Longitud: -78.4926334
 Google Maps: https://www.google.com/maps?cid=6378102769688047683
 Place Id: ChIJdW1IKSFbspERQ_AwKK2Sg1g
 Fotos: Hospital Veterinario de la UNC.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fR2I71xpMaUyX7SQkBOR5A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=41.32779&pitch=0&thumbfov=100
 

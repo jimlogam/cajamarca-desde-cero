@@ -13,4 +13,5 @@ Longitud: -78.5175544
 Google Maps: https://www.google.com/maps?cid=7901844654209766818
 Place Id: ChIJfw8tHRNbspERohV-5Nj9qG0
 Fotos: Jugueria Nro 5.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xZaBz2QaxeMlY9YVER7k_g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=34.034393&pitch=0&thumbfov=100
 

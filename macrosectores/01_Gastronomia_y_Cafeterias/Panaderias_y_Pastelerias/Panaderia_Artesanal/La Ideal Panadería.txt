@@ -13,3 +13,4 @@ Longitud: -78.4974496
 Google Maps: https://www.google.com/maps?cid=9569004439681022936
 Place Id: ChIJz-KcZz1bspER2LtS0dbuy4Q
 Fotos: La Ideal Panadería.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pqg1SPh4OyXNvgFsWsldIQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=266.16608&pitch=0.49829638&thumbfov=100

@@ -13,5 +13,6 @@ Longitud: -78.5090733
 Google Maps: https://www.google.com/maps?cid=13015176033197153179
 Place Id: ChIJaUxQtBxbspERm9vkE6Uxn7Q
 Fotos: Bioplus Farma.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Wd6b8GPDLNJVLos59R_kMQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=331.01718&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

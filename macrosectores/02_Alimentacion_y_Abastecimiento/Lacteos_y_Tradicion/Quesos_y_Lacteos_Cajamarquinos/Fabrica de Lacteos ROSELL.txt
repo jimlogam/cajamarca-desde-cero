@@ -13,5 +13,6 @@ Longitud: -78.5161126
 Google Maps: https://www.google.com/maps?cid=1837186322998625356
 Place Id: ChIJtekTbflaspERTASKGDr_fhk
 Fotos: Fabrica de Lacteos ROSELL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DQPTi8tL0Z1wh5Vz76jMVA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=182.49127&pitch=6.3628325&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

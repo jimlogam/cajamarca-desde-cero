@@ -13,5 +13,6 @@ Longitud: -78.5111001
 Google Maps: https://www.google.com/maps?cid=4527733343485437907
 Place Id: ChIJ0yUpnAJbspER0yckqHy91T4
 Fotos: Boticas Arcángel (2).jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_QtH5bTszR2py1pdW9Z18g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=275.86246&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

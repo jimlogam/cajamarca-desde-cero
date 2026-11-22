@@ -13,4 +13,5 @@ Longitud: -78.5023058
 Google Maps: https://www.google.com/maps?cid=4094060196121202839
 Place Id: ChIJR1w1q_dbspERl9Deng4G0Tg
 Fotos: El Olivar Chicken & Grill.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KPq8-VRYttux6H0PZaJ4Nw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=154.13658&pitch=-2.4819016&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

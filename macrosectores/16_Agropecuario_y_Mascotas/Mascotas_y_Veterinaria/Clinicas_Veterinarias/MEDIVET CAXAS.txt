@@ -13,4 +13,5 @@ Longitud: -78.5218901
 Google Maps: https://www.google.com/maps?cid=5026571991778166976
 Place Id: ChIJbUWb3zRbspERwIjdN5j4wUU
 Fotos: MEDIVET CAXAS.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=slv3F4S-VqRleVTx0SGXEA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=312.69284&pitch=0&thumbfov=100
 

@@ -13,5 +13,6 @@ Longitud: -78.5267389
 Google Maps: https://www.google.com/maps?cid=13975829801816838977
 Place Id: ChIJ_Se-mBpbspERQVOcWigf9ME
 Fotos: JHADAY MULTISERVICIOS EIRL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d_2tvI3K_47YhUh7wPNK0g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=69.60007&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

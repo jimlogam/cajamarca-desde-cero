@@ -13,4 +13,5 @@ Longitud: -78.509331
 Google Maps: https://www.google.com/maps?cid=3780630637044220307
 Place Id: ChIJuxxnj8FbspERk8H6o4h_dzQ
 Fotos: Heladería Amapola.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLeg8Cg8-DNUmkdry6fi0IsR4Y88WLvYphzYHCx6unCW6C282HfN3pn0vaJKDGVoO-hbLzyqRRe5UhGcuIn1nALkFc7tsKfMmnML6uiqAghkva7QL16b7SSHZQEbPBjnCxTNc4qcE89FA_E=w1600-h1200-k-no
 

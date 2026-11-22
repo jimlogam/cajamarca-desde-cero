@@ -13,5 +13,6 @@ Longitud: -78.51422269999999
 Google Maps: https://www.google.com/maps?cid=10869755825650784348
 Place Id: ChIJca1MUZhbspERXNglP1Uh2ZY
 Fotos: Ricardo cąstręjon E.I.R.L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ph8p0jW3EMPbcOtXoq2FYQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=207.27315&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

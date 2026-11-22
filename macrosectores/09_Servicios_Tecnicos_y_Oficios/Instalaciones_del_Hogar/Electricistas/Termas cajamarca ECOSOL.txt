@@ -13,5 +13,6 @@ Longitud: -78.5030189
 Google Maps: https://www.google.com/maps?cid=17423383957532902354
 Place Id: ChIJRyPeq_5bspER0gP9dWVLzPE
 Fotos: Termas cajamarca ECOSOL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=l1Lt2FuJJhQ2R9S3hW9rRQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=40.70441&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

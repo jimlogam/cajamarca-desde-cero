@@ -13,5 +13,6 @@ Longitud: -78.5025856
 Google Maps: https://www.google.com/maps?cid=932080039640533311
 Place Id: ChIJEfNRYJVbspERP4kBkdtp7ww
 Fotos: Ricío carrera E. I. R. L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=03uexWRZO4gY3ZDVtValLQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=134.3581&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

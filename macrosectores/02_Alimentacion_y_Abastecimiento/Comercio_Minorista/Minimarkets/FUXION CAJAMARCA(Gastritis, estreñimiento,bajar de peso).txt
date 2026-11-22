@@ -13,5 +13,6 @@ Longitud: -78.4957881
 Google Maps: https://www.google.com/maps?cid=1786876257857425032
 Place Id: ChIJp6z0dvdbspERiM4rP31CzBg
 Fotos: FUXION CAJAMARCA(Gastritis, estreñimiento,bajar de peso).jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EyQieP0hVuMu-NegefKo2w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=15.98157&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

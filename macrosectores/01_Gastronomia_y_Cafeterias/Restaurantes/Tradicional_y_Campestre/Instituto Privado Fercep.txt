@@ -13,5 +13,6 @@ Longitud: -78.50601139999999
 Google Maps: https://www.google.com/maps?cid=13156763612630453325
 Place Id: ChIJB3E45QZbspERTYyfVMw2lrY
 Fotos: Instituto Privado Fercep.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NSmZJTlVsKtE7WWMKYn-ag&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=238.8545&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

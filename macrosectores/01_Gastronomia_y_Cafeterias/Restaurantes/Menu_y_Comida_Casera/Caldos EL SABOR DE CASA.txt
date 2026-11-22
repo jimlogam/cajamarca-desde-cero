@@ -13,3 +13,4 @@ Longitud: -78.45847429999999
 Google Maps: https://www.google.com/maps?cid=15086459399033221788
 Place Id: ChIJbQEOqrFFspERnHK6VeTeXdE
 Fotos: Caldos EL SABOR DE CASA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OMp9DMTA7UVE-vzdD4yp5A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=203.5535&pitch=0&thumbfov=100

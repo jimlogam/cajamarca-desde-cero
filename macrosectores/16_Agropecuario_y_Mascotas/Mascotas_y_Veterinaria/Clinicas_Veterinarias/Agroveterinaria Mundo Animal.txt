@@ -13,4 +13,5 @@ Longitud: -78.4954715
 Google Maps: https://www.google.com/maps?cid=8186973618159763092
 Place Id: ChIJ9X56tj1bspERlD7oFyH5nXE
 Fotos: Agroveterinaria Mundo Animal.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Cn8e5oqW51QswOqnwRS4BA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=254.28441&pitch=-1.6467247&thumbfov=100
 

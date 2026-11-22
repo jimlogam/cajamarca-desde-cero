@@ -13,4 +13,5 @@ Longitud: -78.51470049999999
 Google Maps: https://www.google.com/maps?cid=16500713395922500772
 Place Id: ChIJyU-QAPpaspERpHx9uGhP_uQ
 Fotos: Agroveterinaria La Solucion.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iyFmQhjH0jNvcCyw_Ea6Pw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=131.27837&pitch=0&thumbfov=100
 

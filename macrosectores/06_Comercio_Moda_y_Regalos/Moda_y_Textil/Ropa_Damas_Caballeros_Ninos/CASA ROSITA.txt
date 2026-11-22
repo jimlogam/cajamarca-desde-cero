@@ -13,5 +13,6 @@ Longitud: -78.4981581
 Google Maps: https://www.google.com/maps?cid=6989326180674230163
 Place Id: ChIJq-aeQ2hbspERk9dsWiET_2A
 Fotos: CASA ROSITA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KDEv2OurWAUL9YHiCYurbg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=178.74864&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

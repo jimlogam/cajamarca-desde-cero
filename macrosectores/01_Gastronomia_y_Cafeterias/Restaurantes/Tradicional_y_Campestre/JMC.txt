@@ -13,5 +13,6 @@ Longitud: -78.5133559
 Google Maps: https://www.google.com/maps?cid=17831984049983818067
 Place Id: ChIJn3gc571bspERU4m3-wPvd_c
 Fotos: JMC.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3LXI1IDCOdBU18M9j8ZxjQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=11.175408&pitch=-2.2284722&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

@@ -13,5 +13,6 @@ Longitud: -78.5171158
 Google Maps: https://www.google.com/maps?cid=928335652793723641
 Place Id: ChIJK-5oIgBbspER-aoZkVsc4gw
 Fotos: Plaza de armas de Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G3-0ecx86nqdZhW2IVumcA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=131.33755&pitch=0&thumbfov=100
 Nota: Centro comercial (no es una tienda individual)
 

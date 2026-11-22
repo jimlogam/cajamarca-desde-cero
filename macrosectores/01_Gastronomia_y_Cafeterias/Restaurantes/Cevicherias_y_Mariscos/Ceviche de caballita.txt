@@ -13,3 +13,4 @@ Longitud: -78.51132199999999
 Google Maps: https://www.google.com/maps?cid=7601276822969076483
 Place Id: ChIJI8uNegpbspERA0t7SP8ofWk
 Fotos: Ceviche de caballita.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sVxhF5Z04Re85Adx-NNfeA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=99.284035&pitch=0&thumbfov=100

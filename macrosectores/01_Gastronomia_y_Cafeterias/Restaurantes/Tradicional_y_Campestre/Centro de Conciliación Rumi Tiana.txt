@@ -13,5 +13,6 @@ Longitud: -78.5137094
 Google Maps: https://www.google.com/maps?cid=2589574031364187629
 Place Id: ChIJ4xxxqRVbspER7eUJg9wD8CM
 Fotos: Centro de Conciliación Rumi Tiana.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PLNx4KbIYbFP6QGQlvarSw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=273.64304&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

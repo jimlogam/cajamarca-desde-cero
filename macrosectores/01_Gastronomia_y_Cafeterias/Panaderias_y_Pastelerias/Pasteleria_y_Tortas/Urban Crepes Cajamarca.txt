@@ -13,3 +13,4 @@ Longitud: -78.50922059999999
 Google Maps: https://www.google.com/maps?cid=7931800083769372355
 Place Id: ChIJ5dJKU4xbspERw6581iZqE24
 Fotos: Urban Crepes Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pCdHWBD082IGBN492kN3GQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=66.39431&pitch=0&thumbfov=100

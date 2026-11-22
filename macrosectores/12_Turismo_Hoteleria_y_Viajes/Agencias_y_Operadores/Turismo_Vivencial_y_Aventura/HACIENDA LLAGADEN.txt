@@ -13,5 +13,6 @@ Longitud: -78.58045919999999
 Google Maps: https://www.google.com/maps?cid=13359898194921462263
 Place Id: ChIJz_J9qhNespER9xmt35_kZ7k
 Fotos: HACIENDA LLAGADEN.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcWkZ9EjrZYELPJ6T61Qs1kh3iUrmJIVdClHKFYGKnxP0_oMphTPB1aNfSeoU92qC8Y5NNs9-I98aSKKX06FpiL-6RbpCdXjxjnxhh1JiNAxeBaSrfbkKWX8pdE9y6lDIcGoC1Zag=w1600-h1200-k-no
 Nota: Atraccion turistica, no es un negocio Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

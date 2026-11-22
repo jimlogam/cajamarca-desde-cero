@@ -13,5 +13,6 @@ Longitud: -78.5017876
 Google Maps: https://www.google.com/maps?cid=4166919058794693324
 Place Id: ChIJt8n6UB5bspERzEJDg87e0zk
 Fotos: Botica Marifarma.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q-UQqiik-1zsMFgGUwXIsQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=14.696968&pitch=2.4009194&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

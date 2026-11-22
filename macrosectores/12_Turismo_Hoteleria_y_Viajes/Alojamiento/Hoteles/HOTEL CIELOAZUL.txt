@@ -13,4 +13,5 @@ Longitud: -78.5167361
 Google Maps: https://www.google.com/maps?cid=3026419050987327020
 Place Id: ChIJfYXhC_laspERLA6TmxcAACo
 Fotos: HOTEL CIELOAZUL.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLc9ps2OkGcf4ruOHrOjd9zGlrAxu8pYtJGx7ACcUoc0ffWDTmpZjRXUBoF4kvtPEyZiN34vGr7FwhWnpg9veTNHOZLJnFTyvk5bKwaBemih3IMhXWpkFOcM1LukPtVog5JMyC0n=w1600-h1200-k-no
 

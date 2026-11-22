@@ -13,3 +13,4 @@ Longitud: -78.4860975
 Google Maps: https://www.google.com/maps?cid=326394976723260607
 Place Id: ChIJPbVs-fBbspERv9QPhICWhwQ
 Fotos: TERRENO CAJAMARCA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-YTJ3YeFxtx29FR2CXPJug&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=282.63113&pitch=0&thumbfov=100

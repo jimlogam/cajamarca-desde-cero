@@ -13,4 +13,5 @@ Longitud: -78.4979482
 Google Maps: https://www.google.com/maps?cid=13603831919994978623
 Place Id: ChIJJzGlf5FbspERP8FrFw6Fyrw
 Fotos: LA CASA DEL FIERRO CAJAMARCA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RVM90k6nndM1pQi5hPDVnQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=66.4035&pitch=-2.532073&thumbfov=100
 

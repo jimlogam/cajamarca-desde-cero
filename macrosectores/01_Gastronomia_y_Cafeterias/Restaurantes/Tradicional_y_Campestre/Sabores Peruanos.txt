@@ -13,3 +13,4 @@ Longitud: -78.497564
 Google Maps: https://www.google.com/maps?cid=17756658146958397552
 Place Id: ChIJqQQtLyBbspERcFCAf4FSbPY
 Fotos: Sabores Peruanos.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcG4moZTs8Y1IXGPyRb3-46HUBY-Pf5LTgKxbMnNOlgU-zyEfl55A5IQIIKRJXVCPyCgfvDIDSABe7HdKvC-OCMIWL_UPX2IeRejj0-vvwfxuKVEgtecdYlcuN1y-syt_eHfDEV=w1600-h1200-k-no

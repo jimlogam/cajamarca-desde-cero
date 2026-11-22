@@ -13,4 +13,5 @@ Longitud: -78.5167529
 Google Maps: https://www.google.com/maps?cid=17562709406481342293
 Place Id: ChIJUUjrFwFbspERVV-7aidHu_M
 Fotos: Clinica Veterinaria Vetsalud.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcTe8iVHUqqX6_1LNdRlmMyH85-APQRUqpfjJRFDjSN5EYHglLBGxxWAaYvI3lJ_Hq60flD42Y-r3TVOWT90Fsa4jqTwq_p8f8oY14sNi1K01STV0dzfCN2oz1F1e-fgLtyICBM=w1600-h1200-k-no
 

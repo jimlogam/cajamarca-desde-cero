@@ -13,5 +13,6 @@ Longitud: -78.5121774
 Google Maps: https://www.google.com/maps?cid=17535219414007709663
 Place Id: ChIJacunzPNaspER3392xiadWfM
 Fotos: Distribuidora Productos De Limpieza Lalita.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1n-6ljnKUrxzx9i0qfsSiQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=71.629616&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
 

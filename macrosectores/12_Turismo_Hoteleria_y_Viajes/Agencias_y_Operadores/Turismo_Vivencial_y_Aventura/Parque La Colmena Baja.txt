@@ -13,5 +13,6 @@ Longitud: -78.50860019999999
 Google Maps: https://www.google.com/maps?cid=15160792081497298334
 Place Id: ChIJUat4t-RaspERnpUzoxL0ZdI
 Fotos: Parque La Colmena Baja.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdMt4Xb6zwHfIE50g-LNCbBUXJ3jmmtO_NdIMqXmGusJt2ptT1jAVyOG76JsaDJXI8BKp7mSgaw-83qggWT0PqY5fX-ayQfSI6z8_PI0E5J7fc8_9a1OLT_OMfEy5XIE09ZNEAxCQ=w1600-h1200-k-no
 Nota: Atraccion turistica, no es un negocio Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,4 +13,5 @@ Longitud: -78.5107192
 Google Maps: https://www.google.com/maps?cid=5190307615036023382
 Place Id: ChIJ3YsKTOFbspERViI6xUatB0g
 Fotos: Restaurante jugueria frutpulp.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdd9cZ2po-n8LsGQDLHSmlncb5hJ0ftpaWhaGW09Iy1VsdTkAgsQJI9TQCcP871SYGk9krTndHs7EzNScIon0WQu6QTlzd2eCSI9q05GbMBt3jxXx2vnvXSEE8eS4BB3g4UjqnQ-g=w1600-h1200-k-no
 

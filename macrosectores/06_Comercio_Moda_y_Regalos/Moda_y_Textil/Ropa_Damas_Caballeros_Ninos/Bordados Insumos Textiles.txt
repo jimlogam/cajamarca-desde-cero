@@ -13,5 +13,6 @@ Longitud: -78.5189698
 Google Maps: https://www.google.com/maps?cid=2315160487797740803
 Place Id: ChIJVT61lfdaspERA1U0iTIaISA
 Fotos: Bordados Insumos Textiles.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=80UwbeEepZ9bmk4O5u255w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=277.99283&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

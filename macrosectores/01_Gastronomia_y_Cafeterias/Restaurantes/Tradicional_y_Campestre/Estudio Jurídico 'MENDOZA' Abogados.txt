@@ -13,5 +13,6 @@ Longitud: -78.50184209999999
 Google Maps: https://www.google.com/maps?cid=2072178329447014061
 Place Id: ChIJWyqh4bVbspERrZ7zNTbbwRw
 Fotos: Estudio Jurídico 'MENDOZA' Abogados.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xNJTJ9XdFToTcy5meVmmbQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=66.23617&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

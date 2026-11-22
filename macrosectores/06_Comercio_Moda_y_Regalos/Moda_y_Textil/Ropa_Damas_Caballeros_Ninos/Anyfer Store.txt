@@ -13,5 +13,6 @@ Longitud: -78.5220817
 Google Maps: https://www.google.com/maps?cid=270464177224187813
 Place Id: ChIJBS-vqdpbspERpX_qd7zhwAM
 Fotos: Anyfer Store.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zQv8W4fdj7Wi29018wP3Zg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=330.2528&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

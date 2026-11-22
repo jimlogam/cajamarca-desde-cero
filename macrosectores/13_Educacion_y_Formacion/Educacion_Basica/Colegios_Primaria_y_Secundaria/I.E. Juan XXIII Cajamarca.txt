@@ -13,4 +13,5 @@ Longitud: -78.50996479999999
 Google Maps: https://www.google.com/maps?cid=7780801797003578848
 Place Id: ChIJs4WZ6bZbspER4I0eigL2-ms
 Fotos: I.E. Juan XXIII Cajamarca.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdwO7IZvRwq_s0cRAsjMOlYs84hRq2zvTv-msFuPSsr48-PnGFgGSf2RbLORuQsZxrlyv3X3wEN0m1l5Z3sZAQRKZQFJLDXBAvpfRFvRPtVJgU1BLkQhahD-aBaeMV-M_PhUe41=w1600-h1200-k-no
 

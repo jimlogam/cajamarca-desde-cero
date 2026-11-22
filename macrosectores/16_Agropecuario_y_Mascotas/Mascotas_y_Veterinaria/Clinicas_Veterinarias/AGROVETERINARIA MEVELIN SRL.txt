@@ -13,4 +13,5 @@ Longitud: -78.5002763
 Google Maps: https://www.google.com/maps?cid=15238464569498134954
 Place Id: ChIJ99HZrh9bspERqulPA8rmedM
 Fotos: AGROVETERINARIA MEVELIN SRL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XZ0O7I2tup_nprgW-zmr4w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=191.65709&pitch=0&thumbfov=100
 

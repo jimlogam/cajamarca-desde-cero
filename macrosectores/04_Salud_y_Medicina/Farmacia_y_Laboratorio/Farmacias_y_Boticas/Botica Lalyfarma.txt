@@ -13,5 +13,6 @@ Longitud: -78.50165199999999
 Google Maps: https://www.google.com/maps?cid=908001929801823512
 Place Id: ChIJydeQkRZbspERGPU0wfHemQw
 Fotos: Botica Lalyfarma.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DCMjArCDMXwR8xQ0fbgvOQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=264.7302&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

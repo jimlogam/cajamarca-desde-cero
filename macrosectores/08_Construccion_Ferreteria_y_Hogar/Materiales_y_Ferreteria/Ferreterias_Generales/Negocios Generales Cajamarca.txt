@@ -13,5 +13,6 @@ Longitud: -78.51192139999999
 Google Maps: https://www.google.com/maps?cid=13344273890550273625
 Place Id: ChIJ8bD79gRbspERWdbEB2diMLk
 Fotos: Negocios Generales Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JhYxZ-K9pSjiEIKYISazeQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=319.83383&pitch=0&thumbfov=100
 Nota: Aparecia 3 veces en los archivos de la cosecha original; fusionado en uno.
 

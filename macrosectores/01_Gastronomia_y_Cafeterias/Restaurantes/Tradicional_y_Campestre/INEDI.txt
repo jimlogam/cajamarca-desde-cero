@@ -13,5 +13,6 @@ Longitud: -78.5134425
 Google Maps: https://www.google.com/maps?cid=10276089873933517623
 Place Id: ChIJtfXtuPtaspERN8PLl0sBnI4
 Fotos: INEDI.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T2GlWUi-sJKiaxkr40RGDg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=167.64821&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

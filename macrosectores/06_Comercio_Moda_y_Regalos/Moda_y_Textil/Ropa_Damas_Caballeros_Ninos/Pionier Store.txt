@@ -13,5 +13,6 @@ Longitud: -78.5172541
 Google Maps: https://www.google.com/maps?cid=13956868052310155340
 Place Id: ChIJ2dLno_laspERTODxAozBsME
 Fotos: Pionier Store.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WqBNmVbMnaH_We5ZvN8qSQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=116.052956&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

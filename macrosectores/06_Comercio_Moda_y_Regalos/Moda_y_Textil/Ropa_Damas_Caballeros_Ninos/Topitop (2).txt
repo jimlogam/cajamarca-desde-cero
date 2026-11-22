@@ -13,5 +13,6 @@ Longitud: -78.5054917
 Google Maps: https://www.google.com/maps?cid=9674551360469193552
 Place Id: ChIJGREyveVaspERUNMJUjTpQoY
 Fotos: Topitop (2).jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ppK-N2mvhtB_TyIKC8l3kA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=96.46322&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

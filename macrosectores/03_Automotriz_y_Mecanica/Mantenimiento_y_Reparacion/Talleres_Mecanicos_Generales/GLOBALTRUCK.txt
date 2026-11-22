@@ -13,4 +13,5 @@ Longitud: -78.50598769999999
 Google Maps: https://www.google.com/maps?cid=14013358269672404639
 Place Id: ChIJk2cXeeRaspERnzYbrhlzecI
 Fotos: GLOBALTRUCK.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfAF0-ZKXcNj8q3JO8MHRShGZfrnQHFkM2WTZA6Hi5foWjKwAqjQ4TBrhjN1jqNcpAgBkwgOlK2XoB4d47y_jQTq7rjDHLCcdDExWcWpwj836r2V5Hu0npc_AIwx0DtZi0Wm9E=w1600-h1200-k-no
 

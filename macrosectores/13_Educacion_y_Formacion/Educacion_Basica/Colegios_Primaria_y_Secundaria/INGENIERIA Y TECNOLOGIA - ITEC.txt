@@ -13,5 +13,6 @@ Longitud: -78.5206774
 Google Maps: https://www.google.com/maps?cid=4421742038514557076
 Place Id: ChIJF3NhviNbspERlGAS5vQuXT0
 Fotos: INGENIERIA Y TECNOLOGIA - ITEC.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcYPojsZcOecQSeKRvGYuw6rDNrbIu3nMshoOYA8ItHYw4lh_C50fLNMJGPHxmqfrYdc2xbpiebRXIcxHMuxTdN1XSeojNLa0psUka6H-UV9_kSYXwp1xtVNoCfWsZD7DoA4kc=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

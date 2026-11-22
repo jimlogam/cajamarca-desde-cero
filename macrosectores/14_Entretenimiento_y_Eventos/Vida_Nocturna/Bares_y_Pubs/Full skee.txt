@@ -13,5 +13,6 @@ Longitud: -78.51606939999999
 Google Maps: https://www.google.com/maps?cid=2308004685882861390
 Place Id: ChIJAzAMYwBbspERTif8kQiuByA
 Fotos: Full skee.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfx8fMVe2PLsGA3VM1pKVZiiebM9SeFM2aewyUnNr_NlHg_oMW0G-PVhIlIWAOrJQRjeOHyoz0im5tt1kxz3rX5H7MwIcI7FiGOe5S4Vje0SKzixZdnq8VM6z1SG97I5Y9-pgPRhLP_ricf=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,4 +13,5 @@ Longitud: -78.5066968
 Google Maps: https://www.google.com/maps?cid=8228902808793026158
 Place Id: ChIJ76GWqO9aspERbo5SiYHvMnI
 Fotos: DISMOTOR PERU.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdzRS8Q5DigEFDchz4lvplNNl-jXjG4QLFP_d0Gzqghw0wwAKO1Pqnksqy0JNGcAjJVMObIDXt38xOkZuLWzfD31zd6gWlcpZMMtCdKxj_c4F0Zc_FM6Dd1rN0P8_7Wv-v4PUCl7A=w1600-h1200-k-no
 

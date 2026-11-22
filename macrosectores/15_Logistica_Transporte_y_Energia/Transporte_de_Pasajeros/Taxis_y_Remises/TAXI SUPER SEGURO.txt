@@ -13,5 +13,6 @@ Longitud: -78.51067689999999
 Google Maps: https://www.google.com/maps?cid=678128954162794610
 Place Id: ChIJwy_4R_BaspERctDH4LAyaQk
 Fotos: TAXI SUPER SEGURO.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b9A0hXymMCVhfEHWnvvotQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=142.0446&pitch=2.4431021&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

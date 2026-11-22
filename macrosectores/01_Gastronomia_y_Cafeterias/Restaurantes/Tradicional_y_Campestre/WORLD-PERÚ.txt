@@ -13,5 +13,6 @@ Longitud: -78.5120364
 Google Maps: https://www.google.com/maps?cid=8232732428595880129
 Place Id: ChIJa_vUqbJbspERweBLYYaKQHI
 Fotos: WORLD-PERÚ.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UxnepsKhMW0RYViy68r2Lg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=153.82082&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

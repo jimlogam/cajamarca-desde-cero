@@ -13,5 +13,6 @@ Longitud: -78.51011319999999
 Google Maps: https://www.google.com/maps?cid=5046519220033820680
 Place Id: ChIJFbO2IilbspERCBhMNn7WCEY
 Fotos: MULTISERVICIOS TRANSPORTES CAJAMARCA SA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n0-sXkM_JvGTbwBKoRerAQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=28.542631&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

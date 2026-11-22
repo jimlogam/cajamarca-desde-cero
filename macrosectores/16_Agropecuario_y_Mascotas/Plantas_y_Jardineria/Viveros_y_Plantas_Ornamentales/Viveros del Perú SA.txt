@@ -13,5 +13,6 @@ Longitud: -79.02985319999999
 Google Maps: https://www.google.com/maps?cid=1061787417588847045
 Place Id: ChIJ1cgbHgbDspERxdFc3Ac6vA4
 Fotos: Viveros del Perú SA.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcd9w5Z0VdfOmo7vu-sDaDJ8g9vLBPADLMKxHNyytL_F61LVr5TVQx1mBpkTmukz7CdbaAEb7U3P4wyIiYn0MD43JOyzcj0oDAZODxhryd1uAfd_-fMAJtNAGe4mUL6sjoPYOez=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

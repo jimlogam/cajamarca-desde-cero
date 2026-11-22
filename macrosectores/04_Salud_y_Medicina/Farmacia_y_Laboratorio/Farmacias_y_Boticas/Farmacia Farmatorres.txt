@@ -13,5 +13,6 @@ Longitud: -78.5112857
 Google Maps: https://www.google.com/maps?cid=11966337404566071268
 Place Id: ChIJI6ASZQNbspER5GehFXj4EKY
 Fotos: Farmacia Farmatorres.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_IAVFsGr7t2Mb_8u3KrvIw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=254.79666&pitch=1.3479586&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

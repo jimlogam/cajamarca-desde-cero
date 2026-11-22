@@ -13,5 +13,6 @@ Longitud: -78.45705699999999
 Google Maps: https://www.google.com/maps?cid=7579499080312273655
 Place Id: ChIJUV5Lpt1FspER97ppcUHKL2k
 Fotos: MC MAQUINARIAS.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfzUo9U7x0SP2jbozZIoMmQRCYnMRpdM24KlGFFieYUv5yEqwx6TmPmNt3WuxIZFBWSQWd8vDOkjssCmsJn0PLJL1YTVqVYsmojoHiy-0J_d8xTElBap8qXHuGo_Sct8DBcoXo=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

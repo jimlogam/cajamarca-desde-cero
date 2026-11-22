@@ -13,4 +13,5 @@ Longitud: -78.5215307
 Google Maps: https://www.google.com/maps?cid=1554259420703976598
 Place Id: ChIJ03cimHpbspERlmzdU7XWkRU
 Fotos: Panadería & Pastelería Tentación.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vLUFKrnaWALFtPboS4DJXw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=160.25273&pitch=0&thumbfov=100
 Nota: Sin categoria en Maps; clasificado por el nombre.

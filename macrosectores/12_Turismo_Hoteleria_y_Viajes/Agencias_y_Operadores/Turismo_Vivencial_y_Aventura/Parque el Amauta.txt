@@ -13,5 +13,6 @@ Longitud: -78.5232273
 Google Maps: https://www.google.com/maps?cid=10720242226691745126
 Place Id: ChIJv53UNF5aspERZqUaxIHzxZQ
 Fotos: Parque el Amauta.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcNjl4FLWTXmP6Uar_esRTiSR-eHVwijbuD4dXGYPxPSCgecLMUkSeNZr2DCL5nnJ_ys6dX_IXyItpBheDCJMOsfG-gTptfUM-7P0sQJiStGb5pfrYli5nbhaKEWqDJu8yMyo8g=w1600-h1200-k-no
 Nota: Atraccion turistica, no es un negocio Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

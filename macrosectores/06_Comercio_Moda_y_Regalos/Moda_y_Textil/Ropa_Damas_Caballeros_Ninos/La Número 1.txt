@@ -13,5 +13,6 @@ Longitud: -78.51751949999999
 Google Maps: https://www.google.com/maps?cid=5154115341485515973
 Place Id: ChIJ0-2noxRbspERxaSibJgYh0c
 Fotos: La Número 1.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLf51Eg741EgN2artEk_KrGdey2HgYVTIkJaqxDP_Ws7ez4rwO4EdqgbR1OtFG7oWK1P_LRQUpjqqfdWRaGC-KZZGkpuCd1K7YINOjvBlpP8X2Un-7cz9C16vFhvYjS6rhCSLYTd=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

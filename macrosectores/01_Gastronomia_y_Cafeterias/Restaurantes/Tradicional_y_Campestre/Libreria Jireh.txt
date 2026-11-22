@@ -13,5 +13,6 @@ Longitud: -78.50769559999999
 Google Maps: https://www.google.com/maps?cid=10559667413612758608
 Place Id: ChIJ4Y9PYqRbspERUAaorpB5i5I
 Fotos: Libreria Jireh.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FnRFPFW75W-dIOEGNStTqg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=269.74332&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

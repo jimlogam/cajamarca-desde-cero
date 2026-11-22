@@ -13,5 +13,6 @@ Longitud: -78.502545
 Google Maps: https://www.google.com/maps?cid=10182004924167704562
 Place Id: ChIJJVo28FpbspER8k9LLoi_TY0
 Fotos: Distribuidora PECHE.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NRLUv1NXT3D-2voeIojcRA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=262.41946&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.51864549999999
 Google Maps: https://www.google.com/maps?cid=6006708821238361905
 Place Id: ChIJj0uDvPdaspERMS8eF9kdXFM
 Fotos: Centro Comercial Polvos Dorados.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcq-7pENpWykw80VcfBSD2whqtGSi6KtiSprqJaSKf-xbxQntg1CZ7uXS0XoZjS4lDmYeprETv3QfQbKtr3rmB5FJ7o7YD4OMAuoSPrHeiX5caxG_Td0dGVlxA-DB4y5dSxxYsJ-A=w1600-h1200-k-no
 Nota: Centro comercial (no es una tienda individual) Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

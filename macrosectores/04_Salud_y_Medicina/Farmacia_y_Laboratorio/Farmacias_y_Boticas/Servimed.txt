@@ -13,5 +13,6 @@ Longitud: -78.5132745
 Google Maps: https://www.google.com/maps?cid=16471313358195067924
 Place Id: ChIJPVZZt_taspERFAxdAzvcleQ
 Fotos: Servimed.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_-r3mPoDoJ7dwZ9v5Wgy3w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=148.02853&pitch=6.8143024&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

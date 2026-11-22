@@ -13,5 +13,6 @@ Longitud: -78.5066349
 Google Maps: https://www.google.com/maps?cid=5961024084201841242
 Place Id: ChIJCekHBCFbspERWiJmXNLPuVI
 Fotos: SPOT BIKES CAJAMARCA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mEAaI43judYs9HTiez8OAg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=83.01631&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

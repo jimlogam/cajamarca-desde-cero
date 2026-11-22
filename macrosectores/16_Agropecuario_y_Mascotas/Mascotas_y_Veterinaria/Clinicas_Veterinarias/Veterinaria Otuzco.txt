@@ -13,4 +13,5 @@ Longitud: -78.5111613
 Google Maps: https://www.google.com/maps?cid=13502232410589916845
 Place Id: ChIJX8hmdvBaspERrW7669aQYbs
 Fotos: Veterinaria Otuzco.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JXaacc0hZd6XvN4-q_EN-Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=206.3916&pitch=0&thumbfov=100
 

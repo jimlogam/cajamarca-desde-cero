@@ -13,3 +13,4 @@ Longitud: -78.5159166
 Google Maps: https://www.google.com/maps?cid=13807775963296241724
 Place Id: ChIJwY2bYTlbspERPBhz9hQTn78
 Fotos: Oh la la cafetería.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLc_P5a8AiBFPrzyC-xwuZbjsQdF-4UNf33Wvfo8_hrNBkR5gp4FRpo5OEwQQLV1xlaKK29W73vpsWOfAXsi7Pp3BQ3P-l7mSFbSiG_tJvNFnrsh_6vU0i4hXW5TLJUq5e44ZaL-=w1600-h1200-k-no

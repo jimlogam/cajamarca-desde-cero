@@ -13,5 +13,6 @@ Longitud: -78.5004992
 Google Maps: https://www.google.com/maps?cid=1706848062794656806
 Place Id: ChIJnShbWtBbspERJmxwFEXxrxc
 Fotos: SK Moto Tech.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=edW4aKCR2JeK3_wPGjoBTA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=314.79193&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
 

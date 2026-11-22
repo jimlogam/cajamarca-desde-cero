@@ -13,5 +13,6 @@ Longitud: -78.5135961
 Google Maps: https://www.google.com/maps?cid=17137814528412337907
 Place Id: ChIJRV7sl0BbspER88aLeIO_1e0
 Fotos: ApoPrint.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=63h0QETUjG4cKbBIYM7Pww&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=285.47345&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.50663759999999
 Google Maps: https://www.google.com/maps?cid=11554056568684627626
 Place Id: ChIJo2YshuRaspERqkY3sztBWKA
 Fotos: CONSORCIO C&T.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ho15Iz4_6jU67PfCRoLw1Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=105.50165&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
 

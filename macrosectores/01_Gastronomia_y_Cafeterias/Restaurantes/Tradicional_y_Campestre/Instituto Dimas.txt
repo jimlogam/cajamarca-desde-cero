@@ -13,5 +13,6 @@ Longitud: -78.5196508
 Google Maps: https://www.google.com/maps?cid=3036850660105277754
 Place Id: ChIJwTCzUIxbspEROlF835UPJSo
 Fotos: Instituto Dimas.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yqqAkuy9HH5hjjD4W-yvow&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=323.63855&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

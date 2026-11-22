@@ -13,5 +13,6 @@ Longitud: -78.524501
 Google Maps: https://www.google.com/maps?cid=13213290636508250022
 Place Id: ChIJG3RLPlRaspERpr8Rr9MJX7c
 Fotos: Botica Farma Gabriel.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PQDLsUwcaeDXh7HL0Md8kA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=25.243307&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

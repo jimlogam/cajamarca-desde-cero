@@ -13,5 +13,6 @@ Longitud: -78.5050902
 Google Maps: https://www.google.com/maps?cid=7796692476077958672
 Place Id: ChIJl6tCoe1bspEREGaWk39qM2w
 Fotos: Punta Sal.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdWhtkfftXLOXpYJlL1tBfmgD_pT5PBXCGcDVxUKbpbMTM78-s8cUbw0cE0c37A2wPjyr_lLPLLeSjYrnDG-3mJqhIrHCLDMcUbggT8IjM40U0WVh95YqAHB-00cZ_JddFi_eFH5A=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

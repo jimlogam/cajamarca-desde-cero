@@ -13,5 +13,6 @@ Longitud: -78.5067572
 Google Maps: https://www.google.com/maps?cid=4216782153692954053
 Place Id: ChIJOZQIaQBbspERxT0T_gYFhTo
 Fotos: BOTICA CARRIÓN PHARMA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gwuREufJ9NWz01xT0rS70Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=243.06584&pitch=-0.06940914&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

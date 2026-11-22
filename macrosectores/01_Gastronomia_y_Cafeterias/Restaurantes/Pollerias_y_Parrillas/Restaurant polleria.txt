@@ -13,4 +13,5 @@ Longitud: -78.521805
 Google Maps: https://www.google.com/maps?cid=12179888824380245965
 Place Id: ChIJIbQhfQBbspERzUfvnFqoB6k
 Fotos: Restaurant polleria.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfPZEAN86aP-7_bRhzog-J5j0guMerF6yJDJgDrsKTFG_nUHshIM9Ts5qgQlWNpX-D3Nczx0vuIODs54xnzzn2ZdzIBHnrZdeNxdGqhhNFXKkp-x6Lcx_E2tHfrQ1hYITJgrTkLkQ=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

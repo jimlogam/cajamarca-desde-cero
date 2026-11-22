@@ -13,5 +13,6 @@ Longitud: -78.51138279999999
 Google Maps: https://www.google.com/maps?cid=11515787535252520370
 Place Id: ChIJbWEiaYBbspERsv2YA8BL0J8
 Fotos: Valdez & Abogados.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4pQi8Ki_eK7j_E1NEauy_g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=233.23598&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

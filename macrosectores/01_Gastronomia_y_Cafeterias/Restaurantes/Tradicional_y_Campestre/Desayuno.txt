@@ -13,3 +13,4 @@ Longitud: -78.50514199999999
 Google Maps: https://www.google.com/maps?cid=11410309774376758739
 Place Id: ChIJ4fgeLgBbspER0-3kDkmQWZ4
 Fotos: Desayuno.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8mswHHqi8027TX_GGc-WEQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=1.3951159&pitch=0&thumbfov=100

@@ -13,5 +13,6 @@ Longitud: -78.50005689999999
 Google Maps: https://www.google.com/maps?cid=1920002586316912464
 Place Id: ChIJOUCtdgBbspERUDdA_S04pRo
 Fotos: Estudio jurídico Valdivia Díaz. Asesoria laboral.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k0a85-xEdU77eZx3DquQNQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=74.63756&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

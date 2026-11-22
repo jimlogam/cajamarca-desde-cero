@@ -13,5 +13,6 @@ Longitud: -78.523364
 Google Maps: https://www.google.com/maps?cid=7800509016918334101
 Place Id: ChIJyaBFWFZaspERlRqmPJ_5QGw
 Fotos: Janp'atu Minimarket.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9W0jtbqYkvi-W7RMju5icg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=206.14005&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.50730829999999
 Google Maps: https://www.google.com/maps?cid=4626123064427717727
 Place Id: ChIJfWo-WABbspERX6R0tmpKM0A
 Fotos: Grifo IGC.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cdq-0t1J9lhRJhO65RL5Yw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=172.16888&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

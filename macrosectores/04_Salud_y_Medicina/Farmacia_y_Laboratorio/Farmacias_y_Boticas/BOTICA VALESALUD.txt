@@ -13,5 +13,6 @@ Longitud: -78.50877969999999
 Google Maps: https://www.google.com/maps?cid=13660063576050350127
 Place Id: ChIJGZxs-4RbspERL7i7w3JLkr0
 Fotos: BOTICA VALESALUD.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PrciG_iWBrlticuueOAkKA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=95.59367&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

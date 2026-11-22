@@ -13,4 +13,5 @@ Longitud: -78.4996781
 Google Maps: https://www.google.com/maps?cid=7155858030849137665
 Place Id: ChIJ6VppQgVbspERAZzjN_e2TmM
 Fotos: CHÁVEZVET.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfZaQ1XtGElQ_sTmQM5DFGbkFyDn2VQMLV8BXsKKIFbYdgFCtY7FmYLuDJNkjSaDGsxIR0WhmI4Ko7JsYRGQN4TyglfSCp-zSOjyhKz0BH2QEd0-ukxNMkXgt9w3XIbcN_7YZZl=w1600-h1200-k-no
 

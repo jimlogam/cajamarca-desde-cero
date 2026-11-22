@@ -13,5 +13,6 @@ Longitud: -78.51407979999999
 Google Maps: https://www.google.com/maps?cid=9658527761374841541
 Place Id: ChIJ80wXPPBbspERxQr_bdP7CYY
 Fotos: Outfit _Kollekton.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TXW3rXTbwOZE8TnwPHUeBA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=67.06137&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

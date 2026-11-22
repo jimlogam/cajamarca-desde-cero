@@ -13,4 +13,5 @@ Longitud: -78.518185
 Google Maps: https://www.google.com/maps?cid=12246042769864243903
 Place Id: ChIJV0AO31xbspERv7r_UQSv8qk
 Fotos: Sanguchon.com.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLeDm70u5uVp8WJYZ-Ah1wJvxWrIfKtq4u2_Fdpj_7f5XYIAjSRrJy4dAwsdnx9kggSDBDDX6bR7e4IbQN8X677n8SYMwSCUxc-7hgtEm6_CQ_8kgII3uV9XteyZWbOXmp9F4cXcyl8Ucilj=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

@@ -13,4 +13,5 @@ Longitud: -78.5073414
 Google Maps: https://www.google.com/maps?cid=13184802267453475275
 Place Id: ChIJNRLzdRtbspERy0lUYc7T-bY
 Fotos: BomBocado.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u_2C-m4DaOzZZwnbj1hyfw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=229.60335&pitch=0&thumbfov=100
 

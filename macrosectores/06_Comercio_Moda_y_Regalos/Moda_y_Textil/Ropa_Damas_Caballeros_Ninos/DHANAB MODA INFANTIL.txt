@@ -13,5 +13,6 @@ Longitud: -78.51693139999999
 Google Maps: https://www.google.com/maps?cid=16649809111383449633
 Place Id: ChIJ02JxFrlbspERIaASHiwBEOc
 Fotos: DHANAB MODA INFANTIL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7COr5FoxTDMMfY6Hphb8JA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=235.83278&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

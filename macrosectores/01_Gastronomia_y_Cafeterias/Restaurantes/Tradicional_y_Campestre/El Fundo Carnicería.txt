@@ -13,5 +13,6 @@ Longitud: -78.5108226
 Google Maps: https://www.google.com/maps?cid=13326441323144633726
 Place Id: ChIJhWLuQPBaspERfl0f4sYH8bg
 Fotos: El Fundo Carnicería.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uTcnWbFAiLnp_2nxpYwyCQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=242.87555&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

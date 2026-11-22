@@ -13,5 +13,6 @@ Longitud: -78.4923599
 Google Maps: https://www.google.com/maps?cid=2463354592466141378
 Place Id: ChIJ48YHNwBbspERwoDFT_OXLyI
 Fotos: cajamarca (2).jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QEvOR54Qt3Q6OFBVO2GAhg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=304.00516&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

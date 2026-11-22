@@ -13,4 +13,5 @@ Longitud: -78.4936079
 Google Maps: https://www.google.com/maps?cid=2103512417822243525
 Place Id: ChIJqaFiYDxbspERxfrqLGYtMR0
 Fotos: Ferreteria Kemsy Inversiones S.R.L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ULYe389G6BaWDNospSpI2w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=144.05724&pitch=2.9664547&thumbfov=100
 

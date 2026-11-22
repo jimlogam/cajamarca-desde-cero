@@ -13,5 +13,6 @@ Longitud: -78.5263326
 Google Maps: https://www.google.com/maps?cid=8856819021493070719
 Place Id: ChIJD7QcoetbspERf2sEgPm96Xo
 Fotos: Piscina IE San Ramon.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u4IoGcBZIfQlNEaIXHrVIA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=125.66945&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

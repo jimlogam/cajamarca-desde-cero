@@ -13,4 +13,5 @@ Longitud: -78.5090025
 Google Maps: https://www.google.com/maps?cid=11524326531917622102
 Place Id: ChIJxXoshjxbspERViuPGuyh7p8
 Fotos: Clínica veterinaria Dr. Valdivia.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfSWRekTNylPpyn8UeOj8aLKnUcK22wMBVWNdoGe8YiywOghMwUL9zAXPHBCk-u9WbSq2Weh-WIaJ80RX7ZNRcmiyLl-eQSSJp0eCDzveo6x5VRF9E2Z9PHI2uc28nrc5Bv7lHM=w1600-h1200-k-no
 

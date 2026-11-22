@@ -13,4 +13,5 @@ Longitud: -78.5244
 Google Maps: https://www.google.com/maps?cid=8135442236819633915
 Place Id: ChIJ4yOcwM1bspER-_ZXaJzl5nA
 Fotos: Veterinaria Huellitas.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=I7KTHMGFkGlcrfQtqC3qLg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=165.54614&pitch=0&thumbfov=100
 

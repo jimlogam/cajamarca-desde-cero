@@ -13,5 +13,6 @@ Longitud: -78.5011141
 Google Maps: https://www.google.com/maps?cid=7398699128596378350
 Place Id: ChIJAx5Gt_tbspER7rL6T6h1rWY
 Fotos: Lote.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=upCIaPgzABJvcunbdIw4_g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=52.343853&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

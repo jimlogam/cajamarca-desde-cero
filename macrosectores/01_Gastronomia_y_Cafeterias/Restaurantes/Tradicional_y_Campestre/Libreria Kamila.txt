@@ -13,5 +13,6 @@ Longitud: -78.5032574
 Google Maps: https://www.google.com/maps?cid=15862240417142966773
 Place Id: ChIJmb-RoR5bspER9YmmHZ7_Idw
 Fotos: Libreria Kamila.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pgC_I29NCio1w0EcdWf4Fg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=17.326054&pitch=2.388465&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.52234829999999
 Google Maps: https://www.google.com/maps?cid=17099114285668055231
 Place Id: ChIJI_yJnNFbspERvzgNC9lBTO0
 Fotos: Instituto Universitario de Ciencia y Tecnologia.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcYa3ag4VW_uaSTHzJxQIqbC2YZAdBvNNhJI4nuf-bTzTIVi-NXMIs36ai2_dzRO3oKg_4_BK-zJKE6CMdBBy8tpUBehZMto_LLHwiIlOHhf09zif0DuPsZ1nAFxUYco_5lTEK1=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

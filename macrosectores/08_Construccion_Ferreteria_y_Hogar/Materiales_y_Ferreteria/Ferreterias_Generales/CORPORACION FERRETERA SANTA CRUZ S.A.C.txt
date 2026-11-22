@@ -13,4 +13,5 @@ Longitud: -78.52343069999999
 Google Maps: https://www.google.com/maps?cid=13927665244910090849
 Place Id: ChIJIzRvGpdbspERYXprkb8BScE
 Fotos: CORPORACION FERRETERA SANTA CRUZ S.A.C.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdkhVbAY1bAa83MKwa8Wh57scXvHkkHfNEdp1_ljsnipGJ138h4rkiNc2OGefQJQO3eTta-Yc_RA-oYe2Crvj_NfBkrqIJ5lGKNtYH2hGyeoZp-Ih7XvjwH99u0AnEp4zV9ZOWS=w1600-h1200-k-no
 

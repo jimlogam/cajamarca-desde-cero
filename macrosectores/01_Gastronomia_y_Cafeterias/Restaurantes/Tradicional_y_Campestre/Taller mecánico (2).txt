@@ -13,5 +13,6 @@ Longitud: -78.50632999999999
 Google Maps: https://www.google.com/maps?cid=7519225025129508427
 Place Id: ChIJYdHVBFdbspERS24SYVKnWWg
 Fotos: Taller mecánico (2).jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9qxw2WyN_x6uXZlCGucLNA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=253.04446&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

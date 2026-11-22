@@ -13,5 +13,6 @@ Longitud: -78.5130179
 Google Maps: https://www.google.com/maps?cid=1428476265873449087
 Place Id: ChIJPdqpu_taspERf6B2bZj30hM
 Fotos: Zona Medic.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yJcX76q2UpaklMFm4D67fQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=255.18176&pitch=3.1157708&thumbfov=100
 Nota: Rescatado: en Maps salia sin categoria ni datos de contacto; clasificado por el nombre.
 

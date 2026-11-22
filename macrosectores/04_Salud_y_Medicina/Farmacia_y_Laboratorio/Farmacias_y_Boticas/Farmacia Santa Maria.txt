@@ -13,5 +13,6 @@ Longitud: -78.5134882
 Google Maps: https://www.google.com/maps?cid=6923836492056986685
 Place Id: ChIJt74-tv1aspERPYTx_5poFmA
 Fotos: Farmacia Santa Maria.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kUhIKQ_TeBc4hgrbLD9VAA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=210.33601&pitch=-0.35306594&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

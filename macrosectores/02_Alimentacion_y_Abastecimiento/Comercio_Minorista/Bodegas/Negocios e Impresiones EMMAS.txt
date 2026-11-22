@@ -13,5 +13,6 @@ Longitud: -78.508607
 Google Maps: https://www.google.com/maps?cid=11291658396240530278
 Place Id: ChIJuUKe4aNbspERZkv5UHwHtJw
 Fotos: Negocios e Impresiones EMMAS.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q76vN_HULDsVuoNKfsXT3w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=85.90292&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

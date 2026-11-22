@@ -13,4 +13,5 @@ Longitud: -78.50896759999999
 Google Maps: https://www.google.com/maps?cid=18117722222750330560
 Place Id: ChIJw_7HqqlbspERwO47ql4Ub_s
 Fotos: Restaurant.Polleria Caleb.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=boHLbvUYXQpJlg0FwdBz7g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=31.572887&pitch=0&thumbfov=100
 Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

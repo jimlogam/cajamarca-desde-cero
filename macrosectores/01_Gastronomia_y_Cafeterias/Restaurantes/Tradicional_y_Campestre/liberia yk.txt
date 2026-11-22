@@ -13,5 +13,6 @@ Longitud: -78.5162842
 Google Maps: https://www.google.com/maps?cid=567479868518933503
 Place Id: ChIJc6TAagBbspER_6NBDO8X4Ac
 Fotos: liberia yk.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dGve8sRHCqNPdBOCphM1LQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=103.63871&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

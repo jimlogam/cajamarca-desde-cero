@@ -13,5 +13,6 @@ Longitud: -78.4952842
 Google Maps: https://www.google.com/maps?cid=11726962468058263092
 Place Id: ChIJpwbUoslbspERNG7zijuKvqI
 Fotos: Libreria Will&Kath.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gpqK1zsTMacUjZKFydFnTA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=39.880875&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

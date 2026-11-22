@@ -13,5 +13,6 @@ Longitud: -78.5199018
 Google Maps: https://www.google.com/maps?cid=9724360079795108047
 Place Id: ChIJy-siMPZaspERzzgtgPjd84Y
 Fotos: electrocax (2).jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cAX6WJ71TVRmLwSryfAM9Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=211.49487&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

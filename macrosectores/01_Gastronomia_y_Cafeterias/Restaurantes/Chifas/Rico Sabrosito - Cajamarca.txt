@@ -13,4 +13,5 @@ Longitud: -78.4954049
 Google Maps: https://www.google.com/maps?cid=2124057160367697875
 Place Id: ChIJ4eYyeWNbspER029Xzrsqeh0
 Fotos: Rico Sabrosito - Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mt5fDezu61qkxDzLWUuCZg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=240.06256&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

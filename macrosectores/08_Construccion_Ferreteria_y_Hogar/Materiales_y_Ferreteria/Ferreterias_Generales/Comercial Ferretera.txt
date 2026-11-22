@@ -13,4 +13,5 @@ Longitud: -78.5143197
 Google Maps: https://www.google.com/maps?cid=15406902457255677061
 Place Id: ChIJXYvDGfxaspERhUzR1SdQ0NU
 Fotos: Comercial Ferretera.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=L0frudMB2hWA45SXLuyW_A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=129.2207&pitch=5.6829357&thumbfov=100
 

@@ -13,3 +13,4 @@ Longitud: -78.488081
 Google Maps: https://www.google.com/maps?cid=9273466370546976581
 Place Id: ChIJBWu0fwBbspERRcf79If4sYA
 Fotos: El romantico.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KgqL6RVNA55BjvtMrrxQJw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=163.4055&pitch=0&thumbfov=100

@@ -13,4 +13,5 @@ Longitud: -78.5237707
 Google Maps: https://www.google.com/maps?cid=7028751487035003924
 Place Id: ChIJvT_DS15aspERFFQ4zzwki2E
 Fotos: Pet Shop Y Spa Veterinario El Dogo Azul.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yNReHwG9A5KN3HM1li8bhg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=129.18393&pitch=0&thumbfov=100
 

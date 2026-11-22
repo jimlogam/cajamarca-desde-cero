@@ -13,5 +13,6 @@ Longitud: -78.5176168
 Google Maps: https://www.google.com/maps?cid=13196245848011528575
 Place Id: ChIJ2ceyNwBbspERf1lzm657Irc
 Fotos: Chanchamayo cuadra 18.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZNCe3e3dfyzkv1TudkiaQw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=225.98296&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

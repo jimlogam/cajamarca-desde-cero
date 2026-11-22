@@ -13,4 +13,5 @@ Longitud: -78.5020509
 Google Maps: https://www.google.com/maps?cid=564780878555758103
 Place Id: ChIJZeAUEQBbspERF74_ejeB1gc
 Fotos: Juguería yimiel.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLek2vODJ3G4Lifh4AlnilYwsPgWn3xYPbanf_xWEvaQgAbyCqSm5FHBwwVW7lyKleOZ5lOBE_KicbxiHuwz-fOx-W3wEJ6ERkydtCTB-V1oeXdIRUKHptdlcBFCIXPIfSs8SXlrJJWQT1B3=w1600-h1200-k-no
 

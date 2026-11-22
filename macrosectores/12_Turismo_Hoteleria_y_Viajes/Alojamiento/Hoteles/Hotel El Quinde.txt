@@ -13,5 +13,6 @@ Longitud: -78.5085308
 Google Maps: https://www.google.com/maps?cid=14320515064219476027
 Place Id: ChIJzfeh8O1aspERO6Bu25OwvMY
 Fotos: Hotel El Quinde.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLf-QPjG5OkYxfSoG0ArBNnv-BUCR39gowaYzENEJETFmdeUn2Fq8_USD08Dnrmo1lT2VGCeW4Vd762Tg1ffXj827dxz53N4ndgQpr91OZh4GEelgoyCsNe36vlTr0P2XrqYPIP4=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

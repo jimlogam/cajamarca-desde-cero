@@ -13,5 +13,6 @@ Longitud: -78.4981652
 Google Maps: https://www.google.com/maps?cid=6915479170329330569
 Place Id: ChIJE3qORQBbspERicMXZ6q3-F8
 Fotos: M&S MACHUCA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wCyPcqC-jiKLhhaw4VuKkQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=337.88248&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

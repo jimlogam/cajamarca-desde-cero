@@ -13,4 +13,5 @@ Longitud: -78.5168956
 Google Maps: https://www.google.com/maps?cid=12004450672573420115
 Place Id: ChIJ6d6jWrVbspERUxJwzkhgmKY
 Fotos: CHOCOARTE CAJAMARCA.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdKl8rHliVkjgac8-OlET44-Q1RLMGhB97LJvtu-FXO0jl-sFKyfLG9jsJAJcxj2OP_3DHB3nsXnnkP7-0cT3AMW4zBwtYRJfFncxvWUx8HXa82Xy6okIsDbuz6XXoDCek72YznxkzeZh8N=w1600-h1200-k-no
 

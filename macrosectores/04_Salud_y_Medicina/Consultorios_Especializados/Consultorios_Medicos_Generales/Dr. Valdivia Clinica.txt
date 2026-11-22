@@ -13,4 +13,5 @@ Longitud: -78.51270149999999
 Google Maps: https://www.google.com/maps?cid=5919722565993297707
 Place Id: ChIJU3_7_PBaspERK_fkSk8UJ1I
 Fotos: Dr. Valdivia Clinica.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cCkFXb08yDiWCoxmXmqGWw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=13.571445&pitch=3.2792952&thumbfov=100
 

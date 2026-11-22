@@ -13,4 +13,5 @@ Longitud: -78.4810062
 Google Maps: https://www.google.com/maps?cid=13259347839973233254
 Place Id: ChIJ1SPEQQlbspERZpLyApyqArg
 Fotos: FERRETERÍA LA SOLUCIÓN.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcSoHjB1FxKnB_Sx5b5cp0G3QkJZhbOBYKPP9OEXtCRDJ_7El6LXOW3xZGQJg8C4TukjMFjNYLN1D-lqPNUBws6M_EMZTB12ToZc-eDA9c7zLAk28I5WEbQdEFkeqvTK7N7pfif=w1600-h1200-k-no
 

@@ -13,4 +13,5 @@ Longitud: -78.5071742
 Google Maps: https://www.google.com/maps?cid=11488325682138091540
 Place Id: ChIJZVQLEhtbspERFJDWE1e7bp8
 Fotos: Ferreteria Accesorios Para Muebles.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T_GjICTvyDDHenMaVobj7Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=207.62599&pitch=0&thumbfov=100
 

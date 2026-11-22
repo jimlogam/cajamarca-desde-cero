@@ -13,5 +13,6 @@ Longitud: -78.5024318
 Google Maps: https://www.google.com/maps?cid=4032451918010624614
 Place Id: ChIJz1A5SxlbspERZqrdkqcl9jc
 Fotos: J & C Servicios Generales.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_ORvkUvAbyZfeEko3GKQag&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=43.35213&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
 

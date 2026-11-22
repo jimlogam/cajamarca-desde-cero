@@ -13,5 +13,6 @@ Longitud: -78.5155794
 Google Maps: https://www.google.com/maps?cid=6221573248744144087
 Place Id: ChIJ27AnHhJbspER17x3C-h3V1Y
 Fotos: Medicina de Especialidades S.R.L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u7lJ7FhiDG-k2zI5T62Zgg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=235.17316&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.5175132
 Google Maps: https://www.google.com/maps?cid=4627482203198350955
 Place Id: ChIJ0crgqPlaspERa2YU3oseOEA
 Fotos: LACTEOS EL CAJACHO.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZDxFzT9m5v4LgqH_0tjOUQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=80.71088&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

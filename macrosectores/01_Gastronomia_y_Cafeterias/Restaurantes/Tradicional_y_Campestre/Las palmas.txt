@@ -13,5 +13,6 @@ Longitud: -78.5067669
 Google Maps: https://www.google.com/maps?cid=2189132139847977938
 Place Id: ChIJP8H3m0lbspER0osHKhVcYR4
 Fotos: Las palmas.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8uopcMZ2OYDX6qykG-KfKg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=192.5318&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.520834
 Google Maps: https://www.google.com/maps?cid=17540515160801563680
 Place Id: ChIJUZAb_VdaspERIFTu6JptbPM
 Fotos: Abantos Technology.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WFT9iZ_fwJYWCxzwO6G1hg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=46.83336&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.5099778
 Google Maps: https://www.google.com/maps?cid=3010799010082140745
 Place Id: ChIJ73wKNxxbspERSTILbr-ByCk
 Fotos: Consultorio Jurídico Contable Huaccha & Asociados.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-1CWU32nXB4Xl9yi45XNyg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=148.33269&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

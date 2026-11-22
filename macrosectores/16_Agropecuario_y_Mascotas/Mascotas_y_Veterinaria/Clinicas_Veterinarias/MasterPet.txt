@@ -13,4 +13,5 @@ Longitud: -78.5114694
 Google Maps: https://www.google.com/maps?cid=14043632563544253048
 Place Id: ChIJVXjN2Y1bspEReOIpAmkB5cI
 Fotos: MasterPet.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=76-0w_fPGQOQnDq0t5V2xA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=273.07507&pitch=3.4892867&thumbfov=100
 

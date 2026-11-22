@@ -13,5 +13,6 @@ Longitud: -78.5076997
 Google Maps: https://www.google.com/maps?cid=9369267144604897262
 Place Id: ChIJr1TexLNbspER7s_p19NSBoI
 Fotos: Carpinteria y Muebleria Camusa.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jOGhuG5YLWExgjiojErs_w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=245.19652&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

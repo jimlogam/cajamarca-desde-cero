@@ -13,5 +13,6 @@ Longitud: -78.5156062
 Google Maps: https://www.google.com/maps?cid=14578864175856344856
 Place Id: ChIJXwFfaNNbspERGN-VzrmHUso
 Fotos: ESTUDIO CONTRABLE ROMERO E.I.R.L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZbV5vy_3bRjVmW29ViCNmA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=138.71707&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

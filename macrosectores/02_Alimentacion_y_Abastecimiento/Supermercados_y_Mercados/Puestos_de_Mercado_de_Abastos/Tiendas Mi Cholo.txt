@@ -13,5 +13,6 @@ Longitud: -78.50654209999999
 Google Maps: https://www.google.com/maps?cid=4637530310693729301
 Place Id: ChIJI6TCyRdbspERFbQBND_RW0A
 Fotos: Tiendas Mi Cholo.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcMf7lD_EzWMFmIfC4GXduVzU3QdvmSvpdHvRcG73Yh09GYD0yrNuiH9bmhOJ0k7jah04rQVhuRr6rhysOHPkwyxw5DLa8bZJ4Lk9Erk-oHo8o2MzUq3BoCIUIhPMUWIlsh4Hpg=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

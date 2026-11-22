@@ -13,4 +13,5 @@ Longitud: -78.5068999
 Google Maps: https://www.google.com/maps?cid=15593231350673284420
 Place Id: ChIJuWgAcqpbspERRJ1dBUxJZtg
 Fotos: Delicias Mía.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdGdJY4XYkZlMM8P2mUzY8pOfGlUTHu3fnkWxxJ_ilbkLfYMkTt9_PnSC2MUQZQH4-yvfO6Vbudn0LzbizmkigQDAWqeoPYEak-7y5AjC_a7Xnjzzsnvvuhdun0ed2vFgf8JCE=w1600-h1200-k-no
 

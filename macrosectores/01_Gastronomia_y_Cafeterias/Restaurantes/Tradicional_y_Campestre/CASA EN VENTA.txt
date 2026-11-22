@@ -13,5 +13,6 @@ Longitud: -78.5230474
 Google Maps: https://www.google.com/maps?cid=5315093468760818906
 Place Id: ChIJJ6HqpdZbspER2sR8aVkBw0k
 Fotos: CASA EN VENTA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=584hdvzkn-5Nk4PVu7kp-Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=74.62399&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

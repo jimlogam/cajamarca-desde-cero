@@ -13,5 +13,6 @@ Longitud: -78.4977285
 Google Maps: https://www.google.com/maps?cid=16226964219782346333
 Place Id: ChIJZQeNv59bspERXbYZ1_vBMeE
 Fotos: Jucasa Servicios Generales.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MdA8eZbrhHiZNQhAusw8eQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=252.36356&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

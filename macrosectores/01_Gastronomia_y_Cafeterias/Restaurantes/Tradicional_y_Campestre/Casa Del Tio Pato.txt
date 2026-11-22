@@ -13,5 +13,6 @@ Longitud: -78.4900383
 Google Maps: https://www.google.com/maps?cid=10837296536463937137
 Place Id: ChIJSezT-DBbspERcQ6BDcjPZZY
 Fotos: Casa Del Tio Pato.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hunyCVLTaWFlWcMF4wI7aw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=259.53116&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

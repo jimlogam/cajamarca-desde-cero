@@ -13,5 +13,6 @@ Longitud: -78.5233283
 Google Maps: https://www.google.com/maps?cid=17839717967197307460
 Place Id: ChIJb8fcndRbspERRALz5_hok_c
 Fotos: lIBRERIA E IMPRENTA YESSENIA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UciSsj8g5v9Lw7TsbGL7tQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=319.08218&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

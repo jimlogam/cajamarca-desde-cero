@@ -13,4 +13,5 @@ Longitud: -78.5229134
 Google Maps: https://www.google.com/maps?cid=11041083420322392793
 Place Id: ChIJgcKMNQBbspER2WrFY9_OOZk
 Fotos: Jugueria Daniel & Gianella.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sffszUbkVtQjzmdMRwVxKg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=271.45154&pitch=3.3279686&thumbfov=100
 

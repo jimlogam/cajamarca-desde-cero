@@ -13,4 +13,5 @@ Longitud: -78.5065875
 Google Maps: https://www.google.com/maps?cid=3521091337893483596
 Place Id: ChIJfbtmrwZbspERTJTYkOpt3TA
 Fotos: Ferretería Mejía.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLepu5GoDtXLIpz3EYoa04iU4YybnEMTa--YRq3dou9FS1w3IU6MP8Jf48WvibiUgYNnGGFOSxcJm_rGl5NV5IVCbRlOc4Bh5fVFnqRsIJTZM5ju5qeX5CJkBbyAh9gFVRWnD55iJg=w1600-h1200-k-no
 

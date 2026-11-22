@@ -13,5 +13,6 @@ Longitud: -78.51278549999999
 Google Maps: https://www.google.com/maps?cid=1295472859458863403
 Place Id: ChIJEbYnAGJbspERK4E0tLNx-hE
 Fotos: Construcción Nueva.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yGRaYNJWTJ_sB8fnBZPD2w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=50.971798&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

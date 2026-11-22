@@ -13,5 +13,6 @@ Longitud: -78.5006779
 Google Maps: https://www.google.com/maps?cid=11266188376664428338
 Place Id: ChIJGYGYXxZbspERMs-3Q6OKWZw
 Fotos: Vidrieria Estanteria Y Melamina El Chino.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TlWIFIB3Gwn1CI4hjbgqcg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=133.60944&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
 

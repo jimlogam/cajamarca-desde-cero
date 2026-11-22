@@ -13,5 +13,6 @@ Longitud: -78.5111795
 Google Maps: https://www.google.com/maps?cid=4268570423575678327
 Place Id: ChIJb-PRhAJbspERd433My8CPTs
 Fotos: Botica La Esperanza.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=C7-HRbD6bEHnwx8u-5EwKA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=181.5497&pitch=4.964424&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

@@ -13,5 +13,6 @@ Longitud: -78.47972879999999
 Google Maps: https://www.google.com/maps?cid=6049617602534734563
 Place Id: ChIJy4_VkxhbspER43oIQiiP9FM
 Fotos: El Mundo de la Acuariofilia.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Rjw9SuLkzCARq9xlkgK32g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=301.11008&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

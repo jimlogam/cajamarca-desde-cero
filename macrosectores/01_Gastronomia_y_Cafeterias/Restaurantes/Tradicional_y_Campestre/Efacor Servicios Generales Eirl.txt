@@ -13,5 +13,6 @@ Longitud: -78.48452379999999
 Google Maps: https://www.google.com/maps?cid=14632334453094975467
 Place Id: ChIJD6AVPTdbspER64dv36h-EMs
 Fotos: Efacor Servicios Generales Eirl.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ihdNdLh5xUN7ypDG3dv2Dw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=217.85&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

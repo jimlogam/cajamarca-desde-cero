@@ -13,5 +13,6 @@ Longitud: -78.51252989999999
 Google Maps: https://www.google.com/maps?cid=13262518648953301360
 Place Id: ChIJxxLPWwJbspERcOnagXHuDbg
 Fotos: Mackey Productos Lácteos.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y6tVtH301ioacIaP8PwjtA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=240.12535&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.4956364
 Google Maps: https://www.google.com/maps?cid=767678540341100344
 Place Id: ChIJlZTF1BFbspEROL-4qpBXpwo
 Fotos: Hostal El Principe.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfr2zk-94wUo_f-96z-P92lXOFCZy8nlUgc-SgPrBYa1yFIiUdScMk3sX37FH1_7qgK_iviyrsuaeKMtkGut2O5LCD4JcNImz2H6DrGh5SISMDsEfMH5GEu5w06zM4zXwG7GCo=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

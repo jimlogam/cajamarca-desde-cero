@@ -13,5 +13,6 @@ Longitud: -78.5158399
 Google Maps: https://www.google.com/maps?cid=10983174055030414473
 Place Id: ChIJX_MG_9xbspERidxfmJwSbJg
 Fotos: El mercadillo.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLf-0Grur5XAnhlkZjqchPbiYuOpzS4NJuJ3TbUvrsAXTsgQQ5GL6XHejXCtLTNw4Z6qSaq2vnw3930ewZO_XumAitSsmccwX9JCT_SQt-SwtClmo3L9AsjIkKVfYIDiXhkgacDI=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

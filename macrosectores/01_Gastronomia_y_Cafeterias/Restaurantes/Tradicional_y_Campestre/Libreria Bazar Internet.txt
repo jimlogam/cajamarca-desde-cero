@@ -13,5 +13,6 @@ Longitud: -78.5116383
 Google Maps: https://www.google.com/maps?cid=8991270556072680422
 Place Id: ChIJYy-uuqRbspER5hsk1u5ox3w
 Fotos: Libreria Bazar Internet.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=r05EZfRnrrPpMShRD-LYdw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=86.83866&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

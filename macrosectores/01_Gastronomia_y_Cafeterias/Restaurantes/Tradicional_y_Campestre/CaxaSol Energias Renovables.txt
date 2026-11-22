@@ -13,5 +13,6 @@ Longitud: -78.5126762
 Google Maps: https://www.google.com/maps?cid=1060937889307589737
 Place Id: ChIJB2R4j_BaspERaXzupGM1uQ4
 Fotos: CaxaSol Energias Renovables.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dHXr_6Cu5yzR3LnUsSOjJw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=247.21436&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

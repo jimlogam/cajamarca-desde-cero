@@ -13,4 +13,5 @@ Longitud: -78.5154795
 Google Maps: https://www.google.com/maps?cid=4331416010992747712
 Place Id: ChIJrTV6-vlaspERwISpxelHHDw
 Fotos: Expreso Courier Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T1iH5Lzfyf3y_qSFObdj6w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=317.3995&pitch=0&thumbfov=100
 

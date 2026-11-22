@@ -13,5 +13,6 @@ Longitud: -78.5129151
 Google Maps: https://www.google.com/maps?cid=10173069166737401955
 Place Id: ChIJGVk6j_taspERY6jcBoIALo0
 Fotos: CASE Consultores&Asesores de Empresas.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CKYGqDsH-k6wWEWR2FV9WA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=283.93442&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

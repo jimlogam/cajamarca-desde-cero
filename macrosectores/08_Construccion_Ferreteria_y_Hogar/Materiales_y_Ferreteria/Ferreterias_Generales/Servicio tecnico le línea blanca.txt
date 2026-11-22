@@ -13,5 +13,6 @@ Longitud: -78.5074085
 Google Maps: https://www.google.com/maps?cid=12277830480067529343
 Place Id: ChIJ2_8c9x9bspERf4rjWMWdY6o
 Fotos: Servicio tecnico le línea blanca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=su0e8afdNcYEQhIvbCxlog&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=267.6229&pitch=0&thumbfov=100
 Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

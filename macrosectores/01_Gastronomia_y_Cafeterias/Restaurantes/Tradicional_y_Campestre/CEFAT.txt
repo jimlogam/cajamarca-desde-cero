@@ -13,5 +13,6 @@ Longitud: -78.51610529999999
 Google Maps: https://www.google.com/maps?cid=5529107822617424580
 Place Id: ChIJedaihXxbspERxPLxK0VWu0w
 Fotos: CEFAT.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_ubR7bZOqL2YJUKA4TV8eg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=309.7337&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

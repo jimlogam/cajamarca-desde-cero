@@ -13,5 +13,6 @@ Longitud: -78.5117344
 Google Maps: https://www.google.com/maps?cid=6280915346202132585
 Place Id: ChIJ49oNcodbspERaYCtyjpLKlc
 Fotos: TRANSPORTES Y SERVICIOS GENERALES RABANAL EIRL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OUejOCqIXTFLoOOdbdn6xg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=346.02368&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

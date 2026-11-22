@@ -13,5 +13,6 @@ Longitud: -78.5077462
 Google Maps: https://www.google.com/maps?cid=3247541118839290224
 Place Id: ChIJ29uVxzdbspERcPnj_XCVES0
 Fotos: Servicios Generales Ramírez.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M6Bm_w4zl1HYgMOt4x82Tw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=116.8518&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

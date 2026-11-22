@@ -13,5 +13,6 @@ Longitud: -78.5212993
 Google Maps: https://www.google.com/maps?cid=16331269279980563966
 Place Id: ChIJB2z4j19aspER_q19JOJSpOI
 Fotos: Carniceria Guevara.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=P1q16FokLANKnmhWf4bw3w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=15.647453&pitch=9.375599&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

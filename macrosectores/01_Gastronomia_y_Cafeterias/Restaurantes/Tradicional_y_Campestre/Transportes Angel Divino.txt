@@ -13,5 +13,6 @@ Longitud: -78.4906874
 Google Maps: https://www.google.com/maps?cid=13472908442494791415
 Place Id: ChIJl4gr9HBbspER925Djthi-bo
 Fotos: Transportes Angel Divino.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8E5q4dRiS8UPPMjc3pNX-g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=31.06395&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

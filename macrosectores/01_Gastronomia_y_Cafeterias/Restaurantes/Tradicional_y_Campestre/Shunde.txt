@@ -13,3 +13,4 @@ Longitud: -78.5064264
 Google Maps: https://www.google.com/maps?cid=12500527032197046871
 Place Id: ChIJT4mBneVaspERV-JF6xrLeq0
 Fotos: Shunde.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=I__BNZGhrK1s_R4T2xg1gw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=152.49837&pitch=4.852089&thumbfov=100

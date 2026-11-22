@@ -13,5 +13,6 @@ Longitud: -78.502257
 Google Maps: https://www.google.com/maps?cid=5692933331867789766
 Place Id: ChIJmwWPXQBbspERxun177NcAU8
 Fotos: Grifo continental.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3gW4eHHTeLwxlxjh7yEyFg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=310.77475&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

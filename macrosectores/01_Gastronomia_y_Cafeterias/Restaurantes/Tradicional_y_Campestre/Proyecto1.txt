@@ -13,5 +13,6 @@ Longitud: -78.48790629999999
 Google Maps: https://www.google.com/maps?cid=12648100623490412572
 Place Id: ChIJedUkh8pbspERHPCKKoEUh68
 Fotos: Proyecto1.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H-7oIzoj8z5_FuyGrO_jVA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=166.27917&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

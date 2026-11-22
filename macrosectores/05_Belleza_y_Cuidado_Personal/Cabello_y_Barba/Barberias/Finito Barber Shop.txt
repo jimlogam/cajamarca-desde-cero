@@ -13,5 +13,6 @@ Longitud: -78.5125673
 Google Maps: https://www.google.com/maps?cid=11738194996162047167
 Place Id: ChIJlZ16bxtbspERv6yBSihy5qI
 Fotos: Finito Barber Shop.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bhEkgdwxDj_82Lc0VfYn_Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=171.79727&pitch=0.6594616&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
 

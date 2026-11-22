@@ -13,3 +13,4 @@ Longitud: -78.4900585
 Google Maps: https://www.google.com/maps?cid=17085657184952327147
 Place Id: ChIJ7ZVAFgBbspER6xsvn69yHO0
 Fotos: Chifa Miluana_2.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mz4HnBl6cPZKoBbYhFOUtw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=28.178017&pitch=0&thumbfov=100

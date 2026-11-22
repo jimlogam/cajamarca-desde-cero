@@ -13,5 +13,6 @@ Longitud: -78.53245989999999
 Google Maps: https://www.google.com/maps?cid=9608815045762084416
 Place Id: ChIJ1RBJjm9RspERQO4T219eWYU
 Fotos: C&C SERVICIOS GENERALES SAN JOSÉ SRL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B9Fd_-zcwttmUKVxIidfoQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=227.13179&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

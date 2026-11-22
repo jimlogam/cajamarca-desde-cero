@@ -13,5 +13,6 @@ Longitud: -78.51488959999999
 Google Maps: https://www.google.com/maps?cid=10628643924041477542
 Place Id: ChIJFchICY9bspERpi2bAFaHgJM
 Fotos: Agrovet San Felipe.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdNVxmZI7xHdnqKNsehg6xwPKPPBV8tAiFYuXoCQwSa-MuirZVtJkZRMGrBoBQJpysBUmwcPHLrwyGaGUUWPyt2AiESBYyNPxeAsZJy4MxJh5ejLKOHaTsmHHGkpvSeqQZmIJq0=w1600-h1200-k-no
 Nota: Aparecia 3 veces en los archivos de esta tanda; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -75.01950459999999
 Google Maps: https://www.google.com/maps?cid=14206707112708545045
 Place Id: ChIJlZSEy12nJ2ERFRoCQdlcKMU
 Fotos: IESTP CAJAMARCA.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLchGvXsH-BR5x58sD1m1U1umOwUoiMqV-8SH7OKFyUgzKUe1_zBF6-R-A17vixdn548ytOS1I_ErcCOQc4ZUSzoOgEEbLkG7AItmGNgZEpZsM79M_tS1kHYjELaK8tszcjMw_lX2iCoeWo=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

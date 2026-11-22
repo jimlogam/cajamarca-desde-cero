@@ -13,5 +13,6 @@ Longitud: -78.523224
 Google Maps: https://www.google.com/maps?cid=15294842577206858694
 Place Id: ChIJ2WHHK1haspERxlPv1UkyQtQ
 Fotos: Consultorio Medico Biológico Y Farmacia Verde.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jk3iBPiugWBWHzUzMPIMUg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=62.34115&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

@@ -13,5 +13,6 @@ Longitud: -78.5105411
 Google Maps: https://www.google.com/maps?cid=6006382826850043395
 Place Id: ChIJLZG3xapbspERA0Znm1v1WlM
 Fotos: Dirección Regional de Energía y Minas Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wh0ottCtkjEez21BsKNg-w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=161.46771&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

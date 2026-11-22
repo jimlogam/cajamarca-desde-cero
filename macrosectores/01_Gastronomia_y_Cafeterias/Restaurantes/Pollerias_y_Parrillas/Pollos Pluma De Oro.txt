@@ -13,4 +13,5 @@ Longitud: -78.4999165
 Google Maps: https://www.google.com/maps?cid=17381849312863236663
 Place Id: ChIJWw2FuRVbspERN7KUaNu7OPE
 Fotos: Pollos Pluma De Oro.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Qas412fhtjzbLbID_N39ug&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=341.12195&pitch=3.263758&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

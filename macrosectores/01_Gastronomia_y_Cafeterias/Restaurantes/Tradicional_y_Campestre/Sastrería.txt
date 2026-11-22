@@ -13,5 +13,6 @@ Longitud: -78.5033615
 Google Maps: https://www.google.com/maps?cid=17207784048927568323
 Place Id: ChIJXwi2QuVbspERw_H192tUzu4
 Fotos: Sastrería.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sj9MZ54BeR1HZyinEabcbA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=339.1317&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

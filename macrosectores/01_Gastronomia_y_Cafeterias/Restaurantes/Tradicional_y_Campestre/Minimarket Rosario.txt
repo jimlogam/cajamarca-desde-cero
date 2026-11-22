@@ -13,5 +13,6 @@ Longitud: -78.5006212
 Google Maps: https://www.google.com/maps?cid=17286987925134818186
 Place Id: ChIJbbexfgtbspERirsgcu235-8
 Fotos: Minimarket Rosario.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Krt7mdWGql4eryPcxQLT7A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=279.63858&pitch=3.4965243&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

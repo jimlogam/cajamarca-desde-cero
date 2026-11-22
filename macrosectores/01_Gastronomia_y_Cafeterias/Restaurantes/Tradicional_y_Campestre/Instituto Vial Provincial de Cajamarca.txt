@@ -13,5 +13,6 @@ Longitud: -78.49519169999999
 Google Maps: https://www.google.com/maps?cid=6693884794166914642
 Place Id: ChIJ1ffGk75bspERUi61K8F05Vw
 Fotos: Instituto Vial Provincial de Cajamarca.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jL4yiRvjuc3cKc9_INa6EQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=263.19846&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

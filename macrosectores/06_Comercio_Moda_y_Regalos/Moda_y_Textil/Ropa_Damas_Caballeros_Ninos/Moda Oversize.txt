@@ -13,5 +13,6 @@ Longitud: -78.5182384
 Google Maps: https://www.google.com/maps?cid=4468455107483364363
 Place Id: ChIJO_BThJpbspERC2xT0D4kAz4
 Fotos: Moda Oversize.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B_77vAGa4JJh1s14UEl72w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=214.7399&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

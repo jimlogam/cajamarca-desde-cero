@@ -13,5 +13,6 @@ Longitud: -78.5209781
 Google Maps: https://www.google.com/maps?cid=286124367567219986
 Place Id: ChIJVU6PIVZaspEREm1tqpiE-AM
 Fotos: Asociación Incawasi.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Qv8nRHxUswaApFF8vGjS9g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=56.734177&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.51697399999999
 Google Maps: https://www.google.com/maps?cid=10875181229454546885
 Place Id: ChIJxaiO3M1bspERxVeigbVn7JY
 Fotos: Hotel Las Casuarinas.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLeCkWLalfL6lXK3lA8SK_83x5_zQcqafAVu53vR0sAdbl38V4MZVUDl1CA2-TxGYtQQpuyEE4vcENA01h845j9bBzWFwayrz7gylw61LfeEgRDgsF-he-wuf-pvXEr-j2Gm2YQZ=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.5094823
 Google Maps: https://www.google.com/maps?cid=18270619223879937635
 Place Id: ChIJbXgVF69bspERY27J2WFHjv0
 Fotos: Tortas Dulce Tentación.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WweYE1_xXeJBkKtkxr8CrQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=104.35642&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
 

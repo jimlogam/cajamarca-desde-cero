@@ -13,5 +13,6 @@ Longitud: -78.51878239999999
 Google Maps: https://www.google.com/maps?cid=6716379641265785090
 Place Id: ChIJhx8GZABbspERAglQ5rJfNV0
 Fotos: Frida Bar.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfll8T_LOYepSdgRmsLiq4ypVrdnTcrd6ROR3zVgnuvpWDiXpPR-XTu1tkKbNjhTTJbVuJnSFlAqaTugeLyeJhsyxDiBu2GJVx1Axoaz235KTWx4nHzBd5SMjq9AbQKcrLuO_zJsbvHskmy=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

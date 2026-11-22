@@ -13,5 +13,6 @@ Longitud: -78.4897184
 Google Maps: https://www.google.com/maps?cid=7968373273988085984
 Place Id: ChIJDRbMoApbspER4LjGQUZZlW4
 Fotos: Transportes Marin.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jIb8yRMNf8KyodGdnAt-og&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=131.35&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

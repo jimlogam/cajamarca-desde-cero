@@ -13,3 +13,4 @@ Longitud: -78.501581
 Google Maps: https://www.google.com/maps?cid=13836549112298085417
 Place Id: ChIJhyFaPrZbspERKRzGwxtMBcA
 Fotos: Menú.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4EbzUUg8vdP7rL3hs6oDYg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=213.87636&pitch=0&thumbfov=100

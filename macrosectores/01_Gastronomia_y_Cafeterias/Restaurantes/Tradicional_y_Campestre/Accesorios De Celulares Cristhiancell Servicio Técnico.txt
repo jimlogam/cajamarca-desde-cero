@@ -13,5 +13,6 @@ Longitud: -78.516477
 Google Maps: https://www.google.com/maps?cid=15478509114544816888
 Place Id: ChIJTwu4ovlaspER-AIX8Qe2ztY
 Fotos: Accesorios De Celulares Cristhiancell Servicio Técnico.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2ta3H8RBCSutlCTJSP8c-w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=166.47551&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
 

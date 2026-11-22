@@ -13,5 +13,6 @@ Longitud: -78.51829599999999
 Google Maps: https://www.google.com/maps?cid=3142273817086296160
 Place Id: ChIJG0WgANdbspERYIBwXmOZmys
 Fotos: TESLA SOLUCIONES INTEGRALES SAC.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=C3ju0mL0bdMRD0plJBeLtA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=109.60215&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

@@ -13,5 +13,6 @@ Longitud: -78.52142649999999
 Google Maps: https://www.google.com/maps?cid=17392633196523870736
 Place Id: ChIJqcXid6BbspERENp4-70LX_E
 Fotos: Tic Tec Store.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hrxCZAGiI1MAoQaV-_oIPQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=316.30765&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

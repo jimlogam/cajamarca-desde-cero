@@ -13,4 +13,5 @@ Longitud: -78.5007675
 Google Maps: https://www.google.com/maps?cid=11800532979023099347
 Place Id: ChIJA62DSABbspER0zX09jjqw6M
 Fotos: El Rey De Las Mallas.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdDLMxVmwzeW1vZUZvAp2qZuoCXt2dluifoBbKQQdP6aWZxmPvCPRim9NY_pElsZ_sYzRY3gsj86s7zAjOd0PRDhyxkglRE8nQ395cYrXPFu6ePFhwgL6_h2syvROoa_RWrDDpMC9QAbk4=w1600-h1200-k-no
 

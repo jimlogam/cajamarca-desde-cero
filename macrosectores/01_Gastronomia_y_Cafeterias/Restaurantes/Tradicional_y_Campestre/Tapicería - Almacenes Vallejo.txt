@@ -13,5 +13,6 @@ Longitud: -78.5225268
 Google Maps: https://www.google.com/maps?cid=7382494121030484389
 Place Id: ChIJW9OlSVhaspERpYFu-Enjc2Y
 Fotos: Tapicería - Almacenes Vallejo.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z-ckGqetRCiSdsJ9GKEjFg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=237.82205&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

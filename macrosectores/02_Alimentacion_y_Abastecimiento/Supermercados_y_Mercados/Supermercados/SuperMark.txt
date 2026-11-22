@@ -13,5 +13,6 @@ Longitud: -78.50661219999999
 Google Maps: https://www.google.com/maps?cid=1666890350983724863
 Place Id: ChIJWShHaaZbspERPz_pUfH7IRc
 Fotos: SuperMark.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfqGZTkCUfSmknvHX2FgTV0HRnhZh7xp5zs7WqsQIQDEc2wRfmWBYlqBl29x5hWVOrEVTKSdNVxBeWTDOj6eLDniGdAIT2S8bTEcjDCz-HkSNVgceNsVVd2O707un6lHfQeCMo=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

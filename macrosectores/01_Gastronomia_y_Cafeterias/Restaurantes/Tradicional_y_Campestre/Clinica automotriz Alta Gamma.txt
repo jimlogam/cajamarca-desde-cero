@@ -13,5 +13,6 @@ Longitud: -78.4963148
 Google Maps: https://www.google.com/maps?cid=4000652934306891614
 Place Id: ChIJT0tjdZZbspERXof8uqUshTc
 Fotos: Clinica automotriz Alta Gamma.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ubB2x5uInw3Dom1hGbUOqA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=157.23715&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

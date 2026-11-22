@@ -13,5 +13,6 @@ Longitud: -78.5147642
 Google Maps: https://www.google.com/maps?cid=9071751252545325788
 Place Id: ChIJSxbdZjxbspER3EqrMrNV5X0
 Fotos: Automotriz Multiservicios BECERRA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vS6IfbgpH5Go8dokMCkvjQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=60.5805&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

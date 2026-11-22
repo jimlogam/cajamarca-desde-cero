@@ -13,5 +13,6 @@ Longitud: -78.5166684
 Google Maps: https://www.google.com/maps?cid=13469156593910346340
 Place Id: ChIJ2XgV-F9bspERZPIiPI8O7Lo
 Fotos: Arte a la medida.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WSvsT5p_hJiM8SntGmCmcg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=43.75236&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

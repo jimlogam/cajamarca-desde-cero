@@ -13,5 +13,6 @@ Longitud: -78.52705859999999
 Google Maps: https://www.google.com/maps?cid=4222688026079866468
 Place Id: ChIJAx-CMGdaspERZC7JD2MAmjo
 Fotos: S.E. Cajamarca - Conenhua.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Boiy69P785y6SBUY_eVBCw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=256.6808&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

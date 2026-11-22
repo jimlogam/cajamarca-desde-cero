@@ -13,5 +13,6 @@ Longitud: -78.4958377
 Google Maps: https://www.google.com/maps?cid=13869476905031172040
 Place Id: ChIJgX4N8CJbspERyP_d8MJHesA
 Fotos: American Tractor Cajamarca Srl.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NKKiLWyFoeYRWWRZPSR3ZA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=222.37032&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno. Sin categoria en Maps; clasificado por el nombre.
 

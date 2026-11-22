@@ -13,5 +13,6 @@ Longitud: -78.5144929
 Google Maps: https://www.google.com/maps?cid=6363325998868554577
 Place Id: ChIJHxr4w8VbspERUWORGEgTT1g
 Fotos: Peluquería Lesis.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SyRsB4uZUHpsZQq_3QXmFg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=313.39398&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

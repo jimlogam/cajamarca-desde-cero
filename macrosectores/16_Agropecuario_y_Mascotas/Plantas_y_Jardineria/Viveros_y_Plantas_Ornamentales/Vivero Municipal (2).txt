@@ -13,4 +13,5 @@ Longitud: -78.3777856
 Google Maps: https://www.google.com/maps?cid=7405751190398858724
 Place Id: ChIJZ9zOrnJBspER5HWmZniDxmY
 Fotos: Vivero Municipal (2).jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VNcyC6qmEnNRbX7360jzlQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=39.21986&pitch=0&thumbfov=100
 

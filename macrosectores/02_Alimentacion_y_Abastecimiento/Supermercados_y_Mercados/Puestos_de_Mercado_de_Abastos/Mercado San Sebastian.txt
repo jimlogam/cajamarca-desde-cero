@@ -13,5 +13,6 @@ Longitud: -78.5118584
 Google Maps: https://www.google.com/maps?cid=6756061785686916994
 Place Id: ChIJY6ZFf_1aspERgr91IGZawl0
 Fotos: Mercado San Sebastian.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfXMN1j_R0qmrzyRt7uNeBYzh1_Y3IDhhl8R0BGdXVytGqiO8F8mnwcGLZJj8UBj1_iDtp8kUubLQI6Z7vPP5Tvcm8rNLbbpgRNnUBtWk6VgrfcU7HWsD9cNPek5UKzMP0rNtTU=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

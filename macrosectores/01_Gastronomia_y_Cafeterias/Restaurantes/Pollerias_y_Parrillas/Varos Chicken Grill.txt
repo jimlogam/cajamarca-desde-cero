@@ -13,3 +13,4 @@ Longitud: -78.495075
 Google Maps: https://www.google.com/maps?cid=5521009007561758248
 Place Id: ChIJE3wjTmbgMooRKFZz2XCQnkw
 Fotos: Varos Chicken Grill.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o2xZVYSWU3nYOrFVrvtO5g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=144.37643&pitch=0&thumbfov=100

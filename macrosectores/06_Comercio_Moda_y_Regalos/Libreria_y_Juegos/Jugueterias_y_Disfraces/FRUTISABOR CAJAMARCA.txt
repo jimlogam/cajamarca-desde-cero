@@ -13,4 +13,5 @@ Longitud: -78.5152804
 Google Maps: https://www.google.com/maps?cid=16481771586778712981
 Place Id: ChIJPXN_0ZlbspERlUsSG-8Du-Q
 Fotos: FRUTISABOR CAJAMARCA.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLeZ7OjMyOYf4IDguF_s6wm8ZsmgeWOMn_Rqy5FQjf699qyaMr331CgGmfBy3_Iv4r-QR-VsjoP38_nBOmPzaJTRZabZ7PhjTaTyG4Yb6JmKiL-Gq3Jz3eisfqWdPkogAz6Nr7GkqA=w1600-h1200-k-no
 

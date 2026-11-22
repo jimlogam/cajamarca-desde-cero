@@ -13,5 +13,6 @@ Longitud: -78.5045992
 Google Maps: https://www.google.com/maps?cid=18199456463076910595
 Place Id: ChIJ-8WIytNbspERA-bicjp1kfw
 Fotos: Servicios Eléctricos EL TRUJILLANITO.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VBBCijiX-adW8MF7Z0WEnw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=307.19724&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

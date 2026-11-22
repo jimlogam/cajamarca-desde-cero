@@ -13,5 +13,6 @@ Longitud: -78.49223169999999
 Google Maps: https://www.google.com/maps?cid=14267148798052019316
 Place Id: ChIJwzLT_OdbspERdCyIwT0Y_8U
 Fotos: Hotel Posada del Rey, Cajamarca.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfwOCLENCspcrUYzes-8fJ9I6V9kalTb0C9PVT5I92LHSwd_MKwUAvSLFFCFvPId1uHDYVuzXk9sNITijNaJDjHoe7cdYKQXyd8eHszJoYe2bXPSYU4GxuMfse42WIS8Pe3j1U=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

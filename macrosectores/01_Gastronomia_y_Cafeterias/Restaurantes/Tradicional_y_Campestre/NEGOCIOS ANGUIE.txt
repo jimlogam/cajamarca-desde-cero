@@ -13,5 +13,6 @@ Longitud: -78.4993293
 Google Maps: https://www.google.com/maps?cid=10020510562417218539
 Place Id: ChIJeQW44odbspER65Pt_EMBEIs
 Fotos: NEGOCIOS ANGUIE.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=brP_xcSwows3YiO4KttlgA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=163.25452&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 5 veces en los archivos de la cosecha original; fusionado en uno.
 

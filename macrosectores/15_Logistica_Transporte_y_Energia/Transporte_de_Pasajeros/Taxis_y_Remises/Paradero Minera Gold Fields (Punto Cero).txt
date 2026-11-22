@@ -13,5 +13,6 @@ Longitud: -78.5158026
 Google Maps: https://www.google.com/maps?cid=2057547611217603716
 Place Id: ChIJS4KbYABbspERhCwUq6bgjRw
 Fotos: Paradero Minera Gold Fields (Punto Cero).jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ShZjfbie2XD5GeKou53SCg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=109.46688&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

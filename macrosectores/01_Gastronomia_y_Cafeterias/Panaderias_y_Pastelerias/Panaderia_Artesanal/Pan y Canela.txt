@@ -13,3 +13,4 @@ Longitud: -78.517241
 Google Maps: https://www.google.com/maps?cid=18366255204388045204
 Place Id: ChIJAewPkd9bspERlAG4v8wL4v4
 Fotos: Pan y Canela.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=O4MEPsIiz2a0Jng2fCbUgg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=119.33567&pitch=0&thumbfov=100

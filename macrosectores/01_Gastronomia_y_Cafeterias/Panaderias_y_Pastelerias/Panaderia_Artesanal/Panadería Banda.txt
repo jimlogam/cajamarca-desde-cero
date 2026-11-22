@@ -13,3 +13,4 @@ Longitud: -78.516367
 Google Maps: https://www.google.com/maps?cid=11770562920305355029
 Place Id: ChIJq9MCIMpbspERFWkv55xwWaM
 Fotos: Panadería Banda.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WoN_NeVmW_DJgBiiTJqGXg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=351.81528&pitch=0&thumbfov=100

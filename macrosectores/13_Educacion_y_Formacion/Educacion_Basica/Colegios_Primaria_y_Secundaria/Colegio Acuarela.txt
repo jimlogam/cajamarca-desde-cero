@@ -13,4 +13,5 @@ Longitud: -78.52093459999999
 Google Maps: https://www.google.com/maps?cid=7592254060404734137
 Place Id: ChIJHX7oK1ZaspERufjwqtcaXWk
 Fotos: Colegio Acuarela.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcz2vDhhKj77rIdcB_qv06ugSqc_RGRjYGBbeLIZy_0zggYtfEjGSHm2uVXTwX5W3ZxdqKY-a7vZz2r2J873FYSzaSUhizNpNr7ZcapCBA-p0iZAv-6xEoxhuZ7sQxWH5BIxHz_RQ=w1600-h1200-k-no
 

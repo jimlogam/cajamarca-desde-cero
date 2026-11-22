@@ -13,5 +13,6 @@ Longitud: -78.5090487
 Google Maps: https://www.google.com/maps?cid=14742143071871267566
 Place Id: ChIJLWaOTeNaspER7nLfQgSdlsw
 Fotos: Juguería Daniel & Gianella.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=blldJtb230VxNqDv_gDjKg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=158.34283&pitch=2.0692873&thumbfov=100
 Nota: Sin categoria en Maps; clasificado por el nombre.
 

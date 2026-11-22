@@ -13,4 +13,5 @@ Longitud: -78.5101967
 Google Maps: https://www.google.com/maps?cid=9297690082269590885
 Place Id: ChIJwUEnR7xbspERZfVZWd4HCIE
 Fotos: Agroservet Cajamarca.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfXU9a4CCejIg0M7R6ucmJ1BnY9gV77HxmqoiFFhVa_qfYhZKp9pwhSyGhORsuqwinPdXDojhEBJ9NdMYCbKbw1T8csl8NsJc32PgJlQ29LuIYWEgqOS8hnzOFWeM_XUfhOXXyC=w1600-h1200-k-no
 

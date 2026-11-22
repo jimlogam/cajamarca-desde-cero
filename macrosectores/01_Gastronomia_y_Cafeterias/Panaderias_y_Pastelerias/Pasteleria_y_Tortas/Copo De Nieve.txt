@@ -13,4 +13,5 @@ Longitud: -78.4954198
 Google Maps: https://www.google.com/maps?cid=7696552290117527979
 Place Id: ChIJRcqyGLBbspERq6msn4elz2o
 Fotos: Copo De Nieve.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2IBedv8idnGEyV305yNQtw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=137.97562&pitch=0&thumbfov=100
 

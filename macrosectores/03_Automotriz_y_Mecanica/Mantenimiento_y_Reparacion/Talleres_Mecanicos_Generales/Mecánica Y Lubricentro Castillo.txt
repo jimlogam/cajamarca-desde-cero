@@ -13,5 +13,6 @@ Longitud: -78.4910819
 Google Maps: https://www.google.com/maps?cid=18115918858702412933
 Place Id: ChIJfZM5iiRbspERhdzBQDisaPs
 Fotos: Mecánica Y Lubricentro Castillo.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=otGiO3iF7-Oa3asBxyAyNQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=13.154857&pitch=-3.9342108&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

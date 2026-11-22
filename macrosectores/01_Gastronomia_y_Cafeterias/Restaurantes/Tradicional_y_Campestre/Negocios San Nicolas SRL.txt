@@ -13,5 +13,6 @@ Longitud: -78.5149873
 Google Maps: https://www.google.com/maps?cid=5736121945979607306
 Place Id: ChIJT2_0fflaspERCtlvwoTMmk8
 Fotos: Negocios San Nicolas SRL.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hxOD48fnZmTVxFirwEmudw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=42.988018&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

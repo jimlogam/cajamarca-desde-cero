@@ -13,5 +13,6 @@ Longitud: -78.4813392
 Google Maps: https://www.google.com/maps?cid=8862328686943851007
 Place Id: ChIJ4wD8cQBbspER_9EKdPxQ_Xo
 Fotos: Grifo Leo.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u9kp3kBrSFIQNoDJ_2Hpfw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=186.29611&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

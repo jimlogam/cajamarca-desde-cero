@@ -13,5 +13,6 @@ Longitud: -78.5162361
 Google Maps: https://www.google.com/maps?cid=2015329684188471988
 Place Id: ChIJrZayYQBbspERtKJai6vj9xs
 Fotos: Grifo autorizado UNIMAQ CAJAMARCA.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZKDDFgd2M0psp74fsdZpBA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=265.53317&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

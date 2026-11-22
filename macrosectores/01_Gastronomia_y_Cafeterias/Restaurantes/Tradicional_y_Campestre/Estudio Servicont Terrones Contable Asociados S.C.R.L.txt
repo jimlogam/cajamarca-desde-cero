@@ -13,5 +13,6 @@ Longitud: -78.4941067
 Google Maps: https://www.google.com/maps?cid=8917441950422388629
 Place Id: ChIJbQA_CSNbspERlc8XEDUewXs
 Fotos: Estudio Servicont Terrones Contable Asociados S.C.R.L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=g6_qWqpkPildIXEF6cacsA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=355.44223&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

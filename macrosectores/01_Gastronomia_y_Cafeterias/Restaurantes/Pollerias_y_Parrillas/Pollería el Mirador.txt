@@ -13,3 +13,4 @@ Longitud: -78.52819629999999
 Google Maps: https://www.google.com/maps?cid=18158940738413680963
 Place Id: ChIJWw-JUQBbspERQ1mEMmSEAfw
 Fotos: Pollería el Mirador.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4DKJAsF0jPZmxsvmibVydg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=358.95673&pitch=0&thumbfov=100

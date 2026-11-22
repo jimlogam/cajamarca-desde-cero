@@ -13,4 +13,5 @@ Longitud: -78.65991439999999
 Google Maps: https://www.google.com/maps?cid=14164484144091934722
 Place Id: ChIJgV_3HwD1spERArBAS0hbksQ
 Fotos: Vivero Los Frutales.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=suf-XspgeMARfgt_FhYz1A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=10.841978&pitch=0&thumbfov=100
 

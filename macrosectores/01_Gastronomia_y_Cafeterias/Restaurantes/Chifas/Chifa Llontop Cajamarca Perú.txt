@@ -13,4 +13,5 @@ Longitud: -78.50989229999999
 Google Maps: https://www.google.com/maps?cid=1310148534479784543
 Place Id: ChIJ8UAPVABbspERX4qqkCaVLhI
 Fotos: Chifa Llontop Cajamarca Perú.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=p-rn8IQbmlYgkIVvu-AzZg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=313.27518&pitch=0&thumbfov=100
 Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.

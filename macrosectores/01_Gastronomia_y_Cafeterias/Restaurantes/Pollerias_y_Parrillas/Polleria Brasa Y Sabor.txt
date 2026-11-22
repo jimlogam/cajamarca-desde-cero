@@ -13,4 +13,5 @@ Longitud: -78.50070149999999
 Google Maps: https://www.google.com/maps?cid=5675102864152052563
 Place Id: ChIJ61AnrRVbspERU8OVqfwDwk4
 Fotos: Polleria Brasa Y Sabor.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1k8AEA1iPfc9KJ98LZOzXQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=347.43338&pitch=0.9213307&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.

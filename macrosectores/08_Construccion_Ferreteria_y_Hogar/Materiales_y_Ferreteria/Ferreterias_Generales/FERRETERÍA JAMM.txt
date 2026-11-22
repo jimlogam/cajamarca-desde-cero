@@ -13,4 +13,5 @@ Longitud: -78.5229959
 Google Maps: https://www.google.com/maps?cid=613478256370474694
 Place Id: ChIJDXx5Ll9aspERxl5jTDmDgwg
 Fotos: FERRETERÍA JAMM.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdEArN-wpM75Q6EZWO2XE5_35A7onvd03Cb_s5Gf24CZ2deGbrDvUoTv4zOnKlpKhm76T3pzzG0jqdqkTg-KYxsZ56Abx8DM4tox4GrSGRqVPTyqB8RrjlK1oliVo_XDvbpZkFJi_8iwjeg=w1600-h1200-k-no
 

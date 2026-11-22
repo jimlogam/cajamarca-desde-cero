@@ -13,4 +13,5 @@ Longitud: -78.51505259999999
 Google Maps: https://www.google.com/maps?cid=10566641672827233260
 Place Id: ChIJ-Qh6hQxbspER7OO08Z1ApJI
 Fotos: Cuna Jardín Lucero de Jesús.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfSWZPv8xXWEp6dxHyudKdPcuYXP7G19Ces52caSVAPNx98A0_OzzCSOnSY79zJLJmFZMMc_hz-_aQnfrneCp6ZDuK7ekmjKi4fbKDghv0nRpxAcSoSifdfDH7qsJD0K2XMOmtX=w1600-h1200-k-no
 

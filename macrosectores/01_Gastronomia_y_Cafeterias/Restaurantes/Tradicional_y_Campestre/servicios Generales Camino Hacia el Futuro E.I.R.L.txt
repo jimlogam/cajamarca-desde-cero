@@ -13,5 +13,6 @@ Longitud: -78.5010479
 Google Maps: https://www.google.com/maps?cid=2213467248697637041
 Place Id: ChIJ14wDL6tbspERsXiVOLzQtx4
 Fotos: servicios Generales Camino Hacia el Futuro E.I.R.L.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PrFMWQGc_Tc2Gl8Vjs1ljQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=356.35684&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 

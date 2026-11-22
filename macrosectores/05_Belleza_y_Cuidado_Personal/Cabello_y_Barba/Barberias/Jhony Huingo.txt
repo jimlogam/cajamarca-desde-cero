@@ -13,5 +13,6 @@ Longitud: -78.50496
 Google Maps: https://www.google.com/maps?cid=2204872062523360084
 Place Id: ChIJm2jVBJ5bspERVEPjfXVHmR4
 Fotos: Jhony Huingo.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=heV7aOaYIbKHLyHJAUmE6A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=207.81923&pitch=1.9861238&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 

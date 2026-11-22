@@ -13,4 +13,5 @@ Longitud: -78.5017129
 Google Maps: https://www.google.com/maps?cid=5200802192276804403
 Place Id: ChIJRTm6rWZbspERM1O78Qn2LEg
 Fotos: Jugueria DANJHO.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcw_r2HSpfBtmWBH7eT-NSUs8o4rHo_bUVpmn2DCe_l6f7_HMAK_ngW38YY-b2zTGIcWJxeFNFGapDObvFELYUmZ-nbpqQW1YLukAjxVzWR0-59y25CEtBhse5M699G3uSGo2utoIVavIQ=w1600-h1200-k-no
 

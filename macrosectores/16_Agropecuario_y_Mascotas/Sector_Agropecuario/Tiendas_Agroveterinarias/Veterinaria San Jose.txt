@@ -13,4 +13,5 @@ Longitud: -78.5189704
 Google Maps: https://www.google.com/maps?cid=5643338372030011198
 Place Id: ChIJTzLglfdaspERPhcuhFkqUU4
 Fotos: Veterinaria San Jose.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLe46_38FD3SWjfolopk2iYYOLe6MK2enh26z24AuT5R11Wqk0JVLk8DRZPp66Lqzq0oBnuOBrEJIwonGJJlSGREr1GPfY5llWcpCjsYWHDZ_vPpTQfMvQmXQ2R3ittTGVXM8p4ePYBT0nxU=w1600-h1200-k-no
 

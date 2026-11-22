@@ -13,5 +13,6 @@ Longitud: -78.491721
 Google Maps: https://www.google.com/maps?cid=9392792857466940120
 Place Id: ChIJMa5fSQBbspER2KoktlbnWYI
 Fotos: Moto técnica MARIÑAS.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zerA3scl4Jb8TxnudQcNow&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=134.0143&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

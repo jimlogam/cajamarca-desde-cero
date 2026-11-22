@@ -13,5 +13,6 @@ Longitud: -78.5115352
 Google Maps: https://www.google.com/maps?cid=10820605971207842166
 Place Id: ChIJDeeqEQBbspERdmlQAM2DKpY
 Fotos: J&G minimarket.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=egCTdsWoSNTxsQz26-RB6A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=314.5313&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 

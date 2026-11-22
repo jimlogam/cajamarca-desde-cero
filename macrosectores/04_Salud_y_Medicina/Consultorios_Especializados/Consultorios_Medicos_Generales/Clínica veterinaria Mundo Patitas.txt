@@ -13,4 +13,5 @@ Longitud: -78.50864159999999
 Google Maps: https://www.google.com/maps?cid=3767716134873361935
 Place Id: ChIJU3eVegBbspERD26iydydSTQ
 Fotos: Clínica veterinaria Mundo Patitas.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iVkMjQS6TWKzrf_QV8t1Uw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=3.9975126&pitch=7.183507&thumbfov=100
 

@@ -13,4 +13,5 @@ Longitud: -78.4930122
 Google Maps: https://www.google.com/maps?cid=5436136866897336051
 Place Id: ChIJhyPcJwBbspER8xbSta0JcUs
 Fotos: PETROBANCOO.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLf7n-ksmsVKAkmihOccpBeJkQFfch4q5EH6_wpF1bCyD30IGqvNDlTVzUAcsRvXHGPl1Vs09WkzC6zEBwT6SYy66Is6wEPIDtIb7ic8GgEO8YD6aqS1BPqx6LVPjsqrD7XtlnDpRu16MrE=w1600-h1200-k-no
 

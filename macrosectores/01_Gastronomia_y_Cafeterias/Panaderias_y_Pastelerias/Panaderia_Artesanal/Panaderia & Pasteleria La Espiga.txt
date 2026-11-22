@@ -13,4 +13,5 @@ Longitud: -78.50825429999999
 Google Maps: https://www.google.com/maps?cid=16523330985521319102
 Place Id: ChIJVSUdJONaspERvgw0qvypTuU
 Fotos: Panaderia & Pasteleria La Espiga.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=axXZjZvJ6h7YGcMeQs4iUA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=10.111449&pitch=3.570339&thumbfov=100
 

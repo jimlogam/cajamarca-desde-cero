@@ -13,4 +13,5 @@ Longitud: -78.5007254
 Google Maps: https://www.google.com/maps?cid=8542631854619524747
 Place Id: ChIJQ2w9nlRbspERi36INWmGjXY
 Fotos: Happy Day.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLddYARXe_Hd-b9P84zG5yWniJCIT6rSVqK6h0CtY_bj-KEW_nydfjQJkONDBnUODc4Vg90kYFq04RnlIstID-HEv5H-Ym_V_zFwCLho0txdD7AXaDpP1JTpZCPeXlHfb8yaVkej8Q=w1600-h1200-k-no
 
