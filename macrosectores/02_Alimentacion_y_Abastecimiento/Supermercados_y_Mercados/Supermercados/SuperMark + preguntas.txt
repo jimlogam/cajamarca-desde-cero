@@ -1,0 +1,259 @@
+================================================================================
+NEGOCIO: SuperMark
+MACRO-SECTOR: 02_Alimentacion_y_Abastecimiento
+RUBRO: Supermercados_y_Mercados -> Mercado de abastos
+SUBRUBRO: Supermercados
+DIRECCIÓN: Av. Andrés Zevallos 2240, Cajamarca 06002
+CIUDAD: Cajamarca, Perú
+ARCHIVO: SuperMark + preguntas.txt
+================================================================================
+
+================================================================================
+20 PREGUNTAS Y RESPUESTAS PERSONALIZADAS DE ALTO IMPACTO
+================================================================================
+
+--------------------------------------------------------------------------------
+PREGUNTA 1: ¿Cómo elijo la talla, capacidad o versión ideal de Humitas de choclo según mis necesidades en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 1:
+La oferta de Humitas de choclo en nuestra tienda está orientada a brindarte soluciones prácticas para tu día a día, con marcas líderes del mercado.
+
+Verificamos que cada unidad provenga de distribuidores oficiales autorizados, garantizando su autenticidad y funcionamiento óptimo desde el empaque.
+
+Ofrecemos promociones periódicas y descuentos por compras por volumen o combos que optimizan tu presupuesto familiar o comercial.
+
+Visítanos en SuperMark, ubicado en Av. Andrés Zevallos 2240, Cajamarca 06002, y descubre la calidad y variedad disponible en Humitas de choclo.
+
+--------------------------------------------------------------------------------
+PREGUNTA 2: ¿Ofrecen servicio de entrega a domicilio o cambios para Pan cajamarquino en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 2:
+Cuidamos nuestro inventario de Pan cajamarquino manteniendo stock fresco y actualizado con las últimas tendencias y demandas de los clientes.
+
+Puedes revisar y probar el producto con tranquilidad en tienda para confirmar que cumple con todas tus expectativas antes de llevarlo.
+
+Emitimos boleta o factura electrónica al instante para respaldar formalmente tu compra y tus derechos como cliente.
+
+Haz tus compras con confianza en SuperMark, situado en Av. Andrés Zevallos 2240, Cajamarca 06002, tu tienda preferida para Pan cajamarquino.
+
+--------------------------------------------------------------------------------
+PREGUNTA 3: ¿Qué facilidades de pago, promociones y disponibilidad inmediata hay para Plátano bellaco en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 3:
+Encontrarás Plátano bellaco en diversas presentaciones, estilos y colores para que elijas exactamente el que mejor se adapte a tus gustos.
+
+Todos nuestros productos cuentan con garantía formal contra defectos de fabricación y soporte directo para cambios o servicio técnico si corresponde.
+
+Contamos con servicio de delivery rápido para que recibas tu pedido en la comodidad de tu domicilio u oficina sin contratiempos.
+
+En SuperMark te esperamos en Av. Andrés Zevallos 2240, Cajamarca 06002 con las mejores opciones y asesoría en Plátano bellaco.
+
+--------------------------------------------------------------------------------
+PREGUNTA 4: ¿Ofrecen servicio de entrega a domicilio o cambios para Plantas y hierbas medicinales en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 4:
+Cuidamos nuestro inventario de Plantas y hierbas medicinales manteniendo stock fresco y actualizado con las últimas tendencias y demandas de los clientes.
+
+Puedes revisar y probar el producto con tranquilidad en tienda para confirmar que cumple con todas tus expectativas antes de llevarlo.
+
+Emitimos boleta o factura electrónica al instante para respaldar formalmente tu compra y tus derechos como cliente.
+
+Haz tus compras con confianza en SuperMark, situado en Av. Andrés Zevallos 2240, Cajamarca 06002, tu tienda preferida para Plantas y hierbas medicinales.
+
+--------------------------------------------------------------------------------
+PREGUNTA 5: ¿Qué facilidades de pago, promociones y disponibilidad inmediata hay para Mango de estación en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 5:
+Encontrarás Mango de estación en diversas presentaciones, estilos y colores para que elijas exactamente el que mejor se adapte a tus gustos.
+
+Todos nuestros productos cuentan con garantía formal contra defectos de fabricación y soporte directo para cambios o servicio técnico si corresponde.
+
+Contamos con servicio de delivery rápido para que recibas tu pedido en la comodidad de tu domicilio u oficina sin contratiempos.
+
+En SuperMark te esperamos en Av. Andrés Zevallos 2240, Cajamarca 06002 con las mejores opciones y asesoría en Mango de estación.
+
+--------------------------------------------------------------------------------
+PREGUNTA 6: ¿Qué variedad de marcas, modelos y características presenta Papa peruanita en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 6:
+Al adquirir Papa peruanita en nuestro establecimiento cuentas con la seguridad de comprar un artículo original y garantizado en mercado de abastos.
+
+Nuestro personal de ventas te asesora cordialmente, explicándote las diferencias técnicas entre gamas para que hagas una compra inteligente.
+
+Mantenemos políticas claras de cambio y devolución que protegen tu satisfacción como consumidor en todo momento.
+
+En SuperMark te atendemos con la mayor amabilidad en Av. Andrés Zevallos 2240, Cajamarca 06002, listos para ofrecerte lo mejor en Papa peruanita.
+
+--------------------------------------------------------------------------------
+PREGUNTA 7: ¿Qué variedad de marcas, modelos y características presenta Queso tipo suizo en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 7:
+Al adquirir Queso tipo suizo en nuestro establecimiento cuentas con la seguridad de comprar un artículo original y garantizado en mercado de abastos.
+
+Nuestro personal de ventas te asesora cordialmente, explicándote las diferencias técnicas entre gamas para que hagas una compra inteligente.
+
+Mantenemos políticas claras de cambio y devolución que protegen tu satisfacción como consumidor en todo momento.
+
+En SuperMark te atendemos con la mayor amabilidad en Av. Andrés Zevallos 2240, Cajamarca 06002, listos para ofrecerte lo mejor en Queso tipo suizo.
+
+--------------------------------------------------------------------------------
+PREGUNTA 8: ¿Qué garantía de fábrica, originalidad y durabilidad respalda a Huevos por docena en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 8:
+Disponemos de un amplio catálogo de Huevos por docena seleccionado para ofrecerte la mejor relación entre calidad, diseño moderno y precio justo.
+
+Ofrecemos materiales de primera calidad que aseguran comodidad, resistencia al uso diario y acabados atractivos que perduran en el tiempo.
+
+Aceptamos pagos con tarjetas de débito, crédito, transferencias bancarias, Yape, Plin y efectivo para mayor comodidad en tu compra.
+
+Encuentra lo que buscas con total garantía en SuperMark en Av. Andrés Zevallos 2240, Cajamarca 06002, especialistas en Huevos por docena.
+
+--------------------------------------------------------------------------------
+PREGUNTA 9: ¿Qué facilidades de pago, promociones y disponibilidad inmediata hay para Cebolla roja en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 9:
+Encontrarás Cebolla roja en diversas presentaciones, estilos y colores para que elijas exactamente el que mejor se adapte a tus gustos.
+
+Todos nuestros productos cuentan con garantía formal contra defectos de fabricación y soporte directo para cambios o servicio técnico si corresponde.
+
+Contamos con servicio de delivery rápido para que recibas tu pedido en la comodidad de tu domicilio u oficina sin contratiempos.
+
+En SuperMark te esperamos en Av. Andrés Zevallos 2240, Cajamarca 06002 con las mejores opciones y asesoría en Cebolla roja.
+
+--------------------------------------------------------------------------------
+PREGUNTA 10: ¿Qué garantía de fábrica, originalidad y durabilidad respalda a Bizcochos y panes dulces en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 10:
+Disponemos de un amplio catálogo de Bizcochos y panes dulces seleccionado para ofrecerte la mejor relación entre calidad, diseño moderno y precio justo.
+
+Ofrecemos materiales de primera calidad que aseguran comodidad, resistencia al uso diario y acabados atractivos que perduran en el tiempo.
+
+Aceptamos pagos con tarjetas de débito, crédito, transferencias bancarias, Yape, Plin y efectivo para mayor comodidad en tu compra.
+
+Encuentra lo que buscas con total garantía en SuperMark en Av. Andrés Zevallos 2240, Cajamarca 06002, especialistas en Bizcochos y panes dulces.
+
+--------------------------------------------------------------------------------
+PREGUNTA 11: ¿Cómo elijo la talla, capacidad o versión ideal de Ají amarillo según mis necesidades en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 11:
+La oferta de Ají amarillo en nuestra tienda está orientada a brindarte soluciones prácticas para tu día a día, con marcas líderes del mercado.
+
+Verificamos que cada unidad provenga de distribuidores oficiales autorizados, garantizando su autenticidad y funcionamiento óptimo desde el empaque.
+
+Ofrecemos promociones periódicas y descuentos por compras por volumen o combos que optimizan tu presupuesto familiar o comercial.
+
+Visítanos en SuperMark, ubicado en Av. Andrés Zevallos 2240, Cajamarca 06002, y descubre la calidad y variedad disponible en Ají amarillo.
+
+--------------------------------------------------------------------------------
+PREGUNTA 12: ¿Qué facilidades de pago, promociones y disponibilidad inmediata hay para Papa blanca en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 12:
+Encontrarás Papa blanca en diversas presentaciones, estilos y colores para que elijas exactamente el que mejor se adapte a tus gustos.
+
+Todos nuestros productos cuentan con garantía formal contra defectos de fabricación y soporte directo para cambios o servicio técnico si corresponde.
+
+Contamos con servicio de delivery rápido para que recibas tu pedido en la comodidad de tu domicilio u oficina sin contratiempos.
+
+En SuperMark te esperamos en Av. Andrés Zevallos 2240, Cajamarca 06002 con las mejores opciones y asesoría en Papa blanca.
+
+--------------------------------------------------------------------------------
+PREGUNTA 13: ¿Qué garantía de fábrica, originalidad y durabilidad respalda a Papa nativa de colores en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 13:
+Disponemos de un amplio catálogo de Papa nativa de colores seleccionado para ofrecerte la mejor relación entre calidad, diseño moderno y precio justo.
+
+Ofrecemos materiales de primera calidad que aseguran comodidad, resistencia al uso diario y acabados atractivos que perduran en el tiempo.
+
+Aceptamos pagos con tarjetas de débito, crédito, transferencias bancarias, Yape, Plin y efectivo para mayor comodidad en tu compra.
+
+Encuentra lo que buscas con total garantía en SuperMark en Av. Andrés Zevallos 2240, Cajamarca 06002, especialistas en Papa nativa de colores.
+
+--------------------------------------------------------------------------------
+PREGUNTA 14: ¿Ofrecen servicio de entrega a domicilio o cambios para Yuca en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 14:
+Cuidamos nuestro inventario de Yuca manteniendo stock fresco y actualizado con las últimas tendencias y demandas de los clientes.
+
+Puedes revisar y probar el producto con tranquilidad en tienda para confirmar que cumple con todas tus expectativas antes de llevarlo.
+
+Emitimos boleta o factura electrónica al instante para respaldar formalmente tu compra y tus derechos como cliente.
+
+Haz tus compras con confianza en SuperMark, situado en Av. Andrés Zevallos 2240, Cajamarca 06002, tu tienda preferida para Yuca.
+
+--------------------------------------------------------------------------------
+PREGUNTA 15: ¿Cómo elijo la talla, capacidad o versión ideal de Carne de cuy según mis necesidades en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 15:
+La oferta de Carne de cuy en nuestra tienda está orientada a brindarte soluciones prácticas para tu día a día, con marcas líderes del mercado.
+
+Verificamos que cada unidad provenga de distribuidores oficiales autorizados, garantizando su autenticidad y funcionamiento óptimo desde el empaque.
+
+Ofrecemos promociones periódicas y descuentos por compras por volumen o combos que optimizan tu presupuesto familiar o comercial.
+
+Visítanos en SuperMark, ubicado en Av. Andrés Zevallos 2240, Cajamarca 06002, y descubre la calidad y variedad disponible en Carne de cuy.
+
+--------------------------------------------------------------------------------
+PREGUNTA 16: ¿Ofrecen servicio de entrega a domicilio o cambios para Papaya en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 16:
+Cuidamos nuestro inventario de Papaya manteniendo stock fresco y actualizado con las últimas tendencias y demandas de los clientes.
+
+Puedes revisar y probar el producto con tranquilidad en tienda para confirmar que cumple con todas tus expectativas antes de llevarlo.
+
+Emitimos boleta o factura electrónica al instante para respaldar formalmente tu compra y tus derechos como cliente.
+
+Haz tus compras con confianza en SuperMark, situado en Av. Andrés Zevallos 2240, Cajamarca 06002, tu tienda preferida para Papaya.
+
+--------------------------------------------------------------------------------
+PREGUNTA 17: ¿Qué variedad de marcas, modelos y características presenta Arroz por saco en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 17:
+Al adquirir Arroz por saco en nuestro establecimiento cuentas con la seguridad de comprar un artículo original y garantizado en mercado de abastos.
+
+Nuestro personal de ventas te asesora cordialmente, explicándote las diferencias técnicas entre gamas para que hagas una compra inteligente.
+
+Mantenemos políticas claras de cambio y devolución que protegen tu satisfacción como consumidor en todo momento.
+
+En SuperMark te atendemos con la mayor amabilidad en Av. Andrés Zevallos 2240, Cajamarca 06002, listos para ofrecerte lo mejor en Arroz por saco.
+
+--------------------------------------------------------------------------------
+PREGUNTA 18: ¿Cómo elijo la talla, capacidad o versión ideal de Arveja verde según mis necesidades en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 18:
+La oferta de Arveja verde en nuestra tienda está orientada a brindarte soluciones prácticas para tu día a día, con marcas líderes del mercado.
+
+Verificamos que cada unidad provenga de distribuidores oficiales autorizados, garantizando su autenticidad y funcionamiento óptimo desde el empaque.
+
+Ofrecemos promociones periódicas y descuentos por compras por volumen o combos que optimizan tu presupuesto familiar o comercial.
+
+Visítanos en SuperMark, ubicado en Av. Andrés Zevallos 2240, Cajamarca 06002, y descubre la calidad y variedad disponible en Arveja verde.
+
+--------------------------------------------------------------------------------
+PREGUNTA 19: ¿Qué variedad de marcas, modelos y características presenta Frejol canario en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 19:
+Al adquirir Frejol canario en nuestro establecimiento cuentas con la seguridad de comprar un artículo original y garantizado en mercado de abastos.
+
+Nuestro personal de ventas te asesora cordialmente, explicándote las diferencias técnicas entre gamas para que hagas una compra inteligente.
+
+Mantenemos políticas claras de cambio y devolución que protegen tu satisfacción como consumidor en todo momento.
+
+En SuperMark te atendemos con la mayor amabilidad en Av. Andrés Zevallos 2240, Cajamarca 06002, listos para ofrecerte lo mejor en Frejol canario.
+
+--------------------------------------------------------------------------------
+PREGUNTA 20: ¿Cómo elijo la talla, capacidad o versión ideal de Uva de mesa según mis necesidades en SuperMark?
+--------------------------------------------------------------------------------
+RESPUESTA 20:
+La oferta de Uva de mesa en nuestra tienda está orientada a brindarte soluciones prácticas para tu día a día, con marcas líderes del mercado.
+
+Verificamos que cada unidad provenga de distribuidores oficiales autorizados, garantizando su autenticidad y funcionamiento óptimo desde el empaque.
+
+Ofrecemos promociones periódicas y descuentos por compras por volumen o combos que optimizan tu presupuesto familiar o comercial.
+
+Visítanos en SuperMark, ubicado en Av. Andrés Zevallos 2240, Cajamarca 06002, y descubre la calidad y variedad disponible en Uva de mesa.
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Bienvenido a nuestro establecimiento. Celebramos la riqueza culinaria cajamarquina y criolla con platos tradicionales cocinados con sazón casero, insumos selectos y porciones bien servidas para engreír a toda la familia. Pasa a disfrutar de un almuerzo reconfortante en nuestro restaurante en Av. Andrés Zevallos 2240, Cajamarca o solicita nuestro servicio de delivery rápido y seguro. Contáctanos vía WhatsApp y disfruta del auténtico sabor tradicional.
+================================================================================

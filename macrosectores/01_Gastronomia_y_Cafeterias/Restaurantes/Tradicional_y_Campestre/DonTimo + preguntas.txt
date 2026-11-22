@@ -1,0 +1,259 @@
+================================================================================
+NEGOCIO: DonTimo
+MACRO-SECTOR: 01_Gastronomia_y_Cafeterias
+RUBRO: Restaurantes -> Restaurante campestre
+SUBRUBRO: Tradicional_y_Campestre
+DIRECCIÓN: Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001
+CIUDAD: Cajamarca, Perú
+ARCHIVO: DonTimo + preguntas.txt
+================================================================================
+
+================================================================================
+20 PREGUNTAS Y RESPUESTAS PERSONALIZADAS DE ALTO IMPACTO
+================================================================================
+
+--------------------------------------------------------------------------------
+PREGUNTA 1: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Sopa de chochoca en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 1:
+En nuestra cocina tratamos Sopa de chochoca como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+
+Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+
+Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+
+Te invitamos a visitarnos en DonTimo, situado en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001, listos para servirte Sopa de chochoca con el sabor que te mereces.
+
+--------------------------------------------------------------------------------
+PREGUNTA 2: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Leche fresca de establo en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 2:
+En nuestra cocina tratamos Leche fresca de establo como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+
+Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+
+Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+
+Te invitamos a visitarnos en DonTimo, situado en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001, listos para servirte Leche fresca de establo con el sabor que te mereces.
+
+--------------------------------------------------------------------------------
+PREGUNTA 3: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Mate de muña en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 3:
+Disfrutar de Mate de muña en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+
+Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+
+Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+
+En DonTimo te esperamos en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001 para que compartas y disfrutes de Mate de muña con la mejor atención y calidez.
+
+--------------------------------------------------------------------------------
+PREGUNTA 4: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Agua de cebada en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 4:
+Al elegir Agua de cebada disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
+
+Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+
+Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+
+Ven con tus familiares o amigos a DonTimo en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001 y déjate consentir por la sazón de Agua de cebada.
+
+--------------------------------------------------------------------------------
+PREGUNTA 5: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Ají de la casa en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 5:
+En nuestra cocina tratamos Ají de la casa como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+
+Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+
+Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+
+Te invitamos a visitarnos en DonTimo, situado en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001, listos para servirte Ají de la casa con el sabor que te mereces.
+
+--------------------------------------------------------------------------------
+PREGUNTA 6: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Alfajores cajamarquinos en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 6:
+En nuestra cocina tratamos Alfajores cajamarquinos como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+
+Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+
+Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+
+Te invitamos a visitarnos en DonTimo, situado en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001, listos para servirte Alfajores cajamarquinos con el sabor que te mereces.
+
+--------------------------------------------------------------------------------
+PREGUNTA 7: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Chicha de jora en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 7:
+Cada orden de Chicha de jora se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+
+Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+
+Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+
+Haz tu reserva o visítanos en DonTimo, en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001, donde preparamos Chicha de jora con el cariño de la buena mesa.
+
+--------------------------------------------------------------------------------
+PREGUNTA 8: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Cuy al horno con papas doradas en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 8:
+En nuestra cocina tratamos Cuy al horno con papas doradas como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+
+Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+
+Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+
+Te invitamos a visitarnos en DonTimo, situado en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001, listos para servirte Cuy al horno con papas doradas con el sabor que te mereces.
+
+--------------------------------------------------------------------------------
+PREGUNTA 9: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Choclo con queso en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 9:
+En nuestra cocina tratamos Choclo con queso como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+
+Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+
+Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+
+Te invitamos a visitarnos en DonTimo, situado en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001, listos para servirte Choclo con queso con el sabor que te mereces.
+
+--------------------------------------------------------------------------------
+PREGUNTA 10: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Refresco de carambola en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 10:
+Cada orden de Refresco de carambola se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+
+Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+
+Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+
+Haz tu reserva o visítanos en DonTimo, en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001, donde preparamos Refresco de carambola con el cariño de la buena mesa.
+
+--------------------------------------------------------------------------------
+PREGUNTA 11: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Caldo de patasca en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 11:
+Cada orden de Caldo de patasca se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+
+Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+
+Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+
+Haz tu reserva o visítanos en DonTimo, en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001, donde preparamos Caldo de patasca con el cariño de la buena mesa.
+
+--------------------------------------------------------------------------------
+PREGUNTA 12: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Seco de carnero en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 12:
+Al elegir Seco de carnero disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
+
+Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+
+Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+
+Ven con tus familiares o amigos a DonTimo en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001 y déjate consentir por la sazón de Seco de carnero.
+
+--------------------------------------------------------------------------------
+PREGUNTA 13: ¿Qué ingredientes, preparación y presentación destacan en Dulce de higos en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 13:
+La preparación de Dulce de higos se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de restaurante campestre.
+
+Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+
+Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+
+En DonTimo cuidamos cada detalle en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001 para hacer de tu experiencia con Dulce de higos un motivo para volver siempre.
+
+--------------------------------------------------------------------------------
+PREGUNTA 14: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Medio pollo a la leña en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 14:
+Al elegir Medio pollo a la leña disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
+
+Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+
+Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+
+Ven con tus familiares o amigos a DonTimo en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001 y déjate consentir por la sazón de Medio pollo a la leña.
+
+--------------------------------------------------------------------------------
+PREGUNTA 15: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Caldo verde cajamarquino en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 15:
+Al elegir Caldo verde cajamarquino disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
+
+Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+
+Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+
+Ven con tus familiares o amigos a DonTimo en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001 y déjate consentir por la sazón de Caldo verde cajamarquino.
+
+--------------------------------------------------------------------------------
+PREGUNTA 16: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Canasta de picnic campestre en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 16:
+Cada orden de Canasta de picnic campestre se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+
+Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+
+Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+
+Haz tu reserva o visítanos en DonTimo, en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001, donde preparamos Canasta de picnic campestre con el cariño de la buena mesa.
+
+--------------------------------------------------------------------------------
+PREGUNTA 17: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Parrilla de carnes mixta en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 17:
+Al elegir Parrilla de carnes mixta disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
+
+Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+
+Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+
+Ven con tus familiares o amigos a DonTimo en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001 y déjate consentir por la sazón de Parrilla de carnes mixta.
+
+--------------------------------------------------------------------------------
+PREGUNTA 18: ¿Qué ingredientes, preparación y presentación destacan en Limonada fresca en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 18:
+La preparación de Limonada fresca se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de restaurante campestre.
+
+Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+
+Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+
+En DonTimo cuidamos cada detalle en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001 para hacer de tu experiencia con Limonada fresca un motivo para volver siempre.
+
+--------------------------------------------------------------------------------
+PREGUNTA 19: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Chancho a la caja china en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 19:
+En nuestra cocina tratamos Chancho a la caja china como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+
+Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+
+Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+
+Te invitamos a visitarnos en DonTimo, situado en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001, listos para servirte Chancho a la caja china con el sabor que te mereces.
+
+--------------------------------------------------------------------------------
+PREGUNTA 20: ¿Qué ingredientes, preparación y presentación destacan en Chicharrón de pollo con papas en DonTimo?
+--------------------------------------------------------------------------------
+RESPUESTA 20:
+La preparación de Chicharrón de pollo con papas se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de restaurante campestre.
+
+Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+
+Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+
+En DonTimo cuidamos cada detalle en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca 06001 para hacer de tu experiencia con Chicharrón de pollo con papas un motivo para volver siempre.
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Bienvenido a nuestro establecimiento. Celebramos la riqueza culinaria cajamarquina y criolla con platos tradicionales cocinados con sazón casero, insumos selectos y porciones bien servidas para engreír a toda la familia. Pasa a disfrutar de un almuerzo reconfortante en nuestro restaurante en Jr.Jacaranda y pdj. La cantuta, Jacarandá 547, Cajamarca o solicita nuestro servicio de delivery rápido y seguro. Contáctanos vía WhatsApp y disfruta del auténtico sabor tradicional.
+================================================================================
