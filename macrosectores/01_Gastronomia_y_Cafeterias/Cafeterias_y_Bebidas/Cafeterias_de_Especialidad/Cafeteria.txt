@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=8238418210602521888
 Place Id: ChIJ7xVPxrNbspERIJUSqra9VHI
 Fotos: Cafeteria.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dgAuWN49OG8v_egtyRjH_g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=211.10674&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos la bienvenida a Cafeteria. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en RG73+PJ3, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+================================================================================

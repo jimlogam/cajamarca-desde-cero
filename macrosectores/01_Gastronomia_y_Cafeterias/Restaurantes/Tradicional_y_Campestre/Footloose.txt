@@ -1,18 +1,23 @@
-Nombre: Footloose
+Nombre: FOOTLOOSE
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Restaurantes
 Subrubro: Tradicional_y_Campestre
-Categoría Maps: Zapatería, Tienda de accesorios de moda
-Dirección: Jr. Sor Manuela Gil 151, Cajamarca 06001
-Teléfono: (01) 7482402
-Rating: 4.5
-Reseñas: 22
+Categoría Maps: Zapatería
+Dirección: Av. Rafael Hoyos Rubio 719, Cajamarca 06000
+Teléfono: (01) 7482488
+Rating: 3
+Reseñas: 2
 Sitio web: https://www.footloose.pe/
-Latitud: -7.1494886
-Longitud: -78.5096143
-Google Maps: https://www.google.com/maps?cid=15942031089150232116
-Place Id: ChIJkXwXxb5bspERNIYIo894Pd0
-Fotos: Footloose.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLd40V73C4uMxPzTdR6sa_3qIjfQ8-WYbqyEK85nC9dQbY56NewYLeMshBRFNC7P-exJIBa0xN37fgHQAqUpVI_4jFn3KhRRco47nqwQbW2PsGj9kIm6w5s2JGaOMNea=w1600-h1200-k-no
-Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 6 veces en los archivos de la cosecha original; fusionado en uno.
+Latitud: -7.1433987
+Longitud: -78.49047689999999
+Google Maps: https://www.google.com/maps?cid=6861189445730895242
+Place Id: ChIJ3fs9j5dbspERigVz4XLXN18
+Fotos: FOOTLOOSE.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLd-6etcyH4bpryWvL7NwqWUbFIJAwqoRKUQmCW57jh6ip_8vGs9H8CfnYqIH1pNalR30v9gf2PXyCx3AKrQICxg6RaeWVzPaNs-UOSGQcWyfyucCp0MuMRiHSSmMfVJ00ezIW9EAOOir5s=w1600-h1200-k-no
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la más cálida bienvenida a FOOTLOOSE! Ven a disfrutar de la auténtica comida tradicional cajamarquina y platos a la carta preparados con recetas caseras, insumos frescos del valle y la sazón incomparable de nuestra cocina. Te esperamos en Av. Rafael Hoyos Rubio 719, Cajamarca para brindarte un ambiente acogedor, porciones generosas y atención esmerada. Haz tu reserva o pide por delivery escribiéndonos al WhatsApp hoy.
+================================================================================

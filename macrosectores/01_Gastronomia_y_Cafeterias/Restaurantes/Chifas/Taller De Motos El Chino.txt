@@ -16,3 +16,8 @@ Fotos: Taller De Motos El Chino.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iqWAXrJpKcTiwrmib1E1uA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=270.63205&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la bienvenida a Taller De Motos El Chino! Garantizamos el óptimo rendimiento y seguridad de tu vehículo con servicios especializados de mecánica general, mantenimiento preventivo, frenos, suspensión y venta de repuestos certificados. Acércate a nuestro taller en VF4P+W6M, C. Alemania, Cajamarca donde mecánicos expertos cuidarán tu auto con honestidad y rapidez. Agenda tu revisión o solicita presupuesto directamente por WhatsApp hoy.
+================================================================================

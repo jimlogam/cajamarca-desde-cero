@@ -1,18 +1,23 @@
-Nombre: Grifo Ava
+Nombre: Grifo AVA
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Restaurantes
 Subrubro: Tradicional_y_Campestre
 Categoría Maps: Gasolinera
-Dirección: Cajamarca 06001
+Dirección: 13 De Julio 946, Cajamarca 06001
 Teléfono: 
-Rating: 4
-Reseñas: 35
+Rating: 4.1
+Reseñas: 21
 Sitio web: 
-Latitud: -7.145461399999999
-Longitud: -78.5088265
-Google Maps: https://www.google.com/maps?cid=5936931139175293904
-Place Id: ChIJuXVLhO1aspER0KN_dmo3ZFI
-Fotos: Grifo Ava.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLeHy24PdaD41wYMYj3QSfn0-WVRYI_1oNluk7Oe0A1N8T1cr03occk4x8z5pr5eSUO2GUTjIo_tvKHhgv8FPFBXewuT6T8-coPQftM5AapQIqDP40-qdWo28Ph2zyKwTAJd2rqt=w1600-h1200-k-no
+Latitud: -7.1456621
+Longitud: -78.52483079999999
+Google Maps: https://www.google.com/maps?cid=16696302427718532696
+Place Id: ChIJP6KAA71bspERWL6n4pgutec
+Fotos: Grifo AVA.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfggrIN0D5ZlfrIWbDg3bjLX0notKE0F6wX94YwMU2QHfP4xqI7i-jQdeo8pEbOGsjvi7HZApPgoypNABPXi2Fkmrs_S40efvsrB5So9Fv2769XpWJ6OsAhMp-BjInqA9Xum7Uz1A=w1600-h1200-k-no
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Grifo AVA! Abastecemos tu vehículo y tu hogar con combustibles limpios de calidad garantizada y balones de gas seguros con peso exacto para tu completa tranquilidad. Visítanos en nuestra estación ubicada en 13 De Julio 946, Cajamarca con atención rápida y cordial las 24 horas o solicita tu pedido de gas por delivery a través de WhatsApp para recibirlo al instante.
+================================================================================

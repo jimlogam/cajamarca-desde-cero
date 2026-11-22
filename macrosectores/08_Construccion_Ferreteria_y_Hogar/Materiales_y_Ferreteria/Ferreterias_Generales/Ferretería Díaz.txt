@@ -15,3 +15,8 @@ Place Id: ChIJ0-OzTvhaspEROX-HC-4hCJ8
 Fotos: Ferretería Díaz.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M5n74Clcf7Zlxx_8bxpGCA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=58.309177&pitch=0&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Ferretería Díaz! Somos tu socio confiable en materiales de construcción, herramientas de alta gama, artículos de ferretería, electricidad y acabados para el hogar. Te ofrecemos asesoría técnica personalizada y productos garantizados de las mejores marcas en Jr.Amazonas 407, Cajamarca. Visita nuestra tienda para cotizar tus proyectos con precios altamente competitivos o contáctanos por WhatsApp para despachos rápidos a tu obra.
+================================================================================

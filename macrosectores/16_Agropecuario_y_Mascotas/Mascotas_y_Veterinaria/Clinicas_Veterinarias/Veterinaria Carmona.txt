@@ -15,3 +15,8 @@ Place Id: ChIJy0PSawBbspERbFVRcQUtbPg
 Fotos: Veterinaria Carmona.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v8gvQdyDvD8oKjV_8IBR1g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=244.42137&pitch=0&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cordial bienvenida a Veterinaria Carmona. Comprometidos con tu bienestar integral, ponemos a tu disposición atención médica profesional, diagnóstico certero y tratamientos personalizados en un ambiente seguro y confiable. Encuéntranos en Av San Martín de Porres 2640, Cajamarca con profesionales de vocación listos para cuidar de ti y de tus seres queridos. Agenda tu consulta o solicita información escribiéndonos al WhatsApp con total confianza.
+================================================================================

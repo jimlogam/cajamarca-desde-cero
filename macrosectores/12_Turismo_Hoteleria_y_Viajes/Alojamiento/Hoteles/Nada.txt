@@ -16,3 +16,8 @@ Fotos: Nada.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vx4vVyEMk7mtYlPLEbGLgg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=146.23943&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos la más cordial bienvenida a Nada. Disfruta de una estadía placentera y reparadora en Cajamarca con habitaciones cómodas, limpias, agua caliente, internet de alta velocidad y atención personalizada las 24 horas. Nos encontramos convenientemente ubicados en Leguía 372, Cajamarca, ideales para turistas, familias y viajeros de negocios. Reserva tu habitación hoy mismo por WhatsApp y siéntete como en casa.
+================================================================================

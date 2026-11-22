@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=2955670115360676589
 Place Id: ChIJaZMIYyFbspER7ZpPY0-mBCk
 Fotos: Cevicheria y Marisquería JACOB.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lrRxQ_Rdm0FAjlKgDQAsMw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=125.16784&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Cevicheria y Marisquería "JACOB"! Saborea la frescura inigualable del mar en cada plato con nuestro ceviche preparado al instante, chicharrones crocantes, arroces marineros y parihuelas reconfortantes llenas de sazón. Visítanos en Mision Bautista con Av. San Martin de Porres cuadra 20 Jr. Mision Bautista, con Av. San Martin altura, Cajamarca para disfrutar de un almuerzo marino insuperable con la calidez de nuestra atención. Consulta nuestras promociones del día o solicita delivery escribiéndonos al WhatsApp con total confianza.
+================================================================================

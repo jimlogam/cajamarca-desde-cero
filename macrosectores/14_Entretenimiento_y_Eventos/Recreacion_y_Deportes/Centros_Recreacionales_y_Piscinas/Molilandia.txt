@@ -16,3 +16,8 @@ Fotos: Molilandia.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2ApUF_krV9Vbzx85oKyDGA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=182.36621&pitch=0&thumbfov=100
 Nota: Aparecia 8 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Molilandia! El destino ideal en Cajamarca para disfrutar con amigos y familia de piscinas temperadas, canchas deportivas, áreas verdes y sano esparcimiento al aire libre. Te esperamos en VFCP+5GW, Av. Juan Miguel Rosse, Cajamarca para pasar momentos inolvidables y celebrar tus eventos en un ambiente seguro y campestre. Consulta horarios, promociones y reservas escribiéndonos hoy al WhatsApp.
+================================================================================

@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=8629595943644563079
 Place Id: ChIJmTsqSRxbspERhwYWCMp7wnc
 Fotos: Cevicheria Restaurant Chifa.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9dcv3Xwr-Xi824l4oCjnDg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=220.4061&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Cevicheria Restaurant Chifa! Déjate envolver por los mejores aromas orientales con nuestro auténtico arroz chaufa salteado al wok a fuego vivo, tallarines jugosos, crujientes wantanes y especialidades agridulces tradicionales. Visítanos en nuestro salón comedor en Av San Martín de Porres 532, Cajamarca para saborear porciones bien servidas o pide tu entrega caliente a domicilio. Contáctanos por WhatsApp y asegura tu pedido favorito ahora.
+================================================================================

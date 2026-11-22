@@ -16,3 +16,8 @@ Fotos: Barber Vip Cajamarca.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MIVkogTbo8gWfDwg7rdpvw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=94.39582&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Barber Vip Cajamarca! El espacio perfecto en Cajamarca para renovar tu imagen personal con cortes modernos, clásicos, degradados impecables, perfilado de barba y tratamientos capilares de alta calidad. Te esperamos en nuestro cómodo local de Jr, Cinco Esquinas 412 para brindarte una atención esmerada y los mejores acabados. Reserva tu cita o consúltanos por WhatsApp y luce siempre impecable.
+================================================================================

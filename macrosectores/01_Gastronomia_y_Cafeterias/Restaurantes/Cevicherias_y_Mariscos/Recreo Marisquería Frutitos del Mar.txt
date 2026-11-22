@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=11544410221351615227
 Place Id: ChIJzzZvT49bspER-zoNce77NaA
 Fotos: Recreo Marisquería Frutitos del Mar.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=utN72Ba3IVRlbMQEBBV3YQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=22.07787&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Recreo Marisquería Frutitos del Mar! Saborea la frescura inigualable del mar en cada plato con nuestro ceviche preparado al instante, chicharrones crocantes, arroces marineros y parihuelas reconfortantes llenas de sazón. Visítanos en Diego Ferré, Cajamarca para disfrutar de un almuerzo marino insuperable con la calidez de nuestra atención. Consulta nuestras promociones del día o solicita delivery escribiéndonos al WhatsApp con total confianza.
+================================================================================

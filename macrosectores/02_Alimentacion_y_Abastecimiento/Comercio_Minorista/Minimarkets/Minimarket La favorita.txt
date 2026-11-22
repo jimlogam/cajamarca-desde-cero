@@ -16,3 +16,8 @@ Fotos: Minimarket La favorita.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BJEGVJqOpO2pL8W0WBqa5Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=296.5554&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la bienvenida a Minimarket La favorita! Todo lo que necesitas para tu hogar y tu familia en un solo lugar: abarrotes de primera necesidad, bebidas frías, lácteos, golosinas y artículos de limpieza con la mejor atención. Te esperamos en AV: MANCO CAPAC N:1717 Barrio, Cajamarca con precios justos y atención rápida y cordial. Visítanos todos los días o coordina entregas a domicilio escribiéndonos al WhatsApp.
+================================================================================

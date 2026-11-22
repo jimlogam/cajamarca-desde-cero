@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=108616948272505103
 Place Id: ChIJAQDw6PFaspERD6Fe-onigQE
 Fotos: Deli Café_2.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=toMsKYCzizx0Cnm65xqkjA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=33.763866&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos la bienvenida a Deli Café. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Jr. Sor Manuela Gil 202, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+================================================================================

@@ -15,3 +15,8 @@ Place Id: ChIJ_T9E6V5aspERSJhhGtHAN6A
 Fotos: Agrovet La Finca.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XkqIZndd-r0RExCAp-Ku7Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=321.99966&pitch=0.5145205&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cordial bienvenida a Agrovet La Finca. Comprometidos con tu bienestar integral, ponemos a tu disposición atención médica profesional, diagnóstico certero y tratamientos personalizados en un ambiente seguro y confiable. Encuéntranos en Cajamarca con profesionales de vocación listos para cuidar de ti y de tus seres queridos. Agenda tu consulta o solicita información escribiéndonos al WhatsApp con total confianza.
+================================================================================

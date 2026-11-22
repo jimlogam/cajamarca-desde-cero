@@ -15,3 +15,9 @@ Place Id: ChIJRV4BfG1bspERtpAW-FfrVjw
 Fotos: Caldos Avenida Peru.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AF8HSMQZm5qUebFVWr6cnA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=34.85454&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la más cálida bienvenida a Caldos Avenida Peru! Ven a disfrutar de la auténtica comida tradicional cajamarquina y platos a la carta preparados con recetas caseras, insumos frescos del valle y la sazón incomparable de nuestra cocina. Te esperamos en Ovalo Santa Apolonia, Av. Perú 875, Cajamarca para brindarte un ambiente acogedor, porciones generosas y atención esmerada. Haz tu reserva o pide por delivery escribiéndonos al WhatsApp hoy.
+================================================================================

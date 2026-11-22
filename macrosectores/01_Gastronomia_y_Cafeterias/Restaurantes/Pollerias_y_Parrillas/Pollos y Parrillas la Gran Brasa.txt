@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=4953062700757549325
 Place Id: ChIJmQV-ZxtbspERDQHkrEjQvEQ
 Fotos: Pollos y Parrillas la Gran Brasa.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KgdVxKu_MMu0nO-QjGnLbQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=340.55237&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la más cordial bienvenida a Pollos y Parrillas la Gran Brasa! Disfruta de la mejor experiencia gastronómica con nuestro delicioso pollo a la brasa dorado a la leña, carnes a la parrilla bien jugosas y papas crujientes con cremas artesanales. Te esperamos en nuestro acogedor local en Los Fresnos 357, Cajamarca para compartir en familia o solicita tu entrega rápida por delivery. Escríbenos al WhatsApp y date el gusto hoy mismo.
+================================================================================

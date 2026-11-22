@@ -15,3 +15,8 @@ Place Id: ChIJfzVEPkxbspERfRFepdjh27k
 Fotos: Maria's Cake Factory.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kQ7G7xr8vj6zMIWcApOnMw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=232.60774&pitch=0&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cálida bienvenida a Maria's Cake Factory. Deleita tu paladar con la frescura de nuestro pan crujiente recién salido del horno, pasteles artesanales, tortas personalizadas y bocaditos dulces y salados preparados con insumos de primera calidad. Visítanos en Cajamarca para llevar lo mejor a tu mesa familiar o coordina pedidos especiales para tus celebraciones escribiéndonos al WhatsApp hoy mismo.
+================================================================================

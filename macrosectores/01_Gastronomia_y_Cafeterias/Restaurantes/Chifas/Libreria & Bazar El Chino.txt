@@ -16,3 +16,8 @@ Fotos: Libreria & Bazar El Chino.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LZoYMwLMNnN24VRCS4YHHQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=65.09864&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Libreria & Bazar "El Chino"! Déjate envolver por los mejores aromas orientales con nuestro auténtico arroz chaufa salteado al wok a fuego vivo, tallarines jugosos, crujientes wantanes y especialidades agridulces tradicionales. Visítanos en nuestro salón comedor en Prol. Revilla Perez #542, Cajamarca para saborear porciones bien servidas o pide tu entrega caliente a domicilio. Contáctanos por WhatsApp y asegura tu pedido favorito ahora.
+================================================================================

@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=6518467946525178738
 Place Id: ChIJtdrA0E6fs5ERcjtnoA9Adlo
 Fotos: CHIFA SABOR DIVINO ¡ Buena sazón y atención recomendada!.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=30KfyU8Pv5tPtKcR5PBTeg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=99.24385&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a CHIFA SABOR DIVINO ¡ Buena sazón y atención recomendada!! Déjate envolver por los mejores aromas orientales con nuestro auténtico arroz chaufa salteado al wok a fuego vivo, tallarines jugosos, crujientes wantanes y especialidades agridulces tradicionales. Visítanos en nuestro salón comedor en JIRON, Ponciano Vigil 740, Chota para saborear porciones bien servidas o pide tu entrega caliente a domicilio. Contáctanos por WhatsApp y asegura tu pedido favorito ahora.
+================================================================================

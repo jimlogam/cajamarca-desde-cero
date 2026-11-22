@@ -16,3 +16,8 @@ Fotos: Servico Automotriz Ohmpower.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3k-q570ii12zz3839cBY6w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=232.07022&pitch=-3.0269535&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la bienvenida a Servico Automotriz Ohmpower! Garantizamos el óptimo rendimiento y seguridad de tu vehículo con servicios especializados de mecánica general, mantenimiento preventivo, frenos, suspensión y venta de repuestos certificados. Acércate a nuestro taller en Auxiliar Vía Evitamiento 1262, Cajamarca donde mecánicos expertos cuidarán tu auto con honestidad y rapidez. Agenda tu revisión o solicita presupuesto directamente por WhatsApp hoy.
+================================================================================

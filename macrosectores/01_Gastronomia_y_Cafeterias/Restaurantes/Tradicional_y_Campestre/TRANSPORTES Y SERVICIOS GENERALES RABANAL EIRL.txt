@@ -16,3 +16,8 @@ Fotos: TRANSPORTES Y SERVICIOS GENERALES RABANAL EIRL.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OUejOCqIXTFLoOOdbdn6xg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=346.02368&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos la bienvenida a TRANSPORTES Y SERVICIOS GENERALES RABANAL EIRL. Brindamos servicios de transporte confiables, puntuales y seguros, con unidades confortables y conductores experimentados que garantizan un viaje placentero dentro y fuera de Cajamarca. Te esperamos en Antenor Orrego 428, Cajamarca para atender tus traslados diarios o viajes de trabajo y turismo. Consulta salidas o reserva tu unidad contactándonos vía WhatsApp hoy mismo.
+================================================================================

@@ -16,3 +16,8 @@ Fotos: Instituto Nacional de Odontología.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b_kyxWj_12IPJ2g6A0Hlkg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=287.22083&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cordial bienvenida a Instituto Nacional de Odontología. Comprometidos con tu bienestar integral, ponemos a tu disposición atención médica profesional, diagnóstico certero y tratamientos personalizados en un ambiente seguro y confiable. Encuéntranos en Estrecho 114, Cajamarca con profesionales de vocación listos para cuidar de ti y de tus seres queridos. Agenda tu consulta o solicita información escribiéndonos al WhatsApp con total confianza.
+================================================================================

@@ -15,3 +15,8 @@ Place Id: ChIJtXCrl7tbspERHQBb_UqMMjg
 Fotos: Panadería La Jesusanita.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_ORvkUvAbyZfeEko3GKQag&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=230.16812&pitch=0&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cálida bienvenida a Panadería La Jesusanita. Deleita tu paladar con la frescura de nuestro pan crujiente recién salido del horno, pasteles artesanales, tortas personalizadas y bocaditos dulces y salados preparados con insumos de primera calidad. Visítanos en Av. Mártires de Uchuraccay N° 674, Cajamarca para llevar lo mejor a tu mesa familiar o coordina pedidos especiales para tus celebraciones escribiéndonos al WhatsApp hoy mismo.
+================================================================================

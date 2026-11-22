@@ -16,3 +16,8 @@ Fotos: Tienda de Quesos Ecolack.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rYRjVcTBv7dCbkOs9qIWlw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=332.76862&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Tienda de Quesos Ecolack! Descubre el auténtico sabor de la tradición cajamarquina con nuestros exquisitos quesos mantecosos, quesos suizos, manjar blanco artesanal, mantequilla pura y embutidos de calidad insuperable. Te esperamos en nuestro punto de venta en Jr.Amazonas 533, Cajamarca para que lleves lo más representativo de nuestra tierra a tu mesa. Realiza pedidos especiales o para viaje escribiéndonos al WhatsApp ahora.
+================================================================================

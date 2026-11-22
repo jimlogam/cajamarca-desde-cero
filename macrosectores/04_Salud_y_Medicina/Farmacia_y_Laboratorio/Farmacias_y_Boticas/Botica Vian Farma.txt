@@ -16,3 +16,8 @@ Fotos: Botica Vian Farma.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u55mfD-teUWT3e9zpDwlGA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=36.96807&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la bienvenida a Botica Vian Farma! Cuidamos la salud y tranquilidad de tu familia brindándote una completa variedad de medicamentos de marca y genéricos, productos para el cuidado del bebé y artículos de higiene personal. Visítanos en El Inca 623, Cajamarca donde nuestro personal farmacéutico te atenderá con calidez, rapidez y confianza. Consulta disponibilidad o solicita delivery escribiéndonos al WhatsApp ahora.
+================================================================================

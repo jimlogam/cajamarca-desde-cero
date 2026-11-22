@@ -15,3 +15,9 @@ Place Id: ChIJrcVAXqpbspERGLioyxQCsPs
 Fotos: Pollería Traza.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Wn5eOoqiMqveankGxW31AQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=213.75883&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la más cordial bienvenida a Pollería Traza! Disfruta de la mejor experiencia gastronómica con nuestro delicioso pollo a la brasa dorado a la leña, carnes a la parrilla bien jugosas y papas crujientes con cremas artesanales. Te esperamos en nuestro acogedor local en Jr. Alejandro Ortiz 20-109, Cajamarca para compartir en familia o solicita tu entrega rápida por delivery. Escríbenos al WhatsApp y date el gusto hoy mismo.
+================================================================================

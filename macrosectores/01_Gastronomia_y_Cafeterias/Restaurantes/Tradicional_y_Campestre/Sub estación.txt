@@ -16,3 +16,8 @@ Fotos: Sub estación.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yGRaYNJWTJ_sB8fnBZPD2w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=50.971798&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la bienvenida a Sub estación! Especialistas en instalaciones eléctricas seguras, mantenimiento preventivo, cableado y soluciones para hogares, comercios y empresas en Cajamarca. Te brindamos garantía técnica y materiales certificados en RFQP+8V4, Cajamarca para que tus proyectos funcionen sin riesgos. Contáctanos por WhatsApp para emergencias o cotizaciones sin compromiso y asegura la energía de tus instalaciones hoy.
+================================================================================

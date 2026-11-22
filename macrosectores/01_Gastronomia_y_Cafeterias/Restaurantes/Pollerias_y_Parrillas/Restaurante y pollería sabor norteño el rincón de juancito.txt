@@ -15,3 +15,9 @@ Place Id: ChIJn7bKlvFbspERT1JZ_NfO8c0
 Fotos: Restaurante y pollería sabor norteño el rincón de juancito.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FRrAvDapto1lkyZ_qDokiA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=249.78128&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la más cordial bienvenida a Restaurante y pollería sabor norteño el rincón de juancito! Disfruta de la mejor experiencia gastronómica con nuestro delicioso pollo a la brasa dorado a la leña, carnes a la parrilla bien jugosas y papas crujientes con cremas artesanales. Te esperamos en nuestro acogedor local en JR, Sta. Catalina 303, Cajamarca para compartir en familia o solicita tu entrega rápida por delivery. Escríbenos al WhatsApp y date el gusto hoy mismo.
+================================================================================

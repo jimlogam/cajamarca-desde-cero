@@ -16,3 +16,8 @@ Fotos: GRANJA DE CUYES VALLE CONDEBAMBA.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=g8GQvL5NzqxtrBDq21aolQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=9.170006&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos la bienvenida a GRANJA DE CUYES VALLE CONDEBAMBA. Nos apasiona el bienestar y la salud de tus mascotas, brindándote atención veterinaria profesional, vacunas, desparasitación, baños medicados y venta de alimentos balanceados de calidad. Visítanos en +51 para consentir a tu engreído con un trato cariñoso y seguro. Agenda tu consulta médica o servicio estético escribiéndonos al WhatsApp con total confianza.
+================================================================================

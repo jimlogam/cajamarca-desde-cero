@@ -16,3 +16,8 @@ Fotos: Construcción Nueva.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yGRaYNJWTJ_sB8fnBZPD2w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=50.971798&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Construcción Nueva! Somos tu socio confiable en materiales de construcción, herramientas de alta gama, artículos de ferretería, electricidad y acabados para el hogar. Te ofrecemos asesoría técnica personalizada y productos garantizados de las mejores marcas en RFQP+8V4, Cajamarca. Visita nuestra tienda para cotizar tus proyectos con precios altamente competitivos o contáctanos por WhatsApp para despachos rápidos a tu obra.
+================================================================================

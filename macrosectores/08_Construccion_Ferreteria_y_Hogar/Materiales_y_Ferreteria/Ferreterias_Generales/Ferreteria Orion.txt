@@ -15,3 +15,8 @@ Place Id: ChIJ92j4KT9bspER0XS8YUMwWzU
 Fotos: Ferreteria Orion.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zX_ojV4xB2BK9BmLj2h6dQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=236.88963&pitch=-4.984607&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Ferreteria Orion! Somos tu socio confiable en materiales de construcción, herramientas de alta gama, artículos de ferretería, electricidad y acabados para el hogar. Te ofrecemos asesoría técnica personalizada y productos garantizados de las mejores marcas en Av San Martín de Porres 2224, Cajamarca. Visita nuestra tienda para cotizar tus proyectos con precios altamente competitivos o contáctanos por WhatsApp para despachos rápidos a tu obra.
+================================================================================

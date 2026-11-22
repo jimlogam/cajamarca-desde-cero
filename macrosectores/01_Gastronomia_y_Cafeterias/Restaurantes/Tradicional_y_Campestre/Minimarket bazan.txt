@@ -16,3 +16,8 @@ Fotos: Minimarket bazan.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YeiasRuiwASvClopwTEvnw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=242.73355&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la bienvenida a Minimarket bazan! El punto de encuentro predilecto para desconectarte de la rutina con los mejores cócteles de autor, cervezas heladas, piqueos sabrosos y un ambiente musical vibrante. Ven a pasarla excelente con tu grupo de amigos a nuestro local en Cajamarca y vive noches llenas de diversión. Escríbenos al WhatsApp para reservas de mesas y cumpleaños.
+================================================================================

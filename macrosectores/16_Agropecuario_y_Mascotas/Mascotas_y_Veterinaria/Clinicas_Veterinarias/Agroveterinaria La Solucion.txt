@@ -15,3 +15,8 @@ Place Id: ChIJyU-QAPpaspERpHx9uGhP_uQ
 Fotos: Agroveterinaria La Solucion.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iyFmQhjH0jNvcCyw_Ea6Pw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=131.27837&pitch=0&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cordial bienvenida a Agroveterinaria La Solucion. Comprometidos con tu bienestar integral, ponemos a tu disposición atención médica profesional, diagnóstico certero y tratamientos personalizados en un ambiente seguro y confiable. Encuéntranos en Prol. Revilla Perez 148, Cajamarca con profesionales de vocación listos para cuidar de ti y de tus seres queridos. Agenda tu consulta o solicita información escribiéndonos al WhatsApp con total confianza.
+================================================================================

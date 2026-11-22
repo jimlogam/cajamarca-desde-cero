@@ -15,3 +15,8 @@ Place Id: ChIJU3eVegBbspERD26iydydSTQ
 Fotos: Clínica veterinaria Mundo Patitas.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iVkMjQS6TWKzrf_QV8t1Uw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=3.9975126&pitch=7.183507&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cordial bienvenida a Clínica veterinaria Mundo Patitas. Comprometidos con tu bienestar integral, ponemos a tu disposición atención médica profesional, diagnóstico certero y tratamientos personalizados en un ambiente seguro y confiable. Encuéntranos en Av. La Paz 337, Cajamarca con profesionales de vocación listos para cuidar de ti y de tus seres queridos. Agenda tu consulta o solicita información escribiéndonos al WhatsApp con total confianza.
+================================================================================

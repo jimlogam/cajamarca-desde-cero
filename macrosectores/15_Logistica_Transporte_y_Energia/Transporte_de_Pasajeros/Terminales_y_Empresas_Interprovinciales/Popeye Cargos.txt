@@ -16,3 +16,8 @@ Fotos: Popeye Cargos.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2jB6FtexZGz9YXiUIlxhdQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=266.45352&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos la bienvenida a Popeye Cargos. Brindamos servicios de transporte confiables, puntuales y seguros, con unidades confortables y conductores experimentados que garantizan un viaje placentero dentro y fuera de Cajamarca. Te esperamos en Av. La Paz 1282, Cajamarca para atender tus traslados diarios o viajes de trabajo y turismo. Consulta salidas o reserva tu unidad contactándonos vía WhatsApp hoy mismo.
+================================================================================

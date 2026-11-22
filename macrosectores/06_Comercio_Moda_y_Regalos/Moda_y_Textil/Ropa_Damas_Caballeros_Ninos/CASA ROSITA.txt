@@ -16,3 +16,8 @@ Fotos: CASA ROSITA.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KDEv2OurWAUL9YHiCYurbg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=178.74864&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la bienvenida a CASA ROSITA! Renueva tu estilo con lo último en tendencias de moda, calzado y prendas seleccionadas para damas, caballeros y niños, elaboradas con telas de primera y finos acabados. Te invitamos a visitar nuestra tienda en Av. La Cantuta 1156, Cajamarca para encontrar el atuendo ideal que resalte tu personalidad. Consulta novedades y pedidos escribiéndonos directamente al WhatsApp hoy.
+================================================================================

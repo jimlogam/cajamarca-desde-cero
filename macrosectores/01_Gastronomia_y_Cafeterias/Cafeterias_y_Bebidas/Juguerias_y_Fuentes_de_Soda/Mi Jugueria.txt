@@ -16,3 +16,8 @@ Fotos: Mi Jugueria.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KqO6qJTzII5UTPEWEZHWqg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=103.219894&pitch=3.9334645&thumbfov=100
 Nota: Sin categoria en Maps; clasificado por el nombre.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos la bienvenida a Mi Jugueria. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Luis Reyna Farge 187, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+================================================================================

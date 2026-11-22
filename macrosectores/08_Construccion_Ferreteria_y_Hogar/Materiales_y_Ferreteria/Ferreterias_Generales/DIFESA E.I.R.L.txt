@@ -15,3 +15,8 @@ Place Id: ChIJ8_hBcj1bspERVHIHifvlGwM
 Fotos: DIFESA E.I.R.L.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xUMs73KmeeuCkYnQ-mKbOQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=232.58073&pitch=0&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a DIFESA E.I.R.L! Somos tu socio confiable en materiales de construcción, herramientas de alta gama, artículos de ferretería, electricidad y acabados para el hogar. Te ofrecemos asesoría técnica personalizada y productos garantizados de las mejores marcas en Av San Martín de Porres 1730, Cajamarca. Visita nuestra tienda para cotizar tus proyectos con precios altamente competitivos o contáctanos por WhatsApp para despachos rápidos a tu obra.
+================================================================================

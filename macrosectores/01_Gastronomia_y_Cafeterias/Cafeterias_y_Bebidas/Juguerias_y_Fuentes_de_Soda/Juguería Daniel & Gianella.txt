@@ -16,3 +16,8 @@ Fotos: Juguería Daniel & Gianella.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=blldJtb230VxNqDv_gDjKg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=158.34283&pitch=2.0692873&thumbfov=100
 Nota: Sin categoria en Maps; clasificado por el nombre.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos la bienvenida a Juguería Daniel & Gianella. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Bélgica 190, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+================================================================================

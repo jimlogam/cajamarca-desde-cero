@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=7805954918972726150
 Place Id: ChIJKz1PGwBbspERhhsVHqRSVGw
 Fotos: Anticuchería.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9i_H6YHifHWTO4Imc0gSUQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=19.0259&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la más cordial bienvenida a Anticuchería! Disfruta de la mejor experiencia gastronómica con nuestro delicioso pollo a la brasa dorado a la leña, carnes a la parrilla bien jugosas y papas crujientes con cremas artesanales. Te esperamos en nuestro acogedor local en Túpac Amaru 803-769, Cajamarca para compartir en familia o solicita tu entrega rápida por delivery. Escríbenos al WhatsApp y date el gusto hoy mismo.
+================================================================================

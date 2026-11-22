@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=217296035779635252
 Place Id: ChIJKxY7-hNotZERNOi-35f9AwM
 Fotos: Chifa San Sin.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EXD5zkSctTZapqfVvgclRA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=316.76926&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Chifa "San Sin"! Déjate envolver por los mejores aromas orientales con nuestro auténtico arroz chaufa salteado al wok a fuego vivo, tallarines jugosos, crujientes wantanes y especialidades agridulces tradicionales. Visítanos en nuestro salón comedor en San Ignacio para saborear porciones bien servidas o pide tu entrega caliente a domicilio. Contáctanos por WhatsApp y asegura tu pedido favorito ahora.
+================================================================================

@@ -15,3 +15,8 @@ Place Id: ChIJfzjHBhpbspERZyWZCiKg0dQ
 Fotos: Ferreteria Faicham.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cZnAu8sAkkuBUUDfVc0Ccw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=105.69108&pitch=3.6663463&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Ferreteria "Faicham"! Somos tu socio confiable en materiales de construcción, herramientas de alta gama, artículos de ferretería, electricidad y acabados para el hogar. Te ofrecemos asesoría técnica personalizada y productos garantizados de las mejores marcas en RFGW+G98 La Historia, Cajamarca. Visita nuestra tienda para cotizar tus proyectos con precios altamente competitivos o contáctanos por WhatsApp para despachos rápidos a tu obra.
+================================================================================

@@ -15,3 +15,8 @@ Place Id: ChIJZ9zOrnJBspER5HWmZniDxmY
 Fotos: Vivero Municipal (2).jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VNcyC6qmEnNRbX7360jzlQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=39.21986&pitch=0&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Vivero Municipal! Dale vida y frescura a tus espacios con nuestra gran variedad de plantas ornamentales, flores de temporada, macetas decorativas, abonos y accesorios de jardinería. Te brindamos asesoría experta en el cuidado de tus plantas en nuestro vivero ubicado en QJ3C+2V8, Lima, Jesús. Embellece tu hogar u oficina visitándonos hoy o solicita catálogo y envíos por WhatsApp.
+================================================================================

@@ -15,3 +15,9 @@ Place Id: ChIJi58EKgBbspERv5HjTIfdQy8
 Fotos: Chifa Los Angeles 3.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rEI5Cjx6yzWi2oUfDxTRow&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=149.50237&pitch=0&thumbfov=100
 Nota: Sin categoria en Maps; clasificado por el nombre.
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Chifa Los Angeles 3! Déjate envolver por los mejores aromas orientales con nuestro auténtico arroz chaufa salteado al wok a fuego vivo, tallarines jugosos, crujientes wantanes y especialidades agridulces tradicionales. Visítanos en nuestro salón comedor en Av. Hoyos Rubio 1380, Cajamarca para saborear porciones bien servidas o pide tu entrega caliente a domicilio. Contáctanos por WhatsApp y asegura tu pedido favorito ahora.
+================================================================================

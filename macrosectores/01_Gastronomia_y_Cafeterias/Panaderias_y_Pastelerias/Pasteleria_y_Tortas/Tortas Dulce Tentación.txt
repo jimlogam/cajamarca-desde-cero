@@ -16,3 +16,8 @@ Fotos: Tortas Dulce Tentación.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WweYE1_xXeJBkKtkxr8CrQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=104.35642&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cálida bienvenida a Tortas Dulce Tentación. Deleita tu paladar con la frescura de nuestro pan crujiente recién salido del horno, pasteles artesanales, tortas personalizadas y bocaditos dulces y salados preparados con insumos de primera calidad. Visítanos en Jr, Cinco Esquinas 1254, Cajamarca para llevar lo mejor a tu mesa familiar o coordina pedidos especiales para tus celebraciones escribiéndonos al WhatsApp hoy mismo.
+================================================================================

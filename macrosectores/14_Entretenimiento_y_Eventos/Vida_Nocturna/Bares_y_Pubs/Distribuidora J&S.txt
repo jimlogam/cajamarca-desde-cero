@@ -16,3 +16,8 @@ Fotos: Distribuidora J&S.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wm-qUFkn6NDIFdKV4tZ2vg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=262.4673&pitch=0&thumbfov=100
 Nota: Categoria Maps: tienda de bebidas alcoholicas Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la bienvenida a Distribuidora "J&S"! El punto de encuentro predilecto para desconectarte de la rutina con los mejores cócteles de autor, cervezas heladas, piqueos sabrosos y un ambiente musical vibrante. Ven a pasarla excelente con tu grupo de amigos a nuestro local en Av. La Paz 2564, Cajamarca y vive noches llenas de diversión. Escríbenos al WhatsApp para reservas de mesas y cumpleaños.
+================================================================================

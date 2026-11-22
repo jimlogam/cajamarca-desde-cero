@@ -16,3 +16,8 @@ Fotos: THE GREEN HOUSE.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9HbOL22I4chW7gb4CiXy-A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=79.248116&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a THE GREEN HOUSE! Dale vida y frescura a tus espacios con nuestra gran variedad de plantas ornamentales, flores de temporada, macetas decorativas, abonos y accesorios de jardinería. Te brindamos asesoría experta en el cuidado de tus plantas en nuestro vivero ubicado en Jr. Sor Manuela Gil 325, Cajamarca. Embellece tu hogar u oficina visitándonos hoy o solicita catálogo y envíos por WhatsApp.
+================================================================================

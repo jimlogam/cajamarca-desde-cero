@@ -15,3 +15,9 @@ Place Id: ChIJ8UAPVABbspERX4qqkCaVLhI
 Fotos: Chifa Llontop Cajamarca Perú.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=p-rn8IQbmlYgkIVvu-AzZg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=313.27518&pitch=0&thumbfov=100
 Nota: Aparecia 3 veces en los 5 archivos; fusionado en uno.
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Chifa Llontop Cajamarca Perú! Déjate envolver por los mejores aromas orientales con nuestro auténtico arroz chaufa salteado al wok a fuego vivo, tallarines jugosos, crujientes wantanes y especialidades agridulces tradicionales. Visítanos en nuestro salón comedor en Cinco Esquinas 1195, Cajamarca para saborear porciones bien servidas o pide tu entrega caliente a domicilio. Contáctanos por WhatsApp y asegura tu pedido favorito ahora.
+================================================================================

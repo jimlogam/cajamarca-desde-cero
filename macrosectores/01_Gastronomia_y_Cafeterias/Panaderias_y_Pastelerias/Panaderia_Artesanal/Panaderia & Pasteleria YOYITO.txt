@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=1675209787551072782
 Place Id: ChIJM3O32sFaspERDkI9F22KPxc
 Fotos: Panaderia & Pasteleria YOYITO.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5cYhLL9YoEp9N3hFkwVlpA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=348.45218&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cálida bienvenida a Panaderia & Pasteleria "YOYITO". Deleita tu paladar con la frescura de nuestro pan crujiente recién salido del horno, pasteles artesanales, tortas personalizadas y bocaditos dulces y salados preparados con insumos de primera calidad. Visítanos en JR. LOS LIRIOS N° 410 URB. EL COLUMBO, Cajamarca para llevar lo mejor a tu mesa familiar o coordina pedidos especiales para tus celebraciones escribiéndonos al WhatsApp hoy mismo.
+================================================================================

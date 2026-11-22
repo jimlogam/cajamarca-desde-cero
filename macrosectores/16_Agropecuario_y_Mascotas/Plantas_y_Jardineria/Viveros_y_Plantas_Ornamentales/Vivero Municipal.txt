@@ -16,3 +16,8 @@ Fotos: Vivero Municipal.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-3bn9J7pq0ELNAJj-q6Mww&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=4.79966&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Vivero Municipal! Dale vida y frescura a tus espacios con nuestra gran variedad de plantas ornamentales, flores de temporada, macetas decorativas, abonos y accesorios de jardinería. Te brindamos asesoría experta en el cuidado de tus plantas en nuestro vivero ubicado en Cajamarca. Embellece tu hogar u oficina visitándonos hoy o solicita catálogo y envíos por WhatsApp.
+================================================================================

@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=8124513793061025756
 Place Id: ChIJEQpLrflaspER3Pcp0D8SwHA
 Fotos: Quesos Los Andes.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rOk-MxSUXGliSQlvky0wbQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=64.68399&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Quesos Los Andes! Descubre el auténtico sabor de la tradición cajamarquina con nuestros exquisitos quesos mantecosos, quesos suizos, manjar blanco artesanal, mantequilla pura y embutidos de calidad insuperable. Te esperamos en nuestro punto de venta en Jr.Amazonas 507, Cajamarca para que lleves lo más representativo de nuestra tierra a tu mesa. Realiza pedidos especiales o para viaje escribiéndonos al WhatsApp ahora.
+================================================================================

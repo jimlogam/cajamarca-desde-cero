@@ -16,3 +16,8 @@ Fotos: Factoria Palacios-Tienda Adriana.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4VnbwoFotSq3oArKO3amRQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=24.003508&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la bienvenida a Factoria Palacios-Tienda Adriana! Garantizamos el óptimo rendimiento y seguridad de tu vehículo con servicios especializados de mecánica general, mantenimiento preventivo, frenos, suspensión y venta de repuestos certificados. Acércate a nuestro taller en Av. Vía de Evitamiento Sur 2561, Cajamarca donde mecánicos expertos cuidarán tu auto con honestidad y rapidez. Agenda tu revisión o solicita presupuesto directamente por WhatsApp hoy.
+================================================================================

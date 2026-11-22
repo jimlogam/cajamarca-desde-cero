@@ -15,3 +15,8 @@ Place Id: ChIJ5TrIHgBbspERFQf0zKN1DzA
 Fotos: Clínica Veterinaria GUADALUPE.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q18XRO3tB94wcM3qLgavcA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=158.90419&pitch=1.6300045&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cordial bienvenida a Clínica Veterinaria GUADALUPE. Comprometidos con tu bienestar integral, ponemos a tu disposición atención médica profesional, diagnóstico certero y tratamientos personalizados en un ambiente seguro y confiable. Encuéntranos en Av San Martín de Porres 1184, Cajamarca con profesionales de vocación listos para cuidar de ti y de tus seres queridos. Agenda tu consulta o solicita información escribiéndonos al WhatsApp con total confianza.
+================================================================================

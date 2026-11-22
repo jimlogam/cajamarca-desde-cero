@@ -15,3 +15,8 @@ Place Id: ChIJEyFdIchbspERznHvpAHIXv8
 Fotos: Dogtropoli - Pet Shop.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H_U1bfN2Hy2WfMzb-e08Fg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=276.589&pitch=0&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos la bienvenida a Dogtropoli - Pet Shop. Nos apasiona el bienestar y la salud de tus mascotas, brindándote atención veterinaria profesional, vacunas, desparasitación, baños medicados y venta de alimentos balanceados de calidad. Visítanos en Jr. Bolívar 223, Cajamarca para consentir a tu engreído con un trato cariñoso y seguro. Agenda tu consulta médica o servicio estético escribiéndonos al WhatsApp con total confianza.
+================================================================================

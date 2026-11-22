@@ -15,3 +15,8 @@ Place Id: ChIJffoypu9aspERVr1l5MA69nY
 Fotos: DIFESA (Vía de Evitamiento).jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wPmRhnpU8zsJx3RqQu9NUA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=327.9656&pitch=-0.9773614&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a DIFESA (Vía de Evitamiento)! Somos tu socio confiable en materiales de construcción, herramientas de alta gama, artículos de ferretería, electricidad y acabados para el hogar. Te ofrecemos asesoría técnica personalizada y productos garantizados de las mejores marcas en Arnaldo Márquez 595, Cajamarca. Visita nuestra tienda para cotizar tus proyectos con precios altamente competitivos o contáctanos por WhatsApp para despachos rápidos a tu obra.
+================================================================================

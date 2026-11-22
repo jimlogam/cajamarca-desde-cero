@@ -15,3 +15,8 @@ Place Id: ChIJpzWEDSdbspERXODSlPD0Rak
 Fotos: Agromaquinarias Alvarado's.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DC9MkFWsRHMJEIVQP4vAzw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=223.07965&pitch=0&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Agromaquinarias Alvarado's! Somos tu socio confiable en materiales de construcción, herramientas de alta gama, artículos de ferretería, electricidad y acabados para el hogar. Te ofrecemos asesoría técnica personalizada y productos garantizados de las mejores marcas en Av Vía de Evitamiento 2264, Cajamarca. Visita nuestra tienda para cotizar tus proyectos con precios altamente competitivos o contáctanos por WhatsApp para despachos rápidos a tu obra.
+================================================================================

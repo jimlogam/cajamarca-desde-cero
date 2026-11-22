@@ -16,3 +16,8 @@ Fotos: Hts Cargas & Courier.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=34yXM4p3zFOeGWDzjacWhw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=277.56827&pitch=1.4507035&thumbfov=100
 Nota: Rescatado: en Maps salia sin categoria ni datos de contacto; clasificado por el nombre.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Hts Cargas & Courier! Tu solución rápida y segura para el traslado de paquetes, documentos y encomiendas a nivel local, regional y nacional. Nos encargamos de que tus envíos lleguen puntuales y protegidos a su destino. Visita nuestra agencia de atención en Juan Beato Macias 542, Cajamarca para despachar con las mejores tarifas del mercado o comunícate con nosotros por WhatsApp para cotizaciones y seguimiento.
+================================================================================

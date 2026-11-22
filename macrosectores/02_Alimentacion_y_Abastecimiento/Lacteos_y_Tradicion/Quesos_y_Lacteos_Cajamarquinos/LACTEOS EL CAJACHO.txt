@@ -16,3 +16,8 @@ Fotos: LACTEOS EL CAJACHO.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZDxFzT9m5v4LgqH_0tjOUQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=80.71088&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a LACTEOS EL CAJACHO! Descubre el auténtico sabor de la tradición cajamarquina con nuestros exquisitos quesos mantecosos, quesos suizos, manjar blanco artesanal, mantequilla pura y embutidos de calidad insuperable. Te esperamos en nuestro punto de venta en RFVJ+RXQ, Jr.Amazonas431, Cajamarca para que lleves lo más representativo de nuestra tierra a tu mesa. Realiza pedidos especiales o para viaje escribiéndonos al WhatsApp ahora.
+================================================================================

@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=2252295896698923662
 Place Id: ChIJUaM2OgBbspERjirPUy_DQR8
 Fotos: La panadería del terror.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NqVT3Iw_2wRwBDxRmes2bg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=106.726074&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cálida bienvenida a La panadería del terror. Deleita tu paladar con la frescura de nuestro pan crujiente recién salido del horno, pasteles artesanales, tortas personalizadas y bocaditos dulces y salados preparados con insumos de primera calidad. Visítanos en Los Jazmines 118, Cajamarca para llevar lo mejor a tu mesa familiar o coordina pedidos especiales para tus celebraciones escribiéndonos al WhatsApp hoy mismo.
+================================================================================

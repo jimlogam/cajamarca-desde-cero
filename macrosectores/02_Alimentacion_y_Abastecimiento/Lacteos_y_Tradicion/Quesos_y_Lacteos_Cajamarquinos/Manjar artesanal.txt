@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=3407162837013828607
 Place Id: ChIJg4S4VwBbspER_xMfYIysSC8
 Fotos: Manjar artesanal.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yuWn4s4HrcUyFCXu9Voljg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=207.96796&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Manjar artesanal! Descubre el auténtico sabor de la tradición cajamarquina con nuestros exquisitos quesos mantecosos, quesos suizos, manjar blanco artesanal, mantequilla pura y embutidos de calidad insuperable. Te esperamos en nuestro punto de venta en RFVM+8H3, Cajamarca para que lleves lo más representativo de nuestra tierra a tu mesa. Realiza pedidos especiales o para viaje escribiéndonos al WhatsApp ahora.
+================================================================================

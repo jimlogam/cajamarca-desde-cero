@@ -16,3 +16,8 @@ Fotos: QUESOS RODRIGUEZ.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=beGFSa5wldPxyuDmlCSttQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=246.47346&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a QUESOS RODRIGUEZ! Descubre el auténtico sabor de la tradición cajamarquina con nuestros exquisitos quesos mantecosos, quesos suizos, manjar blanco artesanal, mantequilla pura y embutidos de calidad insuperable. Te esperamos en nuestro punto de venta en Jiron, Jr. Los Gladiolos 141, Cajamarca para que lleves lo más representativo de nuestra tierra a tu mesa. Realiza pedidos especiales o para viaje escribiéndonos al WhatsApp ahora.
+================================================================================

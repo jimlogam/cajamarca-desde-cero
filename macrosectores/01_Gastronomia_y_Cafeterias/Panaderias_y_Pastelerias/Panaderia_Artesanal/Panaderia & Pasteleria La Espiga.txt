@@ -15,3 +15,8 @@ Place Id: ChIJVSUdJONaspERvgw0qvypTuU
 Fotos: Panaderia & Pasteleria La Espiga.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=axXZjZvJ6h7YGcMeQs4iUA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=10.111449&pitch=3.570339&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cálida bienvenida a Panaderia & Pasteleria "La Espiga". Deleita tu paladar con la frescura de nuestro pan crujiente recién salido del horno, pasteles artesanales, tortas personalizadas y bocaditos dulces y salados preparados con insumos de primera calidad. Visítanos en Av. Mario Urteaga 375, Cajamarca para llevar lo mejor a tu mesa familiar o coordina pedidos especiales para tus celebraciones escribiéndonos al WhatsApp hoy mismo.
+================================================================================

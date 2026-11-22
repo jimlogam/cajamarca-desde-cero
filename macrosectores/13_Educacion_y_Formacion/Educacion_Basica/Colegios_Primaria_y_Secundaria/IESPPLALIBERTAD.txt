@@ -16,3 +16,8 @@ Fotos: IESPPLALIBERTAD.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=65-CYRJyn98wGKs2ikP2gg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=313.6518&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos la más cálida bienvenida a IESPPLALIBERTAD. Comprometidos con el desarrollo integral y el aprendizaje de niños y jóvenes en Cajamarca, ofrecemos una educación con sólidos valores, metodología moderna y ambientes seguros y estimulantes. Conoce nuestra propuesta educativa e infraestructura visitándonos en Calle Lima N° 485, Cajamarca. Estamos a tu servicio para brindarte toda la información de matrículas a través de WhatsApp.
+================================================================================

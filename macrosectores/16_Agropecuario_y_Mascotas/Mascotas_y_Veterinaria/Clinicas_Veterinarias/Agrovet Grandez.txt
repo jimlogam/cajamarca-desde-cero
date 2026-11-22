@@ -15,3 +15,8 @@ Place Id: ChIJHTvA-PlaspER4lpM5tuseRU
 Fotos: Agrovet Grandez.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JCLNr7Ph6hK4-T2JvTfKVg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=176.40498&pitch=-3.9425638&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cordial bienvenida a Agrovet Grandez. Comprometidos con tu bienestar integral, ponemos a tu disposición atención médica profesional, diagnóstico certero y tratamientos personalizados en un ambiente seguro y confiable. Encuéntranos en Prol. Revilla Perez 108, Cajamarca con profesionales de vocación listos para cuidar de ti y de tus seres queridos. Agenda tu consulta o solicita información escribiéndonos al WhatsApp con total confianza.
+================================================================================

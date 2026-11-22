@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=2928389617815357525
 Place Id: ChIJDSog4-5bspERVYjTlde6oyg
 Fotos: Casa Diseños Angeles.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PfddFzdmz13qqVd-p2K7Ew&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=232.59714&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la bienvenida a Casa Diseños Angeles! Transforma tu casa u oficina con muebles de diseño exclusivo, fabricados con maderas selectas y acabados de primera calidad pensados para durar toda la vida. Visita nuestro salón de exhibición en Jr. Amazonas 347, Jr.Amazonas 318, Cajamarca para encontrar juegos de sala, comedor y dormitorios que armonicen con tu espacio. Solicita catálogo y cotizaciones personalizadas por WhatsApp con gusto.
+================================================================================

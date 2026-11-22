@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=17028392952221216597
 Place Id: ChIJ6ywDbQBbspERVS_pdCsBUew
 Fotos: CALDOS CHANCHAMAYO.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fTJLJwlqmbNjzBv-xEKELA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=264.70398&pitch=4.849868&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la más cálida bienvenida a CALDOS CHANCHAMAYO! Ven a disfrutar de la auténtica comida tradicional cajamarquina y platos a la carta preparados con recetas caseras, insumos frescos del valle y la sazón incomparable de nuestra cocina. Te esperamos en VF4Q+HVV, Prol. Revilla Perez, Cajamarca para brindarte un ambiente acogedor, porciones generosas y atención esmerada. Haz tu reserva o pide por delivery escribiéndonos al WhatsApp hoy.
+================================================================================

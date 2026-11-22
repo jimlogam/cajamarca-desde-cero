@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=3671965973960417218
 Place Id: ChIJNbI7XwBbspERwl87MZlx9TI
 Fotos: Panadería Niño Jesús.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Vc3WWCe5i_8xRq0bWyaksw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=312.3418&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cálida bienvenida a Panadería Niño Jesús. Deleita tu paladar con la frescura de nuestro pan crujiente recién salido del horno, pasteles artesanales, tortas personalizadas y bocaditos dulces y salados preparados con insumos de primera calidad. Visítanos en Victoria 113, Cajamarca para llevar lo mejor a tu mesa familiar o coordina pedidos especiales para tus celebraciones escribiéndonos al WhatsApp hoy mismo.
+================================================================================

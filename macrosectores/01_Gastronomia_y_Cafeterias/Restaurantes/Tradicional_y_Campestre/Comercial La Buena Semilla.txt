@@ -16,3 +16,8 @@ Fotos: Comercial La Buena Semilla.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G3-0ecx86nqdZhW2IVumcA&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=164.72249&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Comercial "La Buena Semilla"! Respaldamos el trabajo del productor del campo ofreciéndote insumos agropecuarios garantizados, semillas certificadas, fertilizantes, herramientas de labranza y medicina veterinaria de confianza. Te brindamos asesoramiento técnico especializado en nuestro local de RFVM+J49, Cajamarca para optimizar tu producción. Visítanos para cotizar o comunícate con nosotros por WhatsApp para coordinar pedidos y entregas.
+================================================================================

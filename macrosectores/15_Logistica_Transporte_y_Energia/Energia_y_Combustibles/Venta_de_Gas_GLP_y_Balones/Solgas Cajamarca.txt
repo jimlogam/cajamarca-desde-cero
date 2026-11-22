@@ -1,18 +1,23 @@
-Nombre: Solgas Cajamarca
+Nombre: SOLGAS CAJAMARCA
 Macro-Sector: 15_Logistica_Transporte_y_Energia
 Rubro: Energia_y_Combustibles
 Subrubro: Venta_de_Gas_GLP_y_Balones
-Categoría Maps: Farmacia veterinaria, Tienda de artículos relacionados con el gas
-Dirección: Av. La Paz 2074, Cajamarca 06001
-Teléfono: 931 902 009
-Rating: 5
-Reseñas: 5
-Sitio web: 
-Latitud: -7.180412199999999
-Longitud: -78.4998359
-Google Maps: https://www.google.com/maps?cid=3704746620598099765
-Place Id: ChIJBXhr02pbspERNR-UP2znaTM
-Fotos: Solgas Cajamarca.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcXq-U-zns7bapqWk1QuBJgv2rpfk0cxRL5paxnfHhPXF3ClOsT1x4HfR_LgweM5M7ySGtsMo5LPumj5xSvjxQ4bwgke8r7qq7qCgh2G80tU9ADESoJKll3-mkKJVuDP9EECzWd3Oba3nG1=w1600-h1200-k-no
-Nota: Rescatado: en Maps salia sin categoria ni datos de contacto; clasificado por el nombre.
+Categoría Maps: Trust Bank
+Dirección: Av. Industrial y, Cajamarca 06003
+Teléfono: 974 877 452
+Rating: 
+Reseñas: 
+Sitio web: http://wwwsolgasconfiansa.com/
+Latitud: -7.1850445999999994
+Longitud: -78.4964517
+Google Maps: https://www.google.com/maps?cid=984639323330852609
+Place Id: ChIJn130mjxbspERATcEaz8kqg0
+Fotos: SOLGAS CAJAMARCA.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfpn6lZOkuVPniLX7Yaq4r7dAKRdNdDcYf2u9yHbNWFtKdl9LdA3aO0eeiUm0E7edQe0oQ3jTesNobvxalWM0_z8u9BqD_PNuOw-7l-syt4se2rqE42ifq__PFH8tthweViwGvf=w1600-h1200-k-no
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a SOLGAS CAJAMARCA! Abastecemos tu vehículo y tu hogar con combustibles limpios de calidad garantizada y balones de gas seguros con peso exacto para tu completa tranquilidad. Visítanos en nuestra estación ubicada en Av. Industrial y, Cajamarca con atención rápida y cordial las 24 horas o solicita tu pedido de gas por delivery a través de WhatsApp para recibirlo al instante.
+================================================================================

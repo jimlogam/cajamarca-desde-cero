@@ -15,3 +15,8 @@ Place Id: ChIJNRLzdRtbspERy0lUYc7T-bY
 Fotos: BomBocado.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u_2C-m4DaOzZZwnbj1hyfw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=229.60335&pitch=0&thumbfov=100
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cálida bienvenida a BomBocado. Deleita tu paladar con la frescura de nuestro pan crujiente recién salido del horno, pasteles artesanales, tortas personalizadas y bocaditos dulces y salados preparados con insumos de primera calidad. Visítanos en Jr, San Roque 551, Cajamarca para llevar lo mejor a tu mesa familiar o coordina pedidos especiales para tus celebraciones escribiéndonos al WhatsApp hoy mismo.
+================================================================================

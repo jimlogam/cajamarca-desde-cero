@@ -16,3 +16,8 @@ Fotos: Distribuidora Padre Eterno.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5UAFWrDz4OGx9mJv2qEn4w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=38.333626&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Distribuidora Padre Eterno! Somos tu socio confiable en materiales de construcción, herramientas de alta gama, artículos de ferretería, electricidad y acabados para el hogar. Te ofrecemos asesoría técnica personalizada y productos garantizados de las mejores marcas en Jr, Angamos 510, Cajamarca. Visita nuestra tienda para cotizar tus proyectos con precios altamente competitivos o contáctanos por WhatsApp para despachos rápidos a tu obra.
+================================================================================

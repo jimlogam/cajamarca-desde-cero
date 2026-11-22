@@ -16,3 +16,8 @@ Fotos: Cochera (2).jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8iEirnflAuwgyomOiJPC0g&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=141.94835&pitch=0&thumbfov=100
 Nota: Sin categoria clara en Maps; clasificado como restaurante general
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Bienvenido a Cochera! Tu cochera de confianza en Cajamarca con amplios espacios, fácil acceso y seguridad permanente para el resguardo de tu auto, camioneta o motocicleta. Te esperamos en Miguel Iglesias 228, Cajamarca para que estaciones con total tranquilidad en una ubicación céntrica y estratégica. Consulta tarifas por hora, día o abonos mensuales escribiéndonos al WhatsApp con gusto.
+================================================================================

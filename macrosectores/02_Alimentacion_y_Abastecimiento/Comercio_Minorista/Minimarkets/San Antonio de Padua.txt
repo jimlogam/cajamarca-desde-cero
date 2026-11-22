@@ -16,3 +16,8 @@ Fotos: San Antonio de Padua.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Su8giZrWfMAI_5xNno0B8w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=51.178707&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la bienvenida a San Antonio de Padua! Todo lo que necesitas para tu hogar y tu familia en un solo lugar: abarrotes de primera necesidad, bebidas frías, lácteos, golosinas y artículos de limpieza con la mejor atención. Te esperamos en VF6M+VGP, C. Suiza, Cajamarca con precios justos y atención rápida y cordial. Visítanos todos los días o coordina entregas a domicilio escribiéndonos al WhatsApp.
+================================================================================

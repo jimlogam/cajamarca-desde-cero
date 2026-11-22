@@ -14,3 +14,9 @@ Google Maps: https://www.google.com/maps?cid=9245795720423927975
 Place Id: ChIJj7Jryz1bspERp_CxrTiqT4A
 Fotos: Panadería Y Pastelería Sandoval.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PWOT1mOp0Xx_0b0D0fVH5Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=256.85153&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cálida bienvenida a Panadería Y Pastelería "Sandoval". Deleita tu paladar con la frescura de nuestro pan crujiente recién salido del horno, pasteles artesanales, tortas personalizadas y bocaditos dulces y salados preparados con insumos de primera calidad. Visítanos en Av San Martín de Porres 1902, Cajamarca para llevar lo mejor a tu mesa familiar o coordina pedidos especiales para tus celebraciones escribiéndonos al WhatsApp hoy mismo.
+================================================================================
