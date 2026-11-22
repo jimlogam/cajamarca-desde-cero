@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué estás buscando para tu salud?,Seleccionar,Endulzantes naturales y miel / Granos andinos y harinas / Verduras y huevos de corral / Infusiones y remedios naturales
+2,¿Cómo quieres recibir tu pedido?,Seleccionar,En el local / A domicilio
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Productos Naturales y Orgánicos*
+*Producto:* Miel de abeja pura 500 g
+*Precio:* S/ 28
+*Características:* Miel pura de apiario de la zona, sin mezclas. Espesa, oscura y con el aroma de las flores del campo cajamarquino.
+— Respuestas del cliente —
+*¿Qué estás buscando para tu salud?:* Granos andinos y harinas
+*¿Cómo quieres recibir tu pedido?:* A domicilio
+*¿Cómo vas a pagar?:* Yape",,,

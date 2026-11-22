@@ -1,0 +1,19 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Consulta externa de medicina general,30,"Atención en consultorio externo con médico general, con indicaciones y receta si corresponde. Se atiende por orden de llegada o cita según el establecimiento."
+2,Consulta externa de especialidad,50,"Atención con médico especialista en consultorio externo, según la programación semanal. Se confirma el horario al separar la cita."
+3,Atención en posta de salud de la comunidad,15,"Atención básica en la posta para molestias comunes y controles, con derivación al hospital si el caso lo requiere. Pensada para vecinos de la zona."
+4,Servicio de visita médica a domicilio,70,"Visita de personal de salud a la casa del cliente para evaluación general y orientación, según zona y disponibilidad. Se coordina por WhatsApp."
+5,Control de crecimiento y desarrollo del niño,20,"Control de peso, talla y desarrollo de niños, con orientación a los padres sobre alimentación y cuidados. Llevar el carnet de controles."
+6,Control prenatal,25,"Control del embarazo con medición de signos, peso y orientación para la gestante. Se programa la siguiente cita al final de la atención."
+7,Vacunación según calendario,10,Aplicación de vacunas del calendario nacional según edad y disponibilidad de stock. Llevar el carnet de vacunación.
+8,Atención de emergencia hospitalaria,60,"Atención de urgencias en el área de emergencia, con evaluación del equipo de turno. Los procedimientos adicionales se informan según el caso."
+9,Observación en emergencia (por turno),50,Permanencia en observación con monitoreo del personal mientras se define la conducta a seguir. Incluye controles de signos periódicos.
+10,Hospitalización por día,120,"Internamiento en sala con atención del personal de salud, según indicación médica. Medicamentos y exámenes se informan por separado."
+11,Atención de parto institucional,600,"Atención de parto en el establecimiento con el equipo de turno, previa evaluación de la gestante. Incluye la atención inmediata del recién nacido."
+12,Atención de heridas en tópico,15,Limpieza y atención de heridas y retiro de puntos en el tópico. Incluye materiales básicos.
+13,Nebulización (sesión),20,Sesión de nebulización indicada por el médico para molestias respiratorias. Pensada para niños y adultos.
+14,Análisis de laboratorio básicos (paquete),45,"Hemograma, glucosa y examen de orina en el laboratorio del establecimiento. Resultados en el plazo que se indique al momento de la toma."
+15,Electrocardiograma,30,Registro del ritmo del corazón con entrega del trazo para el médico tratante. Se realiza en horario de consultorio.
+16,Certificado de salud,25,"Evaluación y emisión de certificado de salud para colegio, trabajo o trámites. Se emite tras la revisión correspondiente."
+17,Planificación familiar (consulta),20,Orientación sobre métodos de planificación familiar y entrega del método elegido según disponibilidad. Atención confidencial.
+18,Control de enfermedades crónicas (consulta),25,"Control programado para personas con presión alta o diabetes, con medición de signos y revisión de su tratamiento indicado. También con visita a domicilio según zona."

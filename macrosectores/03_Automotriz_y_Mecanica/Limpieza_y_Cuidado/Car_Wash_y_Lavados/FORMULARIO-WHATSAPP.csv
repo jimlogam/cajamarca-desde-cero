@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué vehículo vamos a lavar?,Seleccionar,Auto / Camioneta o SUV / Moto / Mototaxi o carguera
+2,¿Dónde hacemos el lavado?,Seleccionar,En el local / A domicilio (en mi casa)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Car Wash y Lavados*
+*Producto:* Lavado básico exterior
+*Precio:* S/ 20
+*Características:* Lavado exterior con shampoo de pH neutro, enjuague y secado a mano. Tu vehículo sale limpio sin rayar la pintura.
+— Respuestas del cliente —
+*¿Qué vehículo vamos a lavar?:* Auto
+*¿Dónde hacemos el lavado?:* En el local
+*¿Cómo vas a pagar?:* Yape",,,

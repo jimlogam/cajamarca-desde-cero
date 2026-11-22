@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,"¿Tu compra es para el colegio, la oficina o la universidad?",Seleccionar,Colegio / Oficina / Universidad / Personal
+2,¿Deseas que armemos tu lista completa de útiles?,Sí o No,Sí / No
+3,¿Cómo recibes tu pedido?,Seleccionar,Recojo en tienda / Entrega a domicilio
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Librerías y Papelerías*
+*Producto:* Cuaderno cuadriculado A4 (100 hojas)
+*Precio:* S/ 6
+*Características:* Cuaderno cosido que no se deshoja, papel blanco que no traspasa la tinta.
+— Respuestas del cliente —
+*¿Tu compra es para el colegio, la oficina o la universidad?:* Colegio
+*¿Deseas que armemos tu lista completa de útiles?:* Sí
+*¿Cómo recibes tu pedido?:* Entrega a domicilio",,,

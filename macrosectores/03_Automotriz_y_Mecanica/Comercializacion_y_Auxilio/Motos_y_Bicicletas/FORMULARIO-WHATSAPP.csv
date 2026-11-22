@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué vehículo tienes?,Seleccionar,Moto lineal / Motocarguera / Scooter / Bicicleta
+2,¿Cómo prefieres la atención?,Seleccionar,En el taller / A domicilio (en mi casa) / Delivery del producto
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Motos y Bicicletas*
+*Producto:* Moto lineal 150 cc nueva
+*Precio:* S/ 5800
+*Características:* Moto lineal nueva de 150 cc, económica en combustible e ideal para la ciudad y para trabajar. Incluye casco de regalo y primera revisión sin costo.
+— Respuestas del cliente —
+*¿Qué vehículo tienes?:* Moto lineal
+*¿Cómo prefieres la atención?:* En el taller
+*¿Cómo vas a pagar?:* Yape",,,

@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué deporte practicas?,Seleccionar,Fútbol / Gimnasio / Running / Otro deporte
+2,"¿Buscas ropa, calzado o accesorios?",Seleccionar,Ropa / Calzado / Accesorios
+3,¿Cómo recibes tu pedido?,Seleccionar,En tienda / Entrega a domicilio
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Ropa Deportiva y Accesorios*
+*Producto:* Camiseta de fútbol (réplica)
+*Precio:* S/ 55
+*Características:* Camisetas de los equipos más pedidos, en tela dry que seca rápido.
+— Respuestas del cliente —
+*¿Qué deporte practicas?:* Fútbol
+*¿Buscas ropa, calzado o accesorios?:* Ropa
+*¿Cómo recibes tu pedido?:* Entrega a domicilio",,,

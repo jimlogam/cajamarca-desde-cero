@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿La torta es para qué ocasión?,Seleccionar,Cumpleaños / Matrimonio / Quinceañero / Solo un antojo / Otra celebración
+2,¿Cómo quieres recibirla?,Seleccionar,Recojo en tienda / A domicilio
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Pastelería y Tortas*
+*Producto:* Torta de chocolate (entera)
+*Precio:* S/ 55
+*Características:* Bizcocho húmedo de chocolate con fudge y manjar. La más pedida para cumpleaños.
+— Respuestas del cliente —
+*¿La torta es para qué ocasión?:* Cumpleaños
+*¿Cómo quieres recibirla?:* A domicilio
+*¿Cómo vas a pagar?:* Yape",,,

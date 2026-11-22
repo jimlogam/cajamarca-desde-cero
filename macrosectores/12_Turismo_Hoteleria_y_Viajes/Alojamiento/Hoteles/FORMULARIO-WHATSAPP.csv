@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué habitación buscas?,Seleccionar,Simple / Matrimonial / Familiar / Suite / Grupo o empresa
+2,¿Cómo coordinamos tu llegada?,Seleccionar,Llego directo al hotel / Recojo a domicilio (aeropuerto o terminal)
+3,¿Cómo pagas tu reserva?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Hoteles*
+*Producto:* Habitación simple ejecutiva (por noche)
+*Precio:* S/ 120
+*Características:* Pensada para el que viene a trabajar: escritorio, wifi rápido, desayuno temprano y silencio para descansar.
+— Respuestas del cliente —
+*¿Qué habitación buscas?:* Matrimonial
+*¿Cómo coordinamos tu llegada?:* Recojo a domicilio (aeropuerto o terminal)
+*¿Cómo pagas tu reserva?:* Tarjeta",,,

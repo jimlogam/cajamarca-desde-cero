@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué operación quieres hacer?,Seleccionar,Depósito o retiro / Pago de servicios / Enviar o cobrar dinero / Préstamo / Otro
+2,¿Dónde te atendemos?,Seleccionar,En el agente / A domicilio
+3,¿Cómo pagas la comisión?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Agentes Bancarios y Préstamos*
+*Producto:* Depósito a cualquier cuenta bancaria
+*Precio:* S/ 3
+*Características:* Deposita a cuentas de los principales bancos del país en minutos, sin ir hasta la agencia ni hacer la cola larga.
+— Respuestas del cliente —
+*¿Qué operación quieres hacer?:* Pago de servicios
+*¿Dónde te atendemos?:* En el agente
+*¿Cómo pagas la comisión?:* Yape",,,

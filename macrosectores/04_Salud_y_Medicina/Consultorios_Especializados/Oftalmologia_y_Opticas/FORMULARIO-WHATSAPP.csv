@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué necesitas?,Seleccionar,Medida de la vista / Consulta oftalmológica / Lentes nuevos / Lentes de contacto / Reparación o ajuste / Otro
+2,¿Dónde deseas la atención?,Seleccionar,En la óptica / A domicilio (en la casa del cliente)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Oftalmología y Ópticas*
+*Producto:* Medida de la vista computarizada
+*Precio:* S/ 30
+*Características:* Medición de la vista con equipo computarizado y prueba de lentes para definir la medida. Entrega de la receta de medida.
+— Respuestas del cliente —
+*¿Qué necesitas?:* Medida de la vista
+*¿Dónde deseas la atención?:* A domicilio (en la casa del cliente)
+*¿Cómo vas a pagar?:* Yape",,,

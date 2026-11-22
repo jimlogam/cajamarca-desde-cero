@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Para quién es la fragancia?,Seleccionar,Para dama / Para caballero / Para niños / Para regalo
+2,¿Cómo lo recibes?,Seleccionar,Recojo en tienda / Delivery a domicilio
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Perfumerías*
+*Producto:* Perfume importado para dama 100 ml
+*Precio:* S/ 180
+*Características:* Fragancias originales de marcas conocidas, selladas y con garantía. Te ayudamos a elegir según tu gusto.
+— Respuestas del cliente —
+*¿Para quién es la fragancia?:* Para dama
+*¿Cómo lo recibes?:* Recojo en tienda
+*¿Cómo vas a pagar?:* Yape",,,

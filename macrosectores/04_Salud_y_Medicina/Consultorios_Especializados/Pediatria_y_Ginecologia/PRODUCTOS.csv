@@ -1,0 +1,19 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Consulta pediátrica general,60,"Atención de niños por el pediatra para molestias, controles y orientación a los padres. En el consultorio o a domicilio según coordinación."
+2,Servicio de pediatría a domicilio,95,"Consulta pediátrica en la casa del cliente, pensada para bebés y niños que no conviene trasladar. Se coordina zona y horario."
+3,Control de crecimiento y desarrollo,50,"Control de peso, talla y desarrollo del niño según su edad, con orientación sobre alimentación y vacunas. Llevar el carnet de controles."
+4,Consulta pediátrica para recién nacidos,70,"Primera revisión del recién nacido con orientación sobre lactancia, sueño y cuidados en casa. Para bebés en su primer mes."
+5,Atención pediátrica por fiebre o resfrío,60,"Evaluación de niños con fiebre, tos o resfrío, con indicaciones para los padres. Si hay signos de alarma, se indica derivación inmediata."
+6,Vacunas particulares para niños (desde),80,"Aplicación de vacunas fuera del calendario regular, según disponibilidad y edad del niño. Se confirma la vacuna y el precio antes de la cita."
+7,Consulta ginecológica,70,"Atención con la ginecóloga para controles y molestias, en un ambiente privado y de confianza. Con indicaciones y receta si corresponde."
+8,Servicio de consulta ginecológica a domicilio,110,"Consulta ginecológica de orientación y control en la casa de la cliente, para casos que no requieren equipos del consultorio. Se coordina con reserva."
+9,Control prenatal completo (por control),60,"Control del embarazo con medición de signos, peso, escucha de latidos y orientación por etapa. Llevar su carnet de controles prenatales."
+10,Papanicolaou (toma de muestra),50,Toma de muestra para el examen de Papanicolaou con entrega de resultado en el plazo indicado. Se explica la preparación previa al agendar.
+11,Ecografía pélvica,70,Estudio de imágenes de la zona pélvica con informe para su médico. Se agenda con la preparación que se indique.
+12,Ecografía obstétrica,80,Ecografía de control del embarazo con informe y fotos del estudio. Se recomienda asistir con la vejiga según la indicación previa.
+13,Consulta de planificación familiar,40,Orientación sobre métodos de planificación y colocación o retiro según el método elegido y la evaluación. Atención confidencial.
+14,Colocación de implante anticonceptivo (desde),150,Colocación del implante subdérmico tras la evaluación y consejería correspondiente. Incluye el control posterior de la zona.
+15,Consulta por flujo o molestias ginecológicas,70,"Evaluación de molestias como flujo, picazón o dolor pélvico, con indicaciones según el caso. Ambiente privado y confidencial."
+16,Control ginecológico anual (paquete),130,"Consulta ginecológica, Papanicolaou y ecografía pélvica en un paquete anual programado. Se agenda en una o dos visitas."
+17,Orientación en lactancia materna (sesión),45,"Sesión de apoyo para madres que dan de lactar, con técnicas de agarre y resolución de dudas. En el consultorio o a domicilio."
+18,Curso de preparación para el parto (4 sesiones),160,"Cuatro sesiones para gestantes y su acompañante sobre el trabajo de parto, la respiración y los primeros cuidados del bebé. En el consultorio o a domicilio."

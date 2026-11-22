@@ -1,0 +1,17 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Servicio de pintado de interiores (m²),12,"Pintado parejo en dos manos con empastado de imperfecciones menores. Precio por m² de pared, sin pintura."
+2,Servicio de pintado de fachadas (m²),15,"Fachadas que aguantan el sol y la lluvia de Cajamarca, con preparación de superficie. Precio por m²."
+3,Servicio de pintado de departamento completo,900,"Departamento de 3 ambientes listo para mudarte o alquilar, con precio cerrado por adelantado."
+4,Servicio de pintado de casa completa,1800,Interior y fachada con precio cerrado y plazo firmado. Sin sorpresas a mitad de camino.
+5,Servicio de empastado y lijado (m²),8,Dejamos tus paredes lisas como nuevas antes de pintar. Precio por m².
+6,Servicio de pintado de techos (m²),10,"Techos blancos sin manchas de humedad, con tratamiento previo antimoho."
+7,Servicio de pintado de puertas y ventanas,60,Puertas y ventanas lijadas y pintadas con esmalte. Precio por unidad estándar.
+8,Servicio de pintado de rejas y estructuras,25,Rejas con anticorrosivo y esmalte que dura años. Precio por metro lineal.
+9,Servicio de texturado decorativo (m²),30,Acabados con textura para la pared principal de tu sala. Precio por m².
+10,Servicio de pintado de locales comerciales,14,Pintamos de noche o en tus horarios para que no cierres tu negocio. Precio por m².
+11,Servicio de impermeabilización de techos (m²),18,Membrana que detiene las goteras antes de la temporada de lluvias. Precio por m² con material.
+12,Servicio de pintado de canchas y pisos,16,Pintura de alto tránsito para losas deportivas y cocheras. Precio por m².
+13,Servicio de retiro de pintura vieja (m²),6,Retiramos las capas descascaradas para que lo nuevo agarre bien. Precio por m².
+14,Servicio de asesoría de color a domicilio,40,Te ayudamos a elegir colores con muestras reales en tu pared. Se descuenta si pintas con nosotros.
+15,Servicio de pintado de muebles,80,Muebles y puertas de cocina renovados con laca o esmalte. Precio por pieza estándar.
+16,Servicio de mantenimiento anual de fachada,500,Retoque y repintado programado para que tu edificio o negocio siempre se vea cuidado.

@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué atención necesitas?,Seleccionar,Cuidado de uñas / Uña encarnada / Callos y durezas / Pie de persona con diabetes / Evaluación de pisada / Otra
+2,¿Dónde deseas la atención?,Seleccionar,En el consultorio / A domicilio (en la casa del cliente)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Podología*
+*Producto:* Consulta podológica general
+*Precio:* S/ 50
+*Características:* Evaluación del estado de pies y uñas, con recomendaciones de cuidado. En el consultorio o a domicilio según coordinación.
+— Respuestas del cliente —
+*¿Qué atención necesitas?:* Cuidado de uñas
+*¿Dónde deseas la atención?:* A domicilio (en la casa del cliente)
+*¿Cómo vas a pagar?:* Yape",,,

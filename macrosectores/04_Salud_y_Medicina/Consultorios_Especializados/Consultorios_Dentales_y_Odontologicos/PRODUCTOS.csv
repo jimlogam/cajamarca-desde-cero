@@ -1,0 +1,19 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Consulta dental y evaluación,30,Revisión completa de dientes y encías con explicación del estado de la boca y presupuesto sin compromiso. En el consultorio.
+2,Limpieza dental con ultrasonido,80,Retiro de sarro y placa con equipo de ultrasonido y pulido final. Sesión de aproximadamente 40 minutos.
+3,Profilaxis dental para niños,60,"Limpieza suave adaptada para niños, con enseñanza de cepillado. Pensada como primera experiencia tranquila en el dentista."
+4,Restauración dental con resina (por pieza),90,Reparación de dientes con caries usando resina del color del diente. El precio es por pieza tratada en la sesión.
+5,Extracción dental simple,70,"Retiro de una pieza dental que ya no puede conservarse, con indicaciones de cuidado posterior. Se evalúa antes de realizarla."
+6,Extracción de muela del juicio (desde),180,Evaluación y extracción de muela del juicio según su posición en la radiografía. El precio final se confirma tras la evaluación.
+7,Tratamiento de conducto (desde),250,"Atención del nervio de la pieza dental en sesiones, según el caso. El número de sesiones se informa tras la evaluación."
+8,"Corona dental (por pieza, desde)",350,"Elaboración y colocación de corona sobre la pieza preparada, con toma de medida y prueba. Incluye las citas de instalación."
+9,Prótesis dental removible (desde),450,"Elaboración de prótesis removible a medida, con pruebas y ajustes de entrega. El precio depende del número de piezas."
+10,Puente dental fijo (desde),600,Reposición de piezas ausentes con puente fijo apoyado en dientes vecinos. Se confirma el plan tras la evaluación.
+11,Blanqueamiento dental (sesión),200,Sesión de aclaramiento del color de los dientes en el consultorio. El resultado varía según el tono inicial de cada persona.
+12,Ortodoncia — instalación de brackets (desde),500,Instalación de brackets tras la evaluación y el plan de tratamiento. Los controles mensuales se cobran por separado.
+13,Ortodoncia — control mensual,80,Cita mensual de ajuste de brackets y revisión del avance. Para pacientes en tratamiento en el consultorio.
+14,Radiografía dental periapical,30,Radiografía de una zona específica para apoyar la evaluación del dentista. Entrega inmediata de la imagen.
+15,Sellantes para niños (por pieza),40,Aplicación de sellante protector en las muelas de los niños. Procedimiento rápido y sin molestias.
+16,Aplicación de flúor (sesión),40,"Aplicación de flúor en gel o barniz para fortalecer el esmalte, recomendada para niños y adolescentes. Sesión breve."
+17,Atención dental de urgencia,60,"Atención prioritaria por dolor dental, con evaluación y primera medida para aliviar la molestia. El tratamiento completo se presupuesta aparte."
+18,Servicio de evaluación dental a domicilio,80,Evaluación dental en la casa del cliente para adultos mayores o personas que no pueden trasladarse. Los tratamientos se realizan en el consultorio.

@@ -1,0 +1,17 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Servicio de construcción de vivienda,1200,"Construimos tu casa desde los cimientos con materiales certificados y contrato claro. Precio por m² de área construida, según acabados."
+2,Servicio de ampliación de vivienda,950,"Segundo piso o ambientes nuevos respetando la estructura existente, con estudio previo. Precio por m²."
+3,Servicio de remodelación integral,450,"Renovamos baños, cocina y ambientes completos sin que te mudes por meses. Precio por m² según el alcance."
+4,Servicio de construcción de local comercial,1100,"Locales listos para vender: fachada, instalaciones y acabados comerciales. Precio por m²."
+5,Servicio de elaboración de planos,25,Planos de arquitectura y estructuras firmados por profesionales colegiados. Precio por m² de diseño.
+6,Servicio de licencias y trámites municipales,800,Gestionamos tu licencia de obra y conformidades para que construyas sin multas ni paralizaciones.
+7,Servicio de estudio de suelos,900,Saber cómo es tu terreno antes de cimentar te ahorra rajaduras y miles de soles después.
+8,Servicio de supervisión de obra,1500,Un ingeniero que cuida tu dinero y la calidad si ya tienes maestro. Precio mensual.
+9,Servicio de encofrado y vaciado de techos,180,Cuadrilla especializada en losas aligeradas con vaciado parejo. Precio por m² de techo.
+10,Servicio de tarrajeo y acabados,35,Tarrajeos derechos y finos listos para pintar. Precio por m².
+11,Servicio de instalación de pisos y enchapes,28,Porcelanatos y cerámicos nivelados con juntas parejas. Precio por m².
+12,Servicio de drywall y cielos rasos,65,Divisiones y techos rápidos y limpios para oficinas y dormitorios. Precio por m².
+13,Servicio de instalaciones eléctricas,45,"Tableros, cableado certificado y puesta a tierra para toda la casa. Precio por punto."
+14,Servicio de instalaciones sanitarias,60,Redes de agua y desagüe probadas con presión antes de cerrar los pisos. Precio por punto.
+15,Servicio de estructuras metálicas,220,"Techos y coberturas metálicas para locales, almacenes y cocheras. Precio por m²."
+16,Servicio de presupuesto de obra,150,Metrados y presupuesto detallado partida por partida. El monto se descuenta si construyes con nosotros.

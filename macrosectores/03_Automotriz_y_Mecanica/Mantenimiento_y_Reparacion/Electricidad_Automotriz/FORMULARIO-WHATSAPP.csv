@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué falla presenta tu vehículo?,Seleccionar,No arranca / Se descarga la batería / Fallan las luces / Otra falla eléctrica
+2,¿Dónde lo atendemos?,Seleccionar,En el taller / A domicilio (en mi casa o donde esté el vehículo)
+3,¿El vehículo está inmovilizado por la falla?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Electricidad Automotriz*
+*Producto:* Diagnóstico eléctrico con escáner
+*Precio:* S/ 40
+*Características:* Escaneamos tu vehículo y revisamos el sistema eléctrico hasta encontrar la falla real. Nada de cambiar piezas a ciegas.
+— Respuestas del cliente —
+*¿Qué falla presenta tu vehículo?:* No arranca
+*¿Dónde lo atendemos?:* En el taller
+*¿El vehículo está inmovilizado por la falla?:* Sí",,,

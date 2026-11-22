@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué ambiente quieres remodelar?,Seleccionar,Baño / Cocina / Sala y dormitorios / Local comercial
+2,¿Cuántos metros cuadrados aproximados?,Seleccionar,Menos de 10 m² / 10 a 30 m² / Más de 30 m²
+3,¿Deseas visita a domicilio para medir tu ambiente sin costo?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Acabados, Pisos y Porcelanatos*
+*Producto:* Porcelanato 60x60 alto brillo (m²)
+*Precio:* S/ 42
+*Características:* Porcelanato pulido que hace ver tu sala más grande y elegante. Precio por metro cuadrado.
+— Respuestas del cliente —
+*¿Qué ambiente quieres remodelar?:* Baño
+*¿Cuántos metros cuadrados aproximados?:* 10 a 30 m²
+*¿Deseas visita a domicilio para medir tu ambiente sin costo?:* Sí",,,

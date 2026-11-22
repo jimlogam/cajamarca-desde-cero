@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué mueble o trabajo necesitas?,Seleccionar,Mueble a medida / Puertas / Reparación de muebles
+2,¿Qué madera prefieres?,Seleccionar,Cedro / Tornillo / Melamina / Todavía no lo sé
+3,¿Deseas que tomemos medidas en tu casa sin costo?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Carpinteros y Ebanistas*
+*Producto:* Servicio de puerta de madera maciza
+*Precio:* S/ 650
+*Características:* Puertas de cedro o tornillo hechas a medida, con el acabado que elijas.
+— Respuestas del cliente —
+*¿Qué mueble o trabajo necesitas?:* Mueble a medida
+*¿Qué madera prefieres?:* Cedro
+*¿Deseas que tomemos medidas en tu casa sin costo?:* Sí",,,

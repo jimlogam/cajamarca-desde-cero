@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué servicio necesitas?,Seleccionar,Consulta inicial / Plan de alimentación / Control de seguimiento / Nutrición para niños / Nutrición deportiva / Otro
+2,¿Dónde deseas la atención?,Seleccionar,En el consultorio / A domicilio (en la casa del cliente) / Por videollamada
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Nutrición y Dietética*
+*Producto:* Consulta nutricional inicial
+*Precio:* S/ 60
+*Características:* Evaluación de hábitos de alimentación, medidas corporales y objetivos de la persona. Al final se entrega una orientación general y los pasos a seguir.
+— Respuestas del cliente —
+*¿Qué servicio necesitas?:* Consulta inicial
+*¿Dónde deseas la atención?:* A domicilio (en la casa del cliente)
+*¿Cómo vas a pagar?:* Yape",,,

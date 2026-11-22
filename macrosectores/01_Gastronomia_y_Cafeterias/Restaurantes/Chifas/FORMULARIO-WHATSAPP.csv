@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Cómo quieres recibir tu pedido?,Seleccionar,En el local / Para llevar / A domicilio
+2,¿Para cuántas personas es el pedido?,Seleccionar,1 persona / 2 personas / 3 a 4 personas / Más de 4 personas
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Chifas*
+*Producto:* Arroz chaufa de pollo
+*Precio:* S/ 16
+*Características:* Arroz salteado al wok a fuego fuerte con pollo, huevo, sillao y cebollita china. Con el ahumado que debe tener.
+— Respuestas del cliente —
+*¿Cómo quieres recibir tu pedido?:* A domicilio
+*¿Para cuántas personas es el pedido?:* 3 a 4 personas
+*¿Cómo vas a pagar?:* Plin",,,

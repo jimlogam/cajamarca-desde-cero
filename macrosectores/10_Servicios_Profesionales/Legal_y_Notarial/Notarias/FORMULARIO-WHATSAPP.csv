@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué trámite notarial necesitas?,Seleccionar,Legalización / Escritura pública / Poder / Carta notarial / Otro trámite
+2,¿Dónde firmamos?,Seleccionar,En la notaría / A domicilio
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Notarías*
+*Producto:* Legalización de firma
+*Precio:* S/ 15
+*Características:* Legalizo tu firma en el documento que necesites, con verificación de identidad y registro en el libro notarial.
+— Respuestas del cliente —
+*¿Qué trámite notarial necesitas?:* Escritura pública
+*¿Dónde firmamos?:* A domicilio
+*¿Cómo vas a pagar?:* Yape",,,

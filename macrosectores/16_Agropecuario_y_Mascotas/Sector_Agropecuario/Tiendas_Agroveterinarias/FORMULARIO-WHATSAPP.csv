@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué animales crías o qué cultivo tienes?,Seleccionar,Ganado vacuno / Cerdos / Aves / Cuyes / Cultivos
+2,¿Cómo te atendemos?,Seleccionar,En la tienda / A domicilio (vamos a tu fundo)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Tiendas Agroveterinarias*
+*Producto:* Alimento balanceado para ganado (saco)
+*Precio:* S/ 85
+*Características:* Concentrado para engorde y producción de leche, con la proteína que tu ganado necesita.
+— Respuestas del cliente —
+*¿Qué animales crías o qué cultivo tienes?:* Ganado vacuno
+*¿Cómo te atendemos?:* A domicilio (vamos a tu fundo)
+*¿Cómo vas a pagar?:* Transferencia",,,

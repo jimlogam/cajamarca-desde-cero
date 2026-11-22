@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué equipo necesita servicio?,Seleccionar,Laptop / PC de escritorio / Impresora
+2,¿Cuál es el problema?,Seleccionar,Está lenta / No enciende / Tiene virus / Necesita mantenimiento
+3,¿Deseas el servicio a domicilio?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Servicio Técnico PC y Laptops*
+*Producto:* Servicio de formateo e instalación de Windows
+*Precio:* S/ 50
+*Características:* Dejamos tu equipo como nuevo con Windows, Office y antivirus, respaldando tus archivos.
+— Respuestas del cliente —
+*¿Qué equipo necesita servicio?:* Laptop
+*¿Cuál es el problema?:* Está lenta
+*¿Deseas el servicio a domicilio?:* Sí",,,

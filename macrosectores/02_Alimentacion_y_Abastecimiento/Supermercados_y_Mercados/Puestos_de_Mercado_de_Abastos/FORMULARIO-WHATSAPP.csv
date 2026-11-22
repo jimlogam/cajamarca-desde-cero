@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué viniste a buscar al mercado?,Seleccionar,"Verduras y papas / Frutas / Carnes, pollo o pescado / La compra completa de la semana"
+2,¿Cómo quieres recibir tu pedido?,Seleccionar,En el local / A domicilio
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Puestos de Mercado de Abastos*
+*Producto:* Papa amarilla por kilo
+*Precio:* S/ 4
+*Características:* Papa amarilla de la zona, arenosa y dulce. Te la escojo sin golpes ni partes verdes, como para mi casa.
+— Respuestas del cliente —
+*¿Qué viniste a buscar al mercado?:* La compra completa de la semana
+*¿Cómo quieres recibir tu pedido?:* A domicilio
+*¿Cómo vas a pagar?:* Yape",,,

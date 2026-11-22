@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué electrodoméstico falla?,Seleccionar,Refrigeradora / Lavadora / Cocina y horno / Otro equipo
+2,¿Cuál es la falla?,Seleccionar,No enciende / No enfría o no calienta / Hace ruidos raros / Pierde agua
+3,¿Deseas el servicio a domicilio?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Reparación de Electrodomésticos*
+*Producto:* Servicio de reparación de refrigeradoras
+*Precio:* S/ 120
+*Características:* Reparamos refrigeradoras que no enfrían, hacen escarcha o no paran de trabajar. Repuestos garantizados.
+— Respuestas del cliente —
+*¿Qué electrodoméstico falla?:* Lavadora
+*¿Cuál es la falla?:* Pierde agua
+*¿Deseas el servicio a domicilio?:* Sí",,,

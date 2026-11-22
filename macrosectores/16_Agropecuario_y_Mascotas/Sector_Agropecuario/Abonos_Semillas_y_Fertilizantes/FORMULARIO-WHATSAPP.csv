@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué cultivo tienes o vas a sembrar?,Seleccionar,Papa / Maíz / Pastos y alfalfa / Hortalizas / Jardín o macetas
+2,¿Cómo recibes tu compra?,Seleccionar,Recojo en la tienda / Delivery a domicilio (a tu fundo o casa)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Abonos, Semillas y Fertilizantes*
+*Producto:* Urea agrícola (saco de 50 kg)
+*Precio:* S/ 120
+*Características:* Nitrógeno que hace crecer tu cultivo con fuerza; precio referencial de temporada, confírmalo al pedir.
+— Respuestas del cliente —
+*¿Qué cultivo tienes o vas a sembrar?:* Papa
+*¿Cómo recibes tu compra?:* Delivery a domicilio (a tu fundo o casa)
+*¿Cómo vas a pagar?:* Transferencia",,,

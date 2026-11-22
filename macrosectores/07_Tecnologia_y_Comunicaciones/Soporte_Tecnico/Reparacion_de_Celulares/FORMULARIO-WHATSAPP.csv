@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué le pasa a tu celular?,Seleccionar,Pantalla rota / No carga / Se mojó / Otro problema
+2,¿Qué marca es tu equipo?,Seleccionar,Samsung / Xiaomi / Motorola / iPhone / Otra marca
+3,¿Cómo quieres la atención?,Seleccionar,En el taller / A domicilio
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Reparación de Celulares*
+*Producto:* Servicio de cambio de pantalla
+*Precio:* S/ 120
+*Características:* Pantallas con garantía escrita, colocadas en el acto para la mayoría de modelos. Precio desde S/ 120 según el modelo.
+— Respuestas del cliente —
+*¿Qué le pasa a tu celular?:* Pantalla rota
+*¿Qué marca es tu equipo?:* Xiaomi
+*¿Cómo quieres la atención?:* A domicilio",,,

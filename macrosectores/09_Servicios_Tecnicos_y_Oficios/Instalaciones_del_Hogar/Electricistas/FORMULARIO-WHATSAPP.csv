@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué trabajo necesitas?,Seleccionar,Instalación nueva / Reparación de falla / Iluminación / Tablero eléctrico
+2,¿Es una emergencia?,Sí o No,Sí / No
+3,¿Deseas visita a domicilio y presupuesto sin costo?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Electricistas*
+*Producto:* Servicio de instalación de tablero eléctrico
+*Precio:* S/ 250
+*Características:* Tableros con llaves termomagnéticas y diferencial que protegen a tu familia de cortocircuitos.
+— Respuestas del cliente —
+*¿Qué trabajo necesitas?:* Reparación de falla
+*¿Es una emergencia?:* Sí
+*¿Deseas visita a domicilio y presupuesto sin costo?:* Sí",,,

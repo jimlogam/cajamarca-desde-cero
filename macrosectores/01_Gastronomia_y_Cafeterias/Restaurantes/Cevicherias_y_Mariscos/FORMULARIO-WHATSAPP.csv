@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Cómo quieres recibir tu pedido?,Seleccionar,En el local / Para llevar / A domicilio
+2,¿Qué tan picante lo quieres?,Seleccionar,Sin ají / Suave / Término medio / Bien picante
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Cevicherías y Mariscos*
+*Producto:* Ceviche de trucha
+*Precio:* S/ 26
+*Características:* Trucha fresca de la zona cortada al momento, en leche de tigre con limón de verdad, cebolla morada, camote glaseado y choclo.
+— Respuestas del cliente —
+*¿Cómo quieres recibir tu pedido?:* A domicilio
+*¿Qué tan picante lo quieres?:* Término medio
+*¿Cómo vas a pagar?:* Yape",,,

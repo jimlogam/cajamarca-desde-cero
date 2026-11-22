@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué trabajo necesitas?,Seleccionar,Puertas y rejas / Techos y estructuras / Escaleras y barandas / Reparación de soldadura
+2,¿Deseas que tomemos medidas en tu domicilio?,Sí o No,Sí / No
+3,¿El trabajo es urgente?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Metalmecánica y Estructuras*
+*Producto:* Puerta metálica de ingreso
+*Precio:* S/ 650
+*Características:* Puertas de plancha y tubo con chapa de seguridad, hechas a la medida de tu entrada.
+— Respuestas del cliente —
+*¿Qué trabajo necesitas?:* Puertas y rejas
+*¿Deseas que tomemos medidas en tu domicilio?:* Sí
+*¿El trabajo es urgente?:* No",,,

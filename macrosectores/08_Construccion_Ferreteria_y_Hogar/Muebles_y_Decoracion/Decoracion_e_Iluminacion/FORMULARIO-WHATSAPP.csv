@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué ambiente quieres renovar?,Seleccionar,Sala / Dormitorios / Cocina y baño / Negocio
+2,¿Buscas solo productos o también asesoría de diseño?,Seleccionar,Solo productos / Con asesoría
+3,¿Deseas que visitemos tu casa para asesorarte?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Decoración e Iluminación*
+*Producto:* Lámpara colgante decorativa
+*Precio:* S/ 120
+*Características:* Lámparas que se roban la mirada de la sala o el comedor, varios estilos.
+— Respuestas del cliente —
+*¿Qué ambiente quieres renovar?:* Sala
+*¿Buscas solo productos o también asesoría de diseño?:* Con asesoría
+*¿Deseas que visitemos tu casa para asesorarte?:* Sí",,,

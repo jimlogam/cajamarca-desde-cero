@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué experiencia quieres vivir?,Seleccionar,"Aventura (canopy, cuatrimoto, rappel) / Vivencial con familias locales / Naturaleza y trekking / Para mi colegio o grupo"
+2,¿Cómo llegas al punto de inicio?,Seleccionar,Llego por mi cuenta / Recojo a domicilio (hotel o casa en Cajamarca)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Turismo Vivencial y Aventura*
+*Producto:* Cabalgata por la campiña cajamarquina (2 horas)
+*Precio:* S/ 60
+*Características:* Caballos mansos y rutas entre eucaliptos y chacras, con casco y guía local que conoce cada sendero.
+— Respuestas del cliente —
+*¿Qué experiencia quieres vivir?:* Aventura (canopy, cuatrimoto, rappel)
+*¿Cómo llegas al punto de inicio?:* Recojo a domicilio (hotel o casa en Cajamarca)
+*¿Cómo vas a pagar?:* Yape",,,

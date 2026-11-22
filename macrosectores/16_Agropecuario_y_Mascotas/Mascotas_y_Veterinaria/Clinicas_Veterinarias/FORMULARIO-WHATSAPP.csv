@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué mascota vas a atender?,Seleccionar,Perro / Gato / Ave o conejo / Animal de granja
+2,¿Cómo quieres la atención?,Seleccionar,En la clínica / A domicilio (el veterinario va a tu casa)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Clínicas Veterinarias*
+*Producto:* Consulta veterinaria general
+*Precio:* S/ 40
+*Características:* Revisión completa de tu mascota con diagnóstico claro y tratamiento explicado sin palabras difíciles.
+— Respuestas del cliente —
+*¿Qué mascota vas a atender?:* Perro
+*¿Cómo quieres la atención?:* A domicilio (el veterinario va a tu casa)
+*¿Cómo vas a pagar?:* Yape",,,

@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué material necesitas?,Seleccionar,"Cemento y ladrillo / Fierro y varillas / Agregados (arena, piedra) / Todo para mi obra"
+2,¿Deseas que lo pongamos en tu obra?,Sí o No,Sí / No
+3,¿Compras al por menor o por mayor para obra completa?,Seleccionar,Por menor / Por mayor
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Materiales Pesados, Cemento y Ladrillo*
+*Producto:* Cemento Portland Tipo I (bolsa 42.5 kg)
+*Precio:* S/ 24
+*Características:* Cemento fresco de rotación rápida, no el que lleva meses guardado. Precio por bolsa.
+— Respuestas del cliente —
+*¿Qué material necesitas?:* Cemento y ladrillo
+*¿Deseas que lo pongamos en tu obra?:* Sí
+*¿Compras al por menor o por mayor para obra completa?:* Por mayor",,,

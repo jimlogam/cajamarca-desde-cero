@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué ambiente estás equipando?,Seleccionar,Baño completo / Medio baño / Cocina
+2,¿Necesitas también la instalación a domicilio?,Sí o No,Sí / No
+3,¿Buscas línea económica o premium?,Seleccionar,Económica / Intermedia / Premium
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Sanitarios y Griferías*
+*Producto:* Inodoro de una pieza
+*Precio:* S/ 380
+*Características:* Inodoro moderno de descarga eficiente que ahorra agua en cada uso.
+— Respuestas del cliente —
+*¿Qué ambiente estás equipando?:* Baño completo
+*¿Necesitas también la instalación a domicilio?:* Sí
+*¿Buscas línea económica o premium?:* Intermedia",,,

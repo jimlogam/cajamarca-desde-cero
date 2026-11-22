@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué mascota tienes?,Seleccionar,Perro / Gato / Ave / Pez / Otra mascota
+2,¿Cómo recibes tu pedido?,Seleccionar,Recojo en la tienda / Delivery a domicilio
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Pet Shops y Accesorios*
+*Producto:* Alimento balanceado premium para perro (por kg)
+*Precio:* S/ 18
+*Características:* Croquetas de alta proteína para perros activos, vendidas por kilo para que pruebes sin comprar el saco.
+— Respuestas del cliente —
+*¿Qué mascota tienes?:* Perro
+*¿Cómo recibes tu pedido?:* Delivery a domicilio
+*¿Cómo vas a pagar?:* Yape",,,

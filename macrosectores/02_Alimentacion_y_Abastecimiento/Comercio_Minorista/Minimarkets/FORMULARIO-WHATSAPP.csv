@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué tipo de compra quieres hacer?,Seleccionar,Canasta de la semana / Solo algunos productos / Bebidas y snacks para reunión / Limpieza y hogar
+2,¿Cómo quieres recibir tu pedido?,Seleccionar,En el local / A domicilio
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Minimarkets*
+*Producto:* Canasta básica semanal
+*Precio:* S/ 85
+*Características:* Arroz, azúcar, aceite, leche, fideos, huevos y menestras armados en una sola compra para la semana. Te ahorras tres vueltas a la tienda.
+— Respuestas del cliente —
+*¿Qué tipo de compra quieres hacer?:* Canasta de la semana
+*¿Cómo quieres recibir tu pedido?:* A domicilio
+*¿Cómo vas a pagar?:* Yape",,,

@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Para quién es la atención?,Seleccionar,Para mi hijo o hija / Control de embarazo / Consulta ginecológica / Planificación familiar / Otro
+2,¿Dónde deseas la atención?,Seleccionar,En el consultorio / A domicilio (en la casa del cliente)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Pediatría y Ginecología*
+*Producto:* Consulta pediátrica general
+*Precio:* S/ 60
+*Características:* Atención de niños por el pediatra para molestias, controles y orientación a los padres. En el consultorio o a domicilio según coordinación.
+— Respuestas del cliente —
+*¿Para quién es la atención?:* Para mi hijo o hija
+*¿Dónde deseas la atención?:* A domicilio (en la casa del cliente)
+*¿Cómo vas a pagar?:* Yape",,,

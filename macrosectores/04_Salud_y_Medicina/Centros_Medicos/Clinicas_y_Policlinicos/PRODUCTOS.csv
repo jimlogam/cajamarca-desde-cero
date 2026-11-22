@@ -1,0 +1,19 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Consulta médica general,50,"Atención con médico general para molestias y controles de salud, con indicaciones y receta si corresponde. En la clínica o, según el servicio, a domicilio."
+2,Servicio de consulta médica a domicilio,90,"Consulta de medicina general en la casa del cliente, para personas que no pueden trasladarse. Se coordina zona y horario por WhatsApp."
+3,Consulta con médico especialista,90,"Atención con especialistas como medicina interna, ginecología o traumatología, según la programación de la clínica. Se confirma disponibilidad al agendar."
+4,Chequeo médico preventivo anual,150,"Paquete de evaluación general con consulta, análisis básicos y medición de signos. Entrega de resultados con explicación del médico."
+5,Control de presión arterial (paquete mensual),60,Cuatro controles de presión arterial al mes con registro para mostrar a su médico. También disponible con visita a domicilio.
+6,Atención de tópico y atenciones de heridas,35,"Atenciones de heridas, retiro de puntos y atención de heridas leves en el tópico de la clínica. Incluye materiales básicos."
+7,Aplicación de inyectables y sueros,25,"Aplicación de medicamentos indicados por un médico, en el tópico. El paciente puede traer su medicamento con su receta."
+8,Electrocardiograma,40,Estudio del ritmo del corazón con entrega del resultado para su médico. Sin cita previa en horario de atención.
+9,Ecografía abdominal,90,"Estudio de imágenes del abdomen realizado por personal capacitado, con informe. Se agenda con preparación previa que se indica por WhatsApp."
+10,Ecografía obstétrica,80,"Ecografía de control durante el embarazo, con informe para los controles con su médico u obstetra. Se agenda con cita."
+11,Rayos X (por zona),60,"Placa radiográfica de la zona indicada por el médico, con entrega de la imagen. El informe se coordina según el caso."
+12,Hospitalización por día,250,"Internamiento con atención del personal de salud, según indicación médica. El costo final depende de los medicamentos y procedimientos del caso."
+13,Atención de parto (paquete referencial),1200,"Atención de parto normal en la clínica con el equipo de turno, según evaluación previa de la gestante. El paquete exacto se confirma tras la evaluación."
+14,Cirugía menor ambulatoria,300,"Procedimientos menores programados, como retiro de quistes superficiales, con evaluación previa. El precio se confirma según el procedimiento."
+15,Laboratorio clínico básico (paquete),70,"Hemograma, glucosa y examen de orina en el laboratorio de la clínica. Resultados el mismo día en horario coordinado."
+16,Certificado médico,30,"Evaluación y emisión de certificado médico para trabajo, colegio o trámites. Se emite tras la revisión del médico."
+17,Atención de enfermería a domicilio,60,"Servicio de enfermería en la casa del cliente para atención de heridas, inyectables o control de signos, según indicación. Se coordina por WhatsApp."
+18,Campaña de salud para empresas (por persona),45,"Jornada de evaluación básica para trabajadores, realizada en la empresa o en la clínica. Precio por persona para grupos desde 10."

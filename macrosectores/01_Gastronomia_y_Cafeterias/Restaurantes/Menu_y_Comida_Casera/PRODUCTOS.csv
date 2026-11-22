@@ -1,0 +1,27 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Menú completo del día,12,"Sopa, segundo y refresco. El menú cambia a diario con lo más fresco del mercado; pregunta por el de hoy."
+2,Menú ejecutivo,15,"Entrada, segundo a elegir entre dos opciones, refresco y postre del día. Para los que trabajan y comen bien."
+3,Caldo de gallina,13,"Gallina cocida despacio con papa, huevo y fideos. El caldo que repone de todo."
+4,Sopa de verduras casera,9,"Verduras del mercado en caldo sabroso, con su papa y fideos. Como la de casa."
+5,Sopa de quinua,10,"Quinua con verduras y papa, ligera y alimenticia para empezar el almuerzo."
+6,Lomo saltado casero,16,"Lomo salteado con cebolla y tomate, papas fritas y arroz graneado. El segundo más pedido."
+7,Pollo a la plancha con arroz,14,"Pechuga a la plancha bien sazonada, con arroz, papas y ensalada fresca."
+8,Guiso de pollo,13,"Pollo guisado en su jugo con papa y zanahoria, con arroz. Sabor a cocina de mamá."
+9,Estofado de res,15,"Carne suave estofada con papa, zanahoria y arvejas, en su salsa espesa."
+10,Frejoles con seco de res,15,Frejoles cremosos con seco de res al culantro y arroz. Combinación que nunca falla.
+11,Arroz con pollo,14,Arroz verde al culantro con presa de pollo jugosa y papa a la huancaína.
+12,Ají de gallina,14,"Gallina deshilachada en crema de ají amarillo con nueces, papa y arroz."
+13,Tallarín rojo con pollo,13,Tallarines en salsa de tomate con presa de pollo y queso rallado.
+14,Milanesa de pollo con ensalada rusa,15,"Milanesa crocante con ensalada rusa de papa, zanahoria y arvejas."
+15,Papa rellena,8,"Papa prensada rellena de carne molida con huevo y aceituna, frita al momento, con salsa criolla."
+16,Causa rellena de pollo,10,"Papa amarilla con limón y ají, rellena de pollo con mayonesa. Fresca y rendidora."
+17,Chicharrón de chancho casero,18,Chancho frito en su punto con camote frito y salsa criolla.
+18,Trucha frita con arroz,18,"Trucha entera frita con arroz, papas y ensalada. Directo de la sartén a la mesa."
+19,Desayuno casero completo,10,"Caldo o avena, pan con queso o tamal, y café pasado. Para empezar el día como se debe."
+20,Lonche serrano,8,Pan chapla con queso cajamarquino y café pasado o emoliente. La merienda de la tarde.
+21,Refresco del día (1 litro),5,"Refresco natural del día: maracuyá, chicha morada o limonada, según lo que haya fresco."
+22,Emoliente,4,"Emoliente calientito de cebada y hierbas, en vaso grande."
+23,Táper familiar casero (para 4),35,"Un segundo contundente a elegir, con arroz y sopa en táper grande. La comida de casa sin cocinar."
+24,Menú semanal para oficinas (5 días),55,"Tu almuerzo de lunes a viernes resuelto: menú completo cada día, con descuento por semana pagada."
+25,Almuerzo a domicilio para empresas (por persona),13,"Llevamos el menú del día a tu oficina o a tu casa, en táper individual sellado y a la hora pactada."
+26,Delivery a domicilio,4,"Tu menú llega a tu casa u oficina en táper sellado, calientito y a tiempo."

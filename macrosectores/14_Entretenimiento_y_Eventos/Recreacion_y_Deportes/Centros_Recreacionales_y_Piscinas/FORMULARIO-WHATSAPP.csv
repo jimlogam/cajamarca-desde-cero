@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué plan buscas?,Seleccionar,Pasar el día / Cumpleaños / Grupo de empresa o colegio / Clases de natación
+2,¿Cómo llegas al centro?,Seleccionar,Por mi cuenta / Transporte con recojo a domicilio
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Centros Recreacionales y Piscinas*
+*Producto:* Entrada general para adultos
+*Precio:* S/ 12
+*Características:* Todo el día de piscina, áreas verdes, juegos y canchas por una sola entrada, sin pagos escondidos.
+— Respuestas del cliente —
+*¿Qué plan buscas?:* Pasar el día
+*¿Cómo llegas al centro?:* Transporte con recojo a domicilio
+*¿Cómo vas a pagar?:* Yape",,,

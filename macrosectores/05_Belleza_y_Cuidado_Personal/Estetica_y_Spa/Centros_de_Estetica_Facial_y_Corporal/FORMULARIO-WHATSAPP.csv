@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué tratamiento te interesa?,Seleccionar,Facial / Corporal reductor / Drenaje linfático / Otro tratamiento
+2,¿Dónde te atendemos?,Seleccionar,En el centro / A domicilio en mi casa
+3,¿Es tu primera vez con nosotros?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Centros de Estética Facial y Corporal*
+*Producto:* Limpieza facial profunda
+*Precio:* S/ 80
+*Características:* Extracción de puntos negros, exfoliación, mascarilla y masaje facial. Sales con la piel limpia y luminosa.
+— Respuestas del cliente —
+*¿Qué tratamiento te interesa?:* Facial
+*¿Dónde te atendemos?:* En el centro
+*¿Es tu primera vez con nosotros?:* Sí",,,

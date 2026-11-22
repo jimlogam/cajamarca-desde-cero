@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué idioma quieres aprender?,Seleccionar,Inglés / Portugués / Francés / Quechua / Otro
+2,¿Qué modalidad prefieres?,Seleccionar,Presencial / Virtual / A domicilio (profesor en tu casa)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Centros de Idiomas*
+*Producto:* Inglés básico (mensual)
+*Precio:* S/ 180
+*Características:* Desde cero y sin vergüenza: vocabulario, pronunciación y las frases para defenderte en cualquier situación.
+— Respuestas del cliente —
+*¿Qué idioma quieres aprender?:* Inglés
+*¿Qué modalidad prefieres?:* A domicilio (profesor en tu casa)
+*¿Cómo vas a pagar?:* Yape",,,

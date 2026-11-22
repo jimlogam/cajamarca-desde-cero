@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Cómo quieres recibir tu pedido?,Seleccionar,En el local / Para llevar / A domicilio
+2,¿Cómo endulzamos tu jugo?,Seleccionar,Con azúcar / Con miel / Sin azúcar
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Juguerías y Fuentes de Soda*
+*Producto:* Jugo de papaya
+*Precio:* S/ 8
+*Características:* Papaya madura licuada al momento, al agua o con leche. Dulce natural, sin trucos.
+— Respuestas del cliente —
+*¿Cómo quieres recibir tu pedido?:* A domicilio
+*¿Cómo endulzamos tu jugo?:* Con miel
+*¿Cómo vas a pagar?:* Plin",,,

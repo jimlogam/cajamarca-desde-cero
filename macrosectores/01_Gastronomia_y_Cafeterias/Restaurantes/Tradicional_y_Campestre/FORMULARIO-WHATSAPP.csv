@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Cómo quieres recibir tu pedido?,Seleccionar,En el local / Para llevar / A domicilio
+2,¿Para cuándo lo necesitas?,Seleccionar,Lo antes posible / A la hora que indico / Es un encargo para otro día
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Tradicional y Campestre*
+*Producto:* Cuy frito entero
+*Precio:* S/ 65
+*Características:* Cuy entero frito en aceite bien caliente: crocante por fuera y jugoso por dentro, con papas doradas, mote y salsa de huacatay.
+— Respuestas del cliente —
+*¿Cómo quieres recibir tu pedido?:* A domicilio
+*¿Para cuándo lo necesitas?:* Lo antes posible
+*¿Cómo vas a pagar?:* Yape",,,

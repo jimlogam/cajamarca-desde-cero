@@ -1,0 +1,25 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Diagnóstico general con escáner,50,Escaneamos tu vehículo y revisamos los puntos clave hasta dar con la falla. Diagnóstico honesto: te mostramos lo que encontramos.
+2,Afinamiento completo de motor,150,"Bujías, filtros, limpieza de inyectores y cuerpo de aceleración. Tu motor recupera fuerza y baja su consumo."
+3,Cambio de aceite y filtro de motor,90,Cambio de aceite con el grado correcto para tu motor y filtro nuevo. Revisamos niveles y fugas sin costo adicional.
+4,"Mantenimiento de 5,000 km",180,"Mantenimiento programado completo: aceite, filtros, frenos, niveles y revisión de 20 puntos. Con registro escrito de lo realizado."
+5,"Mantenimiento de 10,000 km",280,"Mantenimiento mayor con afinamiento, frenos, rotación y revisión general. Tu vehículo queda listo para otros 10,000 km tranquilos."
+6,Reparación de frenos completa,160,"Pastillas nuevas, rectificado de discos y revisión de todo el sistema. Frenado firme y sin chillidos, probado contigo."
+7,Reparación de embrague,600,Cambio de kit de embrague completo con rectificado de volante si hace falta. El pedal queda suave y sin patinadas.
+8,Reparación de caja de cambios mecánica,800,"Abrimos la caja, cambiamos lo gastado y la probamos en ruta. Trabajo garantizado por escrito."
+9,Reparación de culata de motor,900,"Reparación de culata por recalentamiento: cepillado, válvulas, retenes y empaquetadura nueva. Medimos todo antes de armar."
+10,Cambio de faja de distribución,250,Cambio de faja o kit de distribución con sus tensores. No esperes a que se rompa: esa reparación sale diez veces más cara.
+11,Reparación del sistema de refrigeración,200,"Radiador, mangueras, termostato y tapa: encontramos por qué recalienta tu motor y lo dejamos trabajando a su temperatura."
+12,Cambio de bomba de agua,220,Bomba de agua nueva con empaquetaduras y refrigerante nuevo. Se cambia a tiempo y te ahorras un recalentamiento en carretera.
+13,Revisión de tren delantero,50,"Revisamos suspensión, dirección y rodajes del tren delantero y te decimos qué urge y qué puede esperar."
+14,Limpieza de inyectores por ultrasonido,120,"Inyectores limpios y probados en banco: mejor arranque, menos consumo y motor parejo. Se nota desde la primera manejada."
+15,Reparación de escape y silenciador,150,Soldadura y cambio de tramos rotos del escape. Se acaba el ruido de carro viejo y el olor dentro de la cabina.
+16,Ajuste y regulación de motor,100,"Regulamos tu motor para que deje de temblar, humear o consumir de más. Incluye revisión de sensores principales."
+17,Servicio de mecánico a domicilio,80,"Nuestro mecánico va a tu casa y hace ahí las reparaciones que se pueden: afinamiento, frenos, arranque, cambio de aceite y más. El taller va a ti."
+18,Auxilio mecánico en carretera,100,"Salimos a auxiliarte si te quedaste en la carretera cerca de la ciudad. Si no se puede reparar ahí, coordinamos tu traslado."
+19,Revisión pre-compra completa,120,"Revisamos el vehículo que quieres comprar como si fuera para nosotros: motor, caja, chasis, suspensión y papeles mecánicos. Compra sin sorpresas."
+20,Revisión previa a la revisión técnica,60,"Dejamos tu vehículo listo para pasar la revisión técnica: luces, frenos, gases, dirección y suspensión."
+21,Cambio de líquido de frenos y purgado,70,"Líquido de frenos nuevo y sistema purgado completo. El pedal recupera firmeza y tu frenado, seguridad."
+22,Carga de gas de aire acondicionado,180,Recarga de gas con detección de fugas incluida. Tu aire vuelve a enfriar como cuando el vehículo era nuevo.
+23,Reparación general de motor (desde),2500,"Overhaul completo de motor: rectificado, anillos, metales y todo lo que el desgaste pida. Presupuesto detallado antes de empezar."
+24,Mantenimiento de flotas (por vehículo),150,"Mantenimiento programado para empresas con varios vehículos, con registro por unidad y aviso de vencimientos. Precio por vehículo."

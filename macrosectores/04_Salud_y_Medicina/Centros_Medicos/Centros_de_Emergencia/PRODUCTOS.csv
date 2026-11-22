@@ -1,0 +1,19 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Atención de emergencia general,80,"Atención inmediata de urgencias como dolores intensos, caídas o malestares súbitos, con evaluación del personal de turno. El costo final depende de los procedimientos que el caso requiera."
+2,Atención de emergencia a domicilio,120,"Valoración de emergencia en la casa del cliente por personal de salud, según disponibilidad y zona. Si el caso lo requiere, se coordina el traslado a un centro de mayor complejidad."
+3,Evaluación médica de urgencia,50,Valoración rápida por el médico de turno para definir la atención que el paciente necesita. Incluye indicaciones inmediatas.
+4,Atención de heridas y suturas,90,"Limpieza y sutura de cortes que lo requieran, con materiales incluidos. El precio varía según el tamaño y la zona de la herida."
+5,Atención de golpes y traumatismos leves,70,"Evaluación de golpes y contusiones, con inmovilización si corresponde. Si se necesita una radiografía, se coordina en el momento."
+6,Control de signos vitales,20,"Medición de presión arterial, temperatura, pulso y saturación de oxígeno. Atención rápida sin cita previa."
+7,Nebulización (sesión),35,Sesión de nebulización indicada por el médico de turno para molestias respiratorias. Incluye el medicamento de la sesión según indicación.
+8,Aplicación de inyectable intramuscular,15,Aplicación de medicamentos por vía intramuscular con receta o indicación médica. El paciente trae su medicamento o lo adquiere en el centro.
+9,Aplicación de suero endovenoso,60,"Colocación de vía y suero según indicación médica, con monitoreo del personal. El tiempo depende de lo indicado."
+10,Atención de quemaduras leves,60,"Limpieza y atención de herida inicial de quemaduras leves, con indicaciones de cuidado en casa. Los casos extensos se derivan de inmediato."
+11,Atención de heridas (sesión),30,Limpieza y cambio de apósitos de heridas en proceso de cuidado. Incluye materiales básicos de atención de heridas.
+12,Atención de fiebre y deshidratación,65,"Evaluación y atención inicial de cuadros de fiebre y deshidratación, con indicaciones para el hogar. Se deriva si el caso se complica."
+13,Electrocardiograma de urgencia,45,"Registro del ritmo del corazón solicitado por el médico de turno, con entrega del trazo. La interpretación la realiza el médico."
+14,Traslado en ambulancia dentro de la ciudad,150,Traslado de paciente dentro de Cajamarca con personal de apoyo. Se coordina según disponibilidad de la unidad.
+15,Traslado en ambulancia a otra provincia,350,"Traslado programado o de urgencia hacia hospitales de otra provincia, con personal de apoyo. El precio se confirma según la distancia."
+16,Atención de emergencia pediátrica,85,"Atención de urgencias en niños por el personal de turno, con evaluación y indicaciones para los padres. Se deriva si el caso lo requiere."
+17,Inmovilización con férula,55,"Colocación de férula ante sospecha de lesión en brazos o piernas, hasta su evaluación con imágenes. Incluye el material de la férula básica."
+18,Observación en emergencia (por hora),40,Permanencia en el área de observación con monitoreo del personal mientras el paciente se estabiliza o espera derivación. Se cobra por hora iniciada.

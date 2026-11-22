@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué estás buscando?,Seleccionar,Maquillaje / Skincare / Cabello / Un kit completo
+2,¿Cómo lo recibes?,Seleccionar,Recojo en tienda / Delivery a domicilio
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Tiendas de Cosméticos y Maquillaje*
+*Producto:* Base líquida de maquillaje
+*Precio:* S/ 45
+*Características:* Base de cobertura media a alta en varios tonos. Te probamos el tono en tienda para que aciertes.
+— Respuestas del cliente —
+*¿Qué estás buscando?:* Maquillaje
+*¿Cómo lo recibes?:* Recojo en tienda
+*¿Cómo vas a pagar?:* Yape",,,

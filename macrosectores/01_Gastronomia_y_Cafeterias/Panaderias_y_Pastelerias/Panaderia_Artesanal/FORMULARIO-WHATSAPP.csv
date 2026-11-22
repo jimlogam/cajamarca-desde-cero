@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Cómo quieres recibir tu pedido?,Seleccionar,Recojo en tienda / Para llevar / A domicilio
+2,¿Es para hoy o un encargo programado?,Seleccionar,Para hoy / Encargo programado
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Panadería Artesanal*
+*Producto:* Pan francés (10 unidades)
+*Precio:* S/ 4
+*Características:* Crujiente por fuera y suave por dentro, horneado en la madrugada. El de todos los días.
+— Respuestas del cliente —
+*¿Cómo quieres recibir tu pedido?:* A domicilio
+*¿Es para hoy o un encargo programado?:* Para hoy
+*¿Cómo vas a pagar?:* Yape",,,

@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué servicio necesitas?,Seleccionar,Consulta general / Especialista / Chequeo preventivo / Ecografía o rayos X / Tópico y atenciones de heridas / Otro
+2,¿Dónde deseas la atención?,Seleccionar,En la clínica / A domicilio (en la casa del cliente)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Clínicas y Policlinicos*
+*Producto:* Consulta médica general
+*Precio:* S/ 50
+*Características:* Atención con médico general para molestias y controles de salud, con indicaciones y receta si corresponde. En la clínica o, según el servicio, a domicilio.
+— Respuestas del cliente —
+*¿Qué servicio necesitas?:* Consulta general
+*¿Dónde deseas la atención?:* A domicilio (en la casa del cliente)
+*¿Cómo vas a pagar?:* Yape",,,

@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué necesitas de la bodega hoy?,Seleccionar,Abarrotes por kilo / Pan y desayuno / Bebidas heladas / Limpieza y aseo / De todo un poco
+2,¿Cómo quieres recibir tu pedido?,Seleccionar,En el local / A domicilio
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Bodegas*
+*Producto:* Arroz extra por kilo
+*Precio:* S/ 4
+*Características:* Arroz graneadito, pesado al momento delante tuyo. Llévalo por kilo o por los kilos que necesite tu olla de la semana.
+— Respuestas del cliente —
+*¿Qué necesitas de la bodega hoy?:* Abarrotes por kilo
+*¿Cómo quieres recibir tu pedido?:* A domicilio
+*¿Cómo vas a pagar?:* Yape",,,

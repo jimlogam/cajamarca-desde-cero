@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué servicio necesitas?,Seleccionar,Depilación / Cejas / Pestañas
+2,¿Dónde te atendemos?,Seleccionar,En el local / A domicilio en mi casa
+3,¿Para cuándo quieres tu cita?,Seleccionar,Hoy mismo / Esta semana / La próxima semana
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Depilación y Cejas/Pestañas*
+*Producto:* Depilación con cera — piernas completas
+*Precio:* S/ 60
+*Características:* Cera tibia y técnica rápida para piernas suaves por 3 a 4 semanas, con crema calmante al final.
+— Respuestas del cliente —
+*¿Qué servicio necesitas?:* Depilación
+*¿Dónde te atendemos?:* En el local
+*¿Para cuándo quieres tu cita?:* Hoy mismo",,,

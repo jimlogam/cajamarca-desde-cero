@@ -1,0 +1,27 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Jugo de papaya,8,"Papaya madura licuada al momento, al agua o con leche. Dulce natural, sin trucos."
+2,Jugo de naranja,8,"Naranjas exprimidas al instante, sin agua añadida. Vitamina pura."
+3,Jugo de piña,8,"Piña fresca licuada bien fría, con su punto de hierbabuena si gustas."
+4,Jugo de maracuyá,9,"Maracuyá natural, ácido y refrescante, endulzado apenas."
+5,Jugo de mango,9,Mango de estación licuado cremoso. Solo cuando el mango está en su punto.
+6,Jugo de fresa con leche,10,Fresas frescas licuadas con leche. El favorito de los chicos.
+7,Jugo de lúcuma con leche,11,Lúcuma cremosa con leche y su toque de canela. Sabor a postre en vaso.
+8,Jugo surtido especial,12,"La mezcla de la casa: papaya, piña, naranja y fresa en un solo vaso grande."
+9,Batido de plátano,9,"Plátano con leche, miel y canela. Energía para empezar el día."
+10,Extracto verde detox,11,"Espinaca, pepino, manzana verde, apio y limón, recién extraído. Verde de verdad."
+11,Extracto de zanahoria y naranja,9,Zanahoria y naranja recién pasadas por el extractor. Dulce sin azúcar añadida.
+12,Limonada frozen,7,Limonada licuada con hielo hasta quedar escarchada.
+13,Chicha morada,5,"Chicha morada casera en vaso grande, bien helada."
+14,Emoliente,5,"Emoliente de cebada con hierbas, calientito y reconfortante."
+15,Agua de cebada,4,"Agua de cebada fresca con limón, en vaso grande. La de toda la vida."
+16,Ensalada de frutas,10,"Frutas de estación picadas al momento: papaya, piña, plátano, fresa y mango cuando hay."
+17,Ensalada de frutas con yogurt y granola,13,"Frutas frescas con yogurt natural, granola crocante y miel."
+18,Yogurt natural con frutas,9,Yogurt natural con frutas picadas y un toque de miel.
+19,Granola con leche,8,Granola crocante con leche fría y plátano en rodajas.
+20,Sándwich de pollo,10,"Pollo deshilachado con mayonesa en pan suave, con lechuga y tomate."
+21,Sándwich de queso cajamarquino,9,Queso de la zona derretido en pan tostado. Simple y buenazo.
+22,Triple de palta,11,"Tres pisos con palta, tomate y huevo. Fresco y llenador."
+23,Tostadas con mermelada,6,Tostadas crocantes con mantequilla y mermelada de fresa.
+24,Pan con tortilla de verduras,8,"Tortilla de verduras en pan francés, con su café o emoliente al lado si quieres."
+25,Pack de desayuno saludable a domicilio (5 días),60,"Cinco desayunos con jugo natural y sándwich, llevados a tu casa o a tu oficina cada mañana de lunes a viernes."
+26,Delivery a domicilio,4,"Tus jugos llegan a tu casa recién licuados, en envase sellado y bien fríos."

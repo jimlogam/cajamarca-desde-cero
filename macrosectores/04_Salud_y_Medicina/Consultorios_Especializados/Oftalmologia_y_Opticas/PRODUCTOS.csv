@@ -1,0 +1,19 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Medida de la vista computarizada,30,Medición de la vista con equipo computarizado y prueba de lentes para definir la medida. Entrega de la receta de medida.
+2,Consulta oftalmológica,70,"Evaluación completa de los ojos con el oftalmólogo, incluyendo fondo de ojo según el caso. Con indicaciones y receta si corresponde."
+3,Servicio de medida de la vista a domicilio,50,"Medición de la vista en la casa del cliente con equipo portátil, pensada para adultos mayores. Incluye la receta de medida."
+4,Lentes de medida con montura básica (desde),90,"Lunas de medida en montura básica seleccionada, elaboradas según la receta. Entrega en el plazo que se confirme al pedirlos."
+5,"Lunas antirreflejo (par, desde)",80,Lunas con tratamiento antirreflejo que reduce los brillos de pantallas y luces. Se elaboran según la medida del cliente.
+6,"Lunas blue block para pantallas (par, desde)",100,"Lunas con filtro para luz de pantallas, pensadas para quienes trabajan frente a la computadora. Según la medida del cliente."
+7,Lentes fotocromáticos (desde),160,"Lentes que se oscurecen con el sol y se aclaran en interiores, con la medida del cliente. Montura según elección."
+8,Lentes bifocales (desde),140,"Lentes para ver de lejos y de cerca en un solo par, elaborados según la receta. Incluye la medición previa."
+9,Lentes progresivos (desde),220,"Lentes con transición gradual entre lejos, intermedio y cerca, según la receta. Se explica el periodo de adaptación."
+10,Monturas para niños (desde),45,"Monturas resistentes y livianas en modelos para niños, en varios colores. Se ajustan a la medida de su rostro."
+11,Lentes de sol sin medida (desde),40,Lentes de sol con protección UV en modelos variados. Para uso diario y viajes.
+12,"Lentes de contacto (caja, desde)",70,"Lentes de contacto según la medida indicada, con explicación de colocación y cuidado. Marca y duración según disponibilidad."
+13,Líquido para lentes de contacto,25,"Solución de limpieza y conservación para lentes de contacto, frasco estándar. De venta en la óptica o con delivery."
+14,Ajuste y mantenimiento de lentes,15,"Ajuste de montura, cambio de plaquetas y tornillos, y limpieza profunda de lentes. Servicio rápido en la óptica."
+15,Reparación de montura (desde),25,Reparación de monturas rotas o desajustadas según el daño. Se confirma si tiene arreglo tras revisarla.
+16,Control de presión ocular,35,Medición de la presión del ojo como parte del control oftalmológico. El oftalmólogo explica el resultado en la misma visita.
+17,Examen para licencia de conducir,40,"Evaluación visual requerida para trámites de licencia de conducir, con emisión del documento correspondiente. Llevar DNI."
+18,Delivery de lentes a domicilio,10,Envío de los lentes terminados a la casa del cliente dentro de la ciudad. Se coordina el horario de entrega por WhatsApp.

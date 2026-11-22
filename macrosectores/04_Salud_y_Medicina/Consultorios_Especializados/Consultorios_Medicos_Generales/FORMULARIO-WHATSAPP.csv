@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué necesitas atender?,Seleccionar,Molestia o dolor / Control de presión o glucosa / Chequeo preventivo / Atención de herida o inyectable / Certificado médico / Otro
+2,¿Dónde deseas la atención?,Seleccionar,En el consultorio / A domicilio (en la casa del cliente) / Por videollamada
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Consultorios Médicos Generales*
+*Producto:* Consulta de medicina general
+*Precio:* S/ 40
+*Características:* Atención con médico general para molestias, controles y orientación de salud, con receta si corresponde. En el consultorio o a domicilio.
+— Respuestas del cliente —
+*¿Qué necesitas atender?:* Molestia o dolor
+*¿Dónde deseas la atención?:* A domicilio (en la casa del cliente)
+*¿Cómo vas a pagar?:* Yape",,,

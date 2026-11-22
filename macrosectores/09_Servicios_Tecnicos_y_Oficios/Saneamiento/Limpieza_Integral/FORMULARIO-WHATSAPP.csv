@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué quieres que limpiemos en tu domicilio o local?,Seleccionar,Casa o departamento / Oficina o local / Después de una obra / Muebles y alfombras
+2,¿De qué tamaño es el espacio?,Seleccionar,Hasta 80 m² / 80 a 150 m² / Más de 150 m²
+3,¿Deseas el servicio con regularidad (semanal o mensual)?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Limpieza Integral*
+*Producto:* Servicio de limpieza de casa
+*Precio:* S/ 90
+*Características:* Limpieza completa de ambientes, baños y cocina con personal de confianza y productos incluidos.
+— Respuestas del cliente —
+*¿Qué quieres que limpiemos en tu domicilio o local?:* Casa o departamento
+*¿De qué tamaño es el espacio?:* Hasta 80 m²
+*¿Deseas el servicio con regularidad (semanal o mensual)?:* No",,,

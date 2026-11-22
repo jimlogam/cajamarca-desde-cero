@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Buscas una joya para ti o para regalo?,Seleccionar,Para mí / Para regalo / Para un compromiso
+2,¿Qué metal prefieres?,Seleccionar,Oro 18k / Plata 950 / Acero
+3,¿Cómo prefieres que te atendamos?,Seleccionar,En la tienda / A domicilio
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Joyerías y Relojerías*
+*Producto:* Anillo de compromiso de oro 18k
+*Precio:* S/ 850
+*Características:* Anillo con circon o diamante a elección, incluye estuche y certificado. Lo hacemos a tu medida.
+— Respuestas del cliente —
+*¿Buscas una joya para ti o para regalo?:* Para regalo
+*¿Qué metal prefieres?:* Plata 950
+*¿Cómo prefieres que te atendamos?:* A domicilio",,,

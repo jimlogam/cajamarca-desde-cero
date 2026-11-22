@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Para qué nivel buscas vacante?,Seleccionar,Inicial / Primaria / Secundaria / Traslado de otro colegio
+2,¿Cómo quieres conocer el colegio?,Seleccionar,Visita al colegio / Asesoría a domicilio (vamos a tu casa) / Información por WhatsApp
+3,¿Cómo pagarías la matrícula?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Colegios Primaria y Secundaria*
+*Producto:* Matrícula inicial de primaria
+*Precio:* S/ 250
+*Características:* Reserva la vacante de tu hijo con evaluación de nivel y entrevista familiar incluidas en el proceso.
+— Respuestas del cliente —
+*¿Para qué nivel buscas vacante?:* Primaria
+*¿Cómo quieres conocer el colegio?:* Asesoría a domicilio (vamos a tu casa)
+*¿Cómo pagarías la matrícula?:* Transferencia",,,

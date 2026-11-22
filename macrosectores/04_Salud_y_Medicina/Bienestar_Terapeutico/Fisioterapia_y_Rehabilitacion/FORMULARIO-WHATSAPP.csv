@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué atención necesitas?,Seleccionar,Fisioterapia general / Dolor de espalda / Rodilla u hombro / Rehabilitación postoperatoria / Adulto mayor / Otra zona
+2,¿Dónde deseas la atención?,Seleccionar,En el centro / A domicilio (en la casa del cliente)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Fisioterapia y Rehabilitación*
+*Producto:* Sesión de fisioterapia general
+*Precio:* S/ 50
+*Características:* Sesión de 45 minutos con evaluación inicial del movimiento y ejercicios guiados según lo que indique el profesional. En el centro o a domicilio.
+— Respuestas del cliente —
+*¿Qué atención necesitas?:* Fisioterapia general
+*¿Dónde deseas la atención?:* A domicilio (en la casa del cliente)
+*¿Cómo vas a pagar?:* Yape",,,

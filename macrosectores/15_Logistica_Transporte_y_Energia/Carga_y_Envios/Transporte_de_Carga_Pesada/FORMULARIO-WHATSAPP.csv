@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué carga vas a mover?,Seleccionar,Materiales de construcción / Mercadería / Maquinaria / Productos agrícolas o ganado
+2,¿Dónde recogemos la carga?,Seleccionar,"A domicilio (tu almacén, obra o fundo) / En un punto coordinado"
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Transporte de Carga Pesada*
+*Producto:* Flete de camión de 5 toneladas (local)
+*Precio:* S/ 250
+*Características:* Camión cerrado o baranda para tu mercadería dentro de la ciudad y distritos cercanos.
+— Respuestas del cliente —
+*¿Qué carga vas a mover?:* Materiales de construcción
+*¿Dónde recogemos la carga?:* A domicilio (tu almacén, obra o fundo)
+*¿Cómo vas a pagar?:* Transferencia",,,

@@ -1,0 +1,19 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Hemograma completo,25,"Análisis de sangre que evalúa glóbulos rojos, blancos y plaquetas. Resultado el mismo día en horario coordinado."
+2,Glucosa en ayunas,12,Medición de glucosa en sangre con ayuno previo de 8 horas. Resultado el mismo día.
+3,Examen completo de orina,15,"Análisis físico y químico de la orina, solicitado con frecuencia en controles generales. Llevar la muestra en frasco estéril."
+4,Perfil lipídico,45,"Medición de colesterol total, HDL, LDL y triglicéridos con ayuno previo. Incluye el reporte impreso y digital."
+5,Prueba de embarazo en sangre,25,"Análisis de sangre para confirmar embarazo, más preciso que la prueba casera en etapas tempranas. Resultado el mismo día."
+6,Prueba de embarazo en orina,15,Prueba rápida de embarazo en orina realizada en el laboratorio. Resultado en minutos.
+7,Grupo sanguíneo y factor Rh,15,"Análisis que determina el grupo y factor de la sangre, solicitado para trámites y controles. Resultado el mismo día."
+8,Perfil hepático,55,"Conjunto de análisis relacionados con el hígado, solicitado por el médico tratante. Requiere ayuno previo."
+9,Perfil renal (urea y creatinina),35,Análisis de urea y creatinina para el control que indique el médico. Resultado el mismo día.
+10,Hemoglobina glicosilada (HbA1c),50,"Análisis que muestra el promedio de glucosa de los últimos meses, usado en controles de personas con diabetes. No requiere ayuno."
+11,Examen de heces (parasitológico),18,Análisis de muestra de heces solicitado en controles de niños y adultos. Se entrega el frasco y las indicaciones sin costo.
+12,Cultivo de orina (urocultivo),45,"Cultivo para identificar bacterias en la orina cuando el médico lo solicita. El resultado toma algunos días, que se informan al dejar la muestra."
+13,Perfil tiroideo básico,70,"Análisis de hormonas tiroideas TSH y T4 libre, según la orden del médico. Resultado en el plazo que se indique."
+14,Prueba de dengue (antígeno),40,Prueba de sangre solicitada ante cuadros de fiebre en temporada de dengue. La interpretación corresponde al médico tratante.
+15,Test de antígenos respiratorios,45,"Prueba rápida para virus respiratorios frecuentes, según disponibilidad de la temporada. Resultado en minutos."
+16,Paquete de chequeo básico,80,"Hemograma, glucosa, perfil lipídico básico y examen de orina en un solo paquete de control. Con ayuno previo de 8 a 10 horas."
+17,Servicio de toma de muestra a domicilio,20,"Personal del laboratorio acude a la casa del cliente para tomar la muestra, que se traslada con cadena de cuidado al laboratorio. Se suma al costo de los análisis."
+18,Envío de resultados por WhatsApp,0,Envío gratuito del reporte de resultados en PDF al WhatsApp del paciente. También se puede recoger impreso en el laboratorio.

@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Es para regalo o para tu casa?,Seleccionar,Regalo / Para mi casa / Para un evento
+2,¿Deseas que lo envolvamos para regalo sin costo?,Sí o No,Sí / No
+3,¿Cómo recibes tu pedido?,Seleccionar,Lo recojo en tienda / Entrega a domicilio
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Bazares y Regalos*
+*Producto:* Juego de tazas de cerámica (6 piezas)
+*Precio:* S/ 35
+*Características:* Seis tazas con sus platos en cerámica pintada a mano, diseños cajamarquinos. Vienen en caja lista para regalar.
+— Respuestas del cliente —
+*¿Es para regalo o para tu casa?:* Regalo
+*¿Deseas que lo envolvamos para regalo sin costo?:* Sí
+*¿Cómo recibes tu pedido?:* Entrega a domicilio",,,

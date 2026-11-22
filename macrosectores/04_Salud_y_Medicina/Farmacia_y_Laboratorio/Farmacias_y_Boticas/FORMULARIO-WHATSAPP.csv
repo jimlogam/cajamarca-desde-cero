@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué producto necesitas?,Seleccionar,Medicamento de venta libre / Cuidado e higiene / Equipo para casa / Atenciones de heridas / Otro producto
+2,¿Cómo deseas recibir tu pedido?,Seleccionar,Recojo en la farmacia / Delivery a domicilio (a la casa del cliente)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Farmacias y Boticas*
+*Producto:* Paracetamol 500 mg (blíster x 10)
+*Precio:* S/ 5
+*Características:* Analgésico y antipirético de venta libre en tabletas. Leer las indicaciones del envase y no exceder la dosis señalada.
+— Respuestas del cliente —
+*¿Qué producto necesitas?:* Medicamento de venta libre
+*¿Cómo deseas recibir tu pedido?:* Delivery a domicilio (a la casa del cliente)
+*¿Cómo vas a pagar?:* Yape",,,

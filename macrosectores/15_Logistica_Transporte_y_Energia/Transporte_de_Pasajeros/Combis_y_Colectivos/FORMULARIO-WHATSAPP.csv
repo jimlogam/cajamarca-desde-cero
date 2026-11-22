@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿A dónde vas?,Seleccionar,Dentro de la ciudad / Baños del Inca / Pueblos cercanos / Otra provincia
+2,¿Dónde te recogemos?,Seleccionar,En el paradero / Recojo a domicilio
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Combis y Colectivos*
+*Producto:* Pasaje urbano en combi (por persona)
+*Precio:* S/ 1.5
+*Características:* La ruta de todos los días por la ciudad, con paraderos conocidos y frecuencia seguida.
+— Respuestas del cliente —
+*¿A dónde vas?:* Baños del Inca
+*¿Dónde te recogemos?:* Recojo a domicilio
+*¿Cómo vas a pagar?:* Yape",,,

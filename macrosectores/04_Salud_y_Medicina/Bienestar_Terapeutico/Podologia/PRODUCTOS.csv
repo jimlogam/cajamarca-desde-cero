@@ -1,0 +1,19 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Consulta podológica general,50,"Evaluación del estado de pies y uñas, con recomendaciones de cuidado. En el consultorio o a domicilio según coordinación."
+2,Servicio de podología a domicilio,70,"Atención podológica en la casa del cliente, con instrumental llevado por el profesional. Pensado para adultos mayores y personas con movilidad reducida."
+3,Corte y cuidado de uñas (sesión),40,"Corte correcto de uñas, limpieza de bordes y limado. Sesión de cuidado general de los pies."
+4,Atención de uña encarnada (por pie),60,"Atención de la uña encarnada con limpieza de la zona y recomendaciones de cuidado posterior. Si el caso lo requiere, se deriva a un médico."
+5,Tratamiento de callosidades (sesión),50,Retiro cuidadoso de callos y durezas de la planta del pie. Incluye hidratación y recomendaciones de calzado.
+6,Cuidado del pie para personas con diabetes (sesión),65,"Revisión y cuidado suave de los pies de personas con diabetes, con orientación de revisión diaria en casa. No reemplaza el control con su médico."
+7,Sesión de hidratación profunda de pies,45,"Limpieza, exfoliación suave e hidratación de los pies. Sesión de cuidado general de aproximadamente 40 minutos."
+8,Atención de hongos en uñas (sesión inicial),60,"Evaluación de las uñas y limpieza de la zona afectada, con orientación sobre el cuidado en casa. El profesional indica si requiere atención médica."
+9,Plantillas de apoyo a medida (par),120,Evaluación de la pisada y elaboración de plantillas de apoyo según la medida del pie. Entrega en fecha coordinada.
+10,Evaluación de la pisada,50,"Observación de la forma de pisar y del desgaste del calzado, con recomendaciones. Útil para deportistas y personas que caminan mucho."
+11,Podología para deportistas (sesión),60,"Revisión de pies y uñas de deportistas, con cuidado de ampollas y durezas por entrenamiento. Incluye recomendaciones de calzado deportivo."
+12,Podología para adultos mayores (sesión),55,"Cuidado completo de pies y uñas para adultos mayores, con ritmo tranquilo. Disponible también a domicilio."
+13,Atención de verruga plantar (sesión),70,Evaluación y atención de la verruga plantar según el criterio del profesional. Se informa cuántas sesiones podría necesitar el caso.
+14,Masaje podal relajante (sesión),40,Masaje de pies de 30 minutos para aliviar la sensación de cansancio. Sesión de bienestar general.
+15,Retiro de durezas en talones (sesión),45,"Trabajo sobre talones resecos y con durezas, con hidratación al final. Incluye pautas de cuidado en casa."
+16,Control podológico de seguimiento,35,Revisión breve del avance tras una atención anterior. Dura aproximadamente 20 minutos.
+17,Paquete mensual de cuidado de pies,110,Dos sesiones al mes de cuidado de uñas y piel de los pies. Se puede alternar consultorio y domicilio.
+18,Educación en cuidado de pies (sesión),40,"Sesión de enseñanza de corte de uñas, higiene y elección de calzado, para el cliente o su familia. También a domicilio."

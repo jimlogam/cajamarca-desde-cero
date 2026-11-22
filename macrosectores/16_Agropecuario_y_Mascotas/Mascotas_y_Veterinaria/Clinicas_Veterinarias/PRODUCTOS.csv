@@ -1,0 +1,21 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Consulta veterinaria general,40,Revisión completa de tu mascota con diagnóstico claro y tratamiento explicado sin palabras difíciles.
+2,Consulta veterinaria a domicilio,70,"El veterinario va a tu casa: ideal para mascotas nerviosas, grandes o cuando no tienes cómo trasladarla."
+3,Vacuna antirrábica,25,"Vacuna obligatoria con certificado y registro, aplicada con la cadena de frío cuidada."
+4,Vacuna quíntuple para perros,45,"Protección contra moquillo, parvovirus y más enfermedades en una sola aplicación, con carné incluido."
+5,Vacuna triple felina,45,La protección esencial de tu gato contra las enfermedades virales más comunes y peligrosas.
+6,Desparasitación completa,20,"Desparasitación interna según peso y edad, con calendario para que no se te pase la siguiente dosis."
+7,Esterilización de perras,180,Cirugía segura con anestesia controlada y controles postoperatorios incluidos en el precio.
+8,Esterilización de gatas,150,Procedimiento rápido y seguro que evita camadas no deseadas y problemas de salud futuros.
+9,Castración de perros y gatos,120,Cirugía menor con recuperación rápida y todas las indicaciones para cuidarlo en casa.
+10,Cirugía general veterinaria (desde),250,"Cirugías programadas con evaluación previa, anestesia segura y monitoreo durante todo el procedimiento."
+11,Limpieza dental con ultrasonido,120,Adiós al sarro y al mal aliento: limpieza profunda con anestesia suave y pulido final.
+12,Radiografía veterinaria,80,"Placas para fracturas, displasia y cuerpos extraños, con informe del médico veterinario."
+13,Ecografía veterinaria,90,Ecografía abdominal y de preñez para saber cómo están tu mascota y sus crías por dentro.
+14,Análisis de sangre completo,100,Hemograma y bioquímica para diagnósticos precisos antes de cualquier tratamiento largo.
+15,Hospitalización con monitoreo (por día),60,"Tu mascota internada con suero, medicación y vigilancia del equipo durante todo el día."
+16,Atención de emergencias 24 horas,80,"Accidentes, envenenamientos y partos complicados atendidos a cualquier hora, todos los días."
+17,Tratamiento de fracturas,300,"Evaluación, radiografía y tratamiento ortopédico para que tu mascota vuelva a caminar bien."
+18,Certificado de salud para viaje,50,"Certificado oficial para viajar con tu mascota en bus o avión, con vacunas verificadas."
+19,Implante de microchip de identificación,90,Microchip con registro de tus datos para recuperar a tu mascota si algún día se pierde.
+20,Plan completo de vacunación para cachorros,120,"Todas las vacunas del primer año programadas con recordatorios, para que crezca protegido."

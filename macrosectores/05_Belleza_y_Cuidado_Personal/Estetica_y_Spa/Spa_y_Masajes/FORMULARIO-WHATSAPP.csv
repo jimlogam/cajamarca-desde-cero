@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué masaje o servicio buscas?,Seleccionar,Relajante / Descontracturante / Reductivo / Día de spa completo
+2,¿Dónde te atendemos?,Seleccionar,En el spa / A domicilio en mi casa
+3,¿Para cuándo quieres tu cita?,Seleccionar,Hoy mismo / Esta semana / Para una fecha especial
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Spa y Masajes*
+*Producto:* Masaje relajante (60 min)
+*Precio:* S/ 80
+*Características:* Masaje de cuerpo completo con aceites esenciales para soltar el estrés de la semana.
+— Respuestas del cliente —
+*¿Qué masaje o servicio buscas?:* Relajante
+*¿Dónde te atendemos?:* En el spa
+*¿Para cuándo quieres tu cita?:* Hoy mismo",,,

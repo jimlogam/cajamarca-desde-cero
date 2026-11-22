@@ -1,0 +1,19 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Consulta de medicina general,40,"Atención con médico general para molestias, controles y orientación de salud, con receta si corresponde. En el consultorio o a domicilio."
+2,Servicio de consulta médica a domicilio,80,"Consulta de medicina general en la casa del cliente, ideal para adultos mayores y niños. Se coordina zona y horario por WhatsApp."
+3,Consulta médica virtual,35,"Consulta por videollamada para orientación y seguimiento de molestias leves. Si el caso requiere examen presencial, se lo indicará el médico."
+4,Control de presión arterial,15,"Medición de presión arterial con registro escrito para su control. Atención rápida, también a domicilio."
+5,Control de glucosa capilar,15,Medición de glucosa con tira reactiva y orientación según el resultado. Pensado para personas en control.
+6,Chequeo general preventivo,100,"Consulta, medición de signos, peso y talla, más orden de análisis básicos con explicación de resultados. En una sola visita programada."
+7,Atención de resfrío y gripe,40,Evaluación de síntomas respiratorios comunes con indicaciones y receta si corresponde. Se atiende el mismo día según disponibilidad.
+8,Atención de problemas digestivos,40,"Evaluación de molestias como dolor abdominal, acidez o diarrea, con indicaciones de cuidado. Si hay signos de alarma, se deriva de inmediato."
+9,Atención de dolores musculares,40,"Evaluación de dolores de espalda, cuello y articulaciones por esfuerzo o postura. Incluye recomendaciones de cuidado en casa."
+10,Atención de heridas leves,30,Limpieza y atención de heridas pequeñas y cambio de apósitos. Incluye materiales básicos.
+11,Retiro de puntos,25,"Retiro de puntos de sutura tras una cirugía o herida, con revisión de la zona. Llevar la indicación de su médico si la tiene."
+12,Aplicación de inyectables,12,"Aplicación de medicamentos indicados con receta, por vía intramuscular o subcutánea. El paciente trae su medicamento."
+13,Nebulización (sesión),30,Sesión de nebulización indicada por el médico para molestias respiratorias de niños y adultos. En el consultorio o a domicilio.
+14,Electrocardiograma,40,Registro del ritmo del corazón con entrega del trazo para su médico tratante. Sin cita previa en horario de atención.
+15,Certificado médico para trabajo o colegio,30,Evaluación breve y emisión del certificado solicitado. Se emite tras la revisión del médico.
+16,Control de peso y medidas,20,"Medición de peso, talla e índice de masa corporal con orientación general de hábitos. Registro para controles siguientes."
+17,Visita de enfermería a domicilio,50,"Servicio de enfermería en la casa del cliente para atención de heridas, inyectables y control de signos según indicación. Se coordina por WhatsApp."
+18,Paquete de control mensual crónico,90,"Dos consultas al mes para personas en control de presión alta o diabetes, con medición de signos en cada visita. En consultorio o a domicilio."

@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué necesitas?,Seleccionar,Ventanas / Puertas y mamparas / Espejos y vidrios sueltos
+2,¿Deseas que tomemos las medidas en tu casa?,Sí o No,Sí / No
+3,¿Prefieres aluminio o vidrio templado?,Seleccionar,Aluminio / Vidrio templado / Todavía no lo sé
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Vidrierías y Aluminio*
+*Producto:* Ventana de aluminio corrediza (m²)
+*Precio:* S/ 220
+*Características:* Ventanas que corren suaves por años, con vidrio y malla mosquitero. Precio por m² instalada.
+— Respuestas del cliente —
+*¿Qué necesitas?:* Ventanas
+*¿Deseas que tomemos las medidas en tu casa?:* Sí
+*¿Prefieres aluminio o vidrio templado?:* Aluminio",,,

@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué plan tienes?,Seleccionar,Salir con amigos / Cumpleaños / Fiesta privada / Mesa VIP
+2,¿Dónde es la fiesta?,Seleccionar,En la discoteca / A domicilio (llevamos la fiesta a tu casa o local)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Discotecas y Clubs*
+*Producto:* Entrada general
+*Precio:* S/ 20
+*Características:* Acceso a la pista con el DJ de la casa y el mejor ambiente de la noche cajamarquina.
+— Respuestas del cliente —
+*¿Qué plan tienes?:* Cumpleaños
+*¿Dónde es la fiesta?:* A domicilio (llevamos la fiesta a tu casa o local)
+*¿Cómo vas a pagar?:* Yape",,,

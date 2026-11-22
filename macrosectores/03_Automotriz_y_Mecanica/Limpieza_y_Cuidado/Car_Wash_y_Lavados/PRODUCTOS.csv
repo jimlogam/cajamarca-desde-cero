@@ -1,0 +1,23 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Lavado básico exterior,20,"Lavado exterior con shampoo de pH neutro, enjuague y secado a mano. Tu vehículo sale limpio sin rayar la pintura."
+2,Lavado completo exterior e interior,35,"Lavado exterior, aspirado de interiores, limpieza de tableros y vidrios por dentro y por fuera. El lavado que la mayoría de nuestros clientes pide."
+3,Lavado premium con cera,50,Lavado completo más cera protectora aplicada a mano. La pintura queda brillando y protegida del sol y la lluvia por semanas.
+4,Lavado de salón completo,70,"Lavado profundo de todo el interior: asientos, techo, alfombras y maletera. Ideal después de un viaje o antes de vender tu vehículo."
+5,Lavado de motor,40,Desengrase y lavado del motor con cuidado de no mojar la parte eléctrica. Un motor limpio también ayuda a detectar fugas a tiempo.
+6,Lavado de chasis,45,"Lavado de la parte baja del vehículo, quitando barro y tierra acumulados. Muy pedido después de viajes a la sierra o en época de lluvias."
+7,Aspirado profundo de interiores,25,"Aspirado a fondo de asientos, alfombras y rincones, con cepillado de tapetes. Sacamos hasta la tierra que no se ve."
+8,Lavado de tapiz y asientos,90,Lavado de asientos de tela con máquina de inyección y extracción. Las manchas salen y el tapiz queda sin olor a humedad.
+9,Desinfección interior con vapor,60,"Desinfección de todo el interior con vapor, sin químicos fuertes. Recomendado si viajan niños o si el vehículo estuvo guardado."
+10,Encerado con cera de carnauba,45,"Aplicación de cera de carnauba a mano, panel por panel. Brillo profundo y protección para la pintura de tu vehículo."
+11,Lavado completo para camioneta o SUV,45,"Lavado exterior e interior pensado para vehículos grandes, incluyendo tolva y tercera fila de asientos. Mismo cuidado, tamaño completo."
+12,Lavado de moto,15,Lavado de moto con secado y engrase ligero de cadena. Sale limpia y lista para seguir trabajando.
+13,Lavado de mototaxi o carguera,18,"Lavado completo de mototaxi o carguera, incluyendo tolva o cabina de pasajeros. Trabajo rápido para que no pierdas el día."
+14,Limpieza y pulido de faros opacos,40,Pulimos los faros amarillentos y opacos para que vuelvan a alumbrar como debe ser. Diferencia que se nota la primera noche.
+15,Hidratación de plásticos y cueros,35,"Tratamiento para tableros, plásticos y asientos de cuero: los deja hidratados y sin ese brillo grasoso barato."
+16,Lavado a domicilio básico,35,"Lavamos tu vehículo en la puerta de tu casa, con nuestros implementos. Solo necesitamos un punto de agua y espacio para trabajar."
+17,Lavado a domicilio completo,55,"El lavado completo de nuestro local, pero en tu casa: exterior, interior, aspirado y vidrios. Tú no mueves el vehículo de tu cochera."
+18,Lavado a domicilio premium con cera,75,Lavado completo a domicilio con cera aplicada a mano. Para quienes quieren su vehículo impecable sin salir de casa.
+19,Lavado de flota para empresas (por vehículo),18,"Lavado básico programado para flotas de 5 vehículos a más, en tu local o en el nuestro. Precio por vehículo con contrato mensual."
+20,Retiro de manchas difíciles de asientos,50,"Tratamiento puntual de manchas de comida, tinta o bebidas en asientos de tela o cuero. Revisamos la mancha contigo antes de empezar."
+21,Lavado post-viaje con barro de carretera,55,"Lavado completo para vehículos que llegaron de viaje con barro hasta el techo: exterior, chasis e interior. Lo dejamos como antes del viaje."
+22,Aromatizado y detalle final interior,15,"Toque final: aromatizante de larga duración, limpieza de vidrios interiores y detalle de tableros. El vehículo huele a nuevo otra vez."

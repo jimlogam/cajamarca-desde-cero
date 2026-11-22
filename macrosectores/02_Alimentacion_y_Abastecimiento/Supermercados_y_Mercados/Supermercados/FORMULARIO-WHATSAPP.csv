@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Cómo quieres hacer tu compra del súper?,Seleccionar,Compra grande del mes / Solo lo que me falta / Compra para una fiesta o reunión / Productos de limpieza y hogar
+2,¿Cómo quieres recibir tu pedido?,Seleccionar,En el local / A domicilio
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Supermercados*
+*Producto:* Canasta familiar mensual
+*Precio:* S/ 320
+*Características:* La compra grande del mes en un solo carrito: abarrotes, menestras, limpieza y aseo para una familia de cuatro. Te la armamos según tu lista.
+— Respuestas del cliente —
+*¿Cómo quieres hacer tu compra del súper?:* Compra grande del mes
+*¿Cómo quieres recibir tu pedido?:* A domicilio
+*¿Cómo vas a pagar?:* Yape",,,

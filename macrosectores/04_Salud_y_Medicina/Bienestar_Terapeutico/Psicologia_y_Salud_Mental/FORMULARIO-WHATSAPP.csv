@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué tipo de atención buscas?,Seleccionar,Sesión individual / Pareja / Familia / Niños o adolescentes / Evaluación e informe / Orientación vocacional
+2,¿Dónde deseas la atención?,Seleccionar,En el consultorio / A domicilio (en la casa del cliente) / Por videollamada
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Psicología y Salud Mental*
+*Producto:* Sesión de psicología individual
+*Precio:* S/ 70
+*Características:* Sesión de 50 minutos para conversar sobre lo que la persona está viviendo y trabajar estrategias de afrontamiento. En consultorio, a domicilio o virtual.
+— Respuestas del cliente —
+*¿Qué tipo de atención buscas?:* Sesión individual
+*¿Dónde deseas la atención?:* A domicilio (en la casa del cliente)
+*¿Cómo vas a pagar?:* Yape",,,

@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué problema tienes?,Seleccionar,Fuga o filtración / Desagüe tapado / Instalación nueva / Terma o grifería
+2,¿Es urgente?,Sí o No,Sí / No
+3,¿Deseas el servicio a domicilio hoy mismo?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Gasfiteros y Plomeros*
+*Producto:* Servicio de destape de desagües
+*Precio:* S/ 70
+*Características:* Destapamos con máquina rotativa sin romper pisos, con garantía del trabajo.
+— Respuestas del cliente —
+*¿Qué problema tienes?:* Desagüe tapado
+*¿Es urgente?:* Sí
+*¿Deseas el servicio a domicilio hoy mismo?:* Sí",,,

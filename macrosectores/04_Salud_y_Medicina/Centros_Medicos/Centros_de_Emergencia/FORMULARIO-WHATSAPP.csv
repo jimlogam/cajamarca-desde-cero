@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué emergencia necesitas atender?,Seleccionar,Dolor o malestar súbito / Herida o golpe / Problema respiratorio / Fiebre en niño o adulto / Traslado en ambulancia / Otra urgencia
+2,¿Dónde se necesita la atención?,Seleccionar,En el centro de emergencia / A domicilio (en la casa del cliente) / Traslado desde mi ubicación
+3,¿La atención es inmediata?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Centros de Emergencia*
+*Producto:* Atención de emergencia general
+*Precio:* S/ 80
+*Características:* Atención inmediata de urgencias como dolores intensos, caídas o malestares súbitos, con evaluación del personal de turno. El costo final depende de los procedimientos que el caso requiera.
+— Respuestas del cliente —
+*¿Qué emergencia necesitas atender?:* Dolor o malestar súbito
+*¿Dónde se necesita la atención?:* A domicilio (en la casa del cliente)
+*¿La atención es inmediata?:* Sí",,,

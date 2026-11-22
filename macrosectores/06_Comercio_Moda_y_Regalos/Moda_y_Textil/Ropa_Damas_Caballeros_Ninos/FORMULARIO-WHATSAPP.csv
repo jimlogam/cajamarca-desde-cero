@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Para quién buscas ropa?,Seleccionar,Dama / Caballero / Niño / Niña
+2,¿Qué prenda necesitas?,Seleccionar,Ropa casual / Ropa de vestir / Ropa de invierno / Ropa interior
+3,¿Cómo prefieres tu compra?,Seleccionar,En tienda / A domicilio
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Ropa para Damas, Caballeros y Niños*
+*Producto:* Jean para dama skinny
+*Precio:* S/ 75
+*Características:* Jean con stretch que se amolda sin apretar, tiro alto que estiliza.
+— Respuestas del cliente —
+*¿Para quién buscas ropa?:* Dama
+*¿Qué prenda necesitas?:* Ropa de invierno
+*¿Cómo prefieres tu compra?:* A domicilio",,,

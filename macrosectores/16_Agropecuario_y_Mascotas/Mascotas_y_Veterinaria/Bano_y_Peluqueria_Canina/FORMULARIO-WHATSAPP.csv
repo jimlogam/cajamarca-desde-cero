@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿De qué tamaño es tu mascota?,Seleccionar,Pequeña / Mediana / Grande / Es un gato
+2,¿Cómo atendemos a tu mascota?,Seleccionar,La traigo al local / Recojo a domicilio / Baño a domicilio en mi casa
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Baño y Peluquería Canina*
+*Producto:* Baño completo para perro pequeño
+*Precio:* S/ 30
+*Características:* Baño con shampoo suave, secado, cepillado y perfume; tu engreído sale limpio y feliz, sin estrés.
+— Respuestas del cliente —
+*¿De qué tamaño es tu mascota?:* Mediana
+*¿Cómo atendemos a tu mascota?:* Baño a domicilio en mi casa
+*¿Cómo vas a pagar?:* Yape",,,

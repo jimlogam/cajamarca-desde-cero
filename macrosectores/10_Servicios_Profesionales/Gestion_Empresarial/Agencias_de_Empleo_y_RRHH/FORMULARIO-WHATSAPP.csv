@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Quién eres?,Seleccionar,Empresa que busca personal / Persona que busca trabajo
+2,¿Cómo te atendemos?,Seleccionar,En la agencia / A domicilio (vamos a tu empresa) / Virtual
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Agencias de Empleo y RRHH*
+*Producto:* Servicio de selección de personal (por puesto)
+*Precio:* S/ 300
+*Características:* Publicamos, filtramos y entrevistamos por ti; te presentamos una terna de candidatos listos para contratar.
+— Respuestas del cliente —
+*¿Quién eres?:* Empresa que busca personal
+*¿Cómo te atendemos?:* A domicilio (vamos a tu empresa)
+*¿Cómo vas a pagar?:* Transferencia",,,

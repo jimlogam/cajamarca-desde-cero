@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué servicio buscas?,Seleccionar,Corte / Tinte o mechas / Alisado / Peinado para evento
+2,¿Dónde te atendemos?,Seleccionar,En el local / A domicilio en mi casa
+3,¿Para cuándo lo necesitas?,Seleccionar,Hoy mismo / Esta semana / Para un evento con fecha
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Peluquerías y Salones Unisex*
+*Producto:* Corte de cabello damas
+*Precio:* S/ 35
+*Características:* Corte según tu rostro y estilo, con lavado y cepillado final. Trae tu referencia y lo adaptamos a ti.
+— Respuestas del cliente —
+*¿Qué servicio buscas?:* Corte
+*¿Dónde te atendemos?:* En el local
+*¿Para cuándo lo necesitas?:* Hoy mismo",,,

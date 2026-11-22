@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué atención dental necesitas?,Seleccionar,Evaluación / Limpieza / Dolor dental / Restauración o extracción / Ortodoncia / Prótesis o corona
+2,¿Dónde deseas la primera atención?,Seleccionar,"En el consultorio / A domicilio (en la casa del cliente, solo evaluación)"
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Consultorios Dentales y Odontológicos*
+*Producto:* Consulta dental y evaluación
+*Precio:* S/ 30
+*Características:* Revisión completa de dientes y encías con explicación del estado de la boca y presupuesto sin compromiso. En el consultorio.
+— Respuestas del cliente —
+*¿Qué atención dental necesitas?:* Evaluación
+*¿Dónde deseas la primera atención?:* A domicilio (en la casa del cliente, solo evaluación)
+*¿Cómo vas a pagar?:* Yape",,,

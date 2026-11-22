@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué servicio necesitas?,Seleccionar,Carrera ahora / Aeropuerto o terminal / Servicio por horas / Plan mensual
+2,¿Dónde te recogemos?,Seleccionar,A domicilio (en tu casa u hotel) / En un punto de la ciudad
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Taxis y Remises*
+*Producto:* Carrera corta dentro de la ciudad
+*Precio:* S/ 6
+*Características:* Te llevamos a donde necesites dentro de Cajamarca con tarifa clara desde que pides el servicio.
+— Respuestas del cliente —
+*¿Qué servicio necesitas?:* Carrera ahora
+*¿Dónde te recogemos?:* A domicilio (en tu casa u hotel)
+*¿Cómo vas a pagar?:* Yape",,,

@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Es para ahora o un encargo para un evento?,Seleccionar,Para ahora / Encargo para un evento
+2,¿Cómo quieres recibirlo?,Seleccionar,En el local / Para llevar / A domicilio
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Snacks y Piques*
+*Producto:* Cancha serrana con queso
+*Precio:* S/ 8
+*Características:* Maíz serrano tostado al punto con cubos de queso cajamarquino. El piqueo más nuestro.
+— Respuestas del cliente —
+*¿Es para ahora o un encargo para un evento?:* Para ahora
+*¿Cómo quieres recibirlo?:* A domicilio
+*¿Cómo vas a pagar?:* Plin",,,

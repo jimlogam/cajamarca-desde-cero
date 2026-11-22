@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué vas a pintar?,Seleccionar,Interior de casa / Fachada / Muebles y puertas / Techo
+2,¿Necesitas ayuda para calcular la cantidad?,Sí o No,Sí / No
+3,¿Deseas delivery a tu casa u obra?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Pinturas y Barnices*
+*Producto:* Pintura látex premium (galón)
+*Precio:* S/ 65
+*Características:* Látex lavable que cubre en dos manos y no salpica. Colores preparados al instante.
+— Respuestas del cliente —
+*¿Qué vas a pintar?:* Interior de casa
+*¿Necesitas ayuda para calcular la cantidad?:* Sí
+*¿Deseas delivery a tu casa u obra?:* Sí",,,

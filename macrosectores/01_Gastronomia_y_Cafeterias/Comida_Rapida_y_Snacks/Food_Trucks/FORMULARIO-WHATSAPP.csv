@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Dónde te atendemos?,Seleccionar,En el truck / A domicilio / En mi evento
+2,¿Para cuántas personas es el pedido?,Seleccionar,1 persona / 2 personas / 3 a 5 personas / Más de 5 personas
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Food Trucks*
+*Producto:* Hamburguesa truck clásica
+*Precio:* S/ 14
+*Características:* Carne smash a la plancha con queso cheddar, cebolla caramelizada y salsa del truck, con papas.
+— Respuestas del cliente —
+*¿Dónde te atendemos?:* A domicilio
+*¿Para cuántas personas es el pedido?:* 2 personas
+*¿Cómo vas a pagar?:* Yape",,,

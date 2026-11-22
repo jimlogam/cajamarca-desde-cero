@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Cómo quieres recibir tu pedido?,Seleccionar,En el local / Para llevar / A domicilio
+2,¿La carne en qué término la quieres?,Seleccionar,Al punto / Término medio / Bien cocida
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Hamburguesas y Sándwiches*
+*Producto:* Hamburguesa clásica
+*Precio:* S/ 13
+*Características:* Carne de res a la plancha con queso, lechuga, tomate y papas fritas. La base de todo, bien hecha.
+— Respuestas del cliente —
+*¿Cómo quieres recibir tu pedido?:* A domicilio
+*¿La carne en qué término la quieres?:* Término medio
+*¿Cómo vas a pagar?:* Yape",,,

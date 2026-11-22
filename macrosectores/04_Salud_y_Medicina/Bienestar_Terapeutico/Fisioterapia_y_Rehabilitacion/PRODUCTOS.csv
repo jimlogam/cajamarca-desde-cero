@@ -1,0 +1,19 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Sesión de fisioterapia general,50,Sesión de 45 minutos con evaluación inicial del movimiento y ejercicios guiados según lo que indique el profesional. En el centro o a domicilio.
+2,Servicio de fisioterapia a domicilio,70,"Sesión de fisioterapia en la casa del cliente, con ejercicios guiados y pautas para continuar en casa. Se coordina horario por WhatsApp."
+3,Evaluación fisioterapéutica inicial,40,"Valoración del movimiento, la fuerza y el dolor referido por el paciente. Al final se propone un plan de sesiones según el caso."
+4,Sesión de terapia para dolor de espalda,55,Sesión orientada a la zona lumbar o cervical con técnicas manuales y ejercicios suaves. La cantidad de sesiones la define el profesional tras evaluar.
+5,Sesión de terapia para rodilla,55,"Trabajo de movilidad y fortalecimiento alrededor de la rodilla, con ejercicios progresivos. Se ajusta a la tolerancia de cada persona."
+6,Sesión de terapia para hombro,55,Movilización guiada del hombro y ejercicios de fortalecimiento progresivo. Se trabaja dentro del rango que la persona tolera.
+7,Rehabilitación postoperatoria (sesión),60,"Sesión de acompañamiento tras una cirugía, siguiendo las indicaciones del médico tratante. Se avanza por etapas según la evolución."
+8,Rehabilitación tras esguince (sesión),50,Sesión para recuperar movilidad y fuerza después de un esguince. Incluye ejercicios guiados y recomendaciones para el cuidado en casa.
+9,Terapia con agentes físicos (sesión),45,"Aplicación de calor, frío o electroterapia según la evaluación del profesional. Sesión de aproximadamente 30 minutos."
+10,Masaje terapéutico descontracturante,45,"Masaje enfocado en zonas con tensión muscular como espalda, cuello y hombros. Sesión de 40 minutos en camilla."
+11,Ejercicio terapéutico guiado (sesión),40,"Rutina de ejercicios supervisada para mejorar fuerza, equilibrio y movilidad. Pensada para adultos y adultos mayores."
+12,Plan de 5 sesiones de fisioterapia,225,Paquete de 5 sesiones con seguimiento del avance en cada visita. Se puede combinar atención en el centro y a domicilio.
+13,Plan de 10 sesiones de fisioterapia,420,Paquete de 10 sesiones con evaluaciones de avance periódicas. El ritmo de las sesiones lo define el profesional según el caso.
+14,Sesión de fisioterapia para adulto mayor,50,"Sesión suave de movilidad, equilibrio y fortalecimiento, pensada para adultos mayores. También disponible a domicilio."
+15,Sesión de fisioterapia deportiva,60,"Sesión para deportistas con trabajo de movilidad, fuerza y prevención de molestias por entrenamiento. Incluye pauta de ejercicios."
+16,Vendaje funcional (aplicación),25,"Colocación de vendaje de soporte para tobillo, rodilla o muñeca. Incluye explicación de cuidados y tiempo de uso."
+17,Evaluación de postura y marcha,45,"Observación de la postura y la forma de caminar, con recomendaciones de ejercicios y hábitos. Entrega de pautas por escrito."
+18,Sesión de estiramientos guiados,35,Sesión de estiramientos asistidos para mejorar la flexibilidad general. Apta para personas con trabajo sedentario.

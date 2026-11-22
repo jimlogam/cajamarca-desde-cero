@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué vehículo hay que auxiliar?,Seleccionar,Auto / Camioneta o SUV / Moto / Camión o furgón
+2,¿Qué servicio necesitas?,Seleccionar,Auxilio en el lugar / Auxilio a domicilio (en mi casa) / Traslado en grúa al taller
+3,"¿Es urgente, lo necesitas ahora mismo?",Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Grúas y Auxilio Mecánico*
+*Producto:* Servicio de grúa plataforma dentro de la ciudad
+*Precio:* S/ 80
+*Características:* Traslado en plataforma dentro de Cajamarca, sin arrastrar tu vehículo. Lo subimos y aseguramos con fajas para que llegue sin un rayón más.
+— Respuestas del cliente —
+*¿Qué vehículo hay que auxiliar?:* Auto
+*¿Qué servicio necesitas?:* Auxilio en el lugar
+*¿Es urgente, lo necesitas ahora mismo?:* Sí",,,

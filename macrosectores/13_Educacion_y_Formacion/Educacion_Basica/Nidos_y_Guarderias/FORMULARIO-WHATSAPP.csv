@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué edad tiene tu pequeño?,Seleccionar,Menos de 1 año / De 1 a 2 años / De 3 a 5 años
+2,¿Qué horario necesitas?,Seleccionar,Medio turno mañana / Medio turno tarde / Jornada completa / Solo por horas
+3,¿Quieres recojo y retorno a domicilio?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Nidos y Guarderías*
+*Producto:* Matrícula anual de nido
+*Precio:* S/ 200
+*Características:* Asegura el cupo de tu pequeño con evaluación del desarrollo y reunión de adaptación para la familia.
+— Respuestas del cliente —
+*¿Qué edad tiene tu pequeño?:* De 3 a 5 años
+*¿Qué horario necesitas?:* Jornada completa
+*¿Quieres recojo y retorno a domicilio?:* Sí",,,

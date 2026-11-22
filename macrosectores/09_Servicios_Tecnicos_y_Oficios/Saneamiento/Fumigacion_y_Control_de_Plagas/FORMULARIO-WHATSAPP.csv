@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué plaga te preocupa?,Seleccionar,Cucarachas / Roedores / Termitas y polilla / Pulgas y garrapatas / Otra plaga
+2,¿Dónde hacemos el servicio?,Seleccionar,En mi casa / En mi negocio o restaurante / En mi almacén
+3,¿Deseas certificado de fumigación para tu licencia?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Fumigación y Control de Plagas*
+*Producto:* Servicio de fumigación de vivienda
+*Precio:* S/ 120
+*Características:* Eliminamos cucarachas, arañas y hormigas de toda la casa con productos seguros para niños y mascotas.
+— Respuestas del cliente —
+*¿Qué plaga te preocupa?:* Cucarachas
+*¿Dónde hacemos el servicio?:* En mi negocio o restaurante
+*¿Deseas certificado de fumigación para tu licencia?:* Sí",,,

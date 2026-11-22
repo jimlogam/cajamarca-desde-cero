@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué problema tiene tu vehículo?,Seleccionar,No arranca / Pierde fuerza o consume mucho / Hace ruidos extraños / Le toca mantenimiento
+2,¿Dónde lo atendemos?,Seleccionar,En el taller / A domicilio (mecánico en mi casa)
+3,¿Es urgente?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Talleres Mecánicos Generales*
+*Producto:* Diagnóstico general con escáner
+*Precio:* S/ 50
+*Características:* Escaneamos tu vehículo y revisamos los puntos clave hasta dar con la falla. Diagnóstico honesto: te mostramos lo que encontramos.
+— Respuestas del cliente —
+*¿Qué problema tiene tu vehículo?:* No arranca
+*¿Dónde lo atendemos?:* En el taller
+*¿Es urgente?:* Sí",,,

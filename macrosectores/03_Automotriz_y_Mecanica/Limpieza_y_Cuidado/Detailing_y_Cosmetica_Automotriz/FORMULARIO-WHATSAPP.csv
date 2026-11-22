@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué vehículo es?,Seleccionar,Auto / Camioneta o SUV / Moto
+2,¿Dónde hacemos el detailing?,Seleccionar,En el taller / A domicilio (en mi casa)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Detailing y Cosmética Automotriz*
+*Producto:* Pulido de pintura de un paso
+*Precio:* S/ 180
+*Características:* Pulido ligero que recupera el brillo y borra las marcas finas de lavado. Ideal para vehículos con la pintura solo opaca.
+— Respuestas del cliente —
+*¿Qué vehículo es?:* Auto
+*¿Dónde hacemos el detailing?:* En el taller
+*¿Cómo vas a pagar?:* Yape",,,

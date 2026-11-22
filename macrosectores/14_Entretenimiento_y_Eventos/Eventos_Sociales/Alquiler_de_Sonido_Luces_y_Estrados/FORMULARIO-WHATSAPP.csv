@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué tipo de evento es?,Seleccionar,Matrimonio / Quinceañero o cumpleaños / Fiesta o concierto / Evento institucional
+2,¿Dónde es el evento?,Seleccionar,En un local / A domicilio (en tu casa o fundo)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Alquiler de Sonido, Luces y Estrados*
+*Producto:* Alquiler de sonido básico (hasta 100 invitados)
+*Precio:* S/ 250
+*Características:* Equipo compacto y potente para casas y locales pequeños, con micrófono y operador que lo deja sonando perfecto.
+— Respuestas del cliente —
+*¿Qué tipo de evento es?:* Matrimonio
+*¿Dónde es el evento?:* A domicilio (en tu casa o fundo)
+*¿Cómo vas a pagar?:* Yape",,,

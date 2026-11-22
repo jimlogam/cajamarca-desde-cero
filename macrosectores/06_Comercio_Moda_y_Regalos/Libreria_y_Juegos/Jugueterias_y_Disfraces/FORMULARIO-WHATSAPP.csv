@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Para qué edad es el juguete?,Seleccionar,0 a 2 años / 3 a 5 años / 6 a 9 años / 10 años a más
+2,¿Es para niño o niña?,Seleccionar,Niño / Niña / Unisex
+3,¿Cómo recibes tu compra?,Seleccionar,En tienda / Entrega a domicilio
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Jugueterías y Disfraces*
+*Producto:* Carro a control remoto
+*Precio:* S/ 75
+*Características:* Carro recargable con control de buen alcance, luces y llantas todo terreno.
+— Respuestas del cliente —
+*¿Para qué edad es el juguete?:* 3 a 5 años
+*¿Es para niño o niña?:* Niña
+*¿Cómo recibes tu compra?:* Entrega a domicilio",,,

@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué análisis necesitas?,Seleccionar,Análisis de sangre / Examen de orina o heces / Prueba de embarazo / Paquete de chequeo / Otro análisis
+2,¿Dónde deseas la toma de muestra?,Seleccionar,En el laboratorio / A domicilio (en la casa del cliente)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Laboratorios Clínicos y Análisis*
+*Producto:* Hemograma completo
+*Precio:* S/ 25
+*Características:* Análisis de sangre que evalúa glóbulos rojos, blancos y plaquetas. Resultado el mismo día en horario coordinado.
+— Respuestas del cliente —
+*¿Qué análisis necesitas?:* Análisis de sangre
+*¿Dónde deseas la toma de muestra?:* A domicilio (en la casa del cliente)
+*¿Cómo vas a pagar?:* Yape",,,

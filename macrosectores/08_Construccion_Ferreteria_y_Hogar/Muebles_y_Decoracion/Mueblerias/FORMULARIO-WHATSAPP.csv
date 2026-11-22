@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué mueble buscas?,Seleccionar,Sala / Dormitorio / Comedor / Oficina
+2,¿Lo necesitas para entrega inmediata o por encargo a medida?,Seleccionar,Entrega inmediata / Por encargo a medida
+3,¿Deseas que lo llevemos e instalemos en tu casa?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Mueblerías*
+*Producto:* Juego de sala 3-2-1
+*Precio:* S/ 1800
+*Características:* Sofás con espuma de alta densidad que no se hunde a los meses, tapizados en tela o cuerina.
+— Respuestas del cliente —
+*¿Qué mueble buscas?:* Dormitorio
+*¿Lo necesitas para entrega inmediata o por encargo a medida?:* Por encargo a medida
+*¿Deseas que lo llevemos e instalemos en tu casa?:* Sí",,,

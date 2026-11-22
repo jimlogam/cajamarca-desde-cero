@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Para quién es el calzado?,Seleccionar,Dama / Caballero / Niño o niña
+2,¿Qué talla buscas?,Seleccionar,35 a 38 / 39 a 42 / 43 a más / Talla de niño
+3,¿Cómo quieres tu compra?,Seleccionar,La recojo en tienda / Envío a domicilio
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Calzado y Zapaterías*
+*Producto:* Zapatillas urbanas para caballero
+*Precio:* S/ 120
+*Características:* Suela antideslizante y plantilla acolchada para caminar todo el día sin cansarte.
+— Respuestas del cliente —
+*¿Para quién es el calzado?:* Caballero
+*¿Qué talla buscas?:* 39 a 42
+*¿Cómo quieres tu compra?:* Envío a domicilio",,,

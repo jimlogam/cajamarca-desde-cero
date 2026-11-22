@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué quieres ver o hacer?,Seleccionar,Una película / Obra o concierto / Función privada / Un taller
+2,¿Dónde lo disfrutas?,Seleccionar,En la sala / A domicilio (cine en tu casa)
+3,¿Cómo vas a pagar?,Seleccionar,Yape / Plin / Tarjeta / Transferencia
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Cines y Centros Culturales*
+*Producto:* Entrada general al cine
+*Precio:* S/ 14
+*Características:* Las películas de estreno en sala cómoda con sonido que se siente, en el corazón de Cajamarca.
+— Respuestas del cliente —
+*¿Qué quieres ver o hacer?:* Una película
+*¿Dónde lo disfrutas?:* A domicilio (cine en tu casa)
+*¿Cómo vas a pagar?:* Tarjeta",,,

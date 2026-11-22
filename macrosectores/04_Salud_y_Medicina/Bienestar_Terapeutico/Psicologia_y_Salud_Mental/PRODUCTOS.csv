@@ -1,0 +1,19 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Sesión de psicología individual,70,"Sesión de 50 minutos para conversar sobre lo que la persona está viviendo y trabajar estrategias de afrontamiento. En consultorio, a domicilio o virtual."
+2,Servicio de psicología a domicilio,95,"Sesión psicológica en la casa del cliente, en un espacio privado y tranquilo. Se coordina horario y zona por WhatsApp."
+3,Sesión de psicología virtual,60,"Sesión por videollamada de 50 minutos, con la misma confidencialidad que la presencial. Se envía el enlace tras confirmar la cita."
+4,Primera sesión de orientación psicológica,50,Sesión inicial para conocer el motivo de consulta y explicar cómo sería el acompañamiento. Sin compromiso de continuar.
+5,Sesión de terapia de pareja,90,Sesión de una hora para parejas que desean trabajar su comunicación y acuerdos. Asisten ambos integrantes.
+6,Sesión de orientación familiar,85,"Sesión con la familia para conversar sobre convivencia, límites y comunicación en casa. Se puede realizar a domicilio."
+7,Sesión de psicología para adolescentes,70,"Sesión adaptada para adolescentes, con un espacio de confianza y, cuando corresponde, orientación a los padres. Con autorización de los padres o tutores."
+8,Sesión de psicología infantil,70,"Sesión con niños a través de actividades y juego, según la edad. Incluye una breve devolución a los padres al final."
+9,Evaluación psicológica general,120,Aplicación de pruebas y entrevista para conocer el estado emocional y las fortalezas de la persona. Incluye informe escrito.
+10,Informe psicológico para colegio o trabajo,100,Evaluación y elaboración de informe psicológico solicitado por un colegio o empleador. Entrega en el plazo que se coordine.
+11,Taller de manejo del estrés (sesión grupal),45,"Sesión grupal con técnicas de respiración y organización para el día a día. Precio por persona, en el local o en el lugar del grupo."
+12,Sesión de acompañamiento en duelo,70,Espacio de escucha y acompañamiento para personas que atraviesan una pérdida. El ritmo lo marca cada persona.
+13,Orientación vocacional (sesión),65,"Sesión para jóvenes que eligen qué estudiar, con exploración de intereses y opciones. Incluye material de apoyo."
+14,Evaluación vocacional completa,140,"Proceso de varias sesiones con pruebas de intereses y aptitudes, e informe final. Pensado para estudiantes de secundaria."
+15,Paquete de 4 sesiones individuales,250,"Cuatro sesiones individuales programadas semanalmente, presenciales, virtuales o a domicilio. Se agenda el paquete completo al inicio."
+16,Paquete de 8 sesiones individuales,470,"Ocho sesiones individuales con seguimiento continuo del proceso. Se puede combinar modalidad presencial, virtual y a domicilio."
+17,Charla de salud mental para empresas (sesión),150,"Charla de una hora sobre bienestar emocional en el trabajo, en las instalaciones de la empresa. Se adapta al equipo."
+18,Sesión de orientación para padres,65,"Sesión para padres sobre crianza, límites y comunicación con sus hijos. Puede asistir uno o ambos padres."

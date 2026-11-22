@@ -1,0 +1,23 @@
+N°,Producto o servicio,Precio (S/),Características
+1,Diagnóstico eléctrico con escáner,40,Escaneamos tu vehículo y revisamos el sistema eléctrico hasta encontrar la falla real. Nada de cambiar piezas a ciegas.
+2,Batería nueva instalada,260,"Batería nueva de 11 o 13 placas según tu vehículo, instalada con revisión del sistema de carga. Garantía por escrito."
+3,Revisión y carga lenta de batería,20,Medimos el estado real de tu batería y le damos carga lenta si todavía sirve. Te decimos con honestidad cuánto le queda de vida.
+4,Reparación de alternador,150,"Desmontamos y reparamos el alternador: carbones, rodajes, regulador o diodos según la falla. Probado en banco antes de instalar."
+5,Reparación de arrancador,130,"Reparación del motor de arranque que suena, se pega o ya no gira. Lo probamos contigo antes de cerrar el trabajo."
+6,Cambio de focos e instalación de luces LED,35,"Cambiamos focos quemados o pasamos tus luces principales a LED con mejor alumbrado. Precio por par, con regulación de altura."
+7,Instalación de faros neblineros,80,"Neblineros instalados con su relay y switch independiente, como manda el trabajo bien hecho. Ideales para la neblina de nuestras carreteras."
+8,Reparación de alza vidrios eléctricos,70,"Reparamos lunas que suben lento, se traban o ya no responden: motor, cremallera o switch según el caso. Precio por puerta."
+9,Reparación de cierre centralizado,90,"Dejamos funcionando el cierre centralizado de todas las puertas, con sus motores y varillas revisados."
+10,Revisión de alarma que se dispara sola,40,"Encontramos por qué tu alarma suena sin motivo: sensores, contactos de puertas o instalación floja. Deja de molestar a tus vecinos."
+11,Detección y reparación de cortocircuito,90,"Buscamos el corto que quema fusibles o descarga la batería, con método y paciencia. Reparamos y aislamos el cableado afectado."
+12,Reparación de tablero e instrumentos,100,"Reparamos velocímetro, luces del tablero y medidores que fallan o marcan mal. Trabajo fino, con cuidado de no dañar las piezas plásticas."
+13,Instalación de cámara de retroceso,90,"Cámara de retroceso conectada a tu pantalla o espejo, con líneas guía. Estaciona sin miedo a golpear lo que no ves."
+14,Revisión del sistema de carga,35,"Medimos alternador, batería y consumos parásitos para saber por qué tu vehículo amanece sin carga."
+15,Cambio de bornes y cables de batería,45,Bornes y cables nuevos bien prensados: se acaban los falsos contactos que te dejan sin arranque en el peor momento.
+16,Reparación de electroventilador,110,Reparamos o cambiamos el motor del electroventilador y su relay. Un ventilador que no prende es motor recalentado seguro.
+17,Revisión de claxon y luces de freno,30,"Revisamos bocina, luces de freno y direccionales, y dejamos todo funcionando para que pases tu revisión técnica sin observaciones."
+18,Servicio de electricista automotriz a domicilio,60,"Vamos a tu casa o donde esté tu vehículo y resolvemos la falla eléctrica en el lugar: batería, arranque, fusibles o luces. Si la falla es mayor, te lo decimos ahí mismo."
+19,Arranque a domicilio por batería descargada,45,"Si tu vehículo amaneció sin batería, vamos hasta tu casa, lo arrancamos y revisamos por qué se descargó."
+20,Reparación de motor de limpiaparabrisas,80,Reparamos el motor y el mecanismo del limpiaparabrisas para que la lluvia no te agarre sin visibilidad.
+21,Instalación de corta-corriente,60,"Interruptor corta-corriente oculto, instalado con cableado protegido. Una capa más de seguridad para dejar tu vehículo en la calle."
+22,Revisión eléctrica completa pre-compra,70,"Antes de comprar un usado, revisamos todo su sistema eléctrico y la computadora. Compra sabiendo lo que llevas."

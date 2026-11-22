@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué tipo de vehículo buscas?,Seleccionar,Sedán o hatchback / SUV o camioneta / Pick-up / Furgón o camión ligero
+2,¿Cómo quieres conocer el vehículo?,Seleccionar,Visita en el local / Prueba de manejo a domicilio / Fotos y video por WhatsApp
+3,¿Buscas financiamiento para la compra?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Venta de Vehículos Nuevos y Usados*
+*Producto:* Sedán usado revisado (2018-2020)
+*Precio:* S/ 32000
+*Características:* Sedán usado con motor, caja y suspensión revisados por nuestro mecánico antes de ponerlo en venta. Papeles en regla y listo para transferir.
+— Respuestas del cliente —
+*¿Qué tipo de vehículo buscas?:* Sedán o hatchback
+*¿Cómo quieres conocer el vehículo?:* Visita en el local
+*¿Buscas financiamiento para la compra?:* Sí",,,

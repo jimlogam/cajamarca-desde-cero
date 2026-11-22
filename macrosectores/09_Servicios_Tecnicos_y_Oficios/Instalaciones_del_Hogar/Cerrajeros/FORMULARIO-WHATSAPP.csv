@@ -1,0 +1,15 @@
+FORMULARIO DE WHATSAPP — se abre al tocar el botón del producto,,,
+Número que recibe los mensajes:,+51 908 785 164,,
+N°,Pregunta,Tipo,Respuestas
+1,¿Qué necesitas?,Seleccionar,"Apertura de puerta / Cambio de chapa / Copia de llaves / Emergencia, estoy fuera de casa"
+2,¿Es urgente ahora mismo?,Sí o No,Sí / No
+3,¿Deseas atención a domicilio?,Sí o No,Sí / No
+MENSAJE PREFORMATEADO que llega al WhatsApp (ejemplo con el producto N° 1):,,,
+"*Nuevo pedido — Cerrajeros*
+*Producto:* Servicio de apertura de puerta
+*Precio:* S/ 40
+*Características:* Abrimos tu puerta sin dañar la chapa en la mayoría de casos, a cualquier hora.
+— Respuestas del cliente —
+*¿Qué necesitas?:* Apertura de puerta
+*¿Es urgente ahora mismo?:* Sí
+*¿Deseas atención a domicilio?:* Sí",,,
