@@ -1,0 +1,17 @@
+Nombre: Génesis 12
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: Av San Martín de Porres, Cajamarca 06003
+Teléfono: 915 902 964
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.173290799999999
+Longitud: -78.4990103
+Google Maps: https://www.google.com/maps?cid=3178610604082178815
+Place Id: ChIJZ0UBUWdbspER_6qb34CxHCw
+Fotos: Génesis 12.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

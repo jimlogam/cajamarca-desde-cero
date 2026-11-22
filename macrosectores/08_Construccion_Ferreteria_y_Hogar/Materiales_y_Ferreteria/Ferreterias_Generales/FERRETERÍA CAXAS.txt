@@ -1,0 +1,16 @@
+Nombre: FERRETERÍA CAXAS
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Jr. Puno 236 Entre el Grifo Aurorita y la Clínica Limatambo, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1514054
+Longitud: -78.52316139999999
+Google Maps: https://www.google.com/maps?cid=14241616268613234224
+Place Id: ChIJw1EPd_NbspERMK4dfopipMU
+Fotos: FERRETERÍA CAXAS.jpg
+

@@ -1,0 +1,17 @@
+Nombre: Genmedica - Cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Laboratorios_Clinicos_y_Analisis
+Categoría Maps: Centro de diagnóstico
+Dirección: Av. Los heroes 524, Cajamarca 06003
+Teléfono: 961 381 436
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.166467399999999
+Longitud: -78.50611839999999
+Google Maps: https://www.google.com/maps?cid=10645397399324768145
+Place Id: ChIJlbOzVhxbspERkbeeb4gMvJM
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

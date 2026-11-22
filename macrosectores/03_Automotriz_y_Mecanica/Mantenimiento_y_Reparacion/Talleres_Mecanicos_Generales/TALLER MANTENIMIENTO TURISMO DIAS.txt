@@ -1,0 +1,17 @@
+Nombre: TALLER MANTENIMIENTO TURISMO DIAS.
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Almacén
+Dirección: Jr. Alfonso Ugarte, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1759039
+Longitud: -78.5090393
+Google Maps: https://www.google.com/maps?cid=9582570927168498176
+Place Id: ChIJ9wabC0dbspERACrd1Hwh_IQ
+Fotos: TALLER MANTENIMIENTO TURISMO DIAS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

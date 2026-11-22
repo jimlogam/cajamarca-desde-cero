@@ -1,0 +1,17 @@
+Nombre: Oficina - AMC
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Oficina de correos
+Dirección: Jirón Sucre 497-449, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.166389499999999
+Longitud: -78.5095631
+Google Maps: https://www.google.com/maps?cid=458453853789741323
+Place Id: ChIJ84VYawBbspERC-EL3VnBXAY
+Fotos: Oficina - AMC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

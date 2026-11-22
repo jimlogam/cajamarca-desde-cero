@@ -1,0 +1,17 @@
+Nombre: Solgas Cajamarca Mollepampa.PBF
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Venta_de_Gas_GLP_y_Balones
+Categoría Maps: Instalador de gas
+Dirección: Jr. Sta. Anita 226, Mollepampa 06001
+Teléfono: 971 447 085
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/share/16cJhFYXTZ/
+Latitud: -7.1773171
+Longitud: -78.5038715
+Google Maps: https://www.google.com/maps?cid=10944082996403109824
+Place Id: ChIJsYjCS4lbspERwP__QIAx4Zc
+Fotos: Solgas Cajamarca Mollepampa.PBF.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

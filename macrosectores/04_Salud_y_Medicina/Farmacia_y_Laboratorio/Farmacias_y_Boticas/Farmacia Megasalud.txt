@@ -1,0 +1,17 @@
+Nombre: Farmacia Megasalud
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. La Paz 354, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1666089
+Longitud: -78.5087782
+Google Maps: https://www.google.com/maps?cid=11360282637707319077
+Place Id: ChIJn4EE0RxbspERJReVoN7Up50
+Fotos: Farmacia Megasalud.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

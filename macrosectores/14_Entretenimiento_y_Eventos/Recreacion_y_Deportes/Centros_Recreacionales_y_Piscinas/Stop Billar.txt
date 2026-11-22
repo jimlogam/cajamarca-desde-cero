@@ -1,0 +1,17 @@
+Nombre: Stop Billar
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
+Categoría Maps: 
+Dirección: Av. Mártires de Uchuraccay 1469, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1735769
+Longitud: -78.4969941
+Google Maps: https://www.google.com/maps?cid=12669231957756778172
+Place Id: ChIJmQywsyJbspERvJYeU1cn0q8
+Fotos: Stop Billar.jpg
+Nota: Rescatado: en Maps salia sin categoria ni datos de contacto; clasificado por el nombre.
+

@@ -1,0 +1,17 @@
+Nombre: Farmacia Farmatorres
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Independencia 500, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1682806999999995
+Longitud: -78.5112857
+Google Maps: https://www.google.com/maps?cid=11966337404566071268
+Place Id: ChIJI6ASZQNbspER5GehFXj4EKY
+Fotos: Farmacia Farmatorres.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

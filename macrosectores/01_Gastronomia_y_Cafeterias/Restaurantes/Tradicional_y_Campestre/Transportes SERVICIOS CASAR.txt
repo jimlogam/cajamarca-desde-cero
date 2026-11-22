@@ -1,0 +1,17 @@
+Nombre: Transportes " SERVICIOS CASAR "
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: Coricancha, Cajamarca 06003
+Teléfono: 976 510 209
+Rating: 2.3
+Reseñas: 9
+Sitio web: 
+Latitud: -7.1674812
+Longitud: -78.5011857
+Google Maps: https://www.google.com/maps?cid=4651920497411725571
+Place Id: ChIJGcqyTPpbspERA5mVowvxjkA
+Fotos: Transportes SERVICIOS CASAR.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

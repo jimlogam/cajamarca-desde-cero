@@ -1,0 +1,17 @@
+Nombre: Botica VACJFARMA
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Independencia 983, Cajamarca 06003
+Teléfono: 952 832 336
+Rating: 5
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1736178
+Longitud: -78.5128829
+Google Maps: https://www.google.com/maps?cid=8794182466733627165
+Place Id: ChIJT2rQ6iJbspERHVegI1w2C3o
+Fotos: Botica VACJFARMA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

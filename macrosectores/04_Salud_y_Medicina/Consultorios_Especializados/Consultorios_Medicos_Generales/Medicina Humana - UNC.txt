@@ -1,0 +1,17 @@
+Nombre: Medicina Humana - UNC
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Facultad de medicina
+Dirección: RGH2+XVH, Av. Vía de Evitamiento Sur, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1691031
+Longitud: -78.49781159999999
+Google Maps: https://www.google.com/maps?cid=6272288967920463502
+Place Id: ChIJ1SThHUFbspERji6AlZWlC1c
+Fotos: Medicina Humana - UNC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

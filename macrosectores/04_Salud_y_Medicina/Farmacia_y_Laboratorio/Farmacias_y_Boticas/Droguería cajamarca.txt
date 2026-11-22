@@ -1,0 +1,17 @@
+Nombre: Droguería cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Tayabamba 287, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1518783
+Longitud: -78.5168042
+Google Maps: https://www.google.com/maps?cid=9696017008653421154
+Place Id: ChIJhZK0IgBbspERYsruABksj4Y
+Fotos: Droguería cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Kawsay Farma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jr. Diego Ferré 486, Cajamarca 06003
+Teléfono: (076) 363602
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1698618
+Longitud: -78.50532989999999
+Google Maps: https://www.google.com/maps?cid=7315323309052973456
+Place Id: ChIJSQQvlBtbspERkNE8lco_hWU
+Fotos: Kawsay Farma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

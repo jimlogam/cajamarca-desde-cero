@@ -1,0 +1,17 @@
+Nombre: Boticas Arcángel
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jr.Amazonas 693, Cajamarca 06002
+Teléfono: (076) 367115
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1562993
+Longitud: -78.5162991
+Google Maps: https://www.google.com/maps?cid=1722435597894395437
+Place Id: ChIJX9FbAflaspERLab76AxS5xc
+Fotos: Boticas Arcángel.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

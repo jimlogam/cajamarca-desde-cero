@@ -1,0 +1,17 @@
+Nombre: Transporte a Cajabamba
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Agencia de alquiler de coches
+Dirección: RFMX+M2G, 3N, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.165813399999999
+Longitud: -78.5024253
+Google Maps: https://www.google.com/maps?cid=8029989883465151231
+Place Id: ChIJvw0Ig_FbspER_7LrGUFBcG8
+Fotos: Transporte a Cajabamba.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

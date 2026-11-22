@@ -1,0 +1,17 @@
+Nombre: Boticax Med
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Cinco Esquinas 178, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1618692
+Longitud: -78.516498
+Google Maps: https://www.google.com/maps?cid=4255437940979501752
+Place Id: ChIJNZXdQv5aspERuIrN00JaDjs
+Fotos: Boticax Med.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

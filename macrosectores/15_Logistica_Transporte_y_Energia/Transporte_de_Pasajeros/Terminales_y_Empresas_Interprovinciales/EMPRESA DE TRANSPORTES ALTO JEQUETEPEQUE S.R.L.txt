@@ -1,0 +1,17 @@
+Nombre: EMPRESA DE TRANSPORTES ALTO JEQUETEPEQUE S.R.L
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: Av. Independencia 288, Cajamarca 06002
+Teléfono: 979 376 103
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1650256
+Longitud: -78.51165329999999
+Google Maps: https://www.google.com/maps?cid=795671206174472202
+Place Id: ChIJry0WpQRbspERCjgJEr_KCgs
+Fotos: EMPRESA DE TRANSPORTES ALTO JEQUETEPEQUE S.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

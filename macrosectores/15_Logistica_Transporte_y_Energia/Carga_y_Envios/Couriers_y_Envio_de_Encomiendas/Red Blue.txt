@@ -1,0 +1,17 @@
+Nombre: Red Blue
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Servicio de mensajería, Service establishment
+Dirección: 
+Teléfono: 993 117 145
+Rating: 
+Reseñas: 
+Sitio web: https://redblue-1.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1635538
+Longitud: -78.4621882
+Google Maps: https://www.google.com/maps?cid=6593422922921961878
+Place Id: ChIJgQLUqtRbspERlmmuBjeLgFs
+Fotos: Red Blue.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

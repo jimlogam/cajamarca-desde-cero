@@ -1,0 +1,17 @@
+Nombre: CAXAGAS SAN MARTIN
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Venta_de_Gas_GLP_y_Balones
+Categoría Maps: Compañía del gas, Proveedor de gas industrial
+Dirección: Av San Martín de Porres 1762, Cajamarca 06000
+Teléfono: 951 720 622
+Rating: 4.8
+Reseñas: 16
+Sitio web: https://www.facebook.com/maycol.saldana.54/about/?fb_profile_edit_entry_point=%7B%22click_point%22%3A%22edit_profile_button%22%2C%22feature%22%3A%22profile_header%22%7D&id=100007772855959&sk=about
+Latitud: -7.1763997999999996
+Longitud: -78.4962982
+Google Maps: https://www.google.com/maps?cid=12670587397917595734
+Place Id: ChIJ1TrZjNFbspERVlhrVBv41q8
+Fotos: CAXAGAS SAN MARTIN.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

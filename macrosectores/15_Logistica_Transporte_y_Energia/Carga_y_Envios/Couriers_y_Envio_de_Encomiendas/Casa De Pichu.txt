@@ -1,0 +1,17 @@
+Nombre: Casa De Pichu
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Oficina de correos
+Dirección: Leoncio Prado 262, Cajamarca 06002
+Teléfono: 
+Rating: 4.5
+Reseñas: 13
+Sitio web: 
+Latitud: -7.156972499999999
+Longitud: -78.5098927
+Google Maps: https://www.google.com/maps?cid=15960567620934749271
+Place Id: ChIJa8tFJABbspERV8xqQ7BTf90
+Fotos: Casa De Pichu.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

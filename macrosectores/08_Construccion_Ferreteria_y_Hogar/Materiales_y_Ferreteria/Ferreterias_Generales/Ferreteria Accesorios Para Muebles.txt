@@ -1,0 +1,16 @@
+Nombre: Ferreteria Accesorios Para Muebles
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Av. La Paz 772, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.170392799999999
+Longitud: -78.5071742
+Google Maps: https://www.google.com/maps?cid=11488325682138091540
+Place Id: ChIJZVQLEhtbspERFJDWE1e7bp8
+Fotos: Ferreteria Accesorios Para Muebles.jpg
+

@@ -1,0 +1,17 @@
+Nombre: Medicina Alternativa Ozono Cuba Peru
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Centro médico
+Dirección: #, Av. Hoyos Rubio 423, Cajamarca
+Teléfono: (076) 507457
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1512258
+Longitud: -78.51165569999999
+Google Maps: https://www.google.com/maps?cid=11793641548804999114
+Place Id: ChIJidA4XPBaspERykfP1IBuq6M
+Fotos: Medicina Alternativa Ozono Cuba Peru.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

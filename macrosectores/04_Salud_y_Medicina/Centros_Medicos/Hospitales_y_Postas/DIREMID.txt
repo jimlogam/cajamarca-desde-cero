@@ -1,0 +1,17 @@
+Nombre: DIREMID
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Hospitales_y_Postas
+Categoría Maps: Hospital
+Dirección: San Salvador 256, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: http://www.minsa.gob.pe/
+Latitud: -7.154797299999999
+Longitud: -78.5137452
+Google Maps: https://www.google.com/maps?cid=12034460688963232807
+Place Id: ChIJqeweL9BbspERJ2QOPTz-Aqc
+Fotos: DIREMID.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

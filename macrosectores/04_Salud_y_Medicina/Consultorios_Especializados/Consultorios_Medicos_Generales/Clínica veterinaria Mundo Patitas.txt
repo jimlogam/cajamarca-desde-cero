@@ -1,0 +1,16 @@
+Nombre: Clínica veterinaria Mundo Patitas
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Veterinario
+Dirección: Av. La Paz 337, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.166498
+Longitud: -78.50864159999999
+Google Maps: https://www.google.com/maps?cid=3767716134873361935
+Place Id: ChIJU3eVegBbspERD26iydydSTQ
+Fotos: Clínica veterinaria Mundo Patitas.jpg
+

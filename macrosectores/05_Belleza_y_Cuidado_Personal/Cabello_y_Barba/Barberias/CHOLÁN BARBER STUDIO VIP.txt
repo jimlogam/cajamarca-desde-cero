@@ -1,0 +1,17 @@
+Nombre: CHOLÁN BARBER STUDIO VIP
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: Cajamarca 06001
+Teléfono: 951 290 155
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1480184
+Longitud: -78.5091128
+Google Maps: https://www.google.com/maps?cid=7351388722971458055
+Place Id: ChIJh0ZKdlFbspERB7qGHhhhBWY
+Fotos: CHOLÁN BARBER STUDIO VIP.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

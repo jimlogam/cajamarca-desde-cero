@@ -1,0 +1,17 @@
+Nombre: COA Cajamarca - Centro Odontológico Americano
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Dentista, Dentista cosmético, Clínica dental, Periodoncista de implantes dentales, Radiología odontológica, Endodoncista, Cirujano oral y maxilofacial, Ortodoncista, Dentista infantil
+Dirección: Jr.Amazonas 757, Cajamarca 06002
+Teléfono: (01) 4216323
+Rating: 4.1
+Reseñas: 14
+Sitio web: https://coa.pe/
+Latitud: -7.156898699999999
+Longitud: -78.5156782
+Google Maps: https://www.google.com/maps?cid=16950503846725700913
+Place Id: ChIJyejvK_laspERMU3643BJPOs
+Fotos: COA Cajamarca - Centro Odontológico Americano.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

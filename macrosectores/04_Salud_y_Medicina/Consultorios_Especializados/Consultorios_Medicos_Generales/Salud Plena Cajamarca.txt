@@ -1,0 +1,17 @@
+Nombre: Salud Plena Cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Médico de medicina general
+Dirección: Jr, José Olaya 102, Cajamarca 06002
+Teléfono: (076) 604538
+Rating: 
+Reseñas: 
+Sitio web: https://salud-plena-cajamarca.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1645737
+Longitud: -78.5066052
+Google Maps: https://www.google.com/maps?cid=2089178129184461710
+Place Id: ChIJ13RQNeNbspERjhOOhnBA_hw
+Fotos: Salud Plena Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

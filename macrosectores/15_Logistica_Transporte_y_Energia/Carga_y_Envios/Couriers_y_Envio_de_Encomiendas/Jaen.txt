@@ -1,0 +1,17 @@
+Nombre: Jaen
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Oficina de correos
+Dirección: RFQR+8VW, Jaen, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1616348
+Longitud: -78.507789
+Google Maps: https://www.google.com/maps?cid=11371657783202844088
+Place Id: ChIJY8mHKABbspERuI0cE4E-0J0
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

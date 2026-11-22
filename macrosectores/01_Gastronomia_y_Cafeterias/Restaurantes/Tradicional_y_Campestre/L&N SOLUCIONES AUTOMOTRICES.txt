@@ -1,0 +1,17 @@
+Nombre: L&N SOLUCIONES AUTOMOTRICES
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Proveedor de accesorios para afinación automotriz
+Dirección: Jr. Portugal MZA Lt-8, Cajamarca 06001
+Teléfono: 971 381 419
+Rating: 
+Reseñas: 
+Sitio web: https://wa.me/51971381419?text=Hola%20L%26N%20Soluciones%20Automotrices,%20quisiera%20informaci%C3%B3n%20sobre%20sus%20repuestos%20y%20servicios
+Latitud: -7.1381255999999995
+Longitud: -78.5128756
+Google Maps: https://www.google.com/maps?cid=12715043495998594315
+Place Id: ChIJY14kUwBbspERCx2jQrHodLA
+Fotos: L&N SOLUCIONES AUTOMOTRICES.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: FUSO Cajamarca - venta de camiones y buses | Autocentro
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Concesionario Mitsubishi
+Dirección: Av Vía de Evitamiento Nte 308, Cajamarca 06001
+Teléfono: (076) 366364
+Rating: 5
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1447663
+Longitud: -78.51323029999999
+Google Maps: https://www.google.com/maps?cid=9811798354134862278
+Place Id: ChIJfa5OXf1aspERxon4MZ6CKog
+Fotos: FUSO Cajamarca - venta de camiones y buses - Autocentro.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

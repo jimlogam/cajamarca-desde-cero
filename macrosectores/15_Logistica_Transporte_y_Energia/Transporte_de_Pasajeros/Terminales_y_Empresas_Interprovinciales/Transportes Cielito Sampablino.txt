@@ -1,0 +1,17 @@
+Nombre: Transportes Cielito Sampablino
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: Angamos 1121, Cajamarca 06001
+Teléfono: 978 706 218
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1474483
+Longitud: -78.5243529
+Google Maps: https://www.google.com/maps?cid=14545530548147835331
+Place Id: ChIJr7unTltbspERw9Hxz_ca3Mk
+Fotos: Transportes Cielito Sampablino.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

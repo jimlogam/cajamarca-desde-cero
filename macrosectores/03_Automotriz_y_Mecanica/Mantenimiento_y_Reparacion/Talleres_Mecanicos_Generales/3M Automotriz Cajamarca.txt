@@ -1,0 +1,17 @@
+Nombre: 3M Automotriz Cajamarca
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Servicio de lavado de coches
+Dirección: Manuel Ibáñez Rosazza 647, Cajamarca 06002
+Teléfono: 949 981 405
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1617872
+Longitud: -78.50058369999999
+Google Maps: https://www.google.com/maps?cid=8774154821221693235
+Place Id: ChIJm4DdCwBbspERMzczi1IPxHk
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

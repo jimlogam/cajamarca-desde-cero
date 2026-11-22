@@ -1,0 +1,17 @@
+Nombre: CLUB SALUD
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Clínica ambulatoria
+Dirección: Jirón Las Casuarinas 457, Cajamarca 06001
+Teléfono: 917 325 036
+Rating: 4
+Reseñas: 2
+Sitio web: https://www.facebook.com/ClubSaludCajamarca/
+Latitud: -7.148380899999999
+Longitud: -78.5163666
+Google Maps: https://www.google.com/maps?cid=6053739070447002761
+Place Id: ChIJ18hwt_ZaspERiaTlSJwzA1Q
+Fotos: CLUB SALUD.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

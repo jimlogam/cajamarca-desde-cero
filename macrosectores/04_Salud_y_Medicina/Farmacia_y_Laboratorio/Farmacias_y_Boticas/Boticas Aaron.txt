@@ -1,0 +1,17 @@
+Nombre: Boticas Aaron
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: RFMR+RP4, Av. Atahualpa, Cajamarca 06002
+Teléfono: 
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1654816
+Longitud: -78.5081754
+Google Maps: https://www.google.com/maps?cid=4329140436433009594
+Place Id: ChIJ25FNIx1bspERunteSEoyFDw
+Fotos: Boticas Aaron.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

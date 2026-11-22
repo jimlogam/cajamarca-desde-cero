@@ -1,0 +1,16 @@
+Nombre: Centro Ferretero
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Jirón Manuel Seoane 357, Cajamarca 06002
+Teléfono: 
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.152913099999999
+Longitud: -78.510887
+Google Maps: https://www.google.com/maps?cid=3201120165104192098
+Place Id: ChIJvXGMdfBaspERYgpgdNSpbCw
+Fotos: Centro Ferretero.jpg
+

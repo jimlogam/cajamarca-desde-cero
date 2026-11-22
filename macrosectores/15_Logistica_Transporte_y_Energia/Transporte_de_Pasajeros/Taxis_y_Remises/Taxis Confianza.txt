@@ -1,0 +1,17 @@
+Nombre: Taxis Confianza
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: 
+Dirección: Jr. Amancaes 302, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.151405899999999
+Longitud: -78.5093029
+Google Maps: https://www.google.com/maps?cid=12154006067726791678
+Place Id: ChIJYaeDIPBaspER_jPMuB-0q6g
+Fotos: Sin foto en Maps
+Nota: Rescatado: en Maps salia sin categoria ni datos de contacto; clasificado por el nombre.
+

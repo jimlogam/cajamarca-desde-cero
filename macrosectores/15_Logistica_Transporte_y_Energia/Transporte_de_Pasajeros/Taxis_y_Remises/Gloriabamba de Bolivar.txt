@@ -1,0 +1,17 @@
+Nombre: Gloriabamba de Bolivar
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Servicio de transporte
+Dirección: Av. Vía de Evitamiento Sur 962, Cajamarca 06003
+Teléfono: 990 498 020
+Rating: 4.1
+Reseñas: 20
+Sitio web: 
+Latitud: -7.1666982
+Longitud: -78.5021304
+Google Maps: https://www.google.com/maps?cid=8597649632214662202
+Place Id: ChIJ0xzstBFbspEROjxsx8n8UHc
+Fotos: Gloriabamba de Bolivar.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

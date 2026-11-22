@@ -1,0 +1,17 @@
+Nombre: Cajamarca
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Oficina de correos
+Dirección: Av. Moyococha a36, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1398261
+Longitud: -78.51717289999999
+Google Maps: https://www.google.com/maps?cid=5221669445513299135
+Place Id: ChIJK1f4SgBbspERv8RU8rEYd0g
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

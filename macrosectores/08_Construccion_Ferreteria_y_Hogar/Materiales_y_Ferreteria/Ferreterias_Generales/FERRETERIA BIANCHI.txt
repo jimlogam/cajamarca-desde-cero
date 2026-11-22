@@ -1,0 +1,16 @@
+Nombre: FERRETERIA BIANCHI
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: 06001, Cajamarca 06001
+Teléfono: (076) 280183
+Rating: 4.2
+Reseñas: 32
+Sitio web: 
+Latitud: -7.160654
+Longitud: -78.5151842
+Google Maps: https://www.google.com/maps?cid=7232312235480366377
+Place Id: ChIJa8t_JTNbspERKb2E5KhVXmQ
+Fotos: FERRETERIA BIANCHI.jpg
+

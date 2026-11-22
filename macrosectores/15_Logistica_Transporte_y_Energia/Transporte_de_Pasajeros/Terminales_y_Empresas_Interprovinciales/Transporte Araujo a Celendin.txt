@@ -1,0 +1,17 @@
+Nombre: Transporte Araujo a Celendin
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Agencia de transporte de vehículos
+Dirección: Av. Atahualpa 518, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1658588
+Longitud: -78.5029285
+Google Maps: https://www.google.com/maps?cid=11535214803202538587
+Place Id: ChIJF7wtEABbspERW_y2UL9QFaA
+Fotos: Transporte Araujo a Celendin.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

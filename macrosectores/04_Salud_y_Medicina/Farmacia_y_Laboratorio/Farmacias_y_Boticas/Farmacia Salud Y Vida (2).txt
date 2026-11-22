@@ -1,0 +1,17 @@
+Nombre: Farmacia Salud Y Vida
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: VG32+F64 Jr. María Delia, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.146373199999999
+Longitud: -78.49942709999999
+Google Maps: https://www.google.com/maps?cid=16610602274174810532
+Place Id: ChIJYWELPupaspERpDl8-cK2hOY
+Fotos: Farmacia Salud Y Vida (2).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,16 @@
+Nombre: Hospital Veterinario de la UNC
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Hospitales_y_Postas
+Categoría Maps: Hospital
+Dirección: RGM4+HWX, Av. Universitaria, Cajamarca 06002
+Teléfono: (076) 368501
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1660037999999995
+Longitud: -78.4926334
+Google Maps: https://www.google.com/maps?cid=6378102769688047683
+Place Id: ChIJdW1IKSFbspERQ_AwKK2Sg1g
+Fotos: Hospital Veterinario de la UNC.jpg
+

@@ -1,0 +1,17 @@
+Nombre: Botica Farma Gabriel
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Perú 314, Cajamarca 06001
+Teléfono: 
+Rating: 3
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1598628
+Longitud: -78.524501
+Google Maps: https://www.google.com/maps?cid=13213290636508250022
+Place Id: ChIJG3RLPlRaspERpr8Rr9MJX7c
+Fotos: Botica Farma Gabriel.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: JSK POTENCIA AUTOMOTRIZ
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Tienda de accesorios para automóviles, Mayorista de accesorios automotrices, Tienda de accesorios para camiones
+Dirección: Br. Pueblo Libre, Av. Vía de Evitamiento Sur 354, Cajamarca 06001
+Teléfono: 999 365 490
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1610473
+Longitud: -78.5054074
+Google Maps: https://www.google.com/maps?cid=13448660567757006214
+Place Id: ChIJzyqPuXxbspERhqX1RYg9o7o
+Fotos: JSK POTENCIA AUTOMOTRIZ.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,16 @@
+Nombre: Pernocentro G&M Repuestos Automotrices SAC
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Simón Bolívar 277, Cajamarca 06002
+Teléfono: 956 581 440
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1655532
+Longitud: -78.5103773
+Google Maps: https://www.google.com/maps?cid=6500179113134534584
+Place Id: ChIJg6gR3VBbspERuC_MxnZGNVo
+Fotos: Pernocentro G&M Repuestos Automotrices SAC.jpg
+

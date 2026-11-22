@@ -1,0 +1,16 @@
+Nombre: Ferretería Mejía
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: El Misti, N° 362, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1596131
+Longitud: -78.5065875
+Google Maps: https://www.google.com/maps?cid=3521091337893483596
+Place Id: ChIJfbtmrwZbspERTJTYkOpt3TA
+Fotos: Ferretería Mejía.jpg
+

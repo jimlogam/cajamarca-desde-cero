@@ -1,0 +1,17 @@
+Nombre: CLEMENCIA CASTOPE
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Oficina de correos
+Dirección: RG73+C6C, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.186598
+Longitud: -78.497323
+Google Maps: https://www.google.com/maps?cid=18282728589611799621
+Place Id: ChIJQxcIeQBbspERRZSwRMlMuf0
+Fotos: CLEMENCIA CASTOPE.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

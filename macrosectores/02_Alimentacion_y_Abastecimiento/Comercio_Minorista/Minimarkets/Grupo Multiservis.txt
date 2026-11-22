@@ -1,0 +1,16 @@
+Nombre: Grupo Multiservis
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Comercio
+Dirección: Lotización Agrobank, Jirón, Huacariz cuadra 3, Cajamarca
+Teléfono: 957 143 895
+Rating: 4.2
+Reseñas: 18
+Sitio web: https://www.facebook.com/Taximultiservis
+Latitud: -7.1873078999999995
+Longitud: -78.4925626
+Google Maps: https://www.google.com/maps?cid=10026709894631238697
+Place Id: ChIJr73DCT1bspERKaxjf4YHJos
+Fotos: Grupo Multiservis.jpg
+

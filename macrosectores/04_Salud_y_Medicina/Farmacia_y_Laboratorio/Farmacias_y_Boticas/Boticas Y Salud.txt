@@ -1,0 +1,17 @@
+Nombre: Boticas Y Salud
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jr. Apurimac 892, Cajamarca 06001
+Teléfono: 975 714 404
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.155201
+Longitud: -78.51795969999999
+Google Maps: https://www.google.com/maps?cid=13900249819793161708
+Place Id: ChIJHWacUvhaspER7H31fZCb58A
+Fotos: Boticas Y Salud.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

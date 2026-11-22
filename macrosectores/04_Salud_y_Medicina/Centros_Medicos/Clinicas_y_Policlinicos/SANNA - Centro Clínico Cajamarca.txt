@@ -1,0 +1,17 @@
+Nombre: SANNA \ Centro Clínico Cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Clínica ambulatoria
+Dirección: Los Cedros 214, Cajamarca 06001
+Teléfono: (076) 749100
+Rating: 4.2
+Reseñas: 167
+Sitio web: https://www.sanna.pe/centros-clinicos/cajamarca/informacion-general/
+Latitud: -7.1483291
+Longitud: -78.515692
+Google Maps: https://www.google.com/maps?cid=17690843376195972344
+Place Id: ChIJi1aVtR9bspER-Kw7D1KAgvU
+Fotos: SANNA - Centro Clínico Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

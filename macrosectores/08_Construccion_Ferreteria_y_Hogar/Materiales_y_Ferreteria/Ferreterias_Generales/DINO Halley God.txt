@@ -1,0 +1,16 @@
+Nombre: DINO Halley God
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Av San Martín de Porres 1700, Cajamarca 06003
+Teléfono: 970 349 059
+Rating: 4.4
+Reseñas: 12
+Sitio web: 
+Latitud: -7.175573
+Longitud: -78.4970615
+Google Maps: https://www.google.com/maps?cid=16782996962804340963
+Place Id: ChIJcysgZj1bspER45hpStEu6eg
+Fotos: DINO Halley God.jpg
+

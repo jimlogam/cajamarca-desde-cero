@@ -1,0 +1,17 @@
+Nombre: Barber Celebrity Studio
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: 06001, Cajamarca 06001
+Teléfono: 930 896 071
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1508476
+Longitud: -78.52059899999999
+Google Maps: https://www.google.com/maps?cid=17362197237563685355
+Place Id: ChIJHU5mzBRbspER63lAEWbq8vA
+Fotos: Barber Celebrity Studio.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

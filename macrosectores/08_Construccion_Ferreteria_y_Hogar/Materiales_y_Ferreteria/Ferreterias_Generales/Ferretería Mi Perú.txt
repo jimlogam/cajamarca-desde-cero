@@ -1,0 +1,16 @@
+Nombre: Ferretería "Mi Perú"
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Av. Perú, Cajamarca 06002
+Teléfono: 945 695 633
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1646078
+Longitud: -78.51653639999999
+Google Maps: https://www.google.com/maps?cid=438870606218530975
+Place Id: ChIJuZw2wgFbspERnxAEun0uFwY
+Fotos: Ferretería Mi Perú.jpg
+

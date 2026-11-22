@@ -1,0 +1,17 @@
+Nombre: Transportes Shalako
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: Salaverry 273, Cajamarca 06002
+Teléfono: 983 587 470
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1668582
+Longitud: -78.5101797
+Google Maps: https://www.google.com/maps?cid=15710761740349925719
+Place Id: ChIJ6fLIDTdbspERV-laTJDWB9o
+Fotos: Transportes Shalako.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

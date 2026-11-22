@@ -1,0 +1,17 @@
+Nombre: Inkafarma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jr.Amazonas 530, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1556372999999995
+Longitud: -78.5174007
+Google Maps: https://www.google.com/maps?cid=1006472006117048519
+Place Id: ChIJS-i8fQBbspERx0D7APW09w0
+Fotos: Inkafarma (3).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Energy Fit
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de vitaminas y suplementos
+Dirección: Jr.Amazonas 207, Cajamarca 06000
+Teléfono: 953 236 610
+Rating: 5
+Reseñas: 26
+Sitio web: https://energyfit.caxasgo.com/
+Latitud: -7.1540425
+Longitud: -78.5190886
+Google Maps: https://www.google.com/maps?cid=7815389918770491713
+Place Id: ChIJY_ZWHhBbspERQfF7MbnXdWw
+Fotos: Energy Fit.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

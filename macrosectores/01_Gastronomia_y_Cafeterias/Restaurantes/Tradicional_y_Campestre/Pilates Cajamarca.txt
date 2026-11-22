@@ -1,0 +1,17 @@
+Nombre: Pilates Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro de pilates
+Dirección: Pje. Los Rubíes 102, Cajamarca 06002
+Teléfono: 961 209 656
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.162240199999999
+Longitud: -78.5006124
+Google Maps: https://www.google.com/maps?cid=16348488813442358909
+Place Id: ChIJS66ONOBaspERfd6tM_V_4eI
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

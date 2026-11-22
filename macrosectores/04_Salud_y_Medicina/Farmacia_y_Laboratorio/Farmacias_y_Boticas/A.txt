@@ -1,0 +1,17 @@
+Nombre: A
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. La Paz 360, Cajamarca 06003
+Teléfono: 915 481 689
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1666722
+Longitud: -78.5087887
+Google Maps: https://www.google.com/maps?cid=9478065913078563500
+Place Id: ChIJ85OnHkNbspERrELJIrvaiIM
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

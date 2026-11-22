@@ -1,0 +1,16 @@
+Nombre: Clinica Veterinaria Vetsalud
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Médico
+Dirección: Av Vía de Evitamiento Nte 1105, Cajamarca 06001
+Teléfono: (076) 286777
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1455158999999995
+Longitud: -78.5167529
+Google Maps: https://www.google.com/maps?cid=17562709406481342293
+Place Id: ChIJUUjrFwFbspERVV-7aidHu_M
+Fotos: Clinica Veterinaria Vetsalud.jpg
+

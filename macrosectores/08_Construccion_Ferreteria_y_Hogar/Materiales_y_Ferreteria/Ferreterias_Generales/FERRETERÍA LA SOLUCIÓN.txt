@@ -1,0 +1,16 @@
+Nombre: FERRETERÍA LA SOLUCIÓN
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Bella Unión, Cajamarca 06001
+Teléfono: 976 638 277
+Rating: 4
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1563769
+Longitud: -78.4810062
+Google Maps: https://www.google.com/maps?cid=13259347839973233254
+Place Id: ChIJ1SPEQQlbspERZpLyApyqArg
+Fotos: FERRETERÍA LA SOLUCIÓN.jpg
+

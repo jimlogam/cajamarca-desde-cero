@@ -1,0 +1,17 @@
+Nombre: Farmacia Farro's Pharma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Héroes de San Ramón 206, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1616485
+Longitud: -78.51317279999999
+Google Maps: https://www.google.com/maps?cid=4316540768422562258
+Place Id: ChIJb_QDuv1aspER0olRePVu5zs
+Fotos: Farmacia Farro's Pharma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Transportes Marin
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Almacén
+Dirección: RGJ6+84M, Cajamarca 06003
+Teléfono: 
+Rating: 4.1
+Reseñas: 13
+Sitio web: 
+Latitud: -7.169173799999999
+Longitud: -78.4897184
+Google Maps: https://www.google.com/maps?cid=7968373273988085984
+Place Id: ChIJDRbMoApbspER4LjGQUZZlW4
+Fotos: Transportes Marin.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

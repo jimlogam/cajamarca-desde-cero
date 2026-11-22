@@ -1,0 +1,17 @@
+Nombre: Farma Forte
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Túpac Amaru 1002, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.177301399999999
+Longitud: -78.505079
+Google Maps: https://www.google.com/maps?cid=2506474117722774552
+Place Id: ChIJYyUaGBFbspERGJyTIe7IyCI
+Fotos: Farma Forte.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

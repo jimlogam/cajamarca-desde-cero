@@ -1,0 +1,16 @@
+Nombre: Ferreteria Kemsy Inversiones S.R.L.
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Av. Héroes del Cenepa 345, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1765235999999994
+Longitud: -78.4936079
+Google Maps: https://www.google.com/maps?cid=2103512417822243525
+Place Id: ChIJqaFiYDxbspERxfrqLGYtMR0
+Fotos: Ferreteria Kemsy Inversiones S.R.L.jpg
+

@@ -1,0 +1,17 @@
+Nombre: MedSalud
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Servicio de salud ocupacional
+Dirección: Av Vía de Evitamiento Nte 452, Cajamarca 06001
+Teléfono: 990 330 114
+Rating: 3.1
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1449805
+Longitud: -78.5124692
+Google Maps: https://www.google.com/maps?cid=10698140579001798431
+Place Id: ChIJRXzwiKpbspERHw-Y6Cxud5Q
+Fotos: MedSalud.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

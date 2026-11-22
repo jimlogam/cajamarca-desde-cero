@@ -1,0 +1,17 @@
+Nombre: INKAFARMA
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: JR, Jr del Batán NRO. 155, Cajamarca
+Teléfono: (01) 3142020
+Rating: 5
+Reseñas: 1
+Sitio web: http://inkafarma.pe/
+Latitud: -7.1560758
+Longitud: -78.517502
+Google Maps: https://www.google.com/maps?cid=12824326072126345918
+Place Id: ChIJpQpkd-tbspERvhLfzJ0o-bE
+Fotos: INKAFARMA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

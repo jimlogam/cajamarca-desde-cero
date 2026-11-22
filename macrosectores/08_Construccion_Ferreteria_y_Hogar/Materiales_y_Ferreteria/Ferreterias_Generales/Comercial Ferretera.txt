@@ -1,0 +1,16 @@
+Nombre: Comercial Ferretera
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Cinco Esquinas 624, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1594387
+Longitud: -78.5143197
+Google Maps: https://www.google.com/maps?cid=15406902457255677061
+Place Id: ChIJXYvDGfxaspERhUzR1SdQ0NU
+Fotos: Comercial Ferretera.jpg
+

@@ -1,0 +1,17 @@
+Nombre: Farmacia Jhenyfarma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jirón Ayacucho 900, Cajamarca 06002
+Teléfono: 976 104 946
+Rating: 2.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1578142
+Longitud: -78.511163
+Google Maps: https://www.google.com/maps?cid=8358916328395323835
+Place Id: ChIJxY1DZPtaspERuzk3_RzWAHQ
+Fotos: Farmacia Jhenyfarma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

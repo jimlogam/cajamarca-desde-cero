@@ -1,0 +1,17 @@
+Nombre: Rabbit Shop
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Pet_Shops_y_Accesorios
+Categoría Maps: Tienda de animales
+Dirección: Jr, Cinco Esquinas 1224, Cajamarca 06002
+Teléfono: 931 033 881
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/RabbitShopCajamarca
+Latitud: -7.1542265
+Longitud: -78.5096264
+Google Maps: https://www.google.com/maps?cid=8250813417936887095
+Place Id: ChIJt1qfFkBbspERN50nxBbHgHI
+Fotos: Rabbit Shop.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

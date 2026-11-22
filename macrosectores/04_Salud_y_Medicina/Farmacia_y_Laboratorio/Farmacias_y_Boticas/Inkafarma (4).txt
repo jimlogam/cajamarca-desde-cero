@@ -1,0 +1,17 @@
+Nombre: Inkafarma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jr.Amazonas 408, Cajamarca 06001
+Teléfono: (01) 3142020
+Rating: 3.5
+Reseñas: 4
+Sitio web: http://inkafarma.pe/
+Latitud: -7.154944599999999
+Longitud: -78.5183983
+Google Maps: https://www.google.com/maps?cid=2504564871229077362
+Place Id: ChIJQ9cqSfhaspERcveHCnsAwiI
+Fotos: Inkafarma (4).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

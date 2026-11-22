@@ -1,0 +1,16 @@
+Nombre: Expreso Courier Cajamarca
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Comercio
+Dirección: Jr del Batán, Cajamarca 06001
+Teléfono: (076) 312908
+Rating: 4
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1537305
+Longitud: -78.5154795
+Google Maps: https://www.google.com/maps?cid=4331416010992747712
+Place Id: ChIJrTV6-vlaspERwISpxelHHDw
+Fotos: Expreso Courier Cajamarca.jpg
+

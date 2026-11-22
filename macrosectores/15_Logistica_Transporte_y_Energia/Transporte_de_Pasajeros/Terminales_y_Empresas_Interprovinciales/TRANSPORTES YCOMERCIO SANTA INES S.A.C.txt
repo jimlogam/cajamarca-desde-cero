@@ -1,0 +1,17 @@
+Nombre: TRANSPORTES YCOMERCIO SANTA INES S.A.C
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: Jr. Los Libertadores #312, Cajamarca 06003
+Teléfono: 988 548 621
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1732917
+Longitud: -78.49575759999999
+Google Maps: https://www.google.com/maps?cid=8208472551193927563
+Place Id: ChIJv7LR0SJbspERi191gkta6nE
+Fotos: TRANSPORTES YCOMERCIO SANTA INES S.A.C.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

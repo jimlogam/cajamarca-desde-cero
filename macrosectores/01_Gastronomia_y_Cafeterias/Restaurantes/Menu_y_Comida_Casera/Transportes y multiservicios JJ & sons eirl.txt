@@ -1,0 +1,16 @@
+Nombre: Transportes y multiservicios JJ & sons eirl
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Servicio de catering, Oficinas de empresa
+Dirección: Hermano Miguel Carducci 754, Cajamarca 06002
+Teléfono: 963 803 901
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.133728199999999
+Longitud: -78.5244
+Google Maps: https://www.google.com/maps?cid=7645642212400014621
+Place Id: ChIJ_Q_iGWNaspERHaXVdRXHGmo
+Fotos: Transportes y multiservicios JJ & sons eirl.jpg
+

@@ -1,0 +1,17 @@
+Nombre: Podología Integral Cajamarca M&E
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Bienestar_Terapeutico
+Subrubro: Podologia
+Categoría Maps: Podólogo
+Dirección: RFRQ+4W4 Jr, Julio Guerrero, Cajamarca 06002
+Teléfono: 949 766 742
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1597313
+Longitud: -78.510164
+Google Maps: https://www.google.com/maps?cid=9163158362461549128
+Place Id: ChIJSdhUxvxaspERSLIrb_sTKn8
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Energia y minas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: Jr, La Justicia 120 - 122, Cajamarca 06001
+Teléfono: 
+Rating: 4.2
+Reseñas: 6
+Sitio web: 
+Latitud: -7.146096699999999
+Longitud: -78.5103228
+Google Maps: https://www.google.com/maps?cid=4802591979797289050
+Place Id: ChIJRQzMbfJaspERWhj13PU7pkI
+Fotos: Energia y minas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

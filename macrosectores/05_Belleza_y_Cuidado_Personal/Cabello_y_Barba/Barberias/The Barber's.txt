@@ -1,0 +1,17 @@
+Nombre: The Barber's
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: VFCG+6R5 Caserío Chimchimachay Mz, Cajamarca 06000
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1294952
+Longitud: -78.5228846
+Google Maps: https://www.google.com/maps?cid=8620310313344690921
+Place Id: ChIJ47G6bgBbspER6eqLwI5-oXc
+Fotos: The Barber's.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

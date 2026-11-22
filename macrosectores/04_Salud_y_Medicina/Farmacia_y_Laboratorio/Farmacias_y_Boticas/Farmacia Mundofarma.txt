@@ -1,0 +1,17 @@
+Nombre: Farmacia Mundofarma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Nuevo Cajamarca 207, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1767429
+Longitud: -78.4993492
+Google Maps: https://www.google.com/maps?cid=14966775478122313359
+Place Id: ChIJsUx1ShZbspERj_aB_v-qtM8
+Fotos: Farmacia Mundofarma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,16 @@
+Nombre: FERRETERÍA EL NUEVO HOGAR IMPORTA E.I.R.L
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Av Vía de Evitamiento Nte 386, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.147432599999999
+Longitud: -78.52206559999999
+Google Maps: https://www.google.com/maps?cid=13991382685268948566
+Place Id: ChIJAaH9j_ZbspERVrYBOGxgK8I
+Fotos: FERRETERÍA EL NUEVO HOGAR IMPORTA E.I.R.L.jpg
+

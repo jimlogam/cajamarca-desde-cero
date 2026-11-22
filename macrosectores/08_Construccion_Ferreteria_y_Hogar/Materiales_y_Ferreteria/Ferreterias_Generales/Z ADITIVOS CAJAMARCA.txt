@@ -1,0 +1,16 @@
+Nombre: Z ADITIVOS CAJAMARCA
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Av. Vía de Evitamiento Sur 412, Cajamarca 06002
+Teléfono: 935 286 554
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1613767
+Longitud: -78.5051129
+Google Maps: https://www.google.com/maps?cid=15217352574852900235
+Place Id: ChIJIYyPdUBbspERi6X7tYrlLtM
+Fotos: Z ADITIVOS CAJAMARCA.jpg
+

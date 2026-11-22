@@ -1,0 +1,17 @@
+Nombre: Farmacia Universal
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jirón Silva Santisteban 286, Cajamarca 06002
+Teléfono: 
+Rating: 4.1
+Reseñas: 21
+Sitio web: 
+Latitud: -7.1601222
+Longitud: -78.5158979
+Google Maps: https://www.google.com/maps?cid=9291469652022997375
+Place Id: ChIJ59c0kf5aspERfzEnkmvu8YA
+Fotos: Farmacia Universal.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

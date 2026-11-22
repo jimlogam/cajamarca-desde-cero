@@ -1,0 +1,17 @@
+Nombre: Cochera super segura.
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estacionamientos_y_Cocheras
+Categoría Maps: Aparcamiento cubierto
+Dirección: Triunfo 286, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.166728999999999
+Longitud: -78.503073
+Google Maps: https://www.google.com/maps?cid=14671426400006553138
+Place Id: ChIJ4Zt3YABbspERMr6tCJRgm8s
+Fotos: Cochera super segura.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

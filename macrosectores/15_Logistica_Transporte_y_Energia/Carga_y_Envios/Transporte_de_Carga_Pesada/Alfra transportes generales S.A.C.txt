@@ -1,0 +1,17 @@
+Nombre: Alfra transportes generales S.A.C
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Transporte_de_Carga_Pesada
+Categoría Maps: Servicio de transporte de mercancías
+Dirección: 06001, Cajamarca 06001
+Teléfono: 936 016 056
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1727509
+Longitud: -78.49961909999999
+Google Maps: https://www.google.com/maps?cid=1394194420353734233
+Place Id: ChIJWZuYCQxbspERWRYERXAsWRM
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

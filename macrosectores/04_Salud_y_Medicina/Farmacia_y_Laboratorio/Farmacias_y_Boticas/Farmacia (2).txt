@@ -1,0 +1,17 @@
+Nombre: Farmacia
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. La Cantuta 1398, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1653353
+Longitud: -78.4963769
+Google Maps: https://www.google.com/maps?cid=7415890367505306471
+Place Id: ChIJpa7YagBbspERZxNliP-I6mY
+Fotos: Farmacia (2).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

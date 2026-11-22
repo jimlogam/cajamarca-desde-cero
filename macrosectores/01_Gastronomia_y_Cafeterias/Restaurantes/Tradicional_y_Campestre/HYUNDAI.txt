@@ -1,0 +1,17 @@
+Nombre: HYUNDAI
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de automovilismo
+Dirección: Cajamarca 06001
+Teléfono: 914 003 541
+Rating: 4.2
+Reseñas: 62
+Sitio web: 
+Latitud: -7.145258
+Longitud: -78.51378749999999
+Google Maps: https://www.google.com/maps?cid=13376687834648221201
+Place Id: ChIJ_fBfnvNaspERERZ_f7aKo7k
+Fotos: HYUNDAI.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

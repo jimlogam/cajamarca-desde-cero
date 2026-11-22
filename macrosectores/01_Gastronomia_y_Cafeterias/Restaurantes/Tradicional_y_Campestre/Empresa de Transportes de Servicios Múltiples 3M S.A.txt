@@ -1,0 +1,17 @@
+Nombre: Empresa de Transportes de Servicios Múltiples 3M S.A.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Estación de autobuses
+Dirección: Cajamarca 06001
+Teléfono: 
+Rating: 4.4
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1325986
+Longitud: -78.5246885
+Google Maps: https://www.google.com/maps?cid=4437558974877157274
+Place Id: ChIJGfvWNWNaspERmkdmX2BglT0
+Fotos: Empresa de Transportes de Servicios Múltiples 3M S.A.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

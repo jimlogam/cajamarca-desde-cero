@@ -1,0 +1,17 @@
+Nombre: Paradero Minera Gold Fields (Punto Cero)
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Parada de taxis
+Dirección: Luis Alberto Sánchez 298, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.145007799999999
+Longitud: -78.5158026
+Google Maps: https://www.google.com/maps?cid=2057547611217603716
+Place Id: ChIJS4KbYABbspERhCwUq6bgjRw
+Fotos: Paradero Minera Gold Fields (Punto Cero).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

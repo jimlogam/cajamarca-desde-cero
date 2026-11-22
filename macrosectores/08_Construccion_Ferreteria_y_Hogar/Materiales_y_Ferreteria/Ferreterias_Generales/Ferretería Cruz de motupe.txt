@@ -1,0 +1,16 @@
+Nombre: Ferretería Cruz de motupe
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Jr. Alfonso Ugarte 572, Cajamarca 06003
+Teléfono: 
+Rating: 4
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1711804
+Longitud: -78.50989899999999
+Google Maps: https://www.google.com/maps?cid=11975521155924769026
+Place Id: ChIJAxBmbY5bspERAjkS0wqZMaY
+Fotos: Ferretería Cruz de motupe.jpg
+

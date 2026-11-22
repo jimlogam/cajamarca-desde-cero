@@ -1,0 +1,17 @@
+Nombre: SOLGAS CAJAMARCA
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Venta_de_Gas_GLP_y_Balones
+Categoría Maps: Trust Bank
+Dirección: Av. Industrial y, Cajamarca 06003
+Teléfono: 974 877 452
+Rating: 
+Reseñas: 
+Sitio web: http://wwwsolgasconfiansa.com/
+Latitud: -7.1850445999999994
+Longitud: -78.4964517
+Google Maps: https://www.google.com/maps?cid=984639323330852609
+Place Id: ChIJn130mjxbspERATcEaz8kqg0
+Fotos: SOLGAS CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

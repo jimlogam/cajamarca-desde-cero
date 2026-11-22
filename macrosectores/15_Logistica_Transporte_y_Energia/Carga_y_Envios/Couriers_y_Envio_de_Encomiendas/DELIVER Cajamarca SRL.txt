@@ -1,0 +1,17 @@
+Nombre: DELIVER Cajamarca SRL
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Servicio de mensajería
+Dirección: Calle Inca Roca #103, Cajamarca 06001
+Teléfono: 915 062 865
+Rating: 2
+Reseñas: 1
+Sitio web: http://www.delivercaj.com/
+Latitud: -7.149320899999999
+Longitud: -78.51816769999999
+Google Maps: https://www.google.com/maps?cid=7513239378311676592
+Place Id: ChIJ19F9mG9bspERsIK-YGhjRGg
+Fotos: DELIVER Cajamarca SRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

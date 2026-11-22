@@ -1,0 +1,17 @@
+Nombre: BOTICA YULIFARMA
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av San Martín de Porres 2009, Cajamarca 06200
+Teléfono: 935 980 659
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.yulifarma.com/
+Latitud: -7.1797521
+Longitud: -78.4933843
+Google Maps: https://www.google.com/maps?cid=8145948624997613263
+Place Id: ChIJez73bQBbspERz36Qhx05DHE
+Fotos: BOTICA YULIFARMA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

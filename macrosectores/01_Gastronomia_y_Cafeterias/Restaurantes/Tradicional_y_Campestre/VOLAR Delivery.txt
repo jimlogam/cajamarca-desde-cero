@@ -1,0 +1,17 @@
+Nombre: VOLAR Delivery
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: San Luis 256, Cajamarca 06002
+Teléfono: 923 878 636
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.163200799999999
+Longitud: -78.5063706
+Google Maps: https://www.google.com/maps?cid=15563995858911004360
+Place Id: ChIJlZ8ILbNbspERyIYKqMVr_tc
+Fotos: VOLAR Delivery.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Sin categoria en Maps; clasificado por el nombre.
+

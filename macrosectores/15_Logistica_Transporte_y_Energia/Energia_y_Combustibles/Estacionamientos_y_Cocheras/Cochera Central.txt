@@ -1,0 +1,17 @@
+Nombre: Cochera Central
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estacionamientos_y_Cocheras
+Categoría Maps: Aparcamiento
+Dirección: Jirón Puno 115, Cajamarca 06001
+Teléfono: 961 930 302
+Rating: 3.8
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1523498
+Longitud: -78.5223348
+Google Maps: https://www.google.com/maps?cid=13390041036991167462
+Place Id: ChIJ9WpM8INbspER5vvCMWH70rk
+Fotos: Cochera Central.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

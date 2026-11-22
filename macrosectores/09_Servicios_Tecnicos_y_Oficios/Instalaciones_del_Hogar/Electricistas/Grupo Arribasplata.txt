@@ -1,0 +1,17 @@
+Nombre: Grupo Arribasplata
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Instalaciones_del_Hogar
+Subrubro: Electricistas
+Categoría Maps: Compañía eléctrica
+Dirección: 01, Cajamarca 06000
+Teléfono: 970 086 466
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1689397999999995
+Longitud: -78.5037237
+Google Maps: https://www.google.com/maps?cid=11240616954600473501
+Place Id: ChIJUWkyLqpbspERncMxm5Cx_ps
+Fotos: Grupo Arribasplata.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

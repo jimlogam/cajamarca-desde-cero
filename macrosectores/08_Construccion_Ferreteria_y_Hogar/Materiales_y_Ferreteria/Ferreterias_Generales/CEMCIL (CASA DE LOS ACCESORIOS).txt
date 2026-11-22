@@ -1,0 +1,16 @@
+Nombre: CEMCIL (CASA DE LOS ACCESORIOS)
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Av. La Paz 748, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.170273099999999
+Longitud: -78.5072574
+Google Maps: https://www.google.com/maps?cid=682546384439863437
+Place Id: ChIJx-MGsr9bspERjehDA1LkeAk
+Fotos: CEMCIL (CASA DE LOS ACCESORIOS).jpg
+

@@ -1,0 +1,17 @@
+Nombre: Mifarma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Sector Pueblo Libre, Av. Atahualpa 584, Cajamarca 06001
+Teléfono: (01) 6125000
+Rating: 2
+Reseñas: 3
+Sitio web: https://www.mifarma.com.pe/?utm_medium=partoo&utm_source=GMB
+Latitud: -7.16575
+Longitud: -78.502858
+Google Maps: https://www.google.com/maps?cid=14102673943380699461
+Place Id: ChIJq34oYx5bspERRSldejvDtsM
+Fotos: Mifarma (2).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

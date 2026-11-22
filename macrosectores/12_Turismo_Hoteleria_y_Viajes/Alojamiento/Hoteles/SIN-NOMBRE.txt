@@ -1,0 +1,16 @@
+Nombre: .
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel para encuentros amorosos
+Dirección: Jr, Luis Reyna Farge 836, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1714943
+Longitud: -78.5047092
+Google Maps: https://www.google.com/maps?cid=9707677561816127054
+Place Id: ChIJHUXdGqFbspERTpYUGk-ZuIY
+Fotos: Sin foto en Maps
+

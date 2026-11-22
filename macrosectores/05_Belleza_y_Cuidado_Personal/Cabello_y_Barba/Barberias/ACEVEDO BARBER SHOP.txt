@@ -1,0 +1,17 @@
+Nombre: ACEVEDO BARBER SHOP
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: Av San Martín de Porres N°1935, Cajamarca 06003
+Teléfono: 969 387 146
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1790169
+Longitud: -78.4940625
+Google Maps: https://www.google.com/maps?cid=2969850590919011091
+Place Id: ChIJGZGmEQBbspEREyu2o2AHNyk
+Fotos: ACEVEDO BARBER SHOP.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

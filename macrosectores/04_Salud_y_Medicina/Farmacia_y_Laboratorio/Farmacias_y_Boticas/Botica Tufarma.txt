@@ -1,0 +1,17 @@
+Nombre: Botica Tufarma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jirón Silva Santisteban 932, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.162614
+Longitud: -78.5129737
+Google Maps: https://www.google.com/maps?cid=13238426113251599892
+Place Id: ChIJNfYsl_1aspERFOad6WhWuLc
+Fotos: Botica Tufarma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

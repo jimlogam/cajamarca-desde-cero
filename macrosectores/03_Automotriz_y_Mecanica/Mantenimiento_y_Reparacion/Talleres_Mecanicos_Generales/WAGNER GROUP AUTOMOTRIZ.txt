@@ -1,0 +1,17 @@
+Nombre: WAGNER GROUP AUTOMOTRIZ
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Taller de revisión de automóviles
+Dirección: 06002, Jirón Ayacucho B18, Cajamarca 06002
+Teléfono: 935 990 943
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/wagnergroupauto
+Latitud: -7.154592
+Longitud: -78.5075331
+Google Maps: https://www.google.com/maps?cid=12190168236708558372
+Place Id: ChIJsV_bs49bspERJHZDzWwtLKk
+Fotos: WAGNER GROUP AUTOMOTRIZ.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

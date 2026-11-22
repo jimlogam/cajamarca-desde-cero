@@ -1,0 +1,17 @@
+Nombre: Motorepuestos el Negro
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Taller mecánico
+Dirección: 06001, Cajamarca 06001
+Teléfono: 956 022 772
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/Motorepuestos-el-Negro-108927088121391/?notif_id=1663859356565658&notif_t=profile_plus_rollback&ref=notif
+Latitud: -7.1635912
+Longitud: -78.50259849999999
+Google Maps: https://www.google.com/maps?cid=1006148499558360148
+Place Id: ChIJJ7AYjI1bspERVOR3w7qO9g0
+Fotos: Motorepuestos el Negro.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

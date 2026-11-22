@@ -1,0 +1,17 @@
+Nombre: TRANSPORTES CATALAN
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: RFPW+73F, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1643216
+Longitud: -78.5048139
+Google Maps: https://www.google.com/maps?cid=1889316837139020578
+Place Id: ChIJT_x-DHdbspERIvvVQaczOBo
+Fotos: TRANSPORTES CATALAN.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,16 @@
+Nombre: Veterinaria El Dogo Azul
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1788333
+Longitud: -78.49445109999999
+Google Maps: https://www.google.com/maps?cid=6282299761636656363
+Place Id: ChIJ34GLKDxbspER68TfIFk2L1c
+Fotos: Veterinaria El Dogo Azul.jpg
+

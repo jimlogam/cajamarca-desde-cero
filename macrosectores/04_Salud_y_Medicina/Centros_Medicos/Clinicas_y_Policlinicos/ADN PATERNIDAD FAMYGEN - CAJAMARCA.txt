@@ -1,0 +1,17 @@
+Nombre: ADN PATERNIDAD FAMYGEN - CAJAMARCA
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Centro médico
+Dirección: Jr. Guillermo Urrelo 1019, Cajamarca 04001
+Teléfono: 971 717 975
+Rating: 
+Reseñas: 
+Sitio web: http://www.famygensalud.com/
+Latitud: -7.1568374
+Longitud: -78.5138872
+Google Maps: https://www.google.com/maps?cid=6326231159288511098
+Place Id: ChIJwRVquPlbspERejpmuLhJy1c
+Fotos: ADN PATERNIDAD FAMYGEN - CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

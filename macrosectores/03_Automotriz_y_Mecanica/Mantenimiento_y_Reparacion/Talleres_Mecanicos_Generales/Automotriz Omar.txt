@@ -1,0 +1,17 @@
+Nombre: Automotriz Omar
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: 
+Dirección: Av. Mártires de Uchuraccay 937, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1703817999999995
+Longitud: -78.500933
+Google Maps: https://www.google.com/maps?cid=14541524801727714780
+Place Id: ChIJEQGtHRlbspER3FWDS8Pfzck
+Fotos: Automotriz Omar.jpg
+Nota: Rescatado: en Maps salia sin categoria ni datos de contacto; clasificado por el nombre.
+

@@ -1,0 +1,17 @@
+Nombre: Farmacia Santiago Apóstol
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Atahualpa 319, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1656495
+Longitud: -78.5069437
+Google Maps: https://www.google.com/maps?cid=15984709543250311847
+Place Id: ChIJ5UtZBB1bspERpzo7k6MY1d0
+Fotos: Farmacia Santiago Apóstol.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Mímax Boticas
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av San Martín de Porres 2002, Cajamarca 06003
+Teléfono: 982 741 687
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1795974
+Longitud: -78.4938184
+Google Maps: https://www.google.com/maps?cid=13312717898276321872
+Place Id: ChIJ_Yu_0vlbspERULq-CWVGwLg
+Fotos: Mímax Boticas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

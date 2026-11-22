@@ -1,0 +1,17 @@
+Nombre: Azañeros Internacional Barber
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: Av San Martín de Porres 458, Cajamarca 06002
+Teléfono: 906 678 638
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1654928
+Longitud: -78.506092
+Google Maps: https://www.google.com/maps?cid=14125399084143019904
+Place Id: ChIJ79flB_9bspERgAf5oKB_B8Q
+Fotos: Azañeros Internacional Barber.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

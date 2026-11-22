@@ -1,0 +1,17 @@
+Nombre: Compartiendo por la Salud Mental
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Bienestar_Terapeutico
+Subrubro: Psicologia_y_Salud_Mental
+Categoría Maps: Servicio de salud mental
+Dirección: Jr.Amazonas 930, Cajamarca 06002
+Teléfono: 958 907 748
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1579481
+Longitud: -78.5145438
+Google Maps: https://www.google.com/maps?cid=8112855944904589749
+Place Id: ChIJz3hyES9bspERtUH0hX-nlnA
+Fotos: Compartiendo por la Salud Mental.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

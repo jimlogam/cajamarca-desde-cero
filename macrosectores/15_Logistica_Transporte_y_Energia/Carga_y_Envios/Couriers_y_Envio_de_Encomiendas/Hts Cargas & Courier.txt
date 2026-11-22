@@ -1,0 +1,17 @@
+Nombre: Hts Cargas & Courier
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: 
+Dirección: Juan Beato Macias 542, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.171346799999999
+Longitud: -78.4983184
+Google Maps: https://www.google.com/maps?cid=80799212304283503
+Place Id: ChIJoRQtfBhbspERbzeHm3QOHwE
+Fotos: Hts Cargas & Courier.jpg
+Nota: Rescatado: en Maps salia sin categoria ni datos de contacto; clasificado por el nombre.
+

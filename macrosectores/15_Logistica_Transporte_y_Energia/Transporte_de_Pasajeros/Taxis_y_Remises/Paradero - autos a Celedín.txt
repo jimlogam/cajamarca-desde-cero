@@ -1,0 +1,17 @@
+Nombre: Paradero - autos a Celedín
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Parada de taxis
+Dirección: Av. Mártires de Uchuraccay 152, Cajamarca 06003
+Teléfono: 
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.165793099999999
+Longitud: -78.50460129999999
+Google Maps: https://www.google.com/maps?cid=9230435777626105282
+Place Id: ChIJeYnofShbspERwuV1T28YGYA
+Fotos: Paradero - autos a Celedín.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

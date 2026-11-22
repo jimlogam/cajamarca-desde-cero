@@ -1,0 +1,17 @@
+Nombre: Medical Cajamarca SAC.
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Centro médico
+Dirección: Jirón Huánuco 513, Cajamarca 06001
+Teléfono: 978 042 313
+Rating: 2.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1571406
+Longitud: -78.5226232
+Google Maps: https://www.google.com/maps?cid=15876829260857005241
+Place Id: ChIJoWw1mT5bspERudTo_BfUVdw
+Fotos: Medical Cajamarca SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,16 @@
+Nombre: Las Americas Hotel
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
+Categoría Maps: Hotel
+Dirección: Jr.Amazonas 622, Cajamarca 06002
+Teléfono: (076) 363951
+Rating: 4.3
+Reseñas: 216
+Sitio web: 
+Latitud: -7.1562145
+Longitud: -78.5167888
+Google Maps: https://www.google.com/maps?cid=13107935045176204988
+Place Id: ChIJ_yKbDvlaspERvB6finm96LU
+Fotos: Las Americas Hotel.jpg
+

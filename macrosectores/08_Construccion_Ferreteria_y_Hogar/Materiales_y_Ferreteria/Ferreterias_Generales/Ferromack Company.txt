@@ -1,0 +1,16 @@
+Nombre: Ferromack Company
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Cinco Esquinas 1526, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1529906
+Longitud: -78.5077702
+Google Maps: https://www.google.com/maps?cid=14939397824084159191
+Place Id: ChIJLcI6EABbspER16rHLitnU88
+Fotos: Ferromack Company.jpg
+

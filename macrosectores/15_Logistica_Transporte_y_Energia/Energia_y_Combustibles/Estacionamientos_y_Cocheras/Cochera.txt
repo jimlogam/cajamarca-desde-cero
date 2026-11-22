@@ -1,0 +1,17 @@
+Nombre: Cochera
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estacionamientos_y_Cocheras
+Categoría Maps: Aparcamiento
+Dirección: Av. Gral. Rafael Hoyos Rubio 1090, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1486474
+Longitud: -78.50532179999999
+Google Maps: https://www.google.com/maps?cid=3118807696306675640
+Place Id: ChIJ1fE5Fp1bspERuB8dXRM7SCs
+Fotos: Cochera.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

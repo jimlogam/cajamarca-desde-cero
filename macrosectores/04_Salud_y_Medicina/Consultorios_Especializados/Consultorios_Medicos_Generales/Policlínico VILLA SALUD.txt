@@ -1,0 +1,17 @@
+Nombre: Policlínico VILLA SALUD
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Servicio de salud ocupacional
+Dirección: Universitaria 648, Cajamarca 06001
+Teléfono: 995 781 463
+Rating: 3.4
+Reseñas: 7
+Sitio web: 
+Latitud: -7.162106199999999
+Longitud: -78.4998925
+Google Maps: https://www.google.com/maps?cid=12530742462751105305
+Place Id: ChIJ6wA_QwdbspERGeEuEOEj5q0
+Fotos: Policlínico VILLA SALUD.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

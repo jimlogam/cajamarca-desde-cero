@@ -1,0 +1,17 @@
+Nombre: jupiter seguridad y vigilancia privada
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: jr juan villanueva N° 302
+Teléfono: 916 201 268
+Rating: 2
+Reseñas: 2
+Sitio web: 
+Latitud: -7.156697599999999
+Longitud: -78.5229252
+Google Maps: https://www.google.com/maps?cid=1790465089549678866
+Place Id: ChIJ_YbwWlZaspERErlYPYMC2Rg
+Fotos: jupiter seguridad y vigilancia privada.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Sin categoria en Maps; clasificado por el nombre.
+

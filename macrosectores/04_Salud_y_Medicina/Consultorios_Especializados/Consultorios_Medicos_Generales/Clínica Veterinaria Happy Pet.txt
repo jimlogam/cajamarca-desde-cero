@@ -1,0 +1,16 @@
+Nombre: Clínica Veterinaria Happy Pet
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Cuidados veterinarios
+Dirección: Av. los héroes 354, Cajamarca 06001
+Teléfono: 975 279 226
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1624602
+Longitud: -78.5122865
+Google Maps: https://www.google.com/maps?cid=9177137726597336761
+Place Id: ChIJ7zQxLeVaspERuY6ryCO-W38
+Fotos: Clínica Veterinaria Happy Pet.jpg
+

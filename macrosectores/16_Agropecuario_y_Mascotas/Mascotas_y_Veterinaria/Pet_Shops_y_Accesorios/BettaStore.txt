@@ -1,0 +1,17 @@
+Nombre: BettaStore
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Pet_Shops_y_Accesorios
+Categoría Maps: Tienda de acuarios
+Dirección: Jr, Los Pinos 248, Cajamarca 20006
+Teléfono: 997 371 656
+Rating: 4.3
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1475902
+Longitud: -78.51619099999999
+Google Maps: https://www.google.com/maps?cid=5575582020704198941
+Place Id: ChIJ08p-891bspERHeEgoE5yYE0
+Fotos: BettaStore.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

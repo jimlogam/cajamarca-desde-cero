@@ -1,0 +1,17 @@
+Nombre: Farmacia Especializada Flor D'Maria
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia homeopática
+Dirección: Jr Guadalupe Bajo 114, Cajamarca 06001
+Teléfono: 934 429 150
+Rating: 5
+Reseñas: 2
+Sitio web: https://www.facebook.com/Farmacia-Especializada-Flor-DMaria-100253628550467/
+Latitud: -7.1581559
+Longitud: -78.5141218
+Google Maps: https://www.google.com/maps?cid=18131736450134649712
+Place Id: ChIJsZ55tEhbspERcCtHPzzeoPs
+Fotos: Farmacia Especializada Flor D'Maria.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

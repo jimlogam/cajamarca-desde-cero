@@ -1,0 +1,17 @@
+Nombre: Plaza de armas de Cajamarca
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: RFVM+J5C, Jr del Batán, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.155927999999999
+Longitud: -78.5171158
+Google Maps: https://www.google.com/maps?cid=928335652793723641
+Place Id: ChIJK-5oIgBbspER-aoZkVsc4gw
+Fotos: Plaza de armas de Cajamarca.jpg
+Nota: Centro comercial (no es una tienda individual)
+

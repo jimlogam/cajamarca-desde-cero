@@ -1,0 +1,16 @@
+Nombre: FAMCHA PERU SAC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Servicio de catering
+Dirección: Las Delicias 252, Cajamarca 06001
+Teléfono: 957 176 003
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.167499599999999
+Longitud: -78.5027431
+Google Maps: https://www.google.com/maps?cid=16525042134742686226
+Place Id: ChIJS6qJ_9lbspERElqzo0S-VOU
+Fotos: FAMCHA PERU SAC.jpg
+

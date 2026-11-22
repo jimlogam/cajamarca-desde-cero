@@ -1,0 +1,17 @@
+Nombre: MULTISERVICIOS TRANSPORTES CAJAMARCA SA
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: Av. Atahualpa 679, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.164203
+Longitud: -78.51011319999999
+Google Maps: https://www.google.com/maps?cid=5046519220033820680
+Place Id: ChIJFbO2IilbspERCBhMNn7WCEY
+Fotos: MULTISERVICIOS TRANSPORTES CAJAMARCA SA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

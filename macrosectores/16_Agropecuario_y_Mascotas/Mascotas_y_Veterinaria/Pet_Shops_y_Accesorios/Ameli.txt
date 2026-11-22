@@ -1,0 +1,17 @@
+Nombre: Ameli
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Pet_Shops_y_Accesorios
+Categoría Maps: Tienda de productos para mascotas, Service establishment
+Dirección: 
+Teléfono: 984 114 770
+Rating: 
+Reseñas: 
+Sitio web: https://www.instagram.com/ameli.pets/
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=4052016537795482631
+Place Id: ChIJvROL5VfcfAgRB9ROl5KnOzg
+Fotos: Ameli.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

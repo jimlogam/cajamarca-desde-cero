@@ -1,0 +1,17 @@
+Nombre: CARDIOFARMA
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Mario Urteaga 152, Cajamarca 06002
+Teléfono: 990 873 592
+Rating: 5
+Reseñas: 5
+Sitio web: https://www.facebook.com/share/191kRSbZA2/
+Latitud: -7.157992699999999
+Longitud: -78.5111179
+Google Maps: https://www.google.com/maps?cid=973402258756728277
+Place Id: ChIJG4QZB6VbspER1fXBcDI4gg0
+Fotos: CARDIOFARMA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: TAXI SUPER SEGURO
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Servicio de taxis
+Dirección: Av. Hoyos Rubio 530, Cajamarca 06002
+Teléfono: (076) 507090
+Rating: 3.7
+Reseñas: 51
+Sitio web: 
+Latitud: -7.151082499999999
+Longitud: -78.51067689999999
+Google Maps: https://www.google.com/maps?cid=678128954162794610
+Place Id: ChIJwy_4R_BaspERctDH4LAyaQk
+Fotos: TAXI SUPER SEGURO.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

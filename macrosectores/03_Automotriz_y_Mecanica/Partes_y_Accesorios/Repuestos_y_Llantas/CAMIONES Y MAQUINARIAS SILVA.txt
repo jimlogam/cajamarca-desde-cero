@@ -1,0 +1,16 @@
+Nombre: CAMIONES Y MAQUINARIAS SILVA
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Partes_y_Accesorios
+Subrubro: Repuestos_y_Llantas
+Categoría Maps: Tienda de repuestos para automóviles
+Dirección: Av. Mártires de Uchuraccay 2245, Cajamarca 06003
+Teléfono: 976 011 112
+Rating: 4.1
+Reseñas: 9
+Sitio web: 
+Latitud: -7.1800508
+Longitud: -78.4913914
+Google Maps: https://www.google.com/maps?cid=11354178884969598277
+Place Id: ChIJpW04lRxbspERRY3a8oklkp0
+Fotos: CAMIONES Y MAQUINARIAS SILVA.jpg
+

@@ -1,0 +1,16 @@
+Nombre: Veterinaria Pajares
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Pet_Shops_y_Accesorios
+Categoría Maps: Veterinario, Tienda de alimentos para animales, Tienda de animales
+Dirección: 06002, Cajamarca 06002
+Teléfono: 940 945 454
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.instagram.com/clinivet.pajares?igsh=YXNmczd3NG9oMmMw
+Latitud: -7.157685099999999
+Longitud: -78.5135492
+Google Maps: https://www.google.com/maps?cid=16500387695446848409
+Place Id: ChIJ7zLMltBbspERmfNVqy8n_eQ
+Fotos: Veterinaria Pajares.jpg
+

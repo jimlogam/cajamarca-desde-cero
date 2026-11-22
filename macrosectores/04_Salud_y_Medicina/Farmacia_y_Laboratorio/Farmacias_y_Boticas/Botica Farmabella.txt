@@ -1,0 +1,17 @@
+Nombre: Botica Farmabella
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: RFWM+JW8, Prol. Revilla Perez, Cajamarca 06001
+Teléfono: 988 248 539
+Rating: 3
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1534517
+Longitud: -78.51517849999999
+Google Maps: https://www.google.com/maps?cid=13905079958878955466
+Place Id: ChIJHSYh-flaspERyidi4ozE-MA
+Fotos: Botica Farmabella.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

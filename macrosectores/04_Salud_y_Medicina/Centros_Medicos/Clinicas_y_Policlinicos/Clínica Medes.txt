@@ -1,0 +1,17 @@
+Nombre: Clínica Medes
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Clínica ambulatoria
+Dirección: Jirón Las Casuarinas 707, Cajamarca 06001
+Teléfono: (076) 344640
+Rating: 3.2
+Reseñas: 14
+Sitio web: https://medescajamarca.com/
+Latitud: -7.1497622
+Longitud: -78.5151434
+Google Maps: https://www.google.com/maps?cid=8250135693158445432
+Place Id: ChIJoRy7z_ZaspERePF6q7NefnI
+Fotos: Clínica Medes.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: New life centro de bienestar y salud Cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: 
+Dirección: Frente al restaurante Castope, Av Vía de Evitamiento Nte 1140, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1473236
+Longitud: -78.5079588
+Google Maps: https://www.google.com/maps?cid=6341027876679650576
+Place Id: ChIJ-QdIQABbspEREA1X9EHb_1c
+Fotos: New life centro de bienestar y salud Cajamarca.jpg
+Nota: Rescatado: en Maps salia sin categoria ni datos de contacto; clasificado por el nombre.
+

@@ -1,0 +1,16 @@
+Nombre: Cevicheria y salón de billar
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
+Categoría Maps: Restaurante
+Dirección: Cajamarca 06001
+Teléfono: 
+Rating: 4.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.159107799999999
+Longitud: -78.5165856
+Google Maps: https://www.google.com/maps?cid=16474104384144726508
+Place Id: ChIJ_4EVOZhbspER7NmmYafGn-Q
+Fotos: Cevicheria y salón de billar.jpg
+

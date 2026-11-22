@@ -1,0 +1,17 @@
+Nombre: SOLARCYTEC
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
+Categoría Maps: Centro comercial
+Dirección: Jirón Manuel Seoane 673, Cajamarca 06002
+Teléfono: 976 862 542
+Rating: 3.2
+Reseñas: 9
+Sitio web: 
+Latitud: -7.1563159999999995
+Longitud: -78.50755219999999
+Google Maps: https://www.google.com/maps?cid=3827002044861973494
+Place Id: ChIJG04v6eRaspER9gOxXhU-HDU
+Fotos: SOLARCYTEC.jpg
+Nota: Centro comercial (no es una tienda individual)
+

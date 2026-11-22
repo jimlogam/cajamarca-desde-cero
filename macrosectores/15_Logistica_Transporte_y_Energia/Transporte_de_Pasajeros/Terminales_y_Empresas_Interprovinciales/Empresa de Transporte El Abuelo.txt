@@ -1,0 +1,17 @@
+Nombre: Empresa de Transporte El Abuelo
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: Av. Vía de Evitamiento Sur 992, Cajamarca 06003
+Teléfono: 949 250 112
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1670745
+Longitud: -78.50190909999999
+Google Maps: https://www.google.com/maps?cid=16125298619532617620
+Place Id: ChIJn6muMwBbspERlKdWsqiRyN8
+Fotos: Empresa de Transporte El Abuelo.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

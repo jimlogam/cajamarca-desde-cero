@@ -1,0 +1,16 @@
+Nombre: Difesa
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Frente A La Upn, Av. Vía De Evitamiento Mza. F, Cajamarca 06000
+Teléfono: 976 687 852
+Rating: 5
+Reseñas: 1
+Sitio web: https://difesa.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.1617465
+Longitud: -78.51278549999999
+Google Maps: https://www.google.com/maps?cid=9872547671339233836
+Place Id: ChIJE1BVFV1bspERLPJI0sxVAok
+Fotos: Difesa.jpg
+

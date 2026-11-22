@@ -1,0 +1,17 @@
+Nombre: Marifarma Botica - Perfumeria
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av San Martín de Porres 650, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1689720999999995
+Longitud: -78.5039742
+Google Maps: https://www.google.com/maps?cid=16981894061427652183
+Place Id: ChIJz65T-RtbspERV_a1yKzOq-s
+Fotos: Marifarma Botica - Perfumeria.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

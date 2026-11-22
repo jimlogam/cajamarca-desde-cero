@@ -1,0 +1,17 @@
+Nombre: Peluquería Lesis
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Peluquerias_y_Salones_Unisex
+Categoría Maps: Peluquería
+Dirección: Jr, Prol. Revilla Perez Nº 199, Cajamarca
+Teléfono: 993 358 372
+Rating: 3
+Reseñas: 5
+Sitio web: http://peluquerialesis.blogspot.com/
+Latitud: -7.152695
+Longitud: -78.5144929
+Google Maps: https://www.google.com/maps?cid=6363325998868554577
+Place Id: ChIJHxr4w8VbspERUWORGEgTT1g
+Fotos: Peluquería Lesis.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

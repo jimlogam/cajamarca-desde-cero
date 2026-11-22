@@ -1,0 +1,17 @@
+Nombre: EGOZ - Barber Studio
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: Av. La Paz 2098, Cajamarca 06003
+Teléfono: 935 957 737
+Rating: 5
+Reseñas: 9
+Sitio web: 
+Latitud: -7.180454699999999
+Longitud: -78.4996985
+Google Maps: https://www.google.com/maps?cid=1190467423733384900
+Place Id: ChIJLUCrjMVSwikRxIZNhNBjhRA
+Fotos: EGOZ - Barber Studio.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

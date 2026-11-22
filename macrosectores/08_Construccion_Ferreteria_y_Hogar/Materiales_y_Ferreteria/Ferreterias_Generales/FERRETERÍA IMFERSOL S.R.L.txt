@@ -1,0 +1,16 @@
+Nombre: FERRETERÍA IMFERSOL S.R.L.
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Barrio San Martin, Av San Martín de Porres 1414, Cajamarca 06003
+Teléfono: 945 582 229
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/Imfersol/
+Latitud: -7.1739827
+Longitud: -78.49844159999999
+Google Maps: https://www.google.com/maps?cid=1153727064058759443
+Place Id: ChIJ2y2wPI1bspEREwn67KbcAhA
+Fotos: FERRETERÍA IMFERSOL S.R.L.jpg
+

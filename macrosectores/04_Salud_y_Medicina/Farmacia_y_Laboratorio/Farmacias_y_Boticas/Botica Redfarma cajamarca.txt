@@ -1,0 +1,17 @@
+Nombre: Botica Redfarma cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jr.Amazonas 416, Cajamarca 06001
+Teléfono: 910 942 679
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.154944599999999
+Longitud: -78.51839799999999
+Google Maps: https://www.google.com/maps?cid=18261799833271786287
+Place Id: ChIJZUFGd2RbspERL9tzdTHybv0
+Fotos: Botica Redfarma cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

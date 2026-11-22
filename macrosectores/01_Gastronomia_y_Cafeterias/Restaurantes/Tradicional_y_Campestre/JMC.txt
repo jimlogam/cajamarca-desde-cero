@@ -1,0 +1,17 @@
+Nombre: JMC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Concesionario de vehículos todoterreno
+Dirección: Av Vía de Evitamiento Nte 350, Cajamarca 06001
+Teléfono: (076) 507144
+Rating: 4
+Reseñas: 1
+Sitio web: https://www.facebook.com/mundomotrizcax/
+Latitud: -7.1448652
+Longitud: -78.5133559
+Google Maps: https://www.google.com/maps?cid=17831984049983818067
+Place Id: ChIJn3gc571bspERU4m3-wPvd_c
+Fotos: JMC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

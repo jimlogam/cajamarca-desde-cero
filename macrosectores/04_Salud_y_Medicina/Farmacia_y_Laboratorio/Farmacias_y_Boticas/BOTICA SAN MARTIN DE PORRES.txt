@@ -1,0 +1,17 @@
+Nombre: BOTICA SAN MARTIN DE PORRES
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Vía de Evitamiento Sur N° 1010, Cajamarca 06003
+Teléfono: (076) 637746
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.167319099999999
+Longitud: -78.50180979999999
+Google Maps: https://www.google.com/maps?cid=3930631198894125705
+Place Id: ChIJc19BTCNbspERifImAUBojDY
+Fotos: BOTICA SAN MARTIN DE PORRES.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

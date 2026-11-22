@@ -1,0 +1,17 @@
+Nombre: Botica Felicidad 57
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Tayabamba 587, Cajamarca 06001
+Teléfono: 907 440 982
+Rating: 3.8
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1509845
+Longitud: -78.5159795
+Google Maps: https://www.google.com/maps?cid=540183444141100228
+Place Id: ChIJ_bsIJPdaspERxMyT_fodfwc
+Fotos: Botica Felicidad 57.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

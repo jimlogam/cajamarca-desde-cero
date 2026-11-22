@@ -1,0 +1,17 @@
+Nombre: Automotriz Dacarti
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Mariscal Cáceres 413, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1730639
+Longitud: -78.5071656
+Google Maps: https://www.google.com/maps?cid=16458946285660678330
+Place Id: ChIJX-H7kRpbspERuigKjnHsaeQ
+Fotos: Automotriz Dacarti.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

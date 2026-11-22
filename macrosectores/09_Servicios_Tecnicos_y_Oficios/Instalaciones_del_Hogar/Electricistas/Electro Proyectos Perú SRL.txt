@@ -1,0 +1,17 @@
+Nombre: Electro Proyectos Perú SRL
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Instalaciones_del_Hogar
+Subrubro: Electricistas
+Categoría Maps: Compañía eléctrica, Proveedor de equipos eléctricos
+Dirección: Av San Martín de Porres 2416, Cajamarca 06003
+Teléfono: 975 768 527
+Rating: 
+Reseñas: 
+Sitio web: http://www.elproperu.com.pe/
+Latitud: -7.1865714999999994
+Longitud: -78.4898115
+Google Maps: https://www.google.com/maps?cid=17315536151539043483
+Place Id: ChIJ__9jhR1bspERm0zrX2MkTfA
+Fotos: Electro Proyectos Perú SRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

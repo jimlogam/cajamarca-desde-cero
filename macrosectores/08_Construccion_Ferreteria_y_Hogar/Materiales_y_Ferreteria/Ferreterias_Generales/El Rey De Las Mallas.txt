@@ -1,0 +1,16 @@
+Nombre: El Rey De Las Mallas
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Tahuantinsuyo 512, Cajamarca 06003
+Teléfono: 935 504 592
+Rating: 4.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1774448
+Longitud: -78.5007675
+Google Maps: https://www.google.com/maps?cid=11800532979023099347
+Place Id: ChIJA62DSABbspER0zX09jjqw6M
+Fotos: El Rey De Las Mallas.jpg
+

@@ -1,0 +1,17 @@
+Nombre: ARTEYESTILO
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: 06003, Cajamarca 06003
+Teléfono: 926 563 975
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1770815
+Longitud: -78.4938282
+Google Maps: https://www.google.com/maps?cid=18116772377323217284
+Place Id: ChIJkXaqnLhbspERhKH1in20a_s
+Fotos: ARTEYESTILO.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

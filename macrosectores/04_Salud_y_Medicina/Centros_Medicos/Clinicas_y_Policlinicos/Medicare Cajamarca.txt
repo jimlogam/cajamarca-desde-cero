@@ -1,0 +1,17 @@
+Nombre: Medicare Cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Clínica especializada
+Dirección: San Roque 164, Cajamarca 06002
+Teléfono: 946 857 483
+Rating: 4.6
+Reseñas: 14
+Sitio web: 
+Latitud: -7.150375299999999
+Longitud: -78.5091041
+Google Maps: https://www.google.com/maps?cid=8101414918902161745
+Place Id: ChIJARenCgBbspERUaE2E_IBbnA
+Fotos: Medicare Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

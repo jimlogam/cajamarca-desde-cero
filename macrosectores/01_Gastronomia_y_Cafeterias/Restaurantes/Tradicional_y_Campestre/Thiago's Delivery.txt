@@ -1,0 +1,17 @@
+Nombre: Thiago's Delivery
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: 51, Cajamarca
+Teléfono: 948 993 390
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1482855999999995
+Longitud: -78.5237324
+Google Maps: https://www.google.com/maps?cid=12106012854610634041
+Place Id: ChIJ4Vdul1JbspEROSVhBY0yAag
+Fotos: Thiago's Delivery.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Sin categoria en Maps; clasificado por el nombre.
+

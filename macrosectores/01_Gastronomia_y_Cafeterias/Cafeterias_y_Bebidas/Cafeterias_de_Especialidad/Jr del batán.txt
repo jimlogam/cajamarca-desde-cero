@@ -1,0 +1,16 @@
+Nombre: Jr del batán
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
+Categoría Maps: Cafetería
+Dirección: Jr del Batán 241, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1552241
+Longitud: -78.5168087
+Google Maps: https://www.google.com/maps?cid=2439536301966633373
+Place Id: ChIJQ3KqVQBbspERnSlkZ1f52iE
+Fotos: Jr del batán.jpg
+

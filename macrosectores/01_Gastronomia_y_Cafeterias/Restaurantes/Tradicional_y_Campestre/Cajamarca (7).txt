@@ -1,0 +1,17 @@
+Nombre: Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Otorrinolaringólogo
+Dirección: RFPQ+MJF, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1633144
+Longitud: -78.5109428
+Google Maps: https://www.google.com/maps?cid=14888998817472840542
+Place Id: ChIJywkRKgBbspERXgOuCIpZoM4
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

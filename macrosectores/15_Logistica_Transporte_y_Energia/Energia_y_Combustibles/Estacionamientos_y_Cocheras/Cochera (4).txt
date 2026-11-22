@@ -1,0 +1,17 @@
+Nombre: Cochera
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estacionamientos_y_Cocheras
+Categoría Maps: Aparcamiento
+Dirección: RFJX+VQQ, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1677957
+Longitud: -78.500514
+Google Maps: https://www.google.com/maps?cid=12709897220972891569
+Place Id: ChIJ8UlHZQBbspERsU3Quy6gYrA
+Fotos: Cochera (4).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

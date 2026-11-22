@@ -1,0 +1,17 @@
+Nombre: Farmacia Salud Y Vida
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Juan Beato Macias 461, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.170692099999999
+Longitud: -78.4988726
+Google Maps: https://www.google.com/maps?cid=7366596178589769674
+Place Id: ChIJW55YjhhbspERyt-XzDFoO2Y
+Fotos: Farmacia Salud Y Vida.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Centro quiropractico ray cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Centro médico
+Dirección: Progreso 251-259, Cajamarca 06002
+Teléfono: 963 035 708
+Rating: 4
+Reseñas: 8
+Sitio web: https://www.centroquiropracticoray.com/
+Latitud: -7.1615138
+Longitud: -78.5095367
+Google Maps: https://www.google.com/maps?cid=8396379287918191029
+Place Id: ChIJ1XQD5_xaspERtaHP93nuhXQ
+Fotos: Centro quiropractico ray cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Farmacia Fuente De Vida
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av Vía de Evitamiento Nte 463, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1468913
+Longitud: -78.5218321
+Google Maps: https://www.google.com/maps?cid=10815111138555532528
+Place Id: ChIJLeQTkgRbspER8BT5k0f-FpY
+Fotos: Farmacia Fuente De Vida.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

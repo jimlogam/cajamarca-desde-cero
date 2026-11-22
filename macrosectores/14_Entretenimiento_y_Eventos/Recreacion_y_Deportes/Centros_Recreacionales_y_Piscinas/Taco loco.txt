@@ -1,0 +1,17 @@
+Nombre: Taco loco
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
+Categoría Maps: Club de billar
+Dirección: Calle Virgen del Rosario 451, Cajamarca 06003
+Teléfono: 946 342 331
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1826351
+Longitud: -78.49902089999999
+Google Maps: https://www.google.com/maps?cid=12068549558768929467
+Place Id: ChIJpzQOcABbspERu4qevOEZfKc
+Fotos: Taco loco.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

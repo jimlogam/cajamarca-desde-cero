@@ -1,0 +1,17 @@
+Nombre: Mifarma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Hoyos Rubio 714, Cajamarca 06001
+Teléfono: (01) 6125000
+Rating: 3.7
+Reseñas: 6
+Sitio web: https://www.mifarma.com.pe/?utm_medium=partoo&utm_source=GMB
+Latitud: -7.149988899999999
+Longitud: -78.5088504
+Google Maps: https://www.google.com/maps?cid=2141167953213309507
+Place Id: ChIJKcqawvFaspERQ8K6t-j0th0
+Fotos: Mifarma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: SALUD INTEGRAL Médicos Especialistas
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Centro médico, Clínica ambulatoria
+Dirección: Los Cerezos 128, Cajamarca 06001
+Teléfono: (076) 265499
+Rating: 4.6
+Reseñas: 14
+Sitio web: 
+Latitud: -7.1500705
+Longitud: -78.5156305
+Google Maps: https://www.google.com/maps?cid=13567160336727523579
+Place Id: ChIJ02m5RwBbspER-8BpwXE8SLw
+Fotos: SALUD INTEGRAL Médicos Especialistas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

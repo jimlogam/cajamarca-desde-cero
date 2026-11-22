@@ -1,0 +1,17 @@
+Nombre: Botica Farma Mundo
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. La Paz 1449, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.17566
+Longitud: -78.5030566
+Google Maps: https://www.google.com/maps?cid=11029232102216243605
+Place Id: ChIJobfeMBdbspERlRnvXSm0D5k
+Fotos: Botica Farma Mundo.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

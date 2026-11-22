@@ -1,0 +1,17 @@
+Nombre: Barbería “New Style” 🏻‍ 🏼
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: Dos de Mayo 1006 1006, Cajamarca 06002
+Teléfono: 955 681 079
+Rating: 3.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1533326
+Longitud: -78.5135822
+Google Maps: https://www.google.com/maps?cid=70347247055939963
+Place Id: ChIJoerf_P1bspEReymyz3Ls-QA
+Fotos: Barbería “New Style” 🏻‍ 🏼.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

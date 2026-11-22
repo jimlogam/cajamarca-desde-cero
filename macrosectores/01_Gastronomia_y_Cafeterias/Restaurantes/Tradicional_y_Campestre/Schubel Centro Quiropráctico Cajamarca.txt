@@ -1,0 +1,17 @@
+Nombre: Schubel Centro Quiropráctico Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Quiropráctico
+Dirección: esquina con pasaje Cumulca (a media cuadra del óvalo, Av. Mario Urteaga B14, Cajamarca 06002
+Teléfono: 933 693 358
+Rating: 5
+Reseñas: 43
+Sitio web: https://www.quiropractica.com.pe/
+Latitud: -7.1589605999999995
+Longitud: -78.5103536
+Google Maps: https://www.google.com/maps?cid=17150860172554886448
+Place Id: ChIJYT5qei5bspERMF2HMXUYBO4
+Fotos: Schubel Centro Quiropráctico Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

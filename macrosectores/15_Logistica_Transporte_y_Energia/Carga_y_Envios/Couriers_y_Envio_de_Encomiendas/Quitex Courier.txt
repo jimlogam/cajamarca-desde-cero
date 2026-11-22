@@ -1,0 +1,17 @@
+Nombre: Quitex Courier
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Servicio de mensajería
+Dirección: Av Larry Jhonson 323, Cajamarca 06002
+Teléfono: 956 268 274
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/Quitexcourier/
+Latitud: -7.1850917
+Longitud: -78.492699
+Google Maps: https://www.google.com/maps?cid=8072572710583701903
+Place Id: ChIJlw_TwcBbspERj5HaJRyKB3A
+Fotos: Quitex Courier.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

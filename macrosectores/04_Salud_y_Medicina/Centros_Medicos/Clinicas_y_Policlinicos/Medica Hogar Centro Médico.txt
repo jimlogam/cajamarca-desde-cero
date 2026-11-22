@@ -1,0 +1,17 @@
+Nombre: Medica Hogar Centro Médico
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Centro médico
+Dirección: 06000, Cajamarca 06000
+Teléfono: 952 221 388
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1529951
+Longitud: -78.5186045
+Google Maps: https://www.google.com/maps?cid=1270714904899051891
+Place Id: ChIJhaqqMKZbspERc2FNNXl8ohE
+Fotos: Medica Hogar Centro Médico.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

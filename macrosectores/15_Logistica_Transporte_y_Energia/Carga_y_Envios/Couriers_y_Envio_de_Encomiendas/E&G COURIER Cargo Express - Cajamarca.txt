@@ -1,0 +1,17 @@
+Nombre: E&G COURIER Cargo Express - Cajamarca
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Servicio de mensajería
+Dirección: Auxiliar Vía Evitamiento 1316, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1695649999999995
+Longitud: -78.4985743
+Google Maps: https://www.google.com/maps?cid=13284032803488958315
+Place Id: ChIJb2oRg3dbspERa4eY9HNdWrg
+Fotos: E&G COURIER Cargo Express - Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

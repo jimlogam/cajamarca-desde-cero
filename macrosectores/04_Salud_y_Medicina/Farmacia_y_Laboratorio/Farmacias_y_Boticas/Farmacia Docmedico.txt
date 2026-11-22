@@ -1,0 +1,17 @@
+Nombre: Farmacia Docmedico
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Túpac Amaru 1162, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1783652
+Longitud: -78.50399349999999
+Google Maps: https://www.google.com/maps?cid=16476615798861929799
+Place Id: ChIJVXacThFbspERRx3Br8WyqOQ
+Fotos: Farmacia Docmedico.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Hidrandina - trabajo
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Instalaciones_del_Hogar
+Subrubro: Electricistas
+Categoría Maps: Compañía eléctrica
+Dirección: Dos de Mayo 631, Cajamarca 06002
+Teléfono: (0801) 71001
+Rating: 2.3
+Reseñas: 38
+Sitio web: http://www.distriluz.com.pe/hidrandina/
+Latitud: -7.1561151999999995
+Longitud: -78.5160011
+Google Maps: https://www.google.com/maps?cid=237031657693516188
+Place Id: ChIJp1n_1vtaspERnBFYbQkbSgM
+Fotos: Hidrandina - trabajo.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

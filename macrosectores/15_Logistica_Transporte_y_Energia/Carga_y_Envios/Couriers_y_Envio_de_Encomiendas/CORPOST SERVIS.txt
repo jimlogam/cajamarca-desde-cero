@@ -1,0 +1,17 @@
+Nombre: CORPOST SERVIS
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Servicio de mensajería
+Dirección: Av. Vía de Evitamiento Sur 1160, Cajamarca 06002
+Teléfono: 973 173 730
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1687294999999995
+Longitud: -78.4998411
+Google Maps: https://www.google.com/maps?cid=14862545176740266464
+Place Id: ChIJ8ctvuolbspER4IHM1RdeQs4
+Fotos: CORPOST SERVIS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

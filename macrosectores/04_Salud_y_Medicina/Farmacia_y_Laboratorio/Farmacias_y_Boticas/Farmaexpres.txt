@@ -1,0 +1,17 @@
+Nombre: Farmaexpres
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Mártires de Uchuraccay 596, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.168348
+Longitud: -78.5028446
+Google Maps: https://www.google.com/maps?cid=8065068048326562052
+Place Id: ChIJDZMash5bspERBJHbzajg7G8
+Fotos: Farmaexpres.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

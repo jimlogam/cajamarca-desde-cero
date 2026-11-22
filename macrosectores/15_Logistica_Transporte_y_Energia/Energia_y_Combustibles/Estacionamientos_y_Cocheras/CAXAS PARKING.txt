@@ -1,0 +1,17 @@
+Nombre: CAXAS PARKING
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estacionamientos_y_Cocheras
+Categoría Maps: Aparcamiento cubierto
+Dirección: Cinco Esquinas 1501, Cajamarca 06002
+Teléfono: 941 495 214
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.152808899999999
+Longitud: -78.5080863
+Google Maps: https://www.google.com/maps?cid=13289842497261432265
+Place Id: ChIJby4wjhJbspERyW0oslYBb7g
+Fotos: CAXAS PARKING.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

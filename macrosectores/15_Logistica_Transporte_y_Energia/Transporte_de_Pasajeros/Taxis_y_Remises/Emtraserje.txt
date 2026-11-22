@@ -1,0 +1,17 @@
+Nombre: Emtraserje
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Servicio de taxis
+Dirección: Av. Independencia 368, Cajamarca 06002
+Teléfono: 973 361 993
+Rating: 
+Reseñas: 
+Sitio web: https://emtraserje.ueniweb.com/?utm_campaign=gmb
+Latitud: -7.166244
+Longitud: -78.511939
+Google Maps: https://www.google.com/maps?cid=10365836357444070517
+Place Id: ChIJY-d6c31bspERdWxIHT_Z2o8
+Fotos: Emtraserje.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

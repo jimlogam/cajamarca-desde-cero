@@ -1,0 +1,17 @@
+Nombre: Ola
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Delivery service, Service establishment
+Dirección: 
+Teléfono: 989 766 030
+Rating: 
+Reseñas: 
+Sitio web: https://www.olacajamarca.com/
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=10094228180829972930
+Place Id: ChIJYw2R4vldamcRwqkbiAznFYw
+Fotos: Ola (2).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

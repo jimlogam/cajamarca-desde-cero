@@ -1,0 +1,16 @@
+Nombre: CORPORACION BYE TOOLS EIRL
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Chanchamayo 695, Cajamarca 06001
+Teléfono: 947 050 469
+Rating: 5
+Reseñas: 2
+Sitio web: https://www.facebook.com/share/1J4M85ttZc/
+Latitud: -7.151661
+Longitud: -78.5185643
+Google Maps: https://www.google.com/maps?cid=2873243621557301652
+Place Id: ChIJRQcmo_daspERlHEUyNnP3yc
+Fotos: CORPORACION BYE TOOLS EIRL.jpg
+

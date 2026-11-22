@@ -1,0 +1,16 @@
+Nombre: Clínica Veterinaria "Padre Eterno"
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Veterinario
+Dirección: Yahuar Huaca 1095, Baños del Inca 06004
+Teléfono: 976 456 486
+Rating: 5
+Reseñas: 4
+Sitio web: https://www.facebook.com/Cl%C3%ADnica-Veterinaria-Padre-Eterno-808412406214066/
+Latitud: -7.1697837
+Longitud: -78.454464
+Google Maps: https://www.google.com/maps?cid=16431736632453871015
+Place Id: ChIJpYgOHzBFspERp7UvfGhBCeQ
+Fotos: Clínica Veterinaria Padre Eterno.jpg
+

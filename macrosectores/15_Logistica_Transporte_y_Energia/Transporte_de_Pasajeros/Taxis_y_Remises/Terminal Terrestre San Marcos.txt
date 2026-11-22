@@ -1,0 +1,17 @@
+Nombre: Terminal Terrestre San Marcos
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Parada de taxis
+Dirección: 3N 411, Cajamarca 06003
+Teléfono: 
+Rating: 4.2
+Reseñas: 27
+Sitio web: 
+Latitud: -7.167088799999999
+Longitud: -78.5015892
+Google Maps: https://www.google.com/maps?cid=4400105374364362314
+Place Id: ChIJQYyISRBbspERSmZGdYZQED0
+Fotos: Terminal Terrestre San Marcos.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

@@ -1,0 +1,16 @@
+Nombre: VESALIUS CAJAMARCA - PRE MEDICINA
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Centro educativo
+Dirección: Centro Comercial Coremarca, Jr. Tarapacá 882, Cajamarca 06001
+Teléfono: 982 022 401
+Rating: 4.8
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1546207
+Longitud: -78.5187749
+Google Maps: https://www.google.com/maps?cid=7446530750401146734
+Place Id: ChIJGbLlPpdbspERbu-umkNkV2c
+Fotos: VESALIUS CAJAMARCA - PRE MEDICINA.jpg
+

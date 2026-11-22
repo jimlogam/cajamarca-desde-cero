@@ -1,0 +1,17 @@
+Nombre: Boticas Perú
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jr.Amazonas 548, Cajamarca 06001
+Teléfono: (01) 2067000
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.boticasperu.pe/
+Latitud: -7.1554972999999995
+Longitud: -78.5175613
+Google Maps: https://www.google.com/maps?cid=9779066158450124854
+Place Id: ChIJDfSZXKVbspERNqh2Adw4toc
+Fotos: Boticas Perú.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

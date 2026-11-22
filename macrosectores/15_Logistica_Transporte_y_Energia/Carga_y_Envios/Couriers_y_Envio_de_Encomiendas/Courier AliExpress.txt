@@ -1,0 +1,17 @@
+Nombre: Courier AliExpress
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Oficina de correos
+Dirección: San Sebastián 258, Cajamarca 06002
+Teléfono: 947 743 447
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1623823
+Longitud: -78.5141592
+Google Maps: https://www.google.com/maps?cid=1117948746959668258
+Place Id: ChIJkUWrZgBbspERIsSfU3bAgw8
+Fotos: Courier AliExpress.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

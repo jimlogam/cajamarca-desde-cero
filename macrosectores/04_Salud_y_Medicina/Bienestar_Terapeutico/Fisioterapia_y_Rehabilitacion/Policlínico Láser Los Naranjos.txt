@@ -1,0 +1,17 @@
+Nombre: Policlínico Láser Los Naranjos
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Bienestar_Terapeutico
+Subrubro: Fisioterapia_y_Rehabilitacion
+Categoría Maps: Centro de salud y bienestar, Médico, Gastroenterólogo, Centro médico, Pediatra, Cirujano, Cirujano vascular
+Dirección: Jr. Los Naranjos 169, Cajamarca 06002
+Teléfono: (076) 341346
+Rating: 4.5
+Reseñas: 64
+Sitio web: http://policlinicolaserlosnaranjos.com/
+Latitud: -7.1491931
+Longitud: -78.5149086
+Google Maps: https://www.google.com/maps?cid=4644944196736536223
+Place Id: ChIJdaEiNfFaspERn07-DyModkA
+Fotos: Policlínico Láser Los Naranjos.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

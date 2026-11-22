@@ -1,0 +1,17 @@
+Nombre: HidermFarma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Auxiliar Vía Evitamiento 1312, Cajamarca 06003
+Teléfono: 944 220 616
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1697434
+Longitud: -78.4986751
+Google Maps: https://www.google.com/maps?cid=3091186563959103325
+Place Id: ChIJHcmq-ftbspERXR8-V80Z5io
+Fotos: HidermFarma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

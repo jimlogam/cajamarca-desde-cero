@@ -1,0 +1,17 @@
+Nombre: MC Transportes SAC
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Servicio de transporte, Servicio de envíos
+Dirección: Av. Atahualpa 679, Cajamarca 06002
+Teléfono: (076) 602739
+Rating: 3.8
+Reseñas: 8
+Sitio web: 
+Latitud: -7.165451099999999
+Longitud: -78.5013697
+Google Maps: https://www.google.com/maps?cid=17416731974563273520
+Place Id: ChIJ93mMUB5bspERMBsI_HOptPE
+Fotos: MC Transportes SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

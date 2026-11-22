@@ -1,0 +1,17 @@
+Nombre: A´S Express
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Delivery service, Service establishment
+Dirección: 
+Teléfono: 953 822 159
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.0663982999999995
+Longitud: -78.5600417
+Google Maps: https://www.google.com/maps?cid=8566033911430561558
+Place Id: ChIJf6h49IjplmsRFr_EKHWq4HY
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

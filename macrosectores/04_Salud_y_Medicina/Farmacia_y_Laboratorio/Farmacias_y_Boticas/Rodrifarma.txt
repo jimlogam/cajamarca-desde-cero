@@ -1,0 +1,17 @@
+Nombre: Rodrifarma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Perú 781, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1607875
+Longitud: -78.5218019
+Google Maps: https://www.google.com/maps?cid=17212234166420271727
+Place Id: ChIJ4zYuPqNbspERb3JSsMcj3u4
+Fotos: Rodrifarma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

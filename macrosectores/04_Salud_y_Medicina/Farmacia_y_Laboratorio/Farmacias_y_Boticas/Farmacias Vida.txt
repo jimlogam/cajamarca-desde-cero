@@ -1,0 +1,17 @@
+Nombre: Farmacias Vida
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Independencia 525, Cajamarca 06000
+Teléfono: (076) 620800
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.168580599999999
+Longitud: -78.5111913
+Google Maps: https://www.google.com/maps?cid=17263540360245672424
+Place Id: ChIJW8x7J3JbspER6PkP0n1qlO8
+Fotos: Farmacias Vida.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

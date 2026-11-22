@@ -1,0 +1,17 @@
+Nombre: Williams Courier
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Servicio de mensajería
+Dirección: Av San Martín de Porres 341, Cajamarca 06001
+Teléfono: 938 904 981
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1641641
+Longitud: -78.5077234
+Google Maps: https://www.google.com/maps?cid=4916924013627538230
+Place Id: ChIJvVWQJi5bspERNnvb41ZsPEQ
+Fotos: Williams Courier.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

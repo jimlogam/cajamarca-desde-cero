@@ -1,0 +1,17 @@
+Nombre: +LEVEL Barber Shop
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: 06001, Cajamarca 06001
+Teléfono: 929 218 567
+Rating: 
+Reseñas: 
+Sitio web: https://www.tiktok.com/@levelbarber1?_r=1&_t=ZS-9AAuw105IAc
+Latitud: -7.1796207
+Longitud: -78.4996105
+Google Maps: https://www.google.com/maps?cid=4620846134955875444
+Place Id: ChIJ34B-vatbspERdBzI0xOLIEA
+Fotos: +LEVEL Barber Shop.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

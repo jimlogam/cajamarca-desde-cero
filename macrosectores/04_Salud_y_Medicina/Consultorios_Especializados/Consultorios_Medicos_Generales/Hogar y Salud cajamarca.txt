@@ -1,0 +1,17 @@
+Nombre: Hogar y Salud cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Asociación de enfermería
+Dirección: Jr, Los Sauces 430, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1484285
+Longitud: -78.5142257
+Google Maps: https://www.google.com/maps?cid=14882166262903608327
+Place Id: ChIJHcx3ZdJbspERBxSs9F0TiM4
+Fotos: Hogar y Salud cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

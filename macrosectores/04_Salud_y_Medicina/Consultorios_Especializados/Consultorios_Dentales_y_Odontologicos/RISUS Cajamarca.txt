@@ -1,0 +1,17 @@
+Nombre: RISUS Cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Dentales_y_Odontologicos
+Categoría Maps: Dentista
+Dirección: Jr. Silva Santisteban 1073, Jr. Leguia 460, Cajamarca 06002
+Teléfono: 933 093 220
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1635776
+Longitud: -78.5117853
+Google Maps: https://www.google.com/maps?cid=18256548600429400774
+Place Id: ChIJhzT-gQJbspERxtI_iTlKXP0
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Inversiones y transportes chilon eirl
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: Jr. San Martin y, Cajamarca 06002
+Teléfono: 949 206 819
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1617465
+Longitud: -78.51278549999999
+Google Maps: https://www.google.com/maps?cid=13338325577383376161
+Place Id: ChIJKQ5k-VJbspERIXVxcnFAG7k
+Fotos: Inversiones y transportes chilon eirl.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

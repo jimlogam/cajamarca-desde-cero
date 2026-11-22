@@ -1,0 +1,17 @@
+Nombre: Transportes Super
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de autobuses
+Dirección: Angamos 762, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1505258
+Longitud: -78.5230885
+Google Maps: https://www.google.com/maps?cid=17452900675877843446
+Place Id: ChIJTetgZwBbspER9rHf_bEoNfI
+Fotos: Transportes Super.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

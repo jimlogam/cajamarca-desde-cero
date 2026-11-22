@@ -1,0 +1,16 @@
+Nombre: FERRETERÍA RUIZ
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería, Distribuidor de acero
+Dirección: Av. Vía de Evitamiento Sur #2022, Cajamarca 06003
+Teléfono: 
+Rating: 3.7
+Reseñas: 53
+Sitio web: 
+Latitud: -7.1742032
+Longitud: -78.49245499999999
+Google Maps: https://www.google.com/maps?cid=10866768619809884883
+Place Id: ChIJx1ElqTxbspER00ohMHyEzpY
+Fotos: FERRETERÍA RUIZ.jpg
+

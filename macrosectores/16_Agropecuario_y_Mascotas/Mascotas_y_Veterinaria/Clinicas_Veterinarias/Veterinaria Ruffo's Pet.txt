@@ -1,0 +1,17 @@
+Nombre: Veterinaria Ruffo's Pet
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Auxiliar Av. Atahualpa 595, Cajamarca 06001
+Teléfono: 950 244 196
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1654629
+Longitud: -78.5032428
+Google Maps: https://www.google.com/maps?cid=13226842953285422543
+Place Id: ChIJKXRkXgBbspERz810UpYvj7c
+Fotos: Veterinaria Ruffo's Pet.jpg
+Nota: Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

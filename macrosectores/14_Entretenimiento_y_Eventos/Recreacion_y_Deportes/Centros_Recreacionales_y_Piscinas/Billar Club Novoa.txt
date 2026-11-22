@@ -1,0 +1,17 @@
+Nombre: Billar Club Novoa
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
+Categoría Maps: Club de billar
+Dirección: Jr. Alfonso Ugarte 923, Cajamarca 06003
+Teléfono: 901 258 751
+Rating: 4.3
+Reseñas: 7
+Sitio web: 
+Latitud: -7.1739907
+Longitud: -78.5096741
+Google Maps: https://www.google.com/maps?cid=14286604893122209282
+Place Id: ChIJY7vsH7VbspERAibo5HQ3RMY
+Fotos: Billar Club Novoa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

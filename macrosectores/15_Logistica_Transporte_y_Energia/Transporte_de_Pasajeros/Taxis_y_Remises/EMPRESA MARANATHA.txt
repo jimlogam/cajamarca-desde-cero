@@ -1,0 +1,17 @@
+Nombre: EMPRESA MARANATHA
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Servicio de transporte
+Dirección: 06001, Cajamarca 06001
+Teléfono: 980 432 526
+Rating: 5
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1741221
+Longitud: -78.4997344
+Google Maps: https://www.google.com/maps?cid=14065010625979769293
+Place Id: ChIJYXUTGplbspERzWGeC6X0MMM
+Fotos: EMPRESA MARANATHA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

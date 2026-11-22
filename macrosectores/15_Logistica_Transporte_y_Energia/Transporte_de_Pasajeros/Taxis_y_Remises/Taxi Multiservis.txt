@@ -1,0 +1,17 @@
+Nombre: Taxi Multiservis
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Servicio de taxis, Oficinas de empresa
+Dirección: Jr, Huacariz Cdra 3, Cajamarca
+Teléfono: 986 736 078
+Rating: 3.4
+Reseñas: 10
+Sitio web: 
+Latitud: -7.187259999999999
+Longitud: -78.4924918
+Google Maps: https://www.google.com/maps?cid=15413419472901555302
+Place Id: ChIJndh6d3xbspERZsRiyFh359U
+Fotos: Taxi Multiservis.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

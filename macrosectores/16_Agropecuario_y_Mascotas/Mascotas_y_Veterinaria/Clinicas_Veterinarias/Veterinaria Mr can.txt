@@ -1,0 +1,16 @@
+Nombre: Veterinaria Mr can
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Prol. Revilla Perez 146, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1532450999999995
+Longitud: -78.5147964
+Google Maps: https://www.google.com/maps?cid=501057505693024666
+Place Id: ChIJwxX6ROlbspERmkHgjiUd9AY
+Fotos: Veterinaria Mr can.jpg
+

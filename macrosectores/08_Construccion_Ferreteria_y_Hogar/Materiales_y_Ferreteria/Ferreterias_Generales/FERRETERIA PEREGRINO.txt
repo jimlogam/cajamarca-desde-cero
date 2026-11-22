@@ -1,0 +1,16 @@
+Nombre: FERRETERIA PEREGRINO
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Delfín Cerna 345, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.153204499999999
+Longitud: -78.5095894
+Google Maps: https://www.google.com/maps?cid=4155729777919944443
+Place Id: ChIJP1S1uI5bspER-2ZuCzcerDk
+Fotos: FERRETERIA PEREGRINO.jpg
+

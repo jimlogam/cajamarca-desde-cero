@@ -1,0 +1,17 @@
+Nombre: Termas solares Cajamarca
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Instalaciones_del_Hogar
+Subrubro: Electricistas
+Categoría Maps: Empresa de energía solar
+Dirección: Av. Atahualpa, Cajamarca 06002
+Teléfono: 986 441 523
+Rating: 5
+Reseñas: 1
+Sitio web: https://m.facebook.com/100071539592953/
+Latitud: -7.1658513
+Longitud: -78.50972929999999
+Google Maps: https://www.google.com/maps?cid=6092619479347201232
+Place Id: ChIJsUQIM1tbspER0IQd6iJVjVQ
+Fotos: Termas solares Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,16 @@
+Nombre: MEDINA FERRETERÍAS
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Av. San Martín de Porres #2316 Av. San Martín de Porres #2316 Jr. Colonial #325, Av. Atahualpa 539, Cajamarca 06002
+Teléfono: 976 402 048
+Rating: 4.1
+Reseñas: 65
+Sitio web: https://www.facebook.com/medinaferreterias/
+Latitud: -7.1829662999999995
+Longitud: -78.4915882
+Google Maps: https://www.google.com/maps?cid=9588471681897918346
+Place Id: ChIJvU15eB5bspERiu9qWjEYEYU
+Fotos: MEDINA FERRETERÍAS.jpg
+

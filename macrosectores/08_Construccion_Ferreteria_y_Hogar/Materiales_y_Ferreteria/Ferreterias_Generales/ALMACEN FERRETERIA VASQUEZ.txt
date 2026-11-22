@@ -1,0 +1,16 @@
+Nombre: ALMACEN FERRETERIA VASQUEZ
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: RGG3+32J, Cajamarca 06003
+Teléfono: 976 660 568
+Rating: 4.4
+Reseñas: 14
+Sitio web: 
+Latitud: -7.1747838999999995
+Longitud: -78.4974867
+Google Maps: https://www.google.com/maps?cid=11086612497980476386
+Place Id: ChIJjX1lXD1bspER4kuI2FOP25k
+Fotos: Sin foto en Maps
+

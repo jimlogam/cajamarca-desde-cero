@@ -1,0 +1,17 @@
+Nombre: Solgas Cajamarca D. Camacho
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Venta_de_Gas_GLP_y_Balones
+Categoría Maps: 
+Dirección: Solgas COHERCAM, Cajamarca 06003
+Teléfono: 976 000 760
+Rating: 3.2
+Reseñas: 11
+Sitio web: 
+Latitud: -7.180935799999999
+Longitud: -78.5045294
+Google Maps: https://www.google.com/maps?cid=18248205194434515831
+Place Id: ChIJkWDyjEBbspERdxO18vClPv0
+Fotos: Solgas Cajamarca D. Camacho.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Sin categoria en Maps; clasificado por el nombre.
+

@@ -1,0 +1,17 @@
+Nombre: COCHERA DANNA
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estacionamientos_y_Cocheras
+Categoría Maps: Aparcamiento
+Dirección: Av. Hoyos Rubio 1371, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.147556499999999
+Longitud: -78.5025204
+Google Maps: https://www.google.com/maps?cid=14542484323267386784
+Place Id: ChIJ-w3Tbk1bspERoB0KUHFI0ck
+Fotos: COCHERA DANNA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

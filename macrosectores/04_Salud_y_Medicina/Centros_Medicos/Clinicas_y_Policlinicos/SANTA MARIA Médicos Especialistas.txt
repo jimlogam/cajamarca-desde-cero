@@ -1,0 +1,17 @@
+Nombre: SANTA MARIA Médicos Especialistas
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Centro médico
+Dirección: Av. Mario Urteaga 153, Cajamarca 06002
+Teléfono: 976 917 013
+Rating: 3.2
+Reseñas: 6
+Sitio web: http://centromedicosantamaria.com/
+Latitud: -7.1580485
+Longitud: -78.5112252
+Google Maps: https://www.google.com/maps?cid=2064013508936593320
+Place Id: ChIJdUaBY_taspERqO_Fy1nZpBw
+Fotos: SANTA MARIA Médicos Especialistas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

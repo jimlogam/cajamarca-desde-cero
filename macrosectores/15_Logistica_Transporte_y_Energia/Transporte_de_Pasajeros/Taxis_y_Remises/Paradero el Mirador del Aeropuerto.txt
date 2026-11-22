@@ -1,0 +1,17 @@
+Nombre: Paradero el Mirador del Aeropuerto
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Parada de taxis
+Dirección: VGF4+4F9, Sector Shultin, distrito de, Baños del Inca
+Teléfono: 
+Rating: 4.3
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1272205
+Longitud: -78.4937609
+Google Maps: https://www.google.com/maps?cid=6237292700648489683
+Place Id: ChIJd3WFY9FbspER00JKJqpQj1Y
+Fotos: Paradero el Mirador del Aeropuerto.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

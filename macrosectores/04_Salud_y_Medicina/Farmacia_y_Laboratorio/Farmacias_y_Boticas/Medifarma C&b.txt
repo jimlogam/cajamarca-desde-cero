@@ -1,0 +1,17 @@
+Nombre: Medifarma C&b
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jr.Amazonas 825, Cajamarca 06002
+Teléfono: 993 004 497
+Rating: 5
+Reseñas: 1
+Sitio web: http://sites.google.com/view/medifarma-cb/p%C3%A1gina-principal
+Latitud: -7.157470999999999
+Longitud: -78.5149911
+Google Maps: https://www.google.com/maps?cid=6180835808491983465
+Place Id: ChIJgWKB4HNbspERadItnGu9xlU
+Fotos: Medifarma C&b.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

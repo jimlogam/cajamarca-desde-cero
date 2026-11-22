@@ -1,0 +1,17 @@
+Nombre: NORCELIS AUTOMOTRIZ
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Partes_y_Accesorios
+Subrubro: Repuestos_y_Llantas
+Categoría Maps: Tienda de repuestos para automóviles
+Dirección: Av. Vía de Evitamiento Sur 6003, Cajamarca 06001
+Teléfono: 963 134 961
+Rating: 4.5
+Reseñas: 4
+Sitio web: https://norcelis.com/
+Latitud: -7.1800549
+Longitud: -78.4845476
+Google Maps: https://www.google.com/maps?cid=4720373103266168552
+Place Id: ChIJIelJGBlbspER6P5861MigkE
+Fotos: NORCELIS AUTOMOTRIZ.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

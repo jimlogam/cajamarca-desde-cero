@@ -1,0 +1,17 @@
+Nombre: Servico Automotriz Ohmpower
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Auxiliar Vía Evitamiento 1262, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.168605899999999
+Longitud: -78.5002746
+Google Maps: https://www.google.com/maps?cid=12291354646280321701
+Place Id: ChIJATAu0xhbspERpbriq-2pk6o
+Fotos: Servico Automotriz Ohmpower.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

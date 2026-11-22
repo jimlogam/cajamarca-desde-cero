@@ -1,0 +1,17 @@
+Nombre: Barberia - salon "LA ZONA"
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: Av. Hoyos Rubio 852, Cajamarca 06001
+Teléfono: 932 757 299
+Rating: 3
+Reseñas: 2
+Sitio web: 
+Latitud: -7.149362699999999
+Longitud: -78.50801489999999
+Google Maps: https://www.google.com/maps?cid=1232928122662390704
+Place Id: ChIJJ_bY83xbspERsIvhYJg9HBE
+Fotos: Barberia - salon LA ZONA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

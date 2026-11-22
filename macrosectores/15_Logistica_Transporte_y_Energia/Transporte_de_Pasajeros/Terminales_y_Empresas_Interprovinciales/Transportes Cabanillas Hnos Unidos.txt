@@ -1,0 +1,17 @@
+Nombre: Transportes Cabanillas Hnos Unidos.
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte con acompañante
+Dirección: Av. Independencia 351, Cajamarca 06002
+Teléfono: 915 210 695
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.165748799999999
+Longitud: -78.5116522
+Google Maps: https://www.google.com/maps?cid=8534271978078282091
+Place Id: ChIJV9U2o7ZbspERayHtxSXTb3Y
+Fotos: Transportes Cabanillas Hnos Unidos.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

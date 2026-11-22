@@ -1,0 +1,17 @@
+Nombre: Grifo Nexa
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estaciones_de_Servicio_Grifos
+Categoría Maps: Gasolinera
+Dirección: RFQR+3JG, San Marcos, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1623151
+Longitud: -78.5084103
+Google Maps: https://www.google.com/maps?cid=16571140948003116637
+Place Id: ChIJE8pVuOJaspERXdanAOWE-OU
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

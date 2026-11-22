@@ -1,0 +1,17 @@
+Nombre: Jufex R.L Mecanica Automotriz Pitura y Planchado
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Taller de reparación de motores diésel
+Dirección: +51, Cajamarca 06001
+Teléfono: 912 906 404
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1449155
+Longitud: -78.50644729999999
+Google Maps: https://www.google.com/maps?cid=6802337926219287744
+Place Id: ChIJwQIwL0hbspERwMx3tk3CZl4
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

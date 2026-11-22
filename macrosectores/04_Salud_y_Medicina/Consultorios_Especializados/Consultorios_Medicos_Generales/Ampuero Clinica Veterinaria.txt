@@ -1,0 +1,16 @@
+Nombre: Ampuero Clinica Veterinaria
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Cuidados veterinarios
+Dirección: Av. Atahualpa 512, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1658513
+Longitud: -78.50367779999999
+Google Maps: https://www.google.com/maps?cid=6023905152352030854
+Place Id: ChIJu_V11R1bspERhpCW7tE1mVM
+Fotos: Sin foto en Maps
+

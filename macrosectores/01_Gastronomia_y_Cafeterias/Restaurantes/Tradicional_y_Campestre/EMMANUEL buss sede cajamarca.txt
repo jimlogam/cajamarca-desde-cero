@@ -1,0 +1,17 @@
+Nombre: "EMMANUEL" buss sede cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Empresa de autobuses
+Dirección: 06003, Cajamarca 06003
+Teléfono: 932 156 967
+Rating: 5
+Reseñas: 1
+Sitio web: https://wa.me/932156967
+Latitud: -7.1666156
+Longitud: -78.5010583
+Google Maps: https://www.google.com/maps?cid=14459192380392720795
+Place Id: ChIJZ09WuFRbspERm8lXpNxeqcg
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

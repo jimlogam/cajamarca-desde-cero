@@ -1,0 +1,17 @@
+Nombre: EL CUMBE PERU - CAJAMARCA
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Servicio de taxis
+Dirección: Psj. Lorenza Chonon 114, Cajamarca 06000
+Teléfono: 978 355 042
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.142629599999999
+Longitud: -78.52077299999999
+Google Maps: https://www.google.com/maps?cid=14335635466356392731
+Place Id: ChIJJeTlC_9bspERGwOq0YBo8sY
+Fotos: EL CUMBE PERU - CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

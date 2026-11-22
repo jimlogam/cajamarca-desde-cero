@@ -1,0 +1,16 @@
+Nombre: Clinica Veterinaria Mar Azul Nueva Cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Veterinario
+Dirección: Jr. San Luis 758, Nueva Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1836888
+Longitud: -78.4994736
+Google Maps: https://www.google.com/maps?cid=8501857434884735393
+Place Id: ChIJ29SoQn1bspERoYFR0Uqq_HU
+Fotos: Clinica Veterinaria Mar Azul Nueva Cajamarca.jpg
+

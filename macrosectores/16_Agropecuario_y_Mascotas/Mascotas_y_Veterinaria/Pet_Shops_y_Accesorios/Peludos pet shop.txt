@@ -1,0 +1,16 @@
+Nombre: Peludos pet shop
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Pet_Shops_y_Accesorios
+Categoría Maps: Tienda de productos para mascotas, Service establishment
+Dirección: 
+Teléfono: 945 287 757
+Rating: 
+Reseñas: 
+Sitio web: https://peludospetshop.com/
+Latitud: -7.0663982999999995
+Longitud: -78.5600417
+Google Maps: https://www.google.com/maps?cid=435466374793266281
+Place Id: ChIJNzzaVUdmYaMRaQQuVVwWCwY
+Fotos: Peludos pet shop.jpg
+

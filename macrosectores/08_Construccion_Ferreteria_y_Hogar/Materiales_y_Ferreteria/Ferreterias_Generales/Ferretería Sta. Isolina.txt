@@ -1,0 +1,16 @@
+Nombre: Ferretería "Sta. Isolina"
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Jiron, Jr. Sara MacDougall 405, Cajamarca 06001
+Teléfono: 
+Rating: 3
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1507175
+Longitud: -78.5213299
+Google Maps: https://www.google.com/maps?cid=2871009606303390014
+Place Id: ChIJ0xG1tnlbspERPplykgbg1yc
+Fotos: Ferretería Sta. Isolina.jpg
+

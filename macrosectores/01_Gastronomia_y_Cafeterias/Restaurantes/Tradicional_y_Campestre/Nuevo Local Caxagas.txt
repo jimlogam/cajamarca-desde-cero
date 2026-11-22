@@ -1,0 +1,17 @@
+Nombre: Nuevo Local Caxagas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de distribución
+Dirección: Cardosanto 263, Cajamarca 06002
+Teléfono: (076) 385353
+Rating: 
+Reseñas: 
+Sitio web: http://www.caxagas.pe/
+Latitud: -7.164169599999999
+Longitud: -78.49847559999999
+Google Maps: https://www.google.com/maps?cid=11265237020467549259
+Place Id: ChIJwxSd8R9bspERS1SMY2IpVpw
+Fotos: Nuevo Local Caxagas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

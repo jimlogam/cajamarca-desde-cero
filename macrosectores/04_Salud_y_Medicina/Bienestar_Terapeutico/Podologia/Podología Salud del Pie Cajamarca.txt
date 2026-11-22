@@ -1,0 +1,17 @@
+Nombre: Podología Salud del Pie Cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Bienestar_Terapeutico
+Subrubro: Podologia
+Categoría Maps: Podólogo
+Dirección: Av. Mario Urteaga 555, Cajamarca 06001
+Teléfono: 916 288 996
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1554087
+Longitud: -78.5141761
+Google Maps: https://www.google.com/maps?cid=13665409920551482224
+Place Id: ChIJO4s-AahbspERcPORmOtJpb0
+Fotos: Podología Salud del Pie Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

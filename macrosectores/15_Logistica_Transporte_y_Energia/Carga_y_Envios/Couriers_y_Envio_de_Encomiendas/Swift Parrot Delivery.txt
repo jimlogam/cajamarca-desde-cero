@@ -1,0 +1,17 @@
+Nombre: Swift Parrot Delivery
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Delivery service, Service establishment
+Dirección: 
+Teléfono: 904 467 215
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=7781430652237723749
+Place Id: ChIJtz0M-RIXrWYRZTj3TvMx_Ws
+Fotos: Swift Parrot Delivery.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

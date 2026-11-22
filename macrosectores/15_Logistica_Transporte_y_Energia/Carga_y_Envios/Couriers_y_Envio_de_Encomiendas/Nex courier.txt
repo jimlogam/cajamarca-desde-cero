@@ -1,0 +1,17 @@
+Nombre: Nex courier
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Servicio de mensajería
+Dirección: Av San Martín de Porres 341, Cajamarca 06002
+Teléfono: 938 904 981
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1641923
+Longitud: -78.5077472
+Google Maps: https://www.google.com/maps?cid=16283226714765604286
+Place Id: ChIJecYOl6VbspERvjXBwmyk-eE
+Fotos: Nex courier.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

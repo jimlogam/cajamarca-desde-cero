@@ -1,0 +1,16 @@
+Nombre: INVERSIONES FERRETERAS RUIZ
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería, Tienda de herramientas
+Dirección: Av San Martín de Porres 1370, Cajamarca 06003
+Teléfono: 995 206 980
+Rating: 5
+Reseñas: 3
+Sitio web: https://www.facebook.com/profile.php?viewas=100000686899395&id=100068737924067https://inversionesferrete.wixsite.com/my-site
+Latitud: -7.1735706
+Longitud: -78.49878819999999
+Google Maps: https://www.google.com/maps?cid=17285767981129327484
+Place Id: ChIJrfSHM7dbspERfOMIGWVi4-8
+Fotos: INVERSIONES FERRETERAS RUIZ.jpg
+

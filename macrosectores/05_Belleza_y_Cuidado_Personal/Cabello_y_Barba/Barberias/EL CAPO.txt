@@ -1,0 +1,17 @@
+Nombre: EL CAPO
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: Jr. San Martín 966, Cajamarca 06001
+Teléfono: 912 628 581
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.171323999999999
+Longitud: -78.5016761
+Google Maps: https://www.google.com/maps?cid=8575173300405345817
+Place Id: ChIJ_fMQTABbspERGR4T-q4iAXc
+Fotos: EL CAPO.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Zeta Gas Cajamarca
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estaciones_de_Servicio_Grifos
+Categoría Maps: Compañía del gas, Gasolinera
+Dirección: jr, Luis Alberto Sánchez #150, Cajamarca 06001
+Teléfono: 950 659 571
+Rating: 5
+Reseñas: 2
+Sitio web: https://www.facebook.com/ZgasCajamarca/
+Latitud: -7.1453061
+Longitud: -78.51775959999999
+Google Maps: https://www.google.com/maps?cid=18063104313321188497
+Place Id: ChIJSYBeVapbspERkexVqKsJrfo
+Fotos: Zeta Gas Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

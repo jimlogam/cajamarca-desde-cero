@@ -1,0 +1,17 @@
+Nombre: Solgas Cajamarca Anexo1
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Venta_de_Gas_GLP_y_Balones
+Categoría Maps: 
+Dirección: Cajamarca 06001
+Teléfono: 935 671 940
+Rating: 5
+Reseñas: 2
+Sitio web: http://www.solgas.com.pe/
+Latitud: -7.1486133999999995
+Longitud: -78.50821119999999
+Google Maps: https://www.google.com/maps?cid=16125696641260422208
+Place Id: ChIJ-aHh50NbspERQIQJWqj7yd8
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Sin categoria en Maps; clasificado por el nombre.
+

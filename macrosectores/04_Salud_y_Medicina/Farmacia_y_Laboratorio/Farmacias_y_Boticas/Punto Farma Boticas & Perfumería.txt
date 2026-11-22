@@ -1,0 +1,17 @@
+Nombre: Punto Farma Boticas & Perfumería
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. La Paz 1454, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1758275
+Longitud: -78.5031391
+Google Maps: https://www.google.com/maps?cid=11930406973016828929
+Place Id: ChIJIVK5MRdbspERAeyClO5RkaU
+Fotos: Punto Farma Boticas & Perfumería.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

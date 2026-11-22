@@ -1,0 +1,17 @@
+Nombre: Angel Divino
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Servicio de transporte
+Dirección: RFPM+4J5, Cajamarca 06002
+Teléfono: 
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1647471
+Longitud: -78.5158861
+Google Maps: https://www.google.com/maps?cid=16422631516595543768
+Place Id: ChIJo95JmjVbspER2N7Pf1ro6OM
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

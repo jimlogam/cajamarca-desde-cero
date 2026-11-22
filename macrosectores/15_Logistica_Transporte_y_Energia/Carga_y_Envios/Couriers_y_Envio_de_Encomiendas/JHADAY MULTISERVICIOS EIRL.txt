@@ -1,0 +1,17 @@
+Nombre: JHADAY MULTISERVICIOS EIRL
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Servicio de envíos
+Dirección: +51 951961054, Cajamarca
+Teléfono: 951 961 054
+Rating: 3
+Reseñas: 1
+Sitio web: 
+Latitud: -7.140930099999999
+Longitud: -78.5267389
+Google Maps: https://www.google.com/maps?cid=13975829801816838977
+Place Id: ChIJ_Se-mBpbspERQVOcWigf9ME
+Fotos: JHADAY MULTISERVICIOS EIRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

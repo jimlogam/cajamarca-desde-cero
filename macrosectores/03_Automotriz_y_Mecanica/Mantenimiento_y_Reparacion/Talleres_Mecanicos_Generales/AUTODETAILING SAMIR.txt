@@ -1,0 +1,17 @@
+Nombre: AUTODETAILING SAMIR
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Taller de reparación de automóviles
+Dirección: &, Av. la Paccha, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1878129
+Longitud: -78.49178619999999
+Google Maps: https://www.google.com/maps?cid=5781932839784478462
+Place Id: ChIJHRW5c4hbspER_vaEpkiNPVA
+Fotos: AUTODETAILING SAMIR.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

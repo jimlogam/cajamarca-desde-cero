@@ -1,0 +1,17 @@
+Nombre: Corporación Sj Automotriz
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Partes_y_Accesorios
+Subrubro: Repuestos_y_Llantas
+Categoría Maps: Tienda de repuestos para automóviles
+Dirección: Jirón Sucre 467, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1665399
+Longitud: -78.5096429
+Google Maps: https://www.google.com/maps?cid=16913200614063301617
+Place Id: ChIJB5ZOMANbspER8WMpOFnCt-o
+Fotos: Corporación Sj Automotriz.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Taxi Plus
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Servicio de taxis
+Dirección: Amancaes 490/Esquina con cinco esquinas/antes de, Cajamarca 06001
+Teléfono: 932 534 415
+Rating: 3.8
+Reseñas: 62
+Sitio web: 
+Latitud: -7.1516646999999995
+Longitud: -78.50520449999999
+Google Maps: https://www.google.com/maps?cid=601114777353277807
+Place Id: ChIJd2GbpuhbspERb1FhhbSWVwg
+Fotos: Taxi Plus.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

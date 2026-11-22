@@ -1,0 +1,17 @@
+Nombre: Farmacia Los Gemelitos
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jirón Silva Santisteban 364, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1604025
+Longitud: -78.51553679999999
+Google Maps: https://www.google.com/maps?cid=1517868091572717945
+Place Id: ChIJk3slhf5aspEReYkXvvyMEBU
+Fotos: Farmacia Los Gemelitos.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

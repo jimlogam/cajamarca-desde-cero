@@ -1,0 +1,17 @@
+Nombre: Farmacia Anyfarma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Túpac Amaru 240, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.172199399999999
+Longitud: -78.50862029999999
+Google Maps: https://www.google.com/maps?cid=4307790872976532886
+Place Id: ChIJhf2NzxpbspERlqVvrvlYyDs
+Fotos: Farmacia Anyfarma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Popeye Cargos
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: Av. La Paz 1282, Cajamarca 06003
+Teléfono: 
+Rating: 3.5
+Reseñas: 6
+Sitio web: 
+Latitud: -7.17458
+Longitud: -78.5041947
+Google Maps: https://www.google.com/maps?cid=6147684594039028098
+Place Id: ChIJc-bdEgBbspERgnnWApH2UFU
+Fotos: Popeye Cargos.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

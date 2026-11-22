@@ -1,0 +1,17 @@
+Nombre: BOTICA RONCAL
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Mártires de Uchuraccay 561, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1680347
+Longitud: -78.5028493
+Google Maps: https://www.google.com/maps?cid=14846353035641221447
+Place Id: ChIJl5XZaHJbspERR_FvM23XCM4
+Fotos: BOTICA RONCAL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

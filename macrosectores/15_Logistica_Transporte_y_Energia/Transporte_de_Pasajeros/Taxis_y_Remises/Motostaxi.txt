@@ -1,0 +1,17 @@
+Nombre: Motostaxi
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Parada de taxis
+Dirección: Av. Mario Urteaga 445, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1559247
+Longitud: -78.5135207
+Google Maps: https://www.google.com/maps?cid=8694862206807355055
+Place Id: ChIJGxjkeABbspERr664Fxxbqng
+Fotos: Motostaxi.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

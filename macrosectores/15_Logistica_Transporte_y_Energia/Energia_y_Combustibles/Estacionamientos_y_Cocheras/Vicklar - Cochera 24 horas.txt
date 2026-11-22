@@ -1,0 +1,17 @@
+Nombre: Vicklar - Cochera 24 horas
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estacionamientos_y_Cocheras
+Categoría Maps: Aparcamiento
+Dirección: Amalia Puga 821, Cajamarca 06002
+Teléfono: 
+Rating: 3.1
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1585231
+Longitud: -78.5157131
+Google Maps: https://www.google.com/maps?cid=3177699344367456634
+Place Id: ChIJO_oscpZbspERepEDsLd0GSw
+Fotos: Vicklar - Cochera 24 horas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

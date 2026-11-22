@@ -1,0 +1,17 @@
+Nombre: CELSER PLAZUELA BOLOGNESI
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Instalaciones_del_Hogar
+Subrubro: Electricistas
+Categoría Maps: Compañía eléctrica
+Dirección: Av. Atahualpa N°114, Cajamarca 06001
+Teléfono: 965 380 220
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1637944
+Longitud: -78.5107445
+Google Maps: https://www.google.com/maps?cid=5274074883587632647
+Place Id: ChIJMeYBiu1bspERB-4M0ylHMUk
+Fotos: CELSER PLAZUELA BOLOGNESI.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

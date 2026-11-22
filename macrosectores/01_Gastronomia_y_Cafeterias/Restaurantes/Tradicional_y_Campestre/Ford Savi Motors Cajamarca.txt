@@ -1,0 +1,17 @@
+Nombre: Ford Savi Motors Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Concesionario de automóviles
+Dirección: Av Vía de Evitamiento Nte 310, Cajamarca 06001
+Teléfono: 967 250 926
+Rating: 4.7
+Reseñas: 178
+Sitio web: http://savimotors.pe/
+Latitud: -7.144965
+Longitud: -78.5126705
+Google Maps: https://www.google.com/maps?cid=3464607333919842081
+Place Id: ChIJWcztoPNaspERIV-BkAPCFDA
+Fotos: Ford Savi Motors Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

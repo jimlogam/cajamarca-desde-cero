@@ -1,0 +1,16 @@
+Nombre: Allq'u Pet Barber Shop
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Baños del Inca 175, Cajamarca 06002
+Teléfono: 959 403 782
+Rating: 4.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.164699
+Longitud: -78.4680059
+Google Maps: https://www.google.com/maps?cid=219750497745872986
+Place Id: ChIJfX6GWBBFspERWqhb1em1DAM
+Fotos: Sin foto en Maps
+

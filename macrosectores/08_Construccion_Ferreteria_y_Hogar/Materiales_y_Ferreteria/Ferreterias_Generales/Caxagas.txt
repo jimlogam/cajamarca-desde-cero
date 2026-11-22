@@ -1,0 +1,16 @@
+Nombre: Caxagas
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Jr. Guillermo Urrelo 677, Cajamarca 06002
+Teléfono: (076) 375353
+Rating: 3.6
+Reseñas: 39
+Sitio web: https://www.caxagas.pe/
+Latitud: -7.1599353
+Longitud: -78.5164594
+Google Maps: https://www.google.com/maps?cid=17636624747959683498
+Place Id: ChIJrx6DM_9aspERqgkA88PgwfQ
+Fotos: Caxagas.jpg
+

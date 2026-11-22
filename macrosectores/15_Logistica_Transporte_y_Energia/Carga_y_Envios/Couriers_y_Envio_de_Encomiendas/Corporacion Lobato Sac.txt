@@ -1,0 +1,17 @@
+Nombre: Corporacion Lobato Sac
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Servicio de envíos
+Dirección: Angamos 1131, Cajamarca 06001
+Teléfono: 973 867 202
+Rating: 4.4
+Reseñas: 5
+Sitio web: 
+Latitud: -7.147027
+Longitud: -78.5245048
+Google Maps: https://www.google.com/maps?cid=17217555010083520340
+Place Id: ChIJ-WbU6V5aspERVH_GJA8L8e4
+Fotos: Corporacion Lobato Sac.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

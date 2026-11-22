@@ -1,0 +1,17 @@
+Nombre: BLAS ENERGIA Y CONSTRUCCION SAC
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: 
+Dirección: RFWV+Q4V, Cajamarca 06002
+Teléfono: 950 382 754
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.152982199999999
+Longitud: -78.5071981
+Google Maps: https://www.google.com/maps?cid=18137149709093727936
+Place Id: ChIJfS9kbABbspERwG6c0JAZtPs
+Fotos: BLAS ENERGIA Y CONSTRUCCION SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Sin categoria en Maps; clasificado por el nombre.
+

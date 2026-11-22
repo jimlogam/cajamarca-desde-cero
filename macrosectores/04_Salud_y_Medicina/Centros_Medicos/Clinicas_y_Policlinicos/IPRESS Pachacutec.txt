@@ -1,0 +1,17 @@
+Nombre: IPRESS Pachacutec
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Centro médico
+Dirección: Av. Perú 900, Cajamarca 06002
+Teléfono: 918 829 537
+Rating: 1.8
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1615679
+Longitud: -78.5198861
+Google Maps: https://www.google.com/maps?cid=5444623115997379878
+Place Id: ChIJc9IPm_9aspERJn3njOAvj0s
+Fotos: IPRESS Pachacutec.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

@@ -1,0 +1,17 @@
+Nombre: Nuevo Terminal de Cajamarca
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Servicio de transporte
+Dirección: San José 125, Cajamarca 06003
+Teléfono: 
+Rating: 3.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1668107999999995
+Longitud: -78.5012041
+Google Maps: https://www.google.com/maps?cid=45507353588055624
+Place Id: ChIJWY5wGwBbspERSL5IbbKsoQA
+Fotos: Nuevo Terminal de Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Ruta 91 Courier Delivery
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Servicio de mensajería
+Dirección: Mario Florián 152, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.149578399999999
+Longitud: -78.5052711
+Google Maps: https://www.google.com/maps?cid=17184900476727404721
+Place Id: ChIJxRSWI_hbspERsSjHH-8Hfe4
+Fotos: Ruta 91 Courier Delivery.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

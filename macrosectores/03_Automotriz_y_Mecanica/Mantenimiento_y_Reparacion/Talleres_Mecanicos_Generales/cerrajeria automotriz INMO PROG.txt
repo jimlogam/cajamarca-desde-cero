@@ -1,0 +1,17 @@
+Nombre: cerrajeria automotriz INMO PROG
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Servicio de duplicación de llaves
+Dirección: Tahuantinsuyo 430, Cajamarca 06003
+Teléfono: 936 463 806
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1768427
+Longitud: -78.49989889999999
+Google Maps: https://www.google.com/maps?cid=13948993169808667474
+Place Id: ChIJY7HTZCNbspERUrPLDGLHlME
+Fotos: cerrajeria automotriz INMO PROG.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

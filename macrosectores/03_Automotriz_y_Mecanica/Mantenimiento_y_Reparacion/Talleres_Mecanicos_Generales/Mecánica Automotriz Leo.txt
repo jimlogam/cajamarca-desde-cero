@@ -1,0 +1,17 @@
+Nombre: Mecánica Automotriz Leo
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Túpac Amaru 455, Cajamarca 06001
+Teléfono: 997 573 548
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1736691
+Longitud: -78.50792129999999
+Google Maps: https://www.google.com/maps?cid=304256456073746188
+Place Id: ChIJafOeE8FbspERDBflgKLvOAQ
+Fotos: Mecánica Automotriz Leo.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

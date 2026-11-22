@@ -1,0 +1,17 @@
+Nombre: Botica Sol
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Revolución 245, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1623069
+Longitud: -78.5224643
+Google Maps: https://www.google.com/maps?cid=8585772670372157979
+Place Id: ChIJkyWdFlVaspERGxrKG8HKJnc
+Fotos: Botica Sol.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

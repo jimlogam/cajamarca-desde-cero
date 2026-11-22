@@ -1,0 +1,17 @@
+Nombre: Botica Linares
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Prolongacion Petateros 2130, Cajamarca 06002
+Teléfono: 916 045 616
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.170762
+Longitud: -78.51312399999999
+Google Maps: https://www.google.com/maps?cid=11594066046199734649
+Place Id: ChIJiafIRQRbspEReSEnGqRl5qA
+Fotos: Botica Linares.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

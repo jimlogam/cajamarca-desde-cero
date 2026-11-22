@@ -1,0 +1,17 @@
+Nombre: VOLAR Delivery
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Delivery service, Service establishment, Servicio de envíos
+Dirección: 
+Teléfono: 923 878 636
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1606359
+Longitud: -78.48512649999999
+Google Maps: https://www.google.com/maps?cid=5410565073867570475
+Place Id: ChIJsd1sUc5BKUkRK_0CrkQwFks
+Fotos: VOLAR Delivery (2).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

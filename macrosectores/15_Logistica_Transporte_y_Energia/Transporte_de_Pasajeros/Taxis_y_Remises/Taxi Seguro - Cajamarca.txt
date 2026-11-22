@@ -1,0 +1,17 @@
+Nombre: Taxi Seguro - Cajamarca
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Servicio de taxis
+Dirección: Jirón Jose Olaya 298, Cajamarca 06003
+Teléfono: (076) 365103
+Rating: 3.6
+Reseñas: 92
+Sitio web: http://grupotaxiseguro.com/
+Latitud: -7.169149999999999
+Longitud: -78.51038679999999
+Google Maps: https://www.google.com/maps?cid=11428241907355179817
+Place Id: ChIJyR5XoQRbspERKVsjH3dFmZ4
+Fotos: Taxi Seguro - Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

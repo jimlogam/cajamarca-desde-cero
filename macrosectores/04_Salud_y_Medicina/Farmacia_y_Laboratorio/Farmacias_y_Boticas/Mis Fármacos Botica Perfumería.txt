@@ -1,0 +1,17 @@
+Nombre: Mis Fármacos Botica Perfumería
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Los Manantiales 1479, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1657516999999995
+Longitud: -78.5153017
+Google Maps: https://www.google.com/maps?cid=2555742728856059135
+Place Id: ChIJEw6IhgFbspER_7zAknjSdyM
+Fotos: Mis Fármacos Botica Perfumería.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

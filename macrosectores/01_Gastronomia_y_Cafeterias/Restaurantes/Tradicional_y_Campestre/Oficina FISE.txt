@@ -1,0 +1,17 @@
+Nombre: Oficina FISE
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Proveedor de energía
+Dirección: Primavera 119, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.156256699999999
+Longitud: -78.51452119999999
+Google Maps: https://www.google.com/maps?cid=1389247269068658300
+Place Id: ChIJaaiXFn9bspERfNYE2geZRxM
+Fotos: Oficina FISE.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Fit Club Cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Bienestar_Terapeutico
+Subrubro: Fisioterapia_y_Rehabilitacion
+Categoría Maps: Programa de salud y bienestar
+Dirección: Jr. Sara MacDougall 493, Cajamarca 06001
+Teléfono: 954 873 865
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1500784
+Longitud: -78.5206611
+Google Maps: https://www.google.com/maps?cid=10579189308770395468
+Place Id: ChIJx-nDzk9bspERTKXeGKDU0JI
+Fotos: Fit Club Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

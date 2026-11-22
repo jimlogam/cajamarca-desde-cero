@@ -1,0 +1,17 @@
+Nombre: Green 32 Urea Automotriz
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Compañía de automatización
+Dirección: Av. Nuevo Cajamarca 430, Cajamarca 06003
+Teléfono: 980 629 175
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1789065999999995
+Longitud: -78.4978903
+Google Maps: https://www.google.com/maps?cid=15203533193527539799
+Place Id: ChIJW_CCGeBbspERV7gRQ-PM_dI
+Fotos: Green 32 Urea Automotriz.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

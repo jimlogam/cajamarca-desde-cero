@@ -1,0 +1,16 @@
+Nombre: Mascotas Market D'pelos
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: amiga, Jr. Guillermo Urrelo 723, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 3
+Sitio web: 
+Latitud: -7.159495499999999
+Longitud: -78.516167
+Google Maps: https://www.google.com/maps?cid=18306298567752019101
+Place Id: ChIJ-R5EOABbspERnewZc44JDf4
+Fotos: Mascotas Market D'pelos.jpg
+

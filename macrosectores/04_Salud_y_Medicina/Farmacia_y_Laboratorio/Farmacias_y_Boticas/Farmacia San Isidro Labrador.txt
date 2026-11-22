@@ -1,0 +1,17 @@
+Nombre: Farmacia San Isidro Labrador
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jirón Sucre 456, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1663076
+Longitud: -78.50917
+Google Maps: https://www.google.com/maps?cid=16858366372522729731
+Place Id: ChIJcwIc1RxbspERA6Gbd-Xy9Ok
+Fotos: Farmacia San Isidro Labrador.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

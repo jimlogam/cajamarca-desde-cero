@@ -1,0 +1,17 @@
+Nombre: BIG MAN BARBERSHOP
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: Amalia Puga 866, Cajamarca 06002
+Teléfono: 943 375 607
+Rating: 4.9
+Reseñas: 7
+Sitio web: https://www.facebook.com/Barbershopbigman/
+Latitud: -7.158832899999999
+Longitud: -78.5156605
+Google Maps: https://www.google.com/maps?cid=8813157071152366378
+Place Id: ChIJ4R4ErXhbspERKkPCf6mfTno
+Fotos: BIG MAN BARBERSHOP.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

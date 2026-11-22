@@ -1,0 +1,17 @@
+Nombre: EXTINTORES SEPREIN
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Servicio de envíos
+Dirección: Jirón Puno N° 229, Cajamarca 06001
+Teléfono: 986 740 018
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.151640899999999
+Longitud: -78.5231707
+Google Maps: https://www.google.com/maps?cid=10358134342014823378
+Place Id: ChIJTZpAjGFbspER0muR5018v48
+Fotos: EXTINTORES SEPREIN.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

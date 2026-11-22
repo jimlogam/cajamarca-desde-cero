@@ -1,0 +1,16 @@
+Nombre: Ferreteria "Faicham"
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: RFGW+G98 La Historia, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1737116
+Longitud: -78.5040424
+Google Maps: https://www.google.com/maps?cid=15335214274240390503
+Place Id: ChIJfzjHBhpbspERZyWZCiKg0dQ
+Fotos: Ferreteria Faicham.jpg
+

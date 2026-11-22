@@ -1,0 +1,17 @@
+Nombre: EMPRESA DE TRANSPORTES AVE FENIX
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: Sta. Clara 151, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1658024
+Longitud: -78.5017384
+Google Maps: https://www.google.com/maps?cid=17282786576116001135
+Place Id: ChIJd5en9rFbspERb6lIptLK2O8
+Fotos: EMPRESA DE TRANSPORTES AVE FENIX (2).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

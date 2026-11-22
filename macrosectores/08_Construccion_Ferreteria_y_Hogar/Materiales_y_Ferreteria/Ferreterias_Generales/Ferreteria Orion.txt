@@ -1,0 +1,16 @@
+Nombre: Ferreteria Orion
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Av San Martín de Porres 2224, Cajamarca 06003
+Teléfono: (076) 605017
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1815552
+Longitud: -78.49261369999999
+Google Maps: https://www.google.com/maps?cid=3844719772851533009
+Place Id: ChIJ92j4KT9bspER0XS8YUMwWzU
+Fotos: Ferreteria Orion.jpg
+

@@ -1,0 +1,17 @@
+Nombre: DXN EMPRENDIMIENTO Y SALUD
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Educación mixta
+Dirección: Av. Nuevo Cajamarca 146, Cajamarca 22845
+Teléfono: 919 066 825
+Rating: 
+Reseñas: 
+Sitio web: https://www.dxn2ulatam.com/pws/360022934
+Latitud: -7.176075999999999
+Longitud: -78.5001956
+Google Maps: https://www.google.com/maps?cid=507633951620151200
+Place Id: ChIJsXx2NfdbspERoDc_smN6Cwc
+Fotos: DXN EMPRENDIMIENTO Y SALUD.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: MIFARMA
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jirón del Comercio 673, Cajamarca 06001
+Teléfono: 901 600 832
+Rating: 2.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1562000999999995
+Longitud: -78.519447
+Google Maps: https://www.google.com/maps?cid=10921541213742742318
+Place Id: ChIJcUlljPhaspERLrvsfN4bkZc
+Fotos: MIFARMA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

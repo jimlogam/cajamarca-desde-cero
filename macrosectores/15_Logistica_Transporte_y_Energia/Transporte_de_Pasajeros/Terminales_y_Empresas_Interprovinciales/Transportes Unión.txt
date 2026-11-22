@@ -1,0 +1,17 @@
+Nombre: Transportes Unión
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: Av. Vía de Evitamiento Sur 936, Cajamarca 06001
+Teléfono: 942 059 425
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1663828
+Longitud: -78.5023973
+Google Maps: https://www.google.com/maps?cid=8999417661085558123
+Place Id: ChIJ3Qp_9kRbspERa6Vhiq5a5Hw
+Fotos: Transportes Unión.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

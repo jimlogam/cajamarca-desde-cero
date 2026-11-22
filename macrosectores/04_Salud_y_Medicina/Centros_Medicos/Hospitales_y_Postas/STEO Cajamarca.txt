@@ -1,0 +1,17 @@
+Nombre: STEO Cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Hospitales_y_Postas
+Categoría Maps: Hospital
+Dirección: Av. Héroes de San Ramón 366, Cajamarca 06002
+Teléfono: 981 695 014
+Rating: 5
+Reseñas: 1
+Sitio web: http://www.steo.com.pe/
+Latitud: -7.1624659
+Longitud: -78.5122573
+Google Maps: https://www.google.com/maps?cid=3720352973939953554
+Place Id: ChIJhe1Lnv1aspERkk_CilFZoTM
+Fotos: STEO Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

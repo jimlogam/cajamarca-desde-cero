@@ -1,0 +1,17 @@
+Nombre: New America Boticas + Belleza
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av San Martín de Porres 895, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1707988
+Longitud: -78.5019554
+Google Maps: https://www.google.com/maps?cid=8086692875169926299
+Place Id: ChIJu_5YDBlbspERm4wvKFO0OXA
+Fotos: New America Boticas + Belleza.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

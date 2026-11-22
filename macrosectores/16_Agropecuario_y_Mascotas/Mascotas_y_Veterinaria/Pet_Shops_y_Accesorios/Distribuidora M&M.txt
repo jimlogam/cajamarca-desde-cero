@@ -1,0 +1,17 @@
+Nombre: Distribuidora M&M
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Pet_Shops_y_Accesorios
+Categoría Maps: Pajarería
+Dirección: Jr, Angamos 569, Cajamarca 06001
+Teléfono: 986 454 566
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1517507
+Longitud: -78.52205649999999
+Google Maps: https://www.google.com/maps?cid=13375141370212875517
+Place Id: ChIJI-wWrXRbspER_XwrMDYMnrk
+Fotos: Distribuidora M&M.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Salud Vida
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Perú 590, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1604925999999995
+Longitud: -78.52265659999999
+Google Maps: https://www.google.com/maps?cid=1953472732860688005
+Place Id: ChIJjZbGulVaspERhaaSwBkhHBs
+Fotos: Salud Vida.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

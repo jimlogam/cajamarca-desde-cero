@@ -1,0 +1,17 @@
+Nombre: Turismo virgen del Carmen
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: Terminal terrestre, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1666447
+Longitud: -78.500461
+Google Maps: https://www.google.com/maps?cid=10650438700178406160
+Place Id: ChIJkSHJawBbspEREPs0wpH1zZM
+Fotos: Turismo virgen del Carmen.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

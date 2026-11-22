@@ -1,0 +1,17 @@
+Nombre: CASTOPE SALÓN BARBER
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería, Centro de estética
+Dirección: Av San Martín de Porres 435-B, Cajamarca 06002
+Teléfono: 
+Rating: 4.5
+Reseñas: 12
+Sitio web: https://www.facebook.com/castopesalonbarber2012
+Latitud: -7.1649064
+Longitud: -78.5064604
+Google Maps: https://www.google.com/maps?cid=1547991040686116207
+Place Id: ChIJv2oz2VNbspERb02VX6aRexU
+Fotos: CASTOPE SALÓN BARBER.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

@@ -1,0 +1,16 @@
+Nombre: "Cruchaga" Clínica Veterinaria
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Cuidados veterinarios
+Dirección: Av. Héroes de San Ramón 358, Cajamarca 06000
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1624142
+Longitud: -78.5123034
+Google Maps: https://www.google.com/maps?cid=17462697177542735228
+Place Id: ChIJC3Kqn_1aspERfLWmx4_2V_I
+Fotos: Sin foto en Maps
+

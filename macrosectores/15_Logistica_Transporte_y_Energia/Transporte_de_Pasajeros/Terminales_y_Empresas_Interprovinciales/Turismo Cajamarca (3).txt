@@ -1,0 +1,17 @@
+Nombre: Turismo Cajamarca
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: Chanchamayo 1595, Cajamarca 06001
+Teléfono: 952 772 240
+Rating: 4.5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1466578
+Longitud: -78.5230938
+Google Maps: https://www.google.com/maps?cid=3195490763645936491
+Place Id: ChIJS_eqOttbspERa2MoSuupWCw
+Fotos: Turismo Cajamarca (3).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

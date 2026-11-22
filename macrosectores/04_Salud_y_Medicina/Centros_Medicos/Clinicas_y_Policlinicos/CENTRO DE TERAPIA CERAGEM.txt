@@ -1,0 +1,17 @@
+Nombre: CENTRO DE TERAPIA CERAGEM
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Clínica de medicina alternativa
+Dirección: Jirón Silva Santisteban 992, Cajamarca 06002
+Teléfono: 990 147 740
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1630690999999995
+Longitud: -78.51238149999999
+Google Maps: https://www.google.com/maps?cid=3220560330333738027
+Place Id: ChIJzXoMg_1aspERK9RBo466sSw
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

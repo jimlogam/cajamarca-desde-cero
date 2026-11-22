@@ -1,0 +1,17 @@
+Nombre: BOTICA PHARMABELEN+
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av San Martín de Porres 792, Cajamarca 06003
+Teléfono: 940 524 071
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.170284199999999
+Longitud: -78.5028569
+Google Maps: https://www.google.com/maps?cid=5005695973608075986
+Place Id: ChIJBW6_aBlbspER0jKDePfNd0U
+Fotos: BOTICA PHARMABELEN+.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,16 @@
+Nombre: Soto Ferreterías
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Angamos 634, Cajamarca 06001
+Teléfono: 
+Rating: 4.4
+Reseñas: 12
+Sitio web: 
+Latitud: -7.1511765
+Longitud: -78.52256009999999
+Google Maps: https://www.google.com/maps?cid=10937598308323193360
+Place Id: ChIJi9sZW1haspEREHKEJ7Ynypc
+Fotos: Soto Ferreterías (2).jpg
+

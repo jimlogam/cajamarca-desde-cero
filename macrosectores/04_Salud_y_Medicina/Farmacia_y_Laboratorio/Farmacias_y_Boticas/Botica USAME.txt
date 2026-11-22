@@ -1,0 +1,17 @@
+Nombre: Botica USAME
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: RFRQ+MPG, Av. Mario Urteaga, Cajamarca 06002
+Teléfono: 
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1583196
+Longitud: -78.5106607
+Google Maps: https://www.google.com/maps?cid=14241739752721322267
+Place Id: ChIJx8M0kW1bspERG5GDYNnSpMU
+Fotos: Botica USAME.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

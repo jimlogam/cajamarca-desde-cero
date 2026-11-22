@@ -1,0 +1,17 @@
+Nombre: Transportes Cerna Y Quispe
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: Av. La Paz 2293, Cajamarca 06003
+Teléfono: 
+Rating: 3.3
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1865862
+Longitud: -78.4962505
+Google Maps: https://www.google.com/maps?cid=364527666322732546
+Place Id: ChIJXdkQSUBbspERAvb3LfsPDwU
+Fotos: Transportes Cerna Y Quispe.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

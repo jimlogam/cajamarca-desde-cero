@@ -1,0 +1,16 @@
+Nombre: Bembitos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Menu_y_Comida_Casera
+Categoría Maps: Comida a domicilio
+Dirección: 06001, Ancash 231, Cajamarca 06001
+Teléfono: 931 592 637
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1651321999999995
+Longitud: -78.5020378
+Google Maps: https://www.google.com/maps?cid=13052823019677170787
+Place Id: ChIJQUnSExZbspERYzzmK2HxJLU
+Fotos: Bembitos.jpg
+

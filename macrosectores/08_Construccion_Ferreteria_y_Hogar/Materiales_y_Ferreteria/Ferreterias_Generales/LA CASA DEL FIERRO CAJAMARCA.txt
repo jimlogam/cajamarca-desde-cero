@@ -1,0 +1,16 @@
+Nombre: LA CASA DEL FIERRO CAJAMARCA
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: VG32+HRV, Cajamarca 06001
+Teléfono: 987 797 117
+Rating: 4.3
+Reseñas: 3
+Sitio web: 
+Latitud: -7.146007999999999
+Longitud: -78.4979482
+Google Maps: https://www.google.com/maps?cid=13603831919994978623
+Place Id: ChIJJzGlf5FbspERP8FrFw6Fyrw
+Fotos: LA CASA DEL FIERRO CAJAMARCA.jpg
+

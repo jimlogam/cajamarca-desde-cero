@@ -1,0 +1,17 @@
+Nombre: Nc barber
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: Cajamarca 06003
+Teléfono: 927 803 304
+Rating: 
+Reseñas: 
+Sitio web: http://wa.me/51927803304
+Latitud: -7.174246999999999
+Longitud: -78.50827699999999
+Google Maps: https://www.google.com/maps?cid=9218852646041407207
+Place Id: ChIJE9baBNlbspER5873U6Px738
+Fotos: Nc barber.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

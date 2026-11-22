@@ -1,0 +1,17 @@
+Nombre: Dr. Hugo Bustamante Traumatólogo Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Cirujano ortopédico
+Dirección: Jr, Celendín 670, Cajamarca 06002
+Teléfono: 928 005 230
+Rating: 5
+Reseñas: 52
+Sitio web: https://www.facebook.com/traumatologo.cajamarca
+Latitud: -7.1773796
+Longitud: -78.497832
+Google Maps: https://www.google.com/maps?cid=10999909948065101469
+Place Id: ChIJCTjQc1lbspERnba0V9GHp5g
+Fotos: Dr. Hugo Bustamante Traumatólogo Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

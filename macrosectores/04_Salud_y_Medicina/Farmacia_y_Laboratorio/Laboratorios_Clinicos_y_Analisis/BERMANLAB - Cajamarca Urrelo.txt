@@ -1,0 +1,17 @@
+Nombre: BERMANLAB - Cajamarca Urrelo
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Laboratorios_Clinicos_y_Analisis
+Categoría Maps: Centro de diagnóstico
+Dirección: Jr. Guillermo Urrelo 1038, Cajamarca 06002
+Teléfono: (076) 281313
+Rating: 3
+Reseñas: 2
+Sitio web: http://www.bermanlab.com/
+Latitud: -7.156707
+Longitud: -78.5135951
+Google Maps: https://www.google.com/maps?cid=18368185984710027244
+Place Id: ChIJceXs0OhbspER7CfzktXn6P4
+Fotos: BERMANLAB - Cajamarca Urrelo.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

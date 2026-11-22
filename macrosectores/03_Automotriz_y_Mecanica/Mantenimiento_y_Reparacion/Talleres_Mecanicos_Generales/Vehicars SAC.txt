@@ -1,0 +1,17 @@
+Nombre: Vehicars SAC
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Taller de reparación de automóviles
+Dirección: Cinco Esquinas 1631, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1518676
+Longitud: -78.50697029999999
+Google Maps: https://www.google.com/maps?cid=9102982770131849513
+Place Id: ChIJD2Vhme9aspERKdE1iplKVH4
+Fotos: Vehicars SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

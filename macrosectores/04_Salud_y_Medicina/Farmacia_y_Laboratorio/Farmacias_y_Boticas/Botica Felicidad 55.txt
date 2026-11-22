@@ -1,0 +1,17 @@
+Nombre: Botica Felicidad 55
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Independencia 198, Cajamarca 06001
+Teléfono: 
+Rating: 3.2
+Reseñas: 11
+Sitio web: https://www.nortfarma.com.pe/
+Latitud: -7.164257699999999
+Longitud: -78.51126599999999
+Google Maps: https://www.google.com/maps?cid=14960681916323618533
+Place Id: ChIJZ05FmgJbspER5V4UFPAEn88
+Fotos: Botica Felicidad 55.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: CSMC "Esperanza de Vida"
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Bienestar_Terapeutico
+Subrubro: Psicologia_y_Salud_Mental
+Categoría Maps: Servicio de salud mental
+Dirección: Jr. Alfonso Ugarte 1133, Cajamarca 06003
+Teléfono: 
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1761485
+Longitud: -78.5087782
+Google Maps: https://www.google.com/maps?cid=17796068164459398212
+Place Id: ChIJkVw4C19bspERRIQ9PbVV-PY
+Fotos: CSMC Esperanza de Vida.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

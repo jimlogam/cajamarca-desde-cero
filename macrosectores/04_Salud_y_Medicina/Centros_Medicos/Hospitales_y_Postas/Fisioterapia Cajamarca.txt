@@ -1,0 +1,17 @@
+Nombre: Fisioterapia Cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Hospitales_y_Postas
+Categoría Maps: Hospital
+Dirección: hostal ruiz, Cajamarca 06001
+Teléfono: 946 562 700
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.1472054
+Longitud: -78.5080432
+Google Maps: https://www.google.com/maps?cid=16033450580338562643
+Place Id: ChIJWUy_GTxbspERU1bcnFpCgt4
+Fotos: Fisioterapia Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

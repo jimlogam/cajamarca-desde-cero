@@ -1,0 +1,17 @@
+Nombre: Estacionamiento
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Parada de transporte público
+Dirección: Julio Guerrero, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1598583
+Longitud: -78.51039759999999
+Google Maps: https://www.google.com/maps?cid=7986913717932796068
+Place Id: ChIJ7fZKwfxaspERpCgUwbU3124
+Fotos: Estacionamiento.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Rusia Cuba Medicina Integrativa
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Centro médico
+Dirección: Av. Hoyos Rubio 423, Cajamarca 06002
+Teléfono: 938 409 785
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1512331
+Longitud: -78.51166789999999
+Google Maps: https://www.google.com/maps?cid=4644504504189656038
+Place Id: ChIJccFdvpxbspER5hvtKT2YdEA
+Fotos: Rusia Cuba Medicina Integrativa.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

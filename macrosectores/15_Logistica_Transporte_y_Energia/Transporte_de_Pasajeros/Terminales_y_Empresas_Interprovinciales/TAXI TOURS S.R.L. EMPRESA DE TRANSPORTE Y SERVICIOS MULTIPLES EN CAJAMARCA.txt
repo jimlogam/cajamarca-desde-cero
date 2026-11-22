@@ -1,0 +1,17 @@
+Nombre: "TAXI TOURS S.R.L." EMPRESA DE TRANSPORTE Y SERVICIOS MULTIPLES EN CAJAMARCA
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: 06001, Cajamarca 06001
+Teléfono: 
+Rating: 1
+Reseñas: 1
+Sitio web: https://wa.me/51968971019?text=Buen%20d%C3%ADa%2C%20acabo%20de%20ver%20su%20anuncio%20y%20quisiera%20informaci%C3%B3n%20m%C3%A1s%20detallada%20para%20poder%20ingresar%20a%20su%20empresa%2C%20gracias.
+Latitud: -7.1696876
+Longitud: -78.507117
+Google Maps: https://www.google.com/maps?cid=10948667710083509189
+Place Id: ChIJ48K8Sp9bspERxStRF0Z78Zc
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

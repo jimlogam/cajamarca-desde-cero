@@ -1,0 +1,17 @@
+Nombre: DELTA SOLUCIONES EN SEGURIDAD
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de seguridad
+Dirección: Mz. A 47 - Barrio, Lucmacucho, Cajamarca 06001
+Teléfono: (076) 608581
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1531458
+Longitud: -78.5392626
+Google Maps: https://www.google.com/maps?cid=7067185551830092441
+Place Id: ChIJ3wLbGBZbspERmQqb2tCvE2I
+Fotos: DELTA SOLUCIONES EN SEGURIDAD.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

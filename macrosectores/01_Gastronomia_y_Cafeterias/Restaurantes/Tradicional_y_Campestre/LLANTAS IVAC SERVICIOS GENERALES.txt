@@ -1,0 +1,17 @@
+Nombre: LLANTAS IVAC SERVICIOS GENERALES
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Llantera
+Dirección: 0051, Cajamarca 06003
+Teléfono: 991 135 133
+Rating: 5
+Reseñas: 2
+Sitio web: http://www.servillantasivac.com/
+Latitud: -7.1672207
+Longitud: -78.50146219999999
+Google Maps: https://www.google.com/maps?cid=1085103135129740137
+Place Id: ChIJxfC-w7lbspERaSMSYo0PDw8
+Fotos: LLANTAS IVAC SERVICIOS GENERALES.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

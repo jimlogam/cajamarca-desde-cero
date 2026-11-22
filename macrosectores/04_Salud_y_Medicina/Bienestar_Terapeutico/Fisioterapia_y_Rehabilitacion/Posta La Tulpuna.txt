@@ -1,0 +1,17 @@
+Nombre: Posta "La Tulpuna"
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Bienestar_Terapeutico
+Subrubro: Fisioterapia_y_Rehabilitacion
+Categoría Maps: Centro de salud y bienestar
+Dirección: Pasaje. Urubamba, Cajamarca 06003
+Teléfono: 
+Rating: 3.7
+Reseñas: 87
+Sitio web: 
+Latitud: -7.1772939
+Longitud: -78.5091075
+Google Maps: https://www.google.com/maps?cid=72513496998645568
+Place Id: ChIJG1ga2RFbspERQI8GLqSeAQE
+Fotos: Posta La Tulpuna.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

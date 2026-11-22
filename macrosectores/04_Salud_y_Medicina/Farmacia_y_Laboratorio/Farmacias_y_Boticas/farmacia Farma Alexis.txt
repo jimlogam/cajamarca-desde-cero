@@ -1,0 +1,17 @@
+Nombre: farmacia Farma Alexis
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Los 3 Reyes 207, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1470056
+Longitud: -78.51931019999999
+Google Maps: https://www.google.com/maps?cid=1967306145512823332
+Place Id: ChIJ-xYi5vVaspERJBq8H4RGTRs
+Fotos: farmacia Farma Alexis.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,16 @@
+Nombre: JC Ferreteria
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: José Gálvez 560, Cajamarca 06001
+Teléfono: 985 321 233
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.157303199999999
+Longitud: -78.5228017
+Google Maps: https://www.google.com/maps?cid=971795836946643537
+Place Id: ChIJa2r1YbRbspERUXpoNyqDfA0
+Fotos: JC Ferreteria.jpg
+

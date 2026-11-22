@@ -1,0 +1,17 @@
+Nombre: Empresa de transportes y actividades múltiples NAZARETH SRL
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Asociación u organización
+Dirección: Jr. 23 de septiembre, Cajamarca
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1617465
+Longitud: -78.51278549999999
+Google Maps: https://www.google.com/maps?cid=9592525352910320574
+Place Id: ChIJa1nZzlRbspERvvMlL_x-H4U
+Fotos: Empresa de transportes y actividades múltiples NAZARETH SRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

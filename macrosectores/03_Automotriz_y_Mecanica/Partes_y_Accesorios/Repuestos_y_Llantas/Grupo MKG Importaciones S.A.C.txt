@@ -1,0 +1,17 @@
+Nombre: Grupo MKG Importaciones S.A.C.
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Partes_y_Accesorios
+Subrubro: Repuestos_y_Llantas
+Categoría Maps: Tienda de repuestos para automóviles
+Dirección: Jirón Sucre 444, Cajamarca 06002
+Teléfono: 989 517 385
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1663692
+Longitud: -78.5092279
+Google Maps: https://www.google.com/maps?cid=5170676544257988116
+Place Id: ChIJ5SaOo35bspERFBbx7OvuwUc
+Fotos: Grupo MKG Importaciones S.A.C.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

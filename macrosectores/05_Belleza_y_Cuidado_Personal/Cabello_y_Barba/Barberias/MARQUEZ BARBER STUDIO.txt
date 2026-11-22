@@ -1,0 +1,17 @@
+Nombre: MARQUEZ BARBER STUDIO
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: Av. Mártires de Uchuraccay 489, Cajamarca 06003
+Teléfono: 992 812 994
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.167605099999999
+Longitud: -78.5031781
+Google Maps: https://www.google.com/maps?cid=875509502644491631
+Place Id: ChIJa5ss4QJbspERb5WaBkFvJgw
+Fotos: MARQUEZ BARBER STUDIO.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

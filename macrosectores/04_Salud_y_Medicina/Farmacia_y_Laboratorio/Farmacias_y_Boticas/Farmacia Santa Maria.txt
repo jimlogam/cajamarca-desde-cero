@@ -1,0 +1,17 @@
+Nombre: Farmacia Santa Maria
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Héroes de San Ramón 136, Cajamarca 06002
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1614153
+Longitud: -78.5134882
+Google Maps: https://www.google.com/maps?cid=6923836492056986685
+Place Id: ChIJt74-tv1aspERPYTx_5poFmA
+Fotos: Farmacia Santa Maria.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

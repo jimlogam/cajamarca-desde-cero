@@ -1,0 +1,16 @@
+Nombre: Solgas central av. San martin Cajamarca- 970772767
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Venta_de_Gas_GLP_y_Balones
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Jr. San Martin 1423, Cajamarca 06003
+Teléfono: 970 772 767
+Rating: 4
+Reseñas: 4
+Sitio web: http://www.solgasconfianzakg.com/
+Latitud: -7.1546305
+Longitud: -78.5154195
+Google Maps: https://www.google.com/maps?cid=9638809472047195219
+Place Id: ChIJz442vp9bspERUyQLbyXuw4U
+Fotos: Solgas central av. San martin Cajamarca- 970772767.jpg
+

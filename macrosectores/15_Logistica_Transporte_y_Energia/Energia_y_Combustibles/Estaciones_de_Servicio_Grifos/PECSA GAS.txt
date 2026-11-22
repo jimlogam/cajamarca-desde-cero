@@ -1,0 +1,17 @@
+Nombre: PECSA GAS
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estaciones_de_Servicio_Grifos
+Categoría Maps: Gasolinera
+Dirección: Juan Beato Macias 1149, Cajamarca 06003
+Teléfono: 
+Rating: 4.6
+Reseñas: 9
+Sitio web: 
+Latitud: -7.1756506
+Longitud: -78.4936622
+Google Maps: https://www.google.com/maps?cid=180525440366403968
+Place Id: ChIJl9NV1CBbspERgOH1ee5agQI
+Fotos: PECSA GAS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

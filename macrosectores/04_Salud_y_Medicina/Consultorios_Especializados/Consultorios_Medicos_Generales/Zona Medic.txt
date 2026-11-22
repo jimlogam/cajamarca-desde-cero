@@ -1,0 +1,17 @@
+Nombre: Zona Medic
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: 
+Dirección: Av. Mario Urteaga 367, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1565201
+Longitud: -78.5130179
+Google Maps: https://www.google.com/maps?cid=1428476265873449087
+Place Id: ChIJPdqpu_taspERf6B2bZj30hM
+Fotos: Zona Medic.jpg
+Nota: Rescatado: en Maps salia sin categoria ni datos de contacto; clasificado por el nombre.
+

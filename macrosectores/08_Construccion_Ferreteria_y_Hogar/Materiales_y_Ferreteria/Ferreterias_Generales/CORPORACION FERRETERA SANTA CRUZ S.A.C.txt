@@ -1,0 +1,16 @@
+Nombre: CORPORACION FERRETERA SANTA CRUZ S.A.C
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería, Tienda de herramientas
+Dirección: Av Vía de Evitamiento Nte 181, Cajamarca 06001
+Teléfono: 913 184 665
+Rating: 4
+Reseñas: 4
+Sitio web: 
+Latitud: -7.147823
+Longitud: -78.52343069999999
+Google Maps: https://www.google.com/maps?cid=13927665244910090849
+Place Id: ChIJIzRvGpdbspERYXprkb8BScE
+Fotos: CORPORACION FERRETERA SANTA CRUZ S.A.C.jpg
+

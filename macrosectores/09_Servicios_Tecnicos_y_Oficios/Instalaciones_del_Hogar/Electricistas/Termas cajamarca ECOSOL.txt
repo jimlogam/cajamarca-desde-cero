@@ -1,0 +1,17 @@
+Nombre: Termas cajamarca ECOSOL
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Instalaciones_del_Hogar
+Subrubro: Electricistas
+Categoría Maps: Empresa de energía solar
+Dirección: Victoria 259, Cajamarca 06003
+Teléfono: 
+Rating: 3
+Reseñas: 2
+Sitio web: https://www.facebook.com/termassolarescajamarca
+Latitud: -7.1671546
+Longitud: -78.5030189
+Google Maps: https://www.google.com/maps?cid=17423383957532902354
+Place Id: ChIJRyPeq_5bspER0gP9dWVLzPE
+Fotos: Termas cajamarca ECOSOL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

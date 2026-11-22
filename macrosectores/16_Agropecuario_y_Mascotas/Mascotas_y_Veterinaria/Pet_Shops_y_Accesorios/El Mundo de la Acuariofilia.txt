@@ -1,0 +1,17 @@
+Nombre: El Mundo de la Acuariofilia
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Pet_Shops_y_Accesorios
+Categoría Maps: Tienda de acuarios
+Dirección: RG6C+W42 Jr. Jhon Watson, Cajamarca 06000
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.187734799999999
+Longitud: -78.47972879999999
+Google Maps: https://www.google.com/maps?cid=6049617602534734563
+Place Id: ChIJy4_VkxhbspER43oIQiiP9FM
+Fotos: El Mundo de la Acuariofilia.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

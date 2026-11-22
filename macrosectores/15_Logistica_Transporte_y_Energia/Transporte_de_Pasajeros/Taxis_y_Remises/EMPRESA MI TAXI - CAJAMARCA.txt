@@ -1,0 +1,17 @@
+Nombre: EMPRESA MI TAXI - CAJAMARCA
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Servicio de transporte
+Dirección: Pje Libertad 359, Cajamarca 06002
+Teléfono: (076) 285265
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1652059999999995
+Longitud: -78.5140693
+Google Maps: https://www.google.com/maps?cid=7441212689158157629
+Place Id: ChIJLadcERZbspERPbVm-4N_RGc
+Fotos: EMPRESA MI TAXI - CAJAMARCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

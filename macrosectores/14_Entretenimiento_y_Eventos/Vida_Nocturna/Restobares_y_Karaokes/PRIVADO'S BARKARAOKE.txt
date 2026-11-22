@@ -1,0 +1,16 @@
+Nombre: PRIVADO'S BARKARAOKE
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
+Categoría Maps: Karaoke
+Dirección: Delfín Cerna 427, Cajamarca 06002
+Teléfono: 965 319 370
+Rating: 3.8
+Reseñas: 13
+Sitio web: 
+Latitud: -7.153855399999999
+Longitud: -78.5091645
+Google Maps: https://www.google.com/maps?cid=6133003465590480854
+Place Id: ChIJAX9EtfJbspER1p_CbCjOHFU
+Fotos: PRIVADO'S BARKARAOKE.jpg
+

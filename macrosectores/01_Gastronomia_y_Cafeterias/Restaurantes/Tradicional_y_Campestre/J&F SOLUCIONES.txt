@@ -1,0 +1,17 @@
+Nombre: J&F SOLUCIONES
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de herramientas
+Dirección: Túpac Amaru 711, Cajamarca 06003
+Teléfono: 932 137 814
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.17568
+Longitud: -78.5073793
+Google Maps: https://www.google.com/maps?cid=14445636804643215878
+Place Id: ChIJlfsQlsVbspERBloRNyM2ecg
+Fotos: J&F SOLUCIONES.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

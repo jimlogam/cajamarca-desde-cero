@@ -1,0 +1,17 @@
+Nombre: Botica Baly
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jr. Alfonso Ugarte 1304, Cajamarca 06001
+Teléfono: 932 338 441
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/profile.php?id=100075292664276&mibextid=ZbWKwL
+Latitud: -7.1776623
+Longitud: -78.5082571
+Google Maps: https://www.google.com/maps?cid=16076187079237213916
+Place Id: ChIJ3zC84K9bspER3J6oKPkWGt8
+Fotos: Botica Baly.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

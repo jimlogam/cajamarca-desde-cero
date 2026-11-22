@@ -1,0 +1,17 @@
+Nombre: Estacionamiento Los Portales
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estacionamientos_y_Cocheras
+Categoría Maps: Aparcamiento
+Dirección: Jr. Sor Manuela Gil Nro. 151 Urb. San Carlos, Cajamarca 06001
+Teléfono: (01) 2114466
+Rating: 3.8
+Reseñas: 5
+Sitio web: 
+Latitud: -7.149557799999999
+Longitud: -78.5088959
+Google Maps: https://www.google.com/maps?cid=5011048487988056891
+Place Id: ChIJpUkc1vFaspERO1PJ1gzSikU
+Fotos: Estacionamiento Los Portales.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

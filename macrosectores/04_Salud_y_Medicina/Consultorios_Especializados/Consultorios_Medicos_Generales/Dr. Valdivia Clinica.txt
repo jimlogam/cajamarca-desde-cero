@@ -1,0 +1,16 @@
+Nombre: Dr. Valdivia Clinica
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Cuidados veterinarios
+Dirección: Jirón Manuel Seoane 96, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.150557699999999
+Longitud: -78.51270149999999
+Google Maps: https://www.google.com/maps?cid=5919722565993297707
+Place Id: ChIJU3_7_PBaspERK_fkSk8UJ1I
+Fotos: Dr. Valdivia Clinica.jpg
+

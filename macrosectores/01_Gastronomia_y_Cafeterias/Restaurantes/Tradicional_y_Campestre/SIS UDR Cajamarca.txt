@@ -1,0 +1,17 @@
+Nombre: SIS UDR Cajamarca
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Departamento de salud pública
+Dirección: Av. Mario Urteaga 265, Cajamarca 06002
+Teléfono: (076) 341396
+Rating: 4
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1572188
+Longitud: -78.5121635
+Google Maps: https://www.google.com/maps?cid=16184102869569571540
+Place Id: ChIJmWjUhIxbspER1AoTFdB7meA
+Fotos: SIS UDR Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

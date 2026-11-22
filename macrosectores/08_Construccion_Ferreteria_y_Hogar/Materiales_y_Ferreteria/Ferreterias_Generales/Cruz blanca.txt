@@ -1,0 +1,16 @@
+Nombre: Cruz blanca
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: RF6Q+5QF, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.189550499999999
+Longitud: -78.5105688
+Google Maps: https://www.google.com/maps?cid=11904319276916819503
+Place Id: ChIJTzLrgdFbspERL0Z2gU-jNKU
+Fotos: Cruz blanca.jpg
+

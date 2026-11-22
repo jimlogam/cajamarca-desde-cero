@@ -1,0 +1,17 @@
+Nombre: Farmacia San Sebastian
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Héroes de San Ramón 528, Cajamarca 06002
+Teléfono: (076) 287134
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1636633
+Longitud: -78.51110249999999
+Google Maps: https://www.google.com/maps?cid=8042395112227672010
+Place Id: ChIJXah9PwdbspERyg-rf75TnG8
+Fotos: Farmacia San Sebastian.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,16 @@
+Nombre: SEGUPROTEC
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: 06002, Cajamarca 06002
+Teléfono: 953 793 915
+Rating: 
+Reseñas: 
+Sitio web: https://www.facebook.com/profile.php?id=100081963603503
+Latitud: -7.1476868
+Longitud: -78.52309079999999
+Google Maps: https://www.google.com/maps?cid=5977544607675748507
+Place Id: ChIJR0XvXIxbspERm5CQeSaB9FI
+Fotos: SEGUPROTEC.jpg
+

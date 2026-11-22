@@ -1,0 +1,16 @@
+Nombre: Pet Shop Y Spa Veterinario El Dogo Azul
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Cuidados veterinarios
+Dirección: Chanchamayo 1890, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1442527
+Longitud: -78.5237707
+Google Maps: https://www.google.com/maps?cid=7028751487035003924
+Place Id: ChIJvT_DS15aspERFFQ4zzwki2E
+Fotos: Pet Shop Y Spa Veterinario El Dogo Azul.jpg
+

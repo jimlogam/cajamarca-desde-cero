@@ -1,0 +1,17 @@
+Nombre: transportes y eventos Gutiérrez
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Agencia de transporte de vehículos
+Dirección: Av San Martín de Porres 210, Cajamarca 06002
+Teléfono: 964 395 562
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.163854199999999
+Longitud: -78.509208
+Google Maps: https://www.google.com/maps?cid=12006861694636064439
+Place Id: ChIJa-TSGkRbspERt_4GoBjxoKY
+Fotos: transportes y eventos Gutiérrez.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

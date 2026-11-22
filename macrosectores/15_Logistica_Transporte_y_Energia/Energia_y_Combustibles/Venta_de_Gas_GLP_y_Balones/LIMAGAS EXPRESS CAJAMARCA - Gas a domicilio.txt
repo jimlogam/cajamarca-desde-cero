@@ -1,0 +1,17 @@
+Nombre: LIMAGAS EXPRESS CAJAMARCA - Gas a domicilio
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Venta_de_Gas_GLP_y_Balones
+Categoría Maps: Compañía del gas
+Dirección: Jr, Alfonso La Torre 247, Cajamarca 06001
+Teléfono: 951 844 342
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1505218
+Longitud: -78.5033796
+Google Maps: https://www.google.com/maps?cid=65932116335275248
+Place Id: ChIJhRbHUjFbspER8Cx0Fek86gA
+Fotos: LIMAGAS EXPRESS CAJAMARCA - Gas a domicilio.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

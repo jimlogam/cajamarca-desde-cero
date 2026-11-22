@@ -1,0 +1,16 @@
+Nombre: PUKA SIÑA
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
+Categoría Maps: Guardería canina
+Dirección: +51 913023379, Cajamarca 06001
+Teléfono: 913 023 379
+Rating: 4.6
+Reseñas: 36
+Sitio web: 
+Latitud: -7.2147453
+Longitud: -78.4730359
+Google Maps: https://www.google.com/maps?cid=5634201958603354599
+Place Id: ChIJ31jHDaxDspER5_Fcf9S0ME4
+Fotos: PUKA SIÑA.jpg
+

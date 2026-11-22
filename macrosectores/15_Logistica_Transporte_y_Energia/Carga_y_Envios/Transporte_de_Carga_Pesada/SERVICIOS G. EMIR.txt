@@ -1,0 +1,17 @@
+Nombre: SERVICIOS G. EMIR
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Transporte_de_Carga_Pesada
+Categoría Maps: Servicio de transporte de mercancías, Service establishment
+Dirección: 
+Teléfono: 977 144 239
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=3369918170488151165
+Place Id: ChIJS7P2QiWe3wARfZwUsrhaxC4
+Fotos: SERVICIOS G. EMIR.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

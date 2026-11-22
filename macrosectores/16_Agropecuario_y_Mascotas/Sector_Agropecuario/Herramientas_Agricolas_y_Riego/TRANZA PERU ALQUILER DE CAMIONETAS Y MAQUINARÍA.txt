@@ -1,0 +1,16 @@
+Nombre: TRANZA PERU ALQUILER DE CAMIONETAS Y MAQUINARÍA
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
+Categoría Maps: Agencia de alquiler de furgonetas
+Dirección: Jr, Progreso #610, Cajamarca 06001
+Teléfono: 962 376 788
+Rating: 5
+Reseñas: 7
+Sitio web: https://www.instagram.com/tranzaperu/
+Latitud: -7.1641379
+Longitud: -78.5071849
+Google Maps: https://www.google.com/maps?cid=6772296931253766581
+Place Id: ChIJlxDVwJZbspERtUnZhC0I_F0
+Fotos: TRANZA PERU ALQUILER DE CAMIONETAS Y MAQUINARÍA.jpg
+

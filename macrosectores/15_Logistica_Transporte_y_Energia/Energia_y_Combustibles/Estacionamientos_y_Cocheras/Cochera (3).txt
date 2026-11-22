@@ -1,0 +1,17 @@
+Nombre: Cochera
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estacionamientos_y_Cocheras
+Categoría Maps: Aparcamiento
+Dirección: Jorge Chavez 140, Cajamarca 06003
+Teléfono: 975 088 728
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.175446999999999
+Longitud: -78.5083705
+Google Maps: https://www.google.com/maps?cid=2853539516509134687
+Place Id: ChIJGQt0rt9bspERXx8RUhLPmSc
+Fotos: Cochera (3).jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

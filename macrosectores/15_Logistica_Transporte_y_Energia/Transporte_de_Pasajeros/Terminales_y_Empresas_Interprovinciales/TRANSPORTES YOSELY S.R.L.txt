@@ -1,0 +1,17 @@
+Nombre: TRANSPORTES YOSELY S.R.L.
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: JIRON ALAS PERUANAS #180, Cajamarca 06002
+Teléfono: 955 919 555
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1589464
+Longitud: -78.5051565
+Google Maps: https://www.google.com/maps?cid=1369060896123079821
+Place Id: ChIJx_kmWSVbspERjUxLpaHh_xI
+Fotos: TRANSPORTES YOSELY S.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

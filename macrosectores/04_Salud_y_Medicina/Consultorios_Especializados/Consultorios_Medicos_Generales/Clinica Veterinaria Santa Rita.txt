@@ -1,0 +1,16 @@
+Nombre: Clinica Veterinaria Santa Rita
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Médico
+Dirección: Chanchamayo 343, Cajamarca 06002
+Teléfono: 
+Rating: 4.8
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1546582
+Longitud: -78.5150754
+Google Maps: https://www.google.com/maps?cid=14644532893085835241
+Place Id: ChIJn1LFeFtbspER6Z_ngRPVO8s
+Fotos: Clinica Veterinaria Santa Rita.jpg
+

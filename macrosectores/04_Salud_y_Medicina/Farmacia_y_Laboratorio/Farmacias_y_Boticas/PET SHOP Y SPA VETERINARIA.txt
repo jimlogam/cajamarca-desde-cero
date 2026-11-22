@@ -1,0 +1,16 @@
+Nombre: PET SHOP Y SPA VETERINARIA
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia veterinaria
+Dirección: +51, Cajamarca 06001
+Teléfono: 967 612 580
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1886513999999995
+Longitud: -78.48827709999999
+Google Maps: https://www.google.com/maps?cid=9558890410280330516
+Place Id: ChIJUxX6GIVbspERFKWl1y4AqIQ
+Fotos: PET SHOP Y SPA VETERINARIA.jpg
+

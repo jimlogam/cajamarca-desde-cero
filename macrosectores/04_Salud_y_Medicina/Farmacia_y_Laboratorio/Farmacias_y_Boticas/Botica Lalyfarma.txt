@@ -1,0 +1,17 @@
+Nombre: Botica Lalyfarma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. La Paz 1788, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1782835
+Longitud: -78.50165199999999
+Google Maps: https://www.google.com/maps?cid=908001929801823512
+Place Id: ChIJydeQkRZbspERGPU0wfHemQw
+Fotos: Botica Lalyfarma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

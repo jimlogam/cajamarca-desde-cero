@@ -1,0 +1,17 @@
+Nombre: Petroperú
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estaciones_de_Servicio_Grifos
+Categoría Maps: Gasolinera
+Dirección: VF3X+8VR, Pje San Lorenzo, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1466341
+Longitud: -78.5003461
+Google Maps: https://www.google.com/maps?cid=8753313029815515142
+Place Id: ChIJrWWJMepaspERBrjz1dIDenk
+Fotos: Petroperú.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Bioplus Farma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jr. Bolognesi 237, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1676728
+Longitud: -78.5090733
+Google Maps: https://www.google.com/maps?cid=13015176033197153179
+Place Id: ChIJaUxQtBxbspERm9vkE6Uxn7Q
+Fotos: Bioplus Farma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

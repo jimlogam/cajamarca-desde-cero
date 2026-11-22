@@ -1,0 +1,17 @@
+Nombre: Ekypa 4 Homecenter
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de herramientas
+Dirección: Jr del Batán 444, Cajamarca 06001
+Teléfono: 967 909 812
+Rating: 
+Reseñas: 
+Sitio web: https://qaturetail.com/
+Latitud: -7.153962099999999
+Longitud: -78.5153705
+Google Maps: https://www.google.com/maps?cid=2247671501412080940
+Place Id: ChIJY7yajORbspERLJ1vZVJVMR8
+Fotos: Ekypa 4 Homecenter.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

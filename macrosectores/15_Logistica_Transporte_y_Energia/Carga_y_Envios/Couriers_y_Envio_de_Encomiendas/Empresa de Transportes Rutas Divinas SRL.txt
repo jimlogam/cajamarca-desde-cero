@@ -1,0 +1,17 @@
+Nombre: Empresa de Transportes Rutas Divinas SRL
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Servicio de envíos, Service establishment
+Dirección: 
+Teléfono: 976 020 105
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1606359
+Longitud: -78.5042023
+Google Maps: https://www.google.com/maps?cid=8263089501971899065
+Place Id: ChIJL-MpxbZk3S4RuWJLUB9krHI
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

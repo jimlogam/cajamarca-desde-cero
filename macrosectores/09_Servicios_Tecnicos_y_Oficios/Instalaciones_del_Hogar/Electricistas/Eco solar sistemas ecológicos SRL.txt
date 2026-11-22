@@ -1,0 +1,17 @@
+Nombre: Eco solar sistemas ecológicos SRL
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Instalaciones_del_Hogar
+Subrubro: Electricistas
+Categoría Maps: Empresa de energía solar
+Dirección: Jirón Silva Santisteban 399, Cajamarca 06002
+Teléfono: 944 539 885
+Rating: 5
+Reseñas: 1
+Sitio web: https://www.facebook.com/ecosolarsistemasecologicossrl/?locale=es_LA
+Latitud: -7.1603965
+Longitud: -78.5153665
+Google Maps: https://www.google.com/maps?cid=15746581002126927565
+Place Id: ChIJY_ivhP5aspERzaawEv4Xh9o
+Fotos: Eco solar sistemas ecológicos SRL.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

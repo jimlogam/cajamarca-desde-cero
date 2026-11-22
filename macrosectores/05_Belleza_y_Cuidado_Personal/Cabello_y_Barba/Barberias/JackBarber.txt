@@ -1,0 +1,17 @@
+Nombre: JackBarber
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
+Categoría Maps: Barbería
+Dirección: Frente a cangrejo real, Jr primero de mayo 218, Cajamarca 06001
+Teléfono: 925 169 863
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1651606
+Longitud: -78.5032983
+Google Maps: https://www.google.com/maps?cid=11645819255753379082
+Place Id: ChIJYVMjVZlbspERCo2VMelCnqE
+Fotos: JackBarber.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

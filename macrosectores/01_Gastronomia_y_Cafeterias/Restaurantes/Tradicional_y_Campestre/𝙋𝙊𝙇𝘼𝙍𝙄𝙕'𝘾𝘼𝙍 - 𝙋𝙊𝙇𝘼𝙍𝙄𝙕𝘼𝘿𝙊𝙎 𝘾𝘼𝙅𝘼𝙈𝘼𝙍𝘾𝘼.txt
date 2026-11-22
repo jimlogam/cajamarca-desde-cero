@@ -1,0 +1,17 @@
+Nombre: 𝙋𝙊𝙇𝘼𝙍𝙄𝙕'𝘾𝘼𝙍 - 𝙋𝙊𝙇𝘼𝙍𝙄𝙕𝘼𝘿𝙊𝙎 𝘾𝘼𝙅𝘼𝙈𝘼𝙍𝘾𝘼
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Servicio de polarización de ventanas
+Dirección: Jirón El Milagro 215, Cajamarca 06001
+Teléfono: 981 243 646
+Rating: 5
+Reseñas: 2
+Sitio web: https://polarizcar.com/servicios-proteccion-automotriz/
+Latitud: -7.1679685
+Longitud: -78.50255899999999
+Google Maps: https://www.google.com/maps?cid=11520008773761189245
+Place Id: ChIJc6C8Q8NbspERfUVrsfFK358
+Fotos: 𝙋𝙊𝙇𝘼𝙍𝙄𝙕'𝘾𝘼𝙍 - 𝙋𝙊𝙇𝘼𝙍𝙄𝙕𝘼𝘿𝙊𝙎 𝘾𝘼𝙅𝘼𝙈𝘼𝙍𝘾𝘼.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

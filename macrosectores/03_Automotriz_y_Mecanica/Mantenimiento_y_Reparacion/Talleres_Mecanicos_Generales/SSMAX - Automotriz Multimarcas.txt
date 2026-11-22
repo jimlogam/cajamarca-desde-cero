@@ -1,0 +1,17 @@
+Nombre: SSMAX - Automotriz Multimarcas
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Taller de automóviles
+Dirección: Avenida San Martin 1437 A media cuadra de, Colonial, Cajamarca 06003
+Teléfono: 976 356 730
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.174004099999999
+Longitud: -78.4981419
+Google Maps: https://www.google.com/maps?cid=16450406163598787580
+Place Id: ChIJcdKIVQ9bspER_MMzcD-VS-Q
+Fotos: SSMAX - Automotriz Multimarcas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

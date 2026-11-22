@@ -1,0 +1,16 @@
+Nombre: Dogtropoli - Pet Shop
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Pet_Shops_y_Accesorios
+Categoría Maps: Tienda de productos para mascotas
+Dirección: Jr. Bolívar 223, Cajamarca 06001
+Teléfono: (076) 608198
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.165899899999999
+Longitud: -78.5106802
+Google Maps: https://www.google.com/maps?cid=18401365036870103502
+Place Id: ChIJEyFdIchbspERznHvpAHIXv8
+Fotos: Dogtropoli - Pet Shop.jpg
+

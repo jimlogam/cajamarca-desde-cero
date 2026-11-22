@@ -1,0 +1,17 @@
+Nombre: T&M Marín Turismo y Transporte
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: 06001, Cajamarca 06001
+Teléfono: 999 597 132
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1726668
+Longitud: -78.50289529999999
+Google Maps: https://www.google.com/maps?cid=10420683086205944983
+Place Id: ChIJhcS2yNNbspERlwQ6Rg60nZA
+Fotos: T&M Marín Turismo y Transporte.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

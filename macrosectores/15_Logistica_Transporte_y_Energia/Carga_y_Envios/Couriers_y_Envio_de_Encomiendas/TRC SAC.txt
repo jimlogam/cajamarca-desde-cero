@@ -1,0 +1,17 @@
+Nombre: TRC SAC
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Servicio de envíos
+Dirección: RGC3+VV8, Av San Martín de Porres, Cajamarca 06003
+Teléfono: 
+Rating: 3.9
+Reseñas: 7
+Sitio web: 
+Latitud: -7.177848099999999
+Longitud: -78.495286
+Google Maps: https://www.google.com/maps?cid=12614531590917999334
+Place Id: ChIJcxD8yj1bspER5kqctKXRD68
+Fotos: TRC SAC.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

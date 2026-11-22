@@ -1,0 +1,17 @@
+Nombre: Herbalife Cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Bienestar_Terapeutico
+Subrubro: Fisioterapia_y_Rehabilitacion
+Categoría Maps: Programa de salud y bienestar
+Dirección: La Mar 674, Cajamarca 06001
+Teléfono: 962 361 619
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.154107499999999
+Longitud: -78.51776339999999
+Google Maps: https://www.google.com/maps?cid=2848327592669351554
+Place Id: ChIJ-913LHpbspERgg4AvdpKhyc
+Fotos: Herbalife Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

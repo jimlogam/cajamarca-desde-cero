@@ -1,0 +1,17 @@
+Nombre: FARMACIA LA UNICA
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jr. Shucapampa CUADRA 9, Cajamarca 06003
+Teléfono: 969 752 461
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1862745
+Longitud: -78.51158199999999
+Google Maps: https://www.google.com/maps?cid=15015216427823726979
+Place Id: ChIJnfNY-wdbspERgwELfsnDYNA
+Fotos: FARMACIA LA UNICA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

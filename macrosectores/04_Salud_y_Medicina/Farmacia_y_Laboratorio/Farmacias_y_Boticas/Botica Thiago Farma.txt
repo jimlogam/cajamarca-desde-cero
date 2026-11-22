@@ -1,0 +1,17 @@
+Nombre: Botica Thiago Farma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Perú 544, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1602828
+Longitud: -78.52276909999999
+Google Maps: https://www.google.com/maps?cid=18156209641926980086
+Place Id: ChIJw128UQBbspER9nGUPnnQ9_s
+Fotos: Botica Thiago Farma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Puesto De Salud Micaela Bastidas
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Hospitales_y_Postas
+Categoría Maps: Hospital
+Dirección: Jirón Silva Santisteban 936, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.162687699999999
+Longitud: -78.5129278
+Google Maps: https://www.google.com/maps?cid=7645140486409291751
+Place Id: ChIJg8_YawJbspER5wdiRsT-GGo
+Fotos: Puesto De Salud Micaela Bastidas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

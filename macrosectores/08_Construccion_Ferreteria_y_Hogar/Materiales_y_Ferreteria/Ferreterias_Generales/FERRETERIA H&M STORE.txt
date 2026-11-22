@@ -1,0 +1,16 @@
+Nombre: FERRETERIA H&M STORE
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Tienda de artículos para el hogar
+Dirección: Av. La Paz 2091, Cajamarca 06003
+Teléfono: 
+Rating: 4.1
+Reseñas: 26
+Sitio web: 
+Latitud: -7.1804488
+Longitud: -78.4994852
+Google Maps: https://www.google.com/maps?cid=11365382377807655934
+Place Id: ChIJIZWOwBVbspER_rO1ZQ7zuZ0
+Fotos: FERRETERIA H&M STORE.jpg
+

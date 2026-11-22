@@ -1,0 +1,17 @@
+Nombre: Mecamer
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Taller mecánico
+Dirección: Av. Perú 150, Cajamarca 06001
+Teléfono: 986 179 832
+Rating: 3.5
+Reseñas: 6
+Sitio web: https://tallermec.net.pe/p/mecamer/?utm_source=google&utm_medium=organic&utm_campaign=gmb
+Latitud: -7.1431740999999995
+Longitud: -78.5267173
+Google Maps: https://www.google.com/maps?cid=3900606733291719692
+Place Id: ChIJ6-wS-11aspERDIxZWii9ITY
+Fotos: Mecamer.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

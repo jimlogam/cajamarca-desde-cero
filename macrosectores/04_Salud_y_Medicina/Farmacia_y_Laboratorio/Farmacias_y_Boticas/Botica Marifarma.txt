@@ -1,0 +1,17 @@
+Nombre: Botica Marifarma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Atahualpa 647, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1654354
+Longitud: -78.5017876
+Google Maps: https://www.google.com/maps?cid=4166919058794693324
+Place Id: ChIJt8n6UB5bspERzEJDg87e0zk
+Fotos: Botica Marifarma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: J&R Servicios Múltiples Chugur S.R.L.
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Oficinas de empresa
+Dirección: Juan Beato Macias 1735, Cajamarca 06003
+Teléfono: 913 247 113
+Rating: 
+Reseñas: 
+Sitio web: http://www.jyrchugursrl.com/
+Latitud: -7.1804592
+Longitud: -78.49011899999999
+Google Maps: https://www.google.com/maps?cid=11649516738378619831
+Place Id: ChIJ42Le6_FbspERt1sGdMBlq6E
+Fotos: J&R Servicios Múltiples Chugur S.R.L.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

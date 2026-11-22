@@ -1,0 +1,17 @@
+Nombre: TAXI SEGURO Cajamarca
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Servicio de transporte
+Dirección: Jr Clodomiro Cerna 301, Cajamarca 06002
+Teléfono: (076) 365103
+Rating: 4
+Reseñas: 10
+Sitio web: 
+Latitud: -7.1634554999999995
+Longitud: -78.4994529
+Google Maps: https://www.google.com/maps?cid=8195667849318575233
+Place Id: ChIJcbci3h9bspERgSy5h3zcvHE
+Fotos: TAXI SEGURO Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

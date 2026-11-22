@@ -1,0 +1,17 @@
+Nombre: Grupo Farma
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: RFHR+5W5, America, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.172120199999999
+Longitud: -78.50765609999999
+Google Maps: https://www.google.com/maps?cid=8448185575824851632
+Place Id: ChIJ8w7E6BpbspERsIKeUwX8PXU
+Fotos: Grupo Farma.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

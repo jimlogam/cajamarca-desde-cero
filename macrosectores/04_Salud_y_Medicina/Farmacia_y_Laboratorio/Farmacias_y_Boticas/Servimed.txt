@@ -1,0 +1,17 @@
+Nombre: Servimed
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jr. Guillermo Urrelo 1084, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.156365399999999
+Longitud: -78.5132745
+Google Maps: https://www.google.com/maps?cid=16471313358195067924
+Place Id: ChIJPVZZt_taspERFAxdAzvcleQ
+Fotos: Servimed.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

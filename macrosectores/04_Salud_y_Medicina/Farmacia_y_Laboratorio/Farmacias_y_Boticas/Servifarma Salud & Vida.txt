@@ -1,0 +1,17 @@
+Nombre: Servifarma Salud & Vida
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av. Atahualpa 350, Cajamarca 06000
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1659184
+Longitud: -78.5065185
+Google Maps: https://www.google.com/maps?cid=14567687196191924243
+Place Id: ChIJAwGNAB1bspERE6AGcFLSKso
+Fotos: Servifarma Salud & Vida.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

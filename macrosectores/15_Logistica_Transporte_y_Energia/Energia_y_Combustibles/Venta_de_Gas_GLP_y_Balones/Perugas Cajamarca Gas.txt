@@ -1,0 +1,17 @@
+Nombre: Perugas Cajamarca Gas
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Venta_de_Gas_GLP_y_Balones
+Categoría Maps: Compañía del gas
+Dirección: Cajamarca 06000
+Teléfono: 973 462 310
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1738612999999996
+Longitud: -78.4933123
+Google Maps: https://www.google.com/maps?cid=1357526295887469517
+Place Id: ChIJDQcv7pVbspERzdufP_nm1hI
+Fotos: Perugas Cajamarca Gas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

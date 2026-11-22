@@ -1,0 +1,17 @@
+Nombre: TAXI CAJAMARCA-"SEGURO EXPRESS"
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Servicio de taxis
+Dirección: Luis Ortiz 142, Cajamarca 06001
+Teléfono: 967 620 868
+Rating: 2.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1498956
+Longitud: -78.498915
+Google Maps: https://www.google.com/maps?cid=15165571880607333872
+Place Id: ChIJrzmAkNJbspER8L1AV0bvdtI
+Fotos: TAXI CAJAMARCA-SEGURO EXPRESS.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Empresa Transporte Sorochuco
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: San Salvador 549, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1527201
+Longitud: -78.5117396
+Google Maps: https://www.google.com/maps?cid=11341197810694394314
+Place Id: ChIJY6r_hrRbspERypHgEVIHZJ0
+Fotos: Empresa Transporte Sorochuco.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

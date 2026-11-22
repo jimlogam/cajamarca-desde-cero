@@ -1,0 +1,17 @@
+Nombre: TICSEPERU
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Tienda de informática, Empresa de networking empresarial, Consultora informática, Servicio de informática, Tienda de software, Mayorista de computadoras, Servicio de recuperación de datos, Servicio de reparación de impresoras, Proveedor de sistemas de seguridad, Distribuidor de equipos de telecomunicación
+Dirección: Av Larry Jhonson, Cajamarca 06003
+Teléfono: 976 181 962
+Rating: 4.8
+Reseñas: 6
+Sitio web: https://ticseperu.com/
+Latitud: -7.181339599999999
+Longitud: -78.4860576
+Google Maps: https://www.google.com/maps?cid=9233034975412634567
+Place Id: ChIJRY4meTdbspERx0M6NGRUIoA
+Fotos: TICSEPERU.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: Eventos y transportes briones
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
+Categoría Maps: Servicio de transporte
+Dirección: Av. San Martin 212, Cajamarca 06002
+Teléfono: 940 127 590
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1638587
+Longitud: -78.5092516
+Google Maps: https://www.google.com/maps?cid=14501242180659231825
+Place Id: ChIJ7e-HEwBbspERUbwatO7CPsk
+Fotos: Eventos y transportes briones.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

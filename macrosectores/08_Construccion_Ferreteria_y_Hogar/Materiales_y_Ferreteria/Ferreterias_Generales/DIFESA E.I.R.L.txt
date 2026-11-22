@@ -1,0 +1,16 @@
+Nombre: DIFESA E.I.R.L
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: Av San Martín de Porres 1730, Cajamarca 06003
+Teléfono: 968 997 338
+Rating: 4.2
+Reseñas: 16
+Sitio web: 
+Latitud: -7.1758731
+Longitud: -78.49674569999999
+Google Maps: https://www.google.com/maps?cid=224025474983490132
+Place Id: ChIJ8_hBcj1bspERVHIHifvlGwM
+Fotos: DIFESA E.I.R.L.jpg
+

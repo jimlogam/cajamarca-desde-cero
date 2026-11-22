@@ -1,0 +1,17 @@
+Nombre: Ambulancias Nort Medic
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Servicio de ambulancias
+Dirección: Mariano Melgar 357, Cajamarca 06002
+Teléfono: 999 266 732
+Rating: 
+Reseñas: 
+Sitio web: http://www.ambulanciaviamedicaperu.com/
+Latitud: -7.154826099999999
+Longitud: -78.5222843
+Google Maps: https://www.google.com/maps?cid=17628459982108516437
+Place Id: ChIJZfKirX9bspERVWDEQvTepPQ
+Fotos: Ambulancias Nort Medic.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

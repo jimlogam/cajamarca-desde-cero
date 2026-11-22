@@ -1,0 +1,17 @@
+Nombre: Boticas Tupac Amaru
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Túpac Amaru 781, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.175898
+Longitud: -78.5065503
+Google Maps: https://www.google.com/maps?cid=10580975106777715689
+Place Id: ChIJT0FAWBBbspER6ZO8mMws15I
+Fotos: Boticas Tupac Amaru.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

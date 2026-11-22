@@ -1,0 +1,16 @@
+Nombre: CLINICA VETERINARIA ALICAN
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
+Categoría Maps: Clínica ambulatoria
+Dirección: Av. Héroes del Cenepa 1195, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1806076999999995
+Longitud: -78.4992947
+Google Maps: https://www.google.com/maps?cid=16228958744743010184
+Place Id: ChIJg66RawBbspERiF_gXv7XOOE
+Fotos: CLINICA VETERINARIA ALICAN.jpg
+

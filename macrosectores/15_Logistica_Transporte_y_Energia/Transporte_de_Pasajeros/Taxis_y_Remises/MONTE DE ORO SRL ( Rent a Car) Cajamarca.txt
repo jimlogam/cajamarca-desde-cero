@@ -1,0 +1,17 @@
+Nombre: MONTE DE ORO SRL ( Rent a Car) Cajamarca
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Taxis_y_Remises
+Categoría Maps: Servicio de transporte, Servicio de alquiler de vehículos todo terreno
+Dirección: Jr.saramacdougall 552, Cajamarca 06001
+Teléfono: 966 735 109
+Rating: 5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1499185999999995
+Longitud: -78.5200619
+Google Maps: https://www.google.com/maps?cid=17358757534166942249
+Place Id: ChIJKesFLKZbspERKQIotgGy5vA
+Fotos: MONTE DE ORO SRL ( Rent a Car) Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

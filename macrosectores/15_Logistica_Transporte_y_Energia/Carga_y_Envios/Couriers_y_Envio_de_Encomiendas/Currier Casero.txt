@@ -1,0 +1,17 @@
+Nombre: Currier Casero
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
+Categoría Maps: Servicio de mensajería, Service establishment
+Dirección: 
+Teléfono: 957 214 609
+Rating: 
+Reseñas: 
+Sitio web: https://sites.google.com/view/currier-casero/inicio
+Latitud: -7.0742495
+Longitud: -78.4586726
+Google Maps: https://www.google.com/maps?cid=17793511678945000739
+Place Id: ChIJCeJf8wsoxqoRI_1HEplA7_Y
+Fotos: Currier Casero.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

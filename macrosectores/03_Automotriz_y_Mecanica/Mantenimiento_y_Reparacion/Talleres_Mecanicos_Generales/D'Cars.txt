@@ -1,0 +1,17 @@
+Nombre: D'Cars
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
+Categoría Maps: Pintura de automóviles, Taller de reparación de automóviles, Servicio de polarizado de autos
+Dirección: Pje. El Lirio Cuadra 2, Cajamarca 06001
+Teléfono: 982 378 839
+Rating: 
+Reseñas: 
+Sitio web: https://dcarsperu.com/
+Latitud: -7.1457733999999995
+Longitud: -78.4977452
+Google Maps: https://www.google.com/maps?cid=15912910014085382335
+Place Id: ChIJpcohKDlbspERv8BQ_FgD1tw
+Fotos: D'Cars.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

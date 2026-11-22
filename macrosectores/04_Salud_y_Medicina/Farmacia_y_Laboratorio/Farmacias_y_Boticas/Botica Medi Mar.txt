@@ -1,0 +1,17 @@
+Nombre: Botica Medi Mar
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Jr. Diego Ferre 327, Cajamarca 06003
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1708314
+Longitud: -78.5076256
+Google Maps: https://www.google.com/maps?cid=14815030663902918474
+Place Id: ChIJJ6m4GRtbspERSvdzOuWPmc0
+Fotos: Botica Medi Mar.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

@@ -1,0 +1,17 @@
+Nombre: BOTICA''S BIANCA
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Av San Martín de Porres 643, Cajamarca 06003
+Teléfono: 
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1685937
+Longitud: -78.50389679999999
+Google Maps: https://www.google.com/maps?cid=4956186970222059543
+Place Id: ChIJs82gtr9bspERF2CBWMrpx0Q
+Fotos: BOTICA''S BIANCA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

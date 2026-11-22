@@ -1,0 +1,17 @@
+Nombre: Farmacia Pérez Inga
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: Ucayali 190, Cajamarca 06001
+Teléfono: 930 716 171
+Rating: 3.7
+Reseñas: 3
+Sitio web: 
+Latitud: -7.156803999999999
+Longitud: -78.5246219
+Google Maps: https://www.google.com/maps?cid=654948681036297533
+Place Id: ChIJYeHM6FZaspERPXVH91rYFgk
+Fotos: Farmacia Pérez Inga.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

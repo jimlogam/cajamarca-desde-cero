@@ -1,0 +1,17 @@
+Nombre: Cochera las Torrecitas
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estacionamientos_y_Cocheras
+Categoría Maps: Aparcamiento
+Dirección: Av. Hoyos Rubio 1603, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1452031
+Longitud: -78.50047479999999
+Google Maps: https://www.google.com/maps?cid=10936530272184808950
+Place Id: ChIJLYMgXQBbspER9rXhnFZcxpc
+Fotos: Cochera las Torrecitas.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

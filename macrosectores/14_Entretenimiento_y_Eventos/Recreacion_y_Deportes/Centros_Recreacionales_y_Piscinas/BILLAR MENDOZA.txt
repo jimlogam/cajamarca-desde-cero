@@ -1,0 +1,17 @@
+Nombre: BILLAR MENDOZA
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
+Categoría Maps: Centro de ocio
+Dirección: JR, Cueva de los Tayos 144, Cajamarca 06001
+Teléfono: 
+Rating: 5
+Reseñas: 5
+Sitio web: 
+Latitud: -7.1635900999999995
+Longitud: -78.5025988
+Google Maps: https://www.google.com/maps?cid=13682028061265498643
+Place Id: ChIJcan4caJbspERExKo_gdU4L0
+Fotos: BILLAR MENDOZA.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

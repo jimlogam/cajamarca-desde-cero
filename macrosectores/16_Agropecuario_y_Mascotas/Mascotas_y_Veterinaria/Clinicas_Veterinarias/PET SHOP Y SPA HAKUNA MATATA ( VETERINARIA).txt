@@ -1,0 +1,16 @@
+Nombre: PET SHOP Y SPA HAKUNA MATATA ( VETERINARIA)
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Sector Paccha Chica baja, Av San Martín de Porres, Cajamarca 06003
+Teléfono: 
+Rating: 5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1887007999999994
+Longitud: -78.488165
+Google Maps: https://www.google.com/maps?cid=11572601993745294355
+Place Id: ChIJEXLISQBbspERE2Qq9DIkmqA
+Fotos: PET SHOP Y SPA HAKUNA MATATA ( VETERINARIA).jpg
+

@@ -1,0 +1,17 @@
+Nombre: Facultad de Medicina - FM - Universidad Nacional de Cajamarca
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
+Categoría Maps: Escuela universitaria
+Dirección: RGJ2+7VW, Av. Alejandro Vera Villanueva, Cajamarca 06003
+Teléfono: (076) 340642
+Rating: 5
+Reseñas: 9
+Sitio web: http://www.unc.edu.pe/
+Latitud: -7.1692716999999995
+Longitud: -78.4978041
+Google Maps: https://www.google.com/maps?cid=1719791282084183341
+Place Id: ChIJv6NAHSFbspERLf1wKA_t3Rc
+Fotos: Facultad de Medicina - FM - Universidad Nacional de Cajamarca.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de esta tanda; fusionado en uno.
+

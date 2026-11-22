@@ -1,0 +1,16 @@
+Nombre: J Y M FERRETERIA
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
+Categoría Maps: Ferretería
+Dirección: 06001, Cajamarca 06001
+Teléfono: 980 684 941
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1565027
+Longitud: -78.5074471
+Google Maps: https://www.google.com/maps?cid=10724465312288850401
+Place Id: ChIJ88kp7PRbspER4cH5gGH01JQ
+Fotos: J Y M FERRETERIA.jpg
+

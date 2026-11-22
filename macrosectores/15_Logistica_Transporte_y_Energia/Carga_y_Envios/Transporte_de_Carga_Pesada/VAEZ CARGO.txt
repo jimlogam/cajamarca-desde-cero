@@ -1,0 +1,17 @@
+Nombre: VAEZ CARGO
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Transporte_de_Carga_Pesada
+Categoría Maps: Servicio de transporte de mercancías
+Dirección: Av. Mártires de Uchuraccay 2597, Cajamarca 06003
+Teléfono: 923 294 800
+Rating: 
+Reseñas: 
+Sitio web: https://www.vaezcargo.pe/
+Latitud: -7.176784499999999
+Longitud: -78.49427969999999
+Google Maps: https://www.google.com/maps?cid=8249890589949045323
+Place Id: ChIJK1cJYY9bspERSyrAIch_fXI
+Fotos: VAEZ CARGO.jpg
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+

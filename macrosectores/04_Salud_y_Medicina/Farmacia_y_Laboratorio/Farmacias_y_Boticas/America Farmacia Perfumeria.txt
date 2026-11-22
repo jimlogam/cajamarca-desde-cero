@@ -1,0 +1,17 @@
+Nombre: America Farmacia Perfumeria
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
+Categoría Maps: Farmacia
+Dirección: RFPQ+CJM, San Agustín, Cajamarca 06002
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1639108
+Longitud: -78.5109386
+Google Maps: https://www.google.com/maps?cid=5918773272704203511
+Place Id: ChIJ06QxmQJbspER9zqcue60I1I
+Fotos: Sin foto en Maps
+Nota: Sin categoria clara en Maps; clasificado como restaurante general
+
