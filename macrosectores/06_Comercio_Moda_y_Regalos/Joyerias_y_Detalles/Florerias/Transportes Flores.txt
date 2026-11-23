@@ -1,7 +1,7 @@
 Nombre: Transportes Flores
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Joyerias_y_Detalles
+Subrubro: Florerias
 Categoría Maps: Empresa de autobuses
 Dirección: RFMR+QRM, Av. Atahualpa, Cajamarca 06002
 Teléfono: 923 450 533

@@ -1,7 +1,7 @@
 Nombre: Centro Médico Municipal
 Macro-Sector: 04_Salud_y_Medicina
 Rubro: Centros_Medicos
-Subrubro: Hospitales_y_Postas
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Hospital
 Dirección: VG22+FCF Elmer Faucett, Cajamarca 06001
 Teléfono: 

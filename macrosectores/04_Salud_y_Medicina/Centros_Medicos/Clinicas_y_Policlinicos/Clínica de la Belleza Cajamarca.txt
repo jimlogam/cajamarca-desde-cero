@@ -1,7 +1,7 @@
 Nombre: Clínica de la Belleza Cajamarca
 Macro-Sector: 04_Salud_y_Medicina
-Rubro: Bienestar_Terapeutico
-Subrubro: Fisioterapia_y_Rehabilitacion
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Centro de salud y bienestar
 Dirección: Jr. Trinidad 246, Cajamarca 06003
 Teléfono: 975 835 839

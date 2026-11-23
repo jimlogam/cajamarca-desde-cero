@@ -1,7 +1,7 @@
 Nombre: Libreria - Bazar Mateo
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería
 Dirección: Av. Industrial 401, Cajamarca 06003
 Teléfono: 

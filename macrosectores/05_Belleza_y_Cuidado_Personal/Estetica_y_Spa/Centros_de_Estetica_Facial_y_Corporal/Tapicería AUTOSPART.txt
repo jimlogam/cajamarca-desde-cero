@@ -1,7 +1,7 @@
 Nombre: Tapicería AUTOSPART
-Macro-Sector: 03_Automotriz_y_Mecanica
-Rubro: Mantenimiento_y_Reparacion
-Subrubro: Talleres_Mecanicos_Generales
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Estetica_y_Spa
+Subrubro: Centros_de_Estetica_Facial_y_Corporal
 Categoría Maps: Taller de reparación de automóviles
 Dirección: RG93+4QP, Av. Nuevo Cajamarca, Cajamarca 06003
 Teléfono: 910 116 136

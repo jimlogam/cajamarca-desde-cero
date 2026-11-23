@@ -1,7 +1,7 @@
 Nombre: La Librería la Solución
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería
 Dirección: RFVJ+PJ4, Jr. Apurimac, Cajamarca 06001
 Teléfono: 976 842 728

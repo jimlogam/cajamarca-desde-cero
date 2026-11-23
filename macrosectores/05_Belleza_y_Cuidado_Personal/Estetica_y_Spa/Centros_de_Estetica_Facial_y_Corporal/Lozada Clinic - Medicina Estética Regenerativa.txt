@@ -1,7 +1,7 @@
 Nombre: Lozada Clinic - Medicina Estética Regenerativa
-Macro-Sector: 04_Salud_y_Medicina
-Rubro: Consultorios_Especializados
-Subrubro: Consultorios_Medicos_Generales
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Estetica_y_Spa
+Subrubro: Centros_de_Estetica_Facial_y_Corporal
 Categoría Maps: Oficina médica
 Dirección: Jr. Amancaes 333, Cajamarca 06001
 Teléfono: 930 529 645

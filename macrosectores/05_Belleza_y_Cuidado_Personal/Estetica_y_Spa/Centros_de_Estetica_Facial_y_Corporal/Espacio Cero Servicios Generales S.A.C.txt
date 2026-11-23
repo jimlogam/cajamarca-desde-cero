@@ -1,7 +1,7 @@
 Nombre: Espacio Cero Servicios Generales S.A.C
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Estetica_y_Spa
+Subrubro: Centros_de_Estetica_Facial_y_Corporal
 Categoría Maps: Oficina de la Administración
 Dirección: Jr. San Marcos 432, Cajamarca 06003
 Teléfono: 989 303 013

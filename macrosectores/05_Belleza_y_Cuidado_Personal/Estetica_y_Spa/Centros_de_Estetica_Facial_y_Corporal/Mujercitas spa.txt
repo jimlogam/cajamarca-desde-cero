@@ -1,7 +1,7 @@
 Nombre: Mujercitas spa
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Estetica_y_Spa
+Subrubro: Centros_de_Estetica_Facial_y_Corporal
 Categoría Maps: Spa
 Dirección: Cutervo 135, Cajamarca 06002
 Teléfono: 

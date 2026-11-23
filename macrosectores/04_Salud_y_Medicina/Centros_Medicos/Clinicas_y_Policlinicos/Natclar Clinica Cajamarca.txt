@@ -1,7 +1,7 @@
 Nombre: Natclar Clinica Cajamarca
 Macro-Sector: 04_Salud_y_Medicina
-Rubro: Consultorios_Especializados
-Subrubro: Consultorios_Medicos_Generales
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Médico
 Dirección: Av. Vía de Evitamiento Sur 553, Cajamarca 06002
 Teléfono: 933 836 652

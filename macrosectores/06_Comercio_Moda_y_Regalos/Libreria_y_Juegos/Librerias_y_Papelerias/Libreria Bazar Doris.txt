@@ -1,7 +1,7 @@
 Nombre: Libreria Bazar "Doris"
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería infantil
 Dirección: Prolongacion Petateros 2161, Cajamarca 00000
 Teléfono: 

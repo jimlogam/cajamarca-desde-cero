@@ -1,7 +1,7 @@
 Nombre: Marino Lulayco (CERÁMICA - ARTESANAL)
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Joyerias_y_Detalles
+Subrubro: Bazares_y_Regalos
 Categoría Maps: Artesanía, Tienda de cerámica
 Dirección: y Belaúnde Terry, Portón Plomo, Pasaje San Marino S/N, Cajamarca 06003
 Teléfono: 959 469 543

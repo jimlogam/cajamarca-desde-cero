@@ -1,7 +1,7 @@
 Nombre: HOSPITAL SIMON BOLÍVAR
 Macro-Sector: 04_Salud_y_Medicina
 Rubro: Centros_Medicos
-Subrubro: Hospitales_y_Postas
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Hospital
 Dirección: Av. Mario Urteaga 500, Cajamarca 06000
 Teléfono: (076) 363864

@@ -1,7 +1,7 @@
 Nombre: Galia Detalles, regalos y desayunos sorpresa
 Macro-Sector: 06_Comercio_Moda_y_Regalos
 Rubro: Joyerias_y_Detalles
-Subrubro: Regalos_Personalizados_y_Detalles
+Subrubro: Bazares_y_Regalos
 Categoría Maps: Tienda de regalos, Comercio
 Dirección: Jr. Emancipación 270, Cajamarca 06001
 Teléfono: 925 718 275

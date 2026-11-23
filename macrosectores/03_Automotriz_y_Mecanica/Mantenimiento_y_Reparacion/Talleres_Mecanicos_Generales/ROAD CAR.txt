@@ -1,7 +1,7 @@
 Nombre: ROAD CAR
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Taller mecánico
 Dirección: 102, Celendín 06225
 Teléfono: 931 223 573

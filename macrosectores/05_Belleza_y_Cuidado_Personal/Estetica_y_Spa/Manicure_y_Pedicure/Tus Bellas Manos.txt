@@ -1,7 +1,7 @@
 Nombre: Tus Bellas Manos
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Estetica_y_Spa
+Subrubro: Manicure_y_Pedicure
 Categoría Maps: Salón de manicura y pedicura
 Dirección: Av. Hoyos Rubio 417, Cajamarca 06001
 Teléfono: 989 427 952

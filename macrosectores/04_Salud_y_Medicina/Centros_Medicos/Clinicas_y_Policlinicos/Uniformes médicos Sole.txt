@@ -1,7 +1,7 @@
 Nombre: Uniformes médicos "Sole"
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Tienda de uniformes
 Dirección: Av. Mario Urteaga 349, Cajamarca 06002
 Teléfono: 992 410 079

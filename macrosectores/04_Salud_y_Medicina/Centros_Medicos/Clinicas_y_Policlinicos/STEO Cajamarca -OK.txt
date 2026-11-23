@@ -1,7 +1,7 @@
 Nombre: STEO Cajamarca
 Macro-Sector: 04_Salud_y_Medicina
-Rubro: Consultorios_Especializados
-Subrubro: Oftalmologia_y_Opticas
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Hospital
 Dirección: Av. Héroes de San Ramón 366, Cajamarca 06002
 Teléfono: 981 695 014

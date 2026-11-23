@@ -1,7 +1,7 @@
 Nombre: Artesanía Fina y Manualidades
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Joyerias_y_Detalles
+Subrubro: Bazares_y_Regalos
 Categoría Maps: Mayorista de artesanías
 Dirección: Jr, Unión 555, Cajamarca
 Teléfono: (073) 643298

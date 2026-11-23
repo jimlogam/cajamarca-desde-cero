@@ -1,7 +1,7 @@
 Nombre: Alto Miraflores
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Joyerias_y_Detalles
+Subrubro: Florerias
 Categoría Maps: Soldador
 Dirección: VGMH+43W Caserio alto Miraflores, Cajamarca 06000
 Teléfono: 910 180 728

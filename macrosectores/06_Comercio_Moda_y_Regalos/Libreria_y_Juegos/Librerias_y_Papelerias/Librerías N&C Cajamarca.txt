@@ -1,7 +1,7 @@
 Nombre: Librerías N&C Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería, Papelería
 Dirección: Jr. Dos de Mayo 815 Interceccíon con Mario Urteaga, Dos de Mayo 815, Cajamarca 06000
 Teléfono: 965 409 845

@@ -1,7 +1,7 @@
 Nombre: MSA Automotriz
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Concesionario de motos, Concesionario de automóviles, Concesionario Chevrolet, Establecimiento de depósito y venta, Concesionario Honda, Concesionario Isuzu, Comercio, Tienda de automovilismo, Taller de camiones
 Dirección: cda. 3, Av Vía de Evitamiento Nte, Cajamarca
 Teléfono: 976 604 196

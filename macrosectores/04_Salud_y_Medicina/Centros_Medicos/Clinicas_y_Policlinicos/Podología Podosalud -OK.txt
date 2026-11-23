@@ -1,7 +1,7 @@
 Nombre: Podología "Podosalud"
 Macro-Sector: 04_Salud_y_Medicina
-Rubro: Bienestar_Terapeutico
-Subrubro: Podologia
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Médico
 Dirección: Los Cipreses 1765-1555, Cajamarca 06001
 Teléfono: 974 607 391

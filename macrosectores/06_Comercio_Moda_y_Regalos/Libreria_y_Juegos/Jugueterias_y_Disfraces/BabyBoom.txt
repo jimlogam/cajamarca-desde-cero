@@ -1,7 +1,7 @@
 Nombre: BabyBoom
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
 Categoría Maps: Tienda de juegos
 Dirección: Jr, Tayabamba 111, Cajamarca 06001
 Teléfono: 988 126 835

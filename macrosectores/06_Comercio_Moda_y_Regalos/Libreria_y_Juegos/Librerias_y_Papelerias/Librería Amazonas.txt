@@ -1,7 +1,7 @@
 Nombre: Librería Amazonas
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería
 Dirección: Jr.Amazonas 848, Cajamarca 06001
 Teléfono: 998 091 779

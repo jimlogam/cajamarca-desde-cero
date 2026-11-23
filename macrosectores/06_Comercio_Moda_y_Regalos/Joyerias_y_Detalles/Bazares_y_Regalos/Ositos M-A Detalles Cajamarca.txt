@@ -1,7 +1,7 @@
 Nombre: Ositos M/A Detalles Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Joyerias_y_Detalles
+Subrubro: Bazares_y_Regalos
 Categoría Maps: Organizador de eventos
 Dirección: Junín 816, Cajamarca 06001
 Teléfono: 945 876 053

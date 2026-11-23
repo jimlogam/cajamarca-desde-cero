@@ -1,7 +1,7 @@
 Nombre: Sublimados & Detalles
 Macro-Sector: 06_Comercio_Moda_y_Regalos
-Rubro: Libreria_y_Juegos
-Subrubro: Jugueterias_y_Disfraces
+Rubro: Joyerias_y_Detalles
+Subrubro: Bazares_y_Regalos
 Categoría Maps: Juguetería
 Dirección: Jr, Dos de Mayo 1154, Cajamarca 06001
 Teléfono: 

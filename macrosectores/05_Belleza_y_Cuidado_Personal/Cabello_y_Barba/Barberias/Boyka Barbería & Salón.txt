@@ -1,7 +1,7 @@
 Nombre: Boyka Barbería & Salón
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
 Categoría Maps: Barbería
 Dirección: Jr del Batán 169, Cajamarca 06001
 Teléfono: 910 662 157

@@ -1,7 +1,7 @@
 Nombre: Autoparts cueva
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Partes_y_Accesorios
+Subrubro: Repuestos_y_Llantas
 Categoría Maps: Taller mecánico, Electricista, Tienda de repuestos para automóviles
 Dirección: Hermano Miguel Carducci 825, Cajamarca 06001
 Teléfono: 975 424 104

@@ -1,7 +1,7 @@
 Nombre: LIBRERÍA BAZAR JEHOVÁ JIREH
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería cristiana, Librería infantil, Service establishment
 Dirección: 
 Teléfono: 952 211 798

@@ -1,7 +1,7 @@
 Nombre: LIBRERIA -CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Tienda de material escolar
 Dirección: JIRON, Los Pinos 757, Cajamarca 06001
 Teléfono: 981 129 403

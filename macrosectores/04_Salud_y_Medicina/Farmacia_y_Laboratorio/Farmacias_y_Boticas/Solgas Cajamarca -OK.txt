@@ -1,7 +1,7 @@
 Nombre: Solgas Cajamarca
-Macro-Sector: 15_Logistica_Transporte_y_Energia
-Rubro: Energia_y_Combustibles
-Subrubro: Venta_de_Gas_GLP_y_Balones
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
 Categoría Maps: Farmacia veterinaria, Tienda de artículos relacionados con el gas
 Dirección: Av. La Paz 2074, Cajamarca 06001
 Teléfono: 931 902 009

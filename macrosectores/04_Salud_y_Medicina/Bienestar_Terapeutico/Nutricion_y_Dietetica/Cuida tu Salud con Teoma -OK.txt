@@ -1,7 +1,7 @@
 Nombre: Cuida tu Salud con Teoma
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Salud_Alimentaria
-Subrubro: Productos_Naturales_y_Organicos
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Bienestar_Terapeutico
+Subrubro: Nutricion_y_Dietetica
 Categoría Maps: Tienda de vitaminas y suplementos
 Dirección: Belén 656, Cajamarca 06002
 Teléfono: 974 148 619

@@ -1,7 +1,7 @@
 Nombre: BODEGA - LIBRERIA "DON PEPE"
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Comercio_Minorista
-Subrubro: Bodegas
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Bodega, Librería
 Dirección: +51, Cajamarca 06001
 Teléfono: 901 261 366

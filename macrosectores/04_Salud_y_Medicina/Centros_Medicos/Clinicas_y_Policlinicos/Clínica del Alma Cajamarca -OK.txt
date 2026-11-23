@@ -1,7 +1,7 @@
 Nombre: Clínica del Alma Cajamarca
 Macro-Sector: 04_Salud_y_Medicina
-Rubro: Bienestar_Terapeutico
-Subrubro: Psicologia_y_Salud_Mental
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Terapeuta de análisis conductual aplicado
 Dirección: Jr, Quinta Aurora 165, Cajamarca 06001
 Teléfono: 986 775 306

@@ -1,7 +1,7 @@
 Nombre: Odonto Salud Cajamarca
 Macro-Sector: 04_Salud_y_Medicina
-Rubro: Consultorios_Especializados
-Subrubro: Consultorios_Dentales_y_Odontologicos
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Clínica dental
 Dirección: Jr, José Gálvez 751, Cajamarca 06000
 Teléfono: (076) 286669

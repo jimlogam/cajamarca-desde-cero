@@ -1,7 +1,7 @@
 Nombre: Clínica Santa Ana
 Macro-Sector: 04_Salud_y_Medicina
 Rubro: Centros_Medicos
-Subrubro: Hospitales_y_Postas
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Hospital
 Dirección: Jirón Ayacucho 936, Cajamarca 06002
 Teléfono: (076) 506393

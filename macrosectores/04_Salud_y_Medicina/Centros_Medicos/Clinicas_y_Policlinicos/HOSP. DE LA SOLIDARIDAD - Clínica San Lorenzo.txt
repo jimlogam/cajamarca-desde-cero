@@ -1,7 +1,7 @@
 Nombre: HOSP. DE LA SOLIDARIDAD - Clínica San Lorenzo
 Macro-Sector: 04_Salud_y_Medicina
 Rubro: Centros_Medicos
-Subrubro: Hospitales_y_Postas
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Hospital
 Dirección: media cuadra del cruce a Jesús, Av San Martín de Porres 546, Cajamarca 06002
 Teléfono: 976 496 243

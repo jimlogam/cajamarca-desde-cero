@@ -1,7 +1,7 @@
 Nombre: Clínica del Pie Cajamarca
 Macro-Sector: 04_Salud_y_Medicina
-Rubro: Bienestar_Terapeutico
-Subrubro: Podologia
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Podólogo
 Dirección: jirón, Jacarandá 317, Cajamarca 076
 Teléfono: 921 561 586

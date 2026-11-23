@@ -1,7 +1,7 @@
 Nombre: Black Kitten Store
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Joyerias_y_Detalles
+Subrubro: Bazares_y_Regalos
 Categoría Maps: Tienda de accesorios de moda, Tienda de bisutería, Tienda de artículos para el hogar, Importador, Tienda de regalos
 Dirección: Jr. José Sabogal 549, Cajamarca 06001
 Teléfono: 987 706 629

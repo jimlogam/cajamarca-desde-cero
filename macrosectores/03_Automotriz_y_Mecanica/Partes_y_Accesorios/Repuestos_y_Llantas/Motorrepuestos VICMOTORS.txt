@@ -1,7 +1,7 @@
 Nombre: Motorrepuestos "VICMOTORS "
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Partes_y_Accesorios
+Subrubro: Repuestos_y_Llantas
 Categoría Maps: Taller de reparación de motos
 Dirección: Baños del inca, Av. Moyococha A22, Cajamarca 06001
 Teléfono: 931 630 201

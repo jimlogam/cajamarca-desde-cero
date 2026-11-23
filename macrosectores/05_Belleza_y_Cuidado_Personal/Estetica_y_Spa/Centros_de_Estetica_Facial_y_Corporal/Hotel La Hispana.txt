@@ -1,7 +1,7 @@
 Nombre: Hotel La Hispana
-Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
-Rubro: Alojamiento
-Subrubro: Hoteles
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Estetica_y_Spa
+Subrubro: Centros_de_Estetica_Facial_y_Corporal
 Categoría Maps: Hotel
 Dirección: Angamos 679-589, Cajamarca 06001
 Teléfono: 

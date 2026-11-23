@@ -1,7 +1,7 @@
 Nombre: LIBRERÍA-BAZAR VIRGEN DEL ROSARIO
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería
 Dirección: Av. Manuel Noriega, Cajamarca 06001
 Teléfono: 939 113 322

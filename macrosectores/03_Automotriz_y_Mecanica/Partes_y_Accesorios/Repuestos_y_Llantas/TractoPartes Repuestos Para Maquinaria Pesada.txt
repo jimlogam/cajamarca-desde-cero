@@ -1,7 +1,7 @@
 Nombre: TractoPartes Repuestos Para Maquinaria Pesada
-Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Sector_Agropecuario
-Subrubro: Herramientas_Agricolas_y_Riego
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Partes_y_Accesorios
+Subrubro: Repuestos_y_Llantas
 Categoría Maps: Proveedor de maquinaria de construcción
 Dirección: Av, Vía de Evitamiento Nte. N°2338, Cajamarca
 Teléfono: 

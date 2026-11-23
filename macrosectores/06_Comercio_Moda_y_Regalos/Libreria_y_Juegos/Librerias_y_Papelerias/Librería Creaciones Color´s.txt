@@ -1,7 +1,7 @@
 Nombre: Librería Creaciones Color´s
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Tienda de bolígrafos, Servicio de alquiler de disfraces, Tienda de cubertería
 Dirección: Simón Bolívar 382, Cajamarca 06002
 Teléfono: 

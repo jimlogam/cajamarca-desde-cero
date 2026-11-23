@@ -1,7 +1,7 @@
 Nombre: EKADE SALÓN y BARBERÍA
 Macro-Sector: 05_Belleza_y_Cuidado_Personal
 Rubro: Cabello_y_Barba
-Subrubro: Peluquerias_y_Salones_Unisex
+Subrubro: Barberias
 Categoría Maps: Peluquería
 Dirección: JR, Prol. Revilla Perez 514, Cajamarca 00601
 Teléfono: 963 995 727

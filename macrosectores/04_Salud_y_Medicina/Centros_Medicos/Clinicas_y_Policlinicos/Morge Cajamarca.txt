@@ -1,7 +1,7 @@
 Nombre: Morge Cajamarca
 Macro-Sector: 04_Salud_y_Medicina
 Rubro: Centros_Medicos
-Subrubro: Hospitales_y_Postas
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Hospital cardiovascular
 Dirección: RGM5+Q5G, Av. Atahualpa, Cajamarca 06002
 Teléfono: 

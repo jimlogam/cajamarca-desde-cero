@@ -1,7 +1,7 @@
 Nombre: Tai Loy Mall Quinde Cajamarca
 Macro-Sector: 06_Comercio_Moda_y_Regalos
 Rubro: Libreria_y_Juegos
-Subrubro: Jugueterias_y_Disfraces
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería, Tienda de material escolar, Papelería, Juguetería
 Dirección: Mall Quinde, Jr. Sor Manuela Gil N° 151 Lc 401-403, Cajamarca
 Teléfono: 946 576 647

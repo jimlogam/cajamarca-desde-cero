@@ -1,7 +1,7 @@
 Nombre: Etwonailsbeautycamajarcabyeve
-Macro-Sector: 06_Comercio_Moda_y_Regalos
-Rubro: Moda_y_Textil
-Subrubro: Ropa_Damas_Caballeros_Ninos
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Estetica_y_Spa
+Subrubro: Manicure_y_Pedicure
 Categoría Maps: Centro comercial
 Dirección: Av. Hoyos Rubio, Cajamarca 06001
 Teléfono: 927 689 384

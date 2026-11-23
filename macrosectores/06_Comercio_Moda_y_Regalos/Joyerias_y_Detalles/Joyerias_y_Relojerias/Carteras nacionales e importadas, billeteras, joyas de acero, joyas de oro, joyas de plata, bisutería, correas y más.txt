@@ -1,7 +1,7 @@
 Nombre: Carteras nacionales e importadas, billeteras, joyas de acero, joyas de oro, joyas de plata, bisutería, correas y más
 Macro-Sector: 06_Comercio_Moda_y_Regalos
-Rubro: Moda_y_Textil
-Subrubro: Ropa_Damas_Caballeros_Ninos
+Rubro: Joyerias_y_Detalles
+Subrubro: Joyerias_y_Relojerias
 Categoría Maps: Centro comercial
 Dirección: Tayabamba 162, Cajamarca 06001
 Teléfono: 

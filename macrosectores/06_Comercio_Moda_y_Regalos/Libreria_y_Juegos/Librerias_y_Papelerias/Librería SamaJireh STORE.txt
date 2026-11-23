@@ -1,7 +1,7 @@
 Nombre: Librería SamaJireh STORE
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería
 Dirección: Av San Martín de Porres 132, Cajamarca 06002
 Teléfono: 976 300 846

@@ -1,7 +1,7 @@
 Nombre: Creaciones THIAGO Y CHRIS
 Macro-Sector: 06_Comercio_Moda_y_Regalos
-Rubro: Moda_y_Textil
-Subrubro: Ropa_Damas_Caballeros_Ninos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
 Categoría Maps: Tienda de ropa para bebés
 Dirección: Jr. Apurimac 1274, Cajamarca 06001
 Teléfono: 906 273 403

@@ -1,7 +1,7 @@
 Nombre: Minimarket / Librería
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Comercio
 Dirección: Camilo Blas 399, Cajamarca 06001
 Teléfono: 929 265 679

@@ -1,7 +1,7 @@
 Nombre: LA CASA DEL BEBÉ
 Macro-Sector: 06_Comercio_Moda_y_Regalos
-Rubro: Moda_y_Textil
-Subrubro: Ropa_Damas_Caballeros_Ninos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
 Categoría Maps: Comercio
 Dirección: JR ANGAMOS 297, Cajamarca 06001
 Teléfono: 977 394 249

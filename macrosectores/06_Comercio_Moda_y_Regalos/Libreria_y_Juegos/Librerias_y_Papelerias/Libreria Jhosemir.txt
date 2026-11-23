@@ -1,7 +1,7 @@
 Nombre: Libreria Jhosemir
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería
 Dirección: RG83+J3H, Av. La Paz, Cajamarca 06003
 Teléfono: 

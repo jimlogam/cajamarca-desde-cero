@@ -1,7 +1,7 @@
 Nombre: Taller de moto lineal y venta repuesto TORIBIO MOTORS
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Partes_y_Accesorios
+Subrubro: Repuestos_y_Llantas
 Categoría Maps: Tienda de motocicletas
 Dirección: Av Vía de Evitamiento 2212, Cajamarca 06002
 Teléfono: 919 441 531

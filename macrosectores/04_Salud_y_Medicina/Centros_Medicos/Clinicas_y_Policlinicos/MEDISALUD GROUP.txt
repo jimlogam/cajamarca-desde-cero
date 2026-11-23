@@ -1,7 +1,7 @@
 Nombre: MEDISALUD GROUP
 Macro-Sector: 04_Salud_y_Medicina
 Rubro: Centros_Medicos
-Subrubro: Hospitales_y_Postas
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Hospital, Clínica ambulatoria
 Dirección: Los Fresnos 231, Cajamarca 06001
 Teléfono: (076) 341655

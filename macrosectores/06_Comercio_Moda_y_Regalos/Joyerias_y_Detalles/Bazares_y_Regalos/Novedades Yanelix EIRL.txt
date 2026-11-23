@@ -1,7 +1,7 @@
 Nombre: Novedades Yanelix EIRL
-Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
-Rubro: Materiales_y_Ferreteria
-Subrubro: Ferreterias_Generales
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Joyerias_y_Detalles
+Subrubro: Bazares_y_Regalos
 Categoría Maps: Tienda de artículos para el hogar
 Dirección: Amalia Puga 805, Cajamarca 06002
 Teléfono: 

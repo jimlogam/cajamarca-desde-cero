@@ -1,7 +1,7 @@
 Nombre: Papelería Tinta Azul
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería
 Dirección: Villa Huacariz, Calle Piedra Resbalosa N° 112, Cajamarca 06000
 Teléfono: 943 540 649

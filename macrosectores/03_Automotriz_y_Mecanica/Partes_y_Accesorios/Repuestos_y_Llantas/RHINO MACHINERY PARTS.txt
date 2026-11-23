@@ -1,7 +1,7 @@
 Nombre: RHINO MACHINERY PARTS
-Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Sector_Agropecuario
-Subrubro: Herramientas_Agricolas_y_Riego
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Partes_y_Accesorios
+Subrubro: Repuestos_y_Llantas
 Categoría Maps: Tienda de repuestos para tractores, Fabricante de repuestos para maquinaria
 Dirección: Av. Vía de Evitamiento Sur 1238, Cajamarca 06003
 Teléfono: 967 385 875

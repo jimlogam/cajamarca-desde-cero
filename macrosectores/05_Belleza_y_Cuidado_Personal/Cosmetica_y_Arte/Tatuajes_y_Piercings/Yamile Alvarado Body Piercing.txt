@@ -1,7 +1,7 @@
 Nombre: Yamile Alvarado Body Piercing
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cosmetica_y_Arte
+Subrubro: Tatuajes_y_Piercings
 Categoría Maps: Tienda de piercings y tatuajes
 Dirección: 06001, Cajamarca 06001
 Teléfono: 901 185 634

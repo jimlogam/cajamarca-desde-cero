@@ -1,7 +1,7 @@
 Nombre: " BATERIAS POWER CAJAMARCA"
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Partes_y_Accesorios
+Subrubro: Repuestos_y_Llantas
 Categoría Maps: Tienda de baterías
 Dirección: Jirón Sucre 342, Cajamarca 06000
 Teléfono: 960 477 058

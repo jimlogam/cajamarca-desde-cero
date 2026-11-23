@@ -1,7 +1,7 @@
 Nombre: KAMILE
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cosmetica_y_Arte
+Subrubro: Tiendas_de_Cosmeticos_y_Maquillaje
 Categoría Maps: Tienda de cosméticos
 Dirección: Jr. Cáceres 1235, Cajabamba 06351
 Teléfono: 939 609 833

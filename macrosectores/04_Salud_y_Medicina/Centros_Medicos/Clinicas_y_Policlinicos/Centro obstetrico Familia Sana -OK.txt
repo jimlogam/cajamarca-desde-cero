@@ -1,7 +1,7 @@
 Nombre: Centro obstetrico Familia Sana
 Macro-Sector: 04_Salud_y_Medicina
-Rubro: Consultorios_Especializados
-Subrubro: Pediatria_y_Ginecologia
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Hospital
 Dirección: Jirón El Milagro 153, Cajamarca 06003
 Teléfono: (076) 367742

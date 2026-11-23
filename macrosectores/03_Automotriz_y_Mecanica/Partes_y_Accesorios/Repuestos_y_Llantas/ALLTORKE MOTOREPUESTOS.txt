@@ -1,7 +1,7 @@
 Nombre: ALLTORKE MOTOREPUESTOS
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Partes_y_Accesorios
+Subrubro: Repuestos_y_Llantas
 Categoría Maps: Taller de reparación de motos
 Dirección: Avenida La Paz 1357, Av. La Paz 1016, Cajamarca
 Teléfono: 939 982 901

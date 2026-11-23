@@ -1,7 +1,7 @@
 Nombre: Baterías Energy plus Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Partes_y_Accesorios
+Subrubro: Repuestos_y_Llantas
 Categoría Maps: Tienda de repuestos para automóviles
 Dirección: Av. Vía de Evitamiento Sur 695, Cajamarca 06002
 Teléfono: 923 829 778

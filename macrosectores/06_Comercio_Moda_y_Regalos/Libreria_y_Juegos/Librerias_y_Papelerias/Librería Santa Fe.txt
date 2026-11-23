@@ -1,7 +1,7 @@
 Nombre: Librería "Santa Fe"
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería
 Dirección: Av. Aurelio Pastor 299, Cajamarca 06002
 Teléfono: 

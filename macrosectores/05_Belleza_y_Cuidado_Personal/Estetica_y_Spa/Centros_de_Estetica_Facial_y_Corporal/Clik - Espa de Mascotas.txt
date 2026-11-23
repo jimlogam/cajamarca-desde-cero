@@ -1,7 +1,7 @@
 Nombre: Clik - Espa de Mascotas
 Macro-Sector: 05_Belleza_y_Cuidado_Personal
-Rubro: Cabello_y_Barba
-Subrubro: Peluquerias_y_Salones_Unisex
+Rubro: Estetica_y_Spa
+Subrubro: Centros_de_Estetica_Facial_y_Corporal
 Categoría Maps: Peluquería
 Dirección: Jr, Paul Rivet 145, Cajamarca 06002
 Teléfono: 

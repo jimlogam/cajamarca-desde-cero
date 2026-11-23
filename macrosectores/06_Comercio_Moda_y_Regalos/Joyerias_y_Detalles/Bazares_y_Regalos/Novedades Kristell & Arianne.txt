@@ -1,7 +1,7 @@
 Nombre: Novedades Kristell & Arianne
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Joyerias_y_Detalles
+Subrubro: Bazares_y_Regalos
 Categoría Maps: Tienda de deportes
 Dirección: Jr. Sor Manuela Gil, Cajamarca 06001
 Teléfono: 976 393 364

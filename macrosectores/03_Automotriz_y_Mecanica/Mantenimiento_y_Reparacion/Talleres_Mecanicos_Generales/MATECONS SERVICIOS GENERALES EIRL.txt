@@ -1,7 +1,7 @@
 Nombre: MATECONS SERVICIOS GENERALES EIRL
-Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Sector_Agropecuario
-Subrubro: Herramientas_Agricolas_y_Riego
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Taller de maquinaria
 Dirección: 51, Cajamarca 06001
 Teléfono: 932 545 747

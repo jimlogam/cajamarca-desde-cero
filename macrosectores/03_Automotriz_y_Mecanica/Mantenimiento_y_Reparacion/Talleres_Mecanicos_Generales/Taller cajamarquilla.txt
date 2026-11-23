@@ -1,7 +1,7 @@
 Nombre: Taller cajamarquilla
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Taller de costura
 Dirección: RFQP+8V4, Cajamarca 06002
 Teléfono: 

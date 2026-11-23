@@ -1,7 +1,7 @@
 Nombre: MTCAT
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Taller mecánico
 Dirección: Av. Héroes del Cenepa 2037, Cajamarca 06003
 Teléfono: 936 546 990

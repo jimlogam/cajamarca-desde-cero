@@ -1,7 +1,7 @@
 Nombre: Centro de Salud La Tulpuna
 Macro-Sector: 04_Salud_y_Medicina
 Rubro: Centros_Medicos
-Subrubro: Hospitales_y_Postas
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Centro médico
 Dirección: RFFR+278, Jirón Urubamba, Cajamarca 06003
 Teléfono: 

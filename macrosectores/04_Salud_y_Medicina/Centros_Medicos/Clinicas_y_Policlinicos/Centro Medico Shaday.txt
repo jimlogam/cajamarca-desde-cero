@@ -1,7 +1,7 @@
 Nombre: Centro Medico Shaday
 Macro-Sector: 04_Salud_y_Medicina
-Rubro: Consultorios_Especializados
-Subrubro: Consultorios_Medicos_Generales
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Terapeuta psicomotor
 Dirección: RFMH+VCJ, Pedro Villanueva, Cajamarca 06002
 Teléfono: 

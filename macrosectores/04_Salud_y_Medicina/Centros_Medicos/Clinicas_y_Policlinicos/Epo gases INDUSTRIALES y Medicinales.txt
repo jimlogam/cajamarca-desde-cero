@@ -1,7 +1,7 @@
 Nombre: Epo gases INDUSTRIALES y Medicinales
 Macro-Sector: 04_Salud_y_Medicina
-Rubro: Consultorios_Especializados
-Subrubro: Consultorios_Medicos_Generales
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Proveedor de equipos médicos
 Dirección: Jr, Los Próceres 377, Cajamarca
 Teléfono: 957 945 668

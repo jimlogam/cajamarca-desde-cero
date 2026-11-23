@@ -1,7 +1,7 @@
 Nombre: Perfectas importaciones y manicure
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Estetica_y_Spa
+Subrubro: Manicure_y_Pedicure
 Categoría Maps: Importador
 Dirección: Jirón, San Salvador 219, Cajamarca 06001
 Teléfono: 972 719 183

@@ -1,7 +1,7 @@
 Nombre: BABY & HOME
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
 Categoría Maps: Tienda de artículos para bebés
 Dirección: Av. Andres Ceballos de la fuente 2154, Jr. Tarapacá 857, Cajamarca 06000
 Teléfono: 987 643 918

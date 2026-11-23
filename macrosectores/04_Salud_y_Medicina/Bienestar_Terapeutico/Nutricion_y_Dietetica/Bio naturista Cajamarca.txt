@@ -1,7 +1,7 @@
 Nombre: Bio naturista Cajamarca
 Macro-Sector: 04_Salud_y_Medicina
-Rubro: Farmacia_y_Laboratorio
-Subrubro: Farmacias_y_Boticas
+Rubro: Bienestar_Terapeutico
+Subrubro: Nutricion_y_Dietetica
 Categoría Maps: Farmacia
 Dirección: Jirón del Comercio 432, Cajamarca 06001
 Teléfono: 968 207 907

@@ -1,7 +1,7 @@
 Nombre: CENTRO MÉDICO ESPECIALIZADO CRISTO REY - CAJAMARCA
 Macro-Sector: 04_Salud_y_Medicina
-Rubro: Consultorios_Especializados
-Subrubro: Consultorios_Medicos_Generales
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Asesor médico
 Dirección: Bar. Chontapaccha (Esquina De Metro De Angamos, • PJ, Sta. Rosa N°. 366, Cajamarca
 Teléfono: 

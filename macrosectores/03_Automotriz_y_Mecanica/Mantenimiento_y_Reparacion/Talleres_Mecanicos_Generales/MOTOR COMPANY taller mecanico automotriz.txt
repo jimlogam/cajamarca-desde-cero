@@ -1,7 +1,7 @@
 Nombre: MOTOR COMPANY taller mecanico automotriz
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Taller de automóviles, Pintura de automóviles, Tienda de accesorios para automóviles, Taller de reparación de motores diésel, Autoservicio de lavado de autos, Tienda de repuestos de automóviles usados
 Dirección: Jr Clodomiro Cerna 219, Cajamarca 06001
 Teléfono: 953 535 674

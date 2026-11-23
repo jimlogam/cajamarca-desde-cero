@@ -1,7 +1,7 @@
 Nombre: "PRINT TECH SOLUTIONS CAJAMARCA"
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería, Servicio de reparación de audífonos
 Dirección: Emancipación 173, Cajamarca 06003
 Teléfono: 941 288 653

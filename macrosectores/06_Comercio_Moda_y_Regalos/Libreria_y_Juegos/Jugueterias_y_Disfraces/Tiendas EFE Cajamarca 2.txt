@@ -1,7 +1,7 @@
 Nombre: Tiendas EFE Cajamarca 2
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
 Categoría Maps: Tienda de electrónica, Tienda de electrodomésticos, Tienda de mobiliario para dormitorios, Tienda de accesorios para móviles, Tienda de móviles, Tienda de accesorios informáticos, Tienda de muebles, Tienda de artículos para el hogar, Tienda de deportes, Tienda de videojuegos
 Dirección: Av. Atahualpa 180, Frente al Banco de Crédito del Perú, Cajamarca 06002
 Teléfono: (01) 2002890

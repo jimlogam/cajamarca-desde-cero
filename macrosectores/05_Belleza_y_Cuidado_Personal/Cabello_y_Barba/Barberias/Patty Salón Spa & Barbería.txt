@@ -1,7 +1,7 @@
 Nombre: Patty Salón Spa & Barbería
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
 Categoría Maps: Spa
 Dirección: Jr. Alameda la Chonta 355, Cajamarca 06004
 Teléfono: 957 389 039

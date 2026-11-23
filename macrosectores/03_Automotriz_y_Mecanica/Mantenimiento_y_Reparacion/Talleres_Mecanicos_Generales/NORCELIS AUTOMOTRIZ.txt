@@ -1,7 +1,7 @@
 Nombre: NORCELIS AUTOMOTRIZ
 Macro-Sector: 03_Automotriz_y_Mecanica
-Rubro: Partes_y_Accesorios
-Subrubro: Repuestos_y_Llantas
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Tienda de repuestos para automóviles
 Dirección: Av. Vía de Evitamiento Sur 6003, Cajamarca 06001
 Teléfono: 963 134 961

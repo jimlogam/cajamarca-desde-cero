@@ -1,7 +1,7 @@
 Nombre: MATERNA CAJAMARCA
 Macro-Sector: 04_Salud_y_Medicina
-Rubro: Consultorios_Especializados
-Subrubro: Pediatria_y_Ginecologia
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Médico
 Dirección: Av. Mario Urteaga 587, Cajamarca 06002
 Teléfono: (076) 340229

@@ -1,7 +1,7 @@
 Nombre: Bbytos
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Jugueterias_y_Disfraces
 Categoría Maps: Tienda de artículos para bebés, Tienda de ropa para bebés
 Dirección: Vía de Evitamiento Nte. c 14, Cajamarca 06002
 Teléfono: 915 339 205

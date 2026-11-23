@@ -1,7 +1,7 @@
 Nombre: Genesaret Editorial
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería
 Dirección: Jirón Ancón 512 Jirón Ancón 518, Jirón Silva Santisteban 504, Cajamarca
 Teléfono: 954 302 985

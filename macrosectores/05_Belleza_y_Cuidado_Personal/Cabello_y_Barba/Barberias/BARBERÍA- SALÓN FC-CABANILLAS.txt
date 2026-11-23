@@ -1,7 +1,7 @@
 Nombre: BARBERÍA- SALÓN FC-CABANILLAS
 Macro-Sector: 05_Belleza_y_Cuidado_Personal
-Rubro: Estetica_y_Spa
-Subrubro: Centros_de_Estetica_Facial_y_Corporal
+Rubro: Cabello_y_Barba
+Subrubro: Barberias
 Categoría Maps: Centro de estética
 Dirección: Apocalipsis 193, Cajamarca 06000
 Teléfono: 978 729 082

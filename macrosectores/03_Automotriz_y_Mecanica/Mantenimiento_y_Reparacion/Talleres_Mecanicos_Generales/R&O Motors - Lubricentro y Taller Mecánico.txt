@@ -1,7 +1,7 @@
 Nombre: R&O Motors | Lubricentro y Taller Mecánico
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Taller de reparación de automóviles
 Dirección: | Esquina con, Jirón Sucre N° 301, Cajamarca 06000
 Teléfono: 976 310 069

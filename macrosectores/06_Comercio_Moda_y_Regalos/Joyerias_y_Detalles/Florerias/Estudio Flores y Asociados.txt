@@ -1,7 +1,7 @@
 Nombre: Estudio Flores y Asociados
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Joyerias_y_Detalles
+Subrubro: Florerias
 Categoría Maps: Contable
 Dirección: Libertad N° 277, Cajamarca 06003
 Teléfono: 960 457 147

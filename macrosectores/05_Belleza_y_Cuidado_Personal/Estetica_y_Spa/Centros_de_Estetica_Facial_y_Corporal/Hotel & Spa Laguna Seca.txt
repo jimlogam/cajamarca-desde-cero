@@ -1,7 +1,7 @@
 Nombre: Hotel & Spa Laguna Seca
-Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
-Rubro: Alojamiento
-Subrubro: Alojamientos_Campestres
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Estetica_y_Spa
+Subrubro: Centros_de_Estetica_Facial_y_Corporal
 Categoría Maps: Hotel
 Dirección: Av. Manco Cápac 1098, Baños del Inca 06004
 Teléfono: 976 332 043

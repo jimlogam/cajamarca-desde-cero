@@ -1,7 +1,7 @@
 Nombre: SYMI SRL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Soldador, Siderúrgica, Fabricante de estructuras metálicas, Empresa de pulidos metálicos, Ingeniero estructural, Taller de metalurgia
 Dirección: Av San Martín de Porres 1645, Cajamarca 06003
 Teléfono: 916 656 196

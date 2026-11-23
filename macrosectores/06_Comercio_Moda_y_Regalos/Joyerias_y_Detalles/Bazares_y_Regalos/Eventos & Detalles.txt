@@ -1,7 +1,7 @@
 Nombre: Eventos & Detalles
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Menu_y_Comida_Casera
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Joyerias_y_Detalles
+Subrubro: Bazares_y_Regalos
 Categoría Maps: Empresa de organización de eventos, Servicio de catering
 Dirección: Ilo, Cajamarca 06001
 Teléfono: 959 121 122

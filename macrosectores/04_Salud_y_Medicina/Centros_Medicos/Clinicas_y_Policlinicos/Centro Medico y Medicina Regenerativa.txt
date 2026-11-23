@@ -1,7 +1,7 @@
 Nombre: Centro Medico y Medicina Regenerativa
 Macro-Sector: 04_Salud_y_Medicina
-Rubro: Bienestar_Terapeutico
-Subrubro: Fisioterapia_y_Rehabilitacion
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Centro de salud y bienestar
 Dirección: Av. Mario Urteaga 881, Cajamarca 06002
 Teléfono: 

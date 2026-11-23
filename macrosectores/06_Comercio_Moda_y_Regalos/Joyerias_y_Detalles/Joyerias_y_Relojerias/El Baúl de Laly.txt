@@ -1,7 +1,7 @@
 Nombre: El Baúl de Laly
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Joyerias_y_Detalles
+Subrubro: Joyerias_y_Relojerias
 Categoría Maps: Joyería
 Dirección: Jr, Ica 338, Cajamarca 06001
 Teléfono: 

@@ -1,7 +1,7 @@
 Nombre: Librería Cristiana: Casa de la Biblia Cajamarca - El Estandarte de la Verdad
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería cristiana, Tienda de bolígrafos, Librería religiosa, Papelería
 Dirección: Jr del Batán 245, Cajamarca 06001
 Teléfono: 936 083 235
