@@ -1,268 +1,181 @@
 Nombre: Hamburguesería BANANAS
-Macro-Sector: 14_Entretenimiento_y_Eventos
-Rubro: Vida_Nocturna
-Subrubro: Restobares_y_Karaokes
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
 Categoría Maps: Hamburguesería, Pub restaurante, Restaurante
 Dirección: Jr, Antonio Astopilco 255, Cajamarca 06001
 Teléfono: 993 897 794
 Rating: 4.5
 Reseñas: 2
-Sitio web: 
+Sitio web:
 Latitud: -7.1482655
 Longitud: -78.5000633
 Google Maps: https://www.google.com/maps?cid=963213931409258462
 Place Id: ChIJqdGKhuRaspER3jdboPcFXg0
 Fotos: Hamburguesería BANANAS.jpg
 Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdmg2Xr7OWAdl_b5W3j_EGHBk6KR64WdXvcrmyskHozS5c-caEaNiOcNXgZZ2bNX2jE9K2FMsWPxlV-2Uuzu2Zl-EA6YKNYj6nck9W4phEcr9Ig7fgOpBAI3CnMUZKbOnhyM8b6=w1600-h1200-k-no
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-¡Te damos la bienvenida a Hamburguesería BANANAS! El punto de encuentro predilecto para desconectarte de la rutina con los mejores cócteles de autor, cervezas heladas, piqueos sabrosos y un ambiente musical vibrante. Ven a pasarla excelente con tu grupo de amigos a nuestro local en Jr, Antonio Astopilco 255, Cajamarca y vive noches llenas de diversión. Escríbenos al WhatsApp para reservas de mesas y cumpleaños.
+================================================================================
+================================================================================
+Texto de bienvenida:
+En Hamburguesería BANANAS te esperamos con hamburguesas artesanales de sabor explosivo, queso fundido en abundancia y un ambiente restobar juvenil en el jirón Antonio Astopilco 255 en Cajamarca. Con una destacada calificación de 4.5 estrellas, preparamos medallones jugosos a la plancha, tocineta crujiente, alitas glaseadas y cócteles refrescantes pensados para convertir tus noches en momentos inolvidables con amigos. Disfruta de porciones bien servidas y música vibrante. ¡Ven a vivir una experiencia gastronómica sensacional!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué hamburguesas artesanales y creaciones especiales destacan en la carta?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: ¿Qué características, metodología y alcance comprende el servicio de After office para empresas en Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-La prestación del servicio de After office para empresas está orientada a resolver tus necesidades de forma ágil, segura y eficiente en vida nocturna.
+Nuestra propuesta resalta por las hamburguesas smash elaboradas con medallones de pura res prensados al instante sobre la plancha caliente con costra caramelizada crujiente, doble queso cheddar fundido y tocino ahumado. Se sirven en pan brioche suave y tostado.
 
-Utilizamos herramientas, insumos y equipos adecuados para garantizar un trabajo seguro, rápido y sin riesgos de daños.
+Ofrecemos también la hamburguesa bananas especial con plátano maduro frito caramelizado, queso andino derretido y huevo montado, además de opciones con pechuga de pollo crispy dorada al punto crocante. Cada receta ofrece un balance de sabores dulces y salados irresistible.
 
-Aceptamos diversas modalidades de pago para facilitarte la cancelación del servicio sin complicaciones bancarias.
+Para grupos de amigos, disponemos de hamburguesas dobles y triples que duplican la porción cárnica, acompañadas de canastillas abundantes de papas fritas rústicas.
 
-En Hamburguesería BANANAS trabajamos para hacerte la vida más fácil en Jr, Antonio Astopilco 255, Cajamarca, tu empresa de confianza para After office para empresas.
+2. ¿A qué distancia se encuentra Hamburguesería BANANAS respecto al Centro Comercial El Quinde?
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿Qué equipos, personal calificado y medidas de seguridad se aplican en Brindis de cortesía para cumpleañeros en Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Desarrollamos Brindis de cortesía para cumpleañeros con métodos comprobados que aseguran un resultado impecable y a la altura de tus expectativas.
+El local se sitúa a 961 metros (0.96 km) del C.C. El Quinde, lo que supone un corto trayecto de unos diez a doce minutos a pie o tres minutos en mototaxi. Une la zona comercial de Hoyos Rubio con el jirón Antonio Astopilco.
 
-Nos esforzamos por cumplir rigurosamente con los plazos pactados, respetando tu tiempo y tus compromisos personales o laborales.
+Quienes realizan compras departamentales o salen del cine pueden desplazarse rápidamente hacia nuestro local para cerrar la velada con una cena contundente y un ambiente restobar relajado. La ruta discurre por calles pavimentadas y seguras.
 
-Emitimos comprobantes de pago formales que acreditan la seriedad de nuestra empresa y tu tranquilidad como cliente.
+Esta cercanía facilita hacer una parada nocturna atractiva fuera del circuito saturado de los patios de comidas comerciales.
 
-Comunícate hoy mismo con Hamburguesería BANANAS en Jr, Antonio Astopilco 255, Cajamarca y asegura un servicio de primera calidad en Brindis de cortesía para cumpleañeros.
+3. ¿Cuáles son las salsas y cremas de la casa para acompañar?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: ¿Cómo se programa, cotiza y ejecuta la atención para Servicio de seguridad en puerta en Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Al contratar Servicio de seguridad en puerta accedes a una solución profesional que optimiza tu tiempo y resuelve tus requerimientos sin complicaciones.
+Elaboramos una cotizada salsa bananas especial con base cremosa, toques ahumados y especias suaves que resalta magistralmente la jugosidad de la carne a la plancha. Es la salsa insignia más pedida por los comensales.
 
-Mantenemos protocolos de seguridad y cuidado del entorno, asegurando que cada tarea se ejecute sin entorpecer tus rutinas.
+Contamos asimismo con crema de ají cajamarquino elaborada con huacatay y queso fresco andino, mayonesa artesanal al ajo, salsa tártara aromatizada y kétchup tradicional de primera. Todas las cremas se preparan a diario con ingredientes frescos.
 
-Brindamos canales de atención ágiles por WhatsApp o llamada para coordinar fechas y horarios convenientes para tu atención.
+Los comensales disponen de porciones generosas servidas en envases limpios para aderezar cada hamburguesa y porción de papas al gusto personal.
 
-Encuentra una solución rápida y garantizada en Hamburguesería BANANAS, situado en Jr, Antonio Astopilco 255, Cajamarca, para Servicio de seguridad en puerta.
+4. ¿Qué bebidas, cócteles y refrescos ofrecen en el menú restobar?
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿Qué características, metodología y alcance comprende el servicio de Tequila por shots en Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-La prestación del servicio de Tequila por shots está orientada a resolver tus necesidades de forma ágil, segura y eficiente en vida nocturna.
+Disponemos de cócteles refrescantes clásicos y creaciones juveniles como chilcanos con macerados frutales, mojitos y jarras para compartir que complementan a la perfección el concepto restobar del establecimiento.
 
-Utilizamos herramientas, insumos y equipos adecuados para garantizar un trabajo seguro, rápido y sin riesgos de daños.
+Ofrecemos además bebidas gaseosas heladas en formatos personales y familiares, cervezas artesanales locales bien frías y refrescos naturales preparados en el día como maracuyá y chicha morada tradicional. Las servimos a temperatura ideal.
 
-Aceptamos diversas modalidades de pago para facilitarte la cancelación del servicio sin complicaciones bancarias.
+Para quienes prefieren bebidas calientes durante las noches frescas, preparamos café pasado con granos cajamarquinos e infusiones aromáticas.
 
-En Hamburguesería BANANAS trabajamos para hacerte la vida más fácil en Jr, Antonio Astopilco 255, Cajamarca, tu empresa de confianza para Tequila por shots.
+5. ¿Cuál es la separación exacta hacia el Aeropuerto Armando Revoredo Iglesias?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Cómo se programa, cotiza y ejecuta la atención para Tabla de piqueos para compartir en Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-Al contratar Tabla de piqueos para compartir accedes a una solución profesional que optimiza tu tiempo y resuelve tus requerimientos sin complicaciones.
+La separación hacia el Aeropuerto Armando Revoredo Iglesias es de aproximadamente 1262 metros (1.26 km), requiriendo unos cuatro a cinco minutos en taxi o vehículo particular. Es una proximidad muy conveniente para viajeros.
 
-Mantenemos protocolos de seguridad y cuidado del entorno, asegurando que cada tarea se ejecute sin entorpecer tus rutinas.
+Pasajeros que llegan en vuelos vespertinos o que se hospedan en los hoteles cercanos a la vía al aeropuerto pueden acercarse con facilidad para cenar comida rápida de gran nivel. El trayecto vehicular es directo y sin congestión.
 
-Brindamos canales de atención ágiles por WhatsApp o llamada para coordinar fechas y horarios convenientes para tu atención.
+Es una parada muy práctica y sabrosa para recargar energías antes de iniciar actividades recreativas en Cajamarca.
 
-Encuentra una solución rápida y garantizada en Hamburguesería BANANAS, situado en Jr, Antonio Astopilco 255, Cajamarca, para Tabla de piqueos para compartir.
+6. ¿Cómo opera el servicio de órdenes para llevar y despacho a domicilio?
 
---------------------------------------------------------------------------------
-PREGUNTA 6: ¿Qué garantía, puntualidad y eficiencia respalda el servicio de Barra libre en horario promocional en Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Nos especializamos en brindar Barra libre en horario promocional con un estricto compromiso de puntualidad, seriedad y atención personalizada.
+Los comensales pueden realizar sus pedidos en el mostrador del jirón Antonio Astopilco y esperar en el salón mientras el maestro de plancha prepara las hamburguesas al instante. Los empaques térmicos retienen el calor y la textura.
 
-Contamos con personal debidamente identificado, capacitado y con experiencia para realizar la labor con total prolijidad y orden.
+Para envíos a domicilio en las distintas urbanizaciones de Cajamarca, gestionamos pedidos comunicándose al WhatsApp oficial del establecimiento. Los repartidores motorizados entregan las órdenes con diligencia y puntualidad.
 
-Te brindamos recomendaciones prácticas para mantener los resultados obtenidos y prevenir futuras incidencias.
+Aconsejamos realizar los pedidos con anticipación durante los fines de semana para asegurar una llegada ágil hasta la puerta de su hogar.
 
-Resuelve tus requerimientos con total confianza acudiendo a Hamburguesería BANANAS en Jr, Antonio Astopilco 255, Cajamarca, expertos en Barra libre en horario promocional.
+7. ¿Qué alternativas se sugieren para quienes no consumen carne de res?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: ¿Qué características, metodología y alcance comprende el servicio de Lista de invitados para cumpleaños en Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-La prestación del servicio de Lista de invitados para cumpleaños está orientada a resolver tus necesidades de forma ágil, segura y eficiente en vida nocturna.
+Disponemos de hamburguesas preparadas con filete de pechuga de pollo marinada a la plancha o en versión crocante con lechuga fresca, rodajas de tomate y queso andino derretido. Es una opción muy balanceada, tierna y liviana.
 
-Utilizamos herramientas, insumos y equipos adecuados para garantizar un trabajo seguro, rápido y sin riesgos de daños.
+Ofrecemos también porciones de papas fritas doradas servidas con abundante queso fundido, aros de cebolla rebozados y huevos a la plancha para comensales que evitan las carnes rojas. La cocina atiende gustosamente solicitudes especiales.
 
-Aceptamos diversas modalidades de pago para facilitarte la cancelación del servicio sin complicaciones bancarias.
+Basta con solicitar al personal de barra los ajustes de ingredientes preferidos al registrar la comanda para personalizar su platillo.
 
-En Hamburguesería BANANAS trabajamos para hacerte la vida más fácil en Jr, Antonio Astopilco 255, Cajamarca, tu empresa de confianza para Lista de invitados para cumpleaños.
+8. ¿Qué distancia media hay hacia el Centro Comercial Real Plaza?
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué soluciones prácticas y ahorro de tiempo aporta Happy hour de cócteles a los clientes de Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Nuestra propuesta en Happy hour de cócteles responde a los más altos estándares de calidad y confianza para hogares, negocios e instituciones.
+Nos localizamos a 1765 metros (1.77 km) del C.C. Real Plaza Cajamarca, demandando un trayecto vehicular de unos cinco a seis minutos en mototaxi o taxi. Conecta el gran mall comercial con el sector de Antonio Astopilco.
 
-Evaluamos tu requerimiento específico para brindarte una cotización transparente, justa y adaptada a la magnitud de la labor.
+Permite a los comensales desplazarse cómodamente desde las zonas comerciales del norte hacia nuestro establecimiento para disfrutar de una cena animada con música y amigos. Las vías asfaltadas conectan fluidamente.
 
-Ofrecemos garantía sobre el servicio realizado, respaldando nuestra labor y atendiendo cualquier ajuste con total disposición.
+Desde los exteriores del local se puede conseguir transporte público con facilidad hacia cualquier punto de la urbe.
 
-En Hamburguesería BANANAS te esperamos en Jr, Antonio Astopilco 255, Cajamarca con la mejor disposición para atender tu solicitud de Happy hour de cócteles.
+9. ¿Tienen combos para parejas o promociones para grupos de amigos?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Qué soluciones prácticas y ahorro de tiempo aporta Gaseosa familiar a los clientes de Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Nuestra propuesta en Gaseosa familiar responde a los más altos estándares de calidad y confianza para hogares, negocios e instituciones.
+Manejamos combos personales que incluyen hamburguesa clásica o smash, guarnición generosa de papas fritas crocantes y una bebida helada a un precio sumamente competitivo. Son muy elegidos para cenas de inicio de fin de semana.
 
-Evaluamos tu requerimiento específico para brindarte una cotización transparente, justa y adaptada a la magnitud de la labor.
+Presentamos también promociones para parejas y clanes de amigos que incluyen dos o cuatro hamburguesas especiales, fuentes compartidas de papas cargadas y jarras de cócteles o gaseosas familiares. Garantizan economía y disfrute grupal.
 
-Ofrecemos garantía sobre el servicio realizado, respaldando nuestra labor y atendiendo cualquier ajuste con total disposición.
+Las ofertas de temporada y noches temáticas se comunican activamente a través de nuestras redes sociales oficiales y en la cartelera del local.
 
-En Hamburguesería BANANAS te esperamos en Jr, Antonio Astopilco 255, Cajamarca con la mejor disposición para atender tu solicitud de Gaseosa familiar.
+10. ¿De qué formas se puede cancelar la cuenta en mostrador?
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Cómo se programa, cotiza y ejecuta la atención para Cuba libre en Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Al contratar Cuba libre accedes a una solución profesional que optimiza tu tiempo y resuelve tus requerimientos sin complicaciones.
+Aceptamos pagos en efectivo en billetes y monedas nacionales, agradeciendo a los clientes disponer de sencillo para agilizar las operaciones en caja. Se hace entrega inmediata del comprobante de venta respectivo.
 
-Mantenemos protocolos de seguridad y cuidado del entorno, asegurando que cada tarea se ejecute sin entorpecer tus rutinas.
+Recibimos transferencias móviles mediante Yape y Plin mediante la lectura del código QR expuesto en la barra de atención. Es un procedimiento rápido, moderno y sin contacto físico para los comensales.
 
-Brindamos canales de atención ágiles por WhatsApp o llamada para coordinar fechas y horarios convenientes para tu atención.
+Para consumos mayores es factible consultar en mostrador sobre la disponibilidad de cobro con tarjetas bancarias mediante terminal electrónico POS.
 
-Encuentra una solución rápida y garantizada en Hamburguesería BANANAS, situado en Jr, Antonio Astopilco 255, Cajamarca, para Cuba libre.
+11. ¿Cuántos metros median hacia el tradicional Mercado Central de Cajamarca?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿Qué garantía, puntualidad y eficiencia respalda el servicio de Reserva de mesa en Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-Nos especializamos en brindar Reserva de mesa con un estricto compromiso de puntualidad, seriedad y atención personalizada.
+La distancia hacia el Mercado Central de Cajamarca es de 2076 metros (2.08 km), lo que equivale a un trayecto de unos seis a siete minutos en taxi o mototaxi. Conecta el casco comercial tradicional con el jirón Antonio Astopilco.
 
-Contamos con personal debidamente identificado, capacitado y con experiencia para realizar la labor con total prolijidad y orden.
+Turistas y vecinos que realizan compras durante el día pueden trasladarse hacia nuestro local al caer la noche para disfrutar de hamburguesas artesanales y cócteles en un entorno moderno y distendido. El transporte es continuo en ambos sentidos.
 
-Te brindamos recomendaciones prácticas para mantener los resultados obtenidos y prevenir futuras incidencias.
+La relativa cercanía permite acceder con facilidad a una alternativa gastronómica nocturna fuera de las calles coloniales estrechas.
 
-Resuelve tus requerimientos con total confianza acudiendo a Hamburguesería BANANAS en Jr, Antonio Astopilco 255, Cajamarca, expertos en Reserva de mesa.
+12. ¿Qué normas de salubridad y desinfección rigen en la preparación?
 
---------------------------------------------------------------------------------
-PREGUNTA 12: ¿Qué soluciones prácticas y ahorro de tiempo aporta Alquiler de box para eventos a los clientes de Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Nuestra propuesta en Alquiler de box para eventos responde a los más altos estándares de calidad y confianza para hogares, negocios e instituciones.
+En Hamburguesería BANANAS aplicamos rigurosos procedimientos higiénicos que contemplan la desinfección continua de planchas de cocción, campanas extractoras y mesadas de trabajo. El personal viste uniforme reglamentario con gorros y mandiles limpios.
 
-Evaluamos tu requerimiento específico para brindarte una cotización transparente, justa y adaptada a la magnitud de la labor.
+Los medallones de carne fresca se conservan refrigerados bajo control térmico estricto antes de ingresar al sellado a la plancha. Los vegetales frescos se someten a lavado y desinfección certificada antes del corte.
 
-Ofrecemos garantía sobre el servicio realizado, respaldando nuestra labor y atendiendo cualquier ajuste con total disposición.
+Las instalaciones se conservan pulcras para asegurar una experiencia gastronómica enteramente confiable a nuestros visitantes.
 
-En Hamburguesería BANANAS te esperamos en Jr, Antonio Astopilco 255, Cajamarca con la mejor disposición para atender tu solicitud de Alquiler de box para eventos.
+13. ¿Es factible organizar cumpleaños o reuniones con amigos?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿Cómo se programa, cotiza y ejecuta la atención para Vino tinto en copa en Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-Al contratar Vino tinto en copa accedes a una solución profesional que optimiza tu tiempo y resuelve tus requerimientos sin complicaciones.
+Nuestro ambiente restobar juvenil y animado es el escenario ideal para celebrar cumpleaños, reencuentros de amigos y salidas grupales de fin de semana. Las mesas del salón principal se pueden reubicar según sea necesario.
 
-Mantenemos protocolos de seguridad y cuidado del entorno, asegurando que cada tarea se ejecute sin entorpecer tus rutinas.
+Aconsejamos comunicarse vía WhatsApp con cierta anticipación para apartar las mesas requeridas y coordinar la atención de grupos numerosos. El equipo brinda un trato entusiasta y cordial en todo momento.
 
-Brindamos canales de atención ágiles por WhatsApp o llamada para coordinar fechas y horarios convenientes para tu atención.
+Permitimos traer tortas de cumpleaños y nuestro personal colabora gustoso con la entrega de platillos adicionales para que el festejo resulte inolvidable.
 
-Encuentra una solución rápida y garantizada en Hamburguesería BANANAS, situado en Jr, Antonio Astopilco 255, Cajamarca, para Vino tinto en copa.
+14. ¿Qué tan lejos queda la Plaza de Armas de Cajamarca?
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿Qué equipos, personal calificado y medidas de seguridad se aplican en Máquina de humo y show de luces en Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Desarrollamos Máquina de humo y show de luces con métodos comprobados que aseguran un resultado impecable y a la altura de tus expectativas.
+El restaurante se ubica a 2266 metros (2.27 km) respecto a la Plaza de Armas de Cajamarca, representando un viaje de unos siete a ocho minutos en mototaxi o taxi. Conecta la plaza mayor virreinal con el jirón Antonio Astopilco.
 
-Nos esforzamos por cumplir rigurosamente con los plazos pactados, respetando tu tiempo y tus compromisos personales o laborales.
+Muchos residentes y turistas disfrutan de las casonas coloniales durante la tarde y se desplazan luego hacia nuestro local para una cena contundente con buen ambiente musical. Las avenidas interconectan ambos puntos con rapidez.
 
-Emitimos comprobantes de pago formales que acreditan la seriedad de nuestra empresa y tu tranquilidad como cliente.
+Desde los alrededores del establecimiento es muy sencillo solicitar transporte de retorno hacia los hoteles céntricos a cualquier hora.
 
-Comunícate hoy mismo con Hamburguesería BANANAS en Jr, Antonio Astopilco 255, Cajamarca y asegura un servicio de primera calidad en Máquina de humo y show de luces.
+15. ¿Qué carnes, panes e insumos utilizan en las hamburguesas?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Qué garantía, puntualidad y eficiencia respalda el servicio de Laguna azul en Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Nos especializamos en brindar Laguna azul con un estricto compromiso de puntualidad, seriedad y atención personalizada.
+Utilizamos cortes de carne vacuna molida con proporciones controladas de grasa natural, permitiendo un sellado perfecto en plancha de hierro fundido que carameliza la superficie reteniendo todos los jugos naturales.
 
-Contamos con personal debidamente identificado, capacitado y con experiencia para realizar la labor con total prolijidad y orden.
+Los panes brioche son horneados diariamente bajo fórmula propia con mantequilla seleccionada, brindando una miga tierna, aireada y con corteza dorada brillante que resiste la abundancia de salsas sin quebrarse.
 
-Te brindamos recomendaciones prácticas para mantener los resultados obtenidos y prevenir futuras incidencias.
+El plátano maduro empleado en la hamburguesa bananas se carameliza a fuego lento aportando notas dulces que contrastan deliciosamente con el queso andino derretido.
 
-Resuelve tus requerimientos con total confianza acudiendo a Hamburguesería BANANAS en Jr, Antonio Astopilco 255, Cajamarca, expertos en Laguna azul.
+16. ¿Cómo es el salón y la ambientación en el local de Antonio Astopilco?
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Qué soluciones prácticas y ahorro de tiempo aporta Servicio de anfitrionas a los clientes de Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Nuestra propuesta en Servicio de anfitrionas responde a los más altos estándares de calidad y confianza para hogares, negocios e instituciones.
+El local de Antonio Astopilco 255 ofrece un espacio moderno, vibrante y bien decorado con estilo restobar juvenil, iluminación ambiental escenográfica y mobiliario confortable diseñado para compartir entre amigos.
 
-Evaluamos tu requerimiento específico para brindarte una cotización transparente, justa y adaptada a la magnitud de la labor.
+El personal atiende con esmero y cortesía en todo momento, procurando que los pedidos lleguen calientes a la mesa en tiempos breves. La música con ritmos actuales a volumen adecuado genera una atmósfera sumamente festiva y amena.
 
-Ofrecemos garantía sobre el servicio realizado, respaldando nuestra labor y atendiendo cualquier ajuste con total disposición.
+Disponemos de servicios higiénicos limpios y acondicionados para el uso de los comensales durante su permanencia en el local.
 
-En Hamburguesería BANANAS te esperamos en Jr, Antonio Astopilco 255, Cajamarca con la mejor disposición para atender tu solicitud de Servicio de anfitrionas.
+17. ¿Qué alternativas existen para el estacionamiento de vehículos?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Qué características, metodología y alcance comprende el servicio de Whisky por botella en Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-La prestación del servicio de Whisky por botella está orientada a resolver tus necesidades de forma ágil, segura y eficiente en vida nocturna.
+En el jirón Antonio Astopilco y las arterias circundantes es factible aparcar temporalmente motocicletas, mototaxis y automóviles en zonas autorizadas de la calzada. El sector cuenta con buena iluminación nocturna.
 
-Utilizamos herramientas, insumos y equipos adecuados para garantizar un trabajo seguro, rápido y sin riesgos de daños.
+Quienes acuden en coche encuentran facilidad para estacionar momentáneamente al recoger órdenes para llevar sin entorpecer el tránsito vehicular. La tranquilidad de la calle brinda seguridad a los conductores.
 
-Aceptamos diversas modalidades de pago para facilitarte la cancelación del servicio sin complicaciones bancarias.
+Se recomienda estacionar de forma ordenada respetando los accesos residenciales vecinos para una convivencia armónica en la zona.
 
-En Hamburguesería BANANAS trabajamos para hacerte la vida más fácil en Jr, Antonio Astopilco 255, Cajamarca, tu empresa de confianza para Whisky por botella.
+18. ¿Cómo conservan la calidad y temperatura de los pedidos a domicilio?
 
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Qué soluciones prácticas y ahorro de tiempo aporta Show de cumbia en vivo a los clientes de Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Nuestra propuesta en Show de cumbia en vivo responde a los más altos estándares de calidad y confianza para hogares, negocios e instituciones.
+Empacamos cada hamburguesa en envolturas de papel antigrasa térmico y cajas resistentes que retienen el calor y previenen deformaciones durante el viaje. Las papas fritas viajan en empaques ventilados especiales que conservan la crocancia.
 
-Evaluamos tu requerimiento específico para brindarte una cotización transparente, justa y adaptada a la magnitud de la labor.
+Las salsas y aderezos especiales se empacan en pocillos sellados herméticos independientes, evitando que los líquidos humedezcan los vegetales o se derramen en la bolsa. Las bebidas frías viajan aisladas del calor.
 
-Ofrecemos garantía sobre el servicio realizado, respaldando nuestra labor y atendiendo cualquier ajuste con total disposición.
+Los motorizados transportan los paquetes en mochilas térmicas que aseguran que el pedido arribe a su puerta en óptimas condiciones de consumo.
 
-En Hamburguesería BANANAS te esperamos en Jr, Antonio Astopilco 255, Cajamarca con la mejor disposición para atender tu solicitud de Show de cumbia en vivo.
+19. ¿Cuál es el concepto y la historia de Hamburguesería BANANAS?
 
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Qué soluciones prácticas y ahorro de tiempo aporta Paquete para aniversarios a los clientes de Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-Nuestra propuesta en Paquete para aniversarios responde a los más altos estándares de calidad y confianza para hogares, negocios e instituciones.
+Hamburguesería BANANAS nació de la pasión por fusionar las hamburguesas smash artesanales de estilo internacional con toques tropicales y la vibra festiva de un restobar moderno para los jóvenes cajamarquinos.
 
-Evaluamos tu requerimiento específico para brindarte una cotización transparente, justa y adaptada a la magnitud de la labor.
+Con una calificación destacada de 4.5 estrellas y el respaldo de comensales habituales, el local se ha ganado un espacio destacado en la escena gastronómica nocturna gracias a la creatividad de sus recetas y la calidez en el trato.
 
-Ofrecemos garantía sobre el servicio realizado, respaldando nuestra labor y atendiendo cualquier ajuste con total disposición.
+Seguimos innovando en combinaciones de carnes, salsas secretas y cócteles para ofrecer siempre noches llenas de buen sabor y camaradería.
 
-En Hamburguesería BANANAS te esperamos en Jr, Antonio Astopilco 255, Cajamarca con la mejor disposición para atender tu solicitud de Paquete para aniversarios.
+20. ¿En qué franja horaria atienden al público comensal?
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Qué equipos, personal calificado y medidas de seguridad se aplican en Karaoke en sala principal en Hamburguesería BANANAS?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-Desarrollamos Karaoke en sala principal con métodos comprobados que aseguran un resultado impecable y a la altura de tus expectativas.
+Atendemos al público de lunes a domingo a partir de las seis de la tarde hasta cerca de la medianoche de forma continua, cubriendo los horarios de mayor preferencia para cenas entre amigos y salidas nocturnas. La plancha trabaja a ritmo constante.
 
-Nos esforzamos por cumplir rigurosamente con los plazos pactados, respetando tu tiempo y tus compromisos personales o laborales.
+Durante las noches de viernes y sábado la atención se extiende para acoger a grupos que buscan celebrar eventos especiales o disfrutar de cócteles y hamburguesas. Toda la carta de comidas y bebidas se encuentra disponible.
 
-Emitimos comprobantes de pago formales que acreditan la seriedad de nuestra empresa y tu tranquilidad como cliente.
-
-Comunícate hoy mismo con Hamburguesería BANANAS en Jr, Antonio Astopilco 255, Cajamarca y asegura un servicio de primera calidad en Karaoke en sala principal.
-
-================================================================================
+Para consultar promociones especiales o coordinar reservas de mesa por WhatsApp, los usuarios pueden comunicarse directamente a nuestras líneas oficiales.
