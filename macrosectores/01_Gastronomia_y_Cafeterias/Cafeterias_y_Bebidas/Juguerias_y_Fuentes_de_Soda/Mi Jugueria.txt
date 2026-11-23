@@ -2,11 +2,11 @@ Nombre: Mi Jugueria
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Juguerias_y_Fuentes_de_Soda
-Categoría Maps: 
+Categoría Maps: Cafetería, Juguería
 Dirección: Luis Reyna Farge 187, Cajamarca 06003
 Teléfono: 
-Rating: 
-Reseñas: 
+Rating: 4.5
+Reseñas: 4
 Sitio web: 
 Latitud: -7.1668109
 Longitud: -78.5075067
@@ -14,256 +14,153 @@ Google Maps: https://www.google.com/maps?cid=7115018477842890270
 Place Id: ChIJP5VS7xxbspERHn4qzpufvWI
 Fotos: Mi Jugueria.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KqO6qJTzII5UTPEWEZHWqg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=103.219894&pitch=3.9334645&thumbfov=100
-Nota: Sin categoria en Maps; clasificado por el nombre.
 
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-Te damos la bienvenida a Mi Jugueria. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Luis Reyna Farge 187, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Ubicada en el apacible Jirón Luis Reyna Farge 187, en el Barrio Chontapaccha de Cajamarca, Mi Jugueria te ofrece una fresca y deliciosa parada para tus mañanas y tardes. Prueba nuestros jugos naturales recién licuados, batidos especiales con leche, extractos reconstituyentes y sándwiches campesinos calientes preparados con insumos del valle. Con un trato amable, rapidez en la atención y precios sumamente accesibles, somos tu rincón favorito para sentirte con energía renovada. ¡Ven a visitarnos hoy!
 ================================================================================
 
 --------------------------------------------------------------------------------
 20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
 --------------------------------------------------------------------------------
 
---------------------------------------------------------------------------------
-PREGUNTA 1: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Torta de chocolate por porción en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Cada orden de Torta de chocolate por porción se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+1. ¿Qué combinaciones de jugos frutales y batidos energéticos preparan en barra?
+Preparamos una variada gama de jugos naturales combinando papaya, piña Golden, fresas frescas, plátano de la selva y maracuyá aromático recién exprimido.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+En batidos con leche servimos el clásico jugo especial con malta, leche evaporada fresca, huevo de codorniz, algarrobina espesa y esencia de vainilla.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Cada jarra o vaso se procesa al momento de ordenar con fruta madura y agua purificada, asegurando una textura densa y alto aporte de vitaminas.
 
-Haz tu reserva o visítanos en Mi Jugueria, en Luis Reyna Farge 187, Cajamarca, donde preparamos Torta de chocolate por porción con el cariño de la buena mesa.
+2. ¿Cuál es el tiempo de caminata desde el Terminal Terrestre de Cajamarca?
+El Terminal Terrestre se localiza a 922 metros hacia el sureste de nuestro local, lo que supone una caminata de unos 10 a 11 minutos a paso moderado.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Pie de manzana por porción en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Disfrutar de Pie de manzana por porción en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+En mototaxi el recorrido se realiza en apenas 3 minutos circulando fluidamente por las calles que conectan Chontapaccha con el terminal.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Por esta cercanía, somos una parada ideal para viajeros que acaban de llegar en bus y buscan reponer energías con un desayuno fresco y nutritivo.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+3. ¿Qué sándwiches calientes y comidas al paso preparan para acompañar el jugo?
+Servimos sándwiches generosos de pollo deshilachado con mayonesa casera, sándwiches campesinos de jamón y queso derretido en pan crocante, y triples clásicos.
 
-En Mi Jugueria te esperamos en Luis Reyna Farge 187, Cajamarca para que compartas y disfrutes de Pie de manzana por porción con la mejor atención y calidez.
+Para quienes desean algo más contundente ofrecemos salchipapas crujientes con papas fritas doradas y empanadas horneadas de carne suavemente sazonada.
 
---------------------------------------------------------------------------------
-PREGUNTA 3: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Jugo de maracuyá en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Al elegir Jugo de maracuyá disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+Cada pedido se calienta y monta al instante para asegurar temperatura óptima y crocancia desde el primer bocado.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+4. ¿Tienen empaque térmico para llevar jugos y comida de camino al trabajo?
+Disponemos de vasos descartables gruesos provistos de tapas herméticas que conservan el frío y evitan derrames accidentales en tu trayecto.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Los sándwiches y bocadillos se despachan envueltos en papel térmico limpio que cuida la temperatura de los alimentos.
 
-Ven con tus familiares o amigos a Mi Jugueria en Luis Reyna Farge 187, Cajamarca y déjate consentir por la sazón de Jugo de maracuyá.
+Puedes hacer tu pedido en caja y esperar solo un par de minutos mientras el personal lo acondiciona para llevar.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Cheesecake de maracuyá por porción en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Al elegir Cheesecake de maracuyá por porción disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+5. ¿Qué distancia y tiempo en mototaxi toma llegar hacia la Universidad Nacional de Cajamarca (UNC)?
+El campus de la Universidad Nacional de Cajamarca queda a 1.23 kilómetros hacia el sureste de Mi Jugueria.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+En mototaxi el viaje dura apenas 3 a 4 minutos transitando por el corredor vial sur hacia la puerta universitaria.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Ofrecemos precios económicos y combinaciones estudiantiles que resultan ideales para almorzar o merendar entre jornadas de clase.
 
-Ven con tus familiares o amigos a Mi Jugueria en Luis Reyna Farge 187, Cajamarca y déjate consentir por la sazón de Cheesecake de maracuyá por porción.
+6. ¿Qué extractos medicinales y desintoxicantes preparan al momento?
+Elaboramos extractos puros con máquina prensadora, destacando el extracto de zanahoria con beterraga y manzana verde para tonificar el organismo.
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Chocolate con canela y clavo en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-En nuestra cocina tratamos Chocolate con canela y clavo como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+También contamos con extracto verde depurativo con espinaca, apio, piña y alfalfa fresca, sumamente recomendado para limpiar el hígado.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+No añadimos azúcar ni conservantes artificiales a los extractos, conservando intactos sus minerales y vitaminas.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+7. ¿Ofrecen jugos sin azúcar para personas que cuidan su salud o tienen diabetes?
+Cualquiera de nuestros jugos y batidos puede solicitarse completamente al natural, aprovechando la fructosa propia de las frutas maduras.
 
-Te invitamos a visitarnos en Mi Jugueria, situado en Luis Reyna Farge 187, Cajamarca, listos para servirte Chocolate con canela y clavo con el sabor que te mereces.
+Si lo requieres, disponemos de miel de abeja andina, algarrobina o sobrecitos de edulcorante dietético para regular el dulzor a tu gusto.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Sándwich caprese de queso y tomate en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-En nuestra cocina tratamos Sándwich caprese de queso y tomate como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Solo debes indicarle a la encargada al momento de ordenar para que prepare la receta a tu medida.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+8. ¿A qué distancia se encuentra el Centro Comercial Real Plaza?
+El complejo Real Plaza se sitúa a 1.36 kilómetros hacia el noreste de nuestras instalaciones.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+En mototaxi o taxi local el traslado toma entre 3 y 4 minutos por la Avenida San Martín de Porres y Avenida El Maestro.
 
-Te invitamos a visitarnos en Mi Jugueria, situado en Luis Reyna Farge 187, Cajamarca, listos para servirte Sándwich caprese de queso y tomate con el sabor que te mereces.
+Es una excelente opción para abastecerse de bebidas saludables a precios muy económicos en la zona sur.
 
---------------------------------------------------------------------------------
-PREGUNTA 7: ¿Qué ingredientes, preparación y presentación destacan en Frappé de fresa en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-La preparación de Frappé de fresa se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+9. ¿Cómo garantizan la inocuidad y la higiene en barra y mesadas?
+Desinfectamos cuidadosamente cada fruta con agua tratada y soluciones aprobadas para consumo antes del pelado y licuado.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Las jarras de licuadora y los utensilios se esterilizan permanentemente entre cada preparación para asegurar máxima pulcritud.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+El personal viste indumentaria limpia, mandil reglamentario y cumple estrictas pautas de salubridad para proteger tu salud.
 
-En Mi Jugueria cuidamos cada detalle en Luis Reyna Farge 187, Cajamarca para hacer de tu experiencia con Frappé de fresa un motivo para volver siempre.
+10. ¿Disponen de opciones calientes para abrigarse durante las mañanas frías?
+Servimos aromático café pasado andino, chocolate caliente de cacao puro de la zona y tazas humeantes de avena con manzana y canela.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Sándwich de chicharrón cajamarquino en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Al elegir Sándwich de chicharrón cajamarquino disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+Asimismo, tenemos infusiones digestivas de hierbaluisa, menta y manzanilla fresca traída de las huertas cercanas.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Son bebidas térmicas ideales para contrarrestar el frío matutino y recuperar el calor corporal de inmediato.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+11. ¿Cuánto tiempo demora el traslado hacia el histórico Cuarto del Rescate?
+El Cuarto del Rescate se ubica a 1.40 kilómetros hacia el noroeste de nuestro local.
 
-Ven con tus familiares o amigos a Mi Jugueria en Luis Reyna Farge 187, Cajamarca y déjate consentir por la sazón de Sándwich de chicharrón cajamarquino.
+En mototaxi se arriba en aproximadamente 4 minutos bordeando el centro hacia la zona monumental.
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Panqueque de plátano en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Disfrutar de Panqueque de plátano en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Es un recorrido ágil que te conecta fácilmente con las instituciones cívicas y turísticas de la ciudad.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+12. ¿Qué métodos de pago tienen habilitados para cancelar consumos en caja?
+Aceptamos pagos móviles rápidos mediante las aplicaciones digitales Yape y Plin escaneando el código QR en barra.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+También recibimos pagos en efectivo en moneda nacional con cambio disponible para monedas y billetes comunes.
 
-En Mi Jugueria te esperamos en Luis Reyna Farge 187, Cajamarca para que compartas y disfrutes de Panqueque de plátano con la mejor atención y calidez.
+El cobro es dinámico para facilitarte una salida rápida sin pérdida de tiempo en colas.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Qué ingredientes, preparación y presentación destacan en Jugo de lúcuma con leche en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-La preparación de Jugo de lúcuma con leche se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+13. ¿Cuentan con espacio para sentarse a consumir con tranquilidad en el local?
+Disponemos de mesas acogedoras y sillas cómodas donde puedes sentarte a comer con total tranquilidad.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+El ambiente es ventilado, limpio y con un trato cordial que te hace sentir en un entorno familiar desde el primer momento.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+Si vas con prisa, la preparación de jugos al paso se realiza en menos de tres minutos para tu conveniencia.
 
-En Mi Jugueria cuidamos cada detalle en Luis Reyna Farge 187, Cajamarca para hacer de tu experiencia con Jugo de lúcuma con leche un motivo para volver siempre.
+14. ¿Cuál es el tiempo de viaje hacia la histórica Plaza de Armas de Cajamarca?
+La Plaza de Armas dista 1.57 kilómetros hacia el noroeste de nuestras instalaciones.
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Pie de limón por porción en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-En nuestra cocina tratamos Pie de limón por porción como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+En mototaxi o combi urbana el viaje se completa en unos 5 minutos siguiendo la ruta hacia el centro cívico.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+La conexión es muy fluida y te permite disfrutar de un espacio tranquilo lejos del congestionamiento vehicular.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+15. ¿Atienden desde temprano con desayunos completos para trabajadores y vecinos?
+Iniciamos la atención desde las primeras horas de la mañana para abastecer a transportistas, obreros y vecinos de Luis Reyna Farge.
 
-Te invitamos a visitarnos en Mi Jugueria, situado en Luis Reyna Farge 187, Cajamarca, listos para servirte Pie de limón por porción con el sabor que te mereces.
+Puedes pedir un combo de jugo mixto con sándwich de pollo caliente para desayunar de manera sustanciosa y nutritiva.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Pan con queso cajamarquino al horno en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Disfrutar de Pan con queso cajamarquino al horno en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Nuestras porciones generosas y precios populares garantizan el mejor valor para tu economía diaria.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+16. ¿Qué variedad de ensaladas de fruta frescas preparan a diario?
+Elaboramos platos abundantes de ensalada con trozos de papaya, manzana, piña, plátano y fresas recién picadas.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Se acompañan de yogur natural, algarrobina espesa, miel de abeja y granola crujiente para añadirle textura.
 
-En Mi Jugueria te esperamos en Luis Reyna Farge 187, Cajamarca para que compartas y disfrutes de Pan con queso cajamarquino al horno con la mejor atención y calidez.
+Es una comida sana, refrescante y repleta de antioxidantes, perfecta para una merienda ligera en la tarde.
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Café con leche en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-Al elegir Café con leche disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+17. ¿Permiten el ingreso con mascotas pequeñas al establecimiento?
+Aceptamos la presencia de mascotas pequeñas y educadas que acompañen a sus dueños con su respectiva correa puesta.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Cuidamos que el ambiente se conserve limpio y ordenado para la total comodidad de todos los comensales.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Podemos brindarte un recipiente con agua fresca si tu perrito requiere hidratarse tras una caminata por el barrio.
 
-Ven con tus familiares o amigos a Mi Jugueria en Luis Reyna Farge 187, Cajamarca y déjate consentir por la sazón de Café con leche.
+18. ¿Tienen facilidades para acomodar maletas o equipaje ligero?
+Disponemos de pasillos despejados donde puedes ubicar tus mochilas de mano o paquetes de compras a tu lado sin estorbar el paso.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Café helado con leche en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Al elegir Café helado con leche disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+El entorno es seguro y familiar, permitiéndote descansar y disfrutar de tu bebida con tranquilidad.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+El personal te indicará la mejor mesa para que te acomodes con holgura.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+19. ¿Emiten comprobantes de venta válidos para sustentar gastos?
+Emitimos boletas de venta para clientes que necesitan sustentar sus gastos diarios de alimentación en viajes de trabajo.
 
-Ven con tus familiares o amigos a Mi Jugueria en Luis Reyna Farge 187, Cajamarca y déjate consentir por la sazón de Café helado con leche.
+Solo debes solicitar el comprobante al momento de pagar en caja indicando tus datos correspondientes.
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Limonada fresca en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Cada orden de Limonada fresca se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+El trámite es inmediato y te garantiza total transparencia en cada consumo.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+20. ¿Por cuál canal de comunicación atienden dudas de la carta o pedidos anticipados?
+Puedes comunicarte de manera directa escribiéndonos a nuestro canal de WhatsApp para consultar la fruta fresca del día o encargar pedidos para recojo.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Estaremos felices de atender tus consultas y tener tu jugo preparado cuando pases por el local.
 
-Haz tu reserva o visítanos en Mi Jugueria, en Luis Reyna Farge 187, Cajamarca, donde preparamos Limonada fresca con el cariño de la buena mesa.
-
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Café latte en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Al elegir Café latte disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
-
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
-
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
-
-Ven con tus familiares o amigos a Mi Jugueria en Luis Reyna Farge 187, Cajamarca y déjate consentir por la sazón de Café latte.
-
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Qué ingredientes, preparación y presentación destacan en Café cortado en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-La preparación de Café cortado se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
-
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
-
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
-
-En Mi Jugueria cuidamos cada detalle en Luis Reyna Farge 187, Cajamarca para hacer de tu experiencia con Café cortado un motivo para volver siempre.
-
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Qué ingredientes, preparación y presentación destacan en Jugo de papaya en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-La preparación de Jugo de papaya se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
-
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
-
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
-
-En Mi Jugueria cuidamos cada detalle en Luis Reyna Farge 187, Cajamarca para hacer de tu experiencia con Jugo de papaya un motivo para volver siempre.
-
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Emoliente caliente en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-Disfrutar de Emoliente caliente en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
-
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
-
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
-
-En Mi Jugueria te esperamos en Luis Reyna Farge 187, Cajamarca para que compartas y disfrutes de Emoliente caliente con la mejor atención y calidez.
-
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Qué ingredientes, preparación y presentación destacan en Chocolate caliente espeso en Mi Jugueria?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-La preparación de Chocolate caliente espeso se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
-
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
-
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
-
-En Mi Jugueria cuidamos cada detalle en Luis Reyna Farge 187, Cajamarca para hacer de tu experiencia con Chocolate caliente espeso un motivo para volver siempre.
-
-================================================================================
+En Mi Jugueria te esperamos siempre con los brazos abiertos y la mejor fruta fresca del sur de Cajamarca.
