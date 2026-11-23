@@ -2,13 +2,13 @@ Nombre: Juguería y Cafetería Mayte
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Juguerias_y_Fuentes_de_Soda
-Categoría Maps: Tienda de zumos
+Categoría Maps: Tienda de zumos, Cafetería
 Dirección: mercado central, Jr.Amazonas, Cajamarca 06001
 Teléfono: 
-Rating: 5
+Rating: 5.0
 Reseñas: 1
 Sitio web: 
-Latitud: -7.155087699999999
+Latitud: -7.1550877
 Longitud: -78.5175112
 Google Maps: https://www.google.com/maps?cid=16408513875911588956
 Place Id: ChIJVaHJPgBbspERXDzHIW_AtuM
@@ -18,251 +18,149 @@ Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLefID_ExRXxdM4UrgS7lO
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-Te damos la bienvenida a Juguería y Cafetería Mayte. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en mercado central, Jr.Amazonas, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+En el corazón del tradicional Mercado Central de Cajamarca, por el acceso de Jirón Amazonas, Juguería y Cafetería Mayte te espera para brindarte una inyección de sabor natural y vitalidad. Deléitate con nuestros afamados jugos especiales con malta, batidos cremosos con leche del valle, aromáticos cafés pasados y sándwiches crujientes preparados al instante con insumos de primera calidad. Con atención ágil, calidez casera y precios accesibles, somos tu mejor opción matutina. ¡Ven y compruébalo!
 ================================================================================
 
 --------------------------------------------------------------------------------
 20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
 --------------------------------------------------------------------------------
 
---------------------------------------------------------------------------------
-PREGUNTA 1: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Torta de chocolate por porción en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Cada orden de Torta de chocolate por porción se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+1. ¿Qué combinaciones de jugos especiales y batidos con leche preparan en barra?
+Nuestra especialidad es el tradicional jugo especial con malta o cerveza negra, leche fresca evaporada, huevo de codorniz, algarrobina espesa y plátano seda maduro.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Asimismo, licuamos batidos cremosos de fresas con leche, lúcuma cajamarquina, combinados multivitamínicos de papaya con piña Golden y jugos de maracuyá refrescantes.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Cada vaso se procesa al momento con fruta seleccionada y agua tratada, asegurando una textura densa y un sabor concentrado y nutritivo.
 
-Haz tu reserva o visítanos en Juguería y Cafetería Mayte, en mercado central, Jr.Amazonas, Cajamarca, donde preparamos Torta de chocolate por porción con el cariño de la buena mesa.
+2. ¿Cuál es el tiempo de caminata para llegar desde la Plaza de Armas de Cajamarca?
+Nos encontramos a tan solo 245 metros hacia el noreste de la Plaza de Armas, lo que supone una caminata de apenas 2 a 3 minutos a paso normal.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Café pasado cajamarquino en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-En nuestra cocina tratamos Café pasado cajamarquino como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Basta con avanzar dos cuadras cortas bajando por el Jirón Amazonas desde la esquina de la Catedral.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Por su cercanía peatonal inmediata, no requieres tomar ningún taxi ni mototaxi para visitarnos desde el centro histórico.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+3. ¿Qué sándwiches calientes y piqueos tradicionales tienen para el desayuno?
+Servimos sándwiches generosos de pollo deshilachado con mayonesa casera, sándwiches campesinos de jamón y queso derretido en pan crujiente, y triples clásicos.
 
-Te invitamos a visitarnos en Juguería y Cafetería Mayte, situado en mercado central, Jr.Amazonas, Cajamarca, listos para servirte Café pasado cajamarquino con el sabor que te mereces.
+También preparamos porciones de huevos revueltos con finas hierbas, tostadas doradas con mantequilla andina y empanadas horneadas rellenas de carne criolla.
 
---------------------------------------------------------------------------------
-PREGUNTA 3: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Sándwich de jamón y queso en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Disfrutar de Sándwich de jamón y queso en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Cada bocadillo se calienta al instante para garantizar una corteza crujiente y una temperatura reconfortante al paladar.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+4. ¿Tienen servicio de pedidos para llevar con envases herméticos?
+Disponemos de vasos descartables gruesos provistos de tapas herméticas que evitan derrames y conservan el frío de tus jugos durante el traslado.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Los sándwiches y bocadillos se entregan envueltos en papel antigrasa y bolsas resistentes para su consumo en el trabajo o en ruta.
 
-En Juguería y Cafetería Mayte te esperamos en mercado central, Jr.Amazonas, Cajamarca para que compartas y disfrutes de Sándwich de jamón y queso con la mejor atención y calidez.
+Puedes solicitar tu pedido en el mostrador para recogerlo en breves minutos y continuar con tus quehaceres diarios.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Café expreso doble en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-En nuestra cocina tratamos Café expreso doble como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+5. ¿Qué tan rápido se arriba a pie desde el monumento histórico del Cuarto del Rescate?
+El Cuarto del Rescate se ubica a solo 337 metros hacia el sur de nuestras instalaciones.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Caminando por las calles tradicionales del centro monumental se llega en aproximadamente 4 minutos a paso regular.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Es una caminata sumamente agradable que conecta el circuito arqueológico de Cajamarca con una parada refrescante y nutritiva.
 
-Te invitamos a visitarnos en Juguería y Cafetería Mayte, situado en mercado central, Jr.Amazonas, Cajamarca, listos para servirte Café expreso doble con el sabor que te mereces.
+6. ¿Qué variedad de extractos medicinales y desintoxicantes tienen en la carta?
+Contamos con máquina extractora para elaborar combinaciones puras como zanahoria con beterraga y manzana verde para tonificar la sangre y aportar energía.
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Sándwich de atún con mayonesa en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-Disfrutar de Sándwich de atún con mayonesa en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Asimismo, preparamos el extracto verde depurativo con espinaca, apio, piña y alfalfa fresca, sumamente recomendado para mejorar la digestión.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Estas bebidas se extraen sin adición de agua ni azúcar refinada, conservando la totalidad de nutrientes vegetales.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+7. ¿Ofrecen opciones de jugos sin azúcar para personas con dietas especiales?
+Podemos licuar cualquiera de nuestras frutas sin añadir azúcar blanca, aprovechando al máximo el dulzor natural de la fruta fresca.
 
-En Juguería y Cafetería Mayte te esperamos en mercado central, Jr.Amazonas, Cajamarca para que compartas y disfrutes de Sándwich de atún con mayonesa con la mejor atención y calidez.
+Para quienes desean un toque dulce saludable ofrecemos miel de abeja andina, algarrobina pura de la costa o sobrecitos de edulcorante dietético.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Agua mineral sin gas en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-En nuestra cocina tratamos Agua mineral sin gas como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Solo necesitas avisar a la encargada al momento de pedir para que adapte la preparación a tus gustos.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+8. ¿A qué distancia se encuentra la nave central del Mercado Central de Cajamarca?
+Nos ubicamos a escasos 365 metros del patio principal de abastos del Mercado Central.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Basta con caminar unos pasos dentro de la misma galería comercial para acceder a nuestros puestos limpios y ventilados.
 
-Te invitamos a visitarnos en Juguería y Cafetería Mayte, situado en mercado central, Jr.Amazonas, Cajamarca, listos para servirte Agua mineral sin gas con el sabor que te mereces.
+Es el lugar predilecto de compras matutinas donde vecinos y visitantes recargan energías con fruta fresca.
 
---------------------------------------------------------------------------------
-PREGUNTA 7: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Desayuno cajamarquino con humitas, queso y café en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-Cada orden de Desayuno cajamarquino con humitas, queso y café se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+9. ¿Cómo aseguran la higiene y la frescura en la preparación de las frutas?
+Lavamos cuidadosamente cada fruto con agua tratada y soluciones desinfectantes de uso alimentario antes de iniciar el pelado.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Las jarras de licuadora y los vasos se higienizan a fondo entre cada preparación para evitar la mezcla de sabores y olores.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+El personal viste mandil limpio, mantiene el cabello recogido y aplica estrictos protocolos de manipulación higiénica.
 
-Haz tu reserva o visítanos en Juguería y Cafetería Mayte, en mercado central, Jr.Amazonas, Cajamarca, donde preparamos Desayuno cajamarquino con humitas, queso y café con el cariño de la buena mesa.
+10. ¿Cuentan con bebidas calientes para abrigarse en las mañanas frías o lluviosas?
+Servimos aromático café pasado andino, chocolate de taza caliente preparado con pasta pura de cacao y avena espesa con manzana y canela.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué ingredientes, preparación y presentación destacan en Bizcocho cajamarquino tradicional en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-La preparación de Bizcocho cajamarquino tradicional se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+También tenemos infusiones medicinales de muña, hierbaluisa y menta fresca recolectada de huertos del valle cajamarquino.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Son alternativas térmicas ideales para abrigar el cuerpo y entrar en calor en las jornadas nubladas de la sierra.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+11. ¿Cuál es el tiempo de viaje hacia el Mirador de Santa Apolonia?
+El cerro Santa Apolonia se ubica a 614 metros hacia el suroeste de nuestras instalaciones.
 
-En Juguería y Cafetería Mayte cuidamos cada detalle en mercado central, Jr.Amazonas, Cajamarca para hacer de tu experiencia con Bizcocho cajamarquino tradicional un motivo para volver siempre.
+Caminando representa un paseo de unos 7 a 8 minutos subiendo por las escalinatas principales de piedra de la colina.
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Qué ingredientes, preparación y presentación destacan en Batido de mango con yogurt en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-La preparación de Batido de mango con yogurt se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+Muchos comensales disfrutan de un jugo energizante en nuestro local tras descender del mirador y recorrer sus capillas históricas.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+12. ¿Qué métodos de pago tienen habilitados para cancelar de forma rápida?
+Aceptamos pagos digitales mediante las billeteras electrónicas Yape y Plin escaneando el código QR visible en el mostrador.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+También recibimos dinero en efectivo en soles, disponiendo de cambio suficiente para monedas y billetes corrientes.
 
-En Juguería y Cafetería Mayte cuidamos cada detalle en mercado central, Jr.Amazonas, Cajamarca para hacer de tu experiencia con Batido de mango con yogurt un motivo para volver siempre.
+El cobro es ágil para permitirte continuar con tus actividades cotidianas sin pérdida de tiempo en colas.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Flat white en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Cada orden de Flat white se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+13. ¿Tienen espacio para sentarse a consumir con comodidad en el salón?
+Disponemos de mesas acogedoras y banquetas cómodas donde puedes sentarte a disfrutar de tu jugo y sándwich con calma.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+El ambiente se distingue por su trato casero y cercano, haciéndote sentir como en casa desde el primer momento.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Si vas con prisa, la preparación de jugos al paso se efectúa en menos de tres minutos para tu conveniencia.
 
-Haz tu reserva o visítanos en Juguería y Cafetería Mayte, en mercado central, Jr.Amazonas, Cajamarca, donde preparamos Flat white con el cariño de la buena mesa.
+14. ¿Qué distancia y tiempo en mototaxi toma llegar desde el Centro Comercial Real Plaza?
+El complejo Real Plaza se sitúa a 1.29 kilómetros hacia el este de nuestro local.
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Chicha morada en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-En nuestra cocina tratamos Chicha morada como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+En mototaxi o taxi local el viaje toma entre 3 y 4 minutos transitando por la Avenida El Maestro hacia el centro.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+La conexión es muy fluida y te permite complementar tus compras con la frescura de una juguería tradicional del centro.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+15. ¿Atienden desde temprano para quienes necesitan desayunar antes de su jornada laboral?
+Iniciamos la atención desde las primeras horas de la mañana para abastecer a comerciantes, transportistas y vecinos del centro.
 
-Te invitamos a visitarnos en Juguería y Cafetería Mayte, situado en mercado central, Jr.Amazonas, Cajamarca, listos para servirte Chicha morada con el sabor que te mereces.
+Puedes pedir un combo de jugo mixto con sándwich de pollo caliente para desayunar de manera sustanciosa y nutritiva.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Pie de limón por porción en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-En nuestra cocina tratamos Pie de limón por porción como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Nuestras porciones generosas aseguran energía duradera para toda tu jornada matutina.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+16. ¿Qué opciones de ensaladas de fruta frescas preparan a diario?
+Elaboramos platos abundantes de ensalada con trozos de papaya, manzana, piña, plátano y fresas recién picadas.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Se acompañan de yogur natural, algarrobina espesa, miel de abeja y granola crujiente para añadirle textura.
 
-Te invitamos a visitarnos en Juguería y Cafetería Mayte, situado en mercado central, Jr.Amazonas, Cajamarca, listos para servirte Pie de limón por porción con el sabor que te mereces.
+Es una comida sana, refrescante y repleta de antioxidantes, perfecta para una merienda ligera en la tarde.
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿Qué ingredientes, preparación y presentación destacan en Waffle con miel y frutas en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-La preparación de Waffle con miel y frutas se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+17. ¿Permiten el ingreso con mascotas pequeñas al establecimiento?
+Aceptamos la presencia de mascotas pequeñas y educadas que acompañen a sus dueños con su respectiva correa puesta.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Cuidamos que el ambiente se conserve limpio y ordenado para la total comodidad de todos los comensales.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+Podemos brindarte un recipiente con agua fresca si tu perrito requiere hidratarse tras una caminata por el centro.
 
-En Juguería y Cafetería Mayte cuidamos cada detalle en mercado central, Jr.Amazonas, Cajamarca para hacer de tu experiencia con Waffle con miel y frutas un motivo para volver siempre.
+18. ¿Tienen facilidades para quienes acuden con mochilas o bolsas de compras?
+El local cuenta con espacio suficiente junto a las mesas para ubicar tus bolsas de compras del mercado sin estorbar el paso.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Té helado de limón en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-En nuestra cocina tratamos Té helado de limón como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+El entorno es seguro y familiar, permitiéndote descansar y disfrutar de tu bebida con tranquilidad.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+El personal te indicará la mejor mesa para que te acomodes con holgura.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+19. ¿Emiten comprobantes de venta válidos para sustentar gastos?
+Emitimos boletas de venta para clientes que necesitan sustentar sus gastos diarios de alimentación.
 
-Te invitamos a visitarnos en Juguería y Cafetería Mayte, situado en mercado central, Jr.Amazonas, Cajamarca, listos para servirte Té helado de limón con el sabor que te mereces.
+Solo debes solicitar el comprobante al momento de pagar en caja indicando tus datos correspondientes.
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Qué ingredientes, preparación y presentación destacan en Sándwich de lomo saltado en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-La preparación de Sándwich de lomo saltado se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+El trámite es inmediato y te garantiza total transparencia en cada consumo.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+20. ¿Por cuál canal de comunicación atienden dudas de la carta o pedidos anticipados?
+Puedes comunicarte de manera directa escribiéndonos a nuestro canal de WhatsApp para consultar la fruta fresca del día o encargar pedidos para recojo.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+Estaremos felices de atender tus consultas y tener tu jugo preparado cuando pases por el local.
 
-En Juguería y Cafetería Mayte cuidamos cada detalle en mercado central, Jr.Amazonas, Cajamarca para hacer de tu experiencia con Sándwich de lomo saltado un motivo para volver siempre.
-
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Rosquitas cajamarquinas en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Cada orden de Rosquitas cajamarquinas se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
-
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
-
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
-
-Haz tu reserva o visítanos en Juguería y Cafetería Mayte, en mercado central, Jr.Amazonas, Cajamarca, donde preparamos Rosquitas cajamarquinas con el cariño de la buena mesa.
-
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Café latte de caramelo en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Disfrutar de Café latte de caramelo en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
-
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
-
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
-
-En Juguería y Cafetería Mayte te esperamos en mercado central, Jr.Amazonas, Cajamarca para que compartas y disfrutes de Café latte de caramelo con la mejor atención y calidez.
-
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Gaseosa personal de cola en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Cada orden de Gaseosa personal de cola se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
-
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
-
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
-
-Haz tu reserva o visítanos en Juguería y Cafetería Mayte, en mercado central, Jr.Amazonas, Cajamarca, donde preparamos Gaseosa personal de cola con el cariño de la buena mesa.
-
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Qué ingredientes, preparación y presentación destacan en Humita dulce cajamarquina en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-La preparación de Humita dulce cajamarquina se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
-
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
-
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
-
-En Juguería y Cafetería Mayte cuidamos cada detalle en mercado central, Jr.Amazonas, Cajamarca para hacer de tu experiencia con Humita dulce cajamarquina un motivo para volver siempre.
-
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Frappé de moca en Juguería y Cafetería Mayte?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-Disfrutar de Frappé de moca en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
-
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
-
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
-
-En Juguería y Cafetería Mayte te esperamos en mercado central, Jr.Amazonas, Cajamarca para que compartas y disfrutes de Frappé de moca con la mejor atención y calidez.
-
-================================================================================
+En Juguería y Cafetería Mayte te esperamos siempre con los brazos abiertos y la mejor fruta fresca de Cajamarca.
