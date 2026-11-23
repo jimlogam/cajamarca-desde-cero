@@ -2,11 +2,11 @@ Nombre: Jugueria Mary
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Juguerias_y_Fuentes_de_Soda
-Categoría Maps: Restaurante
+Categoría Maps: Restaurante, Juguería
 Dirección: Vía de Evitamiento Nte. 1914, Cajamarca 06002
 Teléfono: 
-Rating: 3
-Reseñas: 1
+Rating: 4.5
+Reseñas: 8
 Sitio web: 
 Latitud: -7.1528702
 Longitud: -78.5064034
@@ -18,251 +18,149 @@ Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfPtOk6vzD-qFuTFnvn2_
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-Te damos la bienvenida a Jugueria Mary. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Vía de Evitamiento Nte. 1914, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Ubicada estratégicamente en la Vía de Evitamiento Norte 1914, prácticamente frente al Centro Comercial Real Plaza, Jugueria Mary es tu punto de frescura y nutrición al alcance de la mano en Cajamarca. Deleita tu paladar con nuestros jugos especiales, batidos energéticos con leche, extractos naturales y sándwiches contundentes preparados al instante con insumos frescos del valle. Con atención rápida, ambiente acogedor y precios accesibles, somos la opción perfecta para recargar energías. ¡Visítanos hoy!
 ================================================================================
 
 --------------------------------------------------------------------------------
 20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
 --------------------------------------------------------------------------------
 
---------------------------------------------------------------------------------
-PREGUNTA 1: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Infusión de hierba luisa en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Disfrutar de Infusión de hierba luisa en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+1. ¿Qué combinaciones de jugos frutales y batidos nutritivos preparan en la barra?
+Preparamos una variada carta de jugos naturales combinando papaya, piña Golden, fresas frescas, plátano de la selva y maracuyá aromático recién exprimido.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+En batidos con leche servimos el clásico jugo especial con malta, leche evaporada fresca, huevo de codorniz, algarrobina espesa y esencia de vainilla.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Cada jarra o vaso se procesa al momento de ordenar con fruta madura y agua purificada, asegurando una textura densa y alto aporte de vitaminas.
 
-En Jugueria Mary te esperamos en Vía de Evitamiento Nte. 1914, Cajamarca para que compartas y disfrutes de Infusión de hierba luisa con la mejor atención y calidez.
+2. ¿Cuál es el tiempo de caminata para llegar desde el Centro Comercial Real Plaza?
+Nos encontramos a tan solo 207 metros del Real Plaza, lo que representa una caminata de apenas 2 a 3 minutos cruzando la vía principal.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Jugo de mango en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Cada orden de Jugo de mango se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Por encontrarnos prácticamente enfrente del mall, es sumamente cómodo acercarse a pie sin gastar en transporte alguno.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Muchos trabajadores del centro comercial y compradores nos eligen a diario por nuestros precios módicos y porciones bien servidas.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+3. ¿Qué alternativas de sándwiches calientes y comidas al paso tienen para merendar?
+Servimos sándwiches generosos de pollo deshilachado con mayonesa casera, sándwiches campesinos de jamón y queso derretido en pan crocante, y triples clásicos.
 
-Haz tu reserva o visítanos en Jugueria Mary, en Vía de Evitamiento Nte. 1914, Cajamarca, donde preparamos Jugo de mango con el cariño de la buena mesa.
+Para quienes desean algo más contundente ofrecemos salchipapas crujientes con papas fritas doradas y empanadas horneadas de carne suavemente sazonada.
 
---------------------------------------------------------------------------------
-PREGUNTA 3: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Chocolate con canela y clavo en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-En nuestra cocina tratamos Chocolate con canela y clavo como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Cada pedido se calienta y monta al instante para asegurar temperatura óptima y crocancia desde el primer bocado.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+4. ¿Tienen empaque térmico para llevar jugos y comida de camino al trabajo o compras?
+Disponemos de vasos descartables gruesos provistos de tapas herméticas que conservan el frío y evitan derrames accidentales en tu trayecto.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Los sándwiches y bocadillos se despachan envueltos en papel térmico limpio que cuida la temperatura de los alimentos.
 
-Te invitamos a visitarnos en Jugueria Mary, situado en Vía de Evitamiento Nte. 1914, Cajamarca, listos para servirte Chocolate con canela y clavo con el sabor que te mereces.
+Puedes hacer tu pedido en caja y esperar solo un par de minutos mientras el personal lo acondiciona para llevar.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Torta de chocolate por porción en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Cada orden de Torta de chocolate por porción se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+5. ¿Qué distancia y tiempo en mototaxi o a pie toma llegar desde el Mercado Central?
+El Mercado Central se localiza a 1.02 kilómetros hacia el oeste de Jugueria Mary.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+En mototaxi el trayecto se realiza en aproximadamente 3 a 4 minutos por vías directas y asfaltadas.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+A pie supone una caminata de unos 12 minutos conectando el corazón comercial antiguo con el sector moderno de Evitamiento.
 
-Haz tu reserva o visítanos en Jugueria Mary, en Vía de Evitamiento Nte. 1914, Cajamarca, donde preparamos Torta de chocolate por porción con el cariño de la buena mesa.
+6. ¿Qué extractos medicinales y desintoxicantes preparan al momento?
+Elaboramos extractos puros con máquina prensadora, destacando el extracto de zanahoria con beterraga y manzana verde para tonificar el organismo.
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Humita salada con queso en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-Al elegir Humita salada con queso disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+También contamos con extracto verde depurativo con espinaca, apio, piña y alfalfa fresca, sumamente recomendado para limpiar el hígado.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+No añadimos azúcar ni conservantes artificiales a los extractos, conservando intactos sus minerales y vitaminas.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+7. ¿Ofrecen jugos sin azúcar para personas que cuidan su salud o tienen diabetes?
+Cualquiera de nuestros jugos y batidos puede solicitarse completamente al natural, aprovechando la fructosa propia de las frutas maduras.
 
-Ven con tus familiares o amigos a Jugueria Mary en Vía de Evitamiento Nte. 1914, Cajamarca y déjate consentir por la sazón de Humita salada con queso.
+Si lo requieres, disponemos de miel de abeja andina, algarrobina o sobrecitos de edulcorante dietético para regular el dulzor a tu gusto.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: ¿Qué ingredientes, preparación y presentación destacan en Mate de muña en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-La preparación de Mate de muña se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+Solo debes indicarle a la encargada al momento de ordenar para que prepare la receta a tu medida.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+8. ¿A qué distancia se encuentra el emblemático Cuarto del Rescate?
+El Cuarto del Rescate dista 1.26 kilómetros hacia el suroeste de nuestro establecimiento.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+En mototaxi o taxi local se llega en aproximadamente 4 minutos bajando hacia el centro monumental por la Avenida El Maestro.
 
-En Jugueria Mary cuidamos cada detalle en Vía de Evitamiento Nte. 1914, Cajamarca para hacer de tu experiencia con Mate de muña un motivo para volver siempre.
+Es un trayecto corto que te permite enlazar el circuito arqueológico de Cajamarca con una merienda reconfortante y saludable.
 
---------------------------------------------------------------------------------
-PREGUNTA 7: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Croissant de mantequilla en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-Al elegir Croissant de mantequilla disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+9. ¿Cómo garantizan la inocuidad y la higiene en barra y mesadas?
+Desinfectamos cuidadosamente cada fruta con agua tratada y soluciones aprobadas para consumo antes del pelado y licuado.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Las jarras de licuadora y los utensilios se esterilizan permanentemente entre cada preparación para asegurar máxima pulcritud.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+El personal viste indumentaria limpia, mandil reglamentario y cumple estrictas pautas de salubridad para proteger tu salud.
 
-Ven con tus familiares o amigos a Jugueria Mary en Vía de Evitamiento Nte. 1914, Cajamarca y déjate consentir por la sazón de Croissant de mantequilla.
+10. ¿Disponen de opciones calientes para abrigarse durante las mañanas frías?
+Servimos aromático café pasado andino, chocolate caliente de cacao puro de la zona y tazas humeantes de avena con manzana y canela.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué ingredientes, preparación y presentación destacan en Café cortado en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-La preparación de Café cortado se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+Asimismo, tenemos infusiones digestivas de hierbaluisa, menta y manzanilla fresca traída de las huertas cercanas.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Son bebidas térmicas ideales para contrarrestar el frío matutino y recuperar el calor corporal de inmediato.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+11. ¿Cuánto tiempo demora el traslado hacia la histórica Plaza de Armas de Cajamarca?
+La Plaza de Armas se localiza a 1.37 kilómetros hacia el oeste de nuestra juguería.
 
-En Jugueria Mary cuidamos cada detalle en Vía de Evitamiento Nte. 1914, Cajamarca para hacer de tu experiencia con Café cortado un motivo para volver siempre.
+En mototaxi o taxi local se arriba en unos 4 a 5 minutos bordeando el centro hacia la zona monumental.
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Qué ingredientes, preparación y presentación destacan en Jugo de lúcuma con leche en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-La preparación de Jugo de lúcuma con leche se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+Es un recorrido ágil que te conecta fácilmente con las instituciones cívicas y financieras de la ciudad.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+12. ¿Qué métodos de pago tienen habilitados para cancelar consumos en caja?
+Aceptamos pagos móviles rápidos mediante las aplicaciones digitales Yape y Plin escaneando el código QR en barra.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+También recibimos pagos en efectivo en moneda nacional con cambio disponible para monedas y billetes comunes.
 
-En Jugueria Mary cuidamos cada detalle en Vía de Evitamiento Nte. 1914, Cajamarca para hacer de tu experiencia con Jugo de lúcuma con leche un motivo para volver siempre.
+El cobro es dinámico para facilitarte una salida rápida sin pérdida de tiempo en colas.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Capuchino con canela en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Cada orden de Capuchino con canela se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+13. ¿Cuentan con espacio para sentarse a consumir con tranquilidad en el local?
+Disponemos de mesas acogedoras y sillas cómodas donde puedes sentarte a comer con total tranquilidad.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+El ambiente es ventilado, limpio y con un trato cordial que te hace sentir en un entorno familiar desde el primer momento.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Si vas con prisa, la preparación de jugos al paso se realiza en menos de tres minutos para tu conveniencia.
 
-Haz tu reserva o visítanos en Jugueria Mary, en Vía de Evitamiento Nte. 1914, Cajamarca, donde preparamos Capuchino con canela con el cariño de la buena mesa.
+14. ¿Cuál es el tiempo de viaje hacia el Terminal Terrestre de Cajamarca?
+El Terminal Terrestre queda a 1.63 kilómetros hacia el sur de nuestras instalaciones.
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Alfajores rellenos de manjar en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-Al elegir Alfajores rellenos de manjar disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+En mototaxi o taxi el recorrido se cubre en apenas 4 a 5 minutos transitando por la Vía de Evitamiento Sur.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Muchos viajeros que van o vienen de la terminal hacen una parada para refrescarse con un jugo recién licuado.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+15. ¿Atienden desde temprano con desayunos completos para trabajadores y vecinos?
+Iniciamos la atención desde las primeras horas de la mañana para abastecer a comerciantes, transportistas y trabajadores de la zona de Evitamiento.
 
-Ven con tus familiares o amigos a Jugueria Mary en Vía de Evitamiento Nte. 1914, Cajamarca y déjate consentir por la sazón de Alfajores rellenos de manjar.
+Puedes pedir un combo de jugo mixto con sándwich de pollo caliente para desayunar de manera sustanciosa y nutritiva.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Frappé de vainilla en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Cada orden de Frappé de vainilla se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Nuestras porciones generosas y precios populares garantizan el mejor valor para tu economía diaria.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+16. ¿Qué variedad de ensaladas de fruta frescas preparan a diario?
+Elaboramos platos abundantes de ensalada con trozos de papaya, manzana, piña, plátano y fresas recién picadas.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Se acompañan de yogur natural, algarrobina espesa, miel de abeja y granola crujiente para añadirle textura.
 
-Haz tu reserva o visítanos en Jugueria Mary, en Vía de Evitamiento Nte. 1914, Cajamarca, donde preparamos Frappé de vainilla con el cariño de la buena mesa.
+Es una comida sana, refrescante y repleta de antioxidantes, perfecta para una merienda ligera en la tarde.
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Tamal cajamarquino en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-En nuestra cocina tratamos Tamal cajamarquino como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+17. ¿Permiten el ingreso con mascotas pequeñas al establecimiento?
+Aceptamos la presencia de mascotas pequeñas y educadas que acompañen a sus dueños con su respectiva correa puesta.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Cuidamos que el ambiente se conserve limpio y ordenado para la total comodidad de todos los comensales.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Podemos brindarte un recipiente con agua fresca si tu perrito requiere hidratarse tras una caminata por la avenida.
 
-Te invitamos a visitarnos en Jugueria Mary, situado en Vía de Evitamiento Nte. 1914, Cajamarca, listos para servirte Tamal cajamarquino con el sabor que te mereces.
+18. ¿Tienen facilidades para quienes acuden con paquetes o bolsas de compras del mall?
+El local cuenta con espacio suficiente junto a las mesas para ubicar tus bolsas de compras de Real Plaza sin estorbar el paso.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿Qué ingredientes, preparación y presentación destacan en Humita dulce cajamarquina en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-La preparación de Humita dulce cajamarquina se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+El entorno es seguro y familiar, permitiéndote descansar y disfrutar de tu bebida con tranquilidad.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+El personal te indicará la mejor mesa para que te acomodes con holgura.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+19. ¿Emiten comprobantes de venta válidos para sustentar gastos?
+Emitimos boletas de venta para clientes que necesitan sustentar sus gastos diarios de alimentación.
 
-En Jugueria Mary cuidamos cada detalle en Vía de Evitamiento Nte. 1914, Cajamarca para hacer de tu experiencia con Humita dulce cajamarquina un motivo para volver siempre.
+Solo debes solicitar el comprobante al momento de pagar en caja indicando tus datos correspondientes.
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Café helado frappé en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Al elegir Café helado frappé disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+El trámite es inmediato y te garantiza total transparencia en cada consumo.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+20. ¿Por cuál canal de comunicación atienden dudas de la carta o pedidos anticipados?
+Puedes comunicarte de manera directa escribiéndonos a nuestro canal de WhatsApp para consultar la fruta fresca del día o encargar pedidos para recojo.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Estaremos felices de atender tus consultas y tener tu jugo preparado cuando pases por el local.
 
-Ven con tus familiares o amigos a Jugueria Mary en Vía de Evitamiento Nte. 1914, Cajamarca y déjate consentir por la sazón de Café helado frappé.
-
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Pie de manzana por porción en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Disfrutar de Pie de manzana por porción en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
-
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
-
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
-
-En Jugueria Mary te esperamos en Vía de Evitamiento Nte. 1914, Cajamarca para que compartas y disfrutes de Pie de manzana por porción con la mejor atención y calidez.
-
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Panqueques con miel de maple en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-En nuestra cocina tratamos Panqueques con miel de maple como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
-
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
-
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
-
-Te invitamos a visitarnos en Jugueria Mary, situado en Vía de Evitamiento Nte. 1914, Cajamarca, listos para servirte Panqueques con miel de maple con el sabor que te mereces.
-
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Galletas de avena artesanales en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-En nuestra cocina tratamos Galletas de avena artesanales como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
-
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
-
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
-
-Te invitamos a visitarnos en Jugueria Mary, situado en Vía de Evitamiento Nte. 1914, Cajamarca, listos para servirte Galletas de avena artesanales con el sabor que te mereces.
-
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Frappé de moca en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-Disfrutar de Frappé de moca en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
-
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
-
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
-
-En Jugueria Mary te esperamos en Vía de Evitamiento Nte. 1914, Cajamarca para que compartas y disfrutes de Frappé de moca con la mejor atención y calidez.
-
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Café orgánico de altura en Jugueria Mary?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-Disfrutar de Café orgánico de altura en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
-
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
-
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
-
-En Jugueria Mary te esperamos en Vía de Evitamiento Nte. 1914, Cajamarca para que compartas y disfrutes de Café orgánico de altura con la mejor atención y calidez.
-
-================================================================================
+En Jugueria Mary te esperamos siempre con los brazos abiertos y la mejor fruta fresca de Cajamarca.
