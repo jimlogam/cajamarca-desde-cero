@@ -1,7 +1,7 @@
 Nombre: Museo Kuntur Wasi
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Cines_y_Centros_Culturales
 Categoría Maps: Museo, Atracción turística
 Dirección: Museo de Sitio "Kuntur Wassi", 8A, San Pablo 06451
 Teléfono: 991 162 417

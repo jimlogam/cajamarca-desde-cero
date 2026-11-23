@@ -1,7 +1,7 @@
 Nombre: GRASS SINTETICO DON LEOVI "SEMILLITAS"
-Macro-Sector: 13_Educacion_y_Formacion
-Rubro: Educacion_Basica
-Subrubro: Nidos_y_Guarderias
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Canchas_Sinteticas_y_Complejos
 Categoría Maps: Club deportivo
 Dirección: 051973729807, Cajamarca 06002
 Teléfono: 973 729 807

@@ -1,7 +1,7 @@
 Nombre: Purina El Milagro - Cajamarca.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Tiendas_Agroveterinarias
 Categoría Maps: Agencia inmobiliaria
 Dirección: Jr. Sara MacDougall 493, Cajamarca 06001
 Teléfono: 

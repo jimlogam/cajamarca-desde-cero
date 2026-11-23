@@ -1,7 +1,7 @@
 Nombre: Techo Propio Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
 Categoría Maps: Vivienda pública
 Dirección: Av. Atahualpa 322, Cajamarca 06003
 Teléfono: 993 546 524

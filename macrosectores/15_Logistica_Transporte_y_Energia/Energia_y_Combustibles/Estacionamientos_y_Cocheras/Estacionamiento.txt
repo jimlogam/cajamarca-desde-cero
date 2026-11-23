@@ -1,7 +1,7 @@
 Nombre: Estacionamiento
 Macro-Sector: 15_Logistica_Transporte_y_Energia
-Rubro: Transporte_de_Pasajeros
-Subrubro: Taxis_y_Remises
+Rubro: Energia_y_Combustibles
+Subrubro: Estacionamientos_y_Cocheras
 Categoría Maps: Parada de transporte público
 Dirección: Julio Guerrero, Cajamarca 06002
 Teléfono: 

@@ -1,7 +1,7 @@
 Nombre: Estación de Servicio Repsol
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estaciones_de_Servicio_Grifos
 Categoría Maps: Gasolinera, Compañía del gas
 Dirección: A 1 Cuadra Del, Óvalo Musical, Av. Atahualpa N° 554, Cajamarca 06003
 Teléfono: 948 422 565

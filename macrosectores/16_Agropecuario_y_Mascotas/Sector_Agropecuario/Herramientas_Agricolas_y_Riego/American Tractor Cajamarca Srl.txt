@@ -1,7 +1,7 @@
 Nombre: American Tractor Cajamarca Srl
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Herramientas_Agricolas_y_Riego
 Categoría Maps: 
 Dirección: Cajamarca 06003
 Teléfono: 

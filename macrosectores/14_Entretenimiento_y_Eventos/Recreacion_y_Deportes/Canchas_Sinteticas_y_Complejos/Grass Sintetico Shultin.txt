@@ -1,7 +1,7 @@
 Nombre: Grass Sintetico Shultin
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Canchas_Sinteticas_y_Complejos
 Categoría Maps: Campo de fútbol
 Dirección: VGC2+JQJ, Cajamarca 06001
 Teléfono: 

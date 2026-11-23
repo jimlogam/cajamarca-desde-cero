@@ -1,7 +1,7 @@
 Nombre: Fit Club Cajamarca
-Macro-Sector: 04_Salud_y_Medicina
-Rubro: Bienestar_Terapeutico
-Subrubro: Nutricion_y_Dietetica
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
 Categoría Maps: Programa de salud y bienestar
 Dirección: Jr. Sara MacDougall 493, Cajamarca 06001
 Teléfono: 954 873 865

@@ -1,7 +1,7 @@
 Nombre: Parque El Sombrero
-Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
-Rubro: Agencias_y_Operadores
-Subrubro: Turismo_Vivencial_y_Aventura
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
 Categoría Maps: Parque, Atracción turística
 Dirección: VF2H+WPG, Cajamarca 06001
 Teléfono: 

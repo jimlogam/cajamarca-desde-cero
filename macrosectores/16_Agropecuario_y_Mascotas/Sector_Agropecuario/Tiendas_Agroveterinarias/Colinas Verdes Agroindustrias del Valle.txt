@@ -1,7 +1,7 @@
 Nombre: Colinas Verdes Agroindustrias del Valle
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Tiendas_Agroveterinarias
 Categoría Maps: Fábrica de conservas
 Dirección: Miguel Grau 718, Cajamarca 06001
 Teléfono: 946 542 369

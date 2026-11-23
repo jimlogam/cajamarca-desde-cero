@@ -1,7 +1,7 @@
 Nombre: Plaza Pecuaria Iscoconga
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Pet_Shops_y_Accesorios
 Categoría Maps: Animales
 Dirección: QHX2+P22, Iscoconga 06300
 Teléfono: 

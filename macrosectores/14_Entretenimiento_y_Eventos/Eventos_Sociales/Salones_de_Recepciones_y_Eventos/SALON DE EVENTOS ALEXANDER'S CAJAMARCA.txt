@@ -1,7 +1,7 @@
 Nombre: SALON DE EVENTOS ALEXANDER'S CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Eventos_Sociales
+Subrubro: Salones_de_Recepciones_y_Eventos
 Categoría Maps: Organizador de eventos
 Dirección: Pje. Maria Parado de Bellido 134, Cajamarca 06000
 Teléfono: 948 031 355

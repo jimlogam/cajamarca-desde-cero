@@ -1,7 +1,7 @@
 Nombre: Publiser Comunicaciones
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
 Categoría Maps: Oficinas de empresa
 Dirección: Arróspide de Loyola 279, Cajamarca 06001
 Teléfono: (076) 364061

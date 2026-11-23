@@ -1,7 +1,7 @@
 Nombre: Galerías Arcángel - JAGUILAR
-Macro-Sector: 06_Comercio_Moda_y_Regalos
-Rubro: Moda_y_Textil
-Subrubro: Ropa_Damas_Caballeros_Ninos
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Cines_y_Centros_Culturales
 Categoría Maps: Tienda de ropa
 Dirección: Galerías Arcángel, Jr del Batán 323, Cajamarca 06001
 Teléfono: 

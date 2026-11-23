@@ -1,7 +1,7 @@
 Nombre: "EMMANUEL" buss sede cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
 Categoría Maps: Empresa de autobuses
 Dirección: 06003, Cajamarca 06003
 Teléfono: 932 156 967

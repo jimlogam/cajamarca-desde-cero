@@ -1,7 +1,7 @@
 Nombre: Camiones ISUZU / INCA POWER
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Transporte_de_Carga_Pesada
 Categoría Maps: Concesionario de camiones
 Dirección: Av Vía de Evitamiento Nte cdra 116, Cajamarca 06001
 Teléfono: 945 913 587

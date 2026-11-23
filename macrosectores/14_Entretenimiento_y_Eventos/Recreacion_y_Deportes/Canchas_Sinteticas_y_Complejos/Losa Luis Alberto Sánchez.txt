@@ -1,7 +1,7 @@
 Nombre: Losa Luis Alberto Sánchez
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Canchas_Sinteticas_y_Complejos
 Categoría Maps: Polideportivo
 Dirección: RG74+G7R, Unnamed Road, Cajamarca 06003
 Teléfono: 

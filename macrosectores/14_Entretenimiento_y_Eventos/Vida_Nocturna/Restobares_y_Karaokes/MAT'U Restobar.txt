@@ -1,7 +1,7 @@
 Nombre: MAT'U Restobar
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Cafeterias_y_Bebidas
-Subrubro: Cafeterias_de_Especialidad
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
 Categoría Maps: Cafetería
 Dirección: Jirón del Comercio 634, Cajamarca 06001
 Teléfono: 

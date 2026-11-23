@@ -1,7 +1,7 @@
 Nombre: Baños del Inca aguas termales
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
 Categoría Maps: Piscina
 Dirección: RGPM+CV7, Baños del Inca 06004
 Teléfono: 

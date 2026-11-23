@@ -1,7 +1,7 @@
 Nombre: Alitas Express
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Comida_Rapida_y_Snacks
-Subrubro: Hamburguesas_y_Sandwiches
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
 Categoría Maps: Restaurante de comida rápida, Alitas y Hamburguesas
 Dirección: Los Cipreses 493, Cajamarca 06000
 Teléfono: 

@@ -1,7 +1,7 @@
 Nombre: Nacuegal Restaurant Bar
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Cevicherias_y_Mariscos
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
 Categoría Maps: Marisquería
 Dirección: Jr. Guillermo Urrelo 136, Cajamarca 06002
 Teléfono: 989 323 024

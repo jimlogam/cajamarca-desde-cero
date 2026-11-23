@@ -1,7 +1,7 @@
 Nombre: "M&M" Market y Licorería
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Supermercados_y_Mercados
-Subrubro: Supermercados
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
 Categoría Maps: Supermercado
 Dirección: Miguel Iglesias 786, Cajamarca 06001
 Teléfono: 

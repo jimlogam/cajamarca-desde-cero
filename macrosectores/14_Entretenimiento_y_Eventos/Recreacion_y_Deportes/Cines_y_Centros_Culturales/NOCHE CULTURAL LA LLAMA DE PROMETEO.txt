@@ -1,7 +1,7 @@
 Nombre: NOCHE CULTURAL LA LLAMA DE PROMETEO
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Cines_y_Centros_Culturales
 Categoría Maps: Centro de formación
 Dirección: Jr del Batán N°254, Cajamarca 06001
 Teléfono: 939 876 533

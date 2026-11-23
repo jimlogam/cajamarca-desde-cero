@@ -1,7 +1,7 @@
 Nombre: Galpón de Cuyes - El Italiano
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Tiendas_Agroveterinarias
 Categoría Maps: Ganadero
 Dirección: José Olaya 200, Bambamarca 06002
 Teléfono: 

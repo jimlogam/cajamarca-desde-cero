@@ -1,7 +1,7 @@
 Nombre: MANSION TAITA DISCO
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
 Categoría Maps: Club de baile
 Dirección: RFRM+672, Jirón Silva Santisteban, Cajamarca 06002
 Teléfono: 978 484 850

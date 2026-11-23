@@ -1,7 +1,7 @@
 Nombre: Agropecuaria El Campo
 Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Mascotas_y_Veterinaria
-Subrubro: Clinicas_Veterinarias
+Rubro: Sector_Agropecuario
+Subrubro: Tiendas_Agroveterinarias
 Categoría Maps: Cuidados veterinarios
 Dirección: Cajamarca 06003
 Teléfono: 

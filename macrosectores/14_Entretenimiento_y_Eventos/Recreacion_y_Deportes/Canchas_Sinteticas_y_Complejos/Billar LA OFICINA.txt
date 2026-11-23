@@ -1,7 +1,7 @@
 Nombre: Billar LA OFICINA
 Macro-Sector: 14_Entretenimiento_y_Eventos
 Rubro: Recreacion_y_Deportes
-Subrubro: Centros_Recreacionales_y_Piscinas
+Subrubro: Canchas_Sinteticas_y_Complejos
 Categoría Maps: Club deportivo
 Dirección: Leoncio Prado 121, Cajamarca 06002
 Teléfono: 

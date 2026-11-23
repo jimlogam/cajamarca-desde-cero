@@ -1,7 +1,7 @@
 Nombre: COOPERATIVA AGRARIA COHEVISE
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Tiendas_Agroveterinarias
 Categoría Maps: Cooperativa agropecuaria
 Dirección: RFQP+8V4, Cajamarca 06002
 Teléfono: (076) 284289

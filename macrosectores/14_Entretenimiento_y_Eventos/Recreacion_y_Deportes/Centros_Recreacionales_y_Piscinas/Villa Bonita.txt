@@ -1,7 +1,7 @@
 Nombre: Villa Bonita
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Centros_Recreacionales_y_Piscinas
 Categoría Maps: Centro de ocio infantil
 Dirección: C.C. MegaPlaza, Cajamarca 06001
 Teléfono: 966 601 718

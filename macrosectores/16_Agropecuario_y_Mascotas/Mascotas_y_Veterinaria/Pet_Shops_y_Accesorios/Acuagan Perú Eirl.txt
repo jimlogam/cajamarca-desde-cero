@@ -1,7 +1,7 @@
 Nombre: Acuagan Perú Eirl
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Pet_Shops_y_Accesorios
 Categoría Maps: Tienda de productos para mascotas
 Dirección: He, Jr. Gladiolos 332, Cajamarca 06003
 Teléfono: 954 447 704

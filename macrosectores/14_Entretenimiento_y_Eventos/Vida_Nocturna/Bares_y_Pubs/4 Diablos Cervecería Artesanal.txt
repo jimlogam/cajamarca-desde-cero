@@ -1,7 +1,7 @@
 Nombre: 4 Diablos Cervecería Artesanal
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
 Categoría Maps: Distribuidor de cerveza
 Dirección: Jiron Arquitecto Belaunde Terry 1153, Cajamarca 06003
 Teléfono: 

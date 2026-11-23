@@ -1,7 +1,7 @@
 Nombre: Grifo MSA, Primax
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estaciones_de_Servicio_Grifos
 Categoría Maps: Gasolinera alternativa
 Dirección: Av Vía de Evitamiento Nte 1417, Cajamarca 06001
 Teléfono: 

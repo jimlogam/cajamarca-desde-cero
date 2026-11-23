@@ -1,7 +1,7 @@
 Nombre: Nuevo Terminal de Cajamarca
 Macro-Sector: 15_Logistica_Transporte_y_Energia
 Rubro: Transporte_de_Pasajeros
-Subrubro: Taxis_y_Remises
+Subrubro: Terminales_y_Empresas_Interprovinciales
 Categoría Maps: Servicio de transporte
 Dirección: San José 125, Cajamarca 06003
 Teléfono: 

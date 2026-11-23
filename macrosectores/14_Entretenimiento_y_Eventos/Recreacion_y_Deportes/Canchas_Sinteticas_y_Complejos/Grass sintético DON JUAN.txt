@@ -1,7 +1,7 @@
 Nombre: Grass sintético "DON JUAN"
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Canchas_Sinteticas_y_Complejos
 Categoría Maps: Campo de fútbol
 Dirección: Av. La Paz 1440, Cajamarca 06003
 Teléfono: 976 541 299

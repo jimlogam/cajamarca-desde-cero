@@ -1,7 +1,7 @@
 Nombre: Veterinaria Pajares
 Macro-Sector: 16_Agropecuario_y_Mascotas
 Rubro: Mascotas_y_Veterinaria
-Subrubro: Pet_Shops_y_Accesorios
+Subrubro: Clinicas_Veterinarias
 Categoría Maps: Veterinario, Tienda de alimentos para animales, Tienda de animales
 Dirección: 06002, Cajamarca 06002
 Teléfono: 940 945 454

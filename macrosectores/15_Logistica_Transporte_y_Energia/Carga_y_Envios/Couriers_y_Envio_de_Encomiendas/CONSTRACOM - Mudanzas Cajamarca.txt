@@ -1,7 +1,7 @@
 Nombre: CONSTRACOM - Mudanzas Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
 Categoría Maps: Empresa de transporte por camión, Servicio de mudanzas, Servicio de mensajería
 Dirección: Av. El Maestro 322, Cajamarca 06002
 Teléfono: 951 338 424

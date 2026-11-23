@@ -1,7 +1,7 @@
 Nombre: Veterinaria, Hotel y spa canino Clini can Cajamarca
-Macro-Sector: 13_Educacion_y_Formacion
-Rubro: Educacion_Basica
-Subrubro: Nidos_y_Guarderias
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
 Categoría Maps: Veterinario, Guardería canina, Servicio de urgencias veterinarias, Peluquero de mascotas, Servicio de traslado de mascotas
 Dirección: Jr 15 de Agosto 190, Baños del Inca 06004
 Teléfono: 970 601 703

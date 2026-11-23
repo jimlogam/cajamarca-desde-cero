@@ -1,7 +1,7 @@
 Nombre: Billar "Bondy"
 Macro-Sector: 14_Entretenimiento_y_Eventos
-Rubro: Recreacion_y_Deportes
-Subrubro: Centros_Recreacionales_y_Piscinas
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
 Categoría Maps: Club de billar, Sala de billares
 Dirección: 0600, Cajamarca
 Teléfono: 922 521 900

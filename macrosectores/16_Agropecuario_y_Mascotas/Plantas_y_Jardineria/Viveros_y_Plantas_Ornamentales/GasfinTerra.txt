@@ -1,7 +1,7 @@
 Nombre: GasfinTerra
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Plantas_y_Jardineria
+Subrubro: Viveros_y_Plantas_Ornamentales
 Categoría Maps: Jardinero, Service establishment
 Dirección: 
 Teléfono: 949 920 343

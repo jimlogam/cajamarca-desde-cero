@@ -1,7 +1,7 @@
 Nombre: "LA BARRA CLUB - POOL"
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
 Categoría Maps: Club
 Dirección: RFXR+485, Jr. Guillermo Urrelo, Cajamarca 06002
 Teléfono: 925 505 502

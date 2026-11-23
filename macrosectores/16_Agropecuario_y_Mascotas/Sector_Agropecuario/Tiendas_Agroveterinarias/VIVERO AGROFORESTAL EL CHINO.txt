@@ -1,7 +1,7 @@
 Nombre: VIVERO AGROFORESTAL EL CHINO
 Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Plantas_y_Jardineria
-Subrubro: Viveros_y_Plantas_Ornamentales
+Rubro: Sector_Agropecuario
+Subrubro: Tiendas_Agroveterinarias
 Categoría Maps: Vivero
 Dirección: 8 260, 06411
 Teléfono: 944 452 757

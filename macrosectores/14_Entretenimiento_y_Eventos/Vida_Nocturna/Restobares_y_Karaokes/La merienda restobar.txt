@@ -1,7 +1,7 @@
 Nombre: La merienda restobar
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Pollerias_y_Parrillas
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Restobares_y_Karaokes
 Categoría Maps: Restaurante especializado en pollo
 Dirección: Eten 324, Cajamarca 06002
 Teléfono: 938 645 341

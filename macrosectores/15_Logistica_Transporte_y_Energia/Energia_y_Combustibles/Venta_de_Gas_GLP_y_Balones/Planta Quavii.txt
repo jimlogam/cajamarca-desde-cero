@@ -1,7 +1,7 @@
 Nombre: Planta Quavii
-Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Plantas_y_Jardineria
-Subrubro: Viveros_y_Plantas_Ornamentales
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Venta_de_Gas_GLP_y_Balones
 Categoría Maps: Servicio de instalación de gas
 Dirección: RGF7+FR7, Cajamarca 06003
 Teléfono: 970 618 217

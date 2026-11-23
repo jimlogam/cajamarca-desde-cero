@@ -1,7 +1,7 @@
 Nombre: VIERA RENT A CAR CAJAMARCA- alquiler de camionetas autos van bus
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
 Categoría Maps: Agencia de alquiler de coches, Compraventa de automóviles, Proveedor de camionetas con camper, Agencia de alquiler de furgonetas
 Dirección: 06001, Jr. Los Gladiolos 258, Cajamarca 06001
 Teléfono: 991 773 718

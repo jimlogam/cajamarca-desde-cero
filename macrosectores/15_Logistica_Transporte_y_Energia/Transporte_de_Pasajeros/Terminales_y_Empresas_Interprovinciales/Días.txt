@@ -1,7 +1,7 @@
 Nombre: Días
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
 Categoría Maps: Agencia de excursiones en autobús
 Dirección: VG55+C7H, Av. El Triunfo, Cajamarca 06001
 Teléfono: 

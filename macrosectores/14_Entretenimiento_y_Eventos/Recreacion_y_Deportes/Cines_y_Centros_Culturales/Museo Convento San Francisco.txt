@@ -1,7 +1,7 @@
 Nombre: Museo Convento "San Francisco"
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Recreacion_y_Deportes
+Subrubro: Cines_y_Centros_Culturales
 Categoría Maps: Museo
 Dirección: Amalia Puga 794, Cajamarca 06002
 Teléfono: 

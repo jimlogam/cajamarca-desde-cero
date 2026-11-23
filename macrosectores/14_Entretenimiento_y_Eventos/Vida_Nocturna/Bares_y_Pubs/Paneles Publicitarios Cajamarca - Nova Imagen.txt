@@ -1,7 +1,7 @@
 Nombre: Paneles Publicitarios Cajamarca - Nova Imagen
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
 Categoría Maps: Agencia de publicidad
 Dirección: Pje. de las Artes 139, Cajamarca 06001
 Teléfono: 968 889 909

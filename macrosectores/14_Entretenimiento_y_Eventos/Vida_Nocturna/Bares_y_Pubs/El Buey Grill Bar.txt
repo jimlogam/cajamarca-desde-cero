@@ -1,7 +1,7 @@
 Nombre: El Buey Grill Bar
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Pollerias_y_Parrillas
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
 Categoría Maps: Restaurante, Parrilla, Bar
 Dirección: Miguel Grau 167, Cajamarca 06002
 Teléfono: 992 073 006

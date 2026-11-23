@@ -1,7 +1,7 @@
 Nombre: COCHERA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estacionamientos_y_Cocheras
 Categoría Maps: Agencia de viajes
 Dirección: Jr, Dos de Mayo 817, Cajamarca 06002
 Teléfono: (076) 369663

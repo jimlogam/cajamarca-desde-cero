@@ -1,7 +1,7 @@
 Nombre: TERMINAL TERRESTRE CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
 Categoría Maps: Servicio de transporte
 Dirección: 3N 2389-2273, Cajamarca 06003
 Teléfono: 

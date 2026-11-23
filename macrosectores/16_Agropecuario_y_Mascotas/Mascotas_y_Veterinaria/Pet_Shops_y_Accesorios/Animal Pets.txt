@@ -1,7 +1,7 @@
 Nombre: Animal Pets
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Pet_Shops_y_Accesorios
 Categoría Maps: Tienda de animales
 Dirección: Jr. José Sabogal 612, Cajamarca 06002
 Teléfono: 976 680 111

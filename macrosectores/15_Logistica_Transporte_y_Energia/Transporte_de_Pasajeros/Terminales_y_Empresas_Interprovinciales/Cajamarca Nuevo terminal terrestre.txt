@@ -1,7 +1,7 @@
 Nombre: Cajamarca Nuevo terminal terrestre
-Macro-Sector: 06_Comercio_Moda_y_Regalos
-Rubro: Moda_y_Textil
-Subrubro: Ropa_Damas_Caballeros_Ninos
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Transporte_de_Pasajeros
+Subrubro: Terminales_y_Empresas_Interprovinciales
 Categoría Maps: Centro comercial
 Dirección: Av. Vía de Evitamiento Sur 1989, Cajamarca 06003
 Teléfono: 

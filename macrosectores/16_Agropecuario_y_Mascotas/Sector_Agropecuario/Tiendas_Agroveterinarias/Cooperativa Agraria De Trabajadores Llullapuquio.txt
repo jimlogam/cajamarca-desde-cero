@@ -1,7 +1,7 @@
 Nombre: Cooperativa Agraria De Trabajadores Llullapuquio
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Tiendas_Agroveterinarias
 Categoría Maps: Oficina de la Administración
 Dirección: V8PM+4P7, llullapuquio, Chetilla 06415
 Teléfono: 944 136 802

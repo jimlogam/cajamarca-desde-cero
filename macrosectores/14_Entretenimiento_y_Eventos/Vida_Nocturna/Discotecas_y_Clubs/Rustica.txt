@@ -1,7 +1,7 @@
 Nombre: Rustica
 Macro-Sector: 14_Entretenimiento_y_Eventos
 Rubro: Vida_Nocturna
-Subrubro: Restobares_y_Karaokes
+Subrubro: Discotecas_y_Clubs
 Categoría Maps: Restaurante, Discoteca, Karaoke
 Dirección: CC. REAL PLAZA - CAJAMARCA Cajarmarca, Vía de Evitamiento Nte. LT. 1, Cajamarca 06001
 Teléfono: (076) 507556

@@ -1,7 +1,7 @@
 Nombre: 300 Grill Bar
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Pollerias_y_Parrillas
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
 Categoría Maps: Restaurante
 Dirección: Av. Luis Rebaza Neyra 376, Cajamarca 06002
 Teléfono: 976 160 360

@@ -1,7 +1,7 @@
 Nombre: Grass Sintetico "OLIMPO"
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
 Categoría Maps: Bar deportivo
 Dirección: Cinco Esquinas 1078, Cajamarca 06002
 Teléfono: 

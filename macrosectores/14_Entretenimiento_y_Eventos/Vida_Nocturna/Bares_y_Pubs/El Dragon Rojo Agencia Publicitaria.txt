@@ -1,7 +1,7 @@
 Nombre: El Dragon Rojo Agencia Publicitaria
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
 Categoría Maps: Imprenta
 Dirección: Jr. José Sabogal 740, Cajamarca 06002
 Teléfono: (076) 770520

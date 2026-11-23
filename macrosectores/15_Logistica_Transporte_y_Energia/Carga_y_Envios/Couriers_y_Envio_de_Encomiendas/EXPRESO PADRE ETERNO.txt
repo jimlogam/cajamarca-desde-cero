@@ -1,7 +1,7 @@
 Nombre: EXPRESO PADRE ETERNO
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
 Categoría Maps: Agencia de viajes, Agencia de visitas turísticas, Servicio de transporte
 Dirección: San Salvador 642, Cajamarca 06001
 Teléfono: 950 712 513

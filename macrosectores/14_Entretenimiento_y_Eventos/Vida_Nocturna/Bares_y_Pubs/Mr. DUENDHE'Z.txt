@@ -1,7 +1,7 @@
 Nombre: Mr. DUENDHE'Z
 Macro-Sector: 14_Entretenimiento_y_Eventos
 Rubro: Vida_Nocturna
-Subrubro: Restobares_y_Karaokes
+Subrubro: Bares_y_Pubs
 Categoría Maps: Pub restaurante
 Dirección: costado de la punta marina A dos cuadras del grifo, Av. Hoyos Rubio 1706, Cajamarca 06001
 Teléfono: 

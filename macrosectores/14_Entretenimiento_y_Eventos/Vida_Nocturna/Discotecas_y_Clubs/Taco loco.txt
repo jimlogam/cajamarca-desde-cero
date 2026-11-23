@@ -1,7 +1,7 @@
 Nombre: Taco loco
 Macro-Sector: 14_Entretenimiento_y_Eventos
-Rubro: Recreacion_y_Deportes
-Subrubro: Centros_Recreacionales_y_Piscinas
+Rubro: Vida_Nocturna
+Subrubro: Discotecas_y_Clubs
 Categoría Maps: Club de billar
 Dirección: Calle Virgen del Rosario 451, Cajamarca 06003
 Teléfono: 946 342 331

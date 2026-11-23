@@ -1,7 +1,7 @@
 Nombre: INIA CAJAMARCA Perú
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Sector_Agropecuario
+Subrubro: Tiendas_Agroveterinarias
 Categoría Maps: Organización agrícola
 Dirección: RGRQ+969, Jr. s/n, Wiracocha, Baños del Inca
 Teléfono: (076) 348386

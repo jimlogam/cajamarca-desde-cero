@@ -1,7 +1,7 @@
 Nombre: CAMIONES DE CARGA CAJAMARCA "MI JILGUERITO"
 Macro-Sector: 15_Logistica_Transporte_y_Energia
-Rubro: Transporte_de_Pasajeros
-Subrubro: Taxis_y_Remises
+Rubro: Carga_y_Envios
+Subrubro: Transporte_de_Carga_Pesada
 Categoría Maps: Servicio de transporte
 Dirección: Pasaje Vista Bella 102, Cajamarca 06002
 Teléfono: 943 098 346

@@ -1,7 +1,7 @@
 Nombre: Thiago's Delivery
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Couriers_y_Envio_de_Encomiendas
 Categoría Maps: 
 Dirección: 51, Cajamarca
 Teléfono: 948 993 390

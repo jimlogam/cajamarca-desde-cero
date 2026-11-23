@@ -1,7 +1,7 @@
 Nombre: LUICHO GAS
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Venta_de_Gas_GLP_y_Balones
 Categoría Maps: Tienda de artículos relacionados con el gas
 Dirección: JR, Mariscal Cáceres 1120, Cajamarca
 Teléfono: 976 556 965

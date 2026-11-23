@@ -1,7 +1,7 @@
 Nombre: A y R carga
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Carga_y_Envios
+Subrubro: Transporte_de_Carga_Pesada
 Categoría Maps: Parada para camiones
 Dirección: Diego Ferré 190, Cajamarca 06000
 Teléfono: 938 414 043

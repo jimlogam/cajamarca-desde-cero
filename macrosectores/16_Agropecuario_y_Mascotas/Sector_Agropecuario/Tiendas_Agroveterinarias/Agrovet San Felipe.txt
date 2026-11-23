@@ -1,7 +1,7 @@
 Nombre: Agrovet San Felipe
 Macro-Sector: 16_Agropecuario_y_Mascotas
 Rubro: Sector_Agropecuario
-Subrubro: Abonos_Semillas_y_Fertilizantes
+Subrubro: Tiendas_Agroveterinarias
 Categoría Maps: Proveedor de fertilizantes
 Dirección: RFWP+P2X, Prol. Revilla Perez, Cajamarca 06001
 Teléfono: 

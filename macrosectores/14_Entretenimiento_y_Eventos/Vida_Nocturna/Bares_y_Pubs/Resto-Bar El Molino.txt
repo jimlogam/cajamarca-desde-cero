@@ -1,7 +1,7 @@
 Nombre: Resto-Bar El Molino
 Macro-Sector: 14_Entretenimiento_y_Eventos
 Rubro: Vida_Nocturna
-Subrubro: Restobares_y_Karaokes
+Subrubro: Bares_y_Pubs
 Categoría Maps: Bar
 Dirección: Av. Nuevo Perú, Cajamarca 06001
 Teléfono: 

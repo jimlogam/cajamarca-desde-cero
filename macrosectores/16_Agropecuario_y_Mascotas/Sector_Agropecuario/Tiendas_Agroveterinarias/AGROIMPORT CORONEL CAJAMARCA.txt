@@ -1,7 +1,7 @@
 Nombre: AGROIMPORT CORONEL CAJAMARCA
 Macro-Sector: 16_Agropecuario_y_Mascotas
 Rubro: Sector_Agropecuario
-Subrubro: Herramientas_Agricolas_y_Riego
+Subrubro: Tiendas_Agroveterinarias
 Categoría Maps: Comercio
 Dirección: Av San Martín de Porres 878, Cajamarca 06001
 Teléfono: 

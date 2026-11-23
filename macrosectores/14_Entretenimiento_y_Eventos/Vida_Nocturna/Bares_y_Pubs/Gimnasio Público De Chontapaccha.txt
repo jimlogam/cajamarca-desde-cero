@@ -1,7 +1,7 @@
 Nombre: Gimnasio Público De Chontapaccha
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
 Categoría Maps: Piscina
 Dirección: 13 De Julio 570, Cajamarca 06001
 Teléfono: 

@@ -1,7 +1,7 @@
 Nombre: Mamayola Lounge-Bar
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Vida_Nocturna
+Subrubro: Bares_y_Pubs
 Categoría Maps: Club de baile, Bar
 Dirección: Jr, Amalia Puga 148, Cajamarca 06000
 Teléfono: 976 900 274

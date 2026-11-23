@@ -1,7 +1,7 @@
 Nombre: La Cochera de Monkey
-Macro-Sector: 14_Entretenimiento_y_Eventos
-Rubro: Vida_Nocturna
-Subrubro: Restobares_y_Karaokes
+Macro-Sector: 15_Logistica_Transporte_y_Energia
+Rubro: Energia_y_Combustibles
+Subrubro: Estacionamientos_y_Cocheras
 Categoría Maps: Pub restaurante
 Dirección: Universitaria 616, Cajamarca 06002
 Teléfono: 950 926 435
