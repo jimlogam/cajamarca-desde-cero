@@ -1,7 +1,7 @@
 Nombre: Ripley Real Cajamarca Real Plaza
-Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
-Rubro: Muebles_y_Decoracion
-Subrubro: Mueblerias
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
 Categoría Maps: Tienda de muebles, Tienda de electrodomésticos, Tienda de productos de belleza, Tienda infantil, Tienda de ropa, Tienda de accesorios de moda, Grandes almacenes, Tienda de artículos de cocina, Tienda de deportes
 Dirección: Vía de Evitamiento Nte. Lote 1, Cajamarca 06001
 Teléfono: 

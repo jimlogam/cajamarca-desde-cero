@@ -1,7 +1,7 @@
 Nombre: MARVISUR CAJAMARCA-I
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Servicio de transporte de mercancías
 Dirección: Ricardo Palma 129, Cajamarca 06002
 Teléfono: 972 728 008

@@ -1,7 +1,7 @@
 Nombre: Empresa de Transportes y Turismo YUMEL Cielo Azul S.R.L.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Servicio de transporte
 Dirección: Av. Vía de Evitamiento Sur 936, Cajamarca 06001
 Teléfono: 941 195 944

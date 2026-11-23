@@ -1,7 +1,7 @@
 Nombre: Children's Club | El Quinde Shopping Plaza Cajamarca | Zapatos y accesorios para niños
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Calzado_y_Zapaterias
 Categoría Maps: Tienda infantil
 Dirección: Calimod Store, C. C. El Quinde Shopping Plaza, Jr. Sor Manuela Gil 151, Cajamarca 06001
 Teléfono: 949 741 030

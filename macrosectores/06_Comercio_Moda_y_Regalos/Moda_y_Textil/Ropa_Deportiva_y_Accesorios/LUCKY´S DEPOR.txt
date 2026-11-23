@@ -1,7 +1,7 @@
 Nombre: LUCKY´S DEPOR
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Tienda de deportes
 Dirección: Jr.Amazonas 799 A, Cajamarca 06001
 Teléfono: 924 266 555

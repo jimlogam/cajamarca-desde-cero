@@ -1,7 +1,7 @@
 Nombre: Bata 4 Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Calzado_y_Zapaterias
 Categoría Maps: Zapatería
 Dirección: Real Plaza, C.C. Real Plaza Cajamarca. Av. Evitamiento Norte s/n, Lote 1A, Locales LC103/105, Cajamarca
 Teléfono: (01) 4888381

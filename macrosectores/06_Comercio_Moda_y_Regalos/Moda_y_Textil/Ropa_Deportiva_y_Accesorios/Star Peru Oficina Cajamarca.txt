@@ -1,7 +1,7 @@
 Nombre: Star Peru Oficina Cajamarca
-Macro-Sector: 15_Logistica_Transporte_y_Energia
-Rubro: Transporte_de_Pasajeros
-Subrubro: Taxis_y_Remises
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Servicio de transporte
 Dirección: JR, Amalia Puga 667, Cajamarca 06002
 Teléfono: 932 901 152

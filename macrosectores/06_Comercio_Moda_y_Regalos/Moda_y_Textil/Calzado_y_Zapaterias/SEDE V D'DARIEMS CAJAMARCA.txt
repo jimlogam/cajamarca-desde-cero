@@ -1,7 +1,7 @@
 Nombre: SEDE V D'DARIEMS CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Calzado_y_Zapaterias
 Categoría Maps: Mayorista de zapatos
 Dirección: Jr. Apurimac 929, Cajamarca 06001
 Teléfono: 968 531 837

@@ -1,7 +1,7 @@
 Nombre: Empresa de Transporte El Abuelo
-Macro-Sector: 15_Logistica_Transporte_y_Energia
-Rubro: Transporte_de_Pasajeros
-Subrubro: Terminales_y_Empresas_Interprovinciales
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Servicio de transporte
 Dirección: Av. Vía de Evitamiento Sur 992, Cajamarca 06003
 Teléfono: 949 250 112

@@ -1,7 +1,7 @@
 Nombre: Huascar Cargo Internacional S.A.C
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Empresa de transporte por camión
 Dirección: Juan Beato Macias 1525, Cajamarca 06003
 Teléfono: 976 721 414

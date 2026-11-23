@@ -1,7 +1,7 @@
 Nombre: CIA Tranpsort
-Macro-Sector: 15_Logistica_Transporte_y_Energia
-Rubro: Carga_y_Envios
-Subrubro: Transporte_de_Carga_Pesada
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Servicio de logística, Servicio de transporte de mercancías
 Dirección: Av San Martín de Porres 2330, Cajamarca 06003
 Teléfono: (076) 601314

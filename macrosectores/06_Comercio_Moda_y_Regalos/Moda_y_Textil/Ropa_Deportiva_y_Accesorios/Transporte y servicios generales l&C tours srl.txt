@@ -1,7 +1,7 @@
 Nombre: Transporte y servicios generales l&C tours srl
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Servicio de transporte
 Dirección: Av Vía de Evitamiento Nte 06009, Cajamarca 06000
 Teléfono: 976 851 310

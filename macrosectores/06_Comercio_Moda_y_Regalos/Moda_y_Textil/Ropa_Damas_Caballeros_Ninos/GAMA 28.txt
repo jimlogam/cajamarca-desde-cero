@@ -1,7 +1,7 @@
 Nombre: GAMA 28
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
 Categoría Maps: Boutique
 Dirección: Jr.Amazonas 1149, Cajamarca 06002
 Teléfono: 918 310 597

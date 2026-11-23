@@ -1,7 +1,7 @@
 Nombre: Confecciones Romy srl
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
 Categoría Maps: Taller de costura
 Dirección: Tartar Grande, Baños del Inca 06004
 Teléfono: 978 361 466

@@ -1,7 +1,7 @@
 Nombre: Multiservicios Melissa EIRL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Empresa de transporte por camión
 Dirección: Jr. Los Gorriones 160, Cajamarca 06001
 Teléfono: 959 476 128

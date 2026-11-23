@@ -1,7 +1,7 @@
 Nombre: Confecciones Rancse
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
 Categoría Maps: Tienda de arreglos de ropa
 Dirección: Av. Perú 325, Cajamarca 06001
 Teléfono: 928 907 113

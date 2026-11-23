@@ -1,7 +1,7 @@
 Nombre: Confecciones Campos - costureria
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
 Categoría Maps: Taller de costura, Tienda de ropa de mujer, Compañía de costura, Clase de costura
 Dirección: Psj, Pje. Los Rubíes 102, Cajamarca 06002
 Teléfono: 937 558 413

@@ -1,7 +1,7 @@
 Nombre: Empresa de Transportes Namora S.R.L
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Agencia de viajes
 Dirección: 06000, Av. Vía de Evitamiento Sur 935, Cajamarca 06000
 Teléfono: 918 368 332

@@ -1,7 +1,7 @@
 Nombre: TRANSPORTE LOGISTICO MLT SAC - CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Empresa de transporte por camión
 Dirección: CASERIO HUACARIZ, MZ. A LOTE S/N, Cajamarca 06000
 Teléfono: 932 275 246

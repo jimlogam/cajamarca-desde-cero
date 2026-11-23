@@ -1,7 +1,7 @@
 Nombre: Annel Group Sac
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Empresa constructora, Servicio de mensajería, Servicio de transporte de mercancías, Pintura, Empresa de fumigación y control de plagas
 Dirección: El Mutuy Mz B, Cajamarca 06000
 Teléfono: (076) 604924

@@ -1,7 +1,7 @@
 Nombre: EMPRESA DE TRANSPORTES AVE FENIX
-Macro-Sector: 15_Logistica_Transporte_y_Energia
-Rubro: Carga_y_Envios
-Subrubro: Couriers_y_Envio_de_Encomiendas
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Servicio de envíos
 Dirección: RFMV+PCH, Av. Atahualpa, Cajamarca 06002
 Teléfono: (076) 369663

@@ -1,7 +1,7 @@
 Nombre: PRINCE Moda y Accesorios
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
 Categoría Maps: Tienda de accesorios de moda
 Dirección: cc megaplaza Amalia puga 1058 Amalia puga 352 San Martín 926, Amalia Puga 1085, Cajamarca
 Teléfono: 974 420 943

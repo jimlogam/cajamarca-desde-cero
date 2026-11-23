@@ -1,7 +1,7 @@
 Nombre: TENDENCIAS BOUTIQUE
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
 Categoría Maps: Tienda de accesorios de moda
 Dirección: Jr, Ucayali 432, Cajamarca 06000
 Teléfono: 947 890 378

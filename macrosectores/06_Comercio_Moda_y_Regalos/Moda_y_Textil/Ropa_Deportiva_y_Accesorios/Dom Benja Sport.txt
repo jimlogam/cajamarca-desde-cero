@@ -1,7 +1,7 @@
 Nombre: Dom Benja Sport
 Macro-Sector: 06_Comercio_Moda_y_Regalos
 Rubro: Moda_y_Textil
-Subrubro: Ropa_Damas_Caballeros_Ninos
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Tienda de ropa de mujer
 Dirección: Amauta, Psje: Las Ciencias N°246, Cajamarca 06001
 Teléfono: 977 432 900
