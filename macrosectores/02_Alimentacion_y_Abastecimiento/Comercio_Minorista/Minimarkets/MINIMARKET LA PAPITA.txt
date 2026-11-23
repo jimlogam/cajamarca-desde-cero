@@ -1,25 +1,25 @@
-Nombre: Minimarket El Jacal
+Nombre: MINIMARKET "LA PAPITA"
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Supermercados_y_Mercados
-Subrubro: Supermercados
-Categoría Maps: Supermercado, Tienda de alimentación
-Dirección: Jr. Marina Rojas, Cajamarca 06003
-Teléfono: 936 171 911
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
+Categoría Maps: Supermercado
+Dirección: +51, Cajamarca 06001
+Teléfono: 956 254 950
 Rating: 
 Reseñas: 
 Sitio web: 
-Latitud: -7.184581799999999
-Longitud: -78.48632669999999
-Google Maps: https://www.google.com/maps?cid=16391555986836824432
-Place Id: ChIJuZydVUJbspERcCFW51KBeuM
-Fotos: Minimarket El Jacal.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfevgJHrpBebfR2-joBdhDN_N5TIyxMPPRc4HRCCfapCfLsbd24zgnHnNRWVgDuYqVNc4Kyj_mgEhbH6N2T95IT1Qvt6ZeimwKaJIrk0cAhmRvnN0h7U82NtgK3v6tjvc5geuWo=w1600-h1200-k-no
+Latitud: -7.1334575
+Longitud: -78.51716139999999
+Google Maps: https://www.google.com/maps?cid=18125632189583404082
+Place Id: ChIJG8n8ME1bspERMiyBVXEui_s
+Fotos: MINIMARKET LA PAPITA.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLd4IyIQtI88l2CHOSleQuHiqWZpqnEYk4-FXZg804kNjk-xWYuq753QczBJlNJhTG5k6B0L4btD8Gjrc26gva_e18Gz3lLuU22kIyyjsnaI8nmbovTTkb-zSLAmX2iGl5kz6M8=w1600-h1200-k-no
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-¡Te damos la más cordial bienvenida a Minimarket El Jacal! Situados en Jr. Marina Rojas, Cajamarca 06003, somos tu centro de abastecimiento ideal en Cajamarca para carnes frescas, frutas y verduras seleccionadas, abarrotes completos y artículos de limpieza para el hogar. Ofrecemos pasillos ordenados, pesaje electrónico exacto, atención rápida y los mejores precios al por mayor y menor. Visítanos o coordina tus compras escribiéndonos directamente al WhatsApp hoy mismo.
+¡Te damos la más cordial bienvenida a MINIMARKET LA PAPITA! Situados en +51, Cajamarca 06001, somos tu centro de abastecimiento ideal en Cajamarca para carnes frescas, frutas y verduras seleccionadas, abarrotes completos y artículos de limpieza para el hogar. Ofrecemos pasillos ordenados, pesaje electrónico exacto, atención rápida y los mejores precios al por mayor y menor. Visítanos o coordina tus compras escribiéndonos directamente al WhatsApp hoy mismo.
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -31,14 +31,14 @@ Disponemos de cortes frescos de carne de res, cerdo del día, pollo beneficiado 
 
 Nuestros carniceros realizan cortes personalizados a pedido del cliente, tales como lomo fino, bife, carne molida especial, chuletas y presas despresadas.
 
-En Minimarket El Jacal aseguramos frescura diaria, textura tierna y total salubridad para que prepares las comidas familiares con absoluta confianza.
+En MINIMARKET LA PAPITA aseguramos frescura diaria, textura tierna y total salubridad para que prepares las comidas familiares con absoluta confianza.
 
-2. ¿A qué distancia se encuentra la tienda respecto a Universidad Nacional de Cajamarca (UNC)?
-Nos encontramos a una distancia calculada de 2.17 kilómetros respecto a Universidad Nacional de Cajamarca (UNC), facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
+2. ¿A qué distancia se encuentra la tienda respecto a MegaPlaza Cajamarca?
+Nos encontramos a una distancia calculada de 1.99 kilómetros respecto a MegaPlaza Cajamarca, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
 
 Para quienes se trasladan a pie, el trayecto toma pocos minutos transitando por vías iluminadas y seguras del sector, mientras que en mototaxi o transporte urbano el viaje se realiza de forma sumamente veloz.
 
-Nuestra ubicación en Jr. Marina Rojas, Cajamarca 06003 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
+Nuestra ubicación en +51, Cajamarca 06001 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
 
 3. ¿Cómo aseguran la frescura y selección en frutas y verduras de temporada?
 Recibimos cargamentos diarios de frutas y verduras frescas procedentes directamente de los fértiles valles interandinos y de la costa norte del país.
@@ -54,19 +54,19 @@ Podrás visualizar claramente el peso neto y el importe correspondiente en las p
 
 Garantizamos que pagues exactamente por lo que llevas, con honestidad y transparencia total en cada gramo de tus compras.
 
-5. ¿Cuál es el tiempo de traslado y recorrido hacia Terminal Terrestre de Cajamarca?
-Nos encontramos a una distancia calculada de 2.53 kilómetros respecto a Terminal Terrestre de Cajamarca, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
+5. ¿Cuál es el tiempo de traslado y recorrido hacia Mercado Modelo?
+Nos encontramos a una distancia calculada de 2.13 kilómetros respecto a Mercado Modelo, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
 
 Para quienes se trasladan a pie, el trayecto toma pocos minutos transitando por vías iluminadas y seguras del sector, mientras que en mototaxi o transporte urbano el viaje se realiza de forma sumamente veloz.
 
-Nuestra ubicación en Jr. Marina Rojas, Cajamarca 06003 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
+Nuestra ubicación en +51, Cajamarca 06001 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
 
 6. ¿Qué marcas y presentaciones de abarrotes por mayor y menor manejan?
 Ofrecemos sacos y empaques individuales de arroz de alta calidad, azúcar, aceites vegetales, fideos, harinas, menestras y conservas de las marcas líderes del mercado.
 
 Atendemos tanto las necesidades del consumo familiar como el abastecimiento de restaurantes, concesionarios de alimentos y pequeñas bodegas de la región.
 
-En Minimarket El Jacal combinamos variedad exhaustiva con precios de escala mayorista que protegen el presupuesto de tu hogar y de tu negocio.
+En MINIMARKET LA PAPITA combinamos variedad exhaustiva con precios de escala mayorista que protegen el presupuesto de tu hogar y de tu negocio.
 
 7. ¿Qué opciones de productos lácteos y embutidos regionales ofrecen en el local?
 Mantenemos vitrinas refrigeradas provistas de quesos mantecosos cajamarquinos, queso fresco pasteurizado, queso tipo suizo, mantequilla de vaca y manjar blanco.
@@ -75,12 +75,12 @@ En el sector de embutidos disponemos de jamón del país, cecina ahumada, salchi
 
 Son productos cuidadosamente resguardados a baja temperatura para preservar su textura, sabor lácteo y valor nutricional intactos.
 
-8. ¿A cuántos minutos o metros queda la ubicación desde Baños del Inca?
-Nos encontramos a una distancia calculada de 3.55 kilómetros respecto a Baños del Inca, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
+8. ¿A cuántos minutos o metros queda la ubicación desde Mercado Central?
+Nos encontramos a una distancia calculada de 2.40 kilómetros respecto a Mercado Central, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
 
 Para quienes se trasladan a pie, el trayecto toma pocos minutos transitando por vías iluminadas y seguras del sector, mientras que en mototaxi o transporte urbano el viaje se realiza de forma sumamente veloz.
 
-Nuestra ubicación en Jr. Marina Rojas, Cajamarca 06003 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
+Nuestra ubicación en +51, Cajamarca 06001 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
 
 9. ¿Disponen de carritos de compra y facilidades de desplazamiento en los pasillos?
 Nuestras instalaciones cuentan con pasillos amplios, bien iluminados y limpios que permiten una circulación cómoda y fluida durante tus compras.
@@ -96,12 +96,12 @@ Disponemos además de implementos como escobas, trapeadores, recogedores, guante
 
 Podrás abastecerte de todo lo indispensable para la higiene y sanitización integral de tu vivienda o establecimiento gastronómico.
 
-11. ¿Cómo llegar de manera rápida desde las inmediaciones de Mercado San Sebastián?
-Nos encontramos a una distancia calculada de 3.69 kilómetros respecto a Mercado San Sebastián, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
+11. ¿Cómo llegar de manera rápida desde las inmediaciones de Plaza de Armas?
+Nos encontramos a una distancia calculada de 2.62 kilómetros respecto a Plaza de Armas, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
 
 Para quienes se trasladan a pie, el trayecto toma pocos minutos transitando por vías iluminadas y seguras del sector, mientras que en mototaxi o transporte urbano el viaje se realiza de forma sumamente veloz.
 
-Nuestra ubicación en Jr. Marina Rojas, Cajamarca 06003 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
+Nuestra ubicación en +51, Cajamarca 06001 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
 
 12. ¿Ofrecen promociones especiales, combos de fin de semana o descuentos por volumen?
 Lanzamos ofertas periódicas en cortes seleccionados de carnes, combos de verduras y descuentos especiales en abarrotes durante fines de semana y quincenas.
@@ -118,11 +118,11 @@ Cerramos nuestras puertas en horarios vespertinos cómodos para que puedas reali
 Mantenemos horarios regulares en días feriados para garantizar el suministro ininterrumpido de alimentos en la ciudad.
 
 14. ¿Qué tan cerca se sitúa el local del punto de referencia Centro Comercial Real Plaza?
-Nos encontramos a una distancia calculada de 3.96 kilómetros respecto a Centro Comercial Real Plaza, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
+Nos encontramos a una distancia calculada de 2.67 kilómetros respecto a Centro Comercial Real Plaza, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
 
 Para quienes se trasladan a pie, el trayecto toma pocos minutos transitando por vías iluminadas y seguras del sector, mientras que en mototaxi o transporte urbano el viaje se realiza de forma sumamente veloz.
 
-Nuestra ubicación en Jr. Marina Rojas, Cajamarca 06003 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
+Nuestra ubicación en +51, Cajamarca 06001 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
 
 15. ¿Cuáles son los medios de pago aceptados en caja para mayor comodidad?
 Aceptamos pagos con tarjetas de débito y crédito de todas las redes bancarias mediante terminales POS seguros y rápidos.
@@ -136,7 +136,7 @@ Efectuamos labores continuas de limpieza y sanitización de pisos, mostradores, 
 
 Nuestro personal manipula carnes y alimentos perecibles utilizando indumentaria reglamentaria como mandiles limpios, guantes, cofias y mascarillas protectoras.
 
-En Minimarket El Jacal la seguridad higiénica de los alimentos que llegan a tu mesa es un principio riguroso e inquebrantable.
+En MINIMARKET LA PAPITA la seguridad higiénica de los alimentos que llegan a tu mesa es un principio riguroso e inquebrantable.
 
 17. ¿Brindan servicio de entrega a domicilio para compras de gran volumen?
 Coordinamos despachos de compras voluminosas directamente a tu domicilio, restaurante o negocio en la ciudad de Cajamarca.
@@ -164,6 +164,6 @@ Para solicitar cotizaciones al por mayor, consultar la disponibilidad de cortes 
 
 Te atenderemos con rapidez y cortesía, brindándote información clara y reservando tus productos para que ahorres tiempo al venir a tienda.
 
-En Minimarket El Jacal estamos listos para atenderte con la calidad, variedad y buenos precios que tu familia merece.
+En MINIMARKET LA PAPITA estamos listos para atenderte con la calidad, variedad y buenos precios que tu familia merece.
 
 ================================================================================

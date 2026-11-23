@@ -1,25 +1,25 @@
-Nombre: INFOTEC COMPANY EIRL
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Nombre: kali soluciones graficas
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Diseno_e_Impresion
+Subrubro: Imprentas_y_Gigantografias
 Categoría Maps: Comercio
-Dirección: Jr. Guillermo Urrelo N°1006, Cajamarca 06000
-Teléfono: 950 963 782
-Rating: 
-Reseñas: 
+Dirección: Av. Atahualpa 880, Cajamarca 06002
+Teléfono: (076) 357236
+Rating: 4
+Reseñas: 1
 Sitio web: 
-Latitud: -7.1570342
-Longitud: -78.513803
-Google Maps: https://www.google.com/maps?cid=11607910087971671168
-Place Id: ChIJ2VYo5UdbspERgIw5QrmUF6E
-Fotos: INFOTEC COMPANY EIRL.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfcVUxYJWyORiidTDwb92NO2A1rnU2sCZypi5tg2ZNJCzGbQ2dxKMRE7SPfOFsK19FnVv3XzOCsp0V6bvHzUBNsG1VccC8OfcbcO7oYyvbk6-M1exYrvRi3HY2Rl6Y9_CL9wcWe=w1600-h1200-k-no
+Latitud: -7.1654452
+Longitud: -78.49945819999999
+Google Maps: https://www.google.com/maps?cid=8150213775183336271
+Place Id: ChIJQYNBoh9bspERT1NMMT9gG3E
+Fotos: kali soluciones graficas.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Y1krvH_P3YO3LbvN94EdnQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=350.02203&pitch=0&thumbfov=100
 Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-¡Te damos la más cordial bienvenida a INFOTEC COMPANY EIRL! Situados en Jr. Guillermo Urrelo N°1006, Cajamarca 06000, somos tu punto de confianza en Cajamarca para el abastecimiento diario de abarrotes, bebidas heladas, lácteos frescos y artículos de aseo para el hogar. Ofrecemos atención rápida, marcas de primera calidad, pagos digitales con Yape y Plin sin comisiones y servicio de delivery para los vecinos del barrio. Haz tus pedidos o consultas escribiéndonos directamente al WhatsApp hoy mismo.
+¡Te damos la más cordial bienvenida a kali soluciones graficas! Situados en Av. Atahualpa 880, Cajamarca 06002, somos tu punto de confianza en Cajamarca para el abastecimiento diario de abarrotes, bebidas heladas, lácteos frescos y artículos de aseo para el hogar. Ofrecemos atención rápida, marcas de primera calidad, pagos digitales con Yape y Plin sin comisiones y servicio de delivery para los vecinos del barrio. Haz tus pedidos o consultas escribiéndonos directamente al WhatsApp hoy mismo.
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -31,14 +31,14 @@ Contamos con un surtido permanente de abarrotes esenciales como arroz superior, 
 
 Trabajamos exclusivamente con marcas formales de amplia confianza que garantizan frescura, empaques intactos y fechas de vencimiento cuidadosamente verificadas en cada reposición.
 
-En INFOTEC COMPANY EIRL cuidamos la economía de las familias cajamarquinas ofreciendo precios sumamente competitivos tanto en compras por unidad como en paquetes familiares.
+En kali soluciones graficas cuidamos la economía de las familias cajamarquinas ofreciendo precios sumamente competitivos tanto en compras por unidad como en paquetes familiares.
 
-2. ¿A qué distancia se encuentra la tienda respecto a Cuarto del Rescate?
-Nos encontramos a una distancia calculada de 363 metros respecto a Cuarto del Rescate, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
+2. ¿A qué distancia se encuentra la tienda respecto a Terminal Terrestre de Cajamarca?
+Nos encontramos a una distancia calculada de 167 metros respecto a Terminal Terrestre de Cajamarca, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
 
 Para quienes se trasladan a pie, el trayecto toma pocos minutos transitando por vías iluminadas y seguras del sector, mientras que en mototaxi o transporte urbano el viaje se realiza de forma sumamente veloz.
 
-Nuestra ubicación en Jr. Guillermo Urrelo N°1006, Cajamarca 06000 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
+Nuestra ubicación en Av. Atahualpa 880, Cajamarca 06002 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
 
 3. ¿Ofrecen bebidas frías, gaseosas, aguas y cervezas listas para consumir?
 Mantenemos vitrinas refrigeradas encendidas continuamente para que encuentres gaseosas, aguas minerales, rehidratantes, jugos de fruta y cervezas a temperatura perfectamente helada.
@@ -54,19 +54,19 @@ Encontrarás pan francés crujiente, pan de agua, pan de yema y bizcochos fresco
 
 Cuidamos el almacenamiento en recipientes cubiertos e higiénicos para preservar la textura crocante y el sabor recién horneado.
 
-5. ¿Cuál es el tiempo de traslado y recorrido hacia Plaza de Armas?
-Nos encontramos a una distancia calculada de 404 metros respecto a Plaza de Armas, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
+5. ¿Cuál es el tiempo de traslado y recorrido hacia Universidad Nacional de Cajamarca (UNC)?
+Nos encontramos a una distancia calculada de 405 metros respecto a Universidad Nacional de Cajamarca (UNC), facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
 
 Para quienes se trasladan a pie, el trayecto toma pocos minutos transitando por vías iluminadas y seguras del sector, mientras que en mototaxi o transporte urbano el viaje se realiza de forma sumamente veloz.
 
-Nuestra ubicación en Jr. Guillermo Urrelo N°1006, Cajamarca 06000 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
+Nuestra ubicación en Av. Atahualpa 880, Cajamarca 06002 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
 
 6. ¿Qué opciones de lácteos y quesos cajamarquinos tienen para el consumo diario?
 Ofrecemos leche fresca pasteurizada, mantequilla pura de vaca con y sin sal, yogures variados y el infaltable queso mantecoso tradicional de productores de la campiña.
 
 Nuestros lácteos provienen de establos y queserías locales que garantizan un sabor auténtico y altos estándares de salubridad e inocuidad.
 
-En INFOTEC COMPANY EIRL nos esmeramos por acercarte lo mejor del campo cajamarquino a la mesa de tu hogar todos los días.
+En kali soluciones graficas nos esmeramos por acercarte lo mejor del campo cajamarquino a la mesa de tu hogar todos los días.
 
 7. ¿Cuentan con servicio de agente bancario para retiros y depósitos rápidos?
 Operamos con terminales de agentes bancarios autorizados que te permiten realizar depósitos, retiros de efectivo, transferencias y pago de servicios básicos como agua, luz o telefonía.
@@ -75,12 +75,12 @@ Esta facilidad te permite realizar tus transacciones financieras cotidianas de m
 
 Nuestro personal te asiste con total paciencia y discreción para que realices tus pagos y movimientos con completa tranquilidad.
 
-8. ¿A cuántos minutos o metros queda la ubicación desde Complejo Monumental Belén?
-Nos encontramos a una distancia calculada de 409 metros respecto a Complejo Monumental Belén, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
+8. ¿A cuántos minutos o metros queda la ubicación desde Centro Comercial Real Plaza?
+Nos encontramos a una distancia calculada de 1.39 kilómetros respecto a Centro Comercial Real Plaza, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
 
 Para quienes se trasladan a pie, el trayecto toma pocos minutos transitando por vías iluminadas y seguras del sector, mientras que en mototaxi o transporte urbano el viaje se realiza de forma sumamente veloz.
 
-Nuestra ubicación en Jr. Guillermo Urrelo N°1006, Cajamarca 06000 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
+Nuestra ubicación en Av. Atahualpa 880, Cajamarca 06002 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
 
 9. ¿Qué artículos de aseo personal y limpieza del hogar mantienen en góndola?
 Disponemos de detergentes en polvo y líquidos, lejía, desinfectantes aromáticos, jabones de lavar, suavizantes de ropa, esponjas y bolsas para residuos.
@@ -96,12 +96,12 @@ Puedes enviar tu lista completa de compras por mensaje de WhatsApp y preparamos 
 
 El pago lo puedes realizar contra entrega en efectivo o mediante transferencia digital para tu absoluta comodidad.
 
-11. ¿Cómo llegar de manera rápida desde las inmediaciones de Mercado Central?
-Nos encontramos a una distancia calculada de 464 metros respecto a Mercado Central, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
+11. ¿Cómo llegar de manera rápida desde las inmediaciones de Mercado San Sebastián?
+Nos encontramos a una distancia calculada de 1.39 kilómetros respecto a Mercado San Sebastián, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
 
 Para quienes se trasladan a pie, el trayecto toma pocos minutos transitando por vías iluminadas y seguras del sector, mientras que en mototaxi o transporte urbano el viaje se realiza de forma sumamente veloz.
 
-Nuestra ubicación en Jr. Guillermo Urrelo N°1006, Cajamarca 06000 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
+Nuestra ubicación en Av. Atahualpa 880, Cajamarca 06002 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
 
 12. ¿Qué alternativas de golosinas, chocolates y snacks tienen para los pequeños?
 Mantenemos un amplio catálogo de galletas dulces y saladas, chocolates, caramelos, chupetines, gomitas, papitas fritas, chifles y frutos secos embolsados.
@@ -117,12 +117,12 @@ Atendemos de lunes a domingo de forma ininterrumpida, facilitando que siempre en
 
 En feriados y días festivos mantenemos atención operativa para asistirte en cualquier necesidad imprevista del hogar.
 
-14. ¿Qué tan cerca se sitúa el local del punto de referencia Mercado Modelo?
-Nos encontramos a una distancia calculada de 548 metros respecto a Mercado Modelo, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
+14. ¿Qué tan cerca se sitúa el local del punto de referencia Complejo Monumental Belén?
+Nos encontramos a una distancia calculada de 2.04 kilómetros respecto a Complejo Monumental Belén, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
 
 Para quienes se trasladan a pie, el trayecto toma pocos minutos transitando por vías iluminadas y seguras del sector, mientras que en mototaxi o transporte urbano el viaje se realiza de forma sumamente veloz.
 
-Nuestra ubicación en Jr. Guillermo Urrelo N°1006, Cajamarca 06000 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
+Nuestra ubicación en Av. Atahualpa 880, Cajamarca 06002 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
 
 15. ¿Aceptan pagos con billeteras digitales como Yape y Plin sin recargo?
 Aceptamos pagos directos mediante códigos QR de Yape y Plin para cualquier monto de compra sin aplicar comisiones ni recargos adicionales.
@@ -136,7 +136,7 @@ Mantenemos protocolos estrictos de limpieza diaria en estantes, refrigeradoras y
 
 Separamos rigurosamente los productos alimenticios de los artículos químicos de limpieza para evitar cualquier riesgo de contaminación cruzada.
 
-En INFOTEC COMPANY EIRL la pulcritud y el cuidado sanitario de cada producto que llevas a tu familia son compromisos prioritarios.
+En kali soluciones graficas la pulcritud y el cuidado sanitario de cada producto que llevas a tu familia son compromisos prioritarios.
 
 17. ¿Venden tarjetas prepago o recargas de saldo para teléfonos móviles?
 Realizamos recargas virtuales instantáneas para todas las compañías de telefonía móvil que operan a nivel nacional, incluyendo Claro, Movistar, Entel y Bitel.
@@ -164,6 +164,6 @@ Para realizar consultas sobre disponibilidad de marcas, encargar tus compras ant
 
 Te responderemos de manera pronta y cordial, confirmando el valor de tu pedido y alistando tus productos para que ahorres tiempo.
 
-En INFOTEC COMPANY EIRL estamos a tu entera disposición para hacer tu abastecimiento diario más cómodo, ágil y confiable.
+En kali soluciones graficas estamos a tu entera disposición para hacer tu abastecimiento diario más cómodo, ágil y confiable.
 
 ================================================================================

@@ -1,24 +1,25 @@
-Nombre: Grupo Multiservis
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Nombre: Plásticos y Descartables Biodegradables. PLAST MANIC
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Joyerias_y_Detalles
+Subrubro: Bazares_y_Regalos
 Categoría Maps: Comercio
-Dirección: Lotización Agrobank, Jirón, Huacariz cuadra 3, Cajamarca
-Teléfono: 957 143 895
-Rating: 4.2
-Reseñas: 18
-Sitio web: https://www.facebook.com/Taximultiservis
-Latitud: -7.1873078999999995
-Longitud: -78.4925626
-Google Maps: https://www.google.com/maps?cid=10026709894631238697
-Place Id: ChIJr73DCT1bspERKaxjf4YHJos
-Fotos: Grupo Multiservis.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdJMu7Jv8tvMGyfPdd7BoKrg3WILlQgvLgiOPlJQWC0dHh-vu-2wI3GgcsOgyIrqGqTB6sL9nOkdBnqJeKtZE9wpojWT_kFjjxtG9K9pr5aTZXRx6humk-CibpH3W-EvfxbZbLf=w1600-h1200-k-no
+Dirección: Contamana 325, Cajamarca 06001
+Teléfono: 976 971 414
+Rating: 5
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1450133
+Longitud: -78.5237191
+Google Maps: https://www.google.com/maps?cid=14080803066020151255
+Place Id: ChIJG3uJMgBbspER179cBskPacM
+Fotos: Plásticos y Descartables Biodegradables. PLAST MANIC.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdkNzZCORDLXkLjQBgIkQQ8ujXzKztjiXiCTn6mi0I2JwouqRItlx9ribmza9GyBD1vZoYd5RtDiKDn90GlDyqeONDeAhpU3pVSIIoPb6Zg0GbRY0uopACk64u03kgHISADaWhB8g=w1600-h1200-k-no
+Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-¡Te damos la más cordial bienvenida a Grupo Multiservis! Situados en Lotización Agrobank, Jirón, Huacariz cuadra 3, Cajamarca, somos tu punto de confianza en Cajamarca para el abastecimiento diario de abarrotes, bebidas heladas, lácteos frescos y artículos de aseo para el hogar. Ofrecemos atención rápida, marcas de primera calidad, pagos digitales con Yape y Plin sin comisiones y servicio de delivery para los vecinos del barrio. Haz tus pedidos o consultas escribiéndonos directamente al WhatsApp hoy mismo.
+¡Te damos la más cordial bienvenida a Plásticos y Descartables Biodegradables. PLAST MANIC! Situados en Contamana 325, Cajamarca 06001, somos tu punto de confianza en Cajamarca para el abastecimiento diario de abarrotes, bebidas heladas, lácteos frescos y artículos de aseo para el hogar. Ofrecemos atención rápida, marcas de primera calidad, pagos digitales con Yape y Plin sin comisiones y servicio de delivery para los vecinos del barrio. Haz tus pedidos o consultas escribiéndonos directamente al WhatsApp hoy mismo.
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -30,14 +31,14 @@ Contamos con un surtido permanente de abarrotes esenciales como arroz superior, 
 
 Trabajamos exclusivamente con marcas formales de amplia confianza que garantizan frescura, empaques intactos y fechas de vencimiento cuidadosamente verificadas en cada reposición.
 
-En Grupo Multiservis cuidamos la economía de las familias cajamarquinas ofreciendo precios sumamente competitivos tanto en compras por unidad como en paquetes familiares.
+En Plásticos y Descartables Biodegradables. PLAST MANIC cuidamos la economía de las familias cajamarquinas ofreciendo precios sumamente competitivos tanto en compras por unidad como en paquetes familiares.
 
-2. ¿A qué distancia se encuentra la tienda respecto a Universidad Nacional de Cajamarca (UNC)?
-Nos encontramos a una distancia calculada de 2.17 kilómetros respecto a Universidad Nacional de Cajamarca (UNC), facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
+2. ¿A qué distancia se encuentra la tienda respecto a Mercado Modelo?
+Nos encontramos a una distancia calculada de 1.20 kilómetros respecto a Mercado Modelo, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
 
 Para quienes se trasladan a pie, el trayecto toma pocos minutos transitando por vías iluminadas y seguras del sector, mientras que en mototaxi o transporte urbano el viaje se realiza de forma sumamente veloz.
 
-Nuestra ubicación en Lotización Agrobank, Jirón, Huacariz cuadra 3, Cajamarca te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
+Nuestra ubicación en Contamana 325, Cajamarca 06001 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
 
 3. ¿Ofrecen bebidas frías, gaseosas, aguas y cervezas listas para consumir?
 Mantenemos vitrinas refrigeradas encendidas continuamente para que encuentres gaseosas, aguas minerales, rehidratantes, jugos de fruta y cervezas a temperatura perfectamente helada.
@@ -53,19 +54,19 @@ Encontrarás pan francés crujiente, pan de agua, pan de yema y bizcochos fresco
 
 Cuidamos el almacenamiento en recipientes cubiertos e higiénicos para preservar la textura crocante y el sabor recién horneado.
 
-5. ¿Cuál es el tiempo de traslado y recorrido hacia Terminal Terrestre de Cajamarca?
-Nos encontramos a una distancia calculada de 2.46 kilómetros respecto a Terminal Terrestre de Cajamarca, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
+5. ¿Cuál es el tiempo de traslado y recorrido hacia Mercado Central?
+Nos encontramos a una distancia calculada de 1.31 kilómetros respecto a Mercado Central, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
 
 Para quienes se trasladan a pie, el trayecto toma pocos minutos transitando por vías iluminadas y seguras del sector, mientras que en mototaxi o transporte urbano el viaje se realiza de forma sumamente veloz.
 
-Nuestra ubicación en Lotización Agrobank, Jirón, Huacariz cuadra 3, Cajamarca te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
+Nuestra ubicación en Contamana 325, Cajamarca 06001 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
 
 6. ¿Qué opciones de lácteos y quesos cajamarquinos tienen para el consumo diario?
 Ofrecemos leche fresca pasteurizada, mantequilla pura de vaca con y sin sal, yogures variados y el infaltable queso mantecoso tradicional de productores de la campiña.
 
 Nuestros lácteos provienen de establos y queserías locales que garantizan un sabor auténtico y altos estándares de salubridad e inocuidad.
 
-En Grupo Multiservis nos esmeramos por acercarte lo mejor del campo cajamarquino a la mesa de tu hogar todos los días.
+En Plásticos y Descartables Biodegradables. PLAST MANIC nos esmeramos por acercarte lo mejor del campo cajamarquino a la mesa de tu hogar todos los días.
 
 7. ¿Cuentan con servicio de agente bancario para retiros y depósitos rápidos?
 Operamos con terminales de agentes bancarios autorizados que te permiten realizar depósitos, retiros de efectivo, transferencias y pago de servicios básicos como agua, luz o telefonía.
@@ -74,12 +75,12 @@ Esta facilidad te permite realizar tus transacciones financieras cotidianas de m
 
 Nuestro personal te asiste con total paciencia y discreción para que realices tus pagos y movimientos con completa tranquilidad.
 
-8. ¿A cuántos minutos o metros queda la ubicación desde Mercado San Sebastián?
-Nos encontramos a una distancia calculada de 3.43 kilómetros respecto a Mercado San Sebastián, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
+8. ¿A cuántos minutos o metros queda la ubicación desde Plaza de Armas?
+Nos encontramos a una distancia calculada de 1.50 kilómetros respecto a Plaza de Armas, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
 
 Para quienes se trasladan a pie, el trayecto toma pocos minutos transitando por vías iluminadas y seguras del sector, mientras que en mototaxi o transporte urbano el viaje se realiza de forma sumamente veloz.
 
-Nuestra ubicación en Lotización Agrobank, Jirón, Huacariz cuadra 3, Cajamarca te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
+Nuestra ubicación en Contamana 325, Cajamarca 06001 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
 
 9. ¿Qué artículos de aseo personal y limpieza del hogar mantienen en góndola?
 Disponemos de detergentes en polvo y líquidos, lejía, desinfectantes aromáticos, jabones de lavar, suavizantes de ropa, esponjas y bolsas para residuos.
@@ -95,12 +96,12 @@ Puedes enviar tu lista completa de compras por mensaje de WhatsApp y preparamos 
 
 El pago lo puedes realizar contra entrega en efectivo o mediante transferencia digital para tu absoluta comodidad.
 
-11. ¿Cómo llegar de manera rápida desde las inmediaciones de Centro Comercial Real Plaza?
-Nos encontramos a una distancia calculada de 3.91 kilómetros respecto a Centro Comercial Real Plaza, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
+11. ¿Cómo llegar de manera rápida desde las inmediaciones de Cuarto del Rescate?
+Nos encontramos a una distancia calculada de 1.60 kilómetros respecto a Cuarto del Rescate, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
 
 Para quienes se trasladan a pie, el trayecto toma pocos minutos transitando por vías iluminadas y seguras del sector, mientras que en mototaxi o transporte urbano el viaje se realiza de forma sumamente veloz.
 
-Nuestra ubicación en Lotización Agrobank, Jirón, Huacariz cuadra 3, Cajamarca te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
+Nuestra ubicación en Contamana 325, Cajamarca 06001 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
 
 12. ¿Qué alternativas de golosinas, chocolates y snacks tienen para los pequeños?
 Mantenemos un amplio catálogo de galletas dulces y saladas, chocolates, caramelos, chupetines, gomitas, papitas fritas, chifles y frutos secos embolsados.
@@ -116,12 +117,12 @@ Atendemos de lunes a domingo de forma ininterrumpida, facilitando que siempre en
 
 En feriados y días festivos mantenemos atención operativa para asistirte en cualquier necesidad imprevista del hogar.
 
-14. ¿Qué tan cerca se sitúa el local del punto de referencia Complejo Monumental Belén?
-Nos encontramos a una distancia calculada de 4.11 kilómetros respecto a Complejo Monumental Belén, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
+14. ¿Qué tan cerca se sitúa el local del punto de referencia MegaPlaza Cajamarca?
+Nos encontramos a una distancia calculada de 1.65 kilómetros respecto a MegaPlaza Cajamarca, facilitando una llegada directa y sin desvíos tanto para peatones como para clientes en movilidad particular.
 
 Para quienes se trasladan a pie, el trayecto toma pocos minutos transitando por vías iluminadas y seguras del sector, mientras que en mototaxi o transporte urbano el viaje se realiza de forma sumamente veloz.
 
-Nuestra ubicación en Lotización Agrobank, Jirón, Huacariz cuadra 3, Cajamarca te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
+Nuestra ubicación en Contamana 325, Cajamarca 06001 te permite realizar tus compras cotidianas de abarrotes y provisiones combinando tus visitas a otros puntos estratégicos de Cajamarca.
 
 15. ¿Aceptan pagos con billeteras digitales como Yape y Plin sin recargo?
 Aceptamos pagos directos mediante códigos QR de Yape y Plin para cualquier monto de compra sin aplicar comisiones ni recargos adicionales.
@@ -135,7 +136,7 @@ Mantenemos protocolos estrictos de limpieza diaria en estantes, refrigeradoras y
 
 Separamos rigurosamente los productos alimenticios de los artículos químicos de limpieza para evitar cualquier riesgo de contaminación cruzada.
 
-En Grupo Multiservis la pulcritud y el cuidado sanitario de cada producto que llevas a tu familia son compromisos prioritarios.
+En Plásticos y Descartables Biodegradables. PLAST MANIC la pulcritud y el cuidado sanitario de cada producto que llevas a tu familia son compromisos prioritarios.
 
 17. ¿Venden tarjetas prepago o recargas de saldo para teléfonos móviles?
 Realizamos recargas virtuales instantáneas para todas las compañías de telefonía móvil que operan a nivel nacional, incluyendo Claro, Movistar, Entel y Bitel.
@@ -163,6 +164,6 @@ Para realizar consultas sobre disponibilidad de marcas, encargar tus compras ant
 
 Te responderemos de manera pronta y cordial, confirmando el valor de tu pedido y alistando tus productos para que ahorres tiempo.
 
-En Grupo Multiservis estamos a tu entera disposición para hacer tu abastecimiento diario más cómodo, ágil y confiable.
+En Plásticos y Descartables Biodegradables. PLAST MANIC estamos a tu entera disposición para hacer tu abastecimiento diario más cómodo, ágil y confiable.
 
 ================================================================================
