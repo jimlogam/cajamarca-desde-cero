@@ -18,3 +18,24 @@ Ventana del dueño para ver el trabajo: todo lo que se construye de Cajamarca vi
 - El dueño edita o sube cambios en este repo → Fuertin los clona a su servidor antes de trabajar.
 - Fuertin trabaja en su servidor → sube cada avance a este repo.
 - El repo es el espejo compartido: lo que se ve aquí es lo que hay.
+
+## Lote RUBROOK — 10 fichas verificadas (2026-11-23)
+
+Los 10 archivos `*-TRAB.TXT` de la carpeta **EDEN DODNE VIVEN LAS TIENDAS** (`1miTUHaViVeT6PSIUCHX1O_11JyPHBHDK`) fueron analizados contra la guía de rubros (`INDICE_TAXONOMIA.md`), corregidos y renombrados a `*-RUBROOK.TXT` **sobre el mismo archivo original**, de modo que no queda ningún archivo antiguo al lado.
+
+| Negocio | Rubro verificado | Bytes |
+|---|---|---|
+| Farmaexpres | 04_Salud/Farmacia_y_Laboratorio/Farmacias_y_Boticas | 20.160 |
+| DJR IMPRESIONES | 10_ServProf/Diseno_e_Impresion/Imprentas_y_Gigantografias | 16.940 |
+| DISTRIBUIDORA LAZOS | 06_Comercio/Libreria_y_Juegos/Librerias_y_Papelerias | 15.330 |
+| Casa Bonita Hostal Boutique | 12_Turismo/Alojamiento/Hostales_y_Residenciales | 12.101 |
+| Casa Hacienda Hotel Boutique | 12_Turismo/Alojamiento/Hoteles | 13.372 |
+| Ghinza Hotel, Sauna y Spa | 12_Turismo/Alojamiento/Hoteles | 12.354 |
+| Allq'u Pet Barber Shop | 16_Agro/Mascotas_y_Veterinaria/Bano_y_Peluqueria_Canina | 17.024 |
+| Consultorio Medico Biológico Y Farmacia Verde | 04_Salud/Farmacia_y_Laboratorio/Farmacias_y_Boticas | 21.491 |
+| Abogada Civil y de Familia (Katherine Alfaro) | 10_ServProf/Legal_y_Notarial/Estudios_Juridicos_Abogados | 16.350 |
+| Estudio Flores y Asociados | 10_ServProf/Finanzas_y_Tributos/Estudios_Contables_y_Tributarios | 15.929 |
+
+Los 10 pasaron validación byte a byte contra `.work/out/` (copia de control en el repo): taxonomía válida en el árbol de 160 subrubros, 20 preguntas y respuestas, bienvenida de 50 a 80 palabras y cierre con la regla `=`.
+
+Nota técnica: los originales pertenecen a otra cuenta de Drive, por lo que la app puede editar contenido y renombrar, pero **no borrar** (`can_delete`/`can_trash` = false). Por eso se reescribió el contenido dentro del mismo archivo y se renombró, en lugar de subir una copia nueva y eliminar la vieja.
