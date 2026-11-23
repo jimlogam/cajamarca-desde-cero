@@ -1,7 +1,7 @@
 Nombre: ◇CLINICA DE AUTOS CAJAMARCA◇
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Taller mecánico, Servicio de reparación de aire acondicionado, Pintura de automóviles, Taller de reparación de motores diésel, Establecimiento de reparación de artículos electrónicos, Taller de reparación de automóviles, Tienda de repuestos para coches de carreras
 Dirección: Jr. Misión Bautista 879, Cajamarca 06003
 Teléfono: 905 576 163
