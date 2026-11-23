@@ -1,7 +1,7 @@
 Nombre: ASANA: Ajustes y alineamientos-CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Bienestar_Terapeutico
+Subrubro: Fisioterapia_y_Rehabilitacion
 Categoría Maps: Quiropráctico
 Dirección: 06001, Jirón Huánuco 1571, Cajamarca 06001
 Teléfono: 949 898 150

@@ -1,7 +1,7 @@
 Nombre: policlinico bautista
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Médico de medicina general
 Dirección: Cajamarca 06001
 Teléfono: 976 494 040

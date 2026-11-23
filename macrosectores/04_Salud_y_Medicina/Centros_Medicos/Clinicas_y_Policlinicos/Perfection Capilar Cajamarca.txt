@@ -1,7 +1,7 @@
 Nombre: Perfection Capilar Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Clínica de trasplante capilar
 Dirección: San Roque 246, Cajamarca 06001
 Teléfono: 968 825 750

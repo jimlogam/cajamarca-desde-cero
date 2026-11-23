@@ -1,7 +1,7 @@
 Nombre: Relax & Restore - Fisioterapia y Rehabilitación Cajamarca.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Bienestar_Terapeutico
+Subrubro: Fisioterapia_y_Rehabilitacion
 Categoría Maps: Centro de rehabilitación física
 Dirección: Jirón Ayacucho 753, Cajamarca 06002
 Teléfono: 994 348 339

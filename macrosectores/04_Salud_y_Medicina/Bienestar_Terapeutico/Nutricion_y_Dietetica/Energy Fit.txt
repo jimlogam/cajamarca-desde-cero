@@ -1,7 +1,7 @@
 Nombre: Energy Fit
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Bienestar_Terapeutico
+Subrubro: Nutricion_y_Dietetica
 Categoría Maps: Tienda de vitaminas y suplementos
 Dirección: Jr.Amazonas 207, Cajamarca 06000
 Teléfono: 953 236 610

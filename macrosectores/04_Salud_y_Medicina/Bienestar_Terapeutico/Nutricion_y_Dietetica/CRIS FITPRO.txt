@@ -1,7 +1,7 @@
 Nombre: CRIS FITPRO
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Bienestar_Terapeutico
+Subrubro: Nutricion_y_Dietetica
 Categoría Maps: Tienda de vitaminas y suplementos
 Dirección: Av. Héroes de San Ramón 646, Cajamarca 06002
 Teléfono: 990 221 605

@@ -1,7 +1,7 @@
 Nombre: CENTRO PSICOTERAPEUTICO SEMILLA DE VIDA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Bienestar_Terapeutico
+Subrubro: Psicologia_y_Salud_Mental
 Categoría Maps: Psicoterapeuta, Servicio de salud mental
 Dirección: CALLE MANUEL ELKIN, Cajamarca 06001
 Teléfono: 941 974 485

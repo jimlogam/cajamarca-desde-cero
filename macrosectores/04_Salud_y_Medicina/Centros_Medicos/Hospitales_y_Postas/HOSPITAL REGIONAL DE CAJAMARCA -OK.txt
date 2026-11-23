@@ -1,7 +1,7 @@
 Nombre: HOSPITAL REGIONAL DE CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Hospitales_y_Postas
 Categoría Maps: Hospital general
 Dirección: Av Larry Jhonson 775, Cajamarca 06003
 Teléfono: (076) 822414

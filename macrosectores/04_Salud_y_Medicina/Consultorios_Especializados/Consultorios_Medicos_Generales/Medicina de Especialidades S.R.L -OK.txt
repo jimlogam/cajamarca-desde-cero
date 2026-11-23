@@ -1,7 +1,7 @@
 Nombre: Medicina de Especialidades S.R.L
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Consultorios_Especializados
+Subrubro: Consultorios_Medicos_Generales
 Categoría Maps: Médico de familia
 Dirección: Jirón Las Casuarinas 640, Cajamarca 06001
 Teléfono: 

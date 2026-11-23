@@ -1,7 +1,7 @@
 Nombre: Botica Galán
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Farmacias_y_Boticas
 Categoría Maps: Distribuidor al por mayor de medicamentos
 Dirección: Jr, Prol. Revilla Perez 501, Cajamarca 06001
 Teléfono: 921 310 787

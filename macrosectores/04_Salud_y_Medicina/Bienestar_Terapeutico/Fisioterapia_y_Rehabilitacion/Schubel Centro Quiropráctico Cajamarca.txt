@@ -1,7 +1,7 @@
 Nombre: Schubel Centro Quiropráctico Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Bienestar_Terapeutico
+Subrubro: Fisioterapia_y_Rehabilitacion
 Categoría Maps: Quiropráctico
 Dirección: esquina con pasaje Cumulca (a media cuadra del óvalo, Av. Mario Urteaga B14, Cajamarca 06002
 Teléfono: 933 693 358

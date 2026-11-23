@@ -1,7 +1,7 @@
 Nombre: CLINICA DEL RIÑON CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Centro médico
 Dirección: Túpac Amaru N° 1421, Cajamarca 06003
 Teléfono: 947 337 986

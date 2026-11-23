@@ -1,7 +1,7 @@
 Nombre: Clínica Limatambo Cajamarca – Sede Puno
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Hospital
 Dirección: Jirón Puno 265, Cajamarca 06001
 Teléfono: 996 593 998

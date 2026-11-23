@@ -1,7 +1,7 @@
 Nombre: CHUQUI TATTOO STUDIO CAJAMARCA
-Macro-Sector: 04_Salud_y_Medicina
-Rubro: Bienestar_Terapeutico
-Subrubro: Podologia
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cosmetica_y_Arte
+Subrubro: Tatuajes_y_Piercings
 Categoría Maps: Tienda de piercings y tatuajes, Clínica de maquillaje permanente, Estanco
 Dirección: Amalia Puga 811, Cajamarca 06002
 Teléfono: 901 185 634

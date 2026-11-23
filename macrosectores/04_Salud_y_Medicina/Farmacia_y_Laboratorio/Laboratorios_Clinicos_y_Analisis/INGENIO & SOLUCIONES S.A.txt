@@ -1,7 +1,7 @@
 Nombre: INGENIO & SOLUCIONES S.A.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Farmacia_y_Laboratorio
+Subrubro: Laboratorios_Clinicos_y_Analisis
 Categoría Maps: Laboratorio de análisis clínicos, Soporte y servicios informáticos
 Dirección: Av. Mártires de Uchuraccay 423, Cajamarca 06003
 Teléfono: 978 473 747

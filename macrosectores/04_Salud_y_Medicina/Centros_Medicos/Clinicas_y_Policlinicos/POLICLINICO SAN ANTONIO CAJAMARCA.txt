@@ -1,7 +1,7 @@
 Nombre: POLICLINICO SAN ANTONIO CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Centro de salud comunitario
 Dirección: Cajamarca 06000
 Teléfono: (076) 260882

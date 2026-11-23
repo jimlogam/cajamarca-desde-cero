@@ -1,7 +1,7 @@
 Nombre: Qhaly Kay Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 04_Salud_y_Medicina
+Rubro: Centros_Medicos
+Subrubro: Clinicas_y_Policlinicos
 Categoría Maps: Spa, Tienda de belleza y salud, Clínica de fisioterapia
 Dirección: Jr, El Mutuy Mz C Lt 6, Baños del Inca 06004
 Teléfono: 993 791 598
