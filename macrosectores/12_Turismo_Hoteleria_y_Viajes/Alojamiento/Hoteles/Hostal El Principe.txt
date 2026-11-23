@@ -23,147 +23,145 @@ COPY DE BIENVENIDA (50 A 80 PALABRAS)
 ================================================================================
 
 --------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
+PREGUNTAS FRECUENTES Y RESPUESTAS (ESTÁNDAR MAESTRO)
 --------------------------------------------------------------------------------
 
-1. ¿Qué comodidades y distribución ofrecen las habitaciones privadas para los huéspedes?
-Disponemos de habitaciones individuales, matrimoniales, dobles y familiares diseñadas para asegurar un sueño reparador tras una jornada de excursiones andinas. Cada habitación cuenta con camas ortopédicas vestidas con plumones térmicos antialérgicos y frazadas andinas para neutralizar el frío nocturno.
+1. ¿Qué tipologías de habitaciones y comodidades ofrece Hostal El Principe a sus huéspedes?
+El establecimiento dispone de habitaciones simples para ejecutivos o transportistas, matrimoniales confortables y dobles dotadas de cuarto de baño privado completo con ducha de agua caliente permanente. Cada ambiente ha sido acondicionado con orden y pulcritud para asegurar una estadía placentera.
 
-Todos los dormitorios integran baño privado completo con ducha de agua caliente permanente, toallas limpias de cuerpo y manos, jaboncillos de tocador y televisión por cable.
+Los dormitorios cuentan con televisión de pantalla plana con señal de cable, mesas de noche funcionales, tomas de corriente accesibles para recarga de celulares y roperos para guardar equipaje. Los pisos cerámicos garantizan una higiene rigurosa.
 
-En Hostal El Principe cuidamos la ventilación natural y la desinfección diaria para garantizar un entorno higiénico, fresco y seguro durante toda tu estancia.
+Los colchones ortopédicos aseguran un reposo adecuado para descansar con total tranquilidad tras extensos recorridos por carretera o jornadas laborales en la región.
 
-2. ¿A qué distancia se encuentra el establecimiento respecto a Universidad Nacional de Cajamarca (UNC)?
-Nos encontramos a una distancia calculada de 442 metros respecto a Universidad Nacional de Cajamarca (UNC), permitiendo una llegada sumamente fluida tanto a pie como en transporte urbano o taxi local.
+2. ¿A qué distancia se encuentra la Plaza de Armas de Cajamarca y cuál es la mejor forma de llegar?
+La Plaza de Armas se sitúa a 2.96 kilómetros hacia el noroeste, lo que equivale a un trayecto de aproximadamente 8 a 10 minutos en mototaxi o taxi local por vías fluidas.
 
-Para quienes realizan el recorrido caminando, la ruta transcurre por calles tradicionales andinas y vías comerciales transitadas y seguras durante toda la jornada.
+Para quienes se desplazan en transporte público, sobre la misma Vía de Evitamiento transitan combis y microbuses que conectan de forma rápida y económica con el centro de la ciudad.
 
-Nuestra estratégica y accesible ubicación te permite articular tus paseos culturales y visitas arqueológicas optimizando tiempos de traslado en la ciudad de Cajamarca.
+Esta posición sobre una arteria troncal brinda una excelente conectividad logística, permitiendo salir o ingresar a Cajamarca sin quedar atrapado en el tráfico del casco antiguo.
 
-3. ¿Cómo garantizan el suministro de agua caliente en las duchas?
-Contamos con un sistema de termas de alta capacidad con recirculación continua que asegura agua caliente a temperatura óptima y presión constante las veinticuatro horas del día.
+3. ¿De qué manera opera el suministro de agua caliente en las duchas privadas de las habitaciones?
+El hospedaje cuenta con sistema de termas de agua caliente operativo de forma ininterrumpida las 24 horas del día con flujo regular y buena presión.
 
-Comprendemos que en las mañanas andinas y al caer la tarde, una ducha reconfortante es indispensable para relajarse tras extensos recorridos turísticos.
+El agua caliente llega a la regadera rápidamente, permitiendo un baño tonificante a cualquier hora de la madrugada o noche sin padecer el frío característico de la sierra norteña.
 
-Nuestro personal técnico realiza revisiones preventivas a diario para evitar cualquier corte o alteración térmica en el servicio.
+Se efectúan inspecciones técnicas de rutina en las cañerías para asegurar que no se presenten interrupciones ni descensos bruscos en la temperatura del agua.
 
-4. ¿De qué manera opera la conexión a internet WiFi para teletrabajo o entretenimiento?
-Implementamos una red inalámbrica WiFi de fibra óptica con puntos de acceso estratégicos que ofrecen señal potente y estable en todas las habitaciones y áreas comunes.
+4. ¿Qué implementos térmicos y de abrigo protegen a los huéspedes durante las noches frías?
+Las camas cuentan con juegos de sábanas térmicas de algodón suave, frazadas andinas de lana gruesa y edredones acolchados diseñados para abrigar eficazmente durante las noches andinas.
 
-Podrás participar en reuniones laborales virtuales, revisar correos corporativos o disfrutar de contenidos en streaming desde la tranquilidad de tu cama.
+La edificación ofrece excelente protección contra las corrientes de aire gracias a su carpintería hermética en puertas y ventanas.
 
-Disponemos además de mesas de apoyo e iluminación adecuada en los dormitorios para quienes requieren adelantar informes o coordinar tareas.
+Si algún huésped desea abrigo adicional, el personal de recepción entrega frazadas extras sin ningún costo complementario para asegurar un descanso cálido.
 
-5. ¿Cuál es el tiempo de traslado y recorrido hacia Terminal Terrestre de Cajamarca?
-Nos encontramos a una distancia calculada de 794 metros respecto a Terminal Terrestre de Cajamarca, permitiendo una llegada sumamente fluida tanto a pie como en transporte urbano o taxi local.
+5. ¿Cuál es el tiempo de viaje desde el Terminal Terrestre y desde el Aeropuerto Armando Revoredo?
+Desde el Terminal Terrestre de Cajamarca, situado a solo 804 metros hacia el norte, un taxi o mototaxi toma escasos 2 a 3 minutos, e incluso se puede llegar caminando en unos 10 minutos.
 
-Para quienes realizan el recorrido caminando, la ruta transcurre por calles tradicionales andinas y vías comerciales transitadas y seguras durante toda la jornada.
+Hacia el Aeropuerto Mayor General FAP Armando Revoredo Iglesias la distancia es de 3.72 kilómetros al noreste, lo que representa un trayecto sumamente veloz de 8 a 10 minutos por la vía perimétrica.
 
-Nuestra estratégica y accesible ubicación te permite articular tus paseos culturales y visitas arqueológicas optimizando tiempos de traslado en la ciudad de Cajamarca.
+La cercanía estratégica al terminal de buses convierte a este alojamiento en una opción predilecta para viajeros que llegan de noche o parten temprano hacia otras provincias.
 
-6. ¿Cuál es el horario de recepción y cómo gestionan las llegadas nocturnas?
-Nuestra recepción permanece activa y operativa durante las veinticuatro horas del día, facilitando registros fluidos sin importar la hora de llegada de tu vuelo o autobús.
+6. ¿Cómo es el funcionamiento y calidad de la red Wi-Fi para teletrabajo y uso personal?
+El establecimiento dispone de servicio de internet inalámbrico Wi-Fi de alta velocidad con puntos de acceso estratégicos que cubren tanto las habitaciones como las áreas comunes.
 
-En caso de que tu transporte sufra demoras y arribes de madrugada, solo debes avisarnos por WhatsApp para esperarte con tu llave lista y que descanses de inmediato.
+La red soporta videollamadas, navegación fluida en redes sociales, envío de documentación pesada y reproducción de contenido en streaming sin caídas de señal.
 
-En Hostal El Principe te recibimos siempre con la hospitalidad, amabilidad y atención atenta que caracteriza a la noble tierra cajamarquina.
+La clave de ingreso se facilita al formalizar el registro en recepción, con asistencia ágil por parte del personal si se requiere ayuda de configuración.
 
-7. ¿Cuentan con servicio de custodia de equipaje para antes del check-in o tras la salida?
-Brindamos un ambiente cerrado y seguro en recepción para guardar maletas, mochilas y paquetes de compras de manera totalmente gratuita.
+7. ¿Cuenta Hostal El Principe con cochera privada o alternativas seguras de estacionamiento?
+El hospedaje dispone de amplias facilidades de cochera cerrada y segura para autos, camionetas y vehículos de trabajo, bajo previa coordinación con recepción.
 
-Cuando llegues a la ciudad antes de la hora de entrega de habitaciones o debas viajar horas después de entregar tu cuarto, puedes dejar tu equipaje y salir a pasear.
+El portón se mantiene cerrado bajo supervisión y llave durante la noche, proporcionando plena tranquilidad y resguardo a los vehículos de los visitantes.
 
-Al regresar tendrás acceso a los servicios sanitarios comunes para refrescarte antes de dirigirte hacia el terminal o aeropuerto.
+Se aconseja comunicar por WhatsApp las características de su vehículo antes de arribar para organizar el aparcamiento de forma rápida y cómoda.
 
-8. ¿A cuántos minutos o metros queda la ubicación desde Mercado San Sebastián?
-Nos encontramos a una distancia calculada de 2.04 kilómetros respecto a Mercado San Sebastián, permitiendo una llegada sumamente fluida tanto a pie como en transporte urbano o taxi local.
+8. ¿Qué centros universitarios, comerciales e instituciones se ubican en los alrededores?
+A solo 537 metros se encuentra el campus de la Universidad Nacional de Cajamarca (UNC), constituyendo un hospedaje estratégico para docentes, postulantes y delegaciones académicas.
 
-Para quienes realizan el recorrido caminando, la ruta transcurre por calles tradicionales andinas y vías comerciales transitadas y seguras durante toda la jornada.
+El centro comercial Real Plaza se localiza a 2.23 kilómetros, mientras que el Cuarto del Rescate y la colina de Santa Apolonia distan 2.79 km y 2.93 km respectivamente.
 
-Nuestra estratégica y accesible ubicación te permite articular tus paseos culturales y visitas arqueológicas optimizando tiempos de traslado en la ciudad de Cajamarca.
+En el vecindario inmediato operan ferreterías, tiendas de repuestos, boticas y bodegas de abarrotes a pocos pasos de la puerta del hospedaje.
 
-9. ¿Disponen de estacionamiento propio o alternativas de cocheras en las cercanías?
-Mantenemos acuerdos con cocheras privadas techadas con portón cerrado y vigilancia durante toda la noche situadas a escasos metros del local.
+9. ¿Qué opciones de alimentación y gastronomía regional se hallan en las cercanías?
+En torno a la Vía de Evitamiento Sur operan diversos restaurantes tradicionales donde disfrutar de menús ejecutivos, caldos de gallina y frituras cajamarquinas a costos asequibles.
 
-Podrás estacionar tu camioneta, automóvil particular o motocicleta con absoluta tranquilidad durante todas las noches de tu estancia.
+Para la noche, en las inmediaciones funcionan pollerías, chifas y sangucherías con opciones variadas para cenar en pocos minutos o solicitar reparto a domicilio.
 
-Al comunicarte con nosotros te facilitamos la ubicación exacta y las tarifas preferenciales para que estaciones sin ninguna preocupación.
+El personal de recepción brinda sugerencias culinarias acertadas y proporciona platos o cubiertos para consumir alimentos en el cuarto si lo requiere.
 
-10. ¿Qué protocolos de limpieza y desinfección aplican en las habitaciones?
-Efectuamos un aseo diario y riguroso en cada habitación, renovando toallas y ropa de cama lavadas con detergentes y desinfectantes de nivel hospitalario.
+10. ¿Se ofrece servicio de custodia de equipaje tras el horario regular de check-out?
+El hostal ofrece custodia gratuita y segura de maletas en la recepción para los huéspedes que deban dejar la habitación antes de su horario de viaje.
 
-Las superficies de contacto frecuente como pasamanos, cerraduras, interruptores y griferías son desinfectadas de manera continua.
+De este modo los pasajeros pueden aprovechar sus últimas horas para realizar gestiones laborales, compras o paseos sin cargar mochilas pesadas.
 
-Ventilamos periódicamente los ambientes para preservar una atmósfera pura, fresca y libre de alérgenos o humedad.
+Al regresar a recoger el equipaje, se brindan las facilidades del lobby y servicios higiénicos para alistarse antes de abordar el transporte interprovincial.
 
-11. ¿Cómo llegar de manera rápida desde las inmediaciones de Centro Comercial Real Plaza?
-Nos encontramos a una distancia calculada de 2.23 kilómetros respecto a Centro Comercial Real Plaza, permitiendo una llegada sumamente fluida tanto a pie como en transporte urbano o taxi local.
+11. ¿A qué distancia se encuentra el centro comercial Real Plaza y qué servicios ofrece?
+El centro comercial Real Plaza se localiza a 2.23 kilómetros de distancia, demandando un trayecto de apenas 5 a 6 minutos en mototaxi o vehículo particular.
 
-Para quienes realizan el recorrido caminando, la ruta transcurre por calles tradicionales andinas y vías comerciales transitadas y seguras durante toda la jornada.
+En dicho mall se ubica el supermercado Plaza Vea, tiendas por departamento, salas de cine y agencias de los principales bancos nacionales con cajeros automáticos.
 
-Nuestra estratégica y accesible ubicación te permite articular tus paseos culturales y visitas arqueológicas optimizando tiempos de traslado en la ciudad de Cajamarca.
+A poca distancia del hospedaje también operan bodegas locales equipadas con agentes corresponsales donde realizar retiros y transferencias sin filas.
 
-12. ¿Emiten comprobantes de pago como boletas y facturas electrónicas?
-Expedimos facturas y boletas electrónicas autorizadas por SUNAT con todos los requerimientos tributarios para justificación de viáticos laborales.
+12. ¿Cuáles son las modalidades y canales de pago disponibles para cancelar la estancia?
+Se reciben pagos al contado en moneda nacional, transferencias bancarias directas y pagos digitales a través de billeteras móviles como Yape y Plin.
 
-Solo requerimos los datos de tu empresa al momento de reservar o registrar tu ingreso para despachar el comprobante digital a tu correo de inmediato.
+Estas alternativas aseguran transferencias rápidas y transparentes tanto para apartar habitaciones con anticipación como para saldar consumos al llegar.
 
-Facilitamos así toda la gestión administrativa requerida por entidades públicas y corporativas.
+Se extiende el correspondiente comprobante de pago para sustento y control de viáticos o gastos personales de viaje.
 
-13. ¿Brindan recomendaciones u orientación para contratar tours y excursiones?
-Te proporcionamos orientación turística detallada y mapas sobre circuitos imprescindibles como Cumbemayo, Otuzco, Porcón y los Baños del Inca.
+13. ¿Cómo se asegura la tranquilidad y un descanso sin interrupciones sonoras en el hospedaje?
+La edificación cuenta con estructura sólida y ventanería hermética que reduce significativamente el paso de ruido vehicular de la avenida principal.
 
-Colaboramos con agencias locales formales y guías certificados por Dircetur que ofrecen traslados puntuales con tarifas transparentes.
+Las habitaciones orientadas hacia patios interiores ofrecen un ambiente sumamente propicio para el reposo y la recuperación física tras el viaje.
 
-Podemos coordinar para que los vehículos turísticos te recojan directamente en el hospedaje al inicio de tus paseos matutinos.
+Se mantiene una normativa interna que prioriza el silencio y la cortesía en pasillos y descansos de escalera a partir de las diez de la noche.
 
-14. ¿Qué tan cerca se sitúa este punto del atractivo Complejo Monumental Belén?
-Nos encontramos a una distancia calculada de 2.73 kilómetros respecto a Complejo Monumental Belén, permitiendo una llegada sumamente fluida tanto a pie como en transporte urbano o taxi local.
+14. ¿Qué ruta y medios de transporte convienen tomar para trasladarse a Baños del Inca?
+El complejo turístico y medicinal de Baños del Inca se ubica a 3.57 kilómetros hacia el este, trayecto directo que toma tan solo 8 a 10 minutos en taxi por la Vía de Evitamiento.
 
-Para quienes realizan el recorrido caminando, la ruta transcurre por calles tradicionales andinas y vías comerciales transitadas y seguras durante toda la jornada.
+Si se opta por el transporte público, sobre la misma avenida transitan combis regulares que conducen directamente a las pozas termales a tarifa económica.
 
-Nuestra estratégica y accesible ubicación te permite articular tus paseos culturales y visitas arqueológicas optimizando tiempos de traslado en la ciudad de Cajamarca.
+Sumergirse en los manantiales termales es el plan perfecto para liberar contracturas y experimentar las bondades curativas de las aguas del Inca Atahualpa.
 
-15. ¿Qué alternativas gastronómicas existen en los alrededores del hospedaje?
-En las calles adyacentes encontrarás una variada oferta de cafeterías tradicionales, restaurantes de comida campestre, chifas y pollerías.
+15. ¿Brindan recomendaciones para contratar tours hacia Cumbemayo y Ventanillas de Otuzco?
+El personal brinda información clara y contactos de operadores turísticos formales para realizar excursiones al bosque de piedras de Cumbemayo (8.86 km) y Otuzco (6.62 km).
 
-Podrás deleitarte con platos típicos como el frito cajamarquino, trucha frita, cecina con tacacho o exquisitos postres con manjar blanco.
+Se orienta a los visitantes sobre horarios convenientes de salida, clima en las cumbres andinas y calzado recomendado para las caminatas.
 
-Nuestro personal te recomendará con gusto los locales preferidos por los cajamarquinos para disfrutar de la mejor sazón a precios módicos.
+También se facilita la coordinación con taxistas de confianza si se prefiere una visita privada y sin prisas hacia la Hacienda La Colpa (7.48 km) o Porcón.
 
-16. ¿Cómo aseguran la tranquilidad y el descanso nocturno de los visitantes?
-Mantenemos normas de convivencia y silencio moderado en pasillos a partir de las diez de la noche para garantizar un reposo profundo y placentero.
+16. ¿Qué facilidades existen para llegadas nocturnas o de madrugada desde el terminal de buses?
+La atención en puerta se encuentra disponible de manera permanente las 24 horas para recibir a los viajeros que arriban en buses interprovinciales nocturnos.
 
-Nuestras instalaciones cuentan con muros sólidos que aíslan eficazmente los ruidos externos para que duermas plácidamente sin interrupciones.
+Por la cercanía de solo 804 metros al terminal, muchos viajeros llegan en escasos minutos; se sugiere avisar con anticipación por WhatsApp para tener la habitación lista.
 
-En Hostal El Principe nos dedicamos a que recargues energías al máximo para aprovechar cada momento de tu estadía en Cajamarca.
+Esta disponibilidad evita contratiempos a quienes viajan de noche y requieren descansar de inmediato en una cama abrigada y limpia.
 
-17. ¿Disponen de plancha para ropa o secadores de cabello a solicitud?
-Facilitamos plancha para prendas de vestir y secadores de cabello portátiles en recepción para que los utilices en el momento que requieras.
+17. ¿Cómo se desarrolla la limpieza de las habitaciones y el recambio de ropa de baño?
+El personal efectúa una prolija limpieza y desinfección diaria de las habitaciones, retirando residuos y sanitizando pisos y cuartos de baño.
 
-Para cuando debas asistir a una ceremonia familiar o reunión de trabajo y necesites preparar tu vestimenta, nuestro personal te asistirá con prontitud.
+Se renuevan las toallas limpias y se reponen jaboncillos y papel sanitario con productos de buena calidad para el aseo de los clientes.
 
-Brindamos estos elementos sin ningún recargo adicional como parte de nuestra vocación de servicio integral.
+Las áreas comunes y pasamanos son aseados periódicamente para conservar un entorno pulcro, fresco y saludable en todo momento.
 
-18. ¿Cuáles son los métodos de pago aceptados para concretar el hospedaje?
-Aceptamos pagos en efectivo en moneda local, transferencias electrónicas a través de los principales bancos peruanos y billeteras móviles como Yape y Plin.
+18. ¿Está permitido el alojamiento con mascotas dentro del establecimiento?
+Con el objeto de resguardar el descanso, el silencio y la higiene estricta de todas las habitaciones, no se permite el ingreso de animales domésticos.
 
-Recibimos también pagos con tarjetas de débito y crédito mediante terminales seguros en nuestro mostrador principal.
+Esta política ayuda a prevenir molestias por ladridos o presencia de pelos que puedan afectar a personas con problemas respiratorios o alergias.
 
-Puedes formalizar tu reserva con un depósito anticipado y liquidar el remanente al momento de realizar tu check-in.
+Agradecemos la comprensión de los viajeros y los invitamos a consultar previamente sobre los términos de hospedaje para casos de perros guía certificados.
 
-19. ¿Por qué los viajeros eligen este alojamiento para su visita a Cajamarca?
-Nuestros visitantes destacan la relación armónica entre tarifas accesibles, habitaciones pulcras, agua caliente confiable y ubicación estratégica.
+19. ¿Existen tarifas reducidas para estadías corporativas o delegaciones de trabajo?
+Se otorgan cotizaciones atractivas y descuentos para estadías de larga duración orientadas a ingenieros, técnicos de proyectos, transportistas y personal universitario.
 
-Aprecian además la calidez familiar en la atención, la conectividad ininterrumpida y la tranquilidad para dormir con total bienestar.
+Las habitaciones cuentan con iluminación adecuada y buena conexión a internet para continuar con tareas laborales por las noches.
 
-Nos esmeramos por hacer que te sientas como en tu propia casa durante todas tus vacaciones o comisiones de trabajo.
+Se emiten comprobantes para la debida rendición de viáticos y gastos de representación ante sus respectivas instituciones.
 
-20. ¿Cómo consultar disponibilidad de habitaciones y asegurar una reserva?
-Para conocer fechas libres, cotizar habitaciones familiares o consultar tarifas especiales, escríbenos directamente por WhatsApp.
+20. ¿Cuál es el procedimiento más sencillo para reservar habitaciones en Hostal El Principe?
+La manera más rápida y económica es enviar un mensaje de WhatsApp o realizar una llamada directa al número oficial del hospedaje.
 
-Te responderemos prontamente compartiéndote fotos actualizadas, opciones disponibles y los datos para confirmar tu estadía sin demoras.
+A través de este medio se verifica al momento la disponibilidad de cuartos, se resuelven dudas particulares y se facilita el número de cuenta para confirmar la reserva con una seña.
 
-En Hostal El Principe te esperamos con los brazos abiertos para brindarte la mejor experiencia de hospitalidad en Cajamarca.
-
-================================================================================
+Efectuar el contacto directo garantiza los mejores costos sin comisiones extras y una atención cálida desde el primer minuto.

@@ -23,147 +23,145 @@ COPY DE BIENVENIDA (50 A 80 PALABRAS)
 ================================================================================
 
 --------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
+PREGUNTAS FRECUENTES Y RESPUESTAS (ESTÁNDAR MAESTRO)
 --------------------------------------------------------------------------------
 
-1. ¿Qué comodidades y distribución ofrecen las habitaciones privadas para los huéspedes?
-Disponemos de habitaciones individuales, matrimoniales, dobles y familiares diseñadas para asegurar un sueño reparador tras una jornada de excursiones andinas. Cada habitación cuenta con camas ortopédicas vestidas con plumones térmicos antialérgicos y frazadas andinas para neutralizar el frío nocturno.
+1. ¿Qué tipologías de habitación y elementos de confort presenta Hostal CRUZ DE PIEDRA Cajamarca?
+El establecimiento brinda habitaciones simples, matrimoniales acogedoras, dobles de dos camas individuales y habitaciones familiares con baño privado completo y ducha de agua caliente. Cada ambiente ha sido decorado con orden y sencillez tradicional para brindar una estadía agradable.
 
-Todos los dormitorios integran baño privado completo con ducha de agua caliente permanente, toallas limpias de cuerpo y manos, jaboncillos de tocador y televisión por cable.
+Los dormitorios cuentan con televisión con señal de cable, mesas de noche funcionales, enchufes próximos a las camas y armarios para guardar equipaje y prendas de vestir. Los pisos pulcros facilitan una limpieza y desinfección metódica.
 
-En Hostal CRUZ DE PIEDRA Cajamarca cuidamos la ventilación natural y la desinfección diaria para garantizar un entorno higiénico, fresco y seguro durante toda tu estancia.
+Los colchones ortopédicos aseguran un soporte corporal adecuado para descansar con total tranquilidad tras extensos recorridos por los parajes andinos de Cajamarca.
 
-2. ¿A qué distancia se encuentra el establecimiento respecto a Mirador del Cerro Santa Apolonia?
-Nos encontramos a una distancia calculada de 213 metros respecto a Mirador del Cerro Santa Apolonia, permitiendo una llegada sumamente fluida tanto a pie como en transporte urbano o taxi local.
+2. ¿A qué distancia se encuentra el establecimiento de la Plaza de Armas y cómo desplazarse a pie?
+La histórica Plaza de Armas se sitúa a solo 429 metros hacia el noreste, lo que equivale a una caminata llana de apenas 5 minutos transitando por el Jr. Cruz de Piedra o Jr. Dos de Mayo.
 
-Para quienes realizan el recorrido caminando, la ruta transcurre por calles tradicionales andinas y vías comerciales transitadas y seguras durante toda la jornada.
+Por tratarse de una localización tan céntrica en el corazón monumental, no se requiere ningún transporte motorizado para acceder a la Catedral, los museos y las casonas coloniales.
 
-Nuestra estratégica y accesible ubicación te permite articular tus paseos culturales y visitas arqueológicas optimizando tiempos de traslado en la ciudad de Cajamarca.
+Esta proximidad permite a los huéspedes desplazarse a pie a cualquier hora del día con total libertad y comodidad, retornando a descansar cuando lo deseen.
 
-3. ¿Cómo garantizan el suministro de agua caliente en las duchas?
-Contamos con un sistema de termas de alta capacidad con recirculación continua que asegura agua caliente a temperatura óptima y presión constante las veinticuatro horas del día.
+3. ¿De qué manera opera el suministro de agua caliente en las duchas privadas de las habitaciones?
+El hospedaje cuenta con un moderno sistema de calentamiento continuo de agua que abastece las 24 horas del día con flujo regular y excelente presión.
 
-Comprendemos que en las mañanas andinas y al caer la tarde, una ducha reconfortante es indispensable para relajarse tras extensos recorridos turísticos.
+El agua caliente llega a la regadera de manera casi inmediata, aliviando de forma placentera el frío matinal y las heladas nocturnas que se registran en la sierra andina.
 
-Nuestro personal técnico realiza revisiones preventivas a diario para evitar cualquier corte o alteración térmica en el servicio.
+Se efectúan inspecciones técnicas continuas en cañerías y calentadores para asegurar un funcionamiento óptimo y evitar oscilaciones térmicas durante el baño.
 
-4. ¿De qué manera opera la conexión a internet WiFi para teletrabajo o entretenimiento?
-Implementamos una red inalámbrica WiFi de fibra óptica con puntos de acceso estratégicos que ofrecen señal potente y estable en todas las habitaciones y áreas comunes.
+4. ¿Con qué elementos térmicos y ropa de cama están provistos los dormitorios?
+Cada lecho está acondicionado con sábanas suaves de algodón térmico, frazadas andinas de lana gruesa y edredones acolchados que conservan eficazmente el calor durante toda la noche.
 
-Podrás participar en reuniones laborales virtuales, revisar correos corporativos o disfrutar de contenidos en streaming desde la tranquilidad de tu cama.
+La construcción tradicional cuenta con muros sólidos que retienen el calor ambiental, protegiendo las habitaciones de las corrientes de aire gélido durante las madrugadas.
 
-Disponemos además de mesas de apoyo e iluminación adecuada en los dormitorios para quienes requieren adelantar informes o coordinar tareas.
+Si algún huésped presenta requerimientos de abrigo adicional, la recepción suministra frazadas complementarias de forma inmediata y sin costo extra.
 
-5. ¿Cuál es el tiempo de traslado y recorrido hacia Complejo Monumental Belén?
-Nos encontramos a una distancia calculada de 459 metros respecto a Complejo Monumental Belén, permitiendo una llegada sumamente fluida tanto a pie como en transporte urbano o taxi local.
+5. ¿Cuál es el tiempo de viaje desde el Terminal Terrestre y desde el Aeropuerto Armando Revoredo?
+Desde el Terminal Terrestre de Cajamarca, situado a 2.48 kilómetros al sureste, un taxi demora en promedio entre 7 y 9 minutos en arribar directamente hasta el frontis de Ancón 752.
 
-Para quienes realizan el recorrido caminando, la ruta transcurre por calles tradicionales andinas y vías comerciales transitadas y seguras durante toda la jornada.
+Para quienes provienen del Aeropuerto Mayor General FAP Armando Revoredo Iglesias, ubicado a 4.19 kilómetros al noreste, el trayecto vehicular toma de 11 a 13 minutos.
 
-Nuestra estratégica y accesible ubicación te permite articular tus paseos culturales y visitas arqueológicas optimizando tiempos de traslado en la ciudad de Cajamarca.
+Al ubicarse en la calle Ancón junto al Jr. Cruz de Piedra, los taxistas locales identifican el punto con exactitud, facilitando traslados ágiles y puntuales.
 
-6. ¿Cuál es el horario de recepción y cómo gestionan las llegadas nocturnas?
-Nuestra recepción permanece activa y operativa durante las veinticuatro horas del día, facilitando registros fluidos sin importar la hora de llegada de tu vuelo o autobús.
+6. ¿Cómo es el desempeño y cobertura de la red Wi-Fi para teletrabajo y uso personal?
+El establecimiento dispone de servicio de internet por fibra óptica simétrica con puntos de acceso estratégicos que cubren de manera homogénea habitaciones y pasillos.
 
-En caso de que tu transporte sufra demoras y arribes de madrugada, solo debes avisarnos por WhatsApp para esperarte con tu llave lista y que descanses de inmediato.
+La velocidad de conexión permite realizar videollamadas laborales sin caídas de señal, descargar documentación pesada y reproducir contenido audiovisual en alta definición.
 
-En Hostal CRUZ DE PIEDRA Cajamarca te recibimos siempre con la hospitalidad, amabilidad y atención atenta que caracteriza a la noble tierra cajamarquina.
+La clave de ingreso se facilita al formalizar el registro en recepción, con asistencia rápida del personal si se requiere apoyo técnico para conectar dispositivos.
 
-7. ¿Cuentan con servicio de custodia de equipaje para antes del check-in o tras la salida?
-Brindamos un ambiente cerrado y seguro en recepción para guardar maletas, mochilas y paquetes de compras de manera totalmente gratuita.
+7. ¿Cuenta Hostal CRUZ DE PIEDRA Cajamarca con estacionamiento propio o alternativas seguras en la zona?
+El establecimiento mantiene convenios con cocheras privadas techadas y vigiladas las 24 horas ubicadas a menos de una cuadra y media del frontis principal.
 
-Cuando llegues a la ciudad antes de la hora de entrega de habitaciones o debas viajar horas después de entregar tu cuarto, puedes dejar tu equipaje y salir a pasear.
+Dado que el centro histórico posee restricciones de estacionamiento en vía pública, estas plazas aliadas brindan custodia total para automóviles y camionetas.
 
-Al regresar tendrás acceso a los servicios sanitarios comunes para refrescarte antes de dirigirte hacia el terminal o aeropuerto.
+Se sugiere consultar y coordinar el espacio de estacionamiento vía WhatsApp al momento de reservar su estancia para apartar la plaza sin demoras.
 
-8. ¿A cuántos minutos o metros queda la ubicación desde Cuarto del Rescate?
-Nos encontramos a una distancia calculada de 486 metros respecto a Cuarto del Rescate, permitiendo una llegada sumamente fluida tanto a pie como en transporte urbano o taxi local.
+8. ¿Qué monumentos históricos y miradores se ubican a pocos pasos caminando?
+El mirador del cerro Santa Apolonia se ubica a únicamente 175 metros de distancia (escasos 2 minutos a pie), permitiendo ascender fácilmente para contemplar la vista panorámica del valle.
 
-Para quienes realizan el recorrido caminando, la ruta transcurre por calles tradicionales andinas y vías comerciales transitadas y seguras durante toda la jornada.
+El Cuarto del Rescate queda a 520 metros (unos 6 minutos caminando), mientras que el tradicional Mercado Central dista 1.01 kilómetros hacia el noreste.
 
-Nuestra estratégica y accesible ubicación te permite articular tus paseos culturales y visitas arqueológicas optimizando tiempos de traslado en la ciudad de Cajamarca.
+En las faldas de Santa Apolonia operan talleres de maestros artesanos de la piedra y madera, ideales para adquirir recuerdos típicos a precios convenientes.
 
-9. ¿Disponen de estacionamiento propio o alternativas de cocheras en las cercanías?
-Mantenemos acuerdos con cocheras privadas techadas con portón cerrado y vigilancia durante toda la noche situadas a escasos metros del local.
+9. ¿Qué opciones de alimentación y gastronomía tradicional existen en los alrededores?
+A lo largo del Jr. Cruz de Piedra y alrededor de la plaza operan afamadas cafeterías tradicionales donde degustar café de altura, tamales cajamarquinos y quesos mantecosos.
 
-Podrás estacionar tu camioneta, automóvil particular o motocicleta con absoluta tranquilidad durante todas las noches de tu estancia.
+Asimismo, abundan restaurantes criollos, picanterías y pollerías donde disfrutar de cecina con tacacho, trucha frita, cuy frito y caldos reparadores.
 
-Al comunicarte con nosotros te facilitamos la ubicación exacta y las tarifas preferenciales para que estaciones sin ninguna preocupación.
+Los huéspedes pueden ordenar comida mediante aplicativos de reparto local o solicitar vajilla básica en recepción para mayor comodidad en su cuarto.
 
-10. ¿Qué protocolos de limpieza y desinfección aplican en las habitaciones?
-Efectuamos un aseo diario y riguroso en cada habitación, renovando toallas y ropa de cama lavadas con detergentes y desinfectantes de nivel hospitalario.
+10. ¿Se ofrece servicio de guardaequipaje gratuito tras efectuar el check-out de la habitación?
+El hospedaje brinda servicio gratuito de custodia de equipaje en un área segura del vestíbulo para los huéspedes que deban entregar la habitación al mediodía.
 
-Las superficies de contacto frecuente como pasamanos, cerraduras, interruptores y griferías son desinfectadas de manera continua.
+Esta alternativa permite a los turistas recorrer museos, realizar compras de recuerdos o almorzar con tranquilidad sin la molestia de cargar maletas pesadas.
 
-Ventilamos periódicamente los ambientes para preservar una atmósfera pura, fresca y libre de alérgenos o humedad.
+Al regresar a retirar el equipaje, se dispone de las áreas comunes y servicios higiénicos para alistarse cómodamente antes de tomar el transporte interprovincial.
 
-11. ¿Cómo llegar de manera rápida desde las inmediaciones de Plaza de Armas?
-Nos encontramos a una distancia calculada de 492 metros respecto a Plaza de Armas, permitiendo una llegada sumamente fluida tanto a pie como en transporte urbano o taxi local.
+11. ¿A qué distancia se encuentra el centro comercial Real Plaza y las agencias bancarias?
+El centro comercial Real Plaza dista 1.76 kilómetros hacia el este, trayecto que se efectúa en solo 5 minutos en mototaxi o automóvil.
 
-Para quienes realizan el recorrido caminando, la ruta transcurre por calles tradicionales andinas y vías comerciales transitadas y seguras durante toda la jornada.
+En dicho mall se ubica el supermercado Plaza Vea, tiendas departamentales, cines y sucursales de los principales bancos nacionales con cajeros automáticos.
 
-Nuestra estratégica y accesible ubicación te permite articular tus paseos culturales y visitas arqueológicas optimizando tiempos de traslado en la ciudad de Cajamarca.
+Además, a escasos 400 metros en torno a la Plaza de Armas operan agencias y cajeros 24 horas de BCP, BBVA, Interbank y Banco de la Nación.
 
-12. ¿Emiten comprobantes de pago como boletas y facturas electrónicas?
-Expedimos facturas y boletas electrónicas autorizadas por SUNAT con todos los requerimientos tributarios para justificación de viáticos laborales.
+12. ¿Cuáles son las modalidades de pago y facilidades tributarias para huéspedes y empresas?
+Se reciben pagos en efectivo en soles, transferencias bancarias a cuentas institucionales y pagos rápidos a través de billeteras móviles como Yape y Plin.
 
-Solo requerimos los datos de tu empresa al momento de reservar o registrar tu ingreso para despachar el comprobante digital a tu correo de inmediato.
+Para tarjetas de débito y crédito bancarias se dispone de lector POS inalámbrico, facilitando transacciones seguras y transparentes.
 
-Facilitamos así toda la gestión administrativa requerida por entidades públicas y corporativas.
+Hostal CRUZ DE PIEDRA Cajamarca emite boletas de venta y facturas electrónicas para los huéspedes particulares o trabajadores en comisión de servicios.
 
-13. ¿Brindan recomendaciones u orientación para contratar tours y excursiones?
-Te proporcionamos orientación turística detallada y mapas sobre circuitos imprescindibles como Cumbemayo, Otuzco, Porcón y los Baños del Inca.
+13. ¿Qué medidas de aislamiento acústico aseguran el descanso sin ruidos nocturnos molestos?
+La ubicación sobre la calle Ancón, una arteria empedrada y tranquila al pie del cerro Santa Apolonia, ofrece un ambiente sumamente apacible para el descanso nocturno.
 
-Colaboramos con agencias locales formales y guías certificados por Dircetur que ofrecen traslados puntuales con tarifas transparentes.
+Las ventanas disponen de cierres adecuados que reducen significativamente las vibraciones sonoras exteriores, propiciando un descanso sereno.
 
-Podemos coordinar para que los vehículos turísticos te recojan directamente en el hospedaje al inicio de tus paseos matutinos.
+Se aplica un reglamento interno que promueve el silencio y el respeto en pasillos y escaleras a partir de las diez de la noche para bienestar general.
 
-14. ¿Qué tan cerca se sitúa este punto del atractivo Mercado Central?
-Nos encontramos a una distancia calculada de 652 metros respecto a Mercado Central, permitiendo una llegada sumamente fluida tanto a pie como en transporte urbano o taxi local.
+14. ¿Cómo desplazarse desde las instalaciones hacia el complejo termal de Baños del Inca?
+El complejo termomedicinal de Baños del Inca se ubica a 6.23 kilómetros hacia el este, distancia que se recorre en aproximadamente 16 a 18 minutos en taxi.
 
-Para quienes realizan el recorrido caminando, la ruta transcurre por calles tradicionales andinas y vías comerciales transitadas y seguras durante toda la jornada.
+Para una alternativa económica, a pocas cuadras del hospedaje se abordan las combis regulares de transporte urbano que conducen de forma directa al balneario.
 
-Nuestra estratégica y accesible ubicación te permite articular tus paseos culturales y visitas arqueológicas optimizando tiempos de traslado en la ciudad de Cajamarca.
+Sumergirse en las aguas calientes termales es el plan perfecto para liberar contracturas y experimentar los manantiales medicinales del Inca Atahualpa.
 
-15. ¿Qué alternativas gastronómicas existen en los alrededores del hospedaje?
-En las calles adyacentes encontrarás una variada oferta de cafeterías tradicionales, restaurantes de comida campestre, chifas y pollerías.
+15. ¿Brinda el personal orientación y contactos para programar excursiones guiadas?
+El equipo de recepción proporciona orientación sobre salidas diarias con operadores turísticos formales hacia Cumbemayo (6.73 km) y Ventanillas de Otuzco (7.93 km).
 
-Podrás deleitarte con platos típicos como el frito cajamarquino, trucha frita, cecina con tacacho o exquisitos postres con manjar blanco.
+Se facilitan recomendaciones prácticas sobre tarifas, turnos de visita a museos, vestimenta abrigada y calzado recomendado para caminatas andinas.
 
-Nuestro personal te recomendará con gusto los locales preferidos por los cajamarquinos para disfrutar de la mejor sazón a precios módicos.
+También se apoya en coordinar con taxistas de confianza para realizar paseos privados hacia la Hacienda La Colpa (10.47 km) o Granja Porcón.
 
-16. ¿Cómo aseguran la tranquilidad y el descanso nocturno de los visitantes?
-Mantenemos normas de convivencia y silencio moderado en pasillos a partir de las diez de la noche para garantizar un reposo profundo y placentero.
+16. ¿Qué horario maneja la recepción para llegadas tardías de vuelos o buses nocturnos?
+La recepción mantiene atención alerta las 24 horas del día durante los 365 días del año para recibir a los visitantes que arriban de noche o madrugada.
 
-Nuestras instalaciones cuentan con muros sólidos que aíslan eficazmente los ruidos externos para que duermas plácidamente sin interrupciones.
+Si arriba en turnos nocturnos de transporte interprovincial, el personal lo recibirá con diligencia para agilizar la entrega de llaves y el registro.
 
-En Hostal CRUZ DE PIEDRA Cajamarca nos dedicamos a que recargues energías al máximo para aprovechar cada momento de tu estadía en Cajamarca.
+Se sugiere comunicar por WhatsApp la hora aproximada de arribo para coordinar una recepción impecable y sin esperas en la puerta.
 
-17. ¿Disponen de plancha para ropa o secadores de cabello a solicitud?
-Facilitamos plancha para prendas de vestir y secadores de cabello portátiles en recepción para que los utilices en el momento que requieras.
+17. ¿Cómo se desarrollan las labores de limpieza e higiene en habitaciones y baños?
+El personal ejecuta tareas diarias de limpieza profunda en dormitorios y baños privados empleando productos bactericidas de calidad comprobada.
 
-Para cuando debas asistir a una ceremonia familiar o reunión de trabajo y necesites preparar tu vestimenta, nuestro personal te asistirá con prontitud.
+Se sustituyen periódicamente las toallas limpias higienizadas y se suministran jaboncillos individuales y papel sanitario para la higiene del huésped.
 
-Brindamos estos elementos sin ningún recargo adicional como parte de nuestra vocación de servicio integral.
+Las superficies de mayor contacto y la lencería de cama se tratan con especial esmero para conservar una presentación impecable, limpia y confortable.
 
-18. ¿Cuáles son los métodos de pago aceptados para concretar el hospedaje?
-Aceptamos pagos en efectivo en moneda local, transferencias electrónicas a través de los principales bancos peruanos y billeteras móviles como Yape y Plin.
+18. ¿Está admitido el alojamiento con mascotas dentro del establecimiento?
+Con el propósito de garantizar la máxima higiene textil, evitar ruidos molestos y proteger la salud de huéspedes sensibles a alergias, no se admiten mascotas.
 
-Recibimos también pagos con tarjetas de débito y crédito mediante terminales seguros en nuestro mostrador principal.
+Esta directriz permite conservar dormitorios inodoros y perfectamente higienizados para el descanso placentero de todos los visitantes.
 
-Puedes formalizar tu reserva con un depósito anticipado y liquidar el remanente al momento de realizar tu check-in.
+Agradecemos consultar previamente a su llegada cualquier situación particular relacionada con canes de asistencia médica certificados.
 
-19. ¿Por qué los viajeros eligen este alojamiento para su visita a Cajamarca?
-Nuestros visitantes destacan la relación armónica entre tarifas accesibles, habitaciones pulcras, agua caliente confiable y ubicación estratégica.
+19. ¿Existen planes tarifarios especiales para empresas y estancias corporativas largas?
+Se otorgan convenios corporativos y tarifas reducidas para delegaciones de trabajo, ingenieros, técnicos y consultores con estancias de varios días.
 
-Aprecian además la calidez familiar en la atención, la conectividad ininterrumpida y la tranquilidad para dormir con total bienestar.
+Las habitaciones cuentan con iluminación adecuada y buena red de datos para continuar con tareas laborales por las noches.
 
-Nos esmeramos por hacer que te sientas como en tu propia casa durante todas tus vacaciones o comisiones de trabajo.
+La administración gestiona de forma inmediata las cotizaciones y facturas electrónicas requeridas para rendición de viáticos empresariales.
 
-20. ¿Cómo consultar disponibilidad de habitaciones y asegurar una reserva?
-Para conocer fechas libres, cotizar habitaciones familiares o consultar tarifas especiales, escríbenos directamente por WhatsApp.
+20. ¿Cuál es el canal oficial y más directo para confirmar una reserva al mejor precio?
+La vía más recomendable y directa es comunicarse mediante WhatsApp o llamada telefónica al número oficial de reservas del hospedaje.
 
-Te responderemos prontamente compartiéndote fotos actualizadas, opciones disponibles y los datos para confirmar tu estadía sin demoras.
+A través de este medio el personal verifica la disponibilidad al instante, remite fotos de las habitaciones y facilita los datos de pago para apartar la fecha con una pequeña seña.
 
-En Hostal CRUZ DE PIEDRA Cajamarca te esperamos con los brazos abiertos para brindarte la mejor experiencia de hospitalidad en Cajamarca.
-
-================================================================================
+Reservar directamente prescinde de recargos de intermediarios y asegura una atención cálida y personalizada desde el primer instante.
