@@ -1,7 +1,7 @@
 Nombre: Cevicheria el Chino
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Restaurantes
-Subrubro: Chifas
+Subrubro: Cevicherias_y_Mariscos
 Categoría Maps: Restaurante
 Dirección: Jr. Guillermo Urrelo 1276, Cajamarca 06002
 Teléfono: 992 549 265

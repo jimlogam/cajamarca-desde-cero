@@ -1,7 +1,7 @@
 Nombre: Pollo ala plancha el chino
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Restaurantes
-Subrubro: Chifas
+Subrubro: Pollerias_y_Parrillas
 Categoría Maps: Carnicería
 Dirección: RFVG+GXC Juan Villanueva, Cajamarca 06001
 Teléfono: 

@@ -1,7 +1,7 @@
 Nombre: Cevicheria Restaurant Chifa
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Restaurantes
-Subrubro: Chifas
+Subrubro: Cevicherias_y_Mariscos
 Categoría Maps: Restaurante
 Dirección: Av San Martín de Porres 532, Cajamarca 06003
 Teléfono: 

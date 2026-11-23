@@ -1,7 +1,7 @@
 Nombre: Polleria Chifa MIN-LU
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Restaurantes
-Subrubro: Chifas
+Subrubro: Pollerias_y_Parrillas
 Categoría Maps: Restaurante
 Dirección: Jr. Conquistadores 155, Cajamarca 06003
 Teléfono: 935 853 279
