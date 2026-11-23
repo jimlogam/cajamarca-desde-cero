@@ -1,7 +1,7 @@
 Nombre: Crunchy Crunch - Banderillas Coreanas
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Comida_Rapida_y_Snacks
-Subrubro: Hamburguesas_y_Sandwiches
+Subrubro: Snacks_y_Piques
 Categoría Maps: Restaurante coreano
 Dirección: Av. Hoyos Rubio, Cajamarca 06001
 Teléfono: 907 707 224

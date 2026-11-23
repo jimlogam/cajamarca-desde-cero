@@ -1,7 +1,7 @@
 Nombre: Cihu Cupcakes Cajamarca
 Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Cafeterias_y_Bebidas
-Subrubro: Cafeterias_de_Especialidad
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
 Categoría Maps: Tienda de magdalenas, Tienda de galletas, Cafetería, Tienda de regalos, Tienda de té
 Dirección: Jirón Ayacucho 524, Cajamarca 07016
 Teléfono: 962 320 468
