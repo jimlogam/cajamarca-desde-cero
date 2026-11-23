@@ -1,7 +1,7 @@
 Nombre: GRUAS Y TRANSPORTES MEEK ELECTROMECANICOS EIRL.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Gruas_y_Auxilio_Mecanico
 Categoría Maps: Servicio de grúa
 Dirección: Jr. Sta. Sarita 661, Paucarpata 06003
 Teléfono: 976 356 132

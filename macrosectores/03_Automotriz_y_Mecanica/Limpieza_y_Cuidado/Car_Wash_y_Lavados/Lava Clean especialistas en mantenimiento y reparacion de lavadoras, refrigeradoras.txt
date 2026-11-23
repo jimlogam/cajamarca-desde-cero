@@ -1,7 +1,7 @@
 Nombre: Lava Clean especialistas en mantenimiento y reparacion de lavadoras, refrigeradoras
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Limpieza_y_Cuidado
+Subrubro: Car_Wash_y_Lavados
 Categoría Maps: Lavandería
 Dirección: Av. Hoyos Rubio 890, Cajamarca 06000
 Teléfono: 914 248 524

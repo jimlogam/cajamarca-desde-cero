@@ -1,7 +1,7 @@
 Nombre: KTM CAJAMARCA MOTOR STORE
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Tienda de motocicletas
 Dirección: Vía De Evitamiento Sur #2520, Jr. San Luis 399, Cajamarca 02006
 Teléfono: 965 691 256

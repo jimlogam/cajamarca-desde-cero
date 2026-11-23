@@ -1,7 +1,7 @@
 Nombre: PAVOS AVICOLA AVICOR
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Rubro: Lacteos_y_Tradicion
+Subrubro: Embutidos_y_Chacinados
 Categoría Maps: Comercio
 Dirección: 270, Cajamarca 06003
 Teléfono: 988 643 202

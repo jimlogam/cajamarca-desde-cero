@@ -1,7 +1,7 @@
 Nombre: Inmobicorp S.A.C.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Promotora inmobiliaria
 Dirección: Av. Hoyos Rubio N° 1334, Cajamarca 06001
 Teléfono: 978 374 462

@@ -1,7 +1,7 @@
 Nombre: GRÚAS TRIPLE A CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Gruas_y_Auxilio_Mecanico
 Categoría Maps: Servicio de grúa
 Dirección: Óvalo Musical, Av. Atahualpa 617, Cajamarca 06002
 Teléfono: 946 076 915

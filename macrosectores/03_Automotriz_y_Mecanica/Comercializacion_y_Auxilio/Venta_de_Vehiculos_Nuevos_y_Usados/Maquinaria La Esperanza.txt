@@ -1,7 +1,7 @@
 Nombre: Maquinaria La Esperanza
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Venta_de_Vehiculos_Nuevos_y_Usados
 Categoría Maps: Concesionario de maquinaria de construcción
 Dirección: RFHW+VVF, Av San Martín de Porres 824, Cajamarca 06003
 Teléfono: 976 680 580

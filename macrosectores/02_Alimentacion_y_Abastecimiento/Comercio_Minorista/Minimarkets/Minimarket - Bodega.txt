@@ -1,7 +1,7 @@
 Nombre: Minimarket - Bodega
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Supermercados_y_Mercados
-Subrubro: Puestos_de_Mercado_de_Abastos
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
 Categoría Maps: Mercado
 Dirección: Jr. Sta. María 290, Cajamarca 06003
 Teléfono: 

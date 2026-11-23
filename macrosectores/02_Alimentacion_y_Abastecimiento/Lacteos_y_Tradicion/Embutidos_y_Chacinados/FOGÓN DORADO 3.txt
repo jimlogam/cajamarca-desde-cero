@@ -1,7 +1,7 @@
 Nombre: FOGÓN DORADO 3
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Pollerias_y_Parrillas
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Embutidos_y_Chacinados
 Categoría Maps: Tienda de aves de corral
 Dirección: Amalia Puga 821, Cajamarca 06002
 Teléfono: (076) 283593

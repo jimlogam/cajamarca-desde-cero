@@ -1,7 +1,7 @@
 Nombre: GUEVARA REVILLA DANY YANETH- DISTRIBUIDORA CAXABAJA
-Macro-Sector: 15_Logistica_Transporte_y_Energia
-Rubro: Energia_y_Combustibles
-Subrubro: Venta_de_Gas_GLP_y_Balones
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Compañía del gas
 Dirección: Av San Martín de Porres 2215, Cajamarca 06001
 Teléfono: 971 447 085

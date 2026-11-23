@@ -1,7 +1,7 @@
 Nombre: Minimarket el 42
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
 Categoría Maps: 
 Dirección: 3C27+CHX Las lagunas, cajamarca 06000
 Teléfono: 

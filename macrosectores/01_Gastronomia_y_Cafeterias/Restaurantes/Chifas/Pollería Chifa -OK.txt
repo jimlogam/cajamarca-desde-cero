@@ -1,7 +1,7 @@
 Nombre: Pollería Chifa
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Restaurantes
-Subrubro: Pollerias_y_Parrillas
+Subrubro: Chifas
 Categoría Maps: Pollería a la Brasa y Chifa
 Dirección: Jr, Prol. Revilla Perez N° 130, Cajamarca 06001
 Teléfono: 

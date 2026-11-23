@@ -1,7 +1,7 @@
 Nombre: Grupo Sierra motos
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Tienda de repuestos para motos
 Dirección: Jr. Diego Ferre 342, Cajamarca 060101
 Teléfono: 976 580 271

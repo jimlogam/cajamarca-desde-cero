@@ -1,7 +1,7 @@
 Nombre: Almacen de Sabores
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Pizzerias_y_Pastas
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Restaurante argentino, Bar, Cafetería, Restaurante de almuerzo, Restaurante de platos de carne, Tienda de pasta, Pastelería, Pizzería, Restaurante vegano
 Dirección: Jr del Batán 257, Cajamarca 06001
 Teléfono: 935 158 625

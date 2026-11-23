@@ -1,7 +1,7 @@
 Nombre: Plusimport Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Bodegas
 Categoría Maps: Tienda de ordenadores de segunda mano
 Dirección: Dos de Mayo 674, Cajamarca 06002
 Teléfono: 

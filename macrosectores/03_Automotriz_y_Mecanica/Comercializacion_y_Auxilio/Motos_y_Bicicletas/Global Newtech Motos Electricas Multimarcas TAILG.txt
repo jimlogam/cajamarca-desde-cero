@@ -1,7 +1,7 @@
 Nombre: Global Newtech Motos Electricas Multimarcas TAILG
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Concesionario de motos, Tienda de repuestos para motos
 Dirección: Jr, Juan Beato Macias 569, Cajamarca 06003
 Teléfono: 998 885 364

@@ -1,7 +1,7 @@
 Nombre: ByM Market
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Supermercados_y_Mercados
-Subrubro: Supermercados
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
 Categoría Maps: Supermercado
 Dirección: RFQR+HRM, Cajamarca 06002
 Teléfono: 

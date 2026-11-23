@@ -1,7 +1,7 @@
 Nombre: Encanto Mío
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Tienda de productos de belleza, Proveedor de productos de belleza, Tienda de belleza y salud
 Dirección: Jirón Silva Santisteban 663, Cajamarca 06002
 Teléfono: 936 714 904

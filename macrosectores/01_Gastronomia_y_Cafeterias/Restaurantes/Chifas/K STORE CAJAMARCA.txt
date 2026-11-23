@@ -1,7 +1,7 @@
 Nombre: K STORE CAJAMARCA
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Supermercados_y_Mercados
-Subrubro: Supermercados
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Chifas
 Categoría Maps: Supermercado asiático
 Dirección: restaurant MAKANAKUY Jr, Jr.Batan 301 - interior, El Inca 744, Cajamarca 06001
 Teléfono: 938 482 493

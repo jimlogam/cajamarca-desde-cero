@@ -1,7 +1,7 @@
 Nombre: 2G Servicios Generales
-Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
-Rubro: Obras_y_Estructuras
-Subrubro: Constructoras_y_Contratistas
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Empresa de construcción, Arquitecto, Ingeniero civil, Servicios de diseño, Ingeniero medioambiental, Constructor, Ingeniero de minas, Promotora inmobiliaria
 Dirección: Jr, San Sebastián N° 557, Cajamarca 06002
 Teléfono: 924 674 701

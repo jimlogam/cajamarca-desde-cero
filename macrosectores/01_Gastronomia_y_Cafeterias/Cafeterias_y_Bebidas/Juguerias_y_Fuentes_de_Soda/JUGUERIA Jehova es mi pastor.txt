@@ -1,7 +1,7 @@
 Nombre: JUGUERIA Jehova es mi pastor
-Macro-Sector: 06_Comercio_Moda_y_Regalos
-Rubro: Libreria_y_Juegos
-Subrubro: Jugueterias_y_Disfraces
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
 Categoría Maps: Juguetería
 Dirección: Av. Héroes de San Ramón 444, Cajamarca 06002
 Teléfono: 

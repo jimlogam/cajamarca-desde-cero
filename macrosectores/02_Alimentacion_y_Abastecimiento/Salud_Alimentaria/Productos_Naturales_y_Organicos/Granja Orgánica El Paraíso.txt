@@ -1,7 +1,7 @@
 Nombre: Granja Orgánica El Paraíso
-Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Sector_Agropecuario
-Subrubro: Tiendas_Agroveterinarias
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Salud_Alimentaria
+Subrubro: Productos_Naturales_y_Organicos
 Categoría Maps: Tienda de alimentos orgánicos
 Dirección: Fundo la argentina, Cajamarca 06002
 Teléfono: 949 166 537

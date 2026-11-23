@@ -1,7 +1,7 @@
 Nombre: PLANTA QUESERA CHUGUR QUESO S.R.L.
-Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Plantas_y_Jardineria
-Subrubro: Viveros_y_Plantas_Ornamentales
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
 Categoría Maps: Tienda de alimentación
 Dirección: Avenida MZ C LOTE 12 Y, Av. Manco Cápac 13, Baños del Inca
 Teléfono: (076) 348812

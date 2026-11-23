@@ -1,7 +1,7 @@
 Nombre: Clinica automotriz Alta Gamma
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Taller mecánico, Planchista, Servicio de restauración de automóviles, Fábrica de automóviles, Taller de reparación de motores diésel, Contratista mecánico, Ingeniero mecánico
 Dirección: Jr. Misión Bautista 194, Cajamarca 06003
 Teléfono: 997 159 491

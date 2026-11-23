@@ -1,7 +1,7 @@
 Nombre: Gg Game Center
 Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
 Categoría Maps: Cibercafé
 Dirección: Av. Andrés Zevallos 2004, Cajamarca 06002
 Teléfono: 959 729 212

@@ -1,7 +1,7 @@
 Nombre: Ruta 6 Food Park Caxas
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Comida_Rapida_y_Snacks
-Subrubro: Food_Trucks
+Subrubro: Hamburguesas_y_Sandwiches
 Categoría Maps: Restaurante de comida rápida, Food Park, Patio gastronómico
 Dirección: Vía Evitamiento Norte Lt 4 S/N, Cajamarca
 Teléfono: 

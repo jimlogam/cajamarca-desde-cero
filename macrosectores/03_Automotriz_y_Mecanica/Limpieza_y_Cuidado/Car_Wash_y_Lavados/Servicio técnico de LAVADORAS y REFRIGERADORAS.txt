@@ -1,7 +1,7 @@
 Nombre: Servicio técnico de LAVADORAS y REFRIGERADORAS
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Limpieza_y_Cuidado
+Subrubro: Car_Wash_y_Lavados
 Categoría Maps: Servicio de reparación de neveras, Servicio de reparación de lavadoras y secadoras
 Dirección: Jr. Cusco cuadra 6, Cajamarca 06003
 Teléfono: 932 874 264

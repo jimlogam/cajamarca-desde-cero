@@ -1,7 +1,7 @@
 Nombre: Metro Almacén Cajamarca
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Supermercados_y_Mercados
-Subrubro: Supermercados
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Supermercado
 Dirección: Angamos 911, Cajamarca 06001
 Teléfono: 995 839 868

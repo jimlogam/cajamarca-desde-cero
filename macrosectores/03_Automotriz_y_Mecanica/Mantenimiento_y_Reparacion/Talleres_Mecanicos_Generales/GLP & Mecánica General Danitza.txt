@@ -1,7 +1,7 @@
 Nombre: GLP & Mecánica General Danitza
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Conversión a GLP
 Dirección: C. Mision Japonesa 261, Cajamarca 06003
 Teléfono: 976 001 745

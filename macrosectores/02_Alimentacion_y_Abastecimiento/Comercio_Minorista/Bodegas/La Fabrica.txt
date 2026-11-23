@@ -1,7 +1,7 @@
 Nombre: La Fabrica
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
 Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Subrubro: Bodegas
 Categoría Maps: Tienda de alimentación
 Dirección: Dos de Mayo 572, Cajamarca 06002
 Teléfono: 

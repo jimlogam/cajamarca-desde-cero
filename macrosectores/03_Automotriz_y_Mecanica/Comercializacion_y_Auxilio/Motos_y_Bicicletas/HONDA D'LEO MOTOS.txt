@@ -1,7 +1,7 @@
 Nombre: HONDA D'LEO MOTOS
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Taller de reparación de motos
 Dirección: Pasaje Ciro Alegría 240, Cajamarca 06002
 Teléfono: 929 324 956

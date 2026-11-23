@@ -1,7 +1,7 @@
 Nombre: Kami Soft Importadora y Distribuidora
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Empresa de importación y exportación
 Dirección: 06002, Jirón Silva Santisteban 768, Cajamarca 06002
 Teléfono: 901 230 498

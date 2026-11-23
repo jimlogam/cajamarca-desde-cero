@@ -1,7 +1,7 @@
 Nombre: Minimarket Bacos
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
 Rubro: Comercio_Minorista
-Subrubro: Bodegas
+Subrubro: Minimarkets
 Categoría Maps: Bodega
 Dirección: VF3R+2RH, Av Vía de Evitamiento Nte 1850, Cajamarca 06001
 Teléfono: 

@@ -1,7 +1,7 @@
 Nombre: Plaza Brasa - Cajamarca
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Subrubro: Pollerias_y_Parrillas
 Categoría Maps: Restaurante
 Dirección: Referencia: A una cuadra del, Av. Moyococha Mz. A, Cajamarca 06001
 Teléfono: 918 756 492

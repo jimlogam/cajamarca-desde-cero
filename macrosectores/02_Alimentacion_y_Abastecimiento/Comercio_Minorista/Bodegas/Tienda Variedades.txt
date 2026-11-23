@@ -1,7 +1,7 @@
 Nombre: Tienda Variedades
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
 Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Subrubro: Bodegas
 Categoría Maps: Tienda de alimentación
 Dirección: Av. Independencia 568, Cajamarca 06002
 Teléfono: 

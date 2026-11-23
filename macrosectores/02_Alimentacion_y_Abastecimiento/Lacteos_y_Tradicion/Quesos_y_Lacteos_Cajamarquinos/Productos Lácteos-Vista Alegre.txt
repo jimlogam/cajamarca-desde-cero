@@ -1,7 +1,7 @@
 Nombre: Productos Lácteos-Vista Alegre
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
 Categoría Maps: Servicio de comercio electrónico
 Dirección: Jr.Amazonas 432, Cajamarca 06001
 Teléfono: 972 501 391

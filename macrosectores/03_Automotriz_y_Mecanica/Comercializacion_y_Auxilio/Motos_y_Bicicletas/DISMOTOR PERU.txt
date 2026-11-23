@@ -1,7 +1,7 @@
 Nombre: DISMOTOR PERU
-Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
-Rubro: Materiales_y_Ferreteria
-Subrubro: Ferreterias_Generales
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Ferretería
 Dirección: Av Vía de Evitamiento Nte 1582, Cajamarca 06002
 Teléfono: (076) 362116

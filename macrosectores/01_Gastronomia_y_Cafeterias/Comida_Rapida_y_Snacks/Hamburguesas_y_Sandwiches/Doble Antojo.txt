@@ -1,7 +1,7 @@
 Nombre: Doble Antojo
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Comida_Rapida_y_Snacks
-Subrubro: Snacks_y_Piques
+Subrubro: Hamburguesas_y_Sandwiches
 Categoría Maps: Restaurante de comida rápida
 Dirección: 2da cuadra de, Los Alisos, Cajamarca 06001
 Teléfono: 974 860 072

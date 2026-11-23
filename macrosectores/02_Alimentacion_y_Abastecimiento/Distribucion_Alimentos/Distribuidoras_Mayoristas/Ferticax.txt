@@ -1,7 +1,7 @@
 Nombre: Ferticax
-Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Sector_Agropecuario
-Subrubro: Abonos_Semillas_y_Fertilizantes
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Proveedor de fertilizantes
 Dirección: Urb. Los Docentes, 06001 Jr. Edgardo, Cajamarca 06001
 Teléfono: 900 627 166

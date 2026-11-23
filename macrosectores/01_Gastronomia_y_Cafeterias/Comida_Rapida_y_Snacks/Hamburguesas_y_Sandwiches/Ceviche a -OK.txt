@@ -1,7 +1,7 @@
 Nombre: Ceviche a
 Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Cevicherias_y_Mariscos
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
 Categoría Maps: Restaurante de comida rápida
 Dirección: Leoncio Prado 445, Cajamarca 06002
 Teléfono: 983 770 427

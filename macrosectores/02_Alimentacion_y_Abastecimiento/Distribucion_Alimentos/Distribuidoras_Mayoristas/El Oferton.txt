@@ -1,7 +1,7 @@
 Nombre: El Oferton
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Tienda de belleza y salud, Proveedor de productos de belleza
 Dirección: Jr.Amazonas 225, Cajamarca 06000
 Teléfono: 952 814 642

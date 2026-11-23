@@ -1,7 +1,7 @@
 Nombre: CENTRO DE SERVICIOS MECANICA EN MOTOS ORLANDO
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Taller de reparación de motos
 Dirección: VG8J+6M8, PASAJE VIA NACIONAL S/N OTUZCO, Baños del Inca
 Teléfono: 921 019 401

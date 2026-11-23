@@ -1,7 +1,7 @@
 Nombre: Biker Planet
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Tienda de motocicletas
 Dirección: Av Vía de Evitamiento Nte 1822, Cajamarca 06001
 Teléfono: 976 362 270

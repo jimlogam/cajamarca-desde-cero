@@ -1,7 +1,7 @@
 Nombre: San Antonio de Padua
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
 Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Subrubro: Bodegas
 Categoría Maps: Tienda de alimentación
 Dirección: VF6M+VGP, C. Suiza, Cajamarca 06001
 Teléfono: 

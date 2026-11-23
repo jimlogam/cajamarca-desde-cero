@@ -1,7 +1,7 @@
 Nombre: Fundacion Tecnica Thomas Alva Edison
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Taller de reparaciones eléctricas, Taller de reparación de cámaras, Servicios de ingeniería eléctrica
 Dirección: Jr marañon 701(esquina con Jr Chepen, San José, Cajamarca 06001
 Teléfono: 976 352 169

@@ -1,7 +1,7 @@
 Nombre: Caxagas
-Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
-Rubro: Materiales_y_Ferreteria
-Subrubro: Ferreterias_Generales
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Bodegas
 Categoría Maps: Tienda de artículos para el hogar
 Dirección: Jr. Guillermo Urrelo 677, Cajamarca 06002
 Teléfono: (076) 375353

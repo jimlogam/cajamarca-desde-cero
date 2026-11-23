@@ -1,7 +1,7 @@
 Nombre: JMC
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Venta_de_Vehiculos_Nuevos_y_Usados
 Categoría Maps: Concesionario de vehículos todoterreno
 Dirección: Av Vía de Evitamiento Nte 350, Cajamarca 06001
 Teléfono: (076) 507144

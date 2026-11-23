@@ -1,7 +1,7 @@
 Nombre: Lombardi motors EIRL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Taller mecánico, Service establishment
 Dirección: 
 Teléfono: 976 391 464

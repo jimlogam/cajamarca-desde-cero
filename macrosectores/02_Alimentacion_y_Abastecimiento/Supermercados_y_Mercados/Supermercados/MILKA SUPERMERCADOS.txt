@@ -1,7 +1,7 @@
 Nombre: MILKA SUPERMERCADOS
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Rubro: Supermercados_y_Mercados
+Subrubro: Supermercados
 Categoría Maps: Tienda de alimentación
 Dirección: Cinco Esquinas 786, Cajamarca 06002
 Teléfono: 

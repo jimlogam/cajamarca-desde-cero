@@ -1,7 +1,7 @@
 Nombre: PANADERÍA Y PASTELERÍA GOLDEN
 Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Pizzerias_y_Pastas
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
 Categoría Maps: Panadería, Pastelería, Pizzería
 Dirección: Valle De Dios, Av. Cajamarca Mz 50 Lt04, 13630
 Teléfono: 922 115 566

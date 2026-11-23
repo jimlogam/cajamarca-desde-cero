@@ -1,7 +1,7 @@
 Nombre: Avicola Pungurume S.A.C
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Embutidos_y_Chacinados
 Categoría Maps: Granja avícola
 Dirección: Jr. Ramon Castilla 589, Cajamarca 06003
 Teléfono: 976 615 478

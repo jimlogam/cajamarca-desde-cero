@@ -1,7 +1,7 @@
 Nombre: Lupita Fiesta & Repostería
 Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
 Categoría Maps: Mayorista
 Dirección: Cinco Esquinas 372, Cajamarca 06002
 Teléfono: 933 799 938

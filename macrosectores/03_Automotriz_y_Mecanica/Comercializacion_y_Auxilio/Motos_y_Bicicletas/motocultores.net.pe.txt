@@ -1,7 +1,7 @@
 Nombre: motocultores.net.pe
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Almacén, Cuarto de herramientas, Tienda de suministros para soldadura
 Dirección: Delfín Cerna 390, Cajamarca 06002
 Teléfono: 963 523 072

@@ -1,7 +1,7 @@
 Nombre: MINI MARKET BELEN
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Supermercados_y_Mercados
-Subrubro: Puestos_de_Mercado_de_Abastos
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
 Categoría Maps: Mercado
 Dirección: 06001, Cajamarca 06001
 Teléfono: 950 190 430

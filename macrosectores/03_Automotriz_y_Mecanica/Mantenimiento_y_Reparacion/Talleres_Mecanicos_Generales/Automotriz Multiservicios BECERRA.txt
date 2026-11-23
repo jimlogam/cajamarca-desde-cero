@@ -1,7 +1,7 @@
 Nombre: Automotriz Multiservicios BECERRA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Taller mecánico
 Dirección: Jr, Los Sauces D-2, Cajamarca 06001
 Teléfono: 

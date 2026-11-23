@@ -1,7 +1,7 @@
 Nombre: A&B Minimarket
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
 Rubro: Comercio_Minorista
-Subrubro: Bodegas
+Subrubro: Minimarkets
 Categoría Maps: Bodega
 Dirección: 13 De Julio 549, Cajamarca 06002
 Teléfono: 947 518 964

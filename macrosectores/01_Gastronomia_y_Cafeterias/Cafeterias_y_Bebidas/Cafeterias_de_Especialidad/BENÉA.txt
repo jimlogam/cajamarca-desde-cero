@@ -1,7 +1,7 @@
 Nombre: BENÉA
 Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Panaderias_y_Pastelerias
-Subrubro: Pasteleria_y_Tortas
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
 Categoría Maps: Crepería, Cafetería
 Dirección: Amalia Puga 815, Cajamarca 06001
 Teléfono: 978 718 086

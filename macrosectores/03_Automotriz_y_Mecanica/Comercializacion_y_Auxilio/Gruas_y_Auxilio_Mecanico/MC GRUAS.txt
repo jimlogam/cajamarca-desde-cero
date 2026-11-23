@@ -1,7 +1,7 @@
 Nombre: MC GRUAS
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Gruas_y_Auxilio_Mecanico
 Categoría Maps: Servicio de transporte
 Dirección: Carretera a Jesús, a 1km de la, Cajamarca 06001
 Teléfono: 970 905 675

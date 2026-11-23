@@ -1,7 +1,7 @@
 Nombre: GROUP MOTORS A&A
 Macro-Sector: 03_Automotriz_y_Mecanica
-Rubro: Partes_y_Accesorios
-Subrubro: Repuestos_y_Llantas
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Tienda de repuestos para automóviles
 Dirección: Av. Vía de Evitamiento Sur 2905, Cajamarca 06000
 Teléfono: 976 011 112

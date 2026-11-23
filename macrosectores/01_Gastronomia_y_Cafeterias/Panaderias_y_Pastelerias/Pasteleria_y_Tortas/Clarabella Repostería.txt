@@ -1,7 +1,7 @@
 Nombre: Clarabella Repostería
 Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
 Categoría Maps: Bufé de dulces y repostería
 Dirección: jr, Cinco Esquinas 335, Cajamarca 06001
 Teléfono: 983 962 038

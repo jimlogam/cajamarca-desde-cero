@@ -1,7 +1,7 @@
 Nombre: NORAMAZONIKA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Panaderias_y_Pastelerias
-Subrubro: Pasteleria_y_Tortas
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Bodegas
 Categoría Maps: Tienda de productos de chocolate
 Dirección: los Frailones, Jr, Dos de Mayo 255, Cajamarca 06001
 Teléfono: 976 667 754

@@ -1,7 +1,7 @@
 Nombre: DIACOR - LABORATORIO DE MECANICA DE SUELOS Y CONCRETO
-Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
-Rubro: Obras_y_Estructuras
-Subrubro: Constructoras_y_Contratistas
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Empresa de construcción
 Dirección: JR, Los Girasoles N° 281, Cajamarca 06000
 Teléfono: 930 209 753

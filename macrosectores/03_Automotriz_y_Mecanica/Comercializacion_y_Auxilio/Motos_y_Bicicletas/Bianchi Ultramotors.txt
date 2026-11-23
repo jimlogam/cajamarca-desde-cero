@@ -1,7 +1,7 @@
 Nombre: Bianchi Ultramotors
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Taller de reparación de motos, Tienda de motocicletas
 Dirección: Av. Vía de Evitamiento Sur 733, Cajamarca 06002
 Teléfono: 995 093 671

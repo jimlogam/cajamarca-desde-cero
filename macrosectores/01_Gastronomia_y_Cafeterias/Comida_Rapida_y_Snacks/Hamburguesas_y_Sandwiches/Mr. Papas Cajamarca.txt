@@ -1,7 +1,7 @@
 Nombre: Mr. Papas Cajamarca
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Comida_Rapida_y_Snacks
-Subrubro: Snacks_y_Piques
+Subrubro: Hamburguesas_y_Sandwiches
 Categoría Maps: Restaurante de comida rápida
 Dirección: AV. VIA DE EVITAMIENTO NORTE 2130, Vía de Evitamiento Nte. 2140, Cajamarca 06000
 Teléfono: 998 156 842

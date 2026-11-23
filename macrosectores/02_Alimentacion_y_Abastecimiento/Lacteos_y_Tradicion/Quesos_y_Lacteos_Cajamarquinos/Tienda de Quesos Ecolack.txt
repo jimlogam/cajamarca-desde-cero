@@ -1,7 +1,7 @@
 Nombre: Tienda de Quesos Ecolack
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Rubro: Lacteos_y_Tradicion
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
 Categoría Maps: Comercio
 Dirección: Jr.Amazonas 533, Cajamarca 06001
 Teléfono: 

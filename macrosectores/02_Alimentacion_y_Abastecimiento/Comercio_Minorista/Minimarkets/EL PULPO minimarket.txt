@@ -1,7 +1,7 @@
 Nombre: EL PULPO minimarket
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
 Rubro: Comercio_Minorista
-Subrubro: Bodegas
+Subrubro: Minimarkets
 Categoría Maps: Bodega
 Dirección: Agua Marina, Cajamarca 06003
 Teléfono: 913 040 751

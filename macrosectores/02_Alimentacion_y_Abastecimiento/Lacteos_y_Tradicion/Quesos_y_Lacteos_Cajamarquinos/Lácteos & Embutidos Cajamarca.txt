@@ -1,7 +1,7 @@
 Nombre: Lácteos & Embutidos Cajamarca
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
 Rubro: Lacteos_y_Tradicion
-Subrubro: Embutidos_y_Chacinados
+Subrubro: Quesos_y_Lacteos_Cajamarquinos
 Categoría Maps: Charcutería
 Dirección: Av. la Molina 810 INT. 29 Urb, Lima 15012
 Teléfono: 948 033 366

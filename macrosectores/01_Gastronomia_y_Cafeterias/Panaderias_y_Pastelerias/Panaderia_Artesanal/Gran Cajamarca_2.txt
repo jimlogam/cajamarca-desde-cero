@@ -1,7 +1,7 @@
 Nombre: Gran Cajamarca
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Lacteos_y_Tradicion
-Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
 Categoría Maps: Panadería
 Dirección: Av. el Sol Este 303, Barranco 15063
 Teléfono: (01) 3908454

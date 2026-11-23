@@ -1,7 +1,7 @@
 Nombre: I. E. P. Pequeñas Travesuras
-Macro-Sector: 13_Educacion_y_Formacion
-Rubro: Educacion_Basica
-Subrubro: Nidos_y_Guarderias
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Embutidos_y_Chacinados
 Categoría Maps: Jardín de infancia
 Dirección: Jr.Amazonas 931, Cajamarca 06003
 Teléfono: 984 762 173

@@ -1,7 +1,7 @@
 Nombre: Eco Nativo
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Salud_Alimentaria
+Subrubro: Productos_Naturales_y_Organicos
 Categoría Maps: Tienda de alimentos orgánicos
 Dirección: Luz Esperanza 133, Cajamarca 06001
 Teléfono: 971 989 600

@@ -1,7 +1,7 @@
 Nombre: Concesionario SAC
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Venta_de_Vehiculos_Nuevos_y_Usados
 Categoría Maps: Restaurante
 Dirección: Manuel Gonzáles Prada 313, Cajamarca 06001
 Teléfono: (076) 340721

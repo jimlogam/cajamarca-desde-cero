@@ -1,7 +1,7 @@
 Nombre: Pierina's Store
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Bodegas
 Categoría Maps: Tienda de artículos ortopédicos
 Dirección: Vía de Evitamiento Nte. 2264, Cajamarca 06001
 Teléfono: 941 017 546

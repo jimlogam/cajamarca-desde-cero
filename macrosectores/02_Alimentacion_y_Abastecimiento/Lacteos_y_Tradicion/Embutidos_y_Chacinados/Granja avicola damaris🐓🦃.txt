@@ -1,7 +1,7 @@
 Nombre: Granja avicola damaris🐓🦃
-Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Sector_Agropecuario
-Subrubro: Tiendas_Agroveterinarias
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Embutidos_y_Chacinados
 Categoría Maps: Granja
 Dirección: QFRX+569, Cajamarca 06000
 Teléfono: 916 767 930

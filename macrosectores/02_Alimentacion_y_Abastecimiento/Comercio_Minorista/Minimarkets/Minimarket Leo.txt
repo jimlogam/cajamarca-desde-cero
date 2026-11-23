@@ -1,7 +1,7 @@
 Nombre: Minimarket Leo
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
 Categoría Maps: Distribuidor de comestibles
 Dirección: CARRETERA A JESUS, Cajamarca 06003
 Teléfono: 997 877 880

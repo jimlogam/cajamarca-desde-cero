@@ -1,7 +1,7 @@
 Nombre: Cajamarca HOST - Proveedor de servicios web en cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Empresa de alojamiento web
 Dirección: Jr, Los Eucaliptos 112, Cajamarca 06000
 Teléfono: 976 313 531

@@ -1,7 +1,7 @@
 Nombre: Global Service
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Limpieza_y_Cuidado
+Subrubro: Car_Wash_y_Lavados
 Categoría Maps: Electricista, Servicio de lavado de coches, Taller mecánico, Servicio de cambio de aceite, Servicio de lavado a presión
 Dirección: Colonial 399, Cajamarca 06001
 Teléfono: 956 443 669

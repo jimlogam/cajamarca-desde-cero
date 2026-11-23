@@ -1,7 +1,7 @@
 Nombre: Akemy Distribuidora y Servicios Generales EIRL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Mayorista
 Dirección: Jr, Sta. Teresa de Journet L 11, Cajamarca 06001
 Teléfono: 940 229 540

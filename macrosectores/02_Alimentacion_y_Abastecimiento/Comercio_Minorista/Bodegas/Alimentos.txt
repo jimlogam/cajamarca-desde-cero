@@ -1,7 +1,7 @@
 Nombre: Alimentos
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
 Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Subrubro: Bodegas
 Categoría Maps: Tienda de alimentación
 Dirección: Jr, Prol. Revilla Perez 540, Cajamarca 06001
 Teléfono: 976 968 787

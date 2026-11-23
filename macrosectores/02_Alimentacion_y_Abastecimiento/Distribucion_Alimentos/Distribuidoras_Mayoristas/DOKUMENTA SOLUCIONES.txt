@@ -1,7 +1,7 @@
 Nombre: DOKUMENTA SOLUCIONES
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Proveedor de equipos de impresión, Oficinas de empresa
 Dirección: JR. HORACIO URTEAGA 353 JR, Horacio Urteaga 353, Cajamarca 06001
 Teléfono: 976 153 071

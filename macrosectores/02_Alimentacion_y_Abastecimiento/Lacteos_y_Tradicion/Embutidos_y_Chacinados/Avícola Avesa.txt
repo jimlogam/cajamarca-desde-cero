@@ -1,7 +1,7 @@
 Nombre: Avícola Avesa
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Embutidos_y_Chacinados
 Categoría Maps: Carnicería
 Dirección: 11 de Febrero 263, Cajamarca 06001
 Teléfono: 910 269 318

@@ -1,7 +1,7 @@
 Nombre: Corporación Sj Automotriz
 Macro-Sector: 03_Automotriz_y_Mecanica
-Rubro: Partes_y_Accesorios
-Subrubro: Repuestos_y_Llantas
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Tienda de repuestos para automóviles
 Dirección: Jirón Sucre 467, Cajamarca 06002
 Teléfono: 

@@ -1,7 +1,7 @@
 Nombre: Tortas y bocaditos en Cajamarca
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Panaderias_y_Pastelerias
-Subrubro: Panaderia_Artesanal
+Subrubro: Pasteleria_y_Tortas
 Categoría Maps: Panadería
 Dirección: Av. Hoyos Rubio 233, Cajamarca 06001
 Teléfono: 976 927 878

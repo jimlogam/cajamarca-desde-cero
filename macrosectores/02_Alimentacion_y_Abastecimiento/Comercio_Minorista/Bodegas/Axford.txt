@@ -1,7 +1,7 @@
 Nombre: Axford
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
 Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Subrubro: Bodegas
 Categoría Maps: Tienda de alimentación
 Dirección: Jr, El Inca, Cajamarca 06004
 Teléfono: 988 529 608

@@ -1,7 +1,7 @@
 Nombre: Punto Chiclayano
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Comida_Rapida_y_Snacks
-Subrubro: Snacks_y_Piques
+Subrubro: Hamburguesas_y_Sandwiches
 Categoría Maps: Restaurante de comida rápida
 Dirección: Buganvillas 112, Cajamarca 06001
 Teléfono: 914 906 917

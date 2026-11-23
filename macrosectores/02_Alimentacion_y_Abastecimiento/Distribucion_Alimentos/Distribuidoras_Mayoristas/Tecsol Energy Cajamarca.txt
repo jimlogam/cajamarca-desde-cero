@@ -1,7 +1,7 @@
 Nombre: Tecsol Energy Cajamarca
-Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
-Rubro: Instalaciones_del_Hogar
-Subrubro: Electricistas
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Proveedor de equipos de energía solar
 Dirección: Av Vía de Evitamiento Nte N° 2474, Cajamarca 06002
 Teléfono: 967 277 334

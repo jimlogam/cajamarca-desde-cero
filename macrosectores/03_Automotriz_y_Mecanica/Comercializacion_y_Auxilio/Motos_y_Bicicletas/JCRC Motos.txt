@@ -1,7 +1,7 @@
 Nombre: JCRC Motos
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Concesionario de motos
 Dirección: Vía de Evitamiento Nte. 2530, Cajamarca 06002
 Teléfono: 958 061 666

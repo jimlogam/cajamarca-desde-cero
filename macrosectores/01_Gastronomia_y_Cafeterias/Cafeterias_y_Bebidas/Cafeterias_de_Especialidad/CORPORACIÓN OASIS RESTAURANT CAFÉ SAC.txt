@@ -1,7 +1,7 @@
 Nombre: CORPORACIÓN OASIS RESTAURANT CAFÉ SAC.
 Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Panaderias_y_Pastelerias
-Subrubro: Pasteleria_y_Tortas
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
 Categoría Maps: Pastelería, Restaurante de desayunos
 Dirección: Amalia Puga 828, Cajamarca 06002
 Teléfono: 

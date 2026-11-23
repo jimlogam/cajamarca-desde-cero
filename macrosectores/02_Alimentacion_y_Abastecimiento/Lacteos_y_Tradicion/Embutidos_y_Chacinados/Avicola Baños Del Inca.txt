@@ -1,7 +1,7 @@
 Nombre: Avicola Baños Del Inca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Embutidos_y_Chacinados
 Categoría Maps: Granja avícola
 Dirección: 8B 247, Baños del Inca 06004
 Teléfono: 967 903 142

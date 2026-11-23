@@ -1,7 +1,7 @@
 Nombre: Califa Motors
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Oficinas de empresa
 Dirección: Av Vía de Evitamiento Nte 1785, Cajamarca 06001
 Teléfono: 992 270 929

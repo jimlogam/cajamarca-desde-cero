@@ -1,7 +1,7 @@
 Nombre: Varos Chicken Grill
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Pollerias_y_Parrillas
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Embutidos_y_Chacinados
 Categoría Maps: Tienda de aves de corral
 Dirección: Av: San Martín de Porres 1903 Cajamarca Cruce con Héroes del Cenepa _ Cajamarca Barrio San Martín de Porres, Cajamarca
 Teléfono: 913 188 227

@@ -1,7 +1,7 @@
 Nombre: Planta procesadora de alimentos balanceados "Avícola damaris" 🐖🐤🐣🐓🐔🦃
-Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Plantas_y_Jardineria
-Subrubro: Viveros_y_Plantas_Ornamentales
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Embutidos_y_Chacinados
 Categoría Maps: Tienda de animales
 Dirección: Agomarca san Antonio, Cajamarca 06000
 Teléfono: 912 134 120

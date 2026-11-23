@@ -1,7 +1,7 @@
 Nombre: Lavadero de autos y motos - La esquina
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Limpieza_y_Cuidado
+Subrubro: Car_Wash_y_Lavados
 Categoría Maps: Autoservicio de lavado de autos
 Dirección: Los Alisos 488, Cajamarca 06001
 Teléfono: 

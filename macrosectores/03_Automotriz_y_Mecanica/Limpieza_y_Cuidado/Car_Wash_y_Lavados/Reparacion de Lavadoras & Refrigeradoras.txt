@@ -1,7 +1,7 @@
 Nombre: Reparacion de Lavadoras & Refrigeradoras
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Limpieza_y_Cuidado
+Subrubro: Car_Wash_y_Lavados
 Categoría Maps: Servicio de reparación de electrodomésticos
 Dirección: Av. Mártires de Uchuraccay 1355, Cajamarca 06003
 Teléfono: 935 113 767

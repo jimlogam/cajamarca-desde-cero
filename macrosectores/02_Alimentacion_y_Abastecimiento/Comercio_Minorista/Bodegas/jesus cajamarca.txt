@@ -1,7 +1,7 @@
 Nombre: jesus cajamarca
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
 Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Subrubro: Bodegas
 Categoría Maps: Tienda de alimentación
 Dirección: RFXH+JCH, Jr. Sara MacDougall, Cajamarca 06001
 Teléfono: 

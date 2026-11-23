@@ -1,7 +1,7 @@
 Nombre: Cannolli Postres - Café
 Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Panaderias_y_Pastelerias
-Subrubro: Pasteleria_y_Tortas
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
 Categoría Maps: Tienda de postres
 Dirección: Av. Hoyos Rubio 253, Cajamarca 06001
 Teléfono: 

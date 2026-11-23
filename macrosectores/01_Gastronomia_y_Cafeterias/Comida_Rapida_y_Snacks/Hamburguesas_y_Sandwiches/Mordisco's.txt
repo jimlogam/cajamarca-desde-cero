@@ -1,7 +1,7 @@
 Nombre: Mordisco's
-Macro-Sector: 14_Entretenimiento_y_Eventos
-Rubro: Vida_Nocturna
-Subrubro: Restobares_y_Karaokes
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
 Categoría Maps: Pub restaurante, Restaurante de comida rápida, Restaurante
 Dirección: Av. Héroes del Cenepa 1497, Cajamarca 06003
 Teléfono: 989 584 528

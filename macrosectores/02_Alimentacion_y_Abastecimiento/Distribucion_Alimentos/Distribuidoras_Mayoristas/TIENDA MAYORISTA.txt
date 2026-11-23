@@ -1,7 +1,7 @@
 Nombre: TIENDA MAYORISTA
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Tienda de alimentación
 Dirección: RFXM+H8Q, Contamana, Cajamarca 06001
 Teléfono: 

@@ -1,7 +1,7 @@
 Nombre: MR.Brasas
 Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Comida_Rapida_y_Snacks
-Subrubro: Hamburguesas_y_Sandwiches
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
 Categoría Maps: Hamburguesería
 Dirección: Jr. Bolognesi 377, Cajamarca 06003
 Teléfono: 927 227 698

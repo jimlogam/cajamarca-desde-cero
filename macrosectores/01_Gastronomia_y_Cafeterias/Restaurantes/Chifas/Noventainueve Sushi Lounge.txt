@@ -1,7 +1,7 @@
 Nombre: Noventainueve Sushi Lounge
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Subrubro: Chifas
 Categoría Maps: Restaurante japonés
 Dirección: Jr, Delfín Cerna 141, Cajamarca 06002
 Teléfono: (076) 362928

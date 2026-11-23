@@ -1,7 +1,7 @@
 Nombre: JIRÉH Panadería y Pastelería
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
 Categoría Maps: Tienda de alimentación
 Dirección: Av San Martín de Porres, 787, intersección Andes con, Cajamarca
 Teléfono: (076) 357058

@@ -1,7 +1,7 @@
 Nombre: NARRO SERVICIOS GENERALES SRL.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Proveedor de mangueras
 Dirección: Prolongacion Jesus de Nazareth, Cajamarca 06003
 Teléfono: 951 043 606

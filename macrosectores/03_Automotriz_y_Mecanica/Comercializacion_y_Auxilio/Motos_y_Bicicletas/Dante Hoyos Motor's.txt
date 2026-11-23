@@ -1,7 +1,7 @@
 Nombre: Dante Hoyos Motor's
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Concesionario de motos
 Dirección: RFVV+574, Vía de Evitamiento Nte., Cajamarca 06002
 Teléfono: (076) 604921

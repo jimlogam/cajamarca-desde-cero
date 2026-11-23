@@ -1,7 +1,7 @@
 Nombre: CAXAGAS SAN MARTIN
-Macro-Sector: 15_Logistica_Transporte_y_Energia
-Rubro: Energia_y_Combustibles
-Subrubro: Venta_de_Gas_GLP_y_Balones
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Compañía del gas, Proveedor de gas industrial
 Dirección: Av San Martín de Porres 1762, Cajamarca 06000
 Teléfono: 951 720 622

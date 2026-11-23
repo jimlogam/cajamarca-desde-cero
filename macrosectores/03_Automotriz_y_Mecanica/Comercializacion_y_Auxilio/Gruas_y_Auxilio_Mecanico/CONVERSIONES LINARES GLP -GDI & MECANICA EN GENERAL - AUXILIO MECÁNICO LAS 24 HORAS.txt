@@ -1,7 +1,7 @@
 Nombre: CONVERSIONES LINARES GLP -GDI & MECANICA EN GENERAL - AUXILIO MECÁNICO LAS 24 HORAS
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Gruas_y_Auxilio_Mecanico
 Categoría Maps: Taller mecánico
 Dirección: 05001, Cajamarca 06001
 Teléfono: 970 073 279

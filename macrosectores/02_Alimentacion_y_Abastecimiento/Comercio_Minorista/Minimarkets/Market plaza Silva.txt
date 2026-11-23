@@ -1,7 +1,7 @@
 Nombre: Market plaza Silva
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Minimarkets
 Categoría Maps: Tienda de abarrotes rusa
 Dirección: Los 3 Reyes 172, Cajamarca 06000
 Teléfono: 925 532 673

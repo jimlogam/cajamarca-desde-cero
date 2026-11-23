@@ -1,7 +1,7 @@
 Nombre: AVÍCOLA " EL QUINDE "
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Lacteos_y_Tradicion
+Subrubro: Embutidos_y_Chacinados
 Categoría Maps: Pajarería
 Dirección: La victoria, llacanora, Cajamarca
 Teléfono: 983 883 489

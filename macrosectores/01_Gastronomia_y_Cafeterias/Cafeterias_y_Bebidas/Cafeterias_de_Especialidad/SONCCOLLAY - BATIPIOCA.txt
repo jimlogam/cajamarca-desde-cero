@@ -1,7 +1,7 @@
 Nombre: SONCCOLLAY - BATIPIOCA
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
-Subrubro: Juguerias_y_Fuentes_de_Soda
+Subrubro: Cafeterias_de_Especialidad
 Categoría Maps: Restaurante de comida rápida, Tienda de zumos, Bubble Tea
 Dirección: Jirón del Comercio 235, Cajamarca 06001
 Teléfono: 

@@ -1,7 +1,7 @@
 Nombre: Paraiso 50 Distribuidor Autorizado
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: 
 Dirección: Jr.Amazonas 339, Cajamarca 06001
 Teléfono: 

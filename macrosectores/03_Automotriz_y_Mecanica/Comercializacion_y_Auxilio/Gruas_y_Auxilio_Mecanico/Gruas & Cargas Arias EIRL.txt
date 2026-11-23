@@ -1,7 +1,7 @@
 Nombre: Gruas & Cargas Arias EIRL
-Macro-Sector: 15_Logistica_Transporte_y_Energia
-Rubro: Carga_y_Envios
-Subrubro: Couriers_y_Envio_de_Encomiendas
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Gruas_y_Auxilio_Mecanico
 Categoría Maps: Servicio de grúa
 Dirección: Cajamarca, Jirón Silva Santisteban 645, Cajamarca 06001
 Teléfono: 994 294 471

@@ -1,7 +1,7 @@
 Nombre: L&N SOLUCIONES AUTOMOTRICES
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Proveedor de accesorios para afinación automotriz
 Dirección: Jr. Portugal MZA Lt-8, Cajamarca 06001
 Teléfono: 971 381 419

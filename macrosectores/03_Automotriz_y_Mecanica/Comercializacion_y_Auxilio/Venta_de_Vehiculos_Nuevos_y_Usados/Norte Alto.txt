@@ -1,7 +1,7 @@
 Nombre: Norte Alto
-Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Sector_Agropecuario
-Subrubro: Herramientas_Agricolas_y_Riego
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Venta_de_Vehiculos_Nuevos_y_Usados
 Categoría Maps: Concesionario de maquinaria de construcción, Distribuidor de equipos para jardinería
 Dirección: Av Vía de Evitamiento Nte 1116, Cajamarca 06001
 Teléfono: 982 113 105

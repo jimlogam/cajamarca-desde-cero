@@ -1,7 +1,7 @@
 Nombre: Don Pig
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Comida_Rapida_y_Snacks
-Subrubro: Snacks_y_Piques
+Subrubro: Hamburguesas_y_Sandwiches
 Categoría Maps: Restaurante de comida rápida
 Dirección: RFXR+QRQ Plazuela San Luis, Cajamarca 06002
 Teléfono: 965 179 940

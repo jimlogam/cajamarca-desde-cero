@@ -1,7 +1,7 @@
 Nombre: GRAN CAJAMARCA - LA MOLINA
 Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Lacteos_y_Tradicion
-Subrubro: Quesos_y_Lacteos_Cajamarquinos
+Rubro: Comercio_Minorista
+Subrubro: Bodegas
 Categoría Maps: Tienda de alimentación
 Dirección: Av. Los Constructores 1352, La Molina 15012
 Teléfono: 967 381 271

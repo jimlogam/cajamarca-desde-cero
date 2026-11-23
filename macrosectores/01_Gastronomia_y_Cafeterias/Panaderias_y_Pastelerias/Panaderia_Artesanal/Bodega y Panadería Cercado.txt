@@ -1,7 +1,7 @@
 Nombre: Bodega y Panadería Cercado
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Comercio_Minorista
-Subrubro: Bodegas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Panaderia_Artesanal
 Categoría Maps: Bodega
 Dirección: Angamos 1152, Cajamarca 06001
 Teléfono: 949 035 058

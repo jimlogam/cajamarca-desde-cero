@@ -1,7 +1,7 @@
 Nombre: Almacén MarAli BrinBrinca Toys
-Macro-Sector: 06_Comercio_Moda_y_Regalos
-Rubro: Libreria_y_Juegos
-Subrubro: Jugueterias_y_Disfraces
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Juguetería
 Dirección: Av. Independencia 568, Cajamarca 06002
 Teléfono: 

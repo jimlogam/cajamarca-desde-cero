@@ -1,7 +1,7 @@
 Nombre: "Shunde"
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Subrubro: Chifas
 Categoría Maps: Restaurante
 Dirección: Los Leones 394, Cajamarca 06002
 Teléfono: 

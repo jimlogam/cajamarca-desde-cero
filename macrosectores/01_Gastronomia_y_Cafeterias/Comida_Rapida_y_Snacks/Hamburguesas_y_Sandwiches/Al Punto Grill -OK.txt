@@ -1,7 +1,7 @@
 Nombre: Al Punto Grill
 Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Pollerias_y_Parrillas
+Rubro: Comida_Rapida_y_Snacks
+Subrubro: Hamburguesas_y_Sandwiches
 Categoría Maps: Hamburguesería
 Dirección: Jacarandá 404, Cajamarca 06002
 Teléfono: 

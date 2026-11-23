@@ -1,7 +1,7 @@
 Nombre: Konoha Ramen & Sushi
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Subrubro: Chifas
 Categoría Maps: Restaurante japonés
 Dirección: Arnaldo Márquez 442, Cajamarca 06002
 Teléfono: 953 053 815

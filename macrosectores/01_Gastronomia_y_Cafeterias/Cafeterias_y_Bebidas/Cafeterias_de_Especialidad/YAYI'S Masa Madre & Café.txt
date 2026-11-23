@@ -1,7 +1,7 @@
 Nombre: YAYI'S Masa Madre & Café
 Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Panaderias_y_Pastelerias
-Subrubro: Panaderia_Artesanal
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Cafeterias_de_Especialidad
 Categoría Maps: Panadería, Tienda de postres, Cafetería
 Dirección: Mariano Melgar 193, Cajamarca 06000
 Teléfono: 940 387 724

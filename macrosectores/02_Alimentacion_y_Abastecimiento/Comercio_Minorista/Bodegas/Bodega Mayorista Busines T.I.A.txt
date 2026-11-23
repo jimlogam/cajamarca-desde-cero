@@ -1,7 +1,7 @@
 Nombre: Bodega Mayorista Busines T.I.A.
-Macro-Sector: 06_Comercio_Moda_y_Regalos
-Rubro: Moda_y_Textil
-Subrubro: Ropa_Damas_Caballeros_Ninos
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Comercio_Minorista
+Subrubro: Bodegas
 Categoría Maps: Centro comercial
 Dirección: Av. Vía de Evitamiento Sur 962, Cajamarca 06003
 Teléfono: 

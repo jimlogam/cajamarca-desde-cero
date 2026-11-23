@@ -1,7 +1,7 @@
 Nombre: IMPORTACIONES ARIM
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Importador, Mayorista
 Dirección: Jirón Silva Santisteban 621, Cajamarca 06002
 Teléfono: 964 449 148

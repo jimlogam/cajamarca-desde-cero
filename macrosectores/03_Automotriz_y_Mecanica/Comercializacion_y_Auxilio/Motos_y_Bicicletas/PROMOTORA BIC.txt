@@ -1,7 +1,7 @@
 Nombre: PROMOTORA BIC
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Empresa de organización de eventos
 Dirección: Jirón Manuel Seoane 169, Cajamarca 06001
 Teléfono: 

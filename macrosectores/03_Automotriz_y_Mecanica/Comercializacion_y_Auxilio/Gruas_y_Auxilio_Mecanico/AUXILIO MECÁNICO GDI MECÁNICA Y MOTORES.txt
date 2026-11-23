@@ -1,7 +1,7 @@
 Nombre: AUXILIO MECÁNICO GDI MECÁNICA Y MOTORES
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Gruas_y_Auxilio_Mecanico
 Categoría Maps: Taller de automóviles
 Dirección: Huambocanchaalta km6, Cajamarca 06000
 Teléfono: 976 033 176

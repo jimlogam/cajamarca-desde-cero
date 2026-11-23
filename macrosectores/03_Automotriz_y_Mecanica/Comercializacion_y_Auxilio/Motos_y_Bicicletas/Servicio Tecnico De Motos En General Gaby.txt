@@ -1,7 +1,7 @@
 Nombre: Servicio Tecnico De Motos En General Gaby
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Taller de reparación de automóviles
 Dirección: Av. Mártires de Uchuraccay 515, Cajamarca 06003
 Teléfono: 

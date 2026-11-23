@@ -1,7 +1,7 @@
 Nombre: Los Sauces Caxagas
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Distribuidor de Opel
 Dirección: Los Sauces 341, Cajamarca 06000
 Teléfono: 976 371 312

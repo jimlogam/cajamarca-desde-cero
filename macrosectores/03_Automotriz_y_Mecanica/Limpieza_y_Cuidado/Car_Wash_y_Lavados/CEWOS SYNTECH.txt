@@ -1,7 +1,7 @@
 Nombre: CEWOS SYNTECH
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Limpieza_y_Cuidado
+Subrubro: Car_Wash_y_Lavados
 Categoría Maps: Servicio de lavado de coches, Taller de amortiguadores, Taller de frenos, Electricista
 Dirección: 06001, Cajamarca 06001
 Teléfono: 963 569 543

@@ -1,7 +1,7 @@
 Nombre: Distribuidora YAROVI
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 02_Alimentacion_y_Abastecimiento
+Rubro: Distribucion_Alimentos
+Subrubro: Distribuidoras_Mayoristas
 Categoría Maps: Servicio de logística
 Dirección: Urbanización. 22 de Octubre, 06000
 Teléfono: 986 984 246

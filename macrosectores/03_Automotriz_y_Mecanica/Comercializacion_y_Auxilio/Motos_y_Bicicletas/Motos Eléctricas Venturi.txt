@@ -1,7 +1,7 @@
 Nombre: Motos Eléctricas Venturi
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Comercializacion_y_Auxilio
+Subrubro: Motos_y_Bicicletas
 Categoría Maps: Concesionario de motos eléctricas
 Dirección: Jr, Mariscal Cáceres 1595, Cajamarca 06001
 Teléfono: 920 294 483

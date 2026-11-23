@@ -1,7 +1,7 @@
 Nombre: CONSORCIO AACV SAC
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 03_Automotriz_y_Mecanica
+Rubro: Mantenimiento_y_Reparacion
+Subrubro: Talleres_Mecanicos_Generales
 Categoría Maps: Taller de reparación de herramientas
 Dirección: 3N 2523, Cajamarca 06002
 Teléfono: 947 295 786
