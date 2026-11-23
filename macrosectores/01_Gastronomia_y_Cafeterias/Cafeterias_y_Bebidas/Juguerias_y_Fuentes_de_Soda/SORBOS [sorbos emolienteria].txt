@@ -2,9 +2,9 @@ Nombre: SORBOS [sorbos emolienteria]
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Juguerias_y_Fuentes_de_Soda
-Categoría Maps: Pub restaurante
+Categoría Maps: Pub restaurante, Emolientería gourmet
 Dirección: 51, Cajamarca 06001
-Teléfono: 947 598 967
+Teléfono: 
 Rating: 4.6
 Reseñas: 44
 Sitio web: 
@@ -14,256 +14,153 @@ Google Maps: https://www.google.com/maps?cid=17797538015061602492
 Place Id: ChIJJVw-VXlbspERvPBBgIeO_fY
 Fotos: SORBOS [sorbos emolienteria].jpg
 Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLf9NS8pyXJI7wIbCgsk7YfZIPIH7JwVWjmCh-4zcjyVwYv83rhU7fDx_4S08ZEosixgsMTXCGI7MEpzQfxTwY1QfjQZ8B7csr8_NUV1TYHfByBtOMrnnTqY7WhXdgVcS3-WF9E=w1600-h1200-k-no
-Nota: Aparecia 2 veces en los 5 archivos; fusionado en uno.
 
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-Te damos la bienvenida a SORBOS [sorbos emolienteria]. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en 51, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Ubicada a solo 48 metros de la imponente Plaza de Armas de Cajamarca, SORBOS [sorbos emolienteria] eleva la tradicional bebida andina a una experiencia gourmet sin precedentes. Deléitate con nuestros afamados emolientes frutados con hierbas medicinales del valle, macerados artesanales, cafés de altura, jugos naturales y piqueos tradicionales en un ambiente rústico y bohemio. El refugio perfecto para abrigar las tardes andinas con estilo, cultura y sabor. ¡Ven y vive la magia en cada sorbo!
 ================================================================================
 
 --------------------------------------------------------------------------------
 20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
 --------------------------------------------------------------------------------
 
---------------------------------------------------------------------------------
-PREGUNTA 1: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Café expreso simple en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Al elegir Café expreso simple disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+1. ¿Qué combinaciones de emolientes frutados y macerados artesanales preparan en barra?
+Reinventamos el emoliente tradicional andino incorporando extractos frutales de maracuyá, frutos rojos, piña y tamarindo sobre una base concentrada de cebada tostada, linaza y cola de caballo.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Servimos opciones clásicas medicinales con uña de gato, sábila fresca, boldo y menta andina, endulzadas con miel de abeja pura o panela orgánica.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Para el atardecer y la noche preparamos cócteles y macerados con pisco y hierbas locales, logrando un balance perfecto entre calor, aroma y tradición serrana.
 
-Ven con tus familiares o amigos a SORBOS [sorbos emolienteria] en 51, Cajamarca y déjate consentir por la sazón de Café expreso simple.
+2. ¿Cuál es el tiempo de caminata para llegar desde la Plaza de Armas de Cajamarca?
+Nos encontramos a tan solo 48 metros de la esquina suroeste de la Plaza de Armas, lo que supone una caminata de apenas medio minuto a pie.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Té de anís en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Disfrutar de Té de anís en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Solo debes dar unos pasos ingresando por el Jirón Dos de Mayo o Belén desde los portales de la plaza principal.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Por encontrarnos a escasos pasos del corazón cívico de Cajamarca, el acceso peatonal es inmediato y no requiere transporte alguno.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+3. ¿Qué piqueos criollos y sándwiches gourmet tienen para acompañar las bebidas?
+Servimos tablas de quesos artesanales cajamarquinos con frutos secos, sándwiches campesinos de jamón del país con salsa criolla en pan rústico, y tequeños con guacamole.
 
-En SORBOS [sorbos emolienteria] te esperamos en 51, Cajamarca para que compartas y disfrutes de Té de anís con la mejor atención y calidez.
+También preparamos porciones calientes de humitas dulces y saladas, empanaditas horneadas y tostadas con mantequilla andina aromatizada con finas hierbas.
 
---------------------------------------------------------------------------------
-PREGUNTA 3: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Chocolate con canela y clavo en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-En nuestra cocina tratamos Chocolate con canela y clavo como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Cada platillo se monta al instante para brindar una textura fresca y una presentación visualmente atractiva que resalta la identidad local.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+4. ¿Tienen empaque térmico para llevar emolientes calientes sin peligro de derrames?
+Disponemos de vasos térmicos de alta resistencia con tapas herméticas que conservan el calor humeante de los emolientes durante tus recorridos.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Los bocadillos y piqueos se entregan en envases ecológicos limpios que protegen la textura crujiente de los panes y quesos.
 
-Te invitamos a visitarnos en SORBOS [sorbos emolienteria], situado en 51, Cajamarca, listos para servirte Chocolate con canela y clavo con el sabor que te mereces.
+Puedes hacer tu pedido en barra para llevar mientras disfrutas de una caminata nocturna por el centro histórico iluminado.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Galletas con chispas de chocolate en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Disfrutar de Galletas con chispas de chocolate en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+5. ¿Qué tan rápido se arriba a pie desde el monumento histórico del Cuarto del Rescate?
+El Cuarto del Rescate se localiza a solo 221 metros hacia el este de nuestras instalaciones.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Caminando por las calles tradicionales del centro monumental se llega en aproximadamente 2 a 3 minutos a paso regular.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Es una caminata sumamente agradable que conecta el recorrido arqueológico con una reconfortante bebida caliente tradicional.
 
-En SORBOS [sorbos emolienteria] te esperamos en 51, Cajamarca para que compartas y disfrutes de Galletas con chispas de chocolate con la mejor atención y calidez.
+6. ¿Qué variedad de jugos naturales y bebidas frías tienen para los mediodías soleados?
+Servimos refrescantes jugos de papaya, piña Golden, maracuyá y batidos frutales con hielo purificado para los días despejados de la sierra.
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Qué ingredientes, preparación y presentación destacan en Croissant de jamón y queso en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-La preparación de Croissant de jamón y queso se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+Nuestras limonadas artesanales maceradas con hierbabuena fresca y emolientes fríos estilo iced tea son sumamente cotizados por su frescura equilibrada.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+No empleamos saborizantes químicos, garantizando la pureza total de los insumos recolectados en el valle.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+7. ¿Ofrecen opciones de emolientes sin azúcar o endulzados naturalmente?
+Podemos servir cualquiera de nuestros emolientes y bebidas sin adición de azúcares refinados para clientes que cuidan su salud.
 
-En SORBOS [sorbos emolienteria] cuidamos cada detalle en 51, Cajamarca para hacer de tu experiencia con Croissant de jamón y queso un motivo para volver siempre.
+Disponemos de miel de abeja andina pura, algarrobina de la costa norte y sobrecitos de edulcorante dietético para graduar el dulzor a tu gusto.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: ¿Qué ingredientes, preparación y presentación destacan en Sándwich de lomo saltado en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-La preparación de Sándwich de lomo saltado se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+Solo requieres indicarlo al barman al momento de ordenar para que ajuste la receta a tus preferencias nutricionales.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+8. ¿A qué distancia se encuentra el Mirador del Cerro Santa Apolonia?
+El cerro Santa Apolonia se ubica a 352 metros hacia el suroeste de SORBOS [sorbos emolienteria].
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+Subiendo por las escalinatas principales de piedra se llega a la base en apenas 4 a 5 minutos de caminata constante.
 
-En SORBOS [sorbos emolienteria] cuidamos cada detalle en 51, Cajamarca para hacer de tu experiencia con Sándwich de lomo saltado un motivo para volver siempre.
+Muchos comensales disfrutan de un emoliente caliente en nuestro local tras descender del mirador y contemplar el atardecer sobre el valle.
 
---------------------------------------------------------------------------------
-PREGUNTA 7: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Jugo de piña en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-En nuestra cocina tratamos Jugo de piña como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+9. ¿Cómo garantizan la inocuidad y la higiene en barra y preparación de hierbas?
+Lavamos meticulosamente cada atado de hierbas medicinales con agua purificada antes del prolongado proceso de cocción lenta.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Los utensilios, jarras y cristalería se esterilizan permanentemente entre cada servicio para asegurar la máxima salubridad y pureza de sabor.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+El personal viste indumentaria reglamentaria y manipula los alimentos con riguroso apego a las normas sanitarias vigentes.
 
-Te invitamos a visitarnos en SORBOS [sorbos emolienteria], situado en 51, Cajamarca, listos para servirte Jugo de piña con el sabor que te mereces.
+10. ¿Cuentan con ambiente musical y conexión wifi para reuniones o lectura?
+Disponemos de red wifi de libre acceso para clientes con excelente velocidad para navegar, revisar correos o compartir fotos de tu viaje.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Alfajores rellenos de manjar en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Al elegir Alfajores rellenos de manjar disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+La selección musical contempla géneros acústicos, folk andino contemporáneo e indie suave a volumen moderado para propiciar tertulias amenas.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Es un espacio bohemio y acogedor donde intelectuales, turistas y amigos se reúnen a compartir largas charlas al calor del emoliente.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+11. ¿Cuánto tiempo demora llegar caminando desde el Mercado Central de Cajamarca?
+El Mercado Central se ubica a 624 metros hacia el norte, lo que supone una caminata de unos 7 a 8 minutos por el Jirón Amazonas o Comercio.
 
-Ven con tus familiares o amigos a SORBOS [sorbos emolienteria] en 51, Cajamarca y déjate consentir por la sazón de Alfajores rellenos de manjar.
+Si prefieres transporte motorizado, una mototaxi te traerá en menos de dos minutos por una tarifa muy reducida.
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Qué ingredientes, preparación y presentación destacan en Batido de mango con yogurt en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-La preparación de Batido de mango con yogurt se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+Es una conexión sumamente práctica para rematar una tarde de compras con una bebida tradicional y reparadora.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+12. ¿Qué métodos de pago tienen habilitados para cancelar consumos en caja?
+Aceptamos pagos móviles rápidos mediante las aplicaciones digitales Yape y Plin escaneando el código QR en barra.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+También recibimos cobros con tarjetas de débito y crédito a través de terminal electrónico inalámbrico, transferencias y dinero en efectivo.
 
-En SORBOS [sorbos emolienteria] cuidamos cada detalle en 51, Cajamarca para hacer de tu experiencia con Batido de mango con yogurt un motivo para volver siempre.
+El cobro es ágil para facilitarte una salida rápida sin pérdida de tiempo en colas.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Frappé de moca en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Disfrutar de Frappé de moca en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+13. ¿Tienen espacio para sentarse a consumir con comodidad en el salón?
+Disponemos de mesas rústicas de madera y banquetas cómodas donde puedes sentarte a disfrutar de tu bebida y piqueo con total tranquilidad.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+El ambiente se distingue por su atmósfera cálida con detalles de arte cajamarquino que te invitan a relajarte plenamente.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Si vas con prisa, la preparación de emolientes al paso se efectúa en menos de tres minutos para tu conveniencia.
 
-En SORBOS [sorbos emolienteria] te esperamos en 51, Cajamarca para que compartas y disfrutes de Frappé de moca con la mejor atención y calidez.
+14. ¿Qué distancia y tiempo en mototaxi toma llegar desde el Centro Comercial Real Plaza?
+El complejo Real Plaza se sitúa a 1.42 kilómetros hacia el este de nuestro local.
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Empanada de carne en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-En nuestra cocina tratamos Empanada de carne como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+En mototaxi o taxi local el viaje toma entre 4 y 5 minutos transitando por la Avenida El Maestro hacia el centro histórico.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+La conexión es muy fluida y te permite complementar tus compras con la magia de una emolientería gourmet en el casco antiguo.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+15. ¿Atienden hasta la noche para quienes buscan abrigarse del frío serrano?
+Atendemos durante la tarde y noche para recibir a quienes buscan guarecerse de las bajas temperaturas nocturnas de Cajamarca.
 
-Te invitamos a visitarnos en SORBOS [sorbos emolienteria], situado en 51, Cajamarca, listos para servirte Empanada de carne con el sabor que te mereces.
+A esa hora, un emoliente caliente con limón andino y un toque de miel es la mejor compañía para culminar la jornada en el centro.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Té de frutos rojos en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-En nuestra cocina tratamos Té de frutos rojos como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Nuestro servicio se mantiene activo con bebidas humeantes y piqueos calientes para deleitar tu velada.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+16. ¿Qué beneficios digestivos y respiratorios tienen las hierbas que emplean?
+La linaza protege la mucosa estomacal, la cola de caballo actúa como diurético natural y la uña de gato fortalece las defensas del organismo.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Nuestros preparadores conocen las bondades terapéuticas de cada planta andina y te recomendarán la mezcla ideal según tus necesidades.
 
-Te invitamos a visitarnos en SORBOS [sorbos emolienteria], situado en 51, Cajamarca, listos para servirte Té de frutos rojos con el sabor que te mereces.
+Es una tradición medicinal milenaria servida con los más altos estándares de calidad gastronómica moderna.
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Parfait de yogurt con frutas y granola en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-En nuestra cocina tratamos Parfait de yogurt con frutas y granola como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+17. ¿Permiten el ingreso con mascotas pequeñas al establecimiento?
+Aceptamos la presencia de mascotas pequeñas y educadas que acompañen a sus dueños con su respectiva correa puesta.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Cuidamos que el ambiente se conserve limpio y ordenado para la total comodidad de todos los comensales.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Podemos brindarte un recipiente con agua fresca si tu perrito requiere hidratarse tras una caminata por la plaza.
 
-Te invitamos a visitarnos en SORBOS [sorbos emolienteria], situado en 51, Cajamarca, listos para servirte Parfait de yogurt con frutas y granola con el sabor que te mereces.
+18. ¿Tienen facilidades para acomodar mochilas o bolsos de viaje?
+El local cuenta con rincones seguros junto a las mesas para ubicar tus mochilas de mano o paquetes de compras sin estorbar el paso.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Infusión de hierba luisa en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Disfrutar de Infusión de hierba luisa en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+El entorno es seguro y familiar, permitiéndote descansar y disfrutar de tu bebida con tranquilidad.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+El personal te indicará la mejor mesa para que te acomodes con holgura.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+19. ¿Emiten comprobantes de venta válidos para sustentar gastos?
+Emitimos boletas de venta electrónicas para clientes particulares y para quienes necesitan sustentar consumos en comisiones de viaje.
 
-En SORBOS [sorbos emolienteria] te esperamos en 51, Cajamarca para que compartas y disfrutes de Infusión de hierba luisa con la mejor atención y calidez.
+Solo debes solicitar el comprobante al momento de pagar en caja indicando tus datos correspondientes.
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Sándwich mixto completo con huevo en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Cada orden de Sándwich mixto completo con huevo se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+El trámite es inmediato y te garantiza total transparencia en cada consumo.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+20. ¿Por cuál canal de comunicación atienden dudas de la carta o pedidos anticipados?
+Puedes comunicarte de manera directa escribiéndonos a nuestro canal de WhatsApp para consultar las especialidades del día o reservar mesas para grupos.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Estaremos felices de atender tus consultas y tener tu emoliente preparado cuando pases por el local.
 
-Haz tu reserva o visítanos en SORBOS [sorbos emolienteria], en 51, Cajamarca, donde preparamos Sándwich mixto completo con huevo con el cariño de la buena mesa.
-
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Jugo de fresa con leche en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Disfrutar de Jugo de fresa con leche en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
-
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
-
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
-
-En SORBOS [sorbos emolienteria] te esperamos en 51, Cajamarca para que compartas y disfrutes de Jugo de fresa con leche con la mejor atención y calidez.
-
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Jugo de plátano con leche en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Disfrutar de Jugo de plátano con leche en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
-
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
-
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
-
-En SORBOS [sorbos emolienteria] te esperamos en 51, Cajamarca para que compartas y disfrutes de Jugo de plátano con leche con la mejor atención y calidez.
-
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Quinua con manzana caliente en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Cada orden de Quinua con manzana caliente se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
-
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
-
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
-
-Haz tu reserva o visítanos en SORBOS [sorbos emolienteria], en 51, Cajamarca, donde preparamos Quinua con manzana caliente con el cariño de la buena mesa.
-
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Agua mineral con gas en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-Disfrutar de Agua mineral con gas en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
-
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
-
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
-
-En SORBOS [sorbos emolienteria] te esperamos en 51, Cajamarca para que compartas y disfrutes de Agua mineral con gas con la mejor atención y calidez.
-
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Torta de chocolate por porción en SORBOS [sorbos emolienteria]?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-Cada orden de Torta de chocolate por porción se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
-
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
-
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
-
-Haz tu reserva o visítanos en SORBOS [sorbos emolienteria], en 51, Cajamarca, donde preparamos Torta de chocolate por porción con el cariño de la buena mesa.
-
-================================================================================
+En SORBOS [sorbos emolienteria] te esperamos siempre con los brazos abiertos y el calor más reconfortante a pasos de la Plaza de Armas de Cajamarca.
