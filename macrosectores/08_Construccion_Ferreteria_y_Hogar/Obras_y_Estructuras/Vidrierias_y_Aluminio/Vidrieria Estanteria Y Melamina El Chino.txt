@@ -1,7 +1,7 @@
 Nombre: Vidrieria Estanteria Y Melamina El Chino
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Chifas
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Vidrierias_y_Aluminio
 Categoría Maps: 
 Dirección: Tahuantinsuyo 637, Cajamarca 10006
 Teléfono: 

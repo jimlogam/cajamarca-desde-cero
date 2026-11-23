@@ -1,7 +1,7 @@
 Nombre: Libreria & Bazar "El Chino"
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Chifas
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Libreria_y_Juegos
+Subrubro: Librerias_y_Papelerias
 Categoría Maps: Librería
 Dirección: Prol. Revilla Perez #542, Cajamarca 06001
 Teléfono: 960 113 312
