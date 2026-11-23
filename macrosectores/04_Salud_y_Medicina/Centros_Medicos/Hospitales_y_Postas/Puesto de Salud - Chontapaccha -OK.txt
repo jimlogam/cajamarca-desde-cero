@@ -1,7 +1,7 @@
 Nombre: Puesto de Salud - Chontapaccha
 Macro-Sector: 04_Salud_y_Medicina
 Rubro: Centros_Medicos
-Subrubro: Clinicas_y_Policlinicos
+Subrubro: Hospitales_y_Postas
 Categoría Maps: Centro de salud comunitario
 Dirección: Jr, Arróspide de Loyola 159, Cajamarca 06001
 Teléfono: 
