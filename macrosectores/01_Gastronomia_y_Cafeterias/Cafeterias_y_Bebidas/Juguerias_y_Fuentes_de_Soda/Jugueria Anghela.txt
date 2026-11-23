@@ -2,11 +2,11 @@ Nombre: Jugueria Anghela
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Juguerias_y_Fuentes_de_Soda
-Categoría Maps: 
+Categoría Maps: Cafetería, Juguería
 Dirección: Av San Martín de Porres 659, Cajamarca 06003
 Teléfono: 
-Rating: 
-Reseñas: 
+Rating: 4.5
+Reseñas: 6
 Sitio web: 
 Latitud: -7.1681719
 Longitud: -78.5041607
@@ -14,256 +14,153 @@ Google Maps: https://www.google.com/maps?cid=12057754561786637889
 Place Id: ChIJAc0ABRxbspERQW4jpOO_Vac
 Fotos: Jugueria Anghela.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hULoRi2Y6psoXWuX7W2HTw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=30.235518&pitch=2.9878414&thumbfov=100
-Nota: Sin categoria en Maps; clasificado por el nombre.
 
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-Te damos la bienvenida a Jugueria Anghela. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Av San Martín de Porres 659, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Ubicada en la transitada Avenida San Martín de Porres 659, en el Barrio Chontapaccha, Jugueria Anghela es tu mejor alternativa para recargar energías con fruta fresca en Cajamarca. Te ofrecemos una variada carta de jugos especiales, batidos con leche, extractos nutritivos y sándwiches calientes con la auténtica sazón casera. Muy cerca del Terminal Terrestre y la universidad, te brindamos atención rápida, porciones abundantes y un ambiente acogedor. ¡Pasa y saborea la verdadera frescura andina!
 ================================================================================
 
 --------------------------------------------------------------------------------
 20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
 --------------------------------------------------------------------------------
 
---------------------------------------------------------------------------------
-PREGUNTA 1: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Tostadas con mantequilla y mermelada en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Cada orden de Tostadas con mantequilla y mermelada se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+1. ¿Qué combinaciones de jugos especiales y batidos energéticos tienen en la carta?
+Nuestra especialidad es el jugo especial preparado con cerveza negra o malta, leche fresca, huevo de codorniz, algarrobina pura de la costa y plátano seda.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Asimismo, preparamos batidos de fresa con leche, lúcuma cremosa, combinados de papaya con piña y jugos de maracuyá refrescantes licuados al instante.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Seleccionamos fruta fresca de primera calidad para garantizar una bebida espesa, aromática y cargada de vitaminas naturales.
 
-Haz tu reserva o visítanos en Jugueria Anghela, en Av San Martín de Porres 659, Cajamarca, donde preparamos Tostadas con mantequilla y mermelada con el cariño de la buena mesa.
+2. ¿Cuál es el tiempo de caminata desde el Terminal Terrestre de Cajamarca?
+El Terminal Terrestre se ubica a tan solo 610 metros hacia el sureste de nuestro local, lo que supone una caminata de unos 7 minutos a paso moderado.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Café descafeinado en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Cada orden de Café descafeinado se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Solo debes caminar unas cuadras saliendo de la estación de buses por la Avenida Atahualpa hacia San Martín de Porres.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Por esta cercanía, somos la parada favorita de viajeros que acaban de llegar en bus y buscan reponerse con un desayuno fresco y nutritivo.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+3. ¿Qué opciones de sándwiches calientes y comidas al paso preparan a diario?
+Servimos sándwiches generosos de pollo deshilachado con mayonesa casera, sándwiches mixtos de jamón y queso derretido en pan campesino, y triples con palta y huevo.
 
-Haz tu reserva o visítanos en Jugueria Anghela, en Av San Martín de Porres 659, Cajamarca, donde preparamos Café descafeinado con el cariño de la buena mesa.
+Para quienes desean algo más contundente ofrecemos salchipapas con papas fritas doradas y cremas al gusto, además de empanadas de carne recién horneadas.
 
---------------------------------------------------------------------------------
-PREGUNTA 3: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Jugo de naranja natural en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Al elegir Jugo de naranja natural disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+Cada plato se prepara en el momento para asegurar crocancia en la corteza y temperatura perfecta al servir.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+4. ¿Tienen empaque térmico seguro para llevar jugos y comida en viaje?
+Disponemos de vasos descartables gruesos con tapas antiderrame que permiten transportar tus jugos sin riesgo de filtraciones en el autobús o taxi.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Los sándwiches y salchipapas se entregan en envases térmicos que preservan el calor y la crocancia de los alimentos.
 
-Ven con tus familiares o amigos a Jugueria Anghela en Av San Martín de Porres 659, Cajamarca y déjate consentir por la sazón de Jugo de naranja natural.
+Puedes pedir por mostrador y llevarte un desayuno completo en cuestión de breves minutos antes de tomar tu siguiente movilidad.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Sándwich de chicharrón cajamarquino en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Al elegir Sándwich de chicharrón cajamarquino disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+5. ¿Qué tan cerca queda el campus de la Universidad Nacional de Cajamarca (UNC)?
+La Universidad Nacional de Cajamarca se encuentra a 870 metros hacia el sureste, una distancia que se recorre en unos 10 minutos a pie.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+En mototaxi el viaje toma apenas 3 minutos, siendo una ruta muy frecuentada por universitarios y docentes del sector sur.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Ofrecemos precios económicos y combos estudiantiles que resultan ideales para almorzar o merendar entre jornadas de clase.
 
-Ven con tus familiares o amigos a Jugueria Anghela en Av San Martín de Porres 659, Cajamarca y déjate consentir por la sazón de Sándwich de chicharrón cajamarquino.
+6. ¿Qué variedad de extractos naturales y desintoxicantes tienen disponibles?
+Elaboramos extractos puros con máquina prensadora, destacando el extracto de zanahoria con beterraga para la anemia y el extracto verde con espinaca, apio y piña.
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Qué ingredientes, preparación y presentación destacan en Avena con leche caliente en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-La preparación de Avena con leche caliente se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+Son bebidas concentradas que se extraen sin adición de agua ni azúcar, manteniendo intactos todos los minerales y enzimas vegetales.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Son muy solicitadas por vecinos y deportistas que buscan un energizante natural para arrancar la mañana.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+7. ¿Ofrecen jugos sin azúcar para personas con diabetes o planes de adelgazamiento?
+Podemos licuar cualquiera de tus jugos favoritos sin añadir azúcar refinada, empleando el dulzor natural de las frutas maduras.
 
-En Jugueria Anghela cuidamos cada detalle en Av San Martín de Porres 659, Cajamarca para hacer de tu experiencia con Avena con leche caliente un motivo para volver siempre.
+Si lo prefieres, disponemos de miel de abeja pura, algarrobina o sobrecitos de edulcorante dietético para endulzar a tu medida.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Chocolate caliente con marshmallows en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Al elegir Chocolate caliente con marshmallows disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+Solo necesitas indicarle a la preparadora al ordenar para que adecúe la receta a tus requerimientos nutricionales.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+8. ¿A qué distancia se encuentra el Centro Comercial Real Plaza?
+El complejo Real Plaza se sitúa a 1.51 kilómetros hacia el noroeste de nuestro local.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+En mototaxi o taxi local el traslado toma entre 4 y 5 minutos por la Avenida San Martín de Porres y la Avenida El Maestro.
 
-Ven con tus familiares o amigos a Jugueria Anghela en Av San Martín de Porres 659, Cajamarca y déjate consentir por la sazón de Chocolate caliente con marshmallows.
+Es un acceso ágil que permite conectar la zona sur comercial con el centro comercial sin complicaciones de tránsito.
 
---------------------------------------------------------------------------------
-PREGUNTA 7: ¿Qué ingredientes, preparación y presentación destacan en Mocachino en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-La preparación de Mocachino se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+9. ¿Cómo aseguran la higiene y la inocuidad en la elaboración de alimentos?
+Lavamos minuciosamente cada fruta con agua tratada y desinfectante de grado alimentario antes de trozarla para el licuado.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Las jarras, cuchillas y mesadas se esterilizan permanentemente entre cada preparación para evitar mezclas indeseadas de sabores.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+El personal cuenta con indumentaria reglamentaria y capacitación continua en manipulación segura de alimentos.
 
-En Jugueria Anghela cuidamos cada detalle en Av San Martín de Porres 659, Cajamarca para hacer de tu experiencia con Mocachino un motivo para volver siempre.
+10. ¿Disponen de opciones calientes para los días lluviosos o mañanas frías?
+Servimos aromático café pasado andino, chocolate caliente espeso preparado con cacao de la cuenca norte y avena con manzana y canela.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Jugo de piña en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-En nuestra cocina tratamos Jugo de piña como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+También tenemos infusiones medicinales de manzanilla, muña y hierbaluisa fresca para reconfortar la digestión.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Son alternativas térmicas diseñadas para combatir el clima serrano y recuperar el calor corporal de inmediato.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+11. ¿A cuántos minutos en transporte se ubica la Plaza de Armas de Cajamarca?
+La histórica Plaza de Armas dista 1.95 kilómetros hacia el noroeste de nuestras instalaciones.
 
-Te invitamos a visitarnos en Jugueria Anghela, situado en Av San Martín de Porres 659, Cajamarca, listos para servirte Jugo de piña con el sabor que te mereces.
+En mototaxi o combi urbana se arriba en unos 6 a 7 minutos siguiendo la ruta de San Martín hacia el centro monumental.
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Café latte de caramelo en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Disfrutar de Café latte de caramelo en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Es un recorrido directo que te conecta fácilmente con las principales agencias bancarias y turísticas de la ciudad.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+12. ¿Qué métodos de pago tienen habilitados en caja para agilizar el servicio?
+Recibimos transferencias y cobros instantáneos mediante las aplicaciones móviles Yape y Plin escaneando el código QR en barra.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+También aceptamos dinero en efectivo en soles con disponibilidad de cambio para billetes de diversa denominación.
 
-En Jugueria Anghela te esperamos en Av San Martín de Porres 659, Cajamarca para que compartas y disfrutes de Café latte de caramelo con la mejor atención y calidez.
+El proceso es sumamente rápido para evitar demoras a los clientes que viajan con itinerarios apretados.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Smoothie de frutos rojos en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Al elegir Smoothie de frutos rojos disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+13. ¿Cuentan con espacio para sentarse a consumir en el mismo establecimiento?
+Disponemos de mesas cómodas y sillas debidamente acondicionadas donde puedes sentarte a comer con tranquilidad.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+El ambiente es amplio, bien ventilado y con un trato cordial que te brinda comodidad desde el primer momento.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Si vas con prisa, tu pedido se despacha en menos de tres minutos para que no pierdas tiempo en tu jornada.
 
-Ven con tus familiares o amigos a Jugueria Anghela en Av San Martín de Porres 659, Cajamarca y déjate consentir por la sazón de Smoothie de frutos rojos.
+14. ¿Cuál es el tiempo de viaje hacia el Complejo Termal de Baños del Inca?
+Los baños termales de Baños del Inca quedan a 4.41 kilómetros hacia el este bordeando la carretera hacia el valle.
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿Qué ingredientes, preparación y presentación destacan en Croissant de jamón y queso en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-La preparación de Croissant de jamón y queso se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+En combi de transporte público o taxi el trayecto toma entre 9 y 11 minutos de viaje directo por la Avenida Atahualpa.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Muchos comensales disfrutan de un jugo energizante en Jugueria Anghela antes o después de una tarde de relajación en las pozas termales.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+15. ¿Atienden desde temprano con desayunos completos para viajeros y trabajadores?
+Abrimos nuestras puertas desde las primeras horas de la mañana para recibir a pasajeros que arriban en buses nocturnos y vecinos que salen a trabajar.
 
-En Jugueria Anghela cuidamos cada detalle en Av San Martín de Porres 659, Cajamarca para hacer de tu experiencia con Croissant de jamón y queso un motivo para volver siempre.
+Puedes ordenar un desayuno completo con jugo mixto, sándwich de pollo y café caliente en cuestión de pocos minutos.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Desayuno americano con huevos, tocino y café en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Disfrutar de Desayuno americano con huevos, tocino y café en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+La atención rápida y los precios accesibles hacen de nuestro local un punto de parada obligado en la zona.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+16. ¿Qué variedad de ensaladas de fruta frescas preparan para la media tarde?
+Servimos platos abundantes de ensalada con papaya, plátano, manzana, piña y fresas frescas recién picadas al instante.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Las ensaladas se decoran con yogur natural, miel de abeja andina, algarrobina espesa y granola crocante para darle textura crujiente.
 
-En Jugueria Anghela te esperamos en Av San Martín de Porres 659, Cajamarca para que compartas y disfrutes de Desayuno americano con huevos, tocino y café con la mejor atención y calidez.
+Es una excelente opción para compartir en pareja o disfrutar de una merienda sana y llena de vitalidad.
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Chocolate con canela y clavo en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-En nuestra cocina tratamos Chocolate con canela y clavo como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+17. ¿Permiten el ingreso con mascotas pequeñas al establecimiento?
+Aceptamos con agrado la compañía de mascotas pequeñas y educadas que permanezcan sujetas con su correa y junto a su dueño.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Cuidamos que el ambiente se conserve higiénico y ordenado para la total tranquilidad de todos los comensales.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Podemos brindarte un recipiente con agua fresca si tu perrito requiere hidratarse durante la parada.
 
-Te invitamos a visitarnos en Jugueria Anghela, situado en Av San Martín de Porres 659, Cajamarca, listos para servirte Chocolate con canela y clavo con el sabor que te mereces.
+18. ¿Tienen facilidades para acomodar mochilas o maletas de viaje?
+Por encontrarnos cerca de la zona de terminales, disponemos de pasillos amplios donde puedes ubicar tus maletines o mochilas de trekking a tu lado.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Té de anís en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Disfrutar de Té de anís en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+El salón es seguro y vigilado para que puedas desayunar o almorzar con absoluta tranquilidad mental.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+El personal te orientará hacia las mesas más espaciosas si acudes con equipaje voluminoso.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+19. ¿Emiten comprobantes de venta válidos para sustentar viáticos?
+Emitimos boletas de venta para clientes particulares y para quienes requieren justificar gastos de alimentación en comisiones de trabajo.
 
-En Jugueria Anghela te esperamos en Av San Martín de Porres 659, Cajamarca para que compartas y disfrutes de Té de anís con la mejor atención y calidez.
+Solo debes solicitar tu comprobante al momento de pagar e indicar tus datos correspondientes en caja.
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Té de frutos rojos en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-En nuestra cocina tratamos Té de frutos rojos como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+El comprobante se emite de inmediato para facilitarte el control de tus finanzas de viaje.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+20. ¿Por cuál canal digital se pueden hacer consultas sobre la carta o encargar pedidos?
+Puedes comunicarte de manera directa escribiéndonos a nuestro canal de WhatsApp para consultar la disponibilidad de frutas o solicitar pedidos para recojo.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Estaremos complacidos de resolver tus inquietudes y tener tu jugo listo cuando pases por nuestras instalaciones.
 
-Te invitamos a visitarnos en Jugueria Anghela, situado en Av San Martín de Porres 659, Cajamarca, listos para servirte Té de frutos rojos con el sabor que te mereces.
-
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Qué ingredientes, preparación y presentación destacan en Frappé de fresa en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-La preparación de Frappé de fresa se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
-
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
-
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
-
-En Jugueria Anghela cuidamos cada detalle en Av San Martín de Porres 659, Cajamarca para hacer de tu experiencia con Frappé de fresa un motivo para volver siempre.
-
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Jugo surtido de frutas en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-En nuestra cocina tratamos Jugo surtido de frutas como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
-
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
-
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
-
-Te invitamos a visitarnos en Jugueria Anghela, situado en Av San Martín de Porres 659, Cajamarca, listos para servirte Jugo surtido de frutas con el sabor que te mereces.
-
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Qué ingredientes, preparación y presentación destacan en Humita dulce cajamarquina en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-La preparación de Humita dulce cajamarquina se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
-
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
-
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
-
-En Jugueria Anghela cuidamos cada detalle en Av San Martín de Porres 659, Cajamarca para hacer de tu experiencia con Humita dulce cajamarquina un motivo para volver siempre.
-
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Qué ingredientes, preparación y presentación destacan en Café americano en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-La preparación de Café americano se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
-
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
-
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
-
-En Jugueria Anghela cuidamos cada detalle en Av San Martín de Porres 659, Cajamarca para hacer de tu experiencia con Café americano un motivo para volver siempre.
-
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Flat white en Jugueria Anghela?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-Cada orden de Flat white se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
-
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
-
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
-
-Haz tu reserva o visítanos en Jugueria Anghela, en Av San Martín de Porres 659, Cajamarca, donde preparamos Flat white con el cariño de la buena mesa.
-
-================================================================================
+En Jugueria Anghela te esperamos con la mejor atención, porciones bien servidas y el sabor más fresco del sur de Cajamarca.

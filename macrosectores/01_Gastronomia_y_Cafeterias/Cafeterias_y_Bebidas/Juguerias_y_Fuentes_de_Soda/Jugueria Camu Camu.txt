@@ -2,11 +2,11 @@ Nombre: Jugueria Camu Camu
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Juguerias_y_Fuentes_de_Soda
-Categoría Maps: Restaurante
+Categoría Maps: Restaurante, Juguería
 Dirección: Jirón del Comercio 235, Cajamarca 06001
 Teléfono: 
-Rating: 
-Reseñas: 
+Rating: 4.4
+Reseñas: 15
 Sitio web: 
 Latitud: -7.1545261
 Longitud: -78.5214802
@@ -18,251 +18,149 @@ Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfc9ydHtL1Jw6VKcW4AcO
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-Te damos la bienvenida a Jugueria Camu Camu. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Jirón del Comercio 235, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Ubicada en el tradicional Jirón del Comercio 235, a pocas cuadras de la Plaza de Armas y Santa Apolonia, Jugueria Camu Camu te invita a refrescarte con los mejores frutos de la selva y el valle andino en Cajamarca. Sorpréndete con nuestros jugos de camu camu ricos en vitamina C, combinados especiales, batidos con leche y sándwiches contundentes preparados al momento. Ya sea para recargar energías o compartir una merienda deliciosa, te esperamos con calidez y sabor inigualable.
 ================================================================================
 
 --------------------------------------------------------------------------------
 20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
 --------------------------------------------------------------------------------
 
---------------------------------------------------------------------------------
-PREGUNTA 1: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Sándwich triple de palta, tomate y huevo en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Cada orden de Sándwich triple de palta, tomate y huevo se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+1. ¿Qué beneficios y variedades de jugos con camu camu y frutos amazónicos preparan?
+El camu camu es reconocido mundialmente por su extraordinaria concentración de vitamina C natural y antioxidantes que refuerzan el sistema inmunológico.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+En nuestra barra preparamos jugo puro de camu camu balanceado con un toque de miel andina, así como combinaciones exquisitas con naranja, fresa y piña Golden.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+También ofrecemos jugos de maracuyá, carambola, lúcuma y mango traídos frescos de los valles interandinos y la ceja de selva nororiental.
 
-Haz tu reserva o visítanos en Jugueria Camu Camu, en Jirón del Comercio 235, Cajamarca, donde preparamos Sándwich triple de palta, tomate y huevo con el cariño de la buena mesa.
+2. ¿Cuál es el tiempo de caminata para llegar desde la Plaza de Armas de Cajamarca?
+Nos ubicamos a solo 486 metros hacia el oeste de la Plaza de Armas, una caminata de unos 5 a 6 minutos a paso tranquilo.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Té de anís en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Disfrutar de Té de anís en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+La ruta consiste en subir por el Jirón del Comercio en dirección a las faldas del cerro Santa Apolonia, atravesando hermosas calles coloniales.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Al ser un tramo céntrico y seguro, se realiza cómodamente a pie sin necesidad de tomar mototaxi ni transporte público.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+3. ¿Qué opciones de sándwiches crocantes y comidas ligeras ofrecen para acompañar?
+Servimos sándwiches generosos de pollo a la plancha con palta fresca y lechuga crujiente, sándwiches mixtos calientes con queso mantecoso de la zona, y triples caseros.
 
-En Jugueria Camu Camu te esperamos en Jirón del Comercio 235, Cajamarca para que compartas y disfrutes de Té de anís con la mejor atención y calidez.
+También preparamos empanadas horneadas de carne suavemente sazonada, tostadas campesinas con mantequilla andina y porciones de humitas dulces y saladas.
 
---------------------------------------------------------------------------------
-PREGUNTA 3: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Café descafeinado en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Cada orden de Café descafeinado se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Cada sándwich se arma y calienta al momento para garantizar que el pan conserve su textura crujiente y aroma apetitoso.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+4. ¿Tienen disponibilidad de red wifi y facilidades para cargar celulares en mesa?
+Contamos con servicio de internet inalámbrico wifi para nuestros clientes, permitiendo revisar rutas turísticas, chatear y enviar fotos de tu visita.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+En las mesas disponemos de enchufes de corriente accesibles para conectar tu teléfono inteligente o cámara fotográfica mientras tomas tu jugo.
 
-Haz tu reserva o visítanos en Jugueria Camu Camu, en Jirón del Comercio 235, Cajamarca, donde preparamos Café descafeinado con el cariño de la buena mesa.
+El ambiente es tranquilo y ameno, propiciando un descanso reparador entre tus caminatas por el casco antiguo.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Pie de manzana por porción en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Disfrutar de Pie de manzana por porción en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+5. ¿Qué tan rápido se arriba a pie desde el emblemático Cuarto del Rescate?
+El Cuarto del Rescate dista 663 metros hacia el este de nuestras instalaciones, lo que equivale a unos 7 a 8 minutos de caminata relajada.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Solo debes caminar hacia el Jirón Amalia Puga y conectar con el Jirón del Comercio con dirección hacia el oeste.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Es un recorrido sumamente visual por el centro monumental que te conduce directamente a un refrigerio fresco y reparador.
 
-En Jugueria Camu Camu te esperamos en Jirón del Comercio 235, Cajamarca para que compartas y disfrutes de Pie de manzana por porción con la mejor atención y calidez.
+6. ¿Cómo preparan las ensaladas de frutas especiales de la casa?
+Nuestras ensaladas combinan más de seis variedades de frutas frescas del día picadas al instante: papaya, piña, plátano, manzana, fresa y uvas sin semilla.
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Desayuno cajamarquino con humitas, queso y café en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-Cada orden de Desayuno cajamarquino con humitas, queso y café se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Se sirven en porciones abundantes bañadas con yogur natural del valle, algarrobina espesa, miel de abeja pura y granola crocante.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Si deseas un toque más indulgente, puedes añadirle una bola de helado artesanal para disfrutar de un postre nutritivo y delicioso.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+7. ¿Ofrecen alternativas de bebidas sin azúcar para personas con dietas especiales?
+Podemos licuar cualquiera de nuestras frutas sin añadir azúcar refinada, permitiendo disfrutar de la acidez y dulzura natural del camu camu y las demás frutas.
 
-Haz tu reserva o visítanos en Jugueria Camu Camu, en Jirón del Comercio 235, Cajamarca, donde preparamos Desayuno cajamarquino con humitas, queso y café con el cariño de la buena mesa.
+Para endulzar disponemos de miel de abeja pura, panela orgánica o edulcorante dietético en sobrecitos según tu indicación.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: ¿Qué ingredientes, preparación y presentación destacan en Café cortado en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-La preparación de Café cortado se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
+Solo requieres mencionar tu preferencia a la preparadora al ordenar tu pedido para que lo elabore a tu medida.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+8. ¿A qué distancia se encuentra el Mirador del Cerro Santa Apolonia?
+El cerro Santa Apolonia se localiza a 680 metros hacia el sur de Jugueria Camu Camu.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+A pie se llega en aproximadamente 8 minutos caminando hacia las escalinatas de piedra del pasaje histórico.
 
-En Jugueria Camu Camu cuidamos cada detalle en Jirón del Comercio 235, Cajamarca para hacer de tu experiencia con Café cortado un motivo para volver siempre.
+Muchos turistas nos visitan antes o después de subir al mirador para hidratarse con un jugo helado lleno de vitamina C tras el esfuerzo físico.
 
---------------------------------------------------------------------------------
-PREGUNTA 7: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Gaseosa personal de cola en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-Cada orden de Gaseosa personal de cola se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+9. ¿Qué opciones de bebidas calientes preparan para abrigar las tardes frías o lluvias?
+Para guarecerse del frío serrano servimos café pasado aromático de Jaén, capuchinos con canela, chocolate caliente de cacao puro y ponche de habas nutritivo.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Asimismo, tenemos infusiones medicinales del valle como muña, manzanilla y hierbaluisa, acompañadas de tostadas con queso andino caliente.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Son preparaciones reconfortantes que te devolverán el calor de inmediato en los días nublados de Cajamarca.
 
-Haz tu reserva o visítanos en Jugueria Camu Camu, en Jirón del Comercio 235, Cajamarca, donde preparamos Gaseosa personal de cola con el cariño de la buena mesa.
+10. ¿Disponen de envases térmicos seguros para pedidos para llevar?
+Todos nuestros jugos, extractos y batidos se pueden despachar para llevar en vasos descartables térmicos provistos de tapa antiderrame.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Quinua con manzana caliente en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Cada orden de Quinua con manzana caliente se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Los sándwiches y bocadillos se entregan en envases limpios que preservan la temperatura y frescura de los alimentos durante tus traslados.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Puedes hacer tu solicitud en barra y recoger tu paquete en cuestión de pocos minutos para continuar tu recorrido turístico.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+11. ¿Cuánto tiempo demora llegar caminando desde el Mercado Central de Cajamarca?
+El Mercado Central se ubica a 690 metros hacia el noreste, lo que supone una caminata de unos 8 minutos por el Jirón Amazonas o Comercio.
 
-Haz tu reserva o visítanos en Jugueria Camu Camu, en Jirón del Comercio 235, Cajamarca, donde preparamos Quinua con manzana caliente con el cariño de la buena mesa.
+Si prefieres transporte motorizado, una mototaxi te traerá en menos de 3 minutos por una tarifa muy reducida.
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Sándwich de chicharrón cajamarquino en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Al elegir Sándwich de chicharrón cajamarquino disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+Es una conexión sumamente práctica para rematar una mañana de compras con un refrescante extracto de frutas.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+12. ¿Qué métodos de pago tienen habilitados para cancelar consumos en caja?
+Aceptamos pagos móviles rápidos sin comisiones mediante las aplicaciones digitales Yape y Plin escaneando el código QR en barra.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+También recibimos pagos en efectivo en moneda nacional con cambio disponible para monedas y billetes comunes.
 
-Ven con tus familiares o amigos a Jugueria Camu Camu en Jirón del Comercio 235, Cajamarca y déjate consentir por la sazón de Sándwich de chicharrón cajamarquino.
+El cobro es ágil para facilitarte una salida rápida sin pérdida de tiempo en colas.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Café latte de caramelo en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Disfrutar de Café latte de caramelo en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+13. ¿Tienen mesas amplias para recibir a grupos de amigos o familias de paseo?
+El salón dispone de mesas confortables que se pueden agrupar con facilidad para albergar a familias o grupos de viajeros.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+El personal atiende con entusiasmo y cordialidad, asegurando que todos los pedidos salgan coordinados y en su punto óptimo.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Si planeas acudir con un grupo mayor a seis personas, te sugerimos avisarnos previamente para acondicionar el mejor rincón del salón.
 
-En Jugueria Camu Camu te esperamos en Jirón del Comercio 235, Cajamarca para que compartas y disfrutes de Café latte de caramelo con la mejor atención y calidez.
+14. ¿Cuál es el tiempo de viaje si vengo desde el Centro Comercial Real Plaza?
+El complejo Real Plaza se sitúa a 1.73 kilómetros hacia el este de nuestro local.
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Galletas con chispas de chocolate en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-Disfrutar de Galletas con chispas de chocolate en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+En mototaxi o taxi local el viaje toma aproximadamente 5 a 6 minutos subiendo por el Jirón San Martín hacia el Jirón del Comercio.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Es una excelente oportunidad para escapar del bullicio de los centros comerciales y disfrutar de fruta natural en una calle con encanto tradicional.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+15. ¿Cómo garantizan la inocuidad y la higiene en la manipulación de frutas y menaje?
+Lavamos y desinfectamos cuidadosamente cada fruta con agua purificada antes de proceder al pelado y procesamiento.
 
-En Jugueria Camu Camu te esperamos en Jirón del Comercio 235, Cajamarca para que compartas y disfrutes de Galletas con chispas de chocolate con la mejor atención y calidez.
+Las jarras de licuadora, cuchillas y vasos se lavan a fondo entre cada preparación para garantizar pulcritud absoluta y pureza de sabor.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Smoothie de frutos rojos en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Al elegir Smoothie de frutos rojos disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+Todo nuestro equipo de atención porta indumentaria limpia y cumple rigurosas normas sanitarias para resguardar tu salud.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+16. ¿Atienden desde temprano con desayunos completos para turistas que viajan?
+Iniciamos la atención desde primera hora de la mañana con desayunos completos que combinan jugo natural, sándwich caliente de pollo y café pasado o infusión.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Es una fórmula reconstituyente muy solicitada por personas que toman excursiones temprano hacia Cumbemayo o las granjas campestres.
 
-Ven con tus familiares o amigos a Jugueria Camu Camu en Jirón del Comercio 235, Cajamarca y déjate consentir por la sazón de Smoothie de frutos rojos.
+Te atendemos con prontitud para que disfrutes de un desayuno sustancioso sin que afecte tus horarios de partida.
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Café con leche en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-Al elegir Café con leche disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+17. ¿Permiten el ingreso con mascotas pequeñas al establecimiento?
+Aceptamos con mucho agrado a visitantes acompañados de sus mascotas pequeñas y educadas en nuestras instalaciones.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Agradecemos que las mascotas permanezcan con su correa puesta y ubicadas junto a tu mesa para asegurar la tranquilidad de todos los comensales.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Podemos facilitarte un pequeño recipiente con agua fresca si tu perrito requiere hidratarse tras su caminata por la ciudad.
 
-Ven con tus familiares o amigos a Jugueria Camu Camu en Jirón del Comercio 235, Cajamarca y déjate consentir por la sazón de Café con leche.
+18. ¿Tienen facilidades para acomodar mochilas de viaje o equipaje de mano?
+El local cuenta con pasillos amplios y rincones seguros donde puedes colocar tus mochilas de mano, morrales o paquetes de compras a tu costado.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Ponche de habas en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Al elegir Ponche de habas disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+El entorno es seguro y familiar, brindándote tranquilidad para que disfrutes de tu merienda sin preocuparte por tus pertenencias.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+El personal te indicará la mejor mesa si requieres mayor espacio para tu equipaje ligero.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+19. ¿Emiten comprobantes de venta válidos para sustentar viáticos?
+Emitimos boletas de venta electrónicas para clientes particulares y para quienes necesitan sustentar consumos en comisiones de viaje.
 
-Ven con tus familiares o amigos a Jugueria Camu Camu en Jirón del Comercio 235, Cajamarca y déjate consentir por la sazón de Ponche de habas.
+Solo debes solicitar el comprobante al mozo al momento de pagar e indicar tus datos fiscales correspondientes.
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Chocolate caliente con marshmallows en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Al elegir Chocolate caliente con marshmallows disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
+El comprobante se emite de inmediato para tu debido control de gastos.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+20. ¿Por cuál canal digital se pueden hacer consultas sobre la carta o encargar pedidos?
+Puedes comunicarte de manera directa escribiéndonos a nuestro canal de WhatsApp o consultando nuestras redes sociales activas.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Por ese medio te informamos sobre los frutos del día, promociones vigentes y podemos alistar tus jugos y sándwiches para que los recojas al pasar.
 
-Ven con tus familiares o amigos a Jugueria Camu Camu en Jirón del Comercio 235, Cajamarca y déjate consentir por la sazón de Chocolate caliente con marshmallows.
-
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Café expreso simple en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Al elegir Café expreso simple disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de cafetería y bebidas.
-
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
-
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
-
-Ven con tus familiares o amigos a Jugueria Camu Camu en Jirón del Comercio 235, Cajamarca y déjate consentir por la sazón de Café expreso simple.
-
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Sándwich de pollo deshilachado en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-En nuestra cocina tratamos Sándwich de pollo deshilachado como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
-
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
-
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
-
-Te invitamos a visitarnos en Jugueria Camu Camu, situado en Jirón del Comercio 235, Cajamarca, listos para servirte Sándwich de pollo deshilachado con el sabor que te mereces.
-
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Qué ingredientes, preparación y presentación destacan en Té de coca en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-La preparación de Té de coca se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de cafetería y bebidas.
-
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
-
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
-
-En Jugueria Camu Camu cuidamos cada detalle en Jirón del Comercio 235, Cajamarca para hacer de tu experiencia con Té de coca un motivo para volver siempre.
-
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Desayuno americano con huevos, tocino y café en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-Disfrutar de Desayuno americano con huevos, tocino y café en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
-
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
-
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
-
-En Jugueria Camu Camu te esperamos en Jirón del Comercio 235, Cajamarca para que compartas y disfrutes de Desayuno americano con huevos, tocino y café con la mejor atención y calidez.
-
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Sándwich caprese de queso y tomate en Jugueria Camu Camu?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-En nuestra cocina tratamos Sándwich caprese de queso y tomate como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
-
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
-
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
-
-Te invitamos a visitarnos en Jugueria Camu Camu, situado en Jirón del Comercio 235, Cajamarca, listos para servirte Sándwich caprese de queso y tomate con el sabor que te mereces.
-
-================================================================================
+En Jugueria Camu Camu te esperamos con la mejor sonrisa y el poder revitalizante de las mejores frutas en el centro histórico de Cajamarca.
