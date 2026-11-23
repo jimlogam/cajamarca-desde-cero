@@ -1,0 +1,268 @@
+Nombre: Pollería Chifa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Pollerias_y_Parrillas
+Categoría Maps: Pollería a la Brasa y Chifa
+Dirección: Jr, Prol. Revilla Perez N° 130, Cajamarca 06001
+Teléfono: 
+Rating: 
+Reseñas: 
+Sitio web: 
+Latitud: -7.1530564
+Longitud: -78.5149627
+Google Maps: https://www.google.com/maps?cid=7826454130845585286
+Place Id: ChIJn9tMTwBbspERho_wz5AmnWw
+Fotos: Pollería Chifa.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7qmScglx_82fHCv4GZTK8w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=310.41193&pitch=0&thumbfov=100
+Nota: Reclasificado de Chifas a Pollerias y Parrillas. Actualizado con estandar maestro -OK.
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la más cordial bienvenida a Pollería Chifa! A solo unos pasos del Mercado Central en Jr. Prol. Revilla Perez N° 130, Cajamarca, te ofrecemos la combinación más sabrosa y rendidora: pollo a la brasa dorado a fuego vivo con piel crocante, papas andinas crujientes, ensaladas frescas y delicioso arroz chaufa al wok. Disfruta de un ambiente familiar y acogedor o solicita tu entrega rápida por delivery. Escríbenos por WhatsApp y date el gusto hoy mismo.
+================================================================================
+
+--------------------------------------------------------------------------------
+20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PREGUNTA 1: ¿Qué especialidades de pollo a la brasa y combinados al wok ofrece Pollería Chifa?
+--------------------------------------------------------------------------------
+RESPUESTA 1:
+Nuestra carta ofrece pollo a la brasa horneado con leña y carbón seleccionado, logrando un dorado uniforme, aroma ahumado irresistible y una carne tierna y jugosa en cada presa.
+
+Servimos opciones de un cuarto de pollo, medio pollo y pollo entero acompañados de papas fritas andinas crujientes, ensalada fresca con vinagreta casera y cremas artesanales.
+
+Destacamos por nuestro Mostrito Especial que combina presa de pollo a la brasa con una porción humeante de arroz chaufa salteado al wok a fuego vivo con cebolla china y sillao.
+
+Te invitamos a visitarnos para disfrutar de una comida completa, abundante y con la mejor relación calidad-precio en el centro de Cajamarca.
+
+--------------------------------------------------------------------------------
+PREGUNTA 2: ¿A qué distancia se encuentra la pollería del Mercado Central de Cajamarca?
+--------------------------------------------------------------------------------
+RESPUESTA 2:
+Nos localizamos en el Jirón Prolongación Revilla Pérez N° 130, a solo 101 metros del Mercado Central de Cajamarca, lo que representa una caminata de apenas un minuto.
+
+Esta cercanía inmejorable nos convierte en la alternativa predilecta de comerciantes, compradores y transeúntes que buscan almorzar sabroso y rápido en plena zona comercial.
+
+El acceso peatonal es directo y seguro, permitiendo realizar compras en el centro de abastos y pasar de inmediato a disfrutar de un reconfortante pollo a la brasa recién salido del horno.
+
+En Pollería Chifa te atendemos con rapidez para que aproveches al máximo tu tiempo de descanso al mediodía o durante la noche.
+
+--------------------------------------------------------------------------------
+PREGUNTA 3: ¿Cómo logran el aderezo tradicional y la piel crujiente del pollo a la brasa?
+--------------------------------------------------------------------------------
+RESPUESTA 3:
+Maceramos los pollos por más de doce horas en una mezcla de romero fresco, ajos dorados, cerveza negra, vinagre de vino y comino andino que penetra cada fibra.
+
+El asado se realiza en braseros rotatorios a temperatura precisa, permitiendo que la grasa exterior se disuelva y forme una piel quebradiza y aromática sin resecar la pechuga.
+
+Cortamos las presas al momento de recibir la orden para preservar los jugos naturales y servir la carne en su temperatura óptima de consumo.
+
+El resultado es un pollo con sabor auténtico y equilibrado que deleita a chicos y grandes en cada visita familiar.
+
+--------------------------------------------------------------------------------
+PREGUNTA 4: ¿Qué porciones y promociones familiares tienen para grupos y familias?
+--------------------------------------------------------------------------------
+RESPUESTA 4:
+Nuestra promoción de 1 pollo entero incluye una canasta generosa de papas fritas crocantes, fuente de ensalada fresca con vinagreta artesanal y cremas caseras al gusto.
+
+Añadimos además una gaseosa familiar de 1.5 litros o una jarra helada de chicha morada para acompañar el almuerzo o cena de cuatro a cinco personas.
+
+Para grupos mayores ofrecemos combos de pollo y medio con porciones dobles de papas y la opción de agregar arroz chaufa al wok por un costo adicional muy accesible.
+
+En Pollería Chifa la generosidad y el buen sabor van de la mano para que todas las familias compartan una mesa abundante y feliz.
+
+--------------------------------------------------------------------------------
+PREGUNTA 5: ¿Cuál es la distancia y el recorrido para llegar desde la Plaza de Armas y el Cuarto del Rescate?
+--------------------------------------------------------------------------------
+RESPUESTA 5:
+La pollería se sitúa a aproximadamente 574 metros de la Plaza de Armas de Cajamarca y a 575 metros del histórico Cuarto del Rescate.
+
+El trayecto a pie toma solo 6 a 7 minutos bajando por el Jirón Amazonas o Jirón Junín hacia Prolongación Revilla Pérez en una caminata sumamente agradable.
+
+Esta corta distancia permite a turistas nacionales y extranjeros visitar los atractivos coloniales y luego degustar el plato bandera del Perú sin alejarse del centro.
+
+Visitar Pollería Chifa tras un recorrido patrimonial te permite disfrutar de la mejor gastronomía popular en un entorno limpio y acogedor.
+
+--------------------------------------------------------------------------------
+PREGUNTA 6: ¿Cómo preparan el arroz chaufa al wok que acompaña sus platos?
+--------------------------------------------------------------------------------
+RESPUESTA 6:
+Salteamos arroz blanco graneado a fuego alto con aceite de ajonjolí, sillao oscuro, kion fresco picado y un toque secreto de fondo de pollo concentrado.
+
+Añadimos trozos de huevo revuelto tierno, pechuga de pollo dorada y abundante cebollita china picada al instante que aporta aroma y frescor inconfundibles.
+
+El salteado en wok de hierro a fuego vivo impregna el característico sabor ahumado que distingue a los mejores restaurantes de fusión peruano-china.
+
+Combinado con una presa jugosa de pollo a la brasa y papas fritas, el plato mostrito resulta una experiencia gastronómica redonda y contundente.
+
+--------------------------------------------------------------------------------
+PREGUNTA 7: ¿Qué variedad de cremas artesanales ofrecen en el restaurante?
+--------------------------------------------------------------------------------
+RESPUESTA 7:
+Elaboramos a diario mayonesa suave batida con limón y aceite vegetal, ají pollero picantito molido en batán con huacatay y rocoto fresco.
+
+Disponemos también de crema de mostaza dulce, salsa tártara aromatizada con cebollita china y vinagreta clásica para aderezar las ensaladas.
+
+Las cremas se sirven en frascos dosificadores higiénicos en cada mesa para que los comensales las combinen libremente y sin restricciones.
+
+Nuestras salsas caseras son el complemento ideal que potencia el crujido de las papas y resalta la sazón del pollo a la brasa.
+
+--------------------------------------------------------------------------------
+PREGUNTA 8: ¿Qué tan cerca queda el local del Mirador de Santa Apolonia?
+--------------------------------------------------------------------------------
+RESPUESTA 8:
+Nos ubicamos a aproximadamente 941 metros del cerro y Mirador de Santa Apolonia, trayecto que se recorre en solo 10 a 12 minutos a pie o 3 minutos en mototaxi.
+
+Muchos visitantes descienden de admirar la vista panorámica de la ciudad y se dirigen hacia Revilla Pérez para reponer energías con un cuarto o medio pollo a la brasa.
+
+La ruta peatonal conecta por calles tradicionales empedradas con comercio activo y ambiente seguro a lo largo del día.
+
+En Pollería Chifa te brindamos un servicio atento y diligente para que tu descanso tras la caminata por el mirador sea reconfortante y placentero.
+
+--------------------------------------------------------------------------------
+PREGUNTA 9: ¿Qué opciones de bebidas tienen para acompañar el pollo y las papas?
+--------------------------------------------------------------------------------
+RESPUESTA 9:
+Servimos chicha morada casera hervida con maíz morado andino, manzana, piña y clavo de olor, disponible en jarras heladas de un litro y vasos personales.
+
+Ofrecemos gaseosas nacionales en botellas personales de vidrio y plástico, así como formatos familiares de litro y medio de las marcas más populares.
+
+Disponemos también de cervezas bien frías para quienes desean celebrar momentos especiales con un brindis espumoso en familia o con amigos.
+
+Mantenemos nuestras conservadoras a temperatura baja para que cada bebida llegue a tu mesa con la frescura justa para aplacar la sed.
+
+--------------------------------------------------------------------------------
+PREGUNTA 10: ¿Disponen de servicio de delivery rápido para domicilios y oficinas?
+--------------------------------------------------------------------------------
+RESPUESTA 10:
+Contamos con reparto a domicilio para toda la zona central, barrios aledaños al mercado y urbanizaciones cercanas con repartidores en moto confiables.
+
+Empacamos los alimentos en envases térmicos que retienen el calor y permiten que las papas fritas y la piel del pollo conserven su textura crujiente.
+
+Puedes escribirnos por WhatsApp para enviar tu pedido y ubicación exacta, despachando tu orden en un promedio de 20 a 30 minutos.
+
+En Pollería Chifa nos aseguramos de que recibas tu pedido caliente y en perfectas condiciones directamente en la puerta de tu hogar.
+
+--------------------------------------------------------------------------------
+PREGUNTA 11: ¿Cuál es la distancia hacia el Centro Comercial Real Plaza?
+--------------------------------------------------------------------------------
+RESPUESTA 11:
+La pollería se sitúa a aproximadamente 1.02 km del Real Plaza de Cajamarca, distancia que se cubre en solo 4 minutos en mototaxi o 12 minutos a pie.
+
+Esta ubicación estratégica permite a quienes realizan diligencias o compras en el centro comercial acercarse con facilidad a nuestro restaurante para almorzar o cenar.
+
+El trayecto por calles intermedias es plano y directo, conectando fluidamente ambos puntos neurálgicos del comercio cajamarquino.
+
+En Pollería Chifa disfrutas de un servicio cálido, porciones abundantes y tarifas accesibles que superan la oferta de los patios de comidas comerciales.
+
+--------------------------------------------------------------------------------
+PREGUNTA 12: ¿Qué platos individuales rápidos ofrecen para la hora del almuerzo?
+--------------------------------------------------------------------------------
+RESPUESTA 12:
+Disponemos de cuartos de pollo a la brasa económicos con papas fritas y ensalada, porciones de arroz chaufa especial y combinados mostritos al paso.
+
+Los platos individuales se despachan en pocos minutos tras tomar la comanda, siendo ideales para trabajadores con horarios de refrigerio estrictos.
+
+Ofrecemos opciones de presa pechuga o pierna según el gusto de cada cliente sin sobrecostos adicionales.
+
+Es la alternativa perfecta para comer sabroso, rendidor y continuar tu jornada laboral con energía renovada.
+
+--------------------------------------------------------------------------------
+PREGUNTA 13: ¿Cómo seleccionan las papas para lograr su punto crujiente?
+--------------------------------------------------------------------------------
+RESPUESTA 13:
+Trabajamos con papas nativas cajamarquinas seleccionadas por su firmeza y textura arenosa ideal para absorber sabor y quedar doraditas.
+
+Aplicamos un proceso de fritura a temperatura controlada en freidoras de acero inoxidable con aceite vegetal fresco cambiado periódicamente.
+
+Escurrimos las papas meticulosamente para que no retengan exceso de grasa y las servimos con el toque justo de sal marina molida.
+
+El resultado son bastones de papa dorados por fuera y suaves por dentro que se complementan a la perfección con nuestras cremas caseras.
+
+--------------------------------------------------------------------------------
+PREGUNTA 14: ¿A qué distancia se encuentra el Terminal Terrestre de Cajamarca?
+--------------------------------------------------------------------------------
+RESPUESTA 14:
+Nos encontramos a aproximadamente 2.23 km del Terminal Terrestre de Cajamarca, lo que representa un viaje de 7 a 9 minutos en taxi o motocarro.
+
+Esta cercanía facilita que viajeros recién llegados o pasajeros a punto de viajar puedan coordinar un almuerzo o cena en el centro de la ciudad.
+
+El enlace hacia la estación de buses se realiza sin contratiempos conectando por la Avenida San Martín o el Jirón José Sabogal.
+
+En Pollería Chifa te recibimos con la mejor atención para que te lleves un recuerdo sabroso de la cocina popular de Cajamarca.
+
+--------------------------------------------------------------------------------
+PREGUNTA 15: ¿Qué métodos de pago son aceptados en caja y por pedidos digitales?
+--------------------------------------------------------------------------------
+RESPUESTA 15:
+Aceptamos pagos en efectivo en soles peruanos, pagos móviles mediante billeteras electrónicas como Yape y Plin, y transferencias bancarias directas.
+
+No aplicamos cobro de comisiones por pagos digitales, promoviendo una experiencia cómoda, segura y sin demoras en el cambio menudo.
+
+Emitimos boletas de venta electrónicas para tu control personal de gastos sin demoras en ventanilla.
+
+Buscamos que tu experiencia en caja sea ágil para que disfrutes de tu estadía gastronómica con total tranquilidad.
+
+--------------------------------------------------------------------------------
+PREGUNTA 16: ¿Atienden reservas para cumpleaños y celebraciones familiares?
+--------------------------------------------------------------------------------
+RESPUESTA 16:
+Acondicionamos mesas largas en nuestro salón para celebraciones de cumpleaños, reuniones de trabajo, promociones escolares o agasajos familiares.
+
+Ofrecemos combos por volumen con varios pollos enteros, fuentes grandes de arroz chaufa y bebidas familiares a precios promocionales convenientes.
+
+Brindamos facilidades para cantar el cumpleaños y te prestamos vajilla limpia de cortesía para compartir la torta festiva con tus invitados.
+
+Contáctanos con anticipación por WhatsApp para coordinar tu mesa y asegurar una atención preferencial para tu grupo.
+
+--------------------------------------------------------------------------------
+PREGUNTA 17: ¿Cuáles son las medidas de higiene que aplican en la preparación de alimentos?
+--------------------------------------------------------------------------------
+RESPUESTA 17:
+Cumplimos rigurosamente con normas de salubridad e inocuidad alimentaria, realizando desinfección diaria de utensilios, mesas y áreas de cocción.
+
+El personal porta uniforme reglamentario con cofias y delantales limpios, cumpliendo protocolos de lavado frecuente de manos.
+
+Las verduras para las ensaladas pasan por un proceso de desinfección con soluciones certificadas que garantizan su total seguridad para el consumo.
+
+Tu salud y bienestar están plenamente resguardados en Pollería Chifa gracias a nuestro compromiso con la limpieza y calidad.
+
+--------------------------------------------------------------------------------
+PREGUNTA 18: ¿Cuál es el horario de atención al público a lo largo de la semana?
+--------------------------------------------------------------------------------
+RESPUESTA 18:
+Atendemos de lunes a domingo desde las 11:30 de la mañana hasta las 10:30 de la noche en horario continuado para almuerzos y cenas.
+
+Los fines de semana encendemos los hornos temprano para abastecer la alta afluencia de familias y compradores del mercado central.
+
+Es el lugar perfecto para disfrutar de un pollo a la brasa recién horneado a cualquier hora del día con la mejor sazón de la ciudad.
+
+Te esperamos en el Jirón Prolongación Revilla Pérez N° 130 para atenderte con la calidez y rapidez que mereces.
+
+--------------------------------------------------------------------------------
+PREGUNTA 19: ¿Puedo pedir presas específicas como pechuga o pierna en mi orden?
+--------------------------------------------------------------------------------
+RESPUESTA 19:
+Por supuesto, en cada cuarto de pollo puedes solicitar tu presa predilecta: pechuga jugosa con ala doradita o pierna tierna con entrepierna.
+
+En medios pollos y pollos enteros servimos la combinación completa y equilibrada para que todos los comensales disfruten su presa favorita en la mesa.
+
+Si tienes preferencias especiales en el tipo de ensalada (fresca o cocida) o punto de cocción de las papas, háznoslo saber al ordenar.
+
+En Pollería Chifa nos adaptamos a tus gustos para que cada plato servido sea una experiencia satisfactoria.
+
+--------------------------------------------------------------------------------
+PREGUNTA 20: ¿Cómo puedo comunicarme para consultar la carta o pedir por delivery?
+--------------------------------------------------------------------------------
+RESPUESTA 20:
+Puedes comunicarte directamente por WhatsApp a nuestro canal de atención o visitarnos en el Jirón Prolongación Revilla Pérez N° 130.
+
+Te responderemos al instante con la carta digital, promociones familiares del día y alternativas de combinados al wok.
+
+Indícanos tu pedido y te confirmaremos el tiempo de preparación para que lo recojas caliente o lo recibas en la puerta de tu casa.
+
+En Pollería Chifa estamos listos para atenderte con el sabor, generosidad y cariño que conquistan a los cajamarquinos.
+================================================================================

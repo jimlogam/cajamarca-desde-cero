@@ -1,167 +1,269 @@
-Nombre: Ceba Santa Isabel
-Macro-Sector: 13_Educacion_y_Formacion
-Rubro: Educacion_Basica
-Subrubro: Colegios_Primaria_y_Secundaria
-Categoría Maps: Institución educativa
-Dirección: Jr. Jequetepeque 200-242, Cajamarca 06001
-Teléfono: 
-Rating: 3
-Reseñas: 2
+Nombre: CEBA Santa Isabel
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Tradicional_y_Campestre
+Categoría Maps: Centro escolar, Service establishment
+Dirección: 
+Teléfono: 992 543 682
+Rating: 
+Reseñas: 
 Sitio web: 
-Latitud: -7.1523129999999995
-Longitud: -78.5191614
-Google Maps: https://www.google.com/maps?cid=13424773545643168309
-Place Id: ChIJD0Mlk_daspERNVIfimlgTro
-Fotos: Ceba Santa Isabel.jpg
-Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=l9WbZZSoTcyJT03pQ6vBRg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=123.08146&pitch=0&thumbfov=100
-Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
+Latitud: -7.020876299999999
+Longitud: -78.3334422
+Google Maps: https://www.google.com/maps?cid=13385482146450349392
+Place Id: ChIJFyDPAld-fWURUJ2BxhfJwrk
+Fotos: CEBA Santa Isabel.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfMDEn1j0hljG6vVtQQcqQav_6R0DvLmqdP-nu0cUuibiq7Lm7jFDmddtLWE4g3I0Wjlr4pJD2clMPgaGCkWVppCnkhQkWtykh92xAFWd1-_UP6NI2l2__vJj7T79YQXrgFclyK=w1600-h1200-k-no
+Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-Te damos la más cálida bienvenida a Ceba Santa Isabel. Comprometidos con la educación inclusiva y la superación de jóvenes y adultos en Cajamarca, ofrecemos programas de Educación Básica Alternativa en niveles primaria y secundaria con certificación oficial MINEDU. Contamos con horarios flexibles en turnos nocturnos y sabatinos, docentes dedicados y metodología para trabajadores. Visítanos en Jr. Jequetepeque 200-242 o solicita información de matrícula por WhatsApp hoy mismo.
+¡Te damos la más cálida bienvenida a CEBA Santa Isabel! Ven a disfrutar de la auténtica comida tradicional cajamarquina y platos a la carta preparados con recetas caseras, insumos frescos del valle y la sazón incomparable de nuestra cocina. Te esperamos en Teléfono: 992 543 682 para brindarte un ambiente acogedor, porciones generosas y atención esmerada. Haz tu reserva o pide por delivery escribiéndonos al WhatsApp hoy.
 ================================================================================
 
 --------------------------------------------------------------------------------
-PREGUNTAS FRECUENTES Y RESPUESTAS (ESTÁNDAR MAESTRO)
+20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
 --------------------------------------------------------------------------------
 
-1. ¿Qué niveles de enseñanza y ciclos formativos imparte Ceba Santa Isabel?
-La institución atiende los ciclos Inicial, Intermedio y Avanzado de la modalidad de Educación Básica Alternativa (EBA), equivalentes a los estudios regulares de primaria y secundaria completa.
+--------------------------------------------------------------------------------
+PREGUNTA 1: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Camote frito en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 1:
+Al elegir Camote frito disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
 
-El programa está pensado especialmente para personas mayores de catorce años que necesitan culminar sus estudios escolares de manera acelerada y flexible.
+Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
 
-Al completar los cuatro grados del ciclo avanzado, los estudiantes obtienen su Certificado Oficial de Educación Secundaria emitido con valor oficial por el Ministerio de Educación (MINEDU).
+Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
 
-2. ¿A qué distancia se ubica el centro educativo respecto a la Plaza de Armas de Cajamarca?
-El plantel se localiza a solo 561 metros hacia el noroeste de la histórica Plaza de Armas, lo que representa una caminata llana y breve de apenas 7 minutos por el Jr. Jequetepeque.
+Ven con tus familiares o amigos a CEBA Santa Isabel en Teléfono: 992 543 682, Cajamarca y déjate consentir por la sazón de Camote frito.
 
-Al situarse a pocas cuadras del centro tradicional y del barrio San Sebastián, el acceso para estudiantes que trabajan en el comercio urbano es sumamente cómodo y rápido.
+--------------------------------------------------------------------------------
+PREGUNTA 2: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Caldo de cabeza de carnero en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 2:
+Disfrutar de Caldo de cabeza de carnero en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
 
-Esta posición céntrica permite acudir a clases al término de la jornada laboral sin incurrir en gastos elevados de transporte urbano.
+Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
 
-3. ¿Qué modalidades y turnos de estudio se adaptan a las jornadas de trabajadores?
-El CEBA brinda turnos vespertinos y nocturnos durante los días de semana, además de programas semipresenciales concentrados los días sábados y domingos.
+Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
 
-Esta estructura horaria permite a comerciantes, obreros de construcción, mototaxistas y madres de familia estudiar sin descuidar sus actividades económicas diarias.
+En CEBA Santa Isabel te esperamos en Teléfono: 992 543 682, Cajamarca para que compartas y disfrutes de Caldo de cabeza de carnero con la mejor atención y calidez.
 
-Se entregan módulos de autoaprendizaje guiados para que los alumnos puedan repasar en sus momentos libres y afianzar los conocimientos evaluados.
+--------------------------------------------------------------------------------
+PREGUNTA 3: ¿Qué ingredientes, preparación y presentación destacan en Chicha morada en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 3:
+La preparación de Chicha morada se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de restaurante campestre.
 
-4. ¿Qué validez legal y reconocimiento oficial tienen los certificados expedidos?
-Todos los certificados de estudios, actas de evaluación y libretas poseen valor legal pleno y están registrados oficialmente ante la UGEL Cajamarca y el MINEDU.
+Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
 
-El certificado de secundaria completa permite al egresado postular a universidades, institutos superiores pedagógicos y tecnológicos, y escuelas de suboficiales de la PNP y FF.AA.
+Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
 
-Constituye asimismo el documento indispensable para acceder a empleos formales que exigen secundaria terminada o para tramitar brevetes profesionales.
+En CEBA Santa Isabel cuidamos cada detalle en Teléfono: 992 543 682, Cajamarca para hacer de tu experiencia con Chicha morada un motivo para volver siempre.
 
-5. ¿Cuál es el tiempo de viaje desde el Terminal Terrestre y desde el Aeropuerto Armando Revoredo?
-Desde el Terminal Terrestre de Cajamarca, situado a 2.65 kilómetros hacia el sureste, un taxi demora en promedio entre 7 y 9 minutos de recorrido por vías céntricas.
+--------------------------------------------------------------------------------
+PREGUNTA 4: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Medio pollo a la leña en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 4:
+Al elegir Medio pollo a la leña disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
 
-Hacia el Aeropuerto Mayor General FAP Armando Revoredo Iglesias la distancia es de 3.62 kilómetros al noreste, lo que representa entre 10 y 12 minutos en vehículo particular.
+Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
 
-Al encontrarse en una zona céntrica consolidada, los taxistas y mototaxistas identifican el Jr. Jequetepeque con facilidad, permitiendo traslados ágiles y puntuales.
+Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
 
-6. ¿Cómo es el trato pedagógico hacia personas adultas que retoman sus estudios escolares?
-El cuerpo de profesores aplica métodos andragógicos basados en el respeto, la paciencia y la comprensión de las vivencias laborales de cada alumno adulto.
+Ven con tus familiares o amigos a CEBA Santa Isabel en Teléfono: 992 543 682, Cajamarca y déjate consentir por la sazón de Medio pollo a la leña.
 
-Se promueve un ambiente de confianza y compañerismo en el aula, desterrando cualquier temor inicial hacia materias como matemáticas o gramática.
+--------------------------------------------------------------------------------
+PREGUNTA 5: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Trigo guisado en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 5:
+Al elegir Trigo guisado disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
 
-Los docentes explican los temas con ejemplos prácticos vinculados a la vida real, facilitando que los conceptos se comprendan de manera intuitiva y duradera.
+Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
 
-7. ¿Qué comodidades e infraestructura brindan las aulas para las clases nocturnas?
-El colegio dispone de aulas iluminadas adecuadamente, con ventilación natural y mobiliario confortable diseñado para personas adultas.
+Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
 
-Cuenta con pizarras acrílicas amplias, material didáctico ilustrado y servicios higiénicos limpios y desinfectados para uso de la comunidad escolar.
+Ven con tus familiares o amigos a CEBA Santa Isabel en Teléfono: 992 543 682, Cajamarca y déjate consentir por la sazón de Trigo guisado.
 
-Las instalaciones se mantienen cerradas y protegidas para brindar seguridad y tranquilidad a los estudiantes durante las horas de clase en la noche.
+--------------------------------------------------------------------------------
+PREGUNTA 6: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Leche fresca de establo en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 6:
+En nuestra cocina tratamos Leche fresca de establo como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
 
-8. ¿Qué atractivos patrimoniales y mercados se ubican en los alrededores inmediatos?
-A solo 393 metros hacia el este (unos 5 minutos a pie) se encuentra el tradicional Mercado Central de Cajamarca, epicentro del comercio popular y gastronómico.
+Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
 
-El célebre Cuarto del Rescate se ubica a 691 metros, mientras que las escalinatas de acceso al cerro Santa Apolonia distan 886 metros hacia el sur.
+Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
 
-En las inmediaciones operan librerías con útiles escolares, fotocopiadoras, boticas y panaderías artesanales para compras cotidianas.
+Te invitamos a visitarnos en CEBA Santa Isabel, situado en Teléfono: 992 543 682, Cajamarca, listos para servirte Leche fresca de establo con el sabor que te mereces.
 
-9. ¿Qué opciones de alimentación y refrigerios económicos existen cerca del plantel?
-A lo largo del Jr. Jequetepeque y en los alrededores del mercado funcionan comedores tradicionales que sirven menús criollos, caldo de gallina y frituras a precios módicos.
+--------------------------------------------------------------------------------
+PREGUNTA 7: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Arroz blanco graneado en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 7:
+Disfrutar de Arroz blanco graneado en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
 
-Asimismo, operan panaderías que expenden panes de piso recién horneados, café caliente y jugos naturales para consumir antes de iniciar la jornada de estudio.
+Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
 
-Los estudiantes que disponen de poco tiempo entre su trabajo y la clase encuentran alternativas rápidas y sabrosas a menos de una cuadra del colegio.
+Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
 
-10. ¿Se cuenta con programas de nivelación y convalidación para ingresar a mitad de año?
-La institución realiza exámenes de ubicación pedagógica autorizados por el MINEDU para determinar el ciclo exacto que corresponde a cada nuevo estudiante.
+En CEBA Santa Isabel te esperamos en Teléfono: 992 543 682, Cajamarca para que compartas y disfrutes de Arroz blanco graneado con la mejor atención y calidez.
 
-Aquellos postulantes que cursaron grados en años anteriores pueden convalidar sus estudios presentando sus certificados previos o rindiendo pruebas de suficiencia.
+--------------------------------------------------------------------------------
+PREGUNTA 8: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Olluco guisado en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 8:
+En nuestra cocina tratamos Olluco guisado como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
 
-Este sistema evita la pérdida de tiempo y permite que los alumnos avancen de manera acelerada y promocional hacia su graduación escolar.
+Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
 
-11. ¿A qué distancia se ubica el centro comercial Real Plaza y qué servicios ofrece?
-El centro comercial Real Plaza se localiza a 1.49 kilómetros hacia el este, distancia que se cubre en apenas 4 a 5 minutos en mototaxi o automóvil.
+Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
 
-En dicho mall se ubica el supermercado Plaza Vea, tiendas departamentales, cines y agencias de los principales bancos nacionales con cajeros automáticos.
+Te invitamos a visitarnos en CEBA Santa Isabel, situado en Teléfono: 992 543 682, Cajamarca, listos para servirte Olluco guisado con el sabor que te mereces.
 
-A pocas cuadras en torno a la Plaza de Armas y el mercado también operan agentes corresponsales autorizados para retiros y transferencias bancarias rápidas.
+--------------------------------------------------------------------------------
+PREGUNTA 9: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Caldo de gallina de corral en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 9:
+En nuestra cocina tratamos Caldo de gallina de corral como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
 
-12. ¿Cuáles son los requisitos documentarios indispensables para formalizar la matrícula?
-Los interesados deben presentar copia simple de su DNI vigente, partida de nacimiento original y los certificados de estudios del último grado escolar aprobado.
+Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
 
-En caso de que el estudiante no cuente temporalmente con sus certificados, la secretaría le brinda facilidades de plazo mientras gestiona la regularización de su expediente.
+Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
 
-Toda la documentación preliminar puede enviarse por canales de mensajería digital para separar la vacante y agilizar el registro oficial.
+Te invitamos a visitarnos en CEBA Santa Isabel, situado en Teléfono: 992 543 682, Cajamarca, listos para servirte Caldo de gallina de corral con el sabor que te mereces.
 
-13. ¿Qué medidas de seguridad y vigilancia se aplican a la salida de las clases de noche?
-El acceso al local cuenta con control de portería para garantizar que solo ingresen los estudiantes y docentes formalmente registrados.
+--------------------------------------------------------------------------------
+PREGUNTA 10: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Quesillo fresco por porción en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 10:
+Cada orden de Quesillo fresco por porción se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
 
-Se coordina con las rondas urbanas y el serenazgo municipal para mantener patrullaje preventivo en las esquinas a la hora de salida de clases.
+Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
 
-El Jr. Jequetepeque cuenta con buena iluminación pública y paraderos cercanos de transporte urbano para retornar a casa con tranquilidad.
+Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
 
-14. ¿Cómo desplazarse desde esta ubicación hacia las aguas termales de Baños del Inca?
-El complejo termal de Baños del Inca dista 6.14 kilómetros hacia el este, trayecto que se cubre en aproximadamente 15 a 18 minutos en taxi directo.
+Haz tu reserva o visítanos en CEBA Santa Isabel, en Teléfono: 992 543 682, Cajamarca, donde preparamos Quesillo fresco por porción con el cariño de la buena mesa.
 
-Para transporte colectivo, a pocas cuadras se abordan las combis regulares que conectan de forma económica con la alameda de Baños del Inca.
+--------------------------------------------------------------------------------
+PREGUNTA 11: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Caldo de patasca en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 11:
+Cada orden de Caldo de patasca se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
 
-Sumergirse en los manantiales termales durante los fines de semana es una costumbre reparadora para los alumnos tras intensas jornadas de trabajo y estudio.
+Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
 
-15. ¿Qué oportunidades concretas de superación laboral brinda el certificado de secundaria?
-Obtener el certificado oficial de secundaria abre las puertas para postular a licencias de conducir profesionales de categoría A-II y A-III.
+Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
 
-Permite además cumplir los requisitos de ingreso a institutos tecnológicos y pedagógicos superiores para estudiar carreras técnicas de rápida colocación.
+Haz tu reserva o visítanos en CEBA Santa Isabel, en Teléfono: 992 543 682, Cajamarca, donde preparamos Caldo de patasca con el cariño de la buena mesa.
 
-Facilita asimismo acceder a puestos de trabajo formal con beneficios de ley en empresas comerciales, agrícolas y de servicios en la región.
+--------------------------------------------------------------------------------
+PREGUNTA 12: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Caldo verde cajamarquino en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 12:
+Al elegir Caldo verde cajamarquino disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
 
-16. ¿Qué horario maneja la secretaría para consultas y trámites de matrícula?
-La secretaría atiende de lunes a viernes en horarios de tarde y noche, así como los sábados en jornada especial para trabajadores y padres de familia.
+Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
 
-Las consultas a través de WhatsApp se atienden con diligencia, informando con claridad sobre fechas de inicio de clases, costos y cronogramas de evaluación.
+Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
 
-El equipo directivo brinda asesoría personalizada a cada postulante para facilitarle el retorno formal a las aulas escolares.
+Ven con tus familiares o amigos a CEBA Santa Isabel en Teléfono: 992 543 682, Cajamarca y déjate consentir por la sazón de Caldo verde cajamarquino.
 
-17. ¿Cómo se desarrollan las materias curriculares y la evaluación del aprendizaje?
-El plan de estudios abarca Comunicación, Matemática, Ciencia y Tecnología, Ciencias Sociales y Educación para el Trabajo con enfoque práctico.
+--------------------------------------------------------------------------------
+PREGUNTA 13: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Ensalada campestre de la huerta en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 13:
+Al elegir Ensalada campestre de la huerta disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
 
-Las evaluaciones son continuas y valoran la participación en clase, la entrega de tareas modulares y el esfuerzo personal del estudiante.
+Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
 
-Se prioriza el desarrollo de habilidades comunicativas y numéricas útiles para la administración de pequeños negocios y el desempeño laboral.
+Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
 
-18. ¿Está permitida la asistencia con niños pequeños para madres trabajadoras?
-El colegio mantiene una política de empatía y apoyo hacia las madres solteras o trabajadoras que no cuentan con familiares que cuiden a sus hijos pequeños.
+Ven con tus familiares o amigos a CEBA Santa Isabel en Teléfono: 992 543 682, Cajamarca y déjate consentir por la sazón de Ensalada campestre de la huerta.
 
-Se permite el ingreso responsable con los menores al aula, asegurando que las madres puedan culminar sus estudios sin descuidar a sus pequeños.
+--------------------------------------------------------------------------------
+PREGUNTA 14: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Canasta de picnic campestre en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 14:
+Cada orden de Canasta de picnic campestre se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
 
-Esta flexibilidad ha permitido que numerosas mujeres del valle cajamarquino logren el ansiado sueño de culminar su educación secundaria.
+Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
 
-19. ¿Qué actividades cívicas y ceremonias de graduación se organizan para los egresados?
-Al término de cada periodo promocional se realiza una emotiva ceremonia de graduación con imposición de medallas y entrega de diplomas oficiales.
+Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
 
-Los estudiantes participan con sus familias portando togas y birretes, celebrando el logro de una meta académica trascendental en sus vidas.
+Haz tu reserva o visítanos en CEBA Santa Isabel, en Teléfono: 992 543 682, Cajamarca, donde preparamos Canasta de picnic campestre con el cariño de la buena mesa.
 
-Estas vivencias refuerzan la autoestima personal y demuestran que nunca es tarde para aprender, superarse y salir adelante con dignidad.
+--------------------------------------------------------------------------------
+PREGUNTA 15: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Combo familiar campestre en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 15:
+Disfrutar de Combo familiar campestre en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
 
-20. ¿Cuál es el procedimiento más sencillo para inscribirse e iniciar clases en el CEBA?
-El interesado solo debe enviar un mensaje de WhatsApp al número de contacto de la secretaría indicando su edad y el último año que cursó en el colegio.
+Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
 
-El asesor educativo le orientará sobre el ciclo que le corresponde y le indicará los pasos sencillos para completar su matrícula de inmediato.
+Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
 
-Inscribirse en Ceba Santa Isabel es una decisión valiente y acertada para abrir nuevos horizontes laborales y alcanzar la superación personal en Cajamarca.
+En CEBA Santa Isabel te esperamos en Teléfono: 992 543 682, Cajamarca para que compartas y disfrutes de Combo familiar campestre con la mejor atención y calidez.
+
+--------------------------------------------------------------------------------
+PREGUNTA 16: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Pachamanca a la tierra en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 16:
+Cada orden de Pachamanca a la tierra se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+
+Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+
+Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+
+Haz tu reserva o visítanos en CEBA Santa Isabel, en Teléfono: 992 543 682, Cajamarca, donde preparamos Pachamanca a la tierra con el cariño de la buena mesa.
+
+--------------------------------------------------------------------------------
+PREGUNTA 17: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Lechón al horno en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 17:
+Disfrutar de Lechón al horno en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+
+Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+
+Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+
+En CEBA Santa Isabel te esperamos en Teléfono: 992 543 682, Cajamarca para que compartas y disfrutes de Lechón al horno con la mejor atención y calidez.
+
+--------------------------------------------------------------------------------
+PREGUNTA 18: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Parrilla de carnes mixta en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 18:
+Al elegir Parrilla de carnes mixta disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
+
+Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+
+Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+
+Ven con tus familiares o amigos a CEBA Santa Isabel en Teléfono: 992 543 682, Cajamarca y déjate consentir por la sazón de Parrilla de carnes mixta.
+
+--------------------------------------------------------------------------------
+PREGUNTA 19: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Bizcochos cajamarquinos en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 19:
+Disfrutar de Bizcochos cajamarquinos en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+
+Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+
+Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+
+En CEBA Santa Isabel te esperamos en Teléfono: 992 543 682, Cajamarca para que compartas y disfrutes de Bizcochos cajamarquinos con la mejor atención y calidez.
+
+--------------------------------------------------------------------------------
+PREGUNTA 20: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Pato guisado en CEBA Santa Isabel?
+--------------------------------------------------------------------------------
+RESPUESTA 20:
+Cada orden de Pato guisado se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+
+Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+
+Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+
+Haz tu reserva o visítanos en CEBA Santa Isabel, en Teléfono: 992 543 682, Cajamarca, donde preparamos Pato guisado con el cariño de la buena mesa.
+
+================================================================================

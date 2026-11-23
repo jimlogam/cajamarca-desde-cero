@@ -1,0 +1,168 @@
+Nombre: Clínica Veterinaria "Padre Eterno"
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Veterinario
+Dirección: Yahuar Huaca 1095, Baños del Inca 06004
+Teléfono: 976 456 486
+Rating: 5
+Reseñas: 4
+Sitio web: https://www.facebook.com/Cl%C3%ADnica-Veterinaria-Padre-Eterno-808412406214066/
+Latitud: -7.1697837
+Longitud: -78.454464
+Google Maps: https://www.google.com/maps?cid=16431736632453871015
+Place Id: ChIJpYgOHzBFspERp7UvfGhBCeQ
+Fotos: Clínica Veterinaria Padre Eterno.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdBSMSf__TJt61S8i4XCYbcP5M1A4tApFTP_8ncC5Qsoc4br7k43898pL_P9zcaxzkLlMX3BemfH4gDmuSxc4po4cSBSZDytvs5FcE0lXvX7qc_NCtyYpK8Zg4UK5odQnJ9xvp_=w1600-h1200-k-no
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos una cálida bienvenida a Clínica Veterinaria Padre Eterno! Tu centro de medicina veterinaria y salud animal en Jirón Yahuar Huaca 1095, Baños del Inca, Cajamarca. Te ofrecemos una atención veterinaria integral para animales de compañía y de campo: consultas clínicas, cirugías de esterilización, vacunación completa, desparasitación sistemática, atención obstétrica en partos, internamiento diurno y pet shop con alimentos balanceados. Cuidamos la salud de tus animales con profunda vocación ética y calidez humana. Visítanos hoy.
+================================================================================
+
+--------------------------------------------------------------------------------
+20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
+--------------------------------------------------------------------------------
+
+1. ¿Qué servicios veterinarios para animales menores y de producción brinda Padre Eterno?
+Ofrecemos consultas médicas veterinarias para perros y gatos, así como atención clínica para animales de granja y campo.
+
+Realizamos cirugías generales, esterilizaciones preventivas y atención obstétrica en distocias y partos complicados.
+
+Disponemos de planes de vacunación, desparasitación masiva, asesoría nutricional pecuaria e internamiento diurno con fluidoterapia.
+
+2. ¿A qué distancia se localiza el taller en relación con Complejo Termal de Baños del Inca?
+Nos encontramos a una distancia de 1.33 kilómetros con respecto a Complejo Termal de Baños del Inca, siguiendo el rumbo noroeste a través del entramado vial de la ciudad.
+
+El traslado vehicular en taxi o mototaxi requiere habitualmente entre 4 y 3 minutos, dependiendo del flujo del tránsito en horas punta matutinas o vespertinas.
+
+Nuestra localización estratégica te permite conectar rápidamente con este emblemático punto urbano sin tener que enfrentar embotellamientos prolongados.
+
+3. ¿Cómo se desarrollan las cirugías de esterilización en caninos y felinos?
+Efectuamos ovariohisterectomías en hembras y orquiectomías en machos con instrumental estéril y técnica quirúrgica limpia.
+
+Previene patologías uterinas graves como piometras, disminuye la aparición de tumores mamarios y evita hiperplasias prostáticas.
+
+Reduce extravíos por celo, conductas agresivas territoriales y la proliferación de camadas no deseadas en Baños del Inca.
+
+4. ¿Qué calendario de vacunación se aplica a cachorros y animales adultos?
+En cachorros caninos aplicamos vacunas contra parvovirus, moquillo, hepatitis, leptospirosis, parainfluenza y vacuna antirrábica.
+
+En felinos administramos la vacuna triple felina para protección contra rinotraqueítis, calicivirus y panleucopenia felina, y dosis antirrábica.
+
+En mascotas adultas se efectúan los refuerzos anuales correspondientes para mantener las defensas biológicas altas y activas.
+
+5. ¿A qué distancia se encuentra el establecimiento respecto a Universidad Nacional de Cajamarca?
+Hacia Universidad Nacional de Cajamarca existe un recorrido aproximado de 4.63 kilómetros en sentido oeste, tomando las avenidas de salida y circunvalación cajamarquinas.
+
+En automóvil o transporte interurbano el recorrido toma cerca de 11 a 15 minutos de viaje continuo por pistas asfaltadas en buen estado de conservación.
+
+Es una ruta directa y muy accesible tanto para clientes locales que residen en los alrededores como para transportistas y viajeros que ingresan al valle.
+
+6. ¿Qué atención se brinda a animales de campo, ganado vacuno y ovino?
+Atendemos cuadros de timpanismo ruminal, mastitis infecciosa, diarreas neonatales en terneros y prolapsos uterinos en vacas.
+
+Realizamos desparasitaciones periódicas contra fasciola hepática y parásitos gastrointestinales comunes en la campiña cajamarquina.
+
+Brindamos asesoría en planes sanitarios de hato y manejo reproductivo para mejorar la productividad lechera de los productores locales.
+
+7. ¿Cómo se realiza el diagnóstico de enfermedades infecciosas y parasitarias?
+Utilizamos kits diagnósticos rápidos para el descarte oportuno de parvovirus canino, distemper y leucemia viral felina.
+
+Efectuamos análisis coprológicos para la identificación de parásitos gastrointestinales y frotis sanguíneos para hemoparásitos.
+
+Realizamos raspados cutáneos para el diagnóstico microscópico de ácaros de la sarna y hongos dermatofitos en piel y pelaje.
+
+8. ¿A qué distancia se encuentra el establecimiento respecto a Ventanillas de Otuzco?
+Hacia Ventanillas de Otuzco existe un recorrido aproximado de 4.89 kilómetros en sentido norte, tomando las avenidas de salida y circunvalación cajamarquinas.
+
+En automóvil o transporte interurbano el recorrido toma cerca de 12 a 16 minutos de viaje continuo por pistas asfaltadas en buen estado de conservación.
+
+Es una ruta directa y muy accesible tanto para clientes locales que residen en los alrededores como para transportistas y viajeros que ingresan al valle.
+
+9. ¿Cómo funciona el servicio de internamiento diurno y fluidoterapia?
+Disponemos de caniles limpios y confortables para la observación médica y administración de sueros parenterales en pacientes deshidratados.
+
+Monitoreamos constantemente la temperatura, pulso y respuesta a la medicación antibiótica o analgésica prescrita por el veterinario.
+
+Mantenemos a la mascota bajo supervisión continua hasta que supera la fase aguda y puede retornar de forma segura a su hogar.
+
+10. ¿Qué cuidados de higiene bucal y profilaxis dental se realizan a mascotas?
+Efectuamos limpieza dental ultrasónica que desincrusta las placas de sarro acumuladas sobre el esmalte y debajo de las encías.
+
+Realizamos extracciones de piezas dentarias fracturadas o con infección radicular para eliminar focos de dolor bucal severo.
+
+Orientamos a los dueños sobre hábitos de cepillado dental en casa y snacks enzimáticos para prevenir el mal aliento crónico.
+
+11. ¿Cuánto tiempo toma desplazarse desde el establecimiento hasta Terminal Terrestre de Cajamarca?
+Hacia Terminal Terrestre de Cajamarca existe un recorrido aproximado de 4.96 kilómetros en sentido oeste, tomando las avenidas de salida y circunvalación cajamarquinas.
+
+En automóvil o transporte interurbano el recorrido toma cerca de 12 a 16 minutos de viaje continuo por pistas asfaltadas en buen estado de conservación.
+
+Es una ruta directa y muy accesible tanto para clientes locales que residen en los alrededores como para transportistas y viajeros que ingresan al valle.
+
+12. ¿Qué protocolos de bioseguridad y esterilización rigen en la clínica?
+El instrumental quirúrgico pasa por lavado riguroso y esterilización en autoclave a vapor con testigos térmicos certificados.
+
+Desinfectamos meticulosamente mesas metálicas de examen, balanzas y caniles entre cada paciente con soluciones bactericidas.
+
+Utilizamos jeringas, agujas y campos descartables de un solo uso en cada vacunación o procedimiento clínico efectuado.
+
+13. ¿Qué preparación previa debe cumplir la mascota antes de una cirugía programada?
+Recomendamos realizar pruebas prequirúrgicas de sangre para verificar los tiempos de coagulación y la función hepatorrenal.
+
+Se requiere un ayuno sólido de ocho horas y un ayuno de agua de dos a cuatro horas previas a la administración de anestesia.
+
+La mascota debe acudir limpia, con collar y correa en el caso de perros, o dentro de un canil transportador seguro para gatos.
+
+14. ¿A qué distancia se localiza el taller en relación con Aeropuerto Armando Revoredo Iglesias?
+Hacia Aeropuerto Armando Revoredo Iglesias existe un recorrido aproximado de 5.12 kilómetros en sentido noroeste, tomando las avenidas de salida y circunvalación cajamarquinas.
+
+En automóvil o transporte interurbano el recorrido toma cerca de 12 a 16 minutos de viaje continuo por pistas asfaltadas en buen estado de conservación.
+
+Es una ruta directa y muy accesible tanto para clientes locales que residen en los alrededores como para transportistas y viajeros que ingresan al valle.
+
+15. ¿Cuáles son los horarios de atención al público y consultas en Baños del Inca?
+Atendemos de lunes a sábado en jornadas continuadas distribuidas en turno matutino y vespertino en Jirón Yahuar Huaca 1095.
+
+Las cirugías electivas y visitas a campo se coordinan con previa reserva para organizar los tiempos y evitar esperas.
+
+Se atienden consultas médicas espontáneas por orden de llegada con atención inmediata y prioritaria a cuadros de urgencia.
+
+16. ¿Qué productos y alimentos especializados ofrece su pet shop veterinario?
+Contamos con alimentos balanceados de líneas premium y alimentos medicados de prescripción para patologías urinarias o digestivas.
+
+Disponemos de antiparasitarios en tabletas palatables de efecto prolongado y pipetas tópicas contra pulgas, garrapatas y ácaros.
+
+Ofrecemos insumos veterinarios para ganado, minerales, vitaminas inyectables, collares, correas y productos de higiene animal.
+
+17. ¿Cómo se atienden los casos de intoxicación accidental o cólicos en animales?
+Efectuamos lavado gástrico inmediato y administración de carbón activado si la ingestión del tóxico fue reciente y controlada.
+
+Aplicamos fluidoterapia intensiva y antídotos específicos para acelerar la excreción de las sustancias nocivas del organismo.
+
+Monitoreamos los signos vitales y la actividad neuromuscular del paciente hasta verificar su completa recuperación clínica.
+
+18. ¿Qué facilidades de pago están habilitadas para las consultas y servicios?
+Aceptamos pagos al contado en efectivo en moneda nacional, transferencias bancarias directas y aplicativos móviles de billetera digital.
+
+Contamos con terminal POS para cobro con tarjetas de débito y crédito de las principales redes financieras del país.
+
+Emitimos comprobantes de pago autorizados como boletas de venta por cada consulta médica, cirugía o compra en el pet shop.
+
+19. ¿Qué consejos se brindan para el cuidado y nutrición de mascotas y ganado?
+Orientamos sobre raciones balanceadas de forraje y concentrado para optimizar la producción lechera sin generar acidosis ruminal.
+
+En animales de compañía recomendamos porciones medidas según edad y peso para prevenir el sobrepeso y problemas articulares.
+
+Sugerimos mantener fuentes de agua limpia permanente y desparasitaciones periódicas para asegurar una salud óptima en los animales.
+
+20. ¿Cómo se puede solicitar informes o coordinar una atención en la clínica?
+Puede comunicarse a través de nuestra página oficial o visitarnos en Jirón Yahuar Huaca 1095 en el distrito de Baños del Inca.
+
+Nuestro personal de recepción le informará sobre disponibilidad de turnos, precios de cirugías y preparación requerida.
+
+Le esperamos en Clínica Veterinaria Padre Eterno para cuidar a sus animales con dedicación, experiencia y verdadero amor por la vida.
+
+================================================================================

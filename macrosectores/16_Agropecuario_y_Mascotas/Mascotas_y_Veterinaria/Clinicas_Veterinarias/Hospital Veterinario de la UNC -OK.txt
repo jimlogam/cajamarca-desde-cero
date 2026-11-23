@@ -1,0 +1,168 @@
+Nombre: Hospital Veterinario de la UNC
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
+Categoría Maps: Hospital
+Dirección: RGM4+HWX, Av. Universitaria, Cajamarca 06002
+Teléfono: (076) 368501
+Rating: 4.5
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1660037999999995
+Longitud: -78.4926334
+Google Maps: https://www.google.com/maps?cid=6378102769688047683
+Place Id: ChIJdW1IKSFbspERQ_AwKK2Sg1g
+Fotos: Hospital Veterinario de la UNC.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fR2I71xpMaUyX7SQkBOR5A&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=41.32779&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos una cordial bienvenida al Hospital Veterinario de la UNC! El centro hospitalario docente de la Universidad Nacional de Cajamarca en Avenida Universitaria. Brindamos atención veterinaria especializada para animales menores y mayores: consultas médicas, cirugías generales, vacunación, desparasitación, diagnóstico por rayos X, ecografía veterinaria, laboratorio clínico e internamiento con tecnología moderna y respaldo académico universitario. Cuidamos la salud y bienestar de tus mascotas con vocación y rigor científico. Visítanos en el campus de la UNC hoy.
+================================================================================
+
+--------------------------------------------------------------------------------
+20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
+--------------------------------------------------------------------------------
+
+1. ¿Qué servicios clínicos y docentes brinda el Hospital Veterinario de la UNC?
+Ofrecemos consultas médicas veterinarias integrales para caninos, felinos y especies no convencionales a cargo de médicos docentes.
+
+Brindamos atención clínica y reproductiva para animales mayores de producción como bovinos, ovinos, porcinos y equinos.
+
+Articulamos la atención clínica con la formación académica de pregrado y posgrado en medicina veterinaria y zootecnia.
+
+2. ¿A qué distancia se encuentra el establecimiento respecto a Universidad Nacional de Cajamarca?
+Universidad Nacional de Cajamarca se localiza a solo 430 metros en dirección oeste desde nuestras instalaciones en Cajamarca.
+
+A pie el trayecto toma aproximadamente 6 minutos en caminata relajada, mientras que en mototaxi o vehículo particular se arriba en escasos 2 a 2 minutos transitando por las vías colectoras principales.
+
+Esta extraordinaria cercanía facilita dejar el vehículo en nuestro taller para revisión técnica o mantenimiento mientras realizas tus actividades cotidianas en las inmediaciones.
+
+3. ¿Qué cirugías veterinarias y procedimientos quirúrgicos se llevan a cabo?
+Realizamos cirugías de esterilización preventiva programada (ovariohisterectomías y orquiectomías) en perros y gatos.
+
+Efectuamos cirugías de tejidos blandos, resolución de piometras, cesáreas de urgencia y extirpación de neoplasias dérmicas.
+
+En traumatología veterinaria practicamos reducción y fijación de fracturas óseas y tenorrafias bajo anestesia inhalatoria controlada.
+
+4. ¿Qué servicios de diagnóstico por imágenes veterinarias están disponibles?
+Contamos con equipo de rayos X para la evaluación de estructuras óseas, descartes de displasia de cadera y estudios torácicos.
+
+Disponemos de ecógrafo veterinario para diagnóstico de gestación, patologías abdominales, renales y hepáticas en pequeños animales.
+
+Cada estudio radiológico y ecográfico es emitido con su correspondiente informe médico firmado por especialistas docentes.
+
+5. ¿Cuánto tiempo toma desplazarse desde el establecimiento hasta Terminal Terrestre de Cajamarca?
+Terminal Terrestre de Cajamarca se localiza a solo 729 metros en dirección oeste desde nuestras instalaciones en Cajamarca.
+
+A pie el trayecto toma aproximadamente 10 minutos en caminata relajada, mientras que en mototaxi o vehículo particular se arriba en escasos 2 a 2 minutos transitando por las vías colectoras principales.
+
+Esta extraordinaria cercanía facilita dejar el vehículo en nuestro taller para revisión técnica o mantenimiento mientras realizas tus actividades cotidianas en las inmediaciones.
+
+6. ¿Qué pruebas y análisis procesa su laboratorio clínico veterinario?
+Procesamos hemogramas completos, frotis sanguíneos para hemoparásitos, perfiles bioquímicos hepáticos y pruebas de función renal.
+
+Realizamos análisis coprológicos para identificación de parásitos gastrointestinales, uroanálisis y raspados cutáneos para ácaros u hongos.
+
+Efectuamos pruebas serológicas rápidas para el descarte de distemper canino, parvovirus, leucemia felina e inmunodeficiencia felina.
+
+7. ¿Qué esquemas de vacunación y desparasitación se aplican a cachorros y adultos?
+Administramos vacunas quíntuples, séxtuples y antirrábicas para perros, y vacunas triple felina y antirrábica para gatos.
+
+Establecemos calendarios de desparasitación interna y externa adaptados a la edad, peso y estilo de vida de cada mascota.
+
+Entregamos carnés de vacunación oficiales debidamente sellados que acreditan la inmunización para viajes y registros municipales.
+
+8. ¿Cuánto tiempo toma desplazarse desde el establecimiento hasta Real Plaza Cajamarca?
+Nos encontramos a una distancia de 1.93 kilómetros con respecto a Real Plaza Cajamarca, siguiendo el rumbo noroeste a través del entramado vial de la ciudad.
+
+El traslado vehicular en taxi o mototaxi requiere habitualmente entre 5 y 5 minutos, dependiendo del flujo del tránsito en horas punta matutinas o vespertinas.
+
+Nuestra localización estratégica te permite conectar rápidamente con este emblemático punto urbano sin tener que enfrentar embotellamientos prolongados.
+
+9. ¿Cómo se organiza el servicio de hospitalización y cuidados intensivos para mascotas?
+Disponemos de caniles y jaulas de internamiento higiénicas con monitoreo permanente de funciones vitales y fluidoterapia parenteral.
+
+Contamos con áreas de aislamiento diferenciadas para pacientes con enfermedades infectocontagiosas como parvovirosis o moquillo.
+
+El equipo de veterinarios y practicantes administra la medicación prescrita y proporciona soporte nutricional continuo al animal.
+
+10. ¿Qué atención odontológica y profilaxis se realiza en perros y gatos?
+Efectuamos profilaxis dental con equipo de ultrasonido para eliminar el sarro y la placa bacteriana de encías y piezas dentales.
+
+Realizamos extracciones de piezas dentarias con movilidad severa, abscesos periapicales o persistencia de dientes deciduos.
+
+Orientamos a los propietarios sobre técnicas de cepillado dental en casa y uso de snacks enzimáticos para prevenir la periodontitis.
+
+11. ¿A qué distancia se encuentra el establecimiento respecto a Cuarto del Rescate?
+Nos encontramos a una distancia de 2.79 kilómetros con respecto a Cuarto del Rescate, siguiendo el rumbo oeste a través del entramado vial de la ciudad.
+
+El traslado vehicular en taxi o mototaxi requiere habitualmente entre 8 y 7 minutos, dependiendo del flujo del tránsito en horas punta matutinas o vespertinas.
+
+Nuestra localización estratégica te permite conectar rápidamente con este emblemático punto urbano sin tener que enfrentar embotellamientos prolongados.
+
+12. ¿Qué protocolos de bioseguridad y esterilización rigen en quirófanos y consultorios?
+Mantenemos una central de esterilización con autoclave para todo el instrumental quirúrgico, paños y campos operatorios.
+
+Desinfectamos meticulosamente mesas de exploración, balanzas y suelos clínicos entre cada paciente para evitar contagios cruzados.
+
+Utilizamos guantes, jeringas y agujas descartables de un solo uso en todas las vacunaciones y procedimientos de enfermería.
+
+13. ¿Cómo se atiende a animales mayores y ganado en el hospital universitario?
+Disponemos de corrales e instalaciones adecuadas para el examen clínico, sujeción y manejo seguro de vacunos, ovinos y caballos.
+
+Realizamos diagnóstico reproductivo, manejo obstétrico de partos distócicos, cirugías de rumen y tratamiento de mastitis.
+
+Brindamos asesoría técnica a productores pecuarios de Cajamarca para la mejora de la sanidad y productividad de sus hatos ganaderos.
+
+14. ¿A qué distancia se encuentra el establecimiento respecto a Mercado Central de Cajamarca?
+Nos encontramos a una distancia de 2.95 kilómetros con respecto a Mercado Central de Cajamarca, siguiendo el rumbo noroeste a través del entramado vial de la ciudad.
+
+El traslado vehicular en taxi o mototaxi requiere habitualmente entre 8 y 7 minutos, dependiendo del flujo del tránsito en horas punta matutinas o vespertinas.
+
+Nuestra localización estratégica te permite conectar rápidamente con este emblemático punto urbano sin tener que enfrentar embotellamientos prolongados.
+
+15. ¿Cuáles son los horarios de atención al público y recepción de pacientes?
+Atendemos de lunes a viernes en jornadas diurnas estructuradas en turno matutino y vespertino según el rol docente universitario.
+
+Las cirugías electivas se programan previamente para asegurar la preparación adecuada del paciente y la disponibilidad de quirófano.
+
+Se atienden consultas por orden de llegada y se brinda prioridad a cuadros de urgencia médica o traumatismos severos.
+
+16. ¿Qué preparación previa deben cumplir las mascotas antes de una intervención quirúrgica?
+Es indispensable que el paciente cuente con exámenes prequirúrgicos de sangre para evaluar la coagulación y función orgánica.
+
+Se requiere un ayuno sólido estricto de ocho a doce horas y un ayuno líquido de dos a cuatro horas previas a la inducción anestésica.
+
+El propietario debe presentar al animal limpio, con collar y correa en el caso de perros, o en transportadora segura para gatos.
+
+17. ¿Qué atención se brinda ante intoxicaciones o envenenamientos en mascotas?
+Efectuamos lavado gástrico inmediato, administración de carbón activado parenteral y fluidoterapia intensiva para dilución de toxinas.
+
+Aplicamos antídotos específicos como atropina ante intoxicaciones por organofosforados bajo monitoreo hemodinámico continuo.
+
+Mantenemos al paciente en observación médica estricta hasta la estabilización completa de sus parámetros fisiológicos.
+
+18. ¿Qué tarifas y modalidades de pago aplican para los servicios veterinarios?
+Aplicamos tarifas docentes accesibles que cubren los costos de insumos y mantenimiento de la infraestructura universitaria.
+
+Aceptamos pagos en efectivo en la caja del hospital, así como transferencias bancarias institucionales autorizadas.
+
+Se entrega el comprobante de pago oficial emitido por la Universidad Nacional de Cajamarca por cada atención efectuada.
+
+19. ¿Se brinda asesoría nutricional y dietas terapéuticas para animales de compañía?
+Nuestros médicos formulan pautas nutricionales personalizadas para mascotas con obesidad, alergias alimentarias o insuficiencia renal.
+
+Recomendamos marcas de alimentos balanceados de prescripción médica y formulaciones de dietas caseras balanceadas por especialistas.
+
+Monitoreamos periódicamente la evolución del peso y condición corporal de la mascota para ajustar las raciones alimentarias.
+
+20. ¿Cómo solicitar información sobre horarios o programar una cirugía electiva?
+Puede acercarse a las instalaciones del hospital en el campus universitario o comunicarse a través de los canales de la Facultad de Veterinaria.
+
+Nuestro personal de recepción le informará sobre los requisitos prequirúrgicos, disponibilidad de cupos y costos estimados.
+
+Le esperamos en el Hospital Veterinario de la UNC para brindar a sus animales una atención médica compasiva, experta y universitaria.
+
+================================================================================
