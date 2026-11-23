@@ -1,0 +1,268 @@
+Nombre: Cevicheria Restaurant Chifa
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Restaurantes
+Subrubro: Cevicherias_y_Mariscos
+Categoría Maps: Cevichería y Marisquería
+Dirección: Av San Martín de Porres 532, Cajamarca 06003
+Teléfono: 
+Rating: 1
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1665483
+Longitud: -78.5053634
+Google Maps: https://www.google.com/maps?cid=8629595943644563079
+Place Id: ChIJmTsqSRxbspERhwYWCMp7wnc
+Fotos: Cevicheria Restaurant Chifa.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9dcv3Xwr-Xi824l4oCjnDg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=220.4061&pitch=0&thumbfov=100
+Nota: Reclasificado de Chifas a Cevicherias y Mariscos. Actualizado con estandar maestro -OK.
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la más cordial bienvenida a Cevicheria Restaurant Chifa! Descubre el auténtico sabor del mar en Cajamarca con nuestros generosos ceviches de pescado fresco, jaleas mixtas crocantes, arroz con mariscos humeante y reconfortantes parihuelas. Visítanos en Av. San Martín de Porres 532 para deleitarte en un ambiente acogedor y familiar, o solicita tu pedido por delivery con empaque térmico impecable. Escríbenos al WhatsApp y vive una fiesta marina inolvidable hoy mismo.
+================================================================================
+
+--------------------------------------------------------------------------------
+20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PREGUNTA 1: ¿Qué especialidades marinas y platos criollos destacan en Cevicheria Restaurant Chifa?
+--------------------------------------------------------------------------------
+RESPUESTA 1:
+Nuestra carta marina ofrece ceviche clásico de pescado, ceviche mixto con calamares y langostinos, jaleas crocantes, chicharrón de pota y pescado, arroz con mariscos y sudados norteños. Cada plato se prepara con insumos marinos frescos y limón norteño recién exprimido.
+
+Servimos además tríos y duetos marinos que combinan el frescor del ceviche con el toque crujiente del chicharrón y la sazón criolla del arroz con mariscos bien graneado.
+
+Para los días fríos cajamarquinos, preparamos chilcanos de pescado concentrados y parihuelas reconstituyentes con cangrejo, mariscos y especias tradicionales andinas.
+
+Te invitamos a visitarnos en nuestro amplio local para compartir un almuerzo marino de primera calidad en compañía de tu familia o amistades.
+
+--------------------------------------------------------------------------------
+PREGUNTA 2: ¿A qué distancia se encuentra la cevichería del Terminal Terrestre de Cajamarca?
+--------------------------------------------------------------------------------
+RESPUESTA 2:
+Nos ubicamos en la Avenida San Martín de Porres 532, a tan solo 683 metros del Terminal Terrestre de Cajamarca, lo que representa una caminata de apenas 8 minutos o 2 minutos en mototaxi.
+
+Esta proximidad privilegiada convierte a nuestro restaurante en el punto de encuentro perfecto para viajeros que recién llegan a la ciudad y buscan un almuerzo reconfortante.
+
+Asimismo, quienes van a abordar sus buses por la tarde pueden disfrutar con calma de un banquete marino antes de iniciar su viaje interprovincial.
+
+En Cevicheria Restaurant Chifa te recibimos con la mayor rapidez para que degustes tu plato favorito sin contratiempos de horario.
+
+--------------------------------------------------------------------------------
+PREGUNTA 3: ¿Cómo garantizan la frescura de los pescados y mariscos en cada preparación?
+--------------------------------------------------------------------------------
+RESPUESTA 3:
+Recibimos despachos marinos refrigerados desde la costa norte varias veces por semana, manteniendo una estricta cadena de frío desde la llegada hasta el corte en cocina.
+
+Los filetes se inspeccionan rigurosamente evaluando textura firme, aroma limpio a mar y color brillante antes de ingresar a las estaciones de preparación en frío.
+
+No reutilizamos mariscos ni mantenemos productos marinados por largas horas; el ceviche se cura al momento de recibir la comanda para preservar la terneza del pescado.
+
+Esta disciplina culinaria asegura una digestión ligera y un sabor puro que fideliza a nuestros comensales en cada visita.
+
+--------------------------------------------------------------------------------
+PREGUNTA 4: ¿Qué porciones y presentaciones ofrecen en los tríos y dúos marinos?
+--------------------------------------------------------------------------------
+RESPUESTA 4:
+Nuestros dúos marinos combinan una generosa copa de ceviche de pescado con chicharrón de calamar dorado o una porción bien servida de arroz con mariscos a la criolla.
+
+Los tríos marinos integran tres de las opciones más solicitadas de la casa: ceviche refrescante, chicharrón crocante y arroz con mariscos o causa de atún suave.
+
+Acompañamos cada fuente con camote glaseado, choclo desgranado tierno, canchita andina recién tostada y yuyo frito que aportan texturas irresistibles.
+
+Son alternativas ideales para quienes desean degustar lo más representativo de nuestra mesa en una sola orden bien equilibrada.
+
+--------------------------------------------------------------------------------
+PREGUNTA 5: ¿Cuál es la distancia y el recorrido para llegar desde la Universidad Nacional de Cajamarca (UNC)?
+--------------------------------------------------------------------------------
+RESPUESTA 5:
+La cevichería está situada a solo 998 metros del campus de la Universidad Nacional de Cajamarca (UNC), permitiendo un acceso a pie de solo 10 a 12 minutos.
+
+En mototaxi o transporte colectivo, el traslado toma entre 2 y 4 minutos por las avenidas transversales que conectan el sector universitario con San Martín de Porres.
+
+Esta cercanía convierte a nuestro local en el espacio preferido de catedráticos, universitarios y personal administrativo para celebrar sustentaciones y cumpleaños.
+
+En Cevicheria Restaurant Chifa disponemos de mesas cómodas y promociones accesibles para grupos estudiantiles que buscan almorzar sabroso y abundante.
+
+--------------------------------------------------------------------------------
+PREGUNTA 6: ¿Cómo preparan el arroz con mariscos para lograr su aroma y jugosidad?
+--------------------------------------------------------------------------------
+RESPUESTA 6:
+Elaboramos una base de aderezo criollo a fuego lento con ají amarillo, ají panca, ajo dorado, cebolla morada y un toque de vino blanco o chicha de jora norteña.
+
+Añadimos mixtura seleccionada de mariscos (langostinos, calamares, caracol y conchas) salteados al fuego vivo para sellar sus jugos sin endurecer su carne.
+
+Incorporamos arroz graneado impregnado con caldo concentrado de cangrejo y queso parmesano rallado que le aporta una textura cremosa y envolvente inigualable.
+
+Servimos la fuente caliente adornada con pimiento morrón en tiras, arvejas tiernas y sarsa criolla con limón al gusto de cada cliente.
+
+--------------------------------------------------------------------------------
+PREGUNTA 7: ¿Qué opciones tienen para personas que prefieren platos no marinos o niños?
+--------------------------------------------------------------------------------
+RESPUESTA 7:
+Pensando en grupos familiares con gustos diversos, disponemos de alternativas como milanesa de pollo dorada con papas fritas y arroz blanco graneado.
+
+Preparamos también chicharrón de pollo crocante, lomo saltado tradicional al jugo y porciones de nuggets caseros para los integrantes más pequeños del hogar.
+
+Todos los platos criollos se elaboran con el mismo esmero y frescura de nuestras recetas marinas, garantizando satisfacción para toda la mesa.
+
+Consulta con nuestros mozos las alternativas del día para armar una combinación gastronómica que complazca a cada comensal.
+
+--------------------------------------------------------------------------------
+PREGUNTA 8: ¿Qué tan cerca queda el restaurante del Centro Comercial Real Plaza?
+--------------------------------------------------------------------------------
+RESPUESTA 8:
+Nos ubicamos a aproximadamente 1.32 km del Real Plaza de Cajamarca, distancia que se recorre en solo 4 a 6 minutos en taxi o motocarro.
+
+Quienes realizan compras o trámites en la zona comercial moderna pueden acercarse con facilidad a nuestro restaurante para un almuerzo marino más auténtico y casero.
+
+El trayecto por las avenidas intermedias es despejado y permite evitar las aglomeraciones del patio de comidas de los centros comerciales cerrados.
+
+En Cevicheria Restaurant Chifa gozas de un ambiente tradicional con ventilación natural, música amena y platos preparados al instante con sazón norteña.
+
+--------------------------------------------------------------------------------
+PREGUNTA 9: ¿Qué variedad de bebidas y refrescos naturales acompañan los platos marinos?
+--------------------------------------------------------------------------------
+RESPUESTA 9:
+Ofrecemos jarras heladas de chicha morada casera elaborada con maíz morado, piña, manzana y canela, y limonada fresca con hierbaluisa aromática.
+
+Disponemos de cervezas nacionales bien frías, gaseosas personales y familiares, y agua mineral con o sin gas para refrescar el paladar tras cada bocado picante.
+
+Para quienes aprecian un maridaje tradicional, servimos copas de pisco sour clásico elaborado con pisco quebranta y limón recién exprimido.
+
+Nuestras bebidas complementan la intensidad del ceviche y limpian las papilas gustativas para prolongar el disfrute culinario.
+
+--------------------------------------------------------------------------------
+PREGUNTA 10: ¿Disponen de servicio de delivery y empaques especiales para no alterar el ceviche?
+--------------------------------------------------------------------------------
+RESPUESTA 10:
+Enviamos nuestros pedidos a domicilio utilizando envases térmicos herméticos que separan la leche de tigre del pescado para que no se sobrecocine en el camino.
+
+La canchita andina y las guarniciones crocantes se empacan en bolsas de papel kraft transpirables para que mantengan su textura crujiente intacta.
+
+Coordinamos con motorizados responsables que garantizan un traslado rápido y seguro hasta la puerta de tu domicilio o centro de labores.
+
+Solicita tu delivery marino con anticipación por WhatsApp para disfrutar de un almuerzo fresco y recién elaborado en la comodidad de tu hogar.
+
+--------------------------------------------------------------------------------
+PREGUNTA 11: ¿Cuál es la distancia hacia la Plaza de Armas y el Cuarto del Rescate?
+--------------------------------------------------------------------------------
+RESPUESTA 11:
+La distancia hacia el histórico Cuarto del Rescate es de 1.56 km, y hacia la Plaza de Armas de Cajamarca es de 1.74 km, permitiendo un traslado de 6 a 8 minutos en taxi.
+
+Esta proximidad con el centro histórico permite a turistas y residentes locales visitar los monumentos virreinales y luego disfrutar de un banquete marino sin alejarse.
+
+El recorrido hacia San Martín de Porres bordea zonas comerciales activas con opciones directas de transporte público en ambos sentidos de la vía.
+
+En Cevicheria Restaurant Chifa atendemos con calidez a los visitantes para que su recuerdo gastronómico de Cajamarca incluya lo mejor del mar norteño.
+
+--------------------------------------------------------------------------------
+PREGUNTA 12: ¿Cómo preparan la parihuela de mariscos y qué beneficios aporta?
+--------------------------------------------------------------------------------
+RESPUESTA 12:
+La parihuela se elabora a base de un caldo madre espeso de cabezas de pescado de roca, cangrejos reventados y mariscos seleccionados al fuego vivo.
+
+Sazonamos con chicha de jora, ají amarillo tostado, culantro fresco picado y un chorrito de pisco que realza los aromas y desata una explosión de sabor.
+
+Este plato es famoso por su alto contenido proteico, minerales reconstituyentes y su capacidad para energizar el cuerpo tras noches festivas o jornadas extenuantes.
+
+Servida bien caliente en fuente de barro, la parihuela es un auténtico bálsamo marino contra las temperaturas templadas y frías de la serranía.
+
+--------------------------------------------------------------------------------
+PREGUNTA 13: ¿Tienen leche de tigre concentrada servida en copa personal?
+--------------------------------------------------------------------------------
+RESPUESTA 13:
+Preparamos copas de leche de tigre al instante licuando recortes de pescado fresco con limón norteño, apio tierno, kion, ajo, ají limo y fumet frío.
+
+Servimos la copa con trozos de pescado fresco, calamar crocante encima, choclo desgranado, camote dulce y canchita tostada crujiente.
+
+El comensal puede elegir el nivel de picante de su agrado: suave, medio o picante bravo para levantar los ánimos de inmediato.
+
+Es la entrada perfecta para abrir el apetito antes del plato de fondo o para disfrutar de un piqueo marino ligero a media mañana.
+
+--------------------------------------------------------------------------------
+PREGUNTA 14: ¿A qué distancia se encuentra el Mirador de Santa Apolonia?
+--------------------------------------------------------------------------------
+RESPUESTA 14:
+Nos situamos a aproximadamente 1.70 km del Mirador de Santa Apolonia, conectándonos de forma rápida mediante las arterias del anillo centro-sur de la ciudad.
+
+El viaje en mototaxi dura alrededor de 6 a 7 minutos, convirtiéndose en una excelente parada culinaria tras descender de admirar la vista panorámica del valle.
+
+En Cevicheria Restaurant Chifa disponemos de un salón fresco y ventilado que te permitirá relajarte y recargar energías con una comida marina reparadora.
+
+Nuestro personal está capacitado para atenderte con diligencia y recomendarte las mejores combinaciones del día según tu apetito.
+
+--------------------------------------------------------------------------------
+PREGUNTA 15: ¿Qué medios de pago son aceptados en caja y para pedidos a domicilio?
+--------------------------------------------------------------------------------
+RESPUESTA 15:
+Aceptamos pagos en efectivo, transferencias bancarias directas y billeteras digitales como Yape y Plin para tu comodidad y seguridad.
+
+Para pedidos a domicilio puedes cancelar previamente mediante código QR o al momento de recibir el pedido en puerta según la modalidad coordinada.
+
+Emitimos boletas de venta físicas y electrónicas para que tengas un control claro de tus consumos individuales o familiares.
+
+Facilitamos tus transacciones para que tu experiencia en nuestra cevichería sea agradable y sin demoras en la liquidación de tu cuenta.
+
+--------------------------------------------------------------------------------
+PREGUNTA 16: ¿Atienden reservas para cumpleaños, eventos corporativos o aniversarios?
+--------------------------------------------------------------------------------
+RESPUESTA 16:
+Coordinamos reservas de mesas amplias para grupos familiares, reuniones de trabajo o agasajos de cumpleaños con atención personalizada y menús concertados.
+
+Podemos preparar fuentes familiares mixtas al centro de la mesa para compartir libremente entre los invitados con atención continua de mozos dedicados.
+
+Permitimos el ingreso de tortas de cumpleaños y te facilitamos platillos y cubiertos de cortesía para el momento de la celebración festiva.
+
+Contáctanos con anticipación para reservar el mejor sector del salón y garantizar una experiencia memorable para tus invitados.
+
+--------------------------------------------------------------------------------
+PREGUNTA 17: ¿Cómo logran el toque crocante y seco del chicharrón de calamar y pescado?
+--------------------------------------------------------------------------------
+RESPUESTA 17:
+Marinamos los aros de calamar y trozos de pescado con una mezcla equilibrada de mostaza, ajo molido, sal, pimienta y huevo fresco batido.
+
+Pasamos las piezas por una combinación especial de harina de trigo y fécula de maíz que genera una costra crocante y delgada al contacto con el aceite caliente.
+
+Freímos en abundante aceite vegetal a temperatura exacta de 180 grados para evitar que absorba grasa en exceso, logrando una fritura seca y crujiente.
+
+Servimos con tártara casera de mayonesa, cebolla china y huevo picado que armoniza de manera insuperable con cada bocado frito.
+
+--------------------------------------------------------------------------------
+PREGUNTA 18: ¿Cuál es el horario habitual de atención del restaurante?
+--------------------------------------------------------------------------------
+RESPUESTA 18:
+Atendemos de martes a domingo desde las 10:30 de la mañana hasta las 5:00 de la tarde, horario ideal para disfrutar de la frescura marina del mediodía.
+
+Los fines de semana recomendamos llegar temprano o reservar mesa, ya que la afluencia familiar suele incrementarse a partir de la 1:00 de la tarde.
+
+Los días lunes realizamos mantenimiento exhaustivo y desinfección integral de cocinas y salones para garantizar estándares de higiene impecables.
+
+Te esperamos siempre con la mejor sonrisa y los fogones listos para servirte los más deliciosos manjares de la costa peruana en Cajamarca.
+
+--------------------------------------------------------------------------------
+PREGUNTA 19: ¿Qué cuidados higiénicos aplican en la manipulación de alimentos marinos?
+--------------------------------------------------------------------------------
+RESPUESTA 19:
+Nuestro personal de cocina cumple estrictamente con el uso de cofias, mascarillas, mandiles limpios y lavado constante de manos antes de manipular insumos.
+
+Utilizamos tablas de picar de polietileno diferenciadas por colores: azul para mariscos, roja para carnes y verde para verduras para evitar contaminación cruzada.
+
+Desinfectamos con soluciones cloradas reglamentarias todas las verduras, hierbas aromáticas y limones antes de su corte final.
+
+Este compromiso sanitario garantiza que cada plato servido en Cevicheria Restaurant Chifa sea inocuo, seguro y totalmente saludable para tu organismo.
+
+--------------------------------------------------------------------------------
+PREGUNTA 20: ¿Cómo puedo comunicarme para consultar la carta del día o hacer un pedido?
+--------------------------------------------------------------------------------
+RESPUESTA 20:
+Puedes comunicarte a través de nuestros canales digitales de mensajería instantánea o acercarte directamente a la Avenida San Martín de Porres 532.
+
+Nuestro equipo te enviará la carta digital con fotos reales de los platos, precios actualizados y promociones vigentes de tríos y rondas marinas.
+
+Si planeas un almuerzo numeroso, avísanos con anticipación para tener tus entradas listas justo cuando tomes asiento en el salón.
+
+En Cevicheria Restaurant Chifa estamos listos para hacer de tu almuerzo un momento de pura alegría con el mejor sabor del mar en Cajamarca.
+================================================================================
