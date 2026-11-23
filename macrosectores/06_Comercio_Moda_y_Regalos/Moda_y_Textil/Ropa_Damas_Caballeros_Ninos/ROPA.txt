@@ -1,7 +1,7 @@
 Nombre: ROPA
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
 Categoría Maps: Comercio
 Dirección: Guadalupe 121, Cajamarca 06002
 Teléfono: 
