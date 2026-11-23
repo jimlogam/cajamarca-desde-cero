@@ -1,7 +1,7 @@
 Nombre: Abogado Pablo Cornejo Castellon - Especialista en Derecho de Familia - Jaen
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Legal_y_Notarial
+Subrubro: Estudios_Juridicos_Abogados
 Categoría Maps: Abogado penalista, Abogado civil, Servicios legales, Abogado de Derecho de familia, Abogado
 Dirección: Cajamarca 691, Jaén 06801
 Teléfono: 937 769 684

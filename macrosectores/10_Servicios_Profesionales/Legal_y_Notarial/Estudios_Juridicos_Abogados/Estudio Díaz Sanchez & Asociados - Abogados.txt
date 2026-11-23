@@ -1,7 +1,7 @@
 Nombre: Estudio Díaz Sanchez & Asociados - Abogados
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Legal_y_Notarial
+Subrubro: Estudios_Juridicos_Abogados
 Categoría Maps: Bufete
 Dirección: Av. Vía de Evitamiento Sur 219, Cajamarca 06000
 Teléfono: (076) 343899

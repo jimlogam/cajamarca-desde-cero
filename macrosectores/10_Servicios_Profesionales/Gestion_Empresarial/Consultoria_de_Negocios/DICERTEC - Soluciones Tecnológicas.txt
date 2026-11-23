@@ -1,7 +1,7 @@
 Nombre: DICERTEC - Soluciones Tecnológicas
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Gestion_Empresarial
+Subrubro: Consultoria_de_Negocios
 Categoría Maps: Tienda de informática, Tienda de cámaras, Tienda de accesorios informáticos, Consultora informática, Servicio de impresión digital, Tienda de componentes electrónicos, Diseñador gráfico, Tienda de recarga de cartuchos de impresora, Servicio de reparación de impresoras, Diseñador de sitios web
 Dirección: Jirón Silva Santisteban 785, Cajamarca 06002
 Teléfono: 989 297 293

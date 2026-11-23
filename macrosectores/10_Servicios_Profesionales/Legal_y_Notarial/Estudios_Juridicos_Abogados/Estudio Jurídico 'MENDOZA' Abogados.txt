@@ -1,7 +1,7 @@
 Nombre: Estudio Jurídico 'MENDOZA' Abogados
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Legal_y_Notarial
+Subrubro: Estudios_Juridicos_Abogados
 Categoría Maps: Oficinas de empresa, Bufete
 Dirección: Óvalo Musical, Ancash 287, Cajamarca 06002
 Teléfono: 975 679 377

@@ -1,7 +1,7 @@
 Nombre: TERRENO CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Cafeterias_y_Bebidas
-Subrubro: Cafeterias_de_Especialidad
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Bienes_Raices
+Subrubro: Venta_de_Terrenos_y_Lotes
 Categoría Maps: Cafetería
 Dirección: VG97+MH2, Los, Baños del Inca
 Teléfono: 

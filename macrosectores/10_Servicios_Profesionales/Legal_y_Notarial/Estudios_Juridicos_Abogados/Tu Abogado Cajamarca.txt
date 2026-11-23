@@ -1,7 +1,7 @@
 Nombre: Tu Abogado Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Legal_y_Notarial
+Subrubro: Estudios_Juridicos_Abogados
 Categoría Maps: Abogado
 Dirección: Mariano Melgar 280, Cajamarca 06002
 Teléfono: 921 855 425

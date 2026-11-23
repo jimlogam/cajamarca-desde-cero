@@ -1,7 +1,7 @@
 Nombre: Abantos Technology
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Gestion_Empresarial
+Subrubro: Consultoria_de_Negocios
 Categoría Maps: Consultora informática
 Dirección: RFWH+GM3, Amalia Puga, Cajamarca 06002
 Teléfono: 976 901 977

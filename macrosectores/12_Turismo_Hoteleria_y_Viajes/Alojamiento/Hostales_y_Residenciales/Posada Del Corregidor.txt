@@ -1,7 +1,7 @@
 Nombre: Posada Del Corregidor
 Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
 Rubro: Alojamiento
-Subrubro: Hoteles
+Subrubro: Hostales_y_Residenciales
 Categoría Maps: Hotel
 Dirección: Junín 1062, Cajamarca 06001
 Teléfono: 953 443 115

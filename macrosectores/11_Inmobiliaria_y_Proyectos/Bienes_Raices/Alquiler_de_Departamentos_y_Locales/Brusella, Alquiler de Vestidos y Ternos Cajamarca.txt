@@ -1,7 +1,7 @@
 Nombre: Brusella, Alquiler de Vestidos y Ternos Cajamarca
-Macro-Sector: 06_Comercio_Moda_y_Regalos
-Rubro: Moda_y_Textil
-Subrubro: Ropa_Damas_Caballeros_Ninos
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Bienes_Raices
+Subrubro: Alquiler_de_Departamentos_y_Locales
 Categoría Maps: Tienda de ropa de vestir
 Dirección: Jirón Marañón 106, Cajamarca 06001
 Teléfono: 910 229 539

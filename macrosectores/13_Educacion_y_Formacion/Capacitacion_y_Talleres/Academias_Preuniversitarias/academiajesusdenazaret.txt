@@ -1,7 +1,7 @@
 Nombre: academiajesusdenazaret
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Capacitacion_y_Talleres
+Subrubro: Academias_Preuniversitarias
 Categoría Maps: Estudio de books para modelos
 Dirección: 051, Cajamarca 06001
 Teléfono: 976 054 750

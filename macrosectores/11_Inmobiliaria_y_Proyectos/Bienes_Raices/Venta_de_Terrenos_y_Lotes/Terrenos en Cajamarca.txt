@@ -1,7 +1,7 @@
 Nombre: Terrenos en Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Bienes_Raices
+Subrubro: Venta_de_Terrenos_y_Lotes
 Categoría Maps: Agentes inmobiliarios
 Dirección: Emilio Barrantes N° 270, Cajamarca 06001
 Teléfono: 933 014 099

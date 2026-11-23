@@ -1,7 +1,7 @@
 Nombre: Kawsaqi Ingenieros S.R.L.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Diseno_y_Topografia
+Subrubro: Ingenieria_Civil_y_Estructural
 Categoría Maps: Centro de formación profesional, Centro de negocios
 Dirección: Luis Reyna Farge 285, Cajamarca 06001
 Teléfono: 985 519 356

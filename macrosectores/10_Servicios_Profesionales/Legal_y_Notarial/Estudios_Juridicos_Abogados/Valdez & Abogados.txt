@@ -1,7 +1,7 @@
 Nombre: Valdez & Abogados
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Legal_y_Notarial
+Subrubro: Estudios_Juridicos_Abogados
 Categoría Maps: Escuela universitaria
 Dirección: El Inca 350, Cajamarca 06002
 Teléfono: 

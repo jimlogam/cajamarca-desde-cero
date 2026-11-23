@@ -1,7 +1,7 @@
 Nombre: Caxandina ApartHotel
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hoteles
 Categoría Maps: Complejo hotelero
 Dirección: Miguel de Cervantes Saavedra 400, Cajamarca 06002
 Teléfono: 976 331 393

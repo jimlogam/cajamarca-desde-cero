@@ -1,7 +1,7 @@
 Nombre: Hospedaje Casa Historia
 Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
 Rubro: Alojamiento
-Subrubro: Hoteles
+Subrubro: Hostales_y_Residenciales
 Categoría Maps: Hotel
 Dirección: Jr, La Historia, Cajamarca 06003
 Teléfono: 997 872 538

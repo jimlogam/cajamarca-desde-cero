@@ -1,7 +1,7 @@
 Nombre: Estudio contable Vasquez Malca (EJUCOVAM)
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Finanzas_y_Tributos
+Subrubro: Estudios_Contables_y_Tributarios
 Categoría Maps: Contable, Empresa de contabilidad, Servicio de contabilidad de costos
 Dirección: Cajamarca 901, Jaén 06801
 Teléfono: 976 154 528

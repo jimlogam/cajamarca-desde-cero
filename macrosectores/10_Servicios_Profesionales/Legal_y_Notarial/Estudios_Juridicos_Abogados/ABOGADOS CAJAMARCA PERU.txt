@@ -1,7 +1,7 @@
 Nombre: ABOGADOS CAJAMARCA PERU
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Legal_y_Notarial
+Subrubro: Estudios_Juridicos_Abogados
 Categoría Maps: Abogado penalista, Abogado administrativo, Abogado empresarial, Abogado civil, Abogado de sucesiones, Abogado de Derecho de familia
 Dirección: 06003, Av. Luis Rebaza Neyra 312, Cajamarca 06003
 Teléfono: 947 733 709

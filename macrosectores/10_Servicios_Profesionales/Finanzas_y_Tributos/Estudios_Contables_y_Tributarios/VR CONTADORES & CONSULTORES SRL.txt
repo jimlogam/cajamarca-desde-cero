@@ -1,7 +1,7 @@
 Nombre: VR CONTADORES & CONSULTORES SRL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Finanzas_y_Tributos
+Subrubro: Estudios_Contables_y_Tributarios
 Categoría Maps: Oficinas de empresa
 Dirección: Leoncio Prado 109, Cajamarca 06002
 Teléfono: (076) 600370

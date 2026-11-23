@@ -1,7 +1,7 @@
 Nombre: Punto de trámites
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Gestion_Empresarial
+Subrubro: Consultoria_de_Negocios
 Categoría Maps: Consultora de administración empresarial
 Dirección: Prol. Revilla Perez 152, Cajamarca 06001
 Teléfono: 949 117 564

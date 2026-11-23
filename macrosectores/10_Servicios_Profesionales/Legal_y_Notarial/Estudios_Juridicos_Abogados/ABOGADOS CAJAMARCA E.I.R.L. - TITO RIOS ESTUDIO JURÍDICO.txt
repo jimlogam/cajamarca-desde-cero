@@ -1,7 +1,7 @@
 Nombre: ABOGADOS CAJAMARCA E.I.R.L. - TITO RIOS ESTUDIO JURÍDICO
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Legal_y_Notarial
+Subrubro: Estudios_Juridicos_Abogados
 Categoría Maps: Abogado penalista, Abogado, Abogado empresarial, Abogado civil, Abogado especializado en derecho laboral
 Dirección: Las praderas, Cajamarca 06001
 Teléfono: 948 792 198

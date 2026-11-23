@@ -1,7 +1,7 @@
 Nombre: ESTUDIO CONTRABLE ROMERO E.I.R.L.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Finanzas_y_Tributos
+Subrubro: Estudios_Contables_y_Tributarios
 Categoría Maps: Servicio de registros contables
 Dirección: Jr, Dos de Mayo 686, Cajamarca 06002
 Teléfono: 943 460 337

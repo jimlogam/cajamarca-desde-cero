@@ -1,7 +1,7 @@
 Nombre: CRIMIN - Investigación Jurídica Y Ciencias Forenses
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Legal_y_Notarial
+Subrubro: Estudios_Juridicos_Abogados
 Categoría Maps: Abogado
 Dirección: 1642915, -78.5082051, Pasaje 28 de Julio 189 - Barrio Pueblo Libre Referencia Parte baja de la compañía de bomberos de Cajamarca 294, Cristóbal Colón 7, Cajamarca 06002
 Teléfono: 920 410 828

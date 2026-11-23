@@ -1,7 +1,7 @@
 Nombre: HOSTAL CARRASCO
 Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
 Rubro: Alojamiento
-Subrubro: Hoteles
+Subrubro: Hostales_y_Residenciales
 Categoría Maps: Hotel
 Dirección: Los Sauces 471, Cajamarca 06001
 Teléfono: 933 210 040

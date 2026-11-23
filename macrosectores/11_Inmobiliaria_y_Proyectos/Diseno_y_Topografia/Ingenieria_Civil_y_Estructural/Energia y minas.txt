@@ -1,7 +1,7 @@
 Nombre: Energia y minas
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Diseno_y_Topografia
+Subrubro: Ingenieria_Civil_y_Estructural
 Categoría Maps: Oficinas de empresa
 Dirección: Jr, La Justicia 120 - 122, Cajamarca 06001
 Teléfono: 

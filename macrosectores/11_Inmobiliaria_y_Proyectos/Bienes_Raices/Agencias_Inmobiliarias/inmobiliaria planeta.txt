@@ -1,7 +1,7 @@
 Nombre: inmobiliaria planeta
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Bienes_Raices
+Subrubro: Agencias_Inmobiliarias
 Categoría Maps: Agencia inmobiliaria
 Dirección: C.P. Moyococha Mz A Lt 12 A, Baños del Inca 06004
 Teléfono: 996 914 886

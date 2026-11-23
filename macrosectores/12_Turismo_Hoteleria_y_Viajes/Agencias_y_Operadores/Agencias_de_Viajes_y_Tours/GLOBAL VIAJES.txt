@@ -1,7 +1,7 @@
 Nombre: GLOBAL VIAJES
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Agencias_y_Operadores
+Subrubro: Agencias_de_Viajes_y_Tours
 Categoría Maps: Agencia de viajes
 Dirección: Jr. Apurimac 613, Cajamarca 06001
 Teléfono: 921 914 833

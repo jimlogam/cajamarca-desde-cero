@@ -1,7 +1,7 @@
 Nombre: O & P ASESORIA Y SERVICIOS EMPRESARIALES E.I.R.L.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Gestion_Empresarial
+Subrubro: Consultoria_de_Negocios
 Categoría Maps: Empresa de contabilidad, Asesor fiscal
 Dirección: Av Vía de Evitamiento Nte G14, Cajamarca 06001
 Teléfono: 995 630 170

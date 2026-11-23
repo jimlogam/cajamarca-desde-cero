@@ -1,7 +1,7 @@
 Nombre: M&K Consultores
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Gestion_Empresarial
+Subrubro: Consultoria_de_Negocios
 Categoría Maps: Servicio de registros contables
 Dirección: Jr, José Gálvez 937, Cajamarca 06001
 Teléfono: 959 035 263

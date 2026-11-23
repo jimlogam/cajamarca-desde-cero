@@ -1,7 +1,7 @@
 Nombre: Catag Wasi Casa Hospedaje
 Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
 Rubro: Alojamiento
-Subrubro: Hoteles
+Subrubro: Hostales_y_Residenciales
 Categoría Maps: Hotel
 Dirección: Jirón Collasuyo 134, Cajamarca 06002
 Teléfono: 921 973 786

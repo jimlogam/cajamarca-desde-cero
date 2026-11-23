@@ -1,7 +1,7 @@
 Nombre: CR INGENIERIA Y PROYECTOS CAJAMARCA E.I.R.L
-Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
-Rubro: Obras_y_Estructuras
-Subrubro: Constructoras_y_Contratistas
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Diseno_y_Topografia
+Subrubro: Ingenieria_Civil_y_Estructural
 Categoría Maps: Empresa de construcción
 Dirección: Jirón Puno 305, Cajamarca 06001
 Teléfono: 927 194 002

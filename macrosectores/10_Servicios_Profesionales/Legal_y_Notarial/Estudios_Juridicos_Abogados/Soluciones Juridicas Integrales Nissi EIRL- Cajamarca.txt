@@ -1,7 +1,7 @@
 Nombre: Soluciones Juridicas Integrales Nissi EIRL- Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Legal_y_Notarial
+Subrubro: Estudios_Juridicos_Abogados
 Categoría Maps: Abogado
 Dirección: Jr, Amalia Puga 844, Cajamarca 06000
 Teléfono: 974 660 869

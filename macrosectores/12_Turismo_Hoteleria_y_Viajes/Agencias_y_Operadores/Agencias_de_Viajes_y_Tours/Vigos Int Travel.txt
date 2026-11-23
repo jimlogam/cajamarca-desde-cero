@@ -1,7 +1,7 @@
 Nombre: Vigos Int Travel
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Agencias_y_Operadores
+Subrubro: Agencias_de_Viajes_y_Tours
 Categoría Maps: Agencia de visitas turísticas, Centro de información turística
 Dirección: Amalia Puga 661, Cajamarca 06000
 Teléfono: 962 376 444

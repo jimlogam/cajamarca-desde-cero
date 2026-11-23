@@ -1,7 +1,7 @@
 Nombre: SERVICIOS GENERALES COLIBRI VERDE EIRL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Gestion_Empresarial
+Subrubro: Consultoria_de_Negocios
 Categoría Maps: Asesor
 Dirección: RGG7+H9P, Avenida Nuevo, Cajamarca 06001
 Teléfono: 

@@ -1,7 +1,7 @@
 Nombre: Residencial Los Cipreses
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hostales_y_Residenciales
 Categoría Maps: Edificio de apartamentos
 Dirección: Prolongacion Tayabamba 306, Cajamarca 06001
 Teléfono: 

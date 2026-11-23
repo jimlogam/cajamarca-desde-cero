@@ -1,7 +1,7 @@
 Nombre: Hospedaje Casa Blanca Beach
 Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
 Rubro: Alojamiento
-Subrubro: Hoteles
+Subrubro: Hostales_y_Residenciales
 Categoría Maps: Hotel
 Dirección: Mayta Cápac 158, Baños del Inca 06004
 Teléfono: 950 354 923

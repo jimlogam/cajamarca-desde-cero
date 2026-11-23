@@ -1,7 +1,7 @@
 Nombre: Casa de la Luna - Moon House Hostal
 Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
 Rubro: Alojamiento
-Subrubro: Hoteles
+Subrubro: Hostales_y_Residenciales
 Categoría Maps: Hotel
 Dirección: Cerca al Grifo las Vegas, Pje. Sta. Anita 136, Cajamarca 06001
 Teléfono: 925 106 010

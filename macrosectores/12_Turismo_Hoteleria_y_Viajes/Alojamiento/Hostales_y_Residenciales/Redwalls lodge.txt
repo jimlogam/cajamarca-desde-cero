@@ -1,7 +1,7 @@
 Nombre: Redwalls lodge
 Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
 Rubro: Alojamiento
-Subrubro: Alojamientos_Campestres
+Subrubro: Hostales_y_Residenciales
 Categoría Maps: Hotel
 Dirección: Baños del Inca 06004
 Teléfono: 977 966 681

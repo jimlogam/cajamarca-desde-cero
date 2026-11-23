@@ -1,7 +1,7 @@
 Nombre: House Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hostales_y_Residenciales
 Categoría Maps: Agencia de viajes, Alojamiento con servicio
 Dirección: Jr. Tarapacá 321, Cajamarca 06000
 Teléfono: 904 050 946

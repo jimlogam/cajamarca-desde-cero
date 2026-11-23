@@ -1,7 +1,7 @@
 Nombre: ATI TOURS PERU
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Agencias_y_Operadores
+Subrubro: Agencias_de_Viajes_y_Tours
 Categoría Maps: Agencia de viajes
 Dirección: Jr. La Mar N ° 435, Cajamarca
 Teléfono: (076) 367014

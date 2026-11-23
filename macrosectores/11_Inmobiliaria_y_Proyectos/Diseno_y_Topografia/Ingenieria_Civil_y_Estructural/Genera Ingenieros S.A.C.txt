@@ -1,7 +1,7 @@
 Nombre: Genera Ingenieros S.A.C
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Diseno_y_Topografia
+Subrubro: Ingenieria_Civil_y_Estructural
 Categoría Maps: Agencia inmobiliaria
 Dirección: Av. La Paz 360, Cajamarca 06001
 Teléfono: 979 423 882

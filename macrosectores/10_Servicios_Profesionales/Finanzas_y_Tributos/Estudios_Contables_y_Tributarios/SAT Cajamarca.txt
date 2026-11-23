@@ -1,7 +1,7 @@
 Nombre: SAT Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Finanzas_y_Tributos
+Subrubro: Estudios_Contables_y_Tributarios
 Categoría Maps: Departamento fiscal, Oficina de gobierno local
 Dirección: Av. Alameda de los Incas S/N, Cajamarca 06002, Cajamarca 06001
 Teléfono: 944 746 124

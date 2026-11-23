@@ -1,7 +1,7 @@
 Nombre: Academia Preuniversitaria La Nacional
 Macro-Sector: 13_Educacion_y_Formacion
-Rubro: Educacion_Basica
-Subrubro: Colegios_Primaria_y_Secundaria
+Rubro: Capacitacion_y_Talleres
+Subrubro: Academias_Preuniversitarias
 Categoría Maps: Institución educativa
 Dirección: Av. Mario Urteaga 1303, Cajamarca 06002
 Teléfono: 928 437 037

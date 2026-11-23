@@ -1,7 +1,7 @@
 Nombre: Lotización Bellavista Shudal (Inversiones Inmobiliarias Cabrera EIRL)
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Bienes_Raices
+Subrubro: Agencias_Inmobiliarias
 Categoría Maps: Agencia inmobiliaria
 Dirección: RF4X+VJP, Cajamarca 06000
 Teléfono: 

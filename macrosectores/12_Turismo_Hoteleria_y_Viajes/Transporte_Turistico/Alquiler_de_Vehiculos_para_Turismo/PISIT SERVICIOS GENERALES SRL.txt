@@ -1,7 +1,7 @@
 Nombre: PISIT SERVICIOS GENERALES SRL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Transporte_Turistico
+Subrubro: Alquiler_de_Vehiculos_para_Turismo
 Categoría Maps: Agencia de alquiler de coches
 Dirección: Pje, Los Cactus 114, Cajamarca
 Teléfono: 989 281 133

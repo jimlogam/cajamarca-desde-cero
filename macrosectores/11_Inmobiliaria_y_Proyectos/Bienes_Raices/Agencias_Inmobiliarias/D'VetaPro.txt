@@ -1,7 +1,7 @@
 Nombre: D'VetaPro
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Bienes_Raices
+Subrubro: Agencias_Inmobiliarias
 Categoría Maps: Agencia inmobiliaria
 Dirección: JR, Irene Silva 154, Cajamarca 06002
 Teléfono: 932 885 651

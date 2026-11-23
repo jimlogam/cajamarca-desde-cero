@@ -1,7 +1,7 @@
 Nombre: Novexa Ingeniería . Energía & Sitemas
-Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Plantas_y_Jardineria
-Subrubro: Diseno_y_Mantenimiento_de_Jardines
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Diseno_y_Topografia
+Subrubro: Ingenieria_Civil_y_Estructural
 Categoría Maps: Servicio de instalación de gas, Fabricante de calderas, Empresa de construcción, Compañía del gas, Proveedor de gas industrial, Diseñador de iluminación de paisajismo, Compañía de productos derivados del petróleo, Empresa de energía solar, Empresa de diseño de estructuras de acero
 Dirección: psj, San Antonio 130, Cajamarca 06000
 Teléfono: 944 976 345

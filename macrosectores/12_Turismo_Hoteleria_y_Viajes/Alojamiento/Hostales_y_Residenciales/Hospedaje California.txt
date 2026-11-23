@@ -1,7 +1,7 @@
 Nombre: Hospedaje California
 Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
 Rubro: Alojamiento
-Subrubro: Hoteles
+Subrubro: Hostales_y_Residenciales
 Categoría Maps: Hotel
 Dirección: Av. Nuevo Cajamarca 712, Cajamarca 06003
 Teléfono: 

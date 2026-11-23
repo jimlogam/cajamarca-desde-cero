@@ -1,7 +1,7 @@
 Nombre: TICSEPERU
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Gestion_Empresarial
+Subrubro: Consultoria_de_Negocios
 Categoría Maps: Tienda de informática, Empresa de networking empresarial, Consultora informática, Servicio de informática, Tienda de software, Mayorista de computadoras, Servicio de recuperación de datos, Servicio de reparación de impresoras, Proveedor de sistemas de seguridad, Distribuidor de equipos de telecomunicación
 Dirección: Av Larry Jhonson, Cajamarca 06003
 Teléfono: 976 181 962

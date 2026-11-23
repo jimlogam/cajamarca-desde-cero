@@ -1,7 +1,7 @@
 Nombre: Consultorio Medico Biológico Y Farmacia Verde
-Macro-Sector: 04_Salud_y_Medicina
-Rubro: Farmacia_y_Laboratorio
-Subrubro: Farmacias_y_Boticas
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Gestion_Empresarial
+Subrubro: Consultoria_de_Negocios
 Categoría Maps: Farmacia
 Dirección: 13 De Julio 252A, Cajamarca 06002
 Teléfono: 

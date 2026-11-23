@@ -1,7 +1,7 @@
 Nombre: Estudio Contable Induscont del Perú - Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Finanzas_y_Tributos
+Subrubro: Estudios_Contables_y_Tributarios
 Categoría Maps: Empresa de contabilidad
 Dirección: 06001, Cajamarca 06001
 Teléfono: 976 865 649

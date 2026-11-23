@@ -1,7 +1,7 @@
 Nombre: MAF E.I.R.L.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Diseno_y_Topografia
+Subrubro: Ingenieria_Civil_y_Estructural
 Categoría Maps: Topógrafo
 Dirección: Jirón Sucre 412, Cajamarca 06002
 Teléfono: 976 229 971

@@ -1,7 +1,7 @@
 Nombre: INGENIERIA Y TECNOLOGIA - ITEC
-Macro-Sector: 13_Educacion_y_Formacion
-Rubro: Educacion_Basica
-Subrubro: Colegios_Primaria_y_Secundaria
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Diseno_y_Topografia
+Subrubro: Ingenieria_Civil_y_Estructural
 Categoría Maps: Centro educativo
 Dirección: 060001, Cajamarca 06001
 Teléfono: 952 614 181

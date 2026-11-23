@@ -1,7 +1,7 @@
 Nombre: JR. El Molino
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Finanzas_y_Tributos
+Subrubro: Estudios_Contables_y_Tributarios
 Categoría Maps: Servicio de registros contables
 Dirección: Jr. El Molino 119, Cajamarca 06001
 Teléfono: 

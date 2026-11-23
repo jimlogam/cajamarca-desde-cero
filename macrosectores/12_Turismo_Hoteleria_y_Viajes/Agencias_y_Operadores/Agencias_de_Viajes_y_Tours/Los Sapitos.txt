@@ -1,7 +1,7 @@
 Nombre: Los Sapitos
 Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
 Rubro: Agencias_y_Operadores
-Subrubro: Turismo_Vivencial_y_Aventura
+Subrubro: Agencias_de_Viajes_y_Tours
 Categoría Maps: Atracción turística
 Dirección: RJ6V+29H, Cerro El Castillo 06305
 Teléfono: 

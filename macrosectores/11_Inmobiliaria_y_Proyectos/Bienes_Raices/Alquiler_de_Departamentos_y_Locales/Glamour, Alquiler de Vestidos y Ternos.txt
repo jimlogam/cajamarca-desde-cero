@@ -1,7 +1,7 @@
 Nombre: Glamour, Alquiler de Vestidos y Ternos
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Bienes_Raices
+Subrubro: Alquiler_de_Departamentos_y_Locales
 Categoría Maps: Alquiler de vestuario, Tienda de ropa
 Dirección: Chanchamayo 450, Cajamarca 06001
 Teléfono: 906 411 815

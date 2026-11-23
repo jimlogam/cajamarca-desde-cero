@@ -1,7 +1,7 @@
 Nombre: Inmotec Inmobiliaria
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Bienes_Raices
+Subrubro: Agencias_Inmobiliarias
 Categoría Maps: Agencia inmobiliaria
 Dirección: Pje. San Felipe Neri 137, Cajamarca 06000
 Teléfono: 975 764 835

@@ -1,7 +1,7 @@
 Nombre: La Casa del Frances
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Capacitacion_y_Talleres
+Subrubro: Centros_de_Idiomas
 Categoría Maps: Academia de idiomas
 Dirección: Jr, Chanchamayo 307, Cajamarca 06000
 Teléfono: 942 836 703

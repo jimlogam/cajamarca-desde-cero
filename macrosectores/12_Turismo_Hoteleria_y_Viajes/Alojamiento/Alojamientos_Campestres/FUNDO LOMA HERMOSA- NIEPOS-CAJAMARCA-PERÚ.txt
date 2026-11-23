@@ -1,7 +1,7 @@
 Nombre: FUNDO LOMA HERMOSA- NIEPOS-CAJAMARCA-PERÚ
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Alojamientos_Campestres
 Categoría Maps: Rancho ganadero
 Dirección: 3VJ9+GW, Niepos 06510
 Teléfono: 

@@ -1,7 +1,7 @@
 Nombre: Oficina Aivas Inmobiliaria en Bienes y Raíces
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Bienes_Raices
+Subrubro: Agencias_Inmobiliarias
 Categoría Maps: Agencia inmobiliaria
 Dirección: VF4J+JJC, Cajamarca 06001
 Teléfono: 965 790 550

@@ -1,7 +1,7 @@
 Nombre: L Ʌ L Servicios Generales SRL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Diseno_y_Topografia
+Subrubro: Ingenieria_Civil_y_Estructural
 Categoría Maps: Ingeniero
 Dirección: Angamos 518, Cajamarca 06001
 Teléfono: 

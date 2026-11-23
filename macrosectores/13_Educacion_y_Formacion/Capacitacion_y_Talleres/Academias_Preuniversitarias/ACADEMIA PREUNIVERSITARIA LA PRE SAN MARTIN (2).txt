@@ -1,7 +1,7 @@
 Nombre: ACADEMIA PREUNIVERSITARIA LA PRE SAN MARTIN
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Capacitacion_y_Talleres
+Subrubro: Academias_Preuniversitarias
 Categoría Maps: Instituto de secundaria
 Dirección: Prol. Revilla Perez 349, Cajamarca 06001
 Teléfono: 

@@ -1,7 +1,7 @@
 Nombre: CAREC Inmobiliaria Estudios & Proyectos
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Bienes_Raices
+Subrubro: Agencias_Inmobiliarias
 Categoría Maps: Agencia inmobiliaria
 Dirección: Jirón Mariano Iberico 209, Cajamarca 06000
 Teléfono: 976 637 745

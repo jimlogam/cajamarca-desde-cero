@@ -1,7 +1,7 @@
 Nombre: El Bosque Yanamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hostales_y_Residenciales
 Categoría Maps: Cabaña para acampar
 Dirección: QHPJ+GR, Yanamarca 06300
 Teléfono: 991 333 805

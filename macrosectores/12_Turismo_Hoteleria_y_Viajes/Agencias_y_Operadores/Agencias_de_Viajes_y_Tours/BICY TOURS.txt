@@ -1,7 +1,7 @@
 Nombre: BICY TOURS
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Agencias_y_Operadores
+Subrubro: Agencias_de_Viajes_y_Tours
 Categoría Maps: Agencia de viajes
 Dirección: 298, Jr del Batán 208, Cajamarca
 Teléfono: 

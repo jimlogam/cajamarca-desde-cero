@@ -1,7 +1,7 @@
 Nombre: ACADEMIA DE MARINERA NORTEÑA "CARLOS ESPINOZA"
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Capacitacion_y_Talleres
+Subrubro: Academias_Preuniversitarias
 Categoría Maps: Centro cultural
 Dirección: VIDRIERIA "EL DORADO, JR. GUILLERMO URRELO # 875 COSTADO DE LA, Cajamarca 06002
 Teléfono: 967 404 033

@@ -1,7 +1,7 @@
 Nombre: ITEM - Ingeniería, Tecnología y Maquinaria
-Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Sector_Agropecuario
-Subrubro: Herramientas_Agricolas_y_Riego
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Diseno_y_Topografia
+Subrubro: Ingenieria_Civil_y_Estructural
 Categoría Maps: Ingeniero de diseño
 Dirección: Av Vía de Evitamiento Nte 2588, Cajamarca 06001
 Teléfono: 986 930 133

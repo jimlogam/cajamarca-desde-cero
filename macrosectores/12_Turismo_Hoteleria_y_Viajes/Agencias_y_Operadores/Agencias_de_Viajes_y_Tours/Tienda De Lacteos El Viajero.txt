@@ -1,7 +1,7 @@
 Nombre: Tienda De Lacteos El Viajero
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Comercio_Minorista
-Subrubro: Minimarkets
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Agencias_y_Operadores
+Subrubro: Agencias_de_Viajes_y_Tours
 Categoría Maps: Tienda de alimentación
 Dirección: Jr del Batán 191, Cajamarca 06001
 Teléfono: (076) 312568

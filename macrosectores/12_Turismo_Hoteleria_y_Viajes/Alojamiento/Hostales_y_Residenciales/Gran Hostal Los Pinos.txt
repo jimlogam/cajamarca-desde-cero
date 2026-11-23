@@ -1,7 +1,7 @@
 Nombre: Gran Hostal Los Pinos
 Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
 Rubro: Alojamiento
-Subrubro: Hoteles
+Subrubro: Hostales_y_Residenciales
 Categoría Maps: Hotel
 Dirección: Jr, Los Pinos N° 717, Cajamarca 06001
 Teléfono: 945 414 852

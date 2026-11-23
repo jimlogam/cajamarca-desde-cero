@@ -1,7 +1,7 @@
 Nombre: SERVICIOS GENERALES SEAMYM SRL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Bienes_Raices
+Subrubro: Alquiler_de_Departamentos_y_Locales
 Categoría Maps: Agencia de alquiler de equipos
 Dirección: Cajamarca 06200
 Teléfono: 926 473 260

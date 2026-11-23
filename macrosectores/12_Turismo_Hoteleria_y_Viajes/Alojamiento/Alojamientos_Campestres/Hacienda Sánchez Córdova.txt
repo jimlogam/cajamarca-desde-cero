@@ -1,7 +1,7 @@
 Nombre: Hacienda Sánchez Córdova
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Alojamientos_Campestres
 Categoría Maps: Sala de banquetes
 Dirección: Av. Huamán 830, Víctor Larco Herrera 13009
 Teléfono: 

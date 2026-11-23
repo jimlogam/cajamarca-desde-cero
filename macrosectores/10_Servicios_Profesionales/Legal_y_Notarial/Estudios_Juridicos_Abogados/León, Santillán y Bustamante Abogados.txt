@@ -1,7 +1,7 @@
 Nombre: León, Santillán y Bustamante Abogados
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Legal_y_Notarial
+Subrubro: Estudios_Juridicos_Abogados
 Categoría Maps: Servicios legales
 Dirección: Jr Apurímac N° 694, 06000, Cajamarca, Oficinas 301 - 302, Cajamarca
 Teléfono: 976 485 622

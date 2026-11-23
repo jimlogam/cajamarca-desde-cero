@@ -1,7 +1,7 @@
 Nombre: Casa Alojamiento Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
+Rubro: Alojamiento
+Subrubro: Hostales_y_Residenciales
 Categoría Maps: Motel (hotel para automovilistas)
 Dirección: Leguía 326, Cajamarca 06001
 Teléfono: 930 765 637

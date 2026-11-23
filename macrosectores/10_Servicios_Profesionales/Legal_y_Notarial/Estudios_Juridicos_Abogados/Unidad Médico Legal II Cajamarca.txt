@@ -1,7 +1,7 @@
 Nombre: Unidad Médico Legal II Cajamarca
-Macro-Sector: 04_Salud_y_Medicina
-Rubro: Consultorios_Especializados
-Subrubro: Consultorios_Medicos_Generales
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Legal_y_Notarial
+Subrubro: Estudios_Juridicos_Abogados
 Categoría Maps: Organización sin ánimo de lucro
 Dirección: Jr. Gladiolos 273, Cajamarca 06003
 Teléfono: 

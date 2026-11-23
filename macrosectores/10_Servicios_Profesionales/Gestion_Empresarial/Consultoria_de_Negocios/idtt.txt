@@ -1,7 +1,7 @@
 Nombre: idtt.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Gestion_Empresarial
+Subrubro: Consultoria_de_Negocios
 Categoría Maps: Empresa de software, Agencia de publicidad, Consultora informática, Agencia de marketing, Servicio de producción de vídeo
 Dirección: San Andrés 141, Cajamarca 06002
 Teléfono: 989 821 395

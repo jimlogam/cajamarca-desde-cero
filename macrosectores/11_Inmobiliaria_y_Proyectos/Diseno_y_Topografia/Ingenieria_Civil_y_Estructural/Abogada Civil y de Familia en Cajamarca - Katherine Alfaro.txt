@@ -1,7 +1,7 @@
 Nombre: Abogada Civil y de Familia en Cajamarca | Katherine Alfaro
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Diseno_y_Topografia
+Subrubro: Ingenieria_Civil_y_Estructural
 Categoría Maps: Abogado penalista, Abogado civil, Gestor, Abogado, Abogado de sucesiones, Abogado de Derecho de familia
 Dirección: Jr. Tarapacá 714, Cajamarca 06001
 Teléfono: 973 758 780

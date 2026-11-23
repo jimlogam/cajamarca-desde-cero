@@ -1,7 +1,7 @@
 Nombre: VILLA HOSPEDAJES - LA CASONA
 Macro-Sector: 12_Turismo_Hoteleria_y_Viajes
 Rubro: Alojamiento
-Subrubro: Hoteles
+Subrubro: Hostales_y_Residenciales
 Categoría Maps: Hotel
 Dirección: Av. Atahualpa 324, Cajamarca 06003
 Teléfono: 

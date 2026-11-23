@@ -1,7 +1,7 @@
 Nombre: ESTUDIO DIMACON (Contabilidad y Marketing)
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Finanzas_y_Tributos
+Subrubro: Estudios_Contables_y_Tributarios
 Categoría Maps: Contable, Empresa de contabilidad, Consultora de marketing
 Dirección: Jr. Buenos Aire 129 del grifo las torresitas a dos cuadras, Cajamarca 06000
 Teléfono: 958 075 355
