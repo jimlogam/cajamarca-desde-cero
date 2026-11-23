@@ -1,7 +1,7 @@
 Nombre: Dima's School - Primaria
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
 Categoría Maps: Escuela primaria
 Dirección: Av. Héroes de San Ramón 106, Cajamarca 06002
 Teléfono: (076) 367507

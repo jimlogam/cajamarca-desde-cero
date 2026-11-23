@@ -1,7 +1,7 @@
 Nombre: Institución Educativa Privada "Ciencia y Tecnología" Pre UCT Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
 Categoría Maps: Educación, Instituto de secundaria, Escuela de primaria
 Dirección: Sta. Teresa de Journet N° 550, Cajamarca 06001
 Teléfono: (076) 603418

@@ -1,7 +1,7 @@
 Nombre: IDEG sac (Instituto de Desarrollo empresarial y Gerencial)
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Superior_y_Tecnica
+Subrubro: Institutos_Tecnicos
 Categoría Maps: Oficinas de empresa
 Dirección: Av. Vía de Evitamiento Sur 223, Cajamarca 06003
 Teléfono: 974 595 475

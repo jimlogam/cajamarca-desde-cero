@@ -1,7 +1,7 @@
 Nombre: JL PRODUCCIONES - Studio Grabación Filmación y Fotografía en Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Eventos_Sociales
+Subrubro: Fotografia_y_Video_para_Eventos
 Categoría Maps: Estudio de grabación, Servicio de producción de vídeo
 Dirección: Los Diamantes109, Cajamarca 06003, Cajamarca 06001
 Teléfono: 954 044 911

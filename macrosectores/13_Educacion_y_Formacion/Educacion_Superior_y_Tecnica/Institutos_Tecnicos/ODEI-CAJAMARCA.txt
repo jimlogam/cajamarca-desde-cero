@@ -1,7 +1,7 @@
 Nombre: ODEI-CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Superior_y_Tecnica
+Subrubro: Institutos_Tecnicos
 Categoría Maps: Instituto de Geografía y Estadística
 Dirección: Jirón del Comercio 629, Cajamarca 06001
 Teléfono: (076) 366006

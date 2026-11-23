@@ -1,7 +1,7 @@
 Nombre: JC STUDIOS
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Eventos_Sociales
+Subrubro: Fotografia_y_Video_para_Eventos
 Categoría Maps: Estudio de fotografía
 Dirección: Jr, Ponciano Vigil 830, Chota 06121
 Teléfono: 

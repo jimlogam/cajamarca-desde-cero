@@ -1,7 +1,7 @@
 Nombre: Filmaciones y Fotografía - Espinoza Producciones
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Eventos_Sociales
+Subrubro: Fotografia_y_Video_para_Eventos
 Categoría Maps: Estudio de fotografía
 Dirección: Jr, Miguel Iglesias 877, Cajamarca
 Teléfono: 913 810 802

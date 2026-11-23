@@ -1,7 +1,7 @@
 Nombre: Fotografía y Video Rochester
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Eventos_Sociales
+Subrubro: Fotografia_y_Video_para_Eventos
 Categoría Maps: Estudio de fotografía
 Dirección: Jirón Silva Santisteban 349, Cajamarca 06002
 Teléfono: 918 839 051

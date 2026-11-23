@@ -1,7 +1,7 @@
 Nombre: CEBA Santa Isabel
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
 Categoría Maps: Centro escolar, Service establishment
 Dirección: 
 Teléfono: 992 543 682

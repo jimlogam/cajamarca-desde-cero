@@ -1,7 +1,7 @@
 Nombre: Local de eventos
 Macro-Sector: 14_Entretenimiento_y_Eventos
-Rubro: Recreacion_y_Deportes
-Subrubro: Centros_Recreacionales_y_Piscinas
+Rubro: Eventos_Sociales
+Subrubro: Salones_de_Recepciones_y_Eventos
 Categoría Maps: Parque infantil
 Dirección: VF7J+4JM, Cajamarca 06001
 Teléfono: 

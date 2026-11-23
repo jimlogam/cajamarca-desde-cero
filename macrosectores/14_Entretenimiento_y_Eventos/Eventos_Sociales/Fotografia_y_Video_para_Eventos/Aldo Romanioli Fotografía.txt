@@ -1,7 +1,7 @@
 Nombre: Aldo Romanioli Fotografía
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Eventos_Sociales
+Subrubro: Fotografia_y_Video_para_Eventos
 Categoría Maps: Estudio de fotografía, Fotógrafo, Servicio de fotografía, Fotógrafo de bodas
 Dirección: Luis Reyna Farge N° 358, Cajamarca 06002
 Teléfono: 967 037 326

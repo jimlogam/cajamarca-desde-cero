@@ -1,7 +1,7 @@
 Nombre: DjCleider Peru
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Eventos_Sociales
+Subrubro: Alquiler_de_Sonido_Luces_y_Estrados
 Categoría Maps: Club musical
 Dirección: Jr, +51, Juan Villanueva 552, Cajamarca 06001
 Teléfono: 978 689 154

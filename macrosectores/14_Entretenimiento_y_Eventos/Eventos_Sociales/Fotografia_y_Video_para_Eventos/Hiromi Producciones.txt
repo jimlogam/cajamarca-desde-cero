@@ -1,7 +1,7 @@
 Nombre: Hiromi Producciones
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Eventos_Sociales
+Subrubro: Fotografia_y_Video_para_Eventos
 Categoría Maps: Fotógrafo, Estudio de grabación, Servicio de producción de vídeo
 Dirección: Santa Barbara A-25 Cajamarca, Cajamarca
 Teléfono: 976 167 777

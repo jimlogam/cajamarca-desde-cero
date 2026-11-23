@@ -1,7 +1,7 @@
 Nombre: INSTITUTO LUIS REBAZA NEIRA
 Macro-Sector: 13_Educacion_y_Formacion
-Rubro: Educacion_Basica
-Subrubro: Colegios_Primaria_y_Secundaria
+Rubro: Educacion_Superior_y_Tecnica
+Subrubro: Institutos_Tecnicos
 Categoría Maps: Institución educativa
 Dirección: Leguía 216, Cajamarca 06001
 Teléfono: 972 030 784

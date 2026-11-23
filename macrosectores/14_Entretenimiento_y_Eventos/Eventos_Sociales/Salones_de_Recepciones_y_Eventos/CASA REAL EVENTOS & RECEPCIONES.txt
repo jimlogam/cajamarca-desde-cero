@@ -1,7 +1,7 @@
 Nombre: CASA REAL EVENTOS & RECEPCIONES
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Menu_y_Comida_Casera
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Eventos_Sociales
+Subrubro: Salones_de_Recepciones_y_Eventos
 Categoría Maps: Servicio de catering
 Dirección: 050, Cajamarca 06001
 Teléfono: 976 138 665

@@ -1,7 +1,7 @@
 Nombre: Instituto Universitario de Ciencia y Tecnologia
 Macro-Sector: 13_Educacion_y_Formacion
-Rubro: Educacion_Basica
-Subrubro: Colegios_Primaria_y_Secundaria
+Rubro: Educacion_Superior_y_Tecnica
+Subrubro: Institutos_Tecnicos
 Categoría Maps: Centro educativo
 Dirección: José Gálvez 651, Cajamarca 06001
 Teléfono: 939 322 689

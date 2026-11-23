@@ -1,7 +1,7 @@
 Nombre: IGEP - Instituto Globalizado en Educación Profesional
 Macro-Sector: 13_Educacion_y_Formacion
-Rubro: Educacion_Basica
-Subrubro: Colegios_Primaria_y_Secundaria
+Rubro: Educacion_Superior_y_Tecnica
+Subrubro: Institutos_Tecnicos
 Categoría Maps: Institución educativa
 Dirección: 06001, Cajamarca 06001
 Teléfono: 954 052 183

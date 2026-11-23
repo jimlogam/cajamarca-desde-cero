@@ -1,7 +1,7 @@
 Nombre: "Eventos Terrones" ( alquiler de sillas, mesas, sonido)
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Nidos_y_Guarderias
 Categoría Maps: Organizador de eventos
 Dirección: Jr. Huancayo 143, Cajamarca 06002
 Teléfono: 941 495 578

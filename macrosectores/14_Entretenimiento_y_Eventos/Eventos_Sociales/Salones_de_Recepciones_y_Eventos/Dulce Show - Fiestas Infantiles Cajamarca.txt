@@ -1,7 +1,7 @@
 Nombre: Dulce Show - Fiestas Infantiles Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Eventos_Sociales
+Subrubro: Salones_de_Recepciones_y_Eventos
 Categoría Maps: Organizador de eventos
 Dirección: Av. Nuevo Cajamarca 1108, Cajamarca 06001
 Teléfono: 948 344 998

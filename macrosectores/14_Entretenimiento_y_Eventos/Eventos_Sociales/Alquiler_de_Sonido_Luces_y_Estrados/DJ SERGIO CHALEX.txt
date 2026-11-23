@@ -1,7 +1,7 @@
 Nombre: DJ SERGIO CHALEX
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Eventos_Sociales
+Subrubro: Alquiler_de_Sonido_Luces_y_Estrados
 Categoría Maps: DJ, Service establishment
 Dirección: 
 Teléfono: 942 874 604

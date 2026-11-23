@@ -1,7 +1,7 @@
 Nombre: Centro de Recepciones El Señorial
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 14_Entretenimiento_y_Eventos
+Rubro: Eventos_Sociales
+Subrubro: Salones_de_Recepciones_y_Eventos
 Categoría Maps: Salón para eventos
 Dirección: Juan Villanueva 220, Cajamarca 06001
 Teléfono: 976 697 859

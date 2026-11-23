@@ -1,7 +1,7 @@
 Nombre: Escuela de Natacion Piscis
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 13_Educacion_y_Formacion
+Rubro: Educacion_Basica
+Subrubro: Colegios_Primaria_y_Secundaria
 Categoría Maps: Escuela de natación, Escuela deportiva
 Dirección: Mayta Cápac 415, Baños del Inca 06004
 Teléfono: 993 214 674
