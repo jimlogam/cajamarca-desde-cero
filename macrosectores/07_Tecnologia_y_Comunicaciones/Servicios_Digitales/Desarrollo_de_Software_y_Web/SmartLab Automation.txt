@@ -1,7 +1,7 @@
 Nombre: SmartLab Automation
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Servicios_Digitales
+Subrubro: Desarrollo_de_Software_y_Web
 Categoría Maps: Instituto de capacitación en software
 Dirección: America 374, Cajamarca 06003
 Teléfono: 

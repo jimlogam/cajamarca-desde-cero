@@ -1,7 +1,7 @@
 Nombre: Sumato Constructora E.I.R.L.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
 Categoría Maps: Electricista, Contratista, Fontanero
 Dirección: Barrio San Martin, Pje. Los Cartuchos 1328, Cajamarca 06003
 Teléfono: 927 698 500

@@ -1,7 +1,7 @@
 Nombre: Alig Frank
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Servicios_Digitales
+Subrubro: Publicidad_y_Marketing_Digital
 Categoría Maps: Agencia de marketing
 Dirección: Psj. Malecón 103, Cajamarca 06002
 Teléfono: 969 329 118

@@ -1,7 +1,7 @@
 Nombre: Soluciona Empresa Multiservicios, diseños de cocinas, closes muebles en melamina y cielo rasos en drywall
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Materiales_Pesados_Cemento_y_Ladrillo
 Categoría Maps: Ebanista
 Dirección: Buenos Aires 347, Cajamarca 06003
 Teléfono: 935 261 571

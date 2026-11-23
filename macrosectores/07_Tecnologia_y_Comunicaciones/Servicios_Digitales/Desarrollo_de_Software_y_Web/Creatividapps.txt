@@ -1,7 +1,7 @@
 Nombre: Creatividapps
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Servicios_Digitales
+Subrubro: Desarrollo_de_Software_y_Web
 Categoría Maps: Empresa de software
 Dirección: Urbanizacion los docentes B7, Cajamarca
 Teléfono: 968 700 010

@@ -1,7 +1,7 @@
 Nombre: Gigantografias Luchin
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Diseno_e_Impresion
+Subrubro: Imprentas_y_Gigantografias
 Categoría Maps: Diseñador gráfico
 Dirección: Av. La Paz 1346a, Cajamarca 06003
 Teléfono: 929 929 978

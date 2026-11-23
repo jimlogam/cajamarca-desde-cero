@@ -1,7 +1,7 @@
 Nombre: MOVIL BUS - Cajamarca
-Macro-Sector: 15_Logistica_Transporte_y_Energia
-Rubro: Transporte_de_Pasajeros
-Subrubro: Taxis_y_Remises
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Celulares_Tablets_y_Accesorios
 Categoría Maps: Servicio de transporte
 Dirección: Av. Vía de Evitamiento Sur 1989, Cajamarca 06003
 Teléfono: 

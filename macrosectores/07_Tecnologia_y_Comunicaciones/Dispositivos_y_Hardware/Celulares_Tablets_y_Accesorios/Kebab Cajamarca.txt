@@ -1,7 +1,7 @@
 Nombre: Kebab Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Menu_y_Comida_Casera
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Celulares_Tablets_y_Accesorios
 Categoría Maps: Restaurante, Proveedor mayorista de alimentos y bebidas, Catering móvil
 Dirección: Ucayali 370, Cajamarca 06001
 Teléfono: 948 293 302

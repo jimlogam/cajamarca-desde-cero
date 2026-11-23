@@ -1,7 +1,7 @@
 Nombre: Tech Solutions Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Seguridad_y_Redes
+Subrubro: Camaras_de_Seguridad_y_Alarmas
 Categoría Maps: Proveedor de sistemas de seguridad
 Dirección: 06003, Cajamarca
 Teléfono: 967 090 040

@@ -1,7 +1,7 @@
 Nombre: R. T. SERVICIOS G
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
 Categoría Maps: Contratista general
 Dirección: +51, Cajamarca 06000
 Teléfono: 938 567 551

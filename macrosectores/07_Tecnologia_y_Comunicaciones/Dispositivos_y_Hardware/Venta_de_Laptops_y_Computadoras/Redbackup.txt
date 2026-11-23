@@ -1,7 +1,7 @@
 Nombre: Redbackup
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Servicio de informática, Servicio de reparación de impresoras
 Dirección: Pje Libertad con, Cajamarca 06002
 Teléfono: 951 979 921

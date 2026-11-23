@@ -1,7 +1,7 @@
 Nombre: WINDUVER
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Servicios_Digitales
+Subrubro: Desarrollo_de_Software_y_Web
 Categoría Maps: Empresa de software, Tienda de informática
 Dirección: Los Eucaliptos 112, Cajamarca 06001
 Teléfono: 976 313 531

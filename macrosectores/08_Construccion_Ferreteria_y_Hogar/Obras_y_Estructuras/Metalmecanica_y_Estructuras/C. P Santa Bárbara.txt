@@ -1,7 +1,7 @@
 Nombre: C. P Santa Bárbara
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Metalmecanica_y_Estructuras
 Categoría Maps: Soldador
 Dirección: VF2J+3VQ El callejón de santa barbara, Cajamarca 06001
 Teléfono: 928 283 539

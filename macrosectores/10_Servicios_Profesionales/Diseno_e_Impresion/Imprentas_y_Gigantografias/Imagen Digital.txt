@@ -1,7 +1,7 @@
 Nombre: Imagen Digital
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Diseno_e_Impresion
+Subrubro: Imprentas_y_Gigantografias
 Categoría Maps: Imprenta, Impresora de etiquetas personalizadas, Impresora digital, Servicio de impresión digital, Servicio de reparación de impresoras
 Dirección: El Inca 582, Cajamarca 06002
 Teléfono: 964 291 028

@@ -1,7 +1,7 @@
 Nombre: Ingenieros en Telecomunicaciones Electrónicos y Sistemas S.A.C.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Seguridad_y_Redes
+Subrubro: Proveedores_de_Internet_Telecom
 Categoría Maps: Contratista de telecomunicaciones
 Dirección: Av. Mártires de Uchuraccay 1621, Cajamarca 06003
 Teléfono: 976 229 576

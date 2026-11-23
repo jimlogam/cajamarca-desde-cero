@@ -1,7 +1,7 @@
 Nombre: MELAMINA E & M S.A.C.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Vidrierias_y_Aluminio
 Categoría Maps: Fábrica de muebles
 Dirección: Avenida San Martin N° 2318, Cajamarca 06001
 Teléfono: 930 485 273

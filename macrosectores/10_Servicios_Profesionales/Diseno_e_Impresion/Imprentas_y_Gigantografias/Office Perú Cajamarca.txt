@@ -1,7 +1,7 @@
 Nombre: Office Perú Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Diseno_e_Impresion
+Subrubro: Imprentas_y_Gigantografias
 Categoría Maps: Imprenta, Librería infantil, Copistería, Distribuidor de papel, Librería
 Dirección: Jr, Amalia Puga 225, Cajamarca
 Teléfono: (076) 362023

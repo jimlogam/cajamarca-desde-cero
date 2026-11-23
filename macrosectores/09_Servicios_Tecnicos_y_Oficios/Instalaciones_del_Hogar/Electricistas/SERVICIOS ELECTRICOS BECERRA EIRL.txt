@@ -1,7 +1,7 @@
 Nombre: SERVICIOS ELECTRICOS BECERRA EIRL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Instalaciones_del_Hogar
+Subrubro: Electricistas
 Categoría Maps: Compañía eléctrica
 Dirección: Jr. Alfonso Ugarte 378, Cajamarca 06001
 Teléfono: 989 940 052

@@ -1,7 +1,7 @@
 Nombre: Inkillay Agencia de Marketing Digital en Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Servicios_Digitales
+Subrubro: Publicidad_y_Marketing_Digital
 Categoría Maps: Agencia de marketing
 Dirección: Jr, Emilio Barrantes 278, Cajamarca 06001
 Teléfono: 913 256 141

@@ -1,7 +1,7 @@
 Nombre: F.castrejon/aylas
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Instalaciones_del_Hogar
+Subrubro: Electricistas
 Categoría Maps: Electricista, Tienda general
 Dirección: VF3C+5HM Lima Ca, Cajamarca 06001
 Teléfono: 959 309 182

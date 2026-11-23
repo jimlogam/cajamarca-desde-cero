@@ -1,7 +1,7 @@
 Nombre: D & Mecc Servicios Generales EIRL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Materiales_Pesados_Cemento_y_Ladrillo
 Categoría Maps: Distribuidor de acero
 Dirección: Av Vía de Evitamiento Nte s/n, Cajamarca 06001
 Teléfono: 955 869 288

@@ -1,7 +1,7 @@
 Nombre: Proveedor de muebles a medida
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
 Categoría Maps: Fábrica
 Dirección: Av Vía de Evitamiento Nte 1574, Cajamarca 06002
 Teléfono: 955 460 852

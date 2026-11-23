@@ -1,7 +1,7 @@
 Nombre: ICONIC GRAFICA Y PUBLICIDAD
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Servicios_Digitales
+Subrubro: Publicidad_y_Marketing_Digital
 Categoría Maps: Societe de Flocage
 Dirección: Jirón Huancavelica 871, Cajamarca 06001
 Teléfono: 

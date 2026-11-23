@@ -1,7 +1,7 @@
 Nombre: LA DUEÑA EIRL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Fabricante de hardware de computadoras
 Dirección: +51, Cajamarca 06003
 Teléfono: 977 662 773

@@ -1,7 +1,7 @@
 Nombre: SERTELCAJ SERVICIOS GENERALES SAC
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Seguridad_y_Redes
+Subrubro: Proveedores_de_Internet_Telecom
 Categoría Maps: Proveedor de servicios de telecomunicaciones
 Dirección: Miguel Gonzáles 165, Cajamarca 06001
 Teléfono: 970 303 513

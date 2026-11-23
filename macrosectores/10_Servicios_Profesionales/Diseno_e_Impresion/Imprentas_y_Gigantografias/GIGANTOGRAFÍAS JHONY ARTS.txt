@@ -1,7 +1,7 @@
 Nombre: GIGANTOGRAFÍAS JHONY ARTS
-Macro-Sector: 14_Entretenimiento_y_Eventos
-Rubro: Vida_Nocturna
-Subrubro: Bares_y_Pubs
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Diseno_e_Impresion
+Subrubro: Imprentas_y_Gigantografias
 Categoría Maps: Bar
 Dirección: Intersección con la, Jirón, Illimani 123, Cajamarca
 Teléfono: 987 175 456

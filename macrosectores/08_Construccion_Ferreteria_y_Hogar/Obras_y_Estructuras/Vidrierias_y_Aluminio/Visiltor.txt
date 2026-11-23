@@ -1,7 +1,7 @@
 Nombre: Visiltor
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Vidrierias_y_Aluminio
 Categoría Maps: Tienda de cristales y espejos
 Dirección: Jr. Bolognesi 525, Cajamarca 06003
 Teléfono: 

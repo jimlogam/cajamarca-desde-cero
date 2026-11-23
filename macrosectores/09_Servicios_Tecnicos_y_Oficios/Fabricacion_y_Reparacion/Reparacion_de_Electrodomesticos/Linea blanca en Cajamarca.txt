@@ -1,7 +1,7 @@
 Nombre: Linea blanca en Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Fabricacion_y_Reparacion
+Subrubro: Reparacion_de_Electrodomesticos
 Categoría Maps: Servicio de reparación de electrodomésticos
 Dirección: casa número 8B4, Jr. Cusco cuadra 6, Cajamarca 06001
 Teléfono: 932 874 264

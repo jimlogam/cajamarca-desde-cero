@@ -1,7 +1,7 @@
 Nombre: Imprenta Punto Azul
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Diseno_e_Impresion
+Subrubro: Imprentas_y_Gigantografias
 Categoría Maps: Imprenta, Agencia de publicidad, Servicio de fotografía
 Dirección: Jr. Guillermo Urrelo 941, Cajamarca 06000
 Teléfono: 958 346 467

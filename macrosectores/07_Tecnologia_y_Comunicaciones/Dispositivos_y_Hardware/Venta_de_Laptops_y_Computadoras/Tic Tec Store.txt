@@ -1,7 +1,7 @@
 Nombre: Tic Tec Store
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Tienda de accesorios informáticos
 Dirección: 06001, Cajamarca 06001
 Teléfono: 925 864 870

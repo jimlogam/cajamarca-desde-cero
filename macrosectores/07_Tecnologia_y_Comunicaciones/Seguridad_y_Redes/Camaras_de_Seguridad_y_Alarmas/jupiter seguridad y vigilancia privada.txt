@@ -1,7 +1,7 @@
 Nombre: jupiter seguridad y vigilancia privada
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Seguridad_y_Redes
+Subrubro: Camaras_de_Seguridad_y_Alarmas
 Categoría Maps: 
 Dirección: jr juan villanueva N° 302
 Teléfono: 916 201 268

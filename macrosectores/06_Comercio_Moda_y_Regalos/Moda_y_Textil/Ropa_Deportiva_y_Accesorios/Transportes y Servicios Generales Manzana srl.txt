@@ -1,7 +1,7 @@
 Nombre: Transportes y Servicios Generales Manzana srl
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Empresa de transporte por camión, Service establishment
 Dirección: 
 Teléfono: 962 571 063

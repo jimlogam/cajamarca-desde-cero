@@ -1,7 +1,7 @@
 Nombre: FABRICA DE MUEBLES "D & B" / "Especialistas en Melamina"
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Vidrierias_y_Aluminio
 Categoría Maps: Fábrica de muebles
 Dirección: Jacarandá 434, Cajamarca 06002
 Teléfono: 980 536 402

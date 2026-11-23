@@ -1,7 +1,7 @@
 Nombre: SERVITEC CAJAMARCA S.R.L.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Fabricacion_y_Reparacion
+Subrubro: Reparacion_de_Electrodomesticos
 Categoría Maps: Servicio de reparación de neveras, Servicio de reparación de electrodomésticos, Oficinas de empresa
 Dirección: Vía de Evitamiento Nte. A-11, Cajamarca 06002
 Teléfono: 930 564 678

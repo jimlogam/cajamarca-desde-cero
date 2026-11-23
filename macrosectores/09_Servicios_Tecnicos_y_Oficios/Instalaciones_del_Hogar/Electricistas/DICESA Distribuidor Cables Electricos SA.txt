@@ -1,7 +1,7 @@
 Nombre: DICESA Distribuidor Cables Electricos SA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Instalaciones_del_Hogar
+Subrubro: Electricistas
 Categoría Maps: Empresa constructora, Compañía eléctrica
 Dirección: Pje. San Antonio 392, Cajamarca 06003
 Teléfono: 993 086 628

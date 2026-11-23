@@ -1,7 +1,7 @@
 Nombre: ASESORES CONTABLES DIMACON - CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Finanzas_y_Tributos
+Subrubro: Estudios_Contables_y_Tributarios
 Categoría Maps: Contador público, Contable, Empresa de contabilidad, Servicio de registros contables, Asesoría laboral, Consultora financiera, Consultoría de recursos humanos, Asesor en comercio internacional, Asesor fiscal
 Dirección: Jr. Perea 487, Cajamarca 06003
 Teléfono: 951 055 184

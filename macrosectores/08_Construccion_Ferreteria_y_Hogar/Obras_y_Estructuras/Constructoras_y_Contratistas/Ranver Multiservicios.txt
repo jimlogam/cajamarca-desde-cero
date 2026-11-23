@@ -1,7 +1,7 @@
 Nombre: Ranver Multiservicios
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
 Categoría Maps: Electricista, Ingeniero civil, Empresa constructora, Contratista general
 Dirección: Jr. Contisuyo Nro. 280 A 2 CDRAS. DE LA ESCUELA PACHACUTEC, Cajamarca 06002
 Teléfono: 976 531 009

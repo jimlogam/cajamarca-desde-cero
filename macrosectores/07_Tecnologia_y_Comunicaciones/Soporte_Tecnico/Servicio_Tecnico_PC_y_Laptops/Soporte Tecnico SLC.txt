@@ -1,7 +1,7 @@
 Nombre: Soporte Tecnico SLC
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Soporte_Tecnico
+Subrubro: Servicio_Tecnico_PC_y_Laptops
 Categoría Maps: Servicio de reparación de ordenadores
 Dirección: Hermano Miguel Carducci 285, Cajamarca 06001
 Teléfono: 971 330 927

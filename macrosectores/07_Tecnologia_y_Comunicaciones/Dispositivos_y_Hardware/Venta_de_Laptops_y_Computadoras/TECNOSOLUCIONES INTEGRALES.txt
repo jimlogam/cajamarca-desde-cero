@@ -1,7 +1,7 @@
 Nombre: TECNOSOLUCIONES INTEGRALES
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Tienda de informática
 Dirección: Dos de Mayo 720, Cajamarca 06000
 Teléfono: 

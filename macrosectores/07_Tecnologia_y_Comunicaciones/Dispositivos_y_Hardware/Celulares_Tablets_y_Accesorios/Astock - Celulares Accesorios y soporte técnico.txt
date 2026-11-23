@@ -1,7 +1,7 @@
 Nombre: Astock - Celulares Accesorios y soporte técnico
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Celulares_Tablets_y_Accesorios
 Categoría Maps: 
 Dirección: esquina psj. real, Av San Martín de Porres 760, Cajamarca 06000
 Teléfono: 976 968 401

@@ -1,7 +1,7 @@
 Nombre: YAKHER HOLDING
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Soporte y servicios informáticos
 Dirección: JR, Ucayali N° 469, Cajamarca 06001
 Teléfono: 986 286 080

@@ -1,7 +1,7 @@
 Nombre: GRUPO GAAN SERVICIOS GENERALES - CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Seguridad_y_Redes
+Subrubro: Camaras_de_Seguridad_y_Alarmas
 Categoría Maps: Proveedor de servicios de telecomunicaciones, Proveedor de equipos de seguridad
 Dirección: Jr. Apurimac 564, Cajamarca 06001 Urb. Las flores Mz F lote 19, Dpto 101 - Trujillo Abraham Valdelomar 531 - Pueblo Libre - Lima, Cajamarca 06001
 Teléfono: 960 443 918

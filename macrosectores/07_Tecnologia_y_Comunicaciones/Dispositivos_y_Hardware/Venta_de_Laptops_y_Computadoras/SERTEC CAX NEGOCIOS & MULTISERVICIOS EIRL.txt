@@ -1,7 +1,7 @@
 Nombre: SERTEC CAX NEGOCIOS & MULTISERVICIOS EIRL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Centro de redes informáticas
 Dirección: Salaverry 283, Cajamarca 06001
 Teléfono: 945 194 900

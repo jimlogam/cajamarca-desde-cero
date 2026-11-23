@@ -1,7 +1,7 @@
 Nombre: CAMARAS DE SEGURIDAD - GASFITERIA - ELECTRICIDAD DRYWALL- Enchapados - THS Servicios Generales -
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Materiales_Pesados_Cemento_y_Ladrillo
 Categoría Maps: Contratista
 Dirección: Jirón Manuel Seoane 178, Cajamarca 06001
 Teléfono: 973 910 116

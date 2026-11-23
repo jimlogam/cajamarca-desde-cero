@@ -1,7 +1,7 @@
 Nombre: DIGIMATIC
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Mayorista de computadoras
 Dirección: 06001 Jr, Dos de Mayo 1169, Cajamarca 06001
 Teléfono: 976 123 030

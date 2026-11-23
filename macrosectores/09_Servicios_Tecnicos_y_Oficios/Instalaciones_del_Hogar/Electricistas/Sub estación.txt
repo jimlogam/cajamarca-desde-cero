@@ -1,7 +1,7 @@
 Nombre: Sub estación
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Instalaciones_del_Hogar
+Subrubro: Electricistas
 Categoría Maps: Electricista
 Dirección: RFQP+8V4, Cajamarca 06002
 Teléfono: 

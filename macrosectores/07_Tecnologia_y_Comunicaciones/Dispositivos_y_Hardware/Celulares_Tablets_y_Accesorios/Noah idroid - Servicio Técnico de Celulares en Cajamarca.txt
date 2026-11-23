@@ -1,7 +1,7 @@
 Nombre: Noah idroid - Servicio Técnico de Celulares en Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Celulares_Tablets_y_Accesorios
 Categoría Maps: Tienda de reparación de teléfonos móviles
 Dirección: Cajamarca 16001
 Teléfono: 935 601 059

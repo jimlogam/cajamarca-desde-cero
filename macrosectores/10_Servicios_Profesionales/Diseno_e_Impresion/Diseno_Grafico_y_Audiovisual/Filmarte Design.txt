@@ -1,7 +1,7 @@
 Nombre: Filmarte Design
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Diseno_e_Impresion
+Subrubro: Diseno_Grafico_y_Audiovisual
 Categoría Maps: Estudio de fotografía, Diseñador gráfico
 Dirección: Jr, Romero 447, Desamparados 705, Cajamarca 06002
 Teléfono: 948 833 874

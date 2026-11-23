@@ -1,7 +1,7 @@
 Nombre: Pc-flash
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Soporte_Tecnico
+Subrubro: Servicio_Tecnico_PC_y_Laptops
 Categoría Maps: Servicio de reparación de ordenadores
 Dirección: Irene Pereyra 256, Cajamarca 06001
 Teléfono: 997 281 795

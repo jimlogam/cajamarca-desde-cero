@@ -1,7 +1,7 @@
 Nombre: SASTRERÍA RUIZ
-Macro-Sector: 06_Comercio_Moda_y_Regalos
-Rubro: Moda_y_Textil
-Subrubro: Ropa_Damas_Caballeros_Ninos
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Fabricacion_y_Reparacion
+Subrubro: Sastres_y_Modistas
 Categoría Maps: Tienda de ropa de vestir
 Dirección: Av. Perú N° 714, Cajamarca 06001
 Teléfono: 984 863 253

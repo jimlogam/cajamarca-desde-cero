@@ -1,7 +1,7 @@
 Nombre: A&E Proyectos Y Soluciones Melamine
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
 Categoría Maps: Fábrica de muebles
 Dirección: Cajamarca 06000
 Teléfono: 966 930 992

@@ -1,7 +1,7 @@
 Nombre: ERGOSALUD M&J E.I.R.L.
-Macro-Sector: 04_Salud_y_Medicina
-Rubro: Consultorios_Especializados
-Subrubro: Consultorios_Medicos_Generales
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Seguridad_y_Redes
+Subrubro: Camaras_de_Seguridad_y_Alarmas
 Categoría Maps: Seguridad y salud ocupacional
 Dirección: Francia 220, Cajamarca 06001
 Teléfono: 993 586 686

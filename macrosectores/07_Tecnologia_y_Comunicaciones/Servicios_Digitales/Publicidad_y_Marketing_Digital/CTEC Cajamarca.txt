@@ -1,7 +1,7 @@
 Nombre: CTEC Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Servicios_Digitales
+Subrubro: Publicidad_y_Marketing_Digital
 Categoría Maps: Tienda de informática, Agencia de marketing, Diseñador de sitios web
 Dirección: Jr, Amalia Puga 107, Cajamarca 00051
 Teléfono: 976 901 977

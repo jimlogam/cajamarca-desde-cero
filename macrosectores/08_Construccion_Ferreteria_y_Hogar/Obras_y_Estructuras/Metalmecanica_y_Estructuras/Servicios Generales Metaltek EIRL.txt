@@ -1,7 +1,7 @@
 Nombre: Servicios Generales Metaltek EIRL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Metalmecanica_y_Estructuras
 Categoría Maps: Fabricante de acero
 Dirección: Av. Vía de Evitamiento Sur 2339, Cajamarca 06003
 Teléfono: 902 289 735

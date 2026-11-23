@@ -1,7 +1,7 @@
 Nombre: GRÁFICA PERÚ Sublimado Gigantografía y Señalética
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Diseno_e_Impresion
+Subrubro: Imprentas_y_Gigantografias
 Categoría Maps: Imprenta, Agencia de publicidad, Tienda de pancartas publicitarias, Imprenta comercial, Impresora de etiquetas personalizadas, Impresora digital
 Dirección: Prol. Guadalupe 301, Cajamarca 06002
 Teléfono: 954 651 070

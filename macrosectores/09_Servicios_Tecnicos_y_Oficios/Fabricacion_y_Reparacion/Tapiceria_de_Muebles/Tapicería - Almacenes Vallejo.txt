@@ -1,7 +1,7 @@
 Nombre: Tapicería - Almacenes Vallejo
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Fabricacion_y_Reparacion
+Subrubro: Tapiceria_de_Muebles
 Categoría Maps: Zapatero, Artesanía, Tapicería
 Dirección: Jirón Puno 157, Cajamarca 06000
 Teléfono: 987 857 087

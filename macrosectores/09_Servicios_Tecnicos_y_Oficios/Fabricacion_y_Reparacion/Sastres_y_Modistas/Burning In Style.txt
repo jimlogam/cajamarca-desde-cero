@@ -1,7 +1,7 @@
 Nombre: Burning In Style
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Fabricacion_y_Reparacion
+Subrubro: Sastres_y_Modistas
 Categoría Maps: Modista
 Dirección: Av Vía de Evitamiento Nte 1167, Cajamarca 06000
 Teléfono: 955 357 305

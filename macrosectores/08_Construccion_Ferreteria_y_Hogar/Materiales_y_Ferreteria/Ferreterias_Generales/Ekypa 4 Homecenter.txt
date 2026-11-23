@@ -1,7 +1,7 @@
 Nombre: Ekypa 4 Homecenter
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
 Categoría Maps: Tienda de herramientas
 Dirección: Jr del Batán 444, Cajamarca 06001
 Teléfono: 967 909 812

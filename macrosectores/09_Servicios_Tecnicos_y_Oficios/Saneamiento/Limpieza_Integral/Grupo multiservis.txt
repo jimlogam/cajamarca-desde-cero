@@ -1,7 +1,7 @@
 Nombre: Grupo multiservis
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Saneamiento
+Subrubro: Limpieza_Integral
 Categoría Maps: Servicio de limpieza, Jardinería
 Dirección: RGF4+83V, Av. Héroes del Cenepa, Cajamarca 06003
 Teléfono: 

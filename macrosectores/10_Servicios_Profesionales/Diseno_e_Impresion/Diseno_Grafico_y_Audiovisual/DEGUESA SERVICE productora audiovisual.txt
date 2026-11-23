@@ -1,7 +1,7 @@
 Nombre: DEGUESA SERVICE productora audiovisual
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Diseno_e_Impresion
+Subrubro: Diseno_Grafico_y_Audiovisual
 Categoría Maps: Productora cinematográfica
 Dirección: Jr, Arróspide de Loyola 485, Cajamarca 06001
 Teléfono: 976 830 597

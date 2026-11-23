@@ -1,7 +1,7 @@
 Nombre: SERVICIO TÉCNICO CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Soporte_Tecnico
+Subrubro: Servicio_Tecnico_PC_y_Laptops
 Categoría Maps: 
 Dirección: Los Leones Mz. “C, Cajamarca 06002
 Teléfono: 956 389 647

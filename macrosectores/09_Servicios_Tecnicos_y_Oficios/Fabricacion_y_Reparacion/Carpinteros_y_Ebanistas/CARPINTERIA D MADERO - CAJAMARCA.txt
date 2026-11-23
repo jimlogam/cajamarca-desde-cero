@@ -1,7 +1,7 @@
 Nombre: CARPINTERIA D MADERO - CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Fabricacion_y_Reparacion
+Subrubro: Carpinteros_y_Ebanistas
 Categoría Maps: Carpintería, Cabañas de madera, Taller de instalación de puertas y ventanas
 Dirección: Jr, Huacariz 306, Cajamarca 06001
 Teléfono: 929 008 660

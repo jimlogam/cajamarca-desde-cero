@@ -1,7 +1,7 @@
 Nombre: VIDRIERIA DIAZ
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Vidrierias_y_Aluminio
 Categoría Maps: Cristalero, Tienda de cristales
 Dirección: Juan Velasco Alvarado, Cajamarca 06002
 Teléfono: 988 459 105

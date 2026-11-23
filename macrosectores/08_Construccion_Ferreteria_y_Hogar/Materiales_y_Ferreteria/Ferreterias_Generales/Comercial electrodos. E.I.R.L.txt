@@ -1,7 +1,7 @@
 Nombre: Comercial electrodos. E.I.R.L
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
 Categoría Maps: Tienda de suministros para soldadura
 Dirección: Psj, San Agustín 180, Cajamarca
 Teléfono: 

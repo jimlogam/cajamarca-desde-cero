@@ -1,7 +1,7 @@
 Nombre: PIMENTEL CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Seguridad_y_Redes
+Subrubro: Proveedores_de_Internet_Telecom
 Categoría Maps: Taller mecánico
 Dirección: Av. Hno. Miguel Carducci 760, Barrio Huambocancha Bajo, Cajamarca 06001
 Teléfono: 977 179 909

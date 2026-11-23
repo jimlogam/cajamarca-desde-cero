@@ -1,7 +1,7 @@
 Nombre: Yareni Transportes Cajamarca
-Macro-Sector: 15_Logistica_Transporte_y_Energia
-Rubro: Transporte_de_Pasajeros
-Subrubro: Terminales_y_Empresas_Interprovinciales
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Servicio de transporte
 Dirección: Juan Beato Macias 240, Cajamarca 06003
 Teléfono: 947 110 879

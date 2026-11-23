@@ -1,7 +1,7 @@
 Nombre: GIGANTOGRAFIAS MEGAPRINT CAXA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Diseno_e_Impresion
+Subrubro: Imprentas_y_Gigantografias
 Categoría Maps: Diseñador gráfico
 Dirección: PUENTE AMARILLO, Av. Vía de Evitamiento Sur 103, Cajamarca 06001
 Teléfono: 945 460 881

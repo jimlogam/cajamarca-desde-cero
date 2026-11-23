@@ -1,7 +1,7 @@
 Nombre: Drywall Máster Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Materiales_Pesados_Cemento_y_Ladrillo
 Categoría Maps: Electricista, Contratista general, Fundación
 Dirección: Alta 06615
 Teléfono: 985 435 002

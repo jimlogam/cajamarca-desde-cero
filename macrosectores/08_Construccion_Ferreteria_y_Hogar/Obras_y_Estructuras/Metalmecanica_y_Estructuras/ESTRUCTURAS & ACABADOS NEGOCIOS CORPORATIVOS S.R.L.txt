@@ -1,7 +1,7 @@
 Nombre: ESTRUCTURAS & ACABADOS NEGOCIOS CORPORATIVOS S.R.L.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Metalmecanica_y_Estructuras
 Categoría Maps: Tienda de cristales
 Dirección: Av. Vía de Evitamiento Sur 2420, Cajamarca 06001
 Teléfono: 976 823 129

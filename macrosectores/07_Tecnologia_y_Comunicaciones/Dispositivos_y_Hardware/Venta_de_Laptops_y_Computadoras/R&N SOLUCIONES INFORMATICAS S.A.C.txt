@@ -1,7 +1,7 @@
 Nombre: R&N SOLUCIONES INFORMATICAS S.A.C
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Tienda de informática
 Dirección: Jr del Batán 403, Cajamarca 06001
 Teléfono: 967 279 165

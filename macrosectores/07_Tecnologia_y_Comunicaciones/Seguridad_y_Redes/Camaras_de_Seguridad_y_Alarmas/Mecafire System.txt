@@ -1,7 +1,7 @@
 Nombre: Mecafire System
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Seguridad_y_Redes
+Subrubro: Camaras_de_Seguridad_y_Alarmas
 Categoría Maps: Proveedor de alarmas de incendio, Servicio de seguridad contra incendios, Proveedor de sistemas de protección contra incendios
 Dirección: Jirón Huánuco 410, Cajamarca 06001
 Teléfono: 972 521 176

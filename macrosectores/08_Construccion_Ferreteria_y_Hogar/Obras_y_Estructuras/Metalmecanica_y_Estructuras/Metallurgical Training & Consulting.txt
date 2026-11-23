@@ -1,7 +1,7 @@
 Nombre: Metallurgical Training & Consulting
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Metalmecanica_y_Estructuras
 Categoría Maps: Asesor educativo, Centro de aprendizaje a distancia, Formación en emergencias, Asesor en ingeniería, Service establishment, Instituto de capacitación en software
 Dirección: 
 Teléfono: 978 236 145

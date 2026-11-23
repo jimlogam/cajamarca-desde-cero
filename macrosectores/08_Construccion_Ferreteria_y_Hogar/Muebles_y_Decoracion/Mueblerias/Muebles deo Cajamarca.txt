@@ -1,7 +1,7 @@
 Nombre: Muebles deo Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
 Categoría Maps: Fábrica de muebles
 Dirección: Av. La Paz 1922, Cajamarca 06001
 Teléfono: 910 104 390

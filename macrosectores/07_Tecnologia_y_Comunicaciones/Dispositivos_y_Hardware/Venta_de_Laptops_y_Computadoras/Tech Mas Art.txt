@@ -1,7 +1,7 @@
 Nombre: Tech Mas Art
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Soporte y servicios informáticos, Servicio de edición gráfica, Servicio de edición de vídeo, Diseñador de sitios web
 Dirección: Eten, Cajamarca 06002
 Teléfono: (076) 361564

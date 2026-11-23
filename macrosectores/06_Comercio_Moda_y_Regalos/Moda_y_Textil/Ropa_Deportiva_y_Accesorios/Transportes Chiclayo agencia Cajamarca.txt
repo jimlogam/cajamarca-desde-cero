@@ -1,7 +1,7 @@
 Nombre: Transportes Chiclayo agencia Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Servicio de transporte
 Dirección: 3N 2389, Cajamarca 06003
 Teléfono: (01) 7439021

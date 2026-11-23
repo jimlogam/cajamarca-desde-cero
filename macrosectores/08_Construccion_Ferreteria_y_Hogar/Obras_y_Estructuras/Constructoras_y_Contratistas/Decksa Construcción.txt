@@ -1,7 +1,7 @@
 Nombre: Decksa Construcción
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
 Categoría Maps: Soldador, Diseñador arquitectónico, Empresa de construcción, Contratista para construcción de interiores, Decorador de interiores, Servicio de remodelación de oficinas, Reformas, Contratista general
 Dirección: Campo Real, Jr, La Galena n13, Cajamarca 06001
 Teléfono: 942 217 219

@@ -1,7 +1,7 @@
 Nombre: FERRETERIA DPE - SIKA CAJAMARCA - CAT CAJAMARCA - DAEWOO CAJAMARCA - TRUPER CAJAMARCA - UYUSTOOLS CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
 Categoría Maps: Tienda de materiales para la construcción
 Dirección: Av. Mártires de Uchuraccay 1071, Cajamarca 06003
 Teléfono: 951 109 528

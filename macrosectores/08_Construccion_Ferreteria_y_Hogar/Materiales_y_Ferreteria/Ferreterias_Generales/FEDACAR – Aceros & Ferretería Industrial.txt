@@ -1,7 +1,7 @@
 Nombre: FEDACAR – Aceros & Ferretería Industrial
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
 Categoría Maps: Distribuidor de acero, Tienda de herramientas
 Dirección: Av Vía de Evitamiento Nte 1697, Cajamarca 06002
 Teléfono: 987 129 379

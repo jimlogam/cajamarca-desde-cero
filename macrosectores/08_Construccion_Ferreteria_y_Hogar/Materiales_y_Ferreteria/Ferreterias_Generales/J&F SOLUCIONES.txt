@@ -1,7 +1,7 @@
 Nombre: J&F SOLUCIONES
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
 Categoría Maps: Tienda de herramientas
 Dirección: Túpac Amaru 711, Cajamarca 06003
 Teléfono: 932 137 814

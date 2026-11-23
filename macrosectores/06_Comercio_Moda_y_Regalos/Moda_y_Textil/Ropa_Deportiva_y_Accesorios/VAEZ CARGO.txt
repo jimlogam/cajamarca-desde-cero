@@ -1,7 +1,7 @@
 Nombre: VAEZ CARGO
-Macro-Sector: 15_Logistica_Transporte_y_Energia
-Rubro: Carga_y_Envios
-Subrubro: Transporte_de_Carga_Pesada
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Servicio de transporte de mercancías
 Dirección: Av. Mártires de Uchuraccay 2597, Cajamarca 06003
 Teléfono: 923 294 800

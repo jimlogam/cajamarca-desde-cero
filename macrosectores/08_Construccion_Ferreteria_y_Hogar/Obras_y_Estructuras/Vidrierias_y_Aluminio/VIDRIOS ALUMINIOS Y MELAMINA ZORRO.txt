@@ -1,7 +1,7 @@
 Nombre: VIDRIOS ALUMINIOS Y MELAMINA "ZORRO"
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Vidrierias_y_Aluminio
 Categoría Maps: Constructor
 Dirección: VF6R+JQP, C. Yolanda Arce, Cajamarca 06001
 Teléfono: 

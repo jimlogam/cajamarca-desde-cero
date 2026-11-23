@@ -1,7 +1,7 @@
 Nombre: Mochica Marketing
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Servicios_Digitales
+Subrubro: Publicidad_y_Marketing_Digital
 Categoría Maps: Servicio de marketing por Internet
 Dirección: Jirón del Comercio 142, Cajamarca 06000
 Teléfono: 966 477 155

@@ -1,7 +1,7 @@
 Nombre: G&M SAC
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Metalmecanica_y_Estructuras
 Categoría Maps: Soldador
 Dirección: Jr, Las Orquideas 321, Cajamarca
 Teléfono: 915 262 085

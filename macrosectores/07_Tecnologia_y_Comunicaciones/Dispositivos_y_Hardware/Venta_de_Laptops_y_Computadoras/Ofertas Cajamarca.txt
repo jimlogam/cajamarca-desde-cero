@@ -1,7 +1,7 @@
 Nombre: Ofertas Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Tienda de accesorios informáticos
 Dirección: Jr. José Sabogal 811, Cajamarca 06001
 Teléfono: 976 943 613

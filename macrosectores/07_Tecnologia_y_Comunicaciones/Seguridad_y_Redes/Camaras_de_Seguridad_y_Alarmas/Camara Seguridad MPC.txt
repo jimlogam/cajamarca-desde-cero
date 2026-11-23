@@ -1,7 +1,7 @@
 Nombre: Camara Seguridad MPC
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Seguridad_y_Redes
+Subrubro: Camaras_de_Seguridad_y_Alarmas
 Categoría Maps: Centro de seguridad vial
 Dirección: Av. La Paz 401, Cajamarca 06003
 Teléfono: 

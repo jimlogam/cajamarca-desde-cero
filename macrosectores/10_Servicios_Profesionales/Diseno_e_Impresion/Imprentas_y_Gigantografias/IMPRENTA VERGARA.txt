@@ -1,7 +1,7 @@
 Nombre: IMPRENTA VERGARA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Diseno_e_Impresion
+Subrubro: Imprentas_y_Gigantografias
 Categoría Maps: Societe de Flocage
 Dirección: Jr, San Sebastián 425, Cajamarca 06002
 Teléfono: 907 543 088

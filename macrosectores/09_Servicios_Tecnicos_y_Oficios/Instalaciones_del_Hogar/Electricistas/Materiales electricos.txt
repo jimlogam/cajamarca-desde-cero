@@ -1,7 +1,7 @@
 Nombre: Materiales electricos
-Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
-Rubro: Materiales_y_Ferreteria
-Subrubro: Ferreterias_Generales
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Instalaciones_del_Hogar
+Subrubro: Electricistas
 Categoría Maps: Ferretería
 Dirección: Av San Martín de Porres 1750, Cajamarca 06003
 Teléfono: 

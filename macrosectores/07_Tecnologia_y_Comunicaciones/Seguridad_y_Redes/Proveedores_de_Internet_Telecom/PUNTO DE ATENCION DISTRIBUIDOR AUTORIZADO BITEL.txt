@@ -1,7 +1,7 @@
 Nombre: PUNTO DE ATENCION DISTRIBUIDOR AUTORIZADO BITEL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Seguridad_y_Redes
+Subrubro: Proveedores_de_Internet_Telecom
 Categoría Maps: Proveedor de servicios de telecomunicaciones
 Dirección: Chanchamayo 1365, Cajamarca 06001
 Teléfono: 910 421 735

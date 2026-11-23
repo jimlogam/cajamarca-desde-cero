@@ -1,7 +1,7 @@
 Nombre: SEGURIDAD - INFORMATICA - Soporte Técnico - Cámaras de seguridad
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Tienda de informática, Tienda de alarmas antirrobo, Tienda de móviles, Tienda de cámaras, Empresa de electrónica, Proveedor de alarmas de incendio, Cíber, Tienda de reparación de teléfonos móviles, Instaladores de sistemas de seguridad, Torre de telecomunicaciones
 Dirección: 06002, Cajamarca 06002
 Teléfono: 994 844 627

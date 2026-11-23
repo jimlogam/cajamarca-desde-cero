@@ -1,7 +1,7 @@
 Nombre: CEMCIL (La Casa de los Accesorios)
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
 Categoría Maps: Accesorios para muebles
 Dirección: Jr. Guillermo Urrelo 1624 ultima cuadra, Cajamarca 06000
 Teléfono: 925 407 783

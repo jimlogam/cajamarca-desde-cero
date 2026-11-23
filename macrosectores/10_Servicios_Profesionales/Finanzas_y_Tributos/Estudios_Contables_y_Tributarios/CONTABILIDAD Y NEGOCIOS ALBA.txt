@@ -1,7 +1,7 @@
 Nombre: CONTABILIDAD Y NEGOCIOS "ALBA"
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Finanzas_y_Tributos
+Subrubro: Estudios_Contables_y_Tributarios
 Categoría Maps: Contador público
 Dirección: 22845, Nueva Cajamarca 22845
 Teléfono: 977 248 174

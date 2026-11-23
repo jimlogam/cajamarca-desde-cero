@@ -1,7 +1,7 @@
 Nombre: SERVICELL CAJAMARCA REPARACIONES
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Celulares_Tablets_y_Accesorios
 Categoría Maps: Tienda de reparación de teléfonos móviles
 Dirección: 06000, Cajamarca 06000
 Teléfono: 920 351 848

@@ -1,7 +1,7 @@
 Nombre: Estructuras Metálicas Deivis Arce
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Metalmecanica_y_Estructuras
 Categoría Maps: Soldador
 Dirección: CA-107 307, Bambamarca 06116
 Teléfono: 912 079 627

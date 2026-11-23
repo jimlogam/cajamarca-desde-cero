@@ -1,7 +1,7 @@
 Nombre: Servicio Técnico L&C
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Soporte_Tecnico
+Subrubro: Servicio_Tecnico_PC_y_Laptops
 Categoría Maps: Servicio de atención al cliente de electrodomésticos, Proveedor de neveras comerciales
 Dirección: Jr. los Geranios 230, Cajamarca 06001
 Teléfono: 947 985 607

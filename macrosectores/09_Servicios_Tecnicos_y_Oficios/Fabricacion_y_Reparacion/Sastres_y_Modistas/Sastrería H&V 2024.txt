@@ -1,7 +1,7 @@
 Nombre: Sastrería H&V 2024
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Fabricacion_y_Reparacion
+Subrubro: Sastres_y_Modistas
 Categoría Maps: Sastre para hombres
 Dirección: Jirón Rioja S/N, Cajamarca 06001
 Teléfono: 973 876 062

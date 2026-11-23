@@ -1,7 +1,7 @@
 Nombre: INNOVA TECH
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Mayorista de computadoras
 Dirección: Amalia Puga 730, Cajamarca 06002
 Teléfono: 997 645 734

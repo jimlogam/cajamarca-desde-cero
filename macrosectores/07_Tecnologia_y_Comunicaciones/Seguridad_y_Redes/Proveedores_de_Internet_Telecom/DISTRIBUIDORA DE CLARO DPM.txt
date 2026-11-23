@@ -1,7 +1,7 @@
 Nombre: DISTRIBUIDORA DE CLARO DPM
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Seguridad_y_Redes
+Subrubro: Proveedores_de_Internet_Telecom
 Categoría Maps: Centro de llamadas
 Dirección: RFXV+7GX, Cajamarca 06002
 Teléfono: 

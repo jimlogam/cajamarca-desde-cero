@@ -1,7 +1,7 @@
 Nombre: GRANJA DE CUYES VALLE CONDEBAMBA
-Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Sector_Agropecuario
-Subrubro: Tiendas_Agroveterinarias
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Metalmecanica_y_Estructuras
 Categoría Maps: Fabricante de estructuras metálicas
 Dirección: +51, 06335
 Teléfono: 965 467 981

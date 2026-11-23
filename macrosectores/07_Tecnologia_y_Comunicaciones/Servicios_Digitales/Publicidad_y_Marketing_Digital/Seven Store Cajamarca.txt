@@ -1,7 +1,7 @@
 Nombre: Seven Store Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Servicios_Digitales
+Subrubro: Publicidad_y_Marketing_Digital
 Categoría Maps: Servicio de marketing por Internet
 Dirección: Pje. San José Obrero 161, Cajamarca 06000
 Teléfono: 951 341 976

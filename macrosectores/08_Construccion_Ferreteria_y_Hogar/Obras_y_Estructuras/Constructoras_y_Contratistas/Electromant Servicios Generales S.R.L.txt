@@ -1,7 +1,7 @@
 Nombre: Electromant Servicios Generales S.R.L.
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
 Categoría Maps: Contratista general
 Dirección: VG22+4MP, Cajamarca 06001
 Teléfono: 982 704 507

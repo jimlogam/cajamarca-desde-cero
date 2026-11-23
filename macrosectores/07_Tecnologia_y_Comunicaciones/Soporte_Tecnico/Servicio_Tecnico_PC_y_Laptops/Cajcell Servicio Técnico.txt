@@ -1,7 +1,7 @@
 Nombre: Cajcell Servicio Técnico
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Soporte_Tecnico
+Subrubro: Servicio_Tecnico_PC_y_Laptops
 Categoría Maps: 
 Dirección: Ex Paris, Jr. Sor Manuela Gil 151 C.C. El Quinde Shopping Plaza, Cajamarca 06001
 Teléfono: 930 974 900

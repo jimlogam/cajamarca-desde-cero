@@ -1,7 +1,7 @@
 Nombre: InnovaTec EyE
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Instalaciones_del_Hogar
+Subrubro: Electricistas
 Categoría Maps: Electricista, Tienda de electricidad, Proveedor de equipos eléctricos, Tienda de componentes electrónicos
 Dirección: 6001 Mz. C, Lote 19, Cajamarca 06001
 Teléfono: 978 366 145

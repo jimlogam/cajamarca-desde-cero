@@ -1,7 +1,7 @@
 Nombre: Servicio tecnico le línea blanca
-Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
-Rubro: Materiales_y_Ferreteria
-Subrubro: Ferreterias_Generales
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Soporte_Tecnico
+Subrubro: Servicio_Tecnico_PC_y_Laptops
 Categoría Maps: Tienda de artículos para el hogar
 Dirección: RFJV+428, Av. La Paz, Cajamarca 06003
 Teléfono: 924 964 822

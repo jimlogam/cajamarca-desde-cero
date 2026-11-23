@@ -1,7 +1,7 @@
 Nombre: Adiel servicios generales
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Diseno_e_Impresion
+Subrubro: Diseno_Grafico_y_Audiovisual
 Categoría Maps: Diseñador gráfico
 Dirección: Los 3 Reyes 112, Cajamarca 06001
 Teléfono: 927 096 034

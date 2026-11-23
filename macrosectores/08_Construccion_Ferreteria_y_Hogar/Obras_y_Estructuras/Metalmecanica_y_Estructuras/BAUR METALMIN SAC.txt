@@ -1,7 +1,7 @@
 Nombre: BAUR METALMIN SAC
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Metalmecanica_y_Estructuras
 Categoría Maps: Soldador, Chapistería, Empresa de construcciones metálicas, Tienda de suministros para soldadura
 Dirección: El Misti 336, Cajamarca 06002
 Teléfono: 991 139 331

@@ -1,7 +1,7 @@
 Nombre: FRIOMEC SG
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Materiales_Pesados_Cemento_y_Ladrillo
 Categoría Maps: Distribuidor de acero
 Dirección: Vía de Evitamiento Nte. 2138, Cajamarca 06000
 Teléfono: 951 447 290

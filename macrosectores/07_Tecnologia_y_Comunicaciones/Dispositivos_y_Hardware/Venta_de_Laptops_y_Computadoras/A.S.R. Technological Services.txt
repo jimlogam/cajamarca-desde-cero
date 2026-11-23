@@ -1,7 +1,7 @@
 Nombre: A.S.R. Technological Services
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Proveedor de servicios de Internet, Servicio de reparación de ordenadores, Tienda de informática
 Dirección: Jr, Los Cerezos 191, Cajamarca
 Teléfono: 955 193 457

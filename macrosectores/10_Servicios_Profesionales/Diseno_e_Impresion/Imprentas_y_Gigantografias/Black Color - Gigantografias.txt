@@ -1,7 +1,7 @@
 Nombre: Black Color - Gigantografias
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Diseno_e_Impresion
+Subrubro: Imprentas_y_Gigantografias
 Categoría Maps: Agencia de publicidad
 Dirección: Jr, San Sebastián 114, Cajamarca 06002
 Teléfono: 938 461 968

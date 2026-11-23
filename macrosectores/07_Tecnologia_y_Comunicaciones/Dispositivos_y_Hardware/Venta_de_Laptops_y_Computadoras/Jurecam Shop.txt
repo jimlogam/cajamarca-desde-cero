@@ -1,7 +1,7 @@
 Nombre: Jurecam Shop
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Tienda de informática
 Dirección: Huascarán, Cajamarca 06002
 Teléfono: 962 703 736

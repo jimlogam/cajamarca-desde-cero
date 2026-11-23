@@ -1,7 +1,7 @@
 Nombre: Servicio Técnico Latintronics
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Soporte_Tecnico
+Subrubro: Servicio_Tecnico_PC_y_Laptops
 Categoría Maps: 
 Dirección: Av. Mártires de Uchuraccay 1335, Cajamarca 06003
 Teléfono: 

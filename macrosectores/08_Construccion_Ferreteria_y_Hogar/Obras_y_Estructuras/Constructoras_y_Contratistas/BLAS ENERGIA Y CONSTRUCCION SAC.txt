@@ -1,7 +1,7 @@
 Nombre: BLAS ENERGIA Y CONSTRUCCION SAC
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
 Categoría Maps: 
 Dirección: RFWV+Q4V, Cajamarca 06002
 Teléfono: 950 382 754

@@ -1,7 +1,7 @@
 Nombre: SB CONSTRUCCIONES E.I.R.L
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
 Categoría Maps: Soldador
 Dirección: Jr. Tarapacá 266, Cajamarca 06001
 Teléfono: 974 093 309

@@ -1,7 +1,7 @@
 Nombre: Transportes El Cumbe
-Macro-Sector: 15_Logistica_Transporte_y_Energia
-Rubro: Transporte_de_Pasajeros
-Subrubro: Terminales_y_Empresas_Interprovinciales
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Deportiva_y_Accesorios
 Categoría Maps: Comercio
 Dirección: Av San Martín de Porres 140, Cajamarca 06002
 Teléfono: (074) 231454

@@ -1,7 +1,7 @@
 Nombre: Colegio de Contadores Públicos de Cajamarca
-Macro-Sector: 13_Educacion_y_Formacion
-Rubro: Educacion_Basica
-Subrubro: Colegios_Primaria_y_Secundaria
+Macro-Sector: 10_Servicios_Profesionales
+Rubro: Finanzas_y_Tributos
+Subrubro: Estudios_Contables_y_Tributarios
 Categoría Maps: Asociación profesional
 Dirección: Jr. Jorge Isaac 353, Cajamarca 06001
 Teléfono: 941 951 948

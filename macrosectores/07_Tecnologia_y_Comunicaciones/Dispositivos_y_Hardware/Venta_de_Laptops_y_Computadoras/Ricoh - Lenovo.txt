@@ -1,7 +1,7 @@
 Nombre: Ricoh - Lenovo
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Soporte y servicios informáticos
 Dirección: 06000 Jr. Trinidad N° 119, Jr. Trinidad 127, Cajamarca 06000
 Teléfono: 976 412 192

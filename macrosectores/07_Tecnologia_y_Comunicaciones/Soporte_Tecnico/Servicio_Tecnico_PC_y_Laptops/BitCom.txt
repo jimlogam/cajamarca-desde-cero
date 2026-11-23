@@ -1,7 +1,7 @@
 Nombre: BITCOM
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Soporte_Tecnico
+Subrubro: Servicio_Tecnico_PC_y_Laptops
 Categoría Maps: Servicio de reparación de ordenadores
 Dirección: Leoncio Prado 241, Cajamarca 06002
 Teléfono: 976 100 718

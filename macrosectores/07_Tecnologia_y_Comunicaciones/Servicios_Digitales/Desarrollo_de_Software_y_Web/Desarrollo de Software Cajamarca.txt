@@ -1,7 +1,7 @@
 Nombre: Desarrollo de Software Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Servicios_Digitales
+Subrubro: Desarrollo_de_Software_y_Web
 Categoría Maps: Servicio de desarrollo de negocios
 Dirección: Jr manantiales 464, Cajamarca 06001
 Teléfono: 991 432 502

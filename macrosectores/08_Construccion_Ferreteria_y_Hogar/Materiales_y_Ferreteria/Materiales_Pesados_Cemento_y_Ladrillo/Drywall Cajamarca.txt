@@ -1,7 +1,7 @@
 Nombre: Drywall Cajamarca
 Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
 Rubro: Materiales_y_Ferreteria
-Subrubro: Ferreterias_Generales
+Subrubro: Materiales_Pesados_Cemento_y_Ladrillo
 Categoría Maps: Ferretería
 Dirección: Av. Vía de Evitamiento Sur 412, Cajamarca 06002
 Teléfono: 935 286 554

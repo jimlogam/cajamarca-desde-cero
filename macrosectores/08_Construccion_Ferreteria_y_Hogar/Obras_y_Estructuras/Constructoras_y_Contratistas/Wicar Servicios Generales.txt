@@ -1,7 +1,7 @@
 Nombre: Wicar Servicios Generales
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
 Categoría Maps: Empresa constructora
 Dirección: Jorge Chavez 156, Cajamarca 06002
 Teléfono: (076) 367362

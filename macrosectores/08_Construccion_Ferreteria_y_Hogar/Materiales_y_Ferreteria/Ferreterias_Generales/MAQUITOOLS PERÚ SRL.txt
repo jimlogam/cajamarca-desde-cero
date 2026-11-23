@@ -1,7 +1,7 @@
 Nombre: MAQUITOOLS PERÚ SRL
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
 Categoría Maps: Tienda de herramientas
 Dirección: Av. Mártires de Uchuraccay N° 1550, Cajamarca 06001
 Teléfono: 939 610 975

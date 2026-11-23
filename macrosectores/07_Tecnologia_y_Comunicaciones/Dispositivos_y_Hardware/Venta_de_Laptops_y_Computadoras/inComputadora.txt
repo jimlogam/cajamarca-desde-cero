@@ -1,7 +1,7 @@
 Nombre: inComputadora
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Servicio de reparación de ordenadores
 Dirección: Jr. Los Duraznos 218, Urbanización: 22 de Octubre, Cajamarca 06001
 Teléfono: 949 115 070

@@ -1,7 +1,7 @@
 Nombre: Servicios industriales, todo soldadura HDPE
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Metalmecanica_y_Estructuras
 Categoría Maps: Empresa constructora
 Dirección: RFPJ+894, Jr. Garcilaso de la Vega, Cajamarca 06002
 Teléfono: 

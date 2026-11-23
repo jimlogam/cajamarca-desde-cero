@@ -1,7 +1,7 @@
 Nombre: Sole - Cajamarca
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 09_Servicios_Tecnicos_y_Oficios
+Rubro: Fabricacion_y_Reparacion
+Subrubro: Reparacion_de_Electrodomesticos
 Categoría Maps: Tienda de electrodomésticos
 Dirección: Vía de Evitamiento Nte. Lote 1, Cajamarca 06002
 Teléfono: 902 756 566

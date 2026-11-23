@@ -1,7 +1,7 @@
 Nombre: PETROBANCOO
-Macro-Sector: 16_Agropecuario_y_Mascotas
-Rubro: Sector_Agropecuario
-Subrubro: Herramientas_Agricolas_y_Riego
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Obras_y_Estructuras
+Subrubro: Constructoras_y_Contratistas
 Categoría Maps: Servicio de alquiler de maquinaria para construcción
 Dirección: RGF4+MQ5, Cajamarca 06003
 Teléfono: 923 578 477

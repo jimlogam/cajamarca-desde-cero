@@ -1,7 +1,7 @@
 Nombre: Carpinteria y Muebleria Camusa
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
 Categoría Maps: Carpintero
 Dirección: Jr, San Roque 476, Cajamarca 06002
 Teléfono: 976 387 208

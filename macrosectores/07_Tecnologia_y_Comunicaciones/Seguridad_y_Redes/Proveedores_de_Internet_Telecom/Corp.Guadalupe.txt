@@ -1,7 +1,7 @@
 Nombre: Corp.Guadalupe
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Menu_y_Comida_Casera
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Seguridad_y_Redes
+Subrubro: Proveedores_de_Internet_Telecom
 Categoría Maps: Tienda de bolígrafos, Tienda de cubertería, Tienda general, Comida a domicilio, Tienda de material escolar, Proveedor de servicios de telecomunicaciones
 Dirección: Jr. José Sabogal #942, Cajamarca 06002
 Teléfono: 988 265 759

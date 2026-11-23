@@ -1,7 +1,7 @@
 Nombre: Mueblería carpintería y decoraciónes GM
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Muebles_y_Decoracion
+Subrubro: Mueblerias
 Categoría Maps: Artista
 Dirección: Jr Contisuyo 105, Cajamarca 06002
 Teléfono: 937 098 033

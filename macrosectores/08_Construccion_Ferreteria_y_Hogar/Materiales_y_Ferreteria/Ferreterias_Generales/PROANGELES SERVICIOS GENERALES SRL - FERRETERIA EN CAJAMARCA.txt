@@ -1,7 +1,7 @@
 Nombre: PROANGELES SERVICIOS GENERALES SRL - FERRETERIA EN CAJAMARCA
-Macro-Sector: 01_Gastronomia_y_Cafeterias
-Rubro: Restaurantes
-Subrubro: Tradicional_y_Campestre
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
 Categoría Maps: Constructor, Asesor de construcción, Tienda de herramientas, Pintura, Proveedor de tuberías
 Dirección: Av. Héroes del Cenepa 1277, Cajamarca 06003
 Teléfono: 
