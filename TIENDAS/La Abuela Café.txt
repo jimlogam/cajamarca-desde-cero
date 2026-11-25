@@ -4,10 +4,10 @@ Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
 Categoría Maps: Cafetería
 Dirección: Dos de Mayo 330, Cajamarca 06002
-Teléfono: 
+Teléfono:
 Rating: 5
 Reseñas: 1
-Sitio web: 
+Sitio web:
 Latitud: -7.1584828
 Longitud: -78.5176886
 Google Maps: https://www.google.com/maps?cid=1473431668549070961
@@ -18,147 +18,209 @@ Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HmgG8k
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-La Abuela Café rescata los sabores entrañables del hogar cajamarquino en una de las calles más tradicionales del centro histórico, a pasos de la Plaza de Armas y Santa Apolonia. Aquí el café pasado en gota lenta, las humitas recién hechas, el chocolate con queso mantecoso y los bizcochos artesanales se sirven con el cariño de las recetas de antaño. Ven a disfrutar de un rincón cálido donde el tiempo parece detenerse para consentir tu paladar.
+Te damos una afectuosa bienvenida a La Abuela Café en el centro histórico de Cajamarca. Rescatamos los sabores más entrañables del hogar andino ofreciéndote café pasado en gota lenta, humitas dulces y saladas recién salidas de olla, espeso chocolate con queso mantecoso y bizcochos campesinos artesanales. Encuéntranos en Dos de Mayo 330 a pasos de la Plaza Mayor para disfrutar de un ambiente cálido que revive el cariño de antaño. Ven a visitarnos o solicita tu pedido para llevar.
+================================================================================
 
 --------------------------------------------------------------------------------
-PREGUNTAS FRECUENTES Y RESPUESTAS HIPERPERSONALIZADAS
+20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
 --------------------------------------------------------------------------------
-1. ¿Qué recetas tradicionales y bebidas caseras destacan en la propuesta de la cafetería?
-Nuestra propuesta gira en torno a las recetas tradicionales de la cocina cajamarquina, destacando el café pasado en gota lenta con notas tostadas intensas y aroma reconfortante.
 
-Preparamos además el auténtico chocolate andino espeso elaborado con tabletas de cacao puro, servido junto a porciones generosas de queso mantecoso local para sumergir a la usanza tradicional.
+--------------------------------------------------------------------------------
+PREGUNTA 1: ¿Qué especialidades tradicionales de desayuno casero y bebidas calientes sirven a primera hora?
+--------------------------------------------------------------------------------
+RESPUESTA 1:
+Nuestra cocina matinal rescata recetas familiares cajamarquinas para brindar desayunos que reconfortan el cuerpo y evocan memorias entrañables. Servimos café pasado lentamente en gota a gota con aroma profundo, tazas humeantes de chocolate artesanal con leche fresca y aromáticos mates de hierbaluisa.
 
-En el apartado de bocaditos caseros destacan nuestras humitas dulces y saladas envueltas en panca de choclo fresco, tamalitos criollos y queques horneados a diario con ingredientes naturales.
+Acompañamos tus bebidas con humitas dulces con pasas o saladas con queso andino, tamales campesinos suaves y pan de piso recién horneado con mantequilla pura.
 
-2. ¿A cuántos metros a pie se encuentra el célebre Cuarto del Rescate?
-Nos ubicamos a una distancia de apenas 135 metros del monumento incaico del Cuarto del Rescate, lo que representa una caminata sumamente rápida de 1 a 2 minutos.
+En La Abuela Café cada mañana se atiende con el esmero paciente de los hogares tradicionales para empezar tu día con bienestar genuino.
 
-Solo requieres descender por el Jirón Dos de Mayo en dirección este, pasando frente a antiguas casonas virreinales hasta cruzar la esquina de Amalia Puga donde se alza el monumento.
+--------------------------------------------------------------------------------
+PREGUNTA 2: ¿A qué distancia se ubican respecto a la fachada de la Iglesia San Francisco?
+--------------------------------------------------------------------------------
+RESPUESTA 2:
+Nos encontramos a tan solo 46 metros de distancia respecto a la fachada barroca de la Iglesia San Francisco de Cajamarca.
 
-Esta cercanía inmediata te permite realizar una pausa reconfortante de café tradicional antes o después de conocer el histórico episodio del rescate incaico.
+Puedes llegar caminando en menos de un minuto cruzando la plazoleta hacia el Jirón Dos de Mayo por una calzada adoquinada muy accesible.
 
-3. ¿Qué opciones de repostería casera hornean para acompañar el café de la tarde?
-Nuestra vitrina dulce presenta queques de plátano con canela, queque de naranja con jugo natural recién exprimido y suaves bizcochuelos campesinos de receta familiar.
+Esta notable cercanía monumental permite a turistas y feligreses hacer una pausa inmediata para disfrutar de un café caliente tras su visita al templo.
 
-Horneamos también alfajores rellenos con manjar blanco de leche fresca de Cajamarca y empanaditas dulces espolvoreadas con azúcar fina que deleitan desde el primer bocado.
+--------------------------------------------------------------------------------
+PREGUNTA 3: ¿Cómo preparan el tradicional café pasado en gota lenta y qué granos seleccionan?
+--------------------------------------------------------------------------------
+RESPUESTA 3:
+Elaboramos nuestro café empleando el método tradicional de filtro de tela y goteo pausado que extrae las notas más dulces y aromáticas del grano. Seleccionamos granos arábicos de pequeños productores de las alturas de San Ignacio con tueste artesanal medio.
 
-Cada preparación se realiza con paciencia y sin conservantes artificiales, preservando ese sabor limpio y hogareño que evoca las meriendas en casa de los abuelos.
+Esta infusión paciente produce una esencia concentrada y limpia con cuerpo aterciopelado, libre de acidez punzante o notas amargas ásperas.
 
-4. ¿Tienen alternativas de bebidas calientes para abrigarse del frío andino de la tarde?
-Para temperar el cuerpo cuando el frío de la sierra se intensifica servimos infusiones calientes con hierbas recién cosechadas como muña silvestre, cedrón y toronjil.
+Servimos la esencia humeante para que regules la intensidad deseada agregando agua caliente o leche fresca de establos locales.
 
-Ofrecemos también leche fresca hervida con canela y clavo de olor, así como el tradicional té con toques de pisco o limón para entibiar el pecho en días lluviosos.
+--------------------------------------------------------------------------------
+PREGUNTA 4: ¿Tienen disponibles humitas recién cocidas, bizcochos artesanales y quesos de la región?
+--------------------------------------------------------------------------------
+RESPUESTA 4:
+Preparamos a diario humitas de choclo tierno molido en batanes tradicionales, rellenas de abundante queso mantecoso cajamarquino o manjar blanco. En nuestra canasta disponemos de bizcochos de maíz, bollitos campesinos, roscas de manteca y pan de agua recién horneados.
 
-Servidas en tazas tradicionales que guardan el calor, nuestras bebidas calientes aseguran una experiencia sumamente reconfortante para compartir una grata conversación.
+Servimos además porciones generosas de queso fresco y quesillo con miel de caña para quienes buscan un tentempié tradicional.
 
-5. ¿Qué tan rápida es la caminata desde la histórica Plaza de Armas?
-La caminata hacia la Plaza de Armas de Cajamarca toma escasos 2 minutos a paso tranquilo, encontrándonos a únicamente 144 metros del perímetro de la plaza mayor.
+Cada preparación conserva el sabor rústico y auténtico de la despensa serrana elaborado sin aditivos artificiales.
 
-Basta con caminar una cuadra corta hacia el norte por el Jirón Dos de Mayo para divisar los jardines floridos y la majestuosa fachada de la Catedral.
+--------------------------------------------------------------------------------
+PREGUNTA 5: ¿Cuál es la separación métrica y el recorrido hacia la Plaza de Armas de Cajamarca?
+--------------------------------------------------------------------------------
+RESPUESTA 5:
+La distancia que nos separa de las veredas peatonales de la Plaza de Armas es de aproximadamente 90 metros de recorrido plano.
 
-Es un acceso totalmente plano, seguro y peatonal que te permite entrar y salir del bullicio cívico hacia nuestro apacible ambiente en cuestión de instantes.
+Basta con caminar una cuadra corta hacia el noroeste por el Jirón Dos de Mayo para ingresar directamente al cuadrilátero mayor de la ciudad.
 
-6. ¿Disponen de un ambiente tranquilo para descansar o conversar en calma durante la visita?
-El salón está diseñado con detalles rústicos en madera, mantelería tradicional y flores frescas que crean una atmósfera acogedora, apacible y libre de estridencias.
+Es un trayecto peatonal seguro y sumamente rápido que enlaza el centro neurálgico con nuestro tranquilo rincón de hospitalidad.
 
-Cuidamos el tono del entorno para que las familias, parejas y viajeros solitarios puedan disfrutar de una lectura amena o una charla distendida sin ruidos molestos.
+--------------------------------------------------------------------------------
+PREGUNTA 6: ¿Qué opciones de dulces caseros y postres de antaño preparan para la merienda?
+--------------------------------------------------------------------------------
+RESPUESTA 6:
+Nuestra vitrina de lonche ofrece delicias dulces caseras como arroz con leche a la canela, mazamorra de calabaza y dulce de higos con queso. Servimos también queques esponjosos de plátano con nueces, alfajorcitos de maicena rellenos de manjarblanco de olla y pastelillos de manzana.
 
-En La Abuela Café nos esforzamos para que cada visitante se sienta acogido con la calidez y la atención esmerada que caracteriza a los hogares cajamarquinos.
+Estas recetas transmitidas de generación en generación brindan ese toque dulce entrañable que endulza las tardes frescas del valle.
 
-7. ¿Qué alternativas de desayuno tradicional tienen listas a primera hora del día?
-Por las mañanas servimos desayunos campesinos con panes serranos calientes, porciones de queso fresco de vaca, mantequilla pura de granja y huevos preparados al gusto.
+Constituyen el acompañamiento idóneo para disfrutar junto a una taza de té de hierbas o un chocolate caliente espeso.
 
-Puedes acompañar el desayuno con una taza generosa de café con leche fresca recién hervida o una taza de avena tibia perfumada con cáscaras de manzana y canela.
+--------------------------------------------------------------------------------
+PREGUNTA 7: ¿Disponen de facilidades de empaque para llevar bebidas calientes y bocados al paso?
+--------------------------------------------------------------------------------
+RESPUESTA 7:
+Contamos con vasos térmicos biodegradables de cierre hermético que preservan intacta la temperatura y aroma de tus cafés y chocolates calientes. Empacamos las humitas y sándwiches en envoltorios limpios que mantienen su humedad y suavidad durante tus recorridos.
 
-Es una alternativa sustanciosa y natural para quienes desean cargar energías limpias antes de emprender excursiones hacia los atractivos turísticos de la provincia.
+Puedes ordenar tu pedido en barra o solicitarlo previamente por mensajería móvil para recogerlo sin esperas en el mostrador.
 
-8. ¿Cómo subir hacia las escalinatas del Mirador Santa Apolonia desde la cafetería?
-El acceso a las tradicionales escalinatas de piedra de Santa Apolonia dista apenas 275 metros de nuestra puerta, lo que equivale a unos 3 a 4 minutos a pie.
+El servicio para llevar de La Abuela Café te permite transportar el calor y sazón del hogar tradicional hacia tu oficina o paseo turístico.
 
-Solo debes caminar hacia el suroeste por el Jirón Dos de Mayo hacia la base del cerro, donde inician los peldaños adornados de jardines y capillas históricas.
+--------------------------------------------------------------------------------
+PREGUNTA 8: ¿Cuántos metros median entre su puerta y el monumento del Cuarto del Rescate?
+--------------------------------------------------------------------------------
+RESPUESTA 8:
+Nos separan 143 metros de distancia respecto al recinto arqueológico del Cuarto del Rescate en el casco histórico.
 
-Muchos visitantes compran una bebida caliente para llevar y suben con calma los escalones para contemplar la vista panorámica de la ciudad al atardecer.
+El recorrido a pie toma escasos dos minutos saliendo del sitio incaico por el Jirón Amalia Puga y doblando hacia la calle Dos de Mayo.
 
-9. ¿Qué opciones saladas tradicionales ofrecen para la hora del lonche?
-Preparamos sándwiches campesinos en pan artesanal con jamón del país recién cortado, sarsa criolla de cebolla y ají, o queso mantecoso fundido a la plancha.
+Representa una parada estratégica para los visitantes que desean coronar su recorrido cultural con sabores típicos de la región.
 
-También ofrecemos tamales de maíz blanco sazonados con aderezo casero y trozos de carne suave, además de empanadas saladas rellenas de guiso tradicional.
+--------------------------------------------------------------------------------
+PREGUNTA 9: ¿Qué métodos de pago reciben al momento de cancelar el consumo en su salón?
+--------------------------------------------------------------------------------
+RESPUESTA 9:
+Facilitamos la cancelación de tu cuenta aceptando transferencias electrónicas mediante billeteras móviles con códigos QR impresos en el mostrador. Admitimos igualmente dinero en efectivo en billetes y monedas nacionales con cambio disponible de manera constante.
 
-Son porciones ideales para calmar el apetito de media tarde de forma nutritiva y con el sabor auténtico de la cocina tradicional cajamarquina.
+Procesamos tarjetas bancarias de débito y crédito nacionales o internacionales en nuestro terminal de cobro seguro sin recargos.
 
-10. ¿Cuentan con vasos térmicos y empaques seguros para llevar productos al paso?
-Disponemos de vasos descartables térmicos con tapas seguras para que lleves tu café pasado o chocolate caliente mientras recorres las calles virreinales de Cajamarca.
+Emitimos boletas de venta y facturas electrónicas de manera inmediata para el adecuado respaldo de tus consumos cotidianos.
 
-Las humitas, sándwiches y porciones de queque se empacan en bolsas de papel antigrasa y envases rígidos que conservan la calidez y textura de cada alimento.
+--------------------------------------------------------------------------------
+PREGUNTA 10: ¿El ambiente resulta tranquilo y acogedor para compartir charlas en familia o amigos?
+--------------------------------------------------------------------------------
+RESPUESTA 10:
+Acondicionamos nuestro local con muebles de madera rústica, mantelería tradicional y adornos que recrean la sala de una casona cajamarquina clásica. La iluminación cálida y la música instrumental suave generan una atmósfera serena propicia para la conversación íntima y el descanso.
 
-Puedes solicitar tu orden para llevar en el mostrador para disfrutarla cómodamente en un banco soleado de la plaza o durante tus paseos a pie.
+Es un punto de encuentro predilecto para familias, abuelos con sus nietos y viajeros que valoran el calor de hogar y la paz.
 
-11. ¿Cuál es el camino peatonal hacia el Mercado Central de Cajamarca?
-El Mercado Central se localiza a 713 metros de nuestra cafetería, una caminata a pie de unos 8 a 9 minutos bajando por el Jirón Dos de Mayo hacia el norte.
+Te aseguramos un entorno hospitalario donde el trato cariñoso y el respeto son la prioridad constante de nuestro equipo.
 
-El recorrido transcurre por calles tradicionales del centro monumental, pasando frente a bodegas históricas y tiendas de dulces y artesanías locales.
+--------------------------------------------------------------------------------
+PREGUNTA 11: ¿Qué distancia aproximada existe en dirección al Mirador del Cerro Santa Apolonia?
+--------------------------------------------------------------------------------
+RESPUESTA 11:
+La distancia que nos separa del inicio de las escalinatas hacia el Mirador Santa Apolonia es de 278 metros en sentido suroccidental.
 
-Es un paseo muy agradable si deseas combinar una merienda tradicional con la compra de recuerdos y quesos típicos en los puestos tradicionales del mercado.
+Puedes ascender caminando por el mismo Jirón Dos de Mayo en un trayecto de aproximadamente tres a cuatro minutos a paso tranquilo.
 
-12. ¿Cuál es la procedencia y el método de preparación del café que sirven?
-Trabajamos con granos arábicos cultivados por pequeños productores de las provincias de Jaén y San Ignacio, reconocidas por su café de alta montaña.
+Constituye el punto de partida o llegada perfecto para disfrutar de un chocolate caliente antes o después de contemplar el paisaje urbano.
 
-Utilizamos el método tradicional de gota lenta en cafetera de filtro de tela o metal, extrayendo una bebida densa, aromática y con una acidez muy balanceada.
+--------------------------------------------------------------------------------
+PREGUNTA 12: ¿Ofrecen bebidas refrescantes tradicionales como chicha morada o jugos de frutas?
+--------------------------------------------------------------------------------
+RESPUESTA 12:
+Preparamos a diario chicha morada tradicional cocinada con maíz morado selecto, cáscara de piña, membrillo, manzana y especias aromáticas. Servimos además jugos de frutas recién licuados de papaya, piña y mezclas surtidas, así como limonadas frescas con hierbas del huerto.
 
-Este proceso paciente permite saborear la pureza del grano sin notas amargas agresivas, rememorando el estilo tradicional de café que se tomaba en las casonas andinas.
+Para los días soleados ofrecemos también café frío refrescante endulzado suavemente con panela y servido con hielo purificado.
 
-13. ¿Qué opciones de bebidas tienen para personas que no consumen leche animal?
-Disponemos de café negro americano, café pasado puro y una amplia variedad de infusiones herbales preparadas con agua purificada y hierbas frescas de huerto.
+Nuestras alternativas frías hidratan de manera natural respetando el sabor genuino de los insumos agrícolas del valle.
 
-También preparamos jugos de fruta natural de temporada sin agregados lácteos, elaborados al momento para garantizar la frescura de sus nutrientes.
+--------------------------------------------------------------------------------
+PREGUNTA 13: ¿Es factible encargar pedidos especiales de humitas y bizcochos para reuniones familiares?
+--------------------------------------------------------------------------------
+RESPUESTA 13:
+Atendemos pedidos por docenas o fuentes especiales de humitas dulces y saladas para agasajos familiares, desayunos de cumpleaños o compromisos. Alistamos canastas de pan campesino, termos con café pasado caliente y porciones de queso regional empacadas con esmero.
 
-Solo debes comentarle a nuestro personal tus requerimientos alimenticios para sugerirte las preparaciones más acordes con tus preferencias.
+Coordinamos las entregas con anticipación para asegurar que tus invitados disfruten de alimentos frescos, calientes y recién elaborados.
 
-14. ¿En qué tiempo y transporte me traslado hasta el centro comercial Real Plaza?
-El centro comercial Real Plaza dista 1.37 kilómetros de nuestra ubicación, un trayecto que toma solo 5 minutos en taxi regular.
+Puedes confiar en el respaldo casero de La Abuela Café para agasajar a tus seres queridos con la autenticidad culinaria de nuestra tierra.
 
-Al estar ubicados a pocos metros de la esquina monumental, es muy fácil abordar un taxi vehicular que descienda rápidamente hacia la Avenida Evitamiento.
+--------------------------------------------------------------------------------
+PREGUNTA 14: ¿A cuántos metros de caminata se sitúa su establecimiento respecto al Mercado Central?
+--------------------------------------------------------------------------------
+RESPUESTA 14:
+Nos encontramos ubicados a 377 metros de distancia respecto a los accesos principales del Mercado Central de Cajamarca.
 
-Esta cercanía facilita conectar una experiencia gastronómica tradicional en el centro con compras en tiendas modernas y salas de entretenimiento.
+El trayecto peatonal toma entre cuatro y cinco minutos descendiendo por las calles tradicionales del centro hacia el sector comercial.
 
-15. ¿Qué formas de pago electrónico reciben para mayor comodidad de los clientes?
-Aceptamos pagos rápidos con billeteras digitales como Yape y Plin mediante la lectura del código QR disponible en nuestra barra de atención.
+Esta cercanía facilita visitar nuestro local para tomar un reparador café de media mañana tras realizar las compras del día.
 
-También recibimos pagos con tarjetas de débito y crédito mediante terminales POS electrónicos modernos compatibles con tecnología de contacto y chip.
+--------------------------------------------------------------------------------
+PREGUNTA 15: ¿Qué cuidados de salubridad e higiene aplican en la elaboración artesanal de sus alimentos?
+--------------------------------------------------------------------------------
+RESPUESTA 15:
+Mantenemos rigurosas prácticas de manipulación higiénica de alimentos en todas las fases de cocción, envoltura y despacho diario. Nuestro personal utiliza indumentaria reglamentaria, practica desinfección continua de manos y mantiene las superficies de cocina esterilizadas.
 
-Por supuesto, mantenemos disponibilidad permanente de cambio en efectivo en moneda nacional para quienes prefieren pagar con sencillo.
+Los quesos, leches y choclos se reciben frescos cada jornada de proveedores locales confiables bajo rigurosa inspección de calidad.
 
-16. ¿Es un espacio adecuado para visitar con niños pequeños o personas de la tercera edad?
-La calidez de nuestro ambiente y la ausencia de desniveles pronunciados en el acceso facilitan el ingreso y la comodidad de abuelos y niños por igual.
+Esta pulcritud asegura a cada visitante alimentos totalmente sanos, limpios y preparados bajo altos estándares de confianza sanitaria.
 
-Nuestro personal atiende con paciencia y afecto sincero, disponiendo de bebidas adaptadas en temperatura y porciones pensadas para todas las edades.
+--------------------------------------------------------------------------------
+PREGUNTA 16: ¿Disponen de alternativas aptas para personas con intolerancia a la lactosa?
+--------------------------------------------------------------------------------
+RESPUESTA 16:
+Pensando en comensales que buscan opciones ligeras disponemos de leche deslactosada para preparar café con leche o chocolate caliente. Ofrecemos además humitas saladas libres de lácteos bajo encargo previo y panes artesanales horneados con agua y manteca vegetal suave.
 
-En La Abuela Café consideramos a cada cliente como un miembro más de la familia, procurando que su estancia resulte memorable y placentera.
+Contamos con endulzantes naturales como miel de abeja andina, algarrobina y panela orgánica para prescindir del azúcar refinada.
 
-17. ¿Venden productos tradicionales o dulces envasados para llevar como regalo?
-Mantenemos disponibles potes de manjar blanco artesanal de Cajamarca, rosquitas tradicionales y frascos de miel pura de abeja cosechada en valles cercanos.
+Solo debes indicarnos tus requerimientos al ingresar para orientarte hacia las alternativas más adecuadas para tu digestión.
 
-También puedes adquirir humitas empacadas listas para recalentar en tu alojamiento o llevar en tu viaje de retorno a casa.
+--------------------------------------------------------------------------------
+PREGUNTA 17: ¿Cuáles son los horarios de atención al cliente a lo largo de la semana?
+--------------------------------------------------------------------------------
+RESPUESTA 17:
+Atendemos de lunes a sábado desde las 7:30 a.m. de manera continua hasta las 9:00 p.m., cubriendo desayunos, almuerzos tradicionales y lonches. Los domingos y días feriados brindamos servicio a partir de las 8:00 a.m. para acompañar los paseos familiares dominicales.
 
-Son obsequios auténticos y deliciosos que transmiten el verdadero sabor de la repostería tradicional andina a tus familiares y amistades.
+Mantenemos la misma calidez de atención y disponibilidad de humitas calientes tanto en el primer turno matutino como al anochecer.
 
-18. ¿Cuál es la política del local sobre el acompañamiento con mascotas educadas?
-Las mascotas pequeñas y tranquilas son recibidas con agrado en las mesas más próximas al ingreso del salón y áreas de mayor ventilación natural.
+Te sugerimos visitarnos en tus horas libres para desconectarte del ajetreo y consentirte con un rincón acogedor de tradición.
 
-Agradecemos que permanezcan con su correa puesta para resguardar la serenidad de los demás comensales y el orden general del espacio.
+--------------------------------------------------------------------------------
+PREGUNTA 18: ¿Tienen enchufes accesibles para recargar teléfonos móviles?
+--------------------------------------------------------------------------------
+RESPUESTA 18:
+Contamos con tomas de corriente ubicadas discretamente cerca de varias mesas para que puedas recargar la batería de tu dispositivo móvil. Esta facilidad permite a los visitantes cargar sus celulares mientras saborean un café o revisan sus fotografías de viaje con comodidad.
 
-Es muy habitual que los vecinos del centro hagan una parada durante su caminata diaria junto a sus perritos para disfrutar de un café caliente.
+Cuidamos que los accesos eléctricos sean seguros y no interfieran con la atmósfera tradicional y rústica del salón.
 
-19. ¿Cuáles son los horarios de atención al público durante la semana?
-Iniciamos la atención desde las ocho de la mañana para ofrecer los primeros desayunos tradicionales y continuamos de corrido durante todo el día.
+Puedes solicitar una mesa cercana a un tomacorriente a nuestro personal de servicio al momento de hacer tu orden.
 
-El servicio se prolonga hasta las horas de la noche para acoger a quienes buscan refugiarse del frío con una humita caliente y un chocolate de taza espeso.
+--------------------------------------------------------------------------------
+PREGUNTA 19: ¿Cómo surgió el anhelo de rescatar la memoria gastronómica y el calor de las abuelas?
+--------------------------------------------------------------------------------
+RESPUESTA 19:
+Nuestra cafetería nació del deseo sincero de rendir tributo a las abuelas cajamarquinas que recibían a sus nietos con una olla de humitas calientes. Quisimos preservar esas recetas lentas y generosas que corrían el riesgo de perderse ante la prisa de la comida contemporánea.
 
-Las tardes a partir de las cuatro suelen ser el momento más animado, cuando el olor del café recién pasado inunda la calle tradicional.
+Cada detalle decorativo, desde las vasijas de barro hasta el aroma a leña y canela, fue concebido para evocar la nostalgia del hogar serrano.
 
-20. ¿Por cuál medio digital se pueden coordinar pedidos o consultar sobre los dulces del día?
-Puedes comunicarte directamente con nosotros enviándonos un mensaje por WhatsApp o contactándonos a través de nuestras redes sociales.
+Ese amor por nuestras raíces y el cariño al prójimo es el corazón palpitante que define a La Abuela Café en cada jornada.
 
-Por ese medio te informamos sobre las humitas recién salidas de la olla, los queques del día y coordinamos pedidos especiales para recoger al paso.
+--------------------------------------------------------------------------------
+PREGUNTA 20: ¿Por qué canales puedo consultar la disponibilidad del día o hacer encargos anticipados?
+--------------------------------------------------------------------------------
+RESPUESTA 20:
+Puedes contactarnos a través de nuestra mensajería móvil de WhatsApp o visitarnos personalmente en nuestro local en Dos de Mayo 330. Nuestro equipo responderá con amabilidad tus dudas sobre las variedades de humitas disponibles en olla y postres del día.
 
-Estaremos felices de atenderte con la amabilidad y el cariño que siempre han caracterizado la hospitalidad de nuestra mesa.
+En caso de querer reservar fuentes especiales para agasajos familiares, te recomendamos escribirnos con un día de anticipación.
+
+Estaremos siempre encantados de recibirte con una sonrisa sincera y servirte lo mejor de nuestra tradición cajamarquina.
