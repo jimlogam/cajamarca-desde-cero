@@ -2,7 +2,7 @@ Nombre: Cafétos movil
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Cafetería
+Categoría Maps: Cafetería, Cafetería móvil
 Dirección: Av. Hoyos Rubio 890, Cajamarca 06001
 Teléfono: 901 001 886
 Rating: 4.5
@@ -13,175 +13,169 @@ Longitud: -78.5076066
 Google Maps: https://www.google.com/maps?cid=8285361967458748270
 Place Id: ChIJCSrAz-ZbspERbgfpyc-E-3I
 Fotos: Cafétos movil.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdr-ODg9I1SD9ftqxT3hjWRBkckdNK78o3VRiAt4ltt-4U01GmYK1bs0vy_zXaDR8gbHYUe6DXOhUuCvYZw8ItBn6OfSHL8_Y_k5MooSE81bICE0u_00O1FCVJJFz04t6NY6pZbcfJlnuI=w1600-h1200-k-no
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a Cafétos movil. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Av. Hoyos Rubio 890, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Link foto: https://lh3.googleusercontent.com/p/AF1QipN-placeholder=w1600-h1200-k-no
+================================================================================
+================================================================================
+Texto de bienvenida:
+En Cafétos movil te invitamos a disfrutar del mejor café de especialidad al paso y en movimiento en la avenida General Rafael Hoyos Rubio 890 en Cajamarca. Con una destacada calificación de 4.5 estrellas, llevamos la excelencia del barismo profesional a un formato ágil y moderno con espressos perfectos, bebidas frías, sándwiches artesanales y postres caseros. Disfruta de un servicio dinámico, empaques ecológicos y la mejor energía para tus mañanas. ¡Ven a recargar tu jornada con café de verdad!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué métodos de extracción y bebidas baristas caracterizan la carta móvil?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: Voy camino al trabajo en la avenida Hoyos Rubio y necesito un café al paso, ¿me despachan al instante?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Nuestra atención móvil y ágil está pensada para acompañar tu jornada sin perder un segundo.
+En nuestra estación de café trabajamos con granos arábicos de estricta altura de Jaén y San Ignacio, tostados artesanalmente para resaltar sus notas de panela dulce, cacao criollo y nueces tostadas.
 
-Te servimos al instante un café pasado humeante en vaso térmico y un sándwich caliente para que continúes tu camino con energía y a tiempo en Cafétos movil.
+Servimos espressos calibrados con precisión, cappuccinos aterciopelados con leche emulsionada a temperatura óptima, lattes suaves con arte latte y café americano limpio en formatos prácticos para llevar. Cada servicio se prepara con granos recién molidos.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿A qué distancia me encuentro de su punto si salgo del Real Plaza?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Estamos a tan solo 640 metros de distancia del centro comercial, papachito.
+Ofrecemos también bebidas de autor como cold brew refrescante macerado en frío durante doce horas consecutivas, frappés de moka y lattes helados saborizados con vainilla o caramelo casero.
 
-Basta con dar una caminata fresca de siete u ocho minutos cruzando hacia la Avenida Hoyos Rubio 890 para disfrutar de nuestras bebidas. Si llevas paquetes pesados, una mototaxi te deja en nuestra puerta en menos de tres minutos.
+2. ¿A qué distancia se encuentra Cafétos movil respecto al Centro Comercial El Quinde?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: Solo tengo saldo en mi celular, ¿puedo cancelar con Yape o Plin?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Aceptamos pagos rápidos y seguros con transferencias directas de Yape y Plin desde tu teléfono.
+El local se localiza a solo 668 metros (0.67 km) del C.C. El Quinde, representando una caminata de unos siete a ocho minutos por la avenida Hoyos Rubio. Es una conexión directa, pavimentada y muy concurrida.
 
-También recibimos cobros con tarjetas de débito y crédito sin comisiones añadidas, facilitándote una compra rápida y sin enredos de monedas.
+Trabajadores de oficinas bancarias, transeúntes y compradores del centro comercial pueden acercarse con facilidad para adquirir café de especialidad de calidad superior antes de iniciar sus actividades. El acceso es fluido y seguro.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: Mi teléfono celular se quedó casi sin batería, ¿me facilitan un punto de recarga?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Te asistimos de inmediato con conexiones de corriente disponibles y cables de carga compatibles en barra.
+Esta corta distancia sitúa a nuestra propuesta como el punto preferido para aprovisionarse de café al paso en el cuadrante comercial norte.
 
-Podrás recargar tu equipo rápidamente mientras disfrutas de una pausa agradable con una bebida caliente.
+3. ¿Cuáles son los sándwiches artesanales y opciones saladas para el desayuno?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: Si me ubico en el Mercado Central de Cajamarca, ¿cuánto tiempo toma llegar en mototaxi?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-La distancia desde el Mercado Central es de aproximadamente 950 metros.
+Preparamos sándwiches al paso en panes ciabatta y franceses recién salidos del horno, destacando el sándwich de pollo deshilachado con mayonesa casera y apio fresco, y el sándwich mixto caliente con queso andino cajamarquino derretido.
 
-Cualquier mototaxi de barrio te traslada en apenas tres a cuatro minutos directos por vías fluidas, o puedes caminar unas diez cuadras tranquilas disfrutando del movimiento de la ciudad.
+Ofrecemos además sándwiches de jamón del país con salsa criolla de cebolla morada, empanadas horneadas de carne sazonada y quiches individuales de verduras frescas. Son alternativas prácticas y muy sustanciosas.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: La mañana comenzó con viento frío en la avenida, ¿qué tienen listo para calentar el cuerpo?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Para combatir el fresco te servimos de inmediato un café expreso bien cargado, capuchino con abundante espuma o un chocolate caliente artesanal espeso.
+Cada sándwich se empaca en envoltorios térmicos antigrasa para que conserve su temperatura caliente mientras el cliente se desplaza.
 
-Ambas opciones te devolverán el calor y la vitalidad necesaria para continuar tus actividades cotidianas.
+4. ¿Qué variedad de repostería casera y postres dulces tienen disponibles?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: Traigo maletas de viaje o bolsas de compras, ¿hay espacio para descansar cómodamente?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-El espacio está acondicionado para que hagas una escala relajada y sin incomodidades.
+Nuestra vitrina exhibe porciones de torta húmeda de chocolate con fudge artesanal, queques de plátano con nueces horneados a diario, galletas de avena con pasas y alfajores suaves de maicena con abundante manjar blanco cajamarquino.
 
-Contamos con mesas donde resguardar tus pertenencias a buen recaudo mientras disfrutas de un buen café en Cafétos movil.
+Disponemos asimismo de brownies densos con nueces tostadas y porciones individuales de pie de manzana perfumadas con canela andina. Son el complemento ideal para una taza de café americano o cappuccino.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué tan cerca queda del histórico Cuarto del Rescate si vengo en mototaxi?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Nos ubicamos a unos 1.4 kilómetros del Cuarto del Rescate.
+Cada dulce se prepara con ingredientes de primera línea para garantizar frescura y un sabor casero inconfundible en cada mordisco.
 
-En mototaxi o taxi el trayecto toma alrededor de cinco minutos, siendo un salto corto para pasar del centro histórico hacia una de las avenidas principales más comerciales.
+5. ¿Cuál es la separación exacta hacia el Centro Comercial Real Plaza?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Tienen opciones saludables o jugos naturales para quienes cuidan su alimentación?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Disponemos de jugos preparados con fruta fresca del día, infusiones aromáticas digestivas y opciones de sándwiches ligeros con quesos locales.
+La separación hacia el C.C. Real Plaza es de 991 metros (0.99 km), lo que equivale a unos doce minutos de caminata o apenas tres minutos en transporte menor. Conecta la avenida Evitamiento con el sector de Hoyos Rubio.
 
-Podrás disfrutar de una pausa nutritiva y ligera en cualquier momento del día.
+Quienes realizan compras departamentales o asisten a las salas de cine pueden trasladarse rápidamente hacia nuestra estación para disfrutar de café al paso de excelente factura. Las aceras son continuas y cómodas.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Se pueden hacer pedidos corporativos para enviar por delivery a oficinas cercanas?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Coordinamos despachos rápidos por nuestro canal oficial de WhatsApp.
+Esta cercanía facilita hacer una parada express para recargar energías sin tener que esperar en largas filas comerciales.
 
-Aseguramos recipientes herméticos que conservan el calor y la presentación de cada producto para que tu pedido llegue en óptimas condiciones a tu centro de labores.
+6. ¿Cómo opera el servicio de pedidos al paso y despacho rápido?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: Si vengo desde el Aeropuerto Armando Revoredo Iglesias, ¿cuál es la ruta más directa?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-La distancia desde el aeropuerto es de apenas 2.3 kilómetros en línea recta por la avenida principal.
+Los comensales pueden realizar sus pedidos directamente en barra y recibir sus cafés y sándwiches en tiempos mínimos gracias al flujo sincronizado de nuestra maquinaria barista. El despacho se efectúa con máxima celeridad.
 
-Abordando un taxi a la salida de tu vuelo llegarás en menos de ocho minutos a la altura de Hoyos Rubio 890, siendo una parada estratégica y cómoda antes de ingresar al casco monumental.
+Para pedidos corporativos de oficinas y empresas de la zona, coordinamos envíos con anticipación a través de nuestro número de WhatsApp oficial, entregando las bebidas y bocadillos en bandejas seguras. Se garantiza puntualidad estricta.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: Llegamos en grupo sin reserva previa, ¿tienen capacidad para atendernos con rapidez?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Reorganizamos nuestro espacio en un instante para que todo tu equipo sea atendido con la mayor agilidad.
+Las bebidas calientes se entregan en vasos térmicos de doble pared con tapas dosificadoras herméticas para evitar cualquier fuga durante la marcha.
 
-Servimos rondas rápidas de cafés, bebidas frías y bocaditos salados para que continúen sus actividades sin retrasos.
+7. ¿Qué alternativas refrescantes de tés helados y jugos naturales ofrecen?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿El ambiente cuenta con conexión a internet Wi-Fi para enviar mensajes o trabajar?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-Ofrecemos conexión Wi-Fi de alta velocidad para nuestros visitantes.
+Servimos jugos naturales preparados al instante con frutas frescas seleccionadas como maracuyá aromático, fresas y naranja recién exprimida, perfectos para rehidratarse durante las horas de mayor calor.
 
-Podrás conectarte con tu laptop o celular sin cortes para revisar correos, enviar reportes o coordinar tareas en un espacio dinámico en Cafétos movil.
+Disponemos también de tés helados infusionados con té verde y frutas deshidratadas, además de limonadas caseras saborizadas con hierbabuena fresca y toques de jengibre. Son bebidas sumamente ligeras y digestivas.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿A cuántos minutos en transporte queda desde la Plaza de Armas de Cajamarca?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Desde la Plaza de Armas la distancia es de aproximadamente 1.4 kilómetros.
+Para quienes buscan una colación nutritiva, ofrecemos batidos de leche fresca con frutas andinas endulzados con miel pura de abeja.
 
-Tomando un taxi en las afueras de la zona rígida monumental llegarás en unos cinco minutos directos hacia la Avenida Hoyos Rubio.
+8. ¿Qué distancia media hay hacia el emblemático Mercado Central de Cajamarca?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Qué producto dulce recomiendan para una merienda rápida de media tarde?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Nuestros alfajores artesanales y queques caseros rellenos con manjar blanco cajamarquino son la elección predilecta.
+Nos situamos a 1282 metros (1.28 km) del Mercado Central de Cajamarca, demandando un trayecto de unos cuatro a cinco minutos en mototaxi o unos quince minutos de caminata. Conecta el mercado de abastos con la avenida Hoyos Rubio.
 
-Son suaves, rendidores y con el dulzor exacto para complementar una taza de café recién pasado.
+Personas que realizan trámites o compras en el centro tradicional pueden movilizarse con fluidez hacia nuestra estación para tomar café de especialidad en un ambiente dinámico. El trayecto discurre por calles pavimentadas.
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Venden café en grano entero o molido para llevar a casa?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Mantenemos paquetes de café selecto cosechado en valles de altura del norte peruano.
+Desde las inmediaciones del local circulan líneas continuas de transporte menor que garantizan un traslado rápido hacia cualquier punto.
 
-Realizamos la molienda al instante de acuerdo al método que utilices en casa, empacado herméticamente para preservar toda la fragancia y frescura.
+9. ¿Tienen promociones madrugadoras y combos para trabajadores?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Atienden los fines de semana en horario corrido?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Mantenemos atención continua durante el fin de semana para recibir a familias y trabajadores que circulan por la zona.
+Ofrecemos combos mañaneros que integran una taza grande de café americano o pasado con un sándwich a elección por un precio promocional muy accesible durante las primeras horas del servicio. Son muy solicitados por oficinistas.
 
-Es un punto ideal para hacer una pausa y recargar energías con una bebida reconfortante.
+Presentamos también descuentos en pedidos múltiples de café para equipos de trabajo que solicitan desayunos institucionales para sus reuniones. Fomentamos una atención eficiente y conveniente.
 
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Tienen sándwiches calientes o empanadas recién horneadas para calmar el apetito?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Nuestra vitrina ofrece sándwiches triples, empanadas de carne y pollo, y tostadas calientes preparadas en el acto.
+Las promociones se anuncian visiblemente en nuestro mostrador y a través de las redes sociales oficiales del establecimiento.
 
-Son opciones sustanciosas y económicas pensadas para resolver un desayuno nutritivo o una merienda de tarde en Cafétos movil.
+10. ¿De qué formas se puede cancelar el consumo en barra?
 
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo es la facilidad de transporte y parada de vehículos frente al local?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-La Avenida Hoyos Rubio cuenta con amplio espacio y berma para el descenso rápido y seguro de pasajeros de taxis o mototaxis.
+Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, agradeciendo a los clientes disponer de cambio menudo para agilizar las operaciones en caja. Entregamos comprobante electrónico de inmediato.
 
-Podrás descender y abordar con absoluta tranquilidad frente a nuestras instalaciones.
+Recibimos transferencias móviles instantáneas mediante códigos QR de Yape y Plin habilitados en un lugar visible de la barra. Es un medio sumamente ágil, higiénico y preferido por los comensales habituales.
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por cuál medio digital puedo consultar promociones o hacer consultas rápidas?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-La vía más ágil es escribirnos a nuestro canal de WhatsApp oficial y redes sociales.
+Aceptamos también cobros con tarjetas bancarias de débito y crédito a través de terminales electrónicos inalámbricos POS.
 
-Te responderemos al instante confirmando disponibilidad o preparando tu pedido para que llegues directo a recoger en Cafétos movil.
-================================================================================
+11. ¿A cuántos metros queda el histórico Cuarto del Rescate?
+
+El establecimiento dista 1385 metros (1.38 km) del Cuarto del Rescate, lo que representa un viaje de unos cinco minutos en mototaxi o taxi. Comunica el enclave histórico del centro con la moderna zona comercial de Hoyos Rubio.
+
+Turistas y visitantes que culminan sus recorridos por las salas de piedra incaicas pueden desplazarse con rapidez hacia nuestro punto para probar café peruano de alta calidad en un formato ágil. La ruta vial es fluida.
+
+La cercanía facilita combinar visitas culturales con una parada gastronómica moderna y sin demoras innecesarias.
+
+12. ¿Qué normas de salubridad y bioseguridad rigen en la estación móvil?
+
+En Cafétos movil mantenemos estrictas prácticas higiénicas que comprenden la desinfección continua de lanzas de vapor, molinos micrométricos, portafiltros y superficies de despacho. El personal viste uniforme pulcro con cofias.
+
+Los insumos lácteos y carnes se conservan bajo refrigeración constante para salvaguardar su frescura y valor alimenticio. El agua empleada en las preparaciones pasa por filtros purificadores certificados de alta eficiencia.
+
+El área de atención se limpia periódicamente a lo largo de toda la jornada para asegurar un servicio higiénico y confiable a todos los clientes.
+
+13. ¿Cómo es el diseño y la atención en el módulo de Hoyos Rubio 890?
+
+El módulo en la avenida General Rafael Hoyos Rubio 890 presenta un diseño moderno, funcional y llamativo, optimizado para una atención ágil y con altos estándares baristas a la vista de los transeúntes.
+
+Disponemos de una pequeña barra con taburetes para quienes desean tomar su café en el lugar mientras observan la extracción o conversan brevemente con el barista. El ambiente es juvenil, limpio y muy dinámico.
+
+La música de fondo ameniza la espera con ritmos frescos a volumen moderado que transmiten energía positiva a quienes inician su día.
+
+14. ¿Qué tan lejos se ubica la Iglesia San Francisco de Cajamarca?
+
+El local se encuentra a 1474 metros (1.47 km) de la Iglesia San Francisco de Cajamarca, demandando un trayecto vehicular de unos cinco a seis minutos en transporte urbano. Conecta el complejo virreinal con Hoyos Rubio.
+
+Paseantes y turistas que admiran las catacumbas y el museo franciscano pueden dirigirse fácilmente hacia nuestra estación para continuar su jornada con una bebida energizante en mano. El acceso es directo por vías asfaltadas.
+
+Desde la puerta del establecimiento es muy sencillo abordar mototaxis o taxis seguros hacia cualquier cuadrante urbano.
+
+15. ¿Qué características tienen los granos de café y su tueste?
+
+Trabajamos con granos de café arábica cosechados a más de 1600 metros de altitud en microcuencas cafetaleras de Jaén, seleccionados por su fragancia balanceada, cuerpo sedoso y notas a chocolate con leche y miel de caña.
+
+El grano recibe un tostado medio artesanal que resalta los azúcares naturales sin generar notas quemadas ni amargores agresivos. La molienda se realiza al instante para cada extracción.
+
+Este rigor técnico asegura que cada taza exprese la totalidad de los aromas y aceites esenciales propios del origen cajamarquino.
+
+16. ¿Qué cualidades distinguen el servicio y la calidez del personal?
+
+Nuestro personal se caracteriza por una atención rápida, alegre y respetuosa, preocupándose por consultar el gusto de cada cliente respecto a la temperatura y la dulzura de su bebida con total cordialidad.
+
+Nos esforzamos por despachar los pedidos en tiempos mínimos sin sacrificar la precisión técnica del barismo profesional. La eficiencia y la sonrisa sincera guían nuestro trato cotidiano.
+
+Agradecemos sinceramente las recomendaciones que nuestros comensales difunden en redes sociales sobre la calidad de nuestro café al paso.
+
+17. ¿Qué alternativas existen para el estacionamiento temporal de vehículos?
+
+En la avenida General Rafael Hoyos Rubio y las calles laterales del sector es factible estacionar momentáneamente motocicletas y automóviles particulares en zonas autorizadas de la calzada. La vía cuenta con buena amplitud.
+
+Quienes se detienen brevemente para retirar pedidos de café y sándwiches pueden estacionar sin perturbar el tránsito vehicular fluido de la avenida. La zona cuenta con buena visibilidad diurna y nocturna.
+
+Se aconseja a los conductores aparcar respetando los accesos residenciales vecinos para una convivencia comunitaria armoniosa.
+
+18. ¿Cómo protegen las bebidas calientes y frías para el traslado?
+
+Sellamos los vasos térmicos con tapas dosificadoras herméticas de ajuste perfecto que impiden fugas accidentales mientras el cliente camina o conduce su vehículo. Entregamos portavasos de cartón rígido para pedidos múltiples.
+
+Los sándwiches y postres se acondicionan en envoltorios térmicos antigrasa y bolsas de papel kraft resistentes que preservan la temperatura y textura crocante de los alimentos. Suministramos servilletas de cortesía.
+
+Este cuidado asegura que los productos lleguen en excelentes condiciones hasta la oficina, el aula universitaria o el hogar.
+
+19. ¿Cuál es el concepto y la propuesta innovadora de Cafétos movil?
+
+Cafétos movil nació con la visión de acercar el café de especialidad a la dinámica vida urbana moderna, demostrando que la rapidez en el servicio puede convivir en perfecta armonía con los más altos estándares baristas.
+
+El concepto persigue democratizar el acceso al buen café de altura en las calles cajamarquinas, ofreciendo una alternativa fresca, ecológica y llena de vitalidad para las personas en movimiento. La calidad del grano es innegociable.
+
+Nuestra meta permanente sigue siendo llenar de energía y sonrisas las mañanas de Cajamarca en cada vaso servido con maestría.
+
+20. ¿En qué franja horaria atienden al público en Hoyos Rubio?
+
+Atendemos al público de lunes a sábado desde muy temprano a partir de las siete de la mañana hasta las ocho de la noche de manera ininterrumpida, cubriendo las horas clave para cafés madrugadores, desayunos y lonches vespertinos.
+
+Los sábados el servicio se mantiene activo para acompañar a quienes realizan trámites o paseos por el cuadrante comercial norte. Toda la carta de bebidas calientes, frías y sándwiches se encuentra disponible.
+
+Para consultar sobre pedidos institucionales anticipados por WhatsApp, los usuarios pueden comunicarse directamente a nuestras líneas oficiales.
