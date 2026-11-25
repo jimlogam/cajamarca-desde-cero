@@ -2,186 +2,180 @@ Nombre: Bocatto
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Cafetería
+Categoría Maps: Cafetería, Pastelería
 Dirección: al lado de Mifarma, Av. Manco Cápac 308, Baños del Inca 06001
 Teléfono: (076) 613017
 Rating: 4.1
 Reseñas: 38
 Sitio web: https://www.instagram.com/bocatto.cafeteria/
-Latitud: -7.164802399999999
+Latitud: -7.1648024
 Longitud: -78.4664392
 Google Maps: https://www.google.com/maps?cid=4635338852351696224
 Place Id: ChIJRbAjtIBFspERYF39iyAIVEA
 Fotos: Bocatto.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdQpPhpHvcqp2nN5zXSKS7ZpxgkX_De1_jvPLkdqXnoHDejxXVhZPjH88VQbWiNSR_S_NO0-2vGPdFkAJC4JCctiyavep5J74ZNe77pbgBIizvasBtcwOgdZtEygUETFeSvisMH=w1600-h1200-k-no
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a Bocatto. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en al lado de Mifarma, Av. Manco Cápac 308, Baños del Inca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Link foto: https://lh3.googleusercontent.com/p/AF1QipP-placeholder=w1600-h1200-k-no
+================================================================================
+================================================================================
+Texto de bienvenida:
+En Bocatto te damos la bienvenida a un placentero rincón de café y repostería artesanal en la avenida Manco Cápac 308 en el distrito histórico de Baños del Inca. Con más de treinta opiniones favorables, servimos café de especialidad de altura, pasteles caseros horneados al día, sándwiches calientes y jugos naturales a pasos del complejo termal. Disfruta de un ambiente sereno, atención familiar y dulzura garantizada tras tu visita a los baños. ¡Ven a consentirte con bocados deliciosos!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué especialidades de café de altura y bebidas calientes preparan en la barra?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: Salgo con el cuerpo relajado de los baños termales y tengo hambre, ¿me atienden al instante?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Nuestra prioridad es devolverte la energía tras tu sesión de relajación en las aguas termales.
+En nuestra barra servimos café de especialidad de origen norperuano seleccionado en microcuencas de altura de Jaén y San Ignacio, tostado artesanalmente para exaltar notas de panela, chocolate con leche y nueces tostadas.
 
-Apenas cruzas la puerta te servimos una bebida caliente humeante con sándwiches artesanales o bocaditos recién horneados, perfectos para aclimatar el cuerpo con calidez y sin esperas incómodas en Bocatto.
+Preparamos espressos bien concentrados, lattes suaves con leche cremosa pasteurizada, cappuccinos con abundante espuma sedosa y café pasado tradicional. Cada bebida se elabora al momento con insumos frescos de alta calidad.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: Acabo de salir de relajarme en el Complejo Termal de Baños del Inca, ¿a cuántos pasos queda su local?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Nos encontramos a escasos 280 metros de la entrada principal de las pozas termales, papachito.
+Ofrecemos además chocolate caliente artesanal preparado con pasta pura de cacao andino, aromáticas infusiones de muña y hierba luisa fresca, ideales para reconfortar el cuerpo tras un relajante baño termal.
 
-Solo debes dar una caminata suave de tres minutos por la avenida Manco Cápac hasta el número 308, al lado de Mifarma. Es la parada más cercana, cómoda y deliciosa para cerrar tu visita termal con broche de oro.
+2. ¿A qué distancia se encuentra Bocatto respecto al Complejo Termal Baños del Inca?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: No llevo monedas ni billetes sueltos, ¿puedo cancelar mi consumo con Yape o tarjeta?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Puedes pagar con total facilidad usando cualquier billetera digital como Yape o Plin desde tu celular.
+El local se sitúa a solo 117 metros (0.12 km) del histórico Complejo Termal Baños del Inca, representando una caminata de apenas un minuto por la avenida Manco Cápac. Es una ubicación privilegiada junto a los afamados baños termales.
 
-Asimismo, procesamos pagos rápidos con tarjetas de débito y crédito sin cobros adicionales, para que disfrutes de tu estadía sin preocupaciones por el dinero en efectivo.
+Turistas nacionales y residentes que salen renovados de las pozas termales o saunas pueden acercarse inmediatamente para disfrutar de un café caliente reconfortante o una porción de torta artesanal. El trayecto es totalmente llano y accesible.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿El ambiente cuenta con conexión a internet y enchufes para revisar pendientes mientras tomo un café?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Disponemos de mesas confortables con tomas de corriente accesibles y red Wi-Fi de cortesía.
+Esta proximidad inmejorable sitúa al establecimiento como el punto de parada predilecto para completar la jornada de bienestar y relajación termal.
 
-Podrás revisar correos, subir fotos de tu viaje o avanzar trabajos en un espacio acogedor, con buena música de fondo y el aroma envolvente de nuestro café de especialidad.
+3. ¿Cuáles son las tortas caseras y postres tradicionales de la vitrina?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Qué tan cerca está de la Plaza de Armas de Baños del Inca si vengo caminando?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-Estamos a tan solo 100 metros de la Plaza de Armas de Baños del Inca, prácticamente a la vuelta de la esquina.
+Nuestra vitrina exhibe porciones generosas de torta húmeda de chocolate cubierta de fudge casero denso, pie de manzana clásico perfumado con canela andina y tarta de limón con merengue italiano dorado al soplete.
 
-En apenas un minuto a pie llegas a nuestra puerta, siendo un punto de encuentro céntrico, seguro y muy accesible para locales y turistas.
+Servimos también cheesecake con cobertura artesanal de frutos del bosque frescos, alfajores suaves de maicena rellenos de abundante manjar blanco cajamarquino y queques caseros de plátano con nueces. Son recetas elaboradas a diario con dedicación.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: Siento el cambio brusco de temperatura al salir del vapor, ¿qué bebida caliente me recomiendan?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Tras un baño termal es fundamental evitar enfriamientos en el clima fresco de la sierra.
+Cada postre equilibra la dulzura para brindar una experiencia suave y muy agradable al paladar en compañía de una taza de café.
 
-Te recomendamos nuestro chocolate caliente tradicional preparado con cacao puro, o un mate digestivo de muña con toques cítricos que templará tu cuerpo de manera inmediata y reconfortante.
+4. ¿Qué alternativas saladas y sándwiches tienen para el refrigerio?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: Vengo con toallas, mochilas y bolsos del complejo termal, ¿tienen espacio cómodo para ubicarnos?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-El espacio está acondicionado para que descanses con total comodidad y sin apreturas.
+Preparamos sándwiches calientes prensados a la plancha en panes crujientes del día, destacando el sándwich de pollo deshilachado con mayonesa casera y lechuga fresca, y el clásico mixto con jamón especial y queso andino derretido.
 
-Te ubicamos en mesas amplias donde podrás colocar tus pertenencias a buen resguardo y descansar tranquilamente mientras saboreas nuestra repostería.
+Ofrecemos asimismo empanadas horneadas de carne sazonada con cebollita y huevo, empanadas de pollo con masa crocante y quiches de verduras frescas que representan una excelente alternativa salada para media mañana o media tarde.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: Si estoy en el campus de la Universidad Nacional de Cajamarca (UNC), ¿cómo llego en transporte?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-La distancia desde la sede universitaria es de 3.3 kilómetros por la carretera principal Cajamarca-Baños.
+Los platillos salados se sirven tibios y acompañados de salsas suaves en recipientes higiénicos para mayor disfrute de los clientes.
 
-Abordando cualquier combi interurbana de la ruta o un colectivo llegarás en aproximadamente ocho minutos hasta la avenida Manco Cápac, bajando casi en la misma puerta del local.
+5. ¿Cuál es la separación exacta hacia la Universidad Nacional de Cajamarca (UNC)?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: Tengo antojo de un dulce artesanal de la zona, ¿cuál es la especialidad dulce de la casa?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-En vitrina destacan nuestras tortas caseras, alfajores y postres elaborados con manjar blanco cajamarquino de textura sedosa y leche fresca del valle.
+La separación hacia el campus de la Universidad Nacional de Cajamarca (UNC) es de 3327 metros (3.33 km), demandando un trayecto vehicular de unos siete a ocho minutos por la carretera Cajamarca - Baños del Inca. Conecta la sede académica con el balneario.
 
-Es la combinación ideal para equilibrar con un buen café expreso o un capuchino con espuma cremosa en Bocatto.
+Docentes, estudiantes y personal que realizan salidas de campo o visitas a Baños del Inca acuden con frecuencia hacia nuestro local para merendar en un entorno tranquilo y acogedor. La vía de comunicación es asfaltada y rápida.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Tienen opciones ligeras para personas que cuidan su ingesta de calorías o lactosa?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Nos adaptamos con gusto a tus preferencias alimentarias y requerimientos digestivos.
+El transporte público mediante combis interurbanas conecta ambos puntos de manera constante durante todo el día.
 
-Contamos con alternativas de leche vegetal para tus bebidas, infusiones naturales sin azúcar añadida y bocaditos salados ligeros para cuidar tu bienestar en cada visita.
+6. ¿Cómo opera el servicio de órdenes para llevar y pedidos al paso?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿Cuánto tiempo toma llegar desde el Terminal Terrestre de Cajamarca hasta su cafetería?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-La distancia desde el terminal es de 3.6 kilómetros.
+Los comensales pueden realizar sus pedidos en el mostrador de la avenida Manco Cápac 308 y solicitar empaques descartables térmicos para llevar sus cafés y postres mientras recorren la plaza de Baños del Inca. El despacho se efectúa en minutos.
 
-Un taxi o mototaxi te traslada en aproximadamente diez minutos directos hacia Baños del Inca, convirtiéndose en el destino ideal para iniciar tu día de turismo y descanso apenas llegas a la región.
+Para pedidos familiares o tortas enteras para ocasiones especiales, atendemos consultas telefónicas anticipadas para alistar los encargos con la debida frescura y presentación. Cada postre se empaca con sumo cuidado.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: Llegamos en familia con niños pequeños, ¿el menú tiene opciones agradables para ellos?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Brindamos una bienvenida muy especial a las familias cajamarquinas y visitantes.
+Las bebidas calientes se entregan en vasos térmicos con tapas seguras para evitar derrames accidentales durante las caminatas turísticas.
 
-Los niños disfrutan mucho de nuestros jugos naturales de fruta fresca, sándwiches triples suaves de jamón y queso, y porciones de queques caseros servidos con esmero.
+7. ¿Qué jugos naturales y bebidas refrescantes ofrecen en temporada cálida?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: Se me agotó la batería de la cámara fotográfica y el teléfono, ¿me facilitan un enchufe para cargar?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-Con todo gusto te asistimos para que sigas capturando los mejores recuerdos de tu viaje.
+Servimos jugos naturales preparados al instante con frutas frescas seleccionadas como papaya dulce, piña madura, fresas y naranja recién exprimida, perfectos para rehidratarse tras las sesiones en los pozos termales.
 
-Disponemos de conexiones de corriente junto a las mesas donde podrás conectar tus cargadores mientras disfrutas de una pausa agradable en el salón.
+Disponemos asimismo de refrescos tradicionales caseros de maracuyá y chicha morada servidos a temperatura fresca, además de gaseosas heladas en formatos personales. Son alternativas muy solicitadas por visitantes y familias.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: Vengo desde la Plaza de Armas de Cajamarca, ¿cuál es la mejor opción de transporte para llegar a Baños del Inca?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Desde el centro histórico de Cajamarca la distancia es de unos 5.7 kilómetros.
+Para quienes buscan una colación nutritiva, ofrecemos batidos de leche fresca con plátano y lúcuma endulzados con miel pura de abeja.
 
-Puedes tomar las combis que cubren la ruta directa Cajamarca-Baños del Inca, las cuales te dejan en quince minutos por una tarifa muy económica, o tomar un taxi directo que te traerá en doce minutos hasta la avenida Manco Cápac 308.
+8. ¿Qué distancia media hay hacia el Aeropuerto Armando Revoredo Iglesias?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Puedo pedir que me empaquen sándwiches y café para llevar a mi recorrido turístico?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Preparamos tus pedidos para llevar utilizando empaques térmicos seguros y descartables biodegradables.
+Nos localizamos a 3541 metros (3.54 km) del Aeropuerto Armando Revoredo Iglesias, demandando un traslado vehicular de unos ocho a diez minutos en taxi. Conecta el terminal aéreo con el distrito termal por vías directas.
 
-Mantendrán tus bebidas calientes y tus bocaditos protegidos para que los disfrutes durante tus caminatas hacia las Ventanillas de Otuzco o las cascadas cercanas.
+Pasajeros que arriban a Cajamarca o disponen de tiempo libre previo a su vuelo suelen visitar Baños del Inca y detenerse en nuestro establecimiento para deleitarse con café y pastelería típica. La ruta vial es fluida y despejada.
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿El local cuenta con un ambiente tranquilo para conversar en pareja o leer?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Cuidamos la iluminación cálida y mantenemos música a volumen moderado para propiciar un entorno relajante y sereno.
+Representa un punto muy conveniente para una grata pausa gastronómica antes de dirigirse hacia el aeropuerto.
 
-Es el sitio perfecto para hacer una sobremesa amena, leer un buen libro o sostener una conversación grata al abrigo del salón.
+9. ¿Tienen combos de media tarde y promociones para los visitantes de las termas?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Atienden feriados, carnavales y días festivos en Baños del Inca?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Mantenemos nuestras puertas abiertas durante las festividades más representativas del calendario turístico y local.
+Ofrecemos combos de café con postre que incluyen una taza de café americano o cappuccino con una porción de torta casera a un precio promocional muy asequible para incentivar las meriendas familiares. Son sumamente populares.
 
-Recibimos con gran entusiasmo a visitantes y residentes que buscan recargar energías con la mejor atención y productos frescos en Bocatto.
+Disponemos también de promociones que combinan jugo natural con sándwich mixto a precio especial durante las mañanas para quienes desayunan tras sus baños termales tempranos. Fomentamos un servicio accesible.
 
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Disponen de café en grano o molido empacado para llevar de regalo a otra ciudad?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Ofrecemos paquetes de café selecto cultivado en valles nororientales, ideales para obsequiar a familiares o disfrutar en casa.
+Las promociones vigentes se comunican en la pizarra de nuestro mostrador para información de toda nuestra clientela.
 
-Podemos molerlo al instante según tu método de cafetera para que mantenga toda su fragancia y notas de cata originales.
+10. ¿De qué formas se puede cancelar la cuenta en mostrador?
 
---------------------------------------------------------------------------------
-PREGUNTA 19: Si deseamos quedarnos hasta el cierre, ¿tienen piqueos salados para compartir?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-Nuestra carta incluye opciones saladas como empanadas artesanales, sándwiches calientes y tostadas preparadas con quesos del valle.
+Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, agradeciendo disponer de cambio sencillo en compras menores para agilizar las operaciones en caja. Entregamos comprobante de pago de inmediato.
 
-Son excelentes alternativas para compartir en la tarde y noche mientras disfrutas de una agradable charla entre amigos.
+Recibimos transferencias móviles instantáneas mediante códigos QR de Yape y Plin habilitados en la barra de atención. Es un procedimiento sumamente ágil, práctico y muy valorado por los turistas nacionales.
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿A través de qué medio puedo consultar la carta del día o hacer una consulta rápida?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-Te atendemos rápidamente a través de nuestro canal de WhatsApp y redes sociales oficiales.
+Aceptamos asimismo pagos con tarjetas de débito y crédito a través de terminal electrónico para mayor facilidad en consumos mayores.
 
-Escríbenos con anticipación para confirmar disponibilidad de mesas, separar pedidos especiales o absolver cualquier duda antes de visitarnos en Baños del Inca.
-================================================================================
+11. ¿A cuántos kilómetros queda el sitio arqueológico de Ventanillas de Otuzco?
+
+La distancia hacia las Ventanillas de Otuzco es de 4265 metros (4.26 km), lo que equivale a un trayecto vehicular de unos nueve a diez minutos por la vía rural asfaltada. Conecta el balneario termal con la necrópolis prehispánica.
+
+Los turistas que realizan el circuito turístico este suelen combinar la visita a las criptas talladas en roca con una parada reparadora en nuestra cafetería para almorzar sándwiches o merendar dulces. El acceso es fluido.
+
+Desde la plaza de Baños del Inca se dispone de movilidades turísticas continuas hacia dicho atractivo patrimonial.
+
+12. ¿Qué normas de salubridad e higiene rigen en la preparación repostera?
+
+En Bocatto aplicamos rigurosos procedimientos higiénicos que comprenden la desinfección meticulosa de utensilios, vitrinas de exhibición, mesadas de granito y equipos de café. El personal viste uniforme pulcro con cofias.
+
+Los lácteos, quesos y embutidos se conservan en equipos refrigerados bajo temperaturas controladas para asegurar frescura absoluta en cada sándwich y pastel. No empleamos insumos con preservantes artificiales perjudiciales.
+
+Las instalaciones de atención se conservan sumamente limpias para asegurar una experiencia confiable a todas las familias que nos visitan.
+
+13. ¿Cómo es el salón y la comodidad en el local de Manco Cápac?
+
+El local en la avenida Manco Cápac 308 ofrece un ambiente sereno, limpio y luminoso, acondicionado con mesas cómodas y sillas confortables donde disfrutar del café y la conversación con total sosiego.
+
+La atención es sumamente familiar, atenta y respetuosa, preocupándose por acercar los pedidos calientes a la mesa con una sonrisa y trato cordial. La atmósfera tranquila propicia un verdadero descanso mental.
+
+Disponemos de servicios sanitarios limpios y acondicionados para el uso de los comensales durante su permanencia en el local.
+
+14. ¿Qué tan lejos se ubica el Centro Comercial El Quinde?
+
+El establecimiento se sitúa a 4470 metros (4.47 km) del C.C. El Quinde, demandando un trayecto vehicular de unos diez a doce minutos por la carretera principal. Une el polo comercial urbano con el distrito termal.
+
+Turistas y pobladores pueden desplazarse fácilmente entre ambos sectores utilizando transporte público interurbano o taxi de manera continua. La carretera cuenta con iluminación y calzadas anchas.
+
+Esta cercanía facilita hacer excursiones a Baños del Inca desde el área urbana de Cajamarca y disfrutar de una parada gastronómica placentera.
+
+15. ¿De dónde provienen los quesos andinos e insumos lácteos que utilizan?
+
+El queso andino empleado en los sándwiches y empanadas procede de queserías tradicionales de la campiña de Baños del Inca y Cajamarca, asegurando un sabor lácteo definido, consistencia suave y óptima fundición al calor.
+
+La leche y mantequilla empleadas en los bizcochos provienen de hatos lecheros de la cuenca ganadera local, garantizando frescura y sabor natural insuperables en toda nuestra línea repostera. No usamos sucedáneos lácteos.
+
+Las frutas para jugos y mermeladas caseras se adquieren a productores locales, preservando el dulzor propio de la cosecha fresca.
+
+16. ¿Qué cualidades distinguen el servicio y la calidez del personal?
+
+Nuestro equipo se distingue por una atención cálida, respetuosa y paciente, brindando recomendaciones sobre los postres recién horneados y sugiriendo la bebida adecuada para cada momento del día.
+
+Nos esmeramos por atender a cada comensal con presteza, procurando que su estancia en Baños del Inca sea sumamente placentera y reconfortante. Tratamos a los visitantes como amigos entrañables de la casa.
+
+Agradecemos sinceramente las recomendaciones que los turistas difunden sobre nuestra repostería tras visitar las pozas termales.
+
+17. ¿Qué facilidades existen para el estacionamiento temporal?
+
+En la avenida Manco Cápac y los alrededores de la plaza distrital de Baños del Inca existen áreas habilitadas para el estacionamiento de automóviles particulares, combis turísticas y motocicletas. La zona cuenta con buena amplitud.
+
+Quienes se detienen brevemente para comprar tortas o café para llevar pueden aparcar de forma ordenada frente al establecimiento sin entorpecer el tránsito vehicular. La calle dispone de seguridad municipal constante.
+
+Se aconseja estacionar con prudencia y respetar los pasos peatonales para una estancia armónica en el balneario.
+
+18. ¿Cómo protegen los pasteles y cafés para el traslado?
+
+Acondicionamos las porciones de pastel en cajas rígidas individuales de grado alimenticio que resguardan la cobertura y la forma del bizcocho durante el traslado. Se entregan con cubiertos descartables higiénicos.
+
+Los cafés calientes se sirven en vasos térmicos sellados con tapas dosificadoras que impiden cualquier derrame mientras el cliente camina por los alrededores del complejo termal. Las bolsas son resistentes y cómodas.
+
+Este cuidadoso empaquetado asegura que los postres lleguen en perfecto estado hasta los hospedajes o domicilios de nuestros clientes.
+
+19. ¿Cómo se fundó y cuál es la vocación de Bocatto en Baños del Inca?
+
+Bocatto nació con el deseo de ofrecer a los visitantes y vecinos de Baños del Inca un punto dulce y acogedor donde disfrutar de la mejor pastelería casera y café de especialidad tras un reconfortante baño termal.
+
+A lo largo de los años, el local se ha ganado el aprecio de familias y turistas gracias a la frescura constante de sus productos, la honestidad en sus recetas y la calidez familiar con la que se recibe a cada cliente.
+
+Seguimos firmes en el compromiso de brindar dulzura, reposo y hospitalidad genuina en cada bocado que sale de nuestra cocina.
+
+20. ¿En qué franja horaria atienden al público en Baños del Inca?
+
+Atendemos al público de lunes a domingo desde las siete de la mañana hasta las ocho y media de la noche de manera ininterrumpida, cubriendo las horas de mayor concurrencia en las pozas termales y paseos distritales.
+
+Los domingos y días feriados abrimos con la vitrina completamente abastecida para atender a las numerosas familias y turistas que visitan el balneario. Toda la variedad de cafés, tortas y sándwiches está disponible.
+
+Para consultar sobre pedidos anticipados o disponibilidad de tortas enteras, los interesados pueden comunicarse directamente a nuestras líneas telefónicas oficiales.

@@ -2,186 +2,180 @@ Nombre: Blao café
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Cafetería
+Categoría Maps: Cafetería, Bar
 Dirección: Av. Gral. Rafael Hoyos Rubio 907, Cajamarca 06001
 Teléfono: 955 939 506
 Rating: 4.2
 Reseñas: 20
-Sitio web: 
+Sitio web:
 Latitud: -7.1487099
 Longitud: -78.5079196
 Google Maps: https://www.google.com/maps?cid=7303497343791178869
 Place Id: ChIJhzde9WxbspERdaSueiM8W2U
 Fotos: Blao café.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfJ_965YcjeRFqjkXq6H5BerHp5Mfx-P-uybciSzMIzW7M3oIeewjyhX9I1T511OeZdBhHhrQ70Aed9_B9rPnJSiIcOfJuQgjMrriPru1mj_S_jiUBov-6f87tKzrE6DxuhZ2sUZQ=w1600-h1200-k-no
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a Blao café. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Av. Gral. Rafael Hoyos Rubio 907, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Link foto: https://lh3.googleusercontent.com/p/AF1QipM-placeholder=w1600-h1200-k-no
+================================================================================
+================================================================================
+Texto de bienvenida:
+En Blao café te damos la bienvenida a un moderno espacio de café de especialidad, piqueos gourmet y coctelería selecta en la transitada avenida General Rafael Hoyos Rubio 907 en Cajamarca. Con una destacada calificación respaldada por clientes satisfechos, preparamos espressos perfectos con granos de altura, sándwiches artesanales, postres caseros y cervezas bien heladas en un ambiente acogedor. Disfruta de buena música, conexión rápida y excelente atención. ¡Ven a compartir una experiencia única y deliciosa!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué métodos de filtrado y bebidas a base de espresso destacan en la barra?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: Llego apurado entre trámites y necesito un desayuno al paso, ¿me lo preparan de inmediato?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Nuestra prioridad es atender el ritmo de tu día con rapidez y eficiencia.
+En nuestra barra servimos café de especialidad preparado con granos arábicos de Jaén tostados al punto medio para resaltar sus notas de caramelo, chocolate amargo y frutos secos. Elaboramos espressos densos, cappuccinos cremosos y café americano pasado.
 
-Apenas ingresas a la barra nos indicas tu pedido y en escasos minutos te servimos un café caliente recién pasado con un sándwich tostado crujiente, empacado en material térmico para que disfrutes en el camino sin retrasarte.
+Ofrecemos además métodos de extracción lenta como V60, Chemex y prensa francesa, extrayendo las notas más sutiles y aromáticas del grano peruano para el deleite de los aficionados al buen café. Cada servicio se prepara con balanza y cronómetro.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿A qué distancia me encuentro de su local si salgo de hacer compras en el Real Plaza?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Estamos a tan solo 700 metros de distancia del centro comercial, papachito.
+Para quienes buscan bebidas frías, preparamos cold brew infusionado lentamente en frío, frappés de café moka con crema batida y lattes helados saborizados con vainilla o avellana.
 
-Puedes llegar en una caminata sumamente fresca de ocho minutos cruzando hacia la avenida principal. Si llevas compras pesadas o paquetes voluminosos, cualquier mototaxi te traslada en escasos tres minutos directos hasta nuestra puerta.
+2. ¿A qué distancia se encuentra Blao café respecto al Centro Comercial El Quinde?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: No cuento con efectivo en soles, ¿puedo pagar la cuenta con cualquier aplicación móvil?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Puedes consumir con total tranquilidad y pagar con tu teléfono celular.
+El establecimiento se localiza a solo 727 metros (0.73 km) del C.C. El Quinde, representando una caminata de unos ocho minutos en línea recta por la avenida General Rafael Hoyos Rubio. Es un acceso directo y con veredas amplias.
 
-Aceptamos cobros directos por Yape y Plin, además de transferencias bancarias y tarjetas de crédito o débito sin cobros adicionales, facilitando tu experiencia al momento de cancelar.
+Trabajadores de empresas, compradores y visitantes del centro comercial suelen desplazarse hacia nuestro local para sostener reuniones de trabajo o disfrutar de un café en un entorno más tranquilo y relajado. La ruta es sumamente segura.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: Necesito trabajar un par de horas con mi computadora, ¿tienen mesas cómodas con enchufes y buen Wi-Fi?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Disponemos de un ambiente pensado para la productividad, la lectura y el trabajo remoto.
+Esta cercanía facilita hacer una parada estratégica durante la jornada laboral o para culminar la tarde con una charla agradable.
 
-Encontrarás mesas amplias con tomacorrientes cercanos y una red Wi-Fi de alta velocidad para que conectes tu equipo, asistas a videollamadas o revises documentos mientras disfrutas de una bebida de especialidad en Blao café.
+3. ¿Cuáles son los sándwiches artesanales y piqueos calientes de la casa?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Qué tan rápido llego desde la histórica Plaza de Armas de Cajamarca?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-La distancia desde la Plaza de Armas es de aproximadamente 1.4 kilómetros.
+Nuestra propuesta gastronómica incluye sándwiches contundentes preparados en panes ciabatta artesanales horneados en el día, destacando el sándwich de pollo deshilachado con salsa tártara de la casa, y el sándwich mixto caliente con jamón y queso andino.
 
-Tomando un taxi en el perímetro del centro histórico llegarás en apenas cinco minutos por vías directas, escapando del bullicio urbano para instalarte en un espacio acogedor y con excelente café.
+Preparamos también tequeños crujientes rellenos de queso artesanal servidos con crema guacamole fresca, alitas crocantes en salsa BBQ ahumada y tablas mixtas de piqueos para compartir entre amigos. Son opciones ideales para acompañar la velada.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: El viento y frío de la tarde me sorprendieron en la calle, ¿qué bebida reconfortante tienen lista para servir?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-El clima cajamarquino suele descender con rapidez al caer la tarde.
+Para opciones ligeras, disponemos de sándwiches con verduras asadas a la plancha, palta fresca y toques de aceite de oliva virgen extra.
 
-Te preparamos al instante un chocolate caliente espeso y aromático, o un expreso doble de granos selectos de altura que te devolverá la energía y el calor al cuerpo desde el primer sorbo.
+4. ¿Qué cócteles de autor y bebidas de bar ofrecen en las noches?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: Vengo de viaje y traigo mochilas pesadas, ¿puedo dejarlas junto a mi mesa mientras descanso?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-Comprendemos lo agotador que resulta trasladarse con bultos y equipaje.
+En el horario nocturno habilitamos nuestra carta de coctelería que incluye chilcanos clásicos preparados con pisco puro quebranta y macerados de hierbas aromáticas andinas, mojitos cubanos bien frescos y gin tonics con rodajas de pepino y bayas.
 
-Te asignamos un espacio holgado dentro del salón donde resguardamos tus pertenencias de manera segura, permitiéndote estirar las piernas y tomar un buen café con absoluta calma.
+Elaboramos asimismo el espresso martini de la casa, que fusiona licor de café, vodka y un shot concentrado de café de especialidad recién extraído, logrando una combinación sedosa y energizante muy demandada.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: Estoy en el Mercado Central, ¿cómo me traslado hasta la Av. Hoyos Rubio 907?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Nos ubicamos a unos 940 metros del Mercado Central, un trayecto muy cercano.
+Disponemos además de cervezas artesanales producidas en Cajamarca, cervezas industriales heladas y copas de vino tinto para acompañar los piqueos calientes.
 
-Si deseas caminar a paso relajado, son unas diez cuadras tranquilas por la ciudad; de lo contrario, una mototaxi de barrio te dejará en nuestra entrada en cuatro minutos de trayecto fluido.
+5. ¿Cuál es la separación exacta hacia el Centro Comercial Real Plaza?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Tienen opciones saludables para personas que evitan el azúcar o la leche de vaca?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Cuidamos cada detalle de tu nutrición para que disfrutes sin malestar.
+La separación hacia el C.C. Real Plaza es de 940 metros (0.94 km), lo que demanda entre diez y doce minutos a pie o apenas dos a tres minutos en taxi o mototaxi. Une la avenida Evitamiento con el sector de Hoyos Rubio.
 
-Preparamos tus cafés y batidos con leche vegetal de almendras o soya, y disponemos de infusiones naturales de muña, menta y manzanilla que puedes acompañar con bocaditos ligeros bajos en dulce.
+Quienes realizan compras departamentales o asisten a las salas de cine pueden trasladarse rápidamente hacia nuestra sede para cerrar la velada con una cena ligera o un postre casero. Las calzadas están completamente pavimentadas.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Puedo pedir una bandeja de café y bocaditos para enviar por delivery a una oficina cercana?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Coordinamos despachos de pedidos corporativos y personales por nuestro canal de WhatsApp.
+Esta corta distancia sitúa al local como una excelente alternativa fuera de las zonas ruidosas de los centros comerciales convencionales.
 
-Aseguramos recipientes herméticos que conservan el calor y la presentación impecable de cada producto para que tu pedido llegue perfecto y a tiempo al centro de labores.
+6. ¿Cómo opera el servicio de órdenes para llevar y despacho a domicilio?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿Cuál es la forma más directa de llegar si vengo desde el Aeropuerto Armando Revoredo Iglesias?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-La distancia desde el aeropuerto es de apenas 2.3 kilómetros en línea recta por la avenida principal.
+Los clientes pueden realizar sus pedidos en el mostrador de la avenida Hoyos Rubio 907 para llevar en empaques térmicos diseñados para conservar la temperatura y frescura de los sándwiches y cafés. El despacho se efectúa con rapidez.
 
-Abordando un taxi a la salida de tu vuelo llegarás en menos de ocho minutos a nuestro local sobre la avenida Hoyos Rubio, siendo una parada estratégica y cómoda antes de ingresar al casco monumental.
+Para envíos a domicilio, gestionamos pedidos mediante comunicación directa por WhatsApp oficial del establecimiento, coordinando la entrega con motorizados locales de confianza. Cada pedido viaja sellado e higiénico.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: Llegamos en grupo sin reserva previa, ¿tienen capacidad para acomodarnos a todos juntos?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Reorganizamos nuestras mesas de inmediato para recibir a tu grupo con la máxima calidez.
+Aconsejamos especificar referencias claras de la dirección para garantizar una llegada puntual en residencias y oficinas del cuadrante norte.
 
-Juntamos los espacios necesarios para que amigos, colegas o familiares compartan cómodamente en una sola mesa, con rondas ágiles de cafés, jugos y piqueos para todos.
+7. ¿Qué repostería casera y opciones dulces tienen para media tarde?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: Me quedé sin batería en el teléfono y tengo que hacer una llamada urgente, ¿me prestan cargador?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-Te brindamos soporte inmediato desde nuestra barra principal.
+Servimos porciones frescas de torta de chocolate rellena con fudge casero denso, pie de limón con merengue dorado y carrot cake con nueces tostadas y suave frosting de queso crema. Son elaboraciones artesanales preparadas con dedicación.
 
-Contamos con cables de carga compatibles y tomas de corriente libres para que tu dispositivo recupere energía rápidamente mientras disfrutas de una pausa agradable en Blao café.
+Disponemos también de alfajores suaves de maicena rellenos con manjar blanco cajamarquino, brownies tibios con nueces acompañados de helado artesanal y galletas horneadas con chispas de chocolate. Maridan perfectamente con café americano.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿Cuánto demoro en mototaxi o a pie si me encuentro en el Cuarto del Rescate?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Desde el Cuarto del Rescate la distancia es de 1.4 kilómetros cruzando el sector histórico.
+Nuestra vitrina de postres se abastece a diario para brindar opciones dulces frescas y variadas en cada visita.
 
-En mototaxi o taxi el trayecto toma alrededor de cinco minutos, siendo un paseo corto que te traslada de la historia colonial a una experiencia contemporánea de buen café.
+8. ¿Qué distancia media hay hacia el histórico Mercado Central?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: Busco un rincón tranquilo para una charla reservada, ¿el ambiente es discreto?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Nuestras instalaciones cuentan con áreas apartadas del ingreso principal y luces cálidas que favorecen la conversación privada.
+Nos situamos a 1280 metros (1.28 km) del Mercado Central de Cajamarca, demandando un trayecto de cuatro a cinco minutos en transporte menor o unos quince minutos de caminata. Conecta el casco urbano comercial con la avenida Hoyos Rubio.
 
-Es un punto ideal para diálogos personales o reuniones de proyectos donde la calma y el buen servicio marcan la diferencia.
+Personas que realizan trámites o compras céntricas pueden trasladarse con gran facilidad hacia nuestro espacio moderno para almorzar sándwiches gourmet o tomar café en calma. La senda discurre por avenidas principales.
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Venden café tostado en grano o molido para llevar a casa?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Ponemos a tu alcance granos seleccionados de orígenes cafetaleros del norte peruano.
+Desde los exteriores del local se aborda transporte público de forma continua hacia cualquier punto de la urbe.
 
-Realizamos la molienda al instante según el método de extracción que utilices en casa, garantizando un empaque hermético que retiene toda la frescura y fragancia del café.
+9. ¿Tienen promociones especiales durante las tardes o días laborables?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Qué postre tradicional recomiendan para acompañar un café expreso?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Te sugerimos degustar nuestros alfajores de masa suave rellenos con generoso manjar blanco cajamarquino.
+Ofrecemos combos de lonche que integran una taza de café filtrado o cappuccino con un sándwich a elección por un precio promocional muy asequible para incentivar las pausas laborales. Son muy concurridos por oficinistas.
 
-El dulzor equilibrado de la leche de establo hace un balance perfecto con el cuerpo y las notas achocolatadas de nuestro café de especialidad.
+En noches seleccionadas presentamos ofertas especiales de cócteles como dos por uno en chilcanos y descuentos en fuentes de piqueos para grupos de amigos. Promovemos un ambiente dinámico y distendido.
 
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Abren los domingos por la tarde para salir a merendar en familia?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Atendemos todos los días de la semana, ofreciendo un ambiente familiar y seguro los domingos.
+Las promociones se anuncian visiblemente en las pizarras del salón y en las redes sociales oficiales del establecimiento.
 
-Es el plan perfecto para compartir bebidas calientes, tortas artesanales y jugos naturales con padres, hijos y abuelos.
+10. ¿De qué formas se puede cancelar la cuenta en mesa?
 
---------------------------------------------------------------------------------
-PREGUNTA 19: Si queremos quedarnos conversando hasta la noche, ¿ofrecen opciones saladas para picar?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-Disponemos de empanadas horneadas, sándwiches artesanales y tostadas con quesos locales para acompañar la noche.
+Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, emitiendo comprobante de pago de inmediato con cambio menudo y atención cortés por parte de nuestros meseros. La atención en caja es rápida.
 
-Son raciones reconfortantes que complementan de maravilla cualquier infusión o café caliente mientras disfrutas de la velada.
+Recibimos pagos móviles a través de transferencias instantáneas mediante los códigos QR de Yape y Plin habilitados en la barra y en mesa. Es una opción sumamente práctica, higiénica y libre de comisiones.
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por qué canal confirmo si hay mesas disponibles antes de salir de casa?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-La vía más ágil es escribirnos un mensaje por nuestro canal oficial de WhatsApp.
+Aceptamos también cobros con tarjetas bancarias de débito y crédito a través de terminales inalámbricos POS para mayor comodidad de los comensales.
 
-Te confirmamos el estado del salón al instante o te separamos el espacio requerido para que llegues directo a disfrutar sin demoras en Blao café.
-================================================================================
+11. ¿A cuántos metros queda el célebre Cuarto del Rescate?
+
+El restaurante dista 1397 metros (1.40 km) del Cuarto del Rescate, lo que representa un viaje de unos cinco minutos en mototaxi o taxi. Comunica el enclave histórico del centro con la zona comercial moderna de Hoyos Rubio.
+
+Visitantes que concluyen su recorrido guiado por las salas de piedra incaicas pueden desplazarse con rapidez hacia nuestro local para disfrutar de café de alta calidad y descansar en un ambiente relajado. La ruta vehicular es fluida.
+
+La cercanía facilita combinar turismo cultural con una parada gastronómica moderna y confortable.
+
+12. ¿Qué normas de bioseguridad y manipulación de insumos aplican?
+
+En Blao café mantenemos estrictas prácticas sanitarias que incluyen la desinfección continua de cafeteras express, molinos, superficies de trabajo y barras de servicio. El personal viste uniforme limpio y mandiles reglamentarios.
+
+Los insumos cárnicos y vegetales se almacenan bajo control estricto de temperatura en cámaras refrigeradas para garantizar frescura y calidad nutricional. Las verduras se lavan y desinfectan meticulosamente antes de su uso.
+
+El salón de atención y los servicios higiénicos se conservan pulcros mediante limpieza programada a lo largo de toda la jornada.
+
+13. ¿Cómo es el diseño y la comodidad del salón en Hoyos Rubio?
+
+El establecimiento en la avenida General Rafael Hoyos Rubio 907 presenta un diseño contemporáneo con toques industriales y cálidos, combinando madera, metal y luminarias decorativas que generan un entorno moderno y agradable.
+
+Disponemos de mesas ergonómicas, sillones cómodos y barras con taburetes altos pensados para diversas ocasiones, desde reuniones ejecutivas hasta tertulias nocturnas. La iluminación es suave y relajante.
+
+La música de fondo abarca géneros como indie pop, lounge y jazz a volumen moderado que facilita la conversación sin interferencias.
+
+14. ¿Qué tan lejos se ubica la Iglesia San Francisco de Cajamarca?
+
+El local se encuentra a 1485 metros (1.48 km) de la Iglesia San Francisco de Cajamarca, demandando un trayecto vehicular de unos cinco a seis minutos en transporte urbano. Conecta el complejo virreinal con Hoyos Rubio.
+
+Paseantes y turistas que visitan las catacumbas y el museo franciscano pueden dirigirse fácilmente hacia nuestra sede para culminar su tarde degustando cócteles o café de altura. El acceso es directo por arterias pavimentadas.
+
+Desde la puerta del café es muy sencillo solicitar taxis seguros para retornar hacia alojamientos u hoteles turísticos.
+
+15. ¿Qué características tienen los granos de café y su molienda?
+
+Trabajamos con granos de café arábica cosechados a más de 1650 metros sobre el nivel del mar en microcuencas cafetaleras de Jaén, seleccionados por su fragancia balanceada y acidez dulce y agradable.
+
+Molinamos el grano en el instante previo a cada extracción mediante molinos micrométricos que aseguran un grosor uniforme de partícula adaptado al método empleado. No almacenamos café premolido.
+
+Este rigor técnico asegura que cada taza exprese la totalidad de los aromas y aceites esenciales propios del origen cajamarquino.
+
+16. ¿Cómo es la atención y la vocación de servicio del personal?
+
+Nuestro personal se destaca por una disposición cordial, profesional y diligente, orientando con gusto a los clientes respecto a las notas de sabor de cada café o las opciones de coctelería disponibles.
+
+Los pedidos se despachan en tiempos breves para que las bebidas y los platillos calientes salgan a la mesa en su punto óptimo de consumo. La satisfacción de cada visitante guía nuestra labor cotidiana.
+
+Agradecemos sinceramente las sugerencias de nuestros comensales habituales para seguir perfeccionando nuestro servicio.
+
+17. ¿Qué facilidades existen para el estacionamiento temporal?
+
+En la avenida General Rafael Hoyos Rubio y las calles laterales del sector es posible aparcar momentáneamente vehículos particulares, motocicletas y mototaxis en zonas autorizadas de la calzada. La vía cuenta con buena amplitud.
+
+Quienes se detienen brevemente para retirar pedidos de sándwiches y café para llevar pueden estacionar sin perturbar el tránsito fluido de la avenida. La zona presenta buena visibilidad nocturna.
+
+Se aconseja aparcar respetando los vados de acceso vehicular de los vecinos para preservar el orden y la convivencia comunitaria.
+
+18. ¿Cómo protegen las bebidas y alimentos en pedidos para llevar?
+
+Sellamos los vasos de café con tapas herméticas antiderrame que resguardan la temperatura caliente y el aroma durante el transporte a pie o en automóvil. Las bebidas frías se despachan en vasos rígidos sellados.
+
+Los sándwiches y postres se acondicionan en envoltorios térmicos antigrasa y cajas de cartón resistente que evitan aplastamientos y retienen la crocancia de los panes. Incluimos servilletas descartables de cortesía.
+
+Los empaques permiten que el cliente disfrute de una experiencia de consumo idéntica a la del salón en su casa o lugar de trabajo.
+
+19. ¿Cuál es el concepto y la filosofía gastronómica de Blao café?
+
+Blao café nació con la visión de fusionar la excelencia del café de especialidad con el dinamismo de un bar urbano moderno en el eje comercial de Hoyos Rubio, ofreciendo un punto de encuentro cálido y estimulante para la ciudad.
+
+El concepto persigue brindar alta calidad en cada taza y cada plato a precios razonables, en un entorno donde convergen estudiantes, profesionales y amigos que buscan desconectarse y compartir buenos momentos.
+
+Nuestra meta permanente es afianzar un espacio donde la calidez humana y la pasión por el buen café sean protagonistas en cada jornada.
+
+20. ¿En qué franja horaria atienden al público visitante?
+
+Atendemos al público de lunes a sábado desde las nueve de la mañana hasta las diez y media de la noche de manera continua, abarcando desde los cafés matutinos hasta las cenas ligeras y la coctelería nocturna.
+
+Los fines de semana el horario se adapta para acompañar reuniones entre amigos y celebraciones familiares en un marco de orden y buen servicio. Toda la carta de cafetería, sándwiches y bebidas se encuentra disponible.
+
+Para coordinar reservas de mesas o pedidos institucionales por WhatsApp, los usuarios pueden comunicarse directamente a nuestras líneas de contacto oficiales.

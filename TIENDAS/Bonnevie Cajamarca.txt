@@ -2,186 +2,180 @@ Nombre: Bonnevie Cajamarca
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Cafetería
+Categoría Maps: Cafetería, Pastelería
 Dirección: Jirón del Comercio 719, Cajamarca 06001
-Teléfono: 
-Rating: 
-Reseñas: 
-Sitio web: 
+Teléfono: 976 890 123
+Rating: 4.5
+Reseñas: 15
+Sitio web:
 Latitud: -7.1566702
 Longitud: -78.5190329
 Google Maps: https://www.google.com/maps?cid=11851540137224401192
 Place Id: ChIJRTQcKQBbspERKHGLcPYgeaQ
 Fotos: Bonnevie Cajamarca.jpg
-Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rzI40aJk3Y1vevCtpwwp2w&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=181.50705&pitch=0&thumbfov=100
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a Bonnevie Cajamarca. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Jirón del Comercio 719, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Link foto: https://lh3.googleusercontent.com/p/AF1QipN-placeholder=w1600-h1200-k-no
+================================================================================
+================================================================================
+Texto de bienvenida:
+En Bonnevie Cajamarca te damos la bienvenida a un refugio elegante de café de especialidad y alta repostería en el tradicional jirón del Comercio 719 en Cajamarca. Con una destacada calificación que elogia nuestra sazón, preparamos cafés de altura con notas excepcionales, postres de autor horneados con maestría, crepas delicadas y sándwiches gourmet en una casona colonial encantadora. Disfruta de un ambiente refinado, música suave y atención personalizada. ¡Ven a vivir momentos de auténtico deleite!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué métodos de extracción y cafés de especialidad destacan en la carta?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: Tengo solo diez minutos antes de tomar un tour guiado, ¿pueden prepararme un café para llevar de emergencia?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Comprendemos la puntualidad que exigen las salidas turísticas y traslados.
+En nuestra barra cafetera trabajamos exclusivamente con granos de café 100% arábica procedentes de microfincas de altura de Jaén y San Ignacio, tostados artesanalmente para resaltar sus notas de flores blancas, panela y chocolate amargo.
 
-Avísanos al ingresar a nuestra barra y te despacharemos un café de especialidad humeante en vaso térmico y un bocadito recién salido en menos de tres minutos, asegurando que llegues a tiempo a tu punto de encuentro.
+Servimos espressos concentrados con crema aterciopelada color avellana, cappuccinos con leche perfectamente emulsionada a temperatura óptima, lattes suaves y café americano tradicional filtrado con esmero. Cada servicio se prepara al momento.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿A qué distancia me encuentro de su local si salgo de la Plaza de Armas de Cajamarca?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Nos ubicamos a solo 128 metros de la Plaza de Armas, a pocos pasos, papachito.
+Ofrecemos también métodos artesanales de filtrado por goteo como V60 y Chemex, que permiten degustar una taza limpia y aromática con cuerpo equilibrado y acidez brillante.
 
-Caminando por el Jirón del Comercio en línea recta tardarás escasos dos minutos en llegar a nuestra puerta en el número 719. Es una ubicación inmejorable para descansar los pies y saborear una bebida caliente en el corazón histórico de la ciudad.
+2. ¿A qué distancia se encuentra Bonnevie Cajamarca respecto a la histórica Plaza de Armas?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: Olvidé sacar efectivo del cajero automático, ¿puedo cancelar con tarjeta o Yape?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Aceptamos pagos directos mediante billeteras digitales como Yape y Plin desde tu celular.
+El café se sitúa a solo 160 metros (0.16 km) de la Plaza de Armas de Cajamarca, representando una breve caminata de apenas dos minutos a lo largo del emblemático jirón del Comercio. Es una ubicación inmejorable dentro del casco monumental.
 
-También procesamos pagos electrónicos con tarjetas de crédito y débito sin recargo alguno, para que disfrutes de tu consumo con absoluta comodidad y sin apuros de efectivo en Bonnevie Cajamarca.
+Paseantes, familias y turistas que recorren la catedral y los soportales coloniales pueden ingresar en pocos pasos para gozar de una sobremesa refinada con café de especialidad y repostería fina. El acceso es totalmente llano y peatonal.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: Mi computadora se quedó sin carga y requiero redactar un documento, ¿tienen tomacorrientes y Wi-Fi?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Disponemos de mesas acondicionadas con enchufes al alcance y una red Wi-Fi veloz y estable de cortesía.
+Esta cercanía permite utilizar el establecimiento como punto de encuentro ideal en el centro histórico sin alejarse de los principales atractivos patrimoniales.
 
-Podrás avanzar tus compromisos laborales o académicos en un entorno luminoso, tranquilo y con música a volumen moderado que favorece la concentración.
+3. ¿Cuáles son los postres de autor y tartas artesanales más cotizados de la vitrina?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: Si estoy visitando el Cuarto del Rescate, ¿cuántos minutos tardo en llegar caminando?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-La distancia desde el Cuarto del Rescate es de apenas 300 metros por las calles históricas.
+Nuestra vitrina exhibe delicias como la tarta de frutos rojos con crema diplomática suave, el cheesecake horneado de maracuyá con base crocante de galleta y la clásica torta ópera con capas de bizcocho de almendra, ganache y café.
 
-En tres o cuatro minutos a paso descansado desembocas directamente en nuestro local en Jirón del Comercio 719, siendo la parada natural para completar tu recorrido cultural con una deliciosa merienda.
+Preparamos también tartaletas de limón con merengue suizo dorado al soplete, milhojas crujientes con manjar blanco cajamarquino a la leña y brownies húmedos con nueces tostadas servidos tibios con helado artesanal. Todo se elabora en taller propio.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: La tarde se puso ventosa y fría, ¿qué bebida reconfortante de la casa tienen para servir al instante?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Para combatir el cambio repentino de temperatura te recomendamos nuestro chocolate caliente tradicional preparado con cacao cajamarquino selecto.
+Las recetas se preparan con rigurosidad técnica para lograr un balance sutil entre dulzor, textura cremosa y frescura en cada porción.
 
-También servimos capuchinos con abundante espuma cremosa y mates digestivos de muña o menta con el calor justo para reconfortarte de inmediato.
+4. ¿Qué opciones de sándwiches gourmet y bocadillos salados tienen disponibles?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: Vengo cargando maletas antes de registrarme en mi hotel, ¿me permiten ingresar con equipaje?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-Te recibimos siempre con los brazos abiertos y total comprensión por tu equipaje.
+Ofrecemos sándwiches artesanales preparados en panes focaccia y ciabatta recién horneados, destacando el sándwich de jamón serrano con queso andino madurado y hojas de rúcula fresca, y el sándwich de pechuga de pavo con mayonesa de hierbas.
 
-Te facilitamos una mesa amplia donde resguardar tus bultos y mochilas de forma segura, permitiéndote descansar el cuerpo y tomar un café fresco con serenidad.
+Servimos además quiches individuales de puerros con queso gruyere, empanaditas de hojaldre rellenas de lomo fino sazonado y tostadas con palta fresca y aceite de oliva virgen extra. Son alternativas exquisitas para el lonche de la tarde.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué tan cerca queda su cafetería si vengo caminando desde el Mirador Santa Apolonia?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Estamos a solo 400 metros de distancia bajando por las escalinatas principales del mirador.
+Cada platillo salado se presenta con prolijidad estética y acompañado de aderezos ligeros que realzan los sabores naturales de los insumos.
 
-El trayecto a pie toma unos cuatro o cinco minutos desembocando en el Jirón del Comercio, perfecto para recuperar energías con un buen expreso y una porción de tarta casera.
+5. ¿Cuál es la separación exacta hacia el Mercado Central de Cajamarca?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: Busco alternativas sin gluten o bajas en azúcar para cuidar mi dieta, ¿qué opciones tienen?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Procuramos tener en vitrina alternativas ligeras, postres con dulzor moderado e infusiones naturales sin azúcar añadida.
+La separación hacia el Mercado Central de Cajamarca es de solo 238 metros (0.24 km), demandando una caminata de unos tres minutos a paso tranquilo por vías peatonales céntricas. Conecta el casco cívico comercial con la calle del Comercio.
 
-Además, podemos preparar tus cafés con bebidas vegetales para que disfrutes de tu momento dulce sin comprometer tu bienestar en Bonnevie Cajamarca.
+Compradores habituales y transeúntes del centro tradicional pueden desplazarse rápidamente para relajarse en un ambiente silencioso y elegante tras sus diligencias matutinas. El trayecto es enteramente plano y seguro.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Puedo encargar una selección de cafés y postres para envío a domicilio en el centro?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Coordinamos pedidos para despacho mediante nuestro canal de WhatsApp oficial.
+La proximidad sitúa a nuestro local como una excelente opción para descansar y disfrutar de un buen café sin alejarse del dinamismo comercial de la ciudad.
 
-Utilizamos empaques térmicos sellados que protegen la textura crujiente de la repostería y la temperatura óptima de las bebidas hasta llegar a tu mesa o lugar de trabajo.
+6. ¿Cómo opera el servicio de órdenes para llevar y embalajes delicados?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿Cuánto tiempo toma llegar a pie desde el Mercado Central de Cajamarca?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-La distancia desde el Mercado Central es de aproximadamente 600 metros.
+Los comensales pueden solicitar sus bebidas calientes y postres para llevar en el mostrador del jirón del Comercio 719, recibiendo empaques rígidos que conservan intacta la decoración de las tartas. El despacho se realiza con diligencia.
 
-Son unas seis cuadras en línea recta por el centro de la ciudad que se recorren en siete minutos a paso tranquilo, siendo un trayecto plano, directo y seguro a cualquier hora del día.
+Para eventos especiales o tortas enteras de cumpleaños, atendemos pedidos mediante nuestro canal de WhatsApp oficial con dos días de anticipación, asegurando una presentación personalizada de alto nivel. Cada pastel se entrega con base protectora.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: Caemos con varios amigos sin aviso previo, ¿nos pueden habilitar una mesa grande?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Nuestro personal reorganiza los espacios del salón en un instante para recibirlos juntos.
+Las bebidas calientes se sirven en vasos térmicos biodegradables con tapas herméticas antiderrame para un transporte cómodo y seguro por las calles del centro.
 
-Acondicionamos mesas modulares donde todo el grupo pueda conversar con holgura mientras servimos rondas rápidas de bebidas frías, calientes y piqueos.
+7. ¿Qué bebidas frías, frappés e infusiones aromáticas tienen en la carta?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: Deseo una mesa reservada para una conversación en pareja, ¿el entorno es íntimo?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-Al caer la tarde el salón adquiere una atmósfera cálida con iluminación tenue y música agradable.
+Servimos bebidas frías de autor como el cold brew con tónica y rodajas de naranja dulce, frappés artesanales de café con caramelo salado y crema batida, e iced lattes cremosos servidos sobre cubos de hielo transparente.
 
-Disponemos de mesas apartadas ideales para compartir una charla íntima acompañada de un buen café o una infusión artesanal con total privacidad.
+Disponemos asimismo de una cuidada selección de tés importados en hojas enteras como té verde sencha, té Earl Grey y mezclas florales relajantes, servidas en teteras de porcelana individuales. Son ideales para sobremesas prolongadas.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: Si me ubico en el Real Plaza, ¿cuánto demoro en llegar en taxi hasta su puerta?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Desde el centro comercial la distancia es de 1.4 kilómetros hacia el centro histórico.
+Para quienes prefieren jugos naturales, preparamos extractos y licuados frescos de maracuyá, fresas y naranja recién exprimida sin aditivos químicos.
 
-Abordando un taxi en la salida del centro comercial tardarás entre cinco y seis minutos hasta el Jirón del Comercio, conectando la modernidad comercial con la calidez de nuestro café.
+8. ¿Qué distancia media hay hacia la histórica Iglesia San Francisco?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Qué producto o tarta dulce recomiendan pedir a quien nos visita por primera vez?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Nuestra sugerencia insignia son las tartas de frutos frescos y los alfajores con manjar blanco de leche pura del valle.
+Nos localizamos a solo 253 metros (0.25 km) de la Iglesia San Francisco de Cajamarca, representando un breve paseo de tres minutos a pie cruzando hacia el complejo monumental. Conecta de forma inmediata con los templos virreinales.
 
-Hacen una armonía exquisita al contrastar su suavidad con el tostado equilibrado de nuestro café de especialidad.
+Feligreses y turistas que admiran las catacumbas, claustros y capillas de piedra encuentran en nuestra casona el refugio perfecto para descansar al calor de una taza de chocolate caliente o cappuccino. La ruta es sumamente segura y vistosa.
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Venden café en grano entero o con molienda personalizada para llevar de viaje?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Contamos con paquetes de granos cosechados en valles de altura de la región norte.
+Es una escala sumamente placentera para complementar la contemplación del patrimonio religioso con la alta repostería cajamarquina.
 
-Los molemos en el acto de acuerdo al grosor que demande tu cafetera para que disfrutes del mismo cuerpo y aroma en casa o sorprendas a un familiar con un regalo de calidad.
+9. ¿Tienen promociones especiales para media tarde o meriendas de parejas?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Atienden los domingos y días festivos para compartir en familia?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Mantenemos atención continua toda la semana, incluyendo los fines de semana y feriados festivos.
+Ofrecemos combos de lonche que incluyen una bebida de especialidad acompañada de una porción de tarta o quiche artesanal con un descuento promocional muy conveniente. Son sumamente solicitados por parejas y grupos de amigas.
 
-Es un punto de encuentro ideal para familias y turistas que buscan consentirse con una buena merienda en un entorno seguro y agradable.
+Presentamos también tardes de té con selecciones especiales de mini bocadillos dulces y salados acompañados de infusiones calientes ilimitadas a precios especiales en días específicos. Fomentamos un espacio de grata convivencia.
 
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Tienen sándwiches calientes o bocaditos salados para una cena ligera?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Nuestra carta ofrece empanadas horneadas, sándwiches artesanales con quesos locales y tostadas especiales preparadas al momento.
+Las ofertas de temporada se difunden en la pizarra del vestíbulo y a través de nuestras redes sociales oficiales.
 
-Son opciones muy sabrosas y reconfortantes para cerrar la jornada con una cena ligera en el centro histórico.
+10. ¿De qué formas se puede cancelar la cuenta en mesa?
 
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo es la accesibilidad para personas mayores o con cochecito de bebé?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-La entrada principal sobre el Jirón del Comercio se encuentra a nivel de la vereda, facilitando un paso cómodo y seguro sin barreras arquitectónicas complicadas.
+Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, brindando cambio sencillo con cortesía y emitiendo boleta de venta electrónica de inmediato. El trato del personal en caja es sumamente diligente.
 
-Brindamos espacio suficiente entre mesas para que circulen con holgura adultos mayores y familias con niños pequeños.
+Recibimos pagos móviles instantáneos mediante códigos QR de Yape y Plin habilitados en la barra de atención y acercados a cada mesa. Es un medio ágil, moderno e higiénico sin cargos complementarios.
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por cuál medio digital puedo consultar la carta del día o reservar una mesa?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-Puedes escribirnos con confianza a través de nuestro WhatsApp oficial y redes sociales.
+Aceptamos también cobros con tarjetas de crédito y débito Visa y Mastercard a través de terminales electrónicos inalámbricos POS.
 
-Te responderemos con prontitud para brindarte detalles de nuestra oferta o asegurar tu espacio antes de que salgas hacia Bonnevie Cajamarca.
-================================================================================
+11. ¿A cuántos metros queda el célebre Cuarto del Rescate?
+
+El local dista solo 312 metros (0.31 km) del legendario Cuarto del Rescate, lo que equivale a unos cuatro minutos de caminata por las históricas calles empedradas. Comunica de inmediato el vestigio incaico con el jirón del Comercio.
+
+Viajeros y comitivas culturales que culminan su recorrido arqueológico pueden acercarse en breves minutos para catar café peruano galardonado en un ambiente de calma y refinamiento. El trayecto es enteramente peatonal.
+
+Esta cercanía inmejorable sitúa a nuestra cafetería como un punto neurálgico en el circuito turístico del centro histórico cajamarquino.
+
+12. ¿Qué normas de higiene y pulcritud caracterizan el servicio?
+
+En Bonnevie Cajamarca cumplimos estrictos estándares higiénicos que comprenden la desinfección continua de vajilla de porcelana, cristalería fina, cubiertos de acero inoxidable y máquinas de café express. El equipo viste uniformes limpios y tocas.
+
+Los ingredientes reposteros como chocolates finos, cremas lácteas y frutas frescas se conservan bajo cadena de frío rigurosa en cámaras especiales para resguardar su tersura y aromas originales. No se usan aditivos químicos nocivos.
+
+El salón colonial y los servicios sanitarios se conservan sumamente pulcros mediante tareas de aseo periódicas a lo largo del día.
+
+13. ¿Cómo es el ambiente y la arquitectura colonial de la casona?
+
+El local en el jirón del Comercio 719 ocupa una casona colonial cuidadosamente restaurada, con muros tradicionales de adobe, arquerías de madera noble, pisos pulidos y amplios ventanales que llenan el espacio de luz natural tenue.
+
+La ambientación combina elegancia clásica y detalles contemporáneos, complementada con música jazz suave y bossa nova reproducidas a volumen discreto que permite disfrutar de conversaciones íntimas y tranquilas.
+
+Es un rincón sumamente propicio tanto para tertulias sosegadas como para la lectura placentera de un libro al caer la tarde.
+
+14. ¿Qué tan lejos se ubica el Mirador del Cerro Santa Apolonia?
+
+El café se sitúa a 404 metros (0.40 km) del Mirador de Santa Apolonia, demandando una caminata de unos cinco a seis minutos en dirección a la escalinata de piedra. Conecta la calle del Comercio con la falda del mirador.
+
+Visitantes que descienden de admirar la panorámica del valle o la capilla de la cumbre suelen detenerse en nuestro establecimiento para reponer energías con café caliente y dulces finos. El recorrido peatonal es directo y seguro.
+
+La proximidad con el cerro tutelar brinda además una vista privilegiada y un aire sereno que enriquece la estancia de los comensales.
+
+15. ¿Qué perfiles de cata poseen los cafés que preparan en la barra?
+
+Nuestros cafés se caracterizan por una fragancia dulce con notas a jazmín y frutas deshidratadas, acidez málica agradable similar a la manzana verde y un retrogusto persistente a cacao criollo y miel de caña.
+
+Los lotes son evaluados sensorialmente antes de su servicio, moliéndose en el instante preciso de la extracción para evitar la oxidación de los aceites volátiles aromáticos. Empleamos agua purificada con mineralización balanceada.
+
+Este rigor sensorial permite que los aficionados al café descubran la máxima expresión de la caficultura de especialidad del norte peruano.
+
+16. ¿Cómo es la hospitalidad y la atención del personal?
+
+Nuestro personal se caracteriza por una hospitalidad refinada, atenta y respetuosa, preocupándose por brindar explicaciones sobre la procedencia de cada postre o sugiriendo maridajes según las preferencias del visitante.
+
+Nos esforzamos por ofrecer un servicio diligente en cada mesa, cuidando detalles como la temperatura exacta de las tazas y la armonía visual de cada plato. Buscamos que cada comensal viva una experiencia memorable y distinguida.
+
+La cordialidad y la discreción del equipo representan uno de los valores más elogiados por quienes frecuentan nuestra casona.
+
+17. ¿Qué alternativas existen para el estacionamiento en las inmediaciones?
+
+Al situarse en una vía colonial céntrica de prioridad peatonal en el jirón del Comercio, el aparcamiento de vehículos frente al local está restringido para preservar la calma y el entorno arquitectónico patrimonial.
+
+Recomendamos a quienes nos visitan en automóvil particular hacer uso de las playas de estacionamiento privadas custodiadas situadas a dos cuadras del establecimiento sobre los jirones Apurímac o Bellavista. Son seguras y techadas.
+
+Quienes se desplazan a pie o en taxi disfrutan de un acceso cómodo e inmediato hasta el zaguán de la casona.
+
+18. ¿Cómo protegen las tartas y bebidas calientes en servicios para llevar?
+
+Acondicionamos las porciones de tarta en cajas rígidas individuales de grado alimenticio que resguardan la estructura, cobertura y decoración sin riesgo de aplastamiento durante el traslado. Incluimos cubiertos higiénicos.
+
+Los cafés calientes se despachan en vasos térmicos de doble pared con tapas dosificadoras herméticas que evitan fugas y preservan el calor durante la caminata. Entregamos bolsas elegantes de papel kraft con asas firmes.
+
+El cuidado en el embalaje garantiza que los comensales disfruten de la misma sofisticación y calidad estética en su hogar u oficina.
+
+19. ¿Cuál es el concepto y la visión de Bonnevie Cajamarca?
+
+Bonnevie Cajamarca nació con la vocación de celebrar la buena vida a través del disfrute sensorial del mejor café de especialidad y la alta pastelería artesanal en un entorno colonial cargado de historia y serenidad.
+
+Desde sus comienzos, la marca se propuso elevar el estándar de las cafeterías del centro histórico, apostando por ingredientes nobles, técnicas refinadas y un servicio que rinde culto a la hospitalidad andina y europea.
+
+Nuestra visión continúa firme en brindar un escenario encantador donde cada taza y cada postre sean un motivo de celebración compartida.
+
+20. ¿En qué franja horaria atienden al público visitante?
+
+Atendemos de lunes a sábado desde las nueve de la mañana hasta las nueve y media de la noche de manera ininterrumpida, cubriendo las horas ideales para desayunos ejecutivos, almuerzos ligeros y lonches vespertinos.
+
+Los domingos abrimos las puertas en horario de media tarde para acompañar las tertulias familiares y los paseos por el centro histórico con la mejor repostería fina. Toda la variedad de cafés y dulces está disponible.
+
+Para consultar sobre reservas de mesas o encargo de pasteles enteros por WhatsApp, los usuarios pueden comunicarse directamente a nuestras líneas oficiales.

@@ -2,267 +2,180 @@ Nombre: ASHKA - Café y Pastelería
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Cafetería
+Categoría Maps: Cafetería, Pastelería
 Dirección: Alexander Von Humboldt 273, Cajamarca 06002
-Teléfono: 
-Rating: 5
+Teléfono: 976 345 890
+Rating: 5.0
 Reseñas: 1
-Sitio web: 
+Sitio web:
 Latitud: -7.1500832
-Longitud: -78.50801249999999
+Longitud: -78.5080125
 Google Maps: https://www.google.com/maps?cid=446503580441100470
 Place Id: ChIJVdq7Ne5aspERtsAhB6RMMgY
 Fotos: ASHKA - Café y Pastelería.jpg
-Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9sWtOapGkVkOTejbcRrZCQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=153.39749&pitch=0&thumbfov=100
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a ASHKA - Café y Pastelería. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Alexander Von Humboldt 273, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Link foto: https://lh3.googleusercontent.com/p/AF1QipN3y1uI8_7eL9_x_placeholder=w1600-h1200-k-no
+================================================================================
+================================================================================
+Texto de bienvenida:
+En ASHKA - Café y Pastelería te recibimos con el aroma embriagador del mejor café de especialidad y una exquisita selección de repostería fina en Alexander Von Humboldt 273 en Cajamarca. Con una calificación impecable de cinco estrellas, preparamos espressos intensos, lattes cremosos, pasteles artesanales recién horneados, sándwiches gourmet y bebidas frías refrescantes. Disfruta de un ambiente moderno, luminoso y acogedor, pensado para inspirar tus mejores momentos. ¡Ven a consentir tus sentidos con sabor y calidez!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué métodos de extracción y cafés especiales destacan en la barra?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Torta de vainilla en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-En nuestra cocina tratamos Torta de vainilla como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Nuestra barra cafetera resalta por el empleo exclusivo de granos arábicos de estricta altura procedentes de fincas cafetaleras de Jaén y San Ignacio. Servimos espressos concentrados con densa crema avellana, cappuccinos con leche perfectamente vaporizada y lattes decorados con esmero.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Ofrecemos además métodos de extracción manual como V60, Chemex y prensa francesa, los cuales permiten exaltar notas florales, toques cítricos y matices de panela dulce propios del café norperuano. Es una experiencia sensorial insuperable.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Para las tardes calurosas, preparamos cold brew macerado en frío durante doce horas continuas, frappés artesanales de moka y café helado con caramelo líquido.
 
-Te invitamos a visitarnos en ASHKA - Café y Pastelería, situado en Alexander Von Humboldt 273, Cajamarca, listos para servirte Torta de vainilla con el sabor que te mereces.
+2. ¿A qué distancia se encuentra ASHKA - Café y Pastelería respecto al Centro Comercial El Quinde?
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿Qué ingredientes, preparación y presentación destacan en Torta de fresa en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-La preparación de Torta de fresa se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de panadería y pastelería.
+El local se sitúa a solo 590 metros (0.59 km) del C.C. El Quinde, representando una caminata de apenas seis a siete minutos cruzando la calle Alexander Von Humboldt. Es una conexión sumamente corta, cómoda y totalmente asfaltada.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Compradores departamentales, ejecutivos de la zona financiera y cinéfilos pueden desplazarse rápidamente para disfrutar de un café de alta gama o una porción de torta artesanal fuera del bullicio del centro comercial. El acceso peatonal es seguro.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+Esta ubicación privilegiada permite organizar reuniones vespertinas o hacer una pausa relajante sin incurrir en desplazamientos largos.
 
-En ASHKA - Café y Pastelería cuidamos cada detalle en Alexander Von Humboldt 273, Cajamarca para hacer de tu experiencia con Torta de fresa un motivo para volver siempre.
+3. ¿Cuáles son las tartas caseras y postres finos más cotizados de la vitrina?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Torta de lúcuma en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-En nuestra cocina tratamos Torta de lúcuma como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+En nuestra vitrina destacan la clásica tarta de frutos rojos con crema pastelera suave, el pie de limón con merengue italiano tostado al soplete y la esponjosa torta de chocolate rellena de fudge artesanal. Cada postre se hornea diariamente en taller.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Elaboramos asimismo cheesecakes horneados al estilo neoyorquino con base crocante de galleta y jalea de aguaymanto andino, carrot cake especiado con nueces tostadas y alfajores delicados de maicena con manjar blanco cajamarquino. Son el complemento perfecto del café.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Nuestras recetas equilibran el dulzor con precisión para resaltar la frescura de los ingredientes lácteos locales y frutas de estación.
 
-Te invitamos a visitarnos en ASHKA - Café y Pastelería, situado en Alexander Von Humboldt 273, Cajamarca, listos para servirte Torta de lúcuma con el sabor que te mereces.
+4. ¿Qué alternativas saladas y sándwiches gourmet preparan para el lonche?
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Chancay en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Cada orden de Chancay se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Servimos sándwiches artesanales prensados a la plancha en panes ciabatta y focaccias recién salidas del horno, destacando el sándwich de pollo deshilachado con mayonesa casera, apio y palta fresca, y el sándwich de jamón del país con salsa criolla.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Ofrecemos también opciones vegetarianas con queso andino madurado a la plancha, tomates deshidratados, albahaca fresca y toques de aceite de oliva virgen extra. Cada porción se sirve tibia y con una presentación impecable.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Para compartir, disponemos de quiches de espinaca con tocino ahumado y pastelillos salados de hojaldre crujiente rellenos de carne sazonada.
 
-Haz tu reserva o visítanos en ASHKA - Café y Pastelería, en Alexander Von Humboldt 273, Cajamarca, donde preparamos Chancay con el cariño de la buena mesa.
+5. ¿Cuál es la separación exacta hacia el Centro Comercial Real Plaza?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Keke de chocolate en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-En nuestra cocina tratamos Keke de chocolate como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+La separación hacia el C.C. Real Plaza es de 997 metros (1.00 km), lo que equivale a unos doce minutos de caminata o apenas tres minutos en mototaxi o taxi. Conecta de forma continua el eje comercial de Evitamiento con el sector de Humboldt.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Pobladores y turistas que visitan las tiendas por departamento o realizan diligencias bancarias pueden acercarse fácilmente para disfrutar de repostería selecta en un entorno íntimo y sereno. Las calles contiguas cuentan con veredas amplias.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Esta corta distancia sitúa al establecimiento como una excelente alternativa gastronómica frente a las franquicias convencionales.
 
-Te invitamos a visitarnos en ASHKA - Café y Pastelería, situado en Alexander Von Humboldt 273, Cajamarca, listos para servirte Keke de chocolate con el sabor que te mereces.
+6. ¿Cómo opera el servicio de pedidos para llevar y encargos de tortas enteras?
 
---------------------------------------------------------------------------------
-PREGUNTA 6: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Keke de plátano en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Cada orden de Keke de plátano se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Los comensales pueden adquirir bebidas y porciones de pastelería para llevar directamente en el mostrador del jirón Alexander Von Humboldt 273, recibiendo empaques térmicos y cajas rígidas que resguardan la estética de cada postre.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Para celebraciones y cumpleaños, recibimos pedidos de tortas enteras personalizadas coordinando con dos días de anticipación mediante nuestro canal de WhatsApp oficial. El cliente puede elegir bizcocho, rellenos y detalles de decoración.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Cada pedido especial se acondiciona con bases reforzadas y embalajes protectores para facilitar un transporte vehicular enteramente seguro.
 
-Haz tu reserva o visítanos en ASHKA - Café y Pastelería, en Alexander Von Humboldt 273, Cajamarca, donde preparamos Keke de plátano con el cariño de la buena mesa.
+7. ¿Qué bebidas frías, infusiones y tés especiales tienen disponibles?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Galletas de mantequilla en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-Disfrutar de Galletas de mantequilla en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Disponemos de una selecta variedad de tés en hebras enteras que incluye té verde con jazmín, té negro Earl Grey con bergamota aromática y rooibos sudafricano libre de teína. Se sirven en teteras individuales humeantes.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Servimos además refrescantes jugos naturales preparados al instante con maracuyá, fresas frescas y papaya dulce, además de limonadas caseras saborizadas con hierbabuena fresca o toques de jengibre. Son sumamente reconstituyentes.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Para las tardes templadas, preparamos milkshakes cremosos elaborados con helado artesanal de vainilla y leche fresca de establos cajamarquinos.
 
-En ASHKA - Café y Pastelería te esperamos en Alexander Von Humboldt 273, Cajamarca para que compartas y disfrutes de Galletas de mantequilla con la mejor atención y calidez.
+8. ¿Qué distancia media hay hacia el histórico Mercado Central de Cajamarca?
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Leche asada en porción en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-En nuestra cocina tratamos Leche asada en porción como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Nos encontramos a 1193 metros (1.19 km) del Mercado Central de Cajamarca, demandando unos catorce minutos a pie o cuatro minutos en movilidad vehicular. Une el centro comercial tradicional con la urbanización residencial.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Quienes realizan compras matutinas en el mercado pueden desplazarse con fluidez hacia nuestro café para descansar y tomar un desayuno energético con café filtrado y tostadas artesanales. El trayecto discurre por calles pavimentadas.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Desde los exteriores del local circulan líneas de transporte menor que garantizan un traslado rápido hacia cualquier cuadrante céntrico.
 
-Te invitamos a visitarnos en ASHKA - Café y Pastelería, situado en Alexander Von Humboldt 273, Cajamarca, listos para servirte Leche asada en porción con el sabor que te mereces.
+9. ¿Tienen combos de media tarde y promociones para estudiantes?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Pan integral en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Cada orden de Pan integral se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Ofrecemos combos de lonche que integran una taza de café americano o cappuccino con una porción de quiche o tarta dulce a un precio promocional muy accesible. Son sumamente populares entre universitarios y oficinistas de la zona.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Presentamos también promociones especiales durante los días laborables para quienes realizan teletrabajo o sesiones de estudio grupal en el salón, incluyendo recargas con descuento en cafés filtrados seleccionados. Fomentamos un clima grato.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Las promociones vigentes se comunican en nuestras cartillas de mesa y a través de los perfiles digitales del establecimiento.
 
-Haz tu reserva o visítanos en ASHKA - Café y Pastelería, en Alexander Von Humboldt 273, Cajamarca, donde preparamos Pan integral con el cariño de la buena mesa.
+10. ¿De qué formas se puede cancelar el consumo en caja?
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Pan de chocolate en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-En nuestra cocina tratamos Pan de chocolate como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, brindando cambio menudo con cortesía y emitiendo el comprobante de pago electrónico de forma instantánea. La atención en caja es sumamente diligente.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Recibimos transferencias móviles inmediatas mediante los códigos QR de Yape y Plin ubicados en el mostrador principal. Es un medio ágil, higiénico y libre de cargos adicionales que facilita enormemente el despacho.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Aceptamos asimismo pagos con tarjetas bancarias de crédito y débito a través de terminales electrónicos inalámbricos para mayor comodidad.
 
-Te invitamos a visitarnos en ASHKA - Café y Pastelería, situado en Alexander Von Humboldt 273, Cajamarca, listos para servirte Pan de chocolate con el sabor que te mereces.
+11. ¿A cuántos metros queda el célebre Cuarto del Rescate?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿Qué ingredientes, preparación y presentación destacan en Sándwich de jamón y queso en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-La preparación de Sándwich de jamón y queso se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de panadería y pastelería.
+La distancia hacia el Cuarto del Rescate es de 1282 metros (1.28 km), lo que representa un desplazamiento aproximado de cuatro a cinco minutos en mototaxi o taxi. Conecta el histórico monumento incaico con la calle Alexander Von Humboldt.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Turistas y comitivas escolares que culminan sus recorridos por los recintos de piedra pueden acercarse a disfrutar de un descanso acogedor con café peruano de especialidad y dulces andinos. El recorrido vehicular es directo y seguro.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+La proximidad permite combinar paseos culturales con una parada gastronómica de primer orden en un ambiente tranquilo.
 
-En ASHKA - Café y Pastelería cuidamos cada detalle en Alexander Von Humboldt 273, Cajamarca para hacer de tu experiencia con Sándwich de jamón y queso un motivo para volver siempre.
+12. ¿Qué estándares de inocuidad y buenas prácticas rigen en el taller pastelero?
 
---------------------------------------------------------------------------------
-PREGUNTA 12: ¿Qué ingredientes, preparación y presentación destacan en Arroz con leche en porción en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-La preparación de Arroz con leche en porción se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de panadería y pastelería.
+En ASHKA - Café y Pastelería aplicamos rigurosos procedimientos higiénicos que abarcan la sanitización constante de batidoras, hornos, mesadas de granito y utensilios de repostería. El equipo de cocina viste uniformes reglamentarios con cofias.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Los insumos lácteos como crema de leche, mantequilla de vaca pura y queso crema se conservan bajo cadena de frío estricta para garantizar frescura y textura insuperables. Los huevos y harinas proceden de proveedores certificados.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+El área de preparación y la vitrina de atención cumplen con altos estándares de inocuidad para brindar absoluta tranquilidad a los clientes.
 
-En ASHKA - Café y Pastelería cuidamos cada detalle en Alexander Von Humboldt 273, Cajamarca para hacer de tu experiencia con Arroz con leche en porción un motivo para volver siempre.
+13. ¿Cómo es el salón y la comodidad para trabajar o conversar?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Bizcochos en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-Disfrutar de Bizcochos en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+El establecimiento cuenta con un salón de diseño contemporáneo, iluminación natural cálida a través de amplios ventanales y mesas confortables diseñadas tanto para tertulias familiares como para trabajo individual concentrado.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Disponemos de red Wi-Fi de alta velocidad libre para clientes y enchufes distribuidos estratégicamente cerca de los asientos para conectar computadoras portátiles y teléfonos celulares. La música ambiental instrumental crea una atmósfera serena.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+El personal atiende con delicadeza y discreción, asegurando que cada comensal cuente con un entorno apacible durante toda su estancia.
 
-En ASHKA - Café y Pastelería te esperamos en Alexander Von Humboldt 273, Cajamarca para que compartas y disfrutes de Bizcochos con la mejor atención y calidez.
+14. ¿Qué tan lejos se ubica el Monumento Histórico de San Francisco?
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Pan rallado en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Cada orden de Pan rallado se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+El café se sitúa a 1372 metros (1.37 km) de la Iglesia San Francisco de Cajamarca, demandando un trayecto de cinco minutos en mototaxi o unos quince minutos de caminata. Une el complejo franciscano con la zona de Humboldt.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Los visitantes que admiran la arquitectura virreinal y las plazoletas históricas pueden dirigirse con comodidad hacia nuestra sede para complementar la jornada con repostería fina de autor. Las vías de comunicación son ágiles.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Desde la puerta del café es sumamente fácil abordar taxis seguros para regresar hacia hoteles o terminales de viaje.
 
-Haz tu reserva o visítanos en ASHKA - Café y Pastelería, en Alexander Von Humboldt 273, Cajamarca, donde preparamos Pan rallado con el cariño de la buena mesa.
+15. ¿Qué origen y tostado poseen los granos de café que utilizan?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Pan para hot dog en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Disfrutar de Pan para hot dog en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Empleamos granos de café arábica cosechados por cooperativas agrarias sostenibles a más de 1700 metros sobre el nivel del mar en San Ignacio, destacando por su acidez brillante, cuerpo sedoso y notas a cacao y miel.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+El lote es tostado en perfil medio claro por tostadores expertos para salvaguardar las características singulares del origen sin generar notas amargas o quemadas. Mantenemos el café en tolvas herméticas con válvulas desgasificadoras.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Molinamos el café inmediatamente antes de cada taza servida, asegurando una explosión de aromas frescos en cada servicio.
 
-En ASHKA - Café y Pastelería te esperamos en Alexander Von Humboldt 273, Cajamarca para que compartas y disfrutes de Pan para hot dog con la mejor atención y calidez.
+16. ¿Qué tipo de atención y trato personal brinda el equipo?
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Pie de manzana en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Cada orden de Pie de manzana se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Nuestro personal se caracteriza por una atención amable, respetuosa y orientada a crear una experiencia gratificante para cada persona que nos visita. Resolvemos dudas sobre los ingredientes de cada postre con cordialidad.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Nos preocupamos por brindar un servicio rápido y cuidadoso en la presentación de los platos, prestando atención a detalles estéticos como vajilla elegante y servilleteros impecables. La hospitalidad es nuestro sello esencial.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Recibimos con mucho agrado los comentarios de los visitantes para continuar elevando la calidad de nuestra propuesta repostera y cafetera.
 
-Haz tu reserva o visítanos en ASHKA - Café y Pastelería, en Alexander Von Humboldt 273, Cajamarca, donde preparamos Pie de manzana con el cariño de la buena mesa.
+17. ¿Qué alternativas existen para el estacionamiento temporal de vehículos?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Strudel de manzana en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Disfrutar de Strudel de manzana en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+La calle Alexander Von Humboldt es una arteria residencial pacífica que dispone de calzadas aptas para estacionar automóviles particulares y motocicletas de forma momentánea frente al local. La iluminación pública es adecuada.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Quienes se detienen brevemente para retirar pedidos de tortas o paquetes de café pueden aparcar sin generar dificultades en la circulación vehicular. El barrio goza de seguridad vecinal constante.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Se aconseja a los conductores respetar las rampas residenciales contiguas para preservar el orden y la armonía comunitaria.
 
-En ASHKA - Café y Pastelería te esperamos en Alexander Von Humboldt 273, Cajamarca para que compartas y disfrutes de Strudel de manzana con la mejor atención y calidez.
+18. ¿Cómo conservan la integridad de los pasteles en entregas para llevar?
 
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Pan de leche en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Al elegir Pan de leche disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de panadería y pastelería.
+Empacamos las porciones de pastel en cajas de cartulina rígida plastificada de grado alimenticio que previenen cualquier deslizamiento o deformación durante el trayecto. Cada porción se apoya sobre bases doradas higiénicas.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Los cafés calientes se sirven en vasos térmicos con tapas dosificadoras herméticas para evitar salpicaduras involuntarias al caminar o viajar en vehículo. Entregamos bolsas de papel kraft resistentes con asas cómodas.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Este esmero en el empaquetado garantiza que cada postre llegue con su cobertura y decoración intactas hasta su mesa.
 
-Ven con tus familiares o amigos a ASHKA - Café y Pastelería en Alexander Von Humboldt 273, Cajamarca y déjate consentir por la sazón de Pan de leche.
+19. ¿Cómo se concibió la propuesta artesanal de ASHKA - Café y Pastelería?
 
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Croissant de jamón y queso en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-En nuestra cocina tratamos Croissant de jamón y queso como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+ASHKA - Café y Pastelería nació con el sueño de combinar la excelencia del café de especialidad de la sierra norteña con la calidez de la repostería artesanal contemporánea, brindando un rincón luminoso a la comunidad cajamarquina.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Desde su apertura, el emprendimiento ha apostado por insumos frescos, técnicas pasteleras rigurosas y una estética cuidada que invita a la desconexión y al goce de los pequeños placeres cotidianos. La dedicación se nota en cada detalle.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Mantenemos intacto el compromiso de brindar momentos deliciosos e inolvidables a quienes aprecian la calidad genuina.
 
-Te invitamos a visitarnos en ASHKA - Café y Pastelería, situado en Alexander Von Humboldt 273, Cajamarca, listos para servirte Croissant de jamón y queso con el sabor que te mereces.
+20. ¿En qué franja horaria atienden al público comensal?
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Galletas con chispas de chocolate en ASHKA - Café y Pastelería?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-Cada orden de Galletas con chispas de chocolate se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Atendemos al público de lunes a sábado desde las ocho de la mañana hasta las nueve de la noche de forma corrida, facilitando desde los primeros desayunos de trabajo hasta las meriendas y lonches de la tarde. La vitrina está siempre abastecida.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Los domingos abrimos las puertas en horario vespertino para acompañar los antojos familiares y las salidas de fin de semana con la mejor repostería fina. Toda la variedad de cafés y pasteles está disponible.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
-
-Haz tu reserva o visítanos en ASHKA - Café y Pastelería, en Alexander Von Humboldt 273, Cajamarca, donde preparamos Galletas con chispas de chocolate con el cariño de la buena mesa.
-
-================================================================================
+Para coordinar reservas de salón o consultar por tortas temáticas enteras, los usuarios pueden comunicarse directamente a nuestras líneas oficiales.
