@@ -1,7 +1,7 @@
 Nombre: Just Cajamarca
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Comercio_Minorista
-Subrubro: Bodegas
+Macro-Sector: 05_Belleza_y_Cuidado_Personal
+Rubro: Cosmetica_y_Arte
+Subrubro: Tiendas_de_Cosmeticos_y_Maquillaje
 Categoría Maps: Tienda de belleza y salud
 Dirección: Urbanización La Alameda H4-a, Cajamarca 06000
 Teléfono: 982 182 562

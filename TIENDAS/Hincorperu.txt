@@ -1,7 +1,7 @@
 Nombre: Hincorperu
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Distribucion_Alimentos
-Subrubro: Distribuidoras_Mayoristas
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
 Categoría Maps: Proveedor de mangueras
 Dirección: Av. Atahualpa 171, Cajamarca 06002
 Teléfono: 964 192 179
