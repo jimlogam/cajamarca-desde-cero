@@ -4,10 +4,10 @@ Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
 Categoría Maps: Restaurante
 Dirección: Amalia Puga 714, Cajamarca 06002
-Teléfono: 
+Teléfono:
 Rating: 4.2
 Reseñas: 6
-Sitio web: 
+Sitio web:
 Latitud: -7.157785199999999
 Longitud: -78.5169605
 Google Maps: https://www.google.com/maps?cid=6865314673265776598
@@ -18,7 +18,7 @@ Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLf7Vf25CoJYO6tqPGa0H8
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-Te damos la bienvenida a Emma Café. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Amalia Puga 714, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Te damos la bienvenida a Emma Café en el corazón monumental de Cajamarca. Te ofrecemos una selecta carta de cafés de especialidad de origen norperuano, deliciosas bebidas calientes artesanales, postres recién horneados, sándwiches gourmet y desayunos reconfortantes. Encuéntranos en Amalia Puga 714 a solo pasos del Cuarto del Rescate para disfrutar de un ambiente acogedor, elegante y sereno ideal para compartir o descansar. Visítanos hoy mismo para vivir una grata experiencia.
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -26,162 +26,201 @@ Te damos la bienvenida a Emma Café. El rincón perfecto para hacer una pausa y 
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
-PREGUNTA 1: Estoy frente al Cuarto del Rescate con prisa, ¿me preparan un café de especialidad y postre para llevar al paso?
+PREGUNTA 1: ¿Qué alternativas de desayunos nutritivos y cafés de origen sirven a primera hora?
 --------------------------------------------------------------------------------
 RESPUESTA 1:
-Nuestra barra está lista para despachar tu bebida con la máxima rapidez y esmero.
+Nuestra barra matutina está preparada para ofrecerte combinaciones deliciosas que llenan de vitalidad tu jornada en el centro histórico. Servimos café americano de tueste medio, cappuccinos con abundante microespuma de leche, chocolate caliente con canela e infusiones de hierbas andinas.
 
-Apenas cruzas la puerta nos indicas tu pedido y en escasos dos minutos te entregamos tu café humeante en vaso térmico sellado y una porción de queque artesanal para que continúes tu recorrido sin demoras en Emma Café.
+Acompañamos nuestras bebidas con tostadas francesas doradas con miel, huevos revueltos con queso mantecoso y sándwiches calientes en pan artesanal.
+
+En Emma Café cuidamos cada detalle de la mañana para que disfrutes de un desayuno reconfortante con la calidez y el esmero que mereces.
 
 --------------------------------------------------------------------------------
-PREGUNTA 2: ¿A cuántos pasos me encuentro de su local si salgo del histórico Cuarto del Rescate?
+PREGUNTA 2: ¿A cuántos metros de distancia se sitúa su local respecto al Cuarto del Rescate?
 --------------------------------------------------------------------------------
 RESPUESTA 2:
-Estamos a tan solo 47 metros del Cuarto del Rescate, literalmente al frente, papachito.
+Nos encontramos a tan solo 52 metros de separación respecto al emblemático monumento del Cuarto del Rescate en Cajamarca.
 
-Basta con cruzar hacia el Jirón Amalia Puga 714 para ingresar a nuestro acogedor local. Es la ubicación más privilegiada y cercana de todo el centro histórico para descansar los pies y tomar un café de altura.
+Puedes llegar a pie en menos de un minuto avanzando por la misma vereda del Jirón Amalia Puga hacia la cuadra siete.
+
+Esta extraordinaria proximidad convierte a nuestra cafetería en la escala perfecta para relajarse y tomar una bebida caliente tras la visita histórica.
 
 --------------------------------------------------------------------------------
-PREGUNTA 3: No llevo efectivo en la billetera, ¿puedo cancelar mi consumo con Yape o tarjeta?
+PREGUNTA 3: ¿Qué variedades de café de especialidad y métodos de extracción preparan en barra?
 --------------------------------------------------------------------------------
 RESPUESTA 3:
-Puedes consumir con absoluta comodidad pagando directamente desde tu teléfono móvil.
+Trabajamos con granos arábicos seleccionados procedentes de fincas cafetaleras de Jaén y San Ignacio con perfiles de catación destacados. Sus notas sensoriales expresan toques de chocolate negro, caramelo y una acidez cítrica balanceada y limpia en boca.
 
-Aceptamos transferencias inmediatas por Yape y Plin, así como cobros con tarjetas de débito o crédito sin comisiones añadidas, facilitándote una estadía libre de complicaciones.
+Disponemos de máquina espresso para lattes y espressos intensos, además de métodos de extracción artesanal como V60 y prensa francesa.
+
+Molemos el grano al instante de cada comanda para asegurar que disfrutes de la máxima intensidad aromática del café peruano.
 
 --------------------------------------------------------------------------------
-PREGUNTA 4: Mi teléfono celular se quedó sin batería y necesito revisar unos mensajes, ¿tienen enchufes accesibles?
+PREGUNTA 4: ¿Tienen disponibles opciones saladas y sándwiches gourmet para almorzar o merendar?
 --------------------------------------------------------------------------------
 RESPUESTA 4:
-Te asistimos de inmediato con tomas de corriente habilitadas cerca de las mesas y cables de carga compatibles en barra.
+Elaboramos una variada carta de sándwiches calientes preparados en panes recién salidos del horno artesanal con ingredientes frescos. Destacan nuestras opciones de pechuga de pavo horneada a las finas hierbas, pollo deshilachado con palta cremosa y jamón del país casero.
 
-Podrás conectar tu equipo con tranquilidad mientras disfrutas de una pausa agradable con una bebida caliente.
+Para alternativas vegetarianas disponemos de sándwiches con verduras asadas, queso andino fundido y pesto de albahaca fresca.
+
+Servimos cada opción tibia y debidamente empacada o emplatada para brindar un bocado sustancioso a cualquier hora del día.
 
 --------------------------------------------------------------------------------
-PREGUNTA 5: Si estoy en la histórica Plaza de Armas de Cajamarca, ¿cuántos minutos me toma llegar caminando?
+PREGUNTA 5: ¿Cuál es la distancia métrica y el trayecto para llegar desde la Iglesia San Francisco?
 --------------------------------------------------------------------------------
 RESPUESTA 5:
-La distancia desde la Plaza de Armas es de apenas 130 metros por el Jirón Amalia Puga.
+La separación que nos vincula con el atrio de la Iglesia San Francisco es de aproximadamente 66 metros de recorrido peatonal directo.
 
-En solo dos minutos de caminata descansada por el centro monumental llegarás a nuestras puertas, siendo un trayecto sumamente breve, plano y seguro.
+Únicamente debes cruzar la calzada hacia la calle Amalia Puga en una caminata de menos de un minuto por veredas adoquinadas.
+
+Es un acceso inmediato en pleno núcleo monumental que permite enlazar tus visitas a los templos con un descanso placentero.
 
 --------------------------------------------------------------------------------
-PREGUNTA 6: La tarde cajamarquina se puso helada y con viento, ¿qué bebida caliente tienen para servir al instante?
+PREGUNTA 6: ¿Qué postres de repostería fina ofrecen para acompañar las tardes de café?
 --------------------------------------------------------------------------------
 RESPUESTA 6:
-Para combatir el frío andino te servimos de inmediato un chocolate caliente artesanal preparado con cacao selecto o un capuchino con abundante espuma cremosa.
+Nuestra vitrina exhibe a diario una cuidada selección de dulces artesanales preparados bajo estándares rigurosos de pastelería fina. Podrás degustar porciones generosas de torta húmeda de chocolate con doble fudge, cheesecake de frutos rojos y tarta tibia de manzana.
 
-Ambas opciones devuelven la calidez al cuerpo desde el primer sorbo, reconfortándote por completo al abrigo de nuestras instalaciones.
+Contamos además con alfajores clásicos rellenos de abundante manjar blanco cajamarquino, galletas de avena y queques caseros de plátano.
+
+Cualquiera de estas delicias constituye el maridaje ideal para complementar una taza de café filtrado o un té caliente aromático.
 
 --------------------------------------------------------------------------------
-PREGUNTA 7: Traigo paquetes y bolsas de artesanías pesadas, ¿me permiten sentarme con bultos en el salón?
+PREGUNTA 7: ¿Cuentan con servicio de empaque para llevar bebidas y bocadillos de forma segura?
 --------------------------------------------------------------------------------
 RESPUESTA 7:
-El confort y la tranquilidad de nuestros visitantes son nuestra máxima prioridad.
+Facilitamos el despacho rápido de pedidos para llevar utilizando vasos térmicos de alta calidad con tapas herméticas que conservan el calor. Empacamos los postres y sándwiches en cajas protectoras rígidas que resguardan su perfecta presentación durante las caminatas.
 
-Te ubicamos en mesas holgadas donde resguardar tus compras con total seguridad, permitiéndote estirar las piernas y merendar con calma en Emma Café.
+Puedes solicitar tu pedido directamente en barra o comunicarte previamente por mensajería móvil para retirarlo sin demoras.
+
+El servicio para llevar de Emma Café asegura que disfrutes de tus sabores favoritos con total comodidad mientras recorres la ciudad.
 
 --------------------------------------------------------------------------------
-PREGUNTA 8: ¿Cuánto demoro en bajar caminando desde el Mirador Santa Apolonia?
+PREGUNTA 8: ¿Cuántos metros median entre su puerta y el perímetro de la Plaza de Armas?
 --------------------------------------------------------------------------------
 RESPUESTA 8:
-Nos ubicamos a unos 390 metros descendiendo por las escalinatas principales.
+La distancia que nos separa del perímetro principal de la histórica Plaza de Armas de Cajamarca es de exactamente 136 metros a pie.
 
-El trayecto a pie toma alrededor de cuatro a cinco minutos desembocando con facilidad hacia Amalia Puga, ideal para hacer una sobremesa deliciosa tras subir a contemplar la ciudad.
+El recorrido peatonal demanda menos de dos minutos avanzando por el Jirón Amalia Puga hacia la esquina sur de la plaza.
+
+Resulta una ubicación sumamente cómoda y accesible para turistas y residentes que buscan tranquilidad a pasos del centro neurálgico.
 
 --------------------------------------------------------------------------------
-PREGUNTA 9: ¿Disponen de conexión Wi-Fi rápida si requiero revisar pendientes laborales o de estudio?
+PREGUNTA 9: ¿Qué modalidades de pago admiten al momento de cancelar el consumo en barra?
 --------------------------------------------------------------------------------
 RESPUESTA 9:
-Ofrecemos conexión Wi-Fi de alta velocidad para nuestros visitantes.
+Aceptamos transferencias electrónicas directas y pagos mediante billeteras digitales escaneando nuestros códigos QR visibles en caja. Admitimos igualmente dinero en efectivo en billetes y monedas nacionales con cambio disponible de manera permanente.
 
-Podrás conectarte con tu laptop o celular sin cortes para revisar correos, enviar reportes o coordinar tareas en un espacio tranquilo y cómodo.
+Procesamos tarjetas bancarias de débito y crédito nacionales y extranjeras sin ningún tipo de comisión adicional sobre la carta.
+
+Emitimos boletas y facturas electrónicas de forma rápida y transparente para facilitar el control ordenado de tus gastos.
 
 --------------------------------------------------------------------------------
-PREGUNTA 10: ¿Tienen alfajores o queques preparados con auténtico manjar blanco cajamarquino?
+PREGUNTA 10: ¿El establecimiento ofrece un ambiente adecuado para leer, conversar o descansar?
 --------------------------------------------------------------------------------
 RESPUESTA 10:
-En vitrina destacan nuestros alfajores artesanales y postres caseros rellenos de manjar blanco tradicional elaborado con leche fresca de establos locales.
+Diseñamos nuestras instalaciones con mobiliario confortable, iluminación cálida y una disposición de mesas que asegura privacidad y descanso. Mantenemos una atmósfera tranquila con música instrumental a volumen suave que facilita la conversación y la lectura reposada.
 
-Su dulzor suave y textura sedosa hacen un maridaje perfecto con las notas profundas y aromáticas de nuestro café de especialidad.
+Es un espacio muy valorado por profesionales, lectores y parejas que buscan un refugio apacible frente al movimiento de las calles céntricas.
+
+Te garantizamos un rincón sereno donde cada taza de café se disfruta con calma y bienestar auténtico.
 
 --------------------------------------------------------------------------------
-PREGUNTA 11: Si me ubico en el Mercado Central, ¿cuál es la forma más fácil de llegar a su puerta?
+PREGUNTA 11: ¿Qué recorrido y distancia peatonal existe hacia el Mercado Central de Cajamarca?
 --------------------------------------------------------------------------------
 RESPUESTA 11:
-La distancia desde el Mercado Central es de aproximadamente 615 metros.
+Desde nuestro local median 306 metros de distancia en dirección hacia los accesos del Mercado Central de la urbe.
 
-Son unas seis cuadras en línea recta por el centro histórico que se caminan en unos siete minutos a paso tranquilo, siendo un trayecto comercial muy seguro y directo.
+El trayecto a pie toma alrededor de cuatro minutos caminando por el Jirón Amalia Puga y cruzando hacia la calle Amazonas.
+
+Esta ubicación intermedia conecta con facilidad las actividades comerciales y de abastecimiento con nuestro ambiente de descanso cafetero.
 
 --------------------------------------------------------------------------------
-PREGUNTA 12: Llegamos en grupo familiar numeroso sin aviso previo, ¿nos pueden acomodar juntos?
+PREGUNTA 12: ¿Manejan alternativas de bebidas frías como frappés, iced lattes o jugos naturales?
 --------------------------------------------------------------------------------
 RESPUESTA 12:
-Reorganizamos nuestras mesas modulares en un abrir y cerrar de ojos para acoger a toda tu familia.
+Elaboramos una refrescante selección de bebidas frías pensada para los días soleados y las tardes templadas del valle andino. Servimos cold brew aromático macerado en frío, iced lattes cremosos y frappés de café decorados con salsa de chocolate o caramelo.
 
-Todos podrán sentarse a compartir una misma charla mientras servimos con agilidad cafés, jugos naturales y sándwiches recién preparados.
+Para opciones frutales disponemos de jugos recién licuados de papaya, piña, maracuyá y limonadas frescas con hierbas del huerto.
+
+Todas nuestras preparaciones frías se sirven con hielo purificado e insumos de primera para brindar máxima frescura e hidratación.
 
 --------------------------------------------------------------------------------
-PREGUNTA 13: Busco una esquina reservada para una conversación en pareja o privada, ¿el ambiente es discreto?
+PREGUNTA 13: ¿Es factible solicitar pedidos corporativos o refrigerios para oficinas del centro?
 --------------------------------------------------------------------------------
 RESPUESTA 13:
-El local dispone de rincones cálidos y acogedores, alejados del ingreso principal, con iluminación suave y atmósfera serena.
+Atendemos encargos institucionales preparando paquetes de coffee break para empresas y grupos de trabajo en el casco monumental. Incluimos termos con café de especialidad caliente, cajas de sándwiches gourmet surtidos y bocaditos dulces seleccionados con esmero.
 
-Son espacios propicios para conversar con intimidad mientras comparten una infusión aromática o una porción de tarta casera en Emma Café.
+Coordinamos las entregas con estricta puntualidad para adaptarnos a los cronogramas laborales de tus actividades corporativas.
+
+Puedes confiar plenamente en el respaldo culinario de Emma Café para agasajar a tus colaboradores e invitados con distinción.
 
 --------------------------------------------------------------------------------
-PREGUNTA 14: ¿A cuántos minutos en taxi se encuentra su establecimiento desde el Real Plaza?
+PREGUNTA 14: ¿Cuántos metros de trayecto peatonal median hacia el Mirador Santa Apolonia?
 --------------------------------------------------------------------------------
 RESPUESTA 14:
-Desde el centro comercial la distancia es de 1.2 kilómetros hacia el centro monumental.
+Nos encontramos ubicados a 390 metros de distancia respecto al inicio de las escalinatas hacia el Mirador del Cerro Santa Apolonia.
 
-Abordando un taxi tardarás unos cuatro a cinco minutos en llegar hasta Amalia Puga 714, permitiéndote cambiar las compras comerciales por la paz de un café colonial.
+Puedes llegar a pie en unos cinco minutos caminando por el Jirón Dos de Mayo hacia las faldas de la colina monumental.
+
+Constituye un punto de escala perfecto para reponer energías con un café caliente o postre artesanal tras contemplar la vista panorámica.
 
 --------------------------------------------------------------------------------
-PREGUNTA 15: Evito la leche entera y el azúcar, ¿tienen alternativas saludables en carta?
+PREGUNTA 15: ¿Qué protocolos de frescura e higiene aplican en la preparación de todos sus productos?
 --------------------------------------------------------------------------------
 RESPUESTA 15:
-Preparamos tus cafés y capuchinos con leche vegetal de almendras o soya según tu elección.
+Cumplimos con estrictas normas sanitarias y de buenas prácticas de manufactura en toda nuestra rutina de almacenamiento y preparación. El personal barista y de cocina utiliza indumentaria reglamentaria, practica desinfección continua de manos y mantiene superficies limpias.
 
-Asimismo, contamos con infusiones digestivas de hierbas andinas sin endulzantes añadidos para que cuides tu salud sin renunciar al buen sabor.
+Los productos lácteos y materias primas perecibles se almacenan bajo control continuo de refrigeración para asegurar su óptima calidad.
+
+Esta minuciosidad nos permite asegurar preparaciones saludables, frescas y elaboradas bajo altos estándares de confianza higiénica.
 
 --------------------------------------------------------------------------------
-PREGUNTA 16: ¿Puedo pedir café en grano o molido con el tueste de la casa para llevar de viaje?
+PREGUNTA 16: ¿Disponen de opciones con leches vegetales para comensales con requerimientos dietéticos?
 --------------------------------------------------------------------------------
 RESPUESTA 16:
-Mantenemos paquetes de café selecto cosechado en valles de altura del norte peruano.
+Pensamos en el bienestar de todos nuestros comensales ofreciendo leche vegetal de almendras y avena para personalizar nuestras bebidas calientes y frías. Mantenemos además leche de vaca deslactosada para quienes buscan una digestión ligera sin perder la textura tradicional.
 
-Realizamos la molienda al instante de acuerdo al método que utilices en casa, empacado herméticamente para preservar toda la fragancia de Emma Café.
+Disponemos de endulzantes naturales como stevia en hojas, miel de abeja y panela orgánica para regular el dulzor a tu gusto.
+
+Solo debes avisar a nuestro personal al ordenar para que preparemos tu bebida con el cuidado especial que tu alimentación requiere.
 
 --------------------------------------------------------------------------------
-PREGUNTA 17: ¿Atienden los domingos por la tarde para salir a merendar con la familia?
+PREGUNTA 17: ¿Cuáles son los horarios de atención al público durante la semana y días festivos?
 --------------------------------------------------------------------------------
 RESPUESTA 17:
-Abrimos todos los días de la semana, incluidos los domingos en horario corrido.
+Atendemos de lunes a sábado desde las 8:00 a.m. de manera continuada hasta las 9:30 p.m., cubriendo desayunos, almuerzos ligeros y lonches. Los domingos y días feriados brindamos servicio a partir de las 8:30 a.m. para acompañar los recorridos turísticos y familiares por el centro.
 
-Es un momento predilecto para compartir la sobremesa con padres e hijos al abrigo de nuestras instalaciones en el corazón de Cajamarca.
+Mantenemos la misma disponibilidad de alimentos frescos y café recién extraído a lo largo de toda la jornada de servicio.
+
+Te sugerimos visitarnos en cualquier momento del día para disfrutar de una carta amplia en un ambiente hospitalario y acogedor.
 
 --------------------------------------------------------------------------------
-PREGUNTA 18: ¿Tienen sándwiches calientes o empanadas para quienes prefieren opciones saladas?
+PREGUNTA 18: ¿Disponen de facilidades de conexión wifi para los clientes en las mesas?
 --------------------------------------------------------------------------------
 RESPUESTA 18:
-Nuestra carta cuenta con empanadas recién horneadas, sándwiches artesanales calientes y tostadas especiales preparadas al instante con insumos frescos de la región.
+Contamos con una red de internet inalámbrico de alta velocidad disponible de forma gratuita para todos nuestros comensales en salón. La red brinda una señal estable y veloz que permite revisar correos de trabajo, realizar videollamadas breves o navegar con fluidez.
 
-Son porciones reconfortantes ideales para resolver un desayuno nutritivo o una cena ligera al caer la tarde.
+Puedes solicitar la clave de acceso a nuestro personal en la barra al momento de hacer tu orden para navegar con tranquilidad.
+
+Nos aseguramos de que dispongas de todas las facilidades tecnológicas para una estancia cómoda y productiva en nuestras instalaciones.
 
 --------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo es la accesibilidad para personas de la tercera edad o coches de bebé?
+PREGUNTA 19: ¿Cómo surgió el concepto acogedor y la pasión gastronómica que distingue al negocio?
 --------------------------------------------------------------------------------
 RESPUESTA 19:
-El ingreso a nuestro salón principal es directo a nivel de la calle en Amalia Puga, sin desniveles pronunciados que dificulten el acceso.
+Nuestra cafetería nació con el deseo de ofrecer un rincón distinguido y cálido en una de las calles más tradicionales de Cajamarca. Quisimos crear un espacio donde la excelencia del café norperuano se combinara con repostería fina y un trato hospitalario impecable.
 
-Esto permite una entrada fluida y segura tanto para adultos mayores como para familias que trasladan coches infantiles.
+Cuidamos cada detalle arquitectónico y decorativo para crear una atmósfera serena donde la luz suave y el aroma a café dialoguen en armonía.
+
+Esa dedicación constante por la perfección en taza y plato es lo que ha consolidado a Emma Café como un punto querido por la comunidad.
 
 --------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por qué medio puedo verificar si hay mesas libres antes de acercarme al local?
+PREGUNTA 20: ¿Por qué medios puedo consultar la carta del día o coordinar una visita grupal?
 --------------------------------------------------------------------------------
 RESPUESTA 20:
-La manera más rápida es comunicarte a través de nuestro WhatsApp oficial y canales digitales.
+Puedes contactarnos a través de nuestra mensajería móvil de WhatsApp o visitarnos personalmente en nuestro local en Amalia Puga 714. Con gusto te enviaremos el menú en formato digital con las opciones dulces y saladas disponibles en vitrina.
 
-Te responderemos al instante para confirmar el aforo disponible o coordinar la reserva de tu mesa favorita en Emma Café.
-================================================================================
+En caso de planificar una visita con amigos o delegaciones, puedes comunicarnos con anticipación para alistar mesas amplias en salón.
+
+Siempre estamos prestos a atenderte con la amabilidad y dedicación que mereces en cada una de tus visitas.
