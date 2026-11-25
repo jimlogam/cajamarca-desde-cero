@@ -1,0 +1,416 @@
+================================================================================
+FICHA DE INVESTIGACION - UNA FILA DE LA HOJA "maps-scraper-cajamarca"
+Colegio Cristo Rey Maristas - Cajamarca
+================================================================================
+Fecha de preparacion : 25 de noviembre de 2026 (zona America/Lima)
+Fuente base         : Google Sheets ID 151SYblQBlZXr_qHATqgEhl8Yg6Wpmlw_dIsPi9jpaAE
+                      Hoja "Untitled", fila 7 (primera institucion educativa
+                      de la lista; las filas 2-6 son apicultores/hoteles).
+                      Columnas AD-AI de esa fila venian vacias o parciales;
+                      esta ficha las completa con internet.
+
+--------------------------------------------------------------------------------
+1. FILA ORIGINAL DE LA HOJA (transcripcion literal)
+--------------------------------------------------------------------------------
+Name               : Colegio Cristo Rey Maristas
+Fulladdress        : Angamos 890, Cajamarca 06001
+Street             : Angamos 890
+Municipality       : Cajamarca 06001
+Categories         : Centro educativo
+Phone              : (076) 633245
+Phones             : (076) 633245, +51 76 633245
+Claimed            : YES
+Review Count       : 165
+Average Rating     : 4.6
+Review URL         : https://search.google.com/local/reviews?placeid=ChIJB1rE3FhaspERKT2DvFPIQoo&q=colegio+en+cajamarca&authuser=0&hl=es&gl=419
+Google Maps URL    : https://www.google.com/maps?cid=9962745587667516713
+Latitude           : -7.1494084
+Longitude          : -78.5236672
+Website            : (vacio en la hoja; el real es https://cristoreycajamarca.edu.pe/)
+Opening hours      : lunes a viernes 7:00 a.m. - 6:30 p.m.; sabado y domingo cerrado
+Cid                : 9962745587667516713
+Place Id           : ChIJB1rE3FhaspERKT2DvFPIQoo
+Kgmid              : /g/12hq493k1
+Plus code          : 6743VF2G+6G
+Google Knowledge   : https://www.google.com/search?kgmid=/g/12hq493k1&kponly
+Email / Facebook   : (vacios en la hoja; ver seccion 9)
+
+--------------------------------------------------------------------------------
+2. DIRECTOR(A) Y PLANA DIRECTIVA - CON CONFLICTO DE FUENTES (LEER)
+--------------------------------------------------------------------------------
+NO hay un solo nombre vigente confirmado al 25-11-2026. Hay dos nombres
+con fechas distintas. No los mezcles:
+
+A) EDWARD ALAIN ALMESTAR CIEZA (nombre completo; en prensa "Alain Almestar Cieza")
+   - DNI 26689190. Telefono 996688680. Email aalmestar@cristoreymaristas.edu.pe
+   - 19-07-2024: el Tribunal Constitucional lo presenta como "director del
+     colegio Cristo Rey Marista" al dar la bienvenida a la charla
+     "La Constitucion en el Cole" (300 alumnos de 4to y 5to de secundaria).
+     Fuente: https://www.tc.gob.pe/institucional/notas-de-prensa/tribunal-constitucional-realizo-en-cajamarca-la-charla-la-constitucion-en-el-cole/
+   - 12-05-2025: Oficio Multiple Nro. 061-2025-GR-CAJ/DRE-CAJ/UGEL-CAJ/AGP/EBE
+     (UGEL Cajamarca) lo lista como Director(a) de CRISTO REY Primaria
+     (CM 1107481) y de CRISTO REY Secundaria (CM 0390617), mismo local 094881.
+     Fuente: http://ugelcajamarca.gob.pe/wp-content/uploads/2025/05/OFICIO-MULTIPLE-061-2025-AGP-1.pdf
+   - 2019: ya figura como beneficiario/director en relacion de II.EE. de
+     mantenimiento UGEL Cajamarca (local 094881, S/ 11,520.00).
+     Fuente: http://ugelcajamarca.gob.pe/wp-content/uploads/2019/11/RELACION-DE-IIEE-BENEFICIADAS-PROGRAMA-SUPLEMENTARIO-DE-MANTENIMINETO-2019.pdf
+   - Facebook personal: https://www.facebook.com/alain.almestarcieza/
+   - IC Quality / red de calidad: figura como miembro "Cristo Rey".
+   - Escribe en 2024 a la Escuela de Posgrado UNC (estudio curricular).
+
+B) VERA PAREDES WALTER FERNANDO
+   - Figura como Director en el directorio/Censo 2025 publicado por
+     colegiosdelperu.com (actualizado 01-03-2026) para AMBOS niveles:
+     Primaria CM 1107481 y Secundaria CM 0390617, Jr. Angamos 890.
+     Fuentes:
+       https://colegiosdelperu.com/cajamarca/cajamarca/cristo-rey-secundaria-0390617
+       https://colegiosdelperu.com/cajamarca/cajamarca/cristo-rey-primaria-1107481
+   - 2021 y 2023: MINEDU / evaluaciondocente.perueduca.pe lo lista como
+     "DIRECTOR I.E." de CRISTO REY Secundaria CM 0390617 (UGEL Cajamarca).
+     Fuentes:
+       https://evaluaciondocente.perueduca.pe/media/11485220085acdi-definitivos.pdf
+       https://evaluaciondocente.perueduca.pe/media/11690313578CAJAMARCA.pdf
+   - 2020: autor de la tesis doctoral "Aplicacion del programa 'Ser, Pensar y
+     Actuar Espiritual' en los docentes de las II.EE. Hno. Miguel Carducci
+     Ripiani y Cristo Rey de Cajamarca, 2018" (UPAGU).
+     Fuente: http://repositorio.upagu.edu.pe/handle/UPAGU/1273
+
+CONCLUSION SOBRE EL DIRECTOR:
+   Almestar Cieza es el director documentado con fuente oficial en 2024-2025.
+   Vera Paredes es el director que aparece en el directorio 2026 (posible
+   rezago de actualizacion o cambio posterior). ANTES de publicar "director
+   actual", verifica en UGEL Cajamarca / ESCALE / secretarial del colegio
+   (076-633245 / tramites@cristoreymaristas.edu.pe). La web oficial
+   (cristoreycajamarca.edu.pe/mensaje-del-director/) existe pero no muestra
+   el nombre en el texto extraido.
+
+Subdirector(a):
+   - Oficio UGEL 2025 menciona a SEGUNDO DANIEL MEJIA (DNI 266200xx) en el
+     bloque de Cristo Rey (rol exacto truncado en el PDF: probable
+     subdirector). Verificar.
+   - Listado de plazas 2025 (evaluaciondocente.perueduca.pe, 07-11-2025)
+     registra un SUB-DIRECTOR I.E. para CM 0390617 con DNI 26535174
+     (nombre no visible en el extracto). No se afirma el nombre.
+   - Directores historicos (no actuales):
+     * Hno. Jorge Denegri - director fundador, enero-abril 1953.
+     * Hno. Juan Molas Bosch - director hacia 2020 (testimonio ex-alumno).
+     * Hno. Barsen Garcia Alonso - director citado en cronica (~1971).
+
+--------------------------------------------------------------------------------
+3. DOCENTES CONOCIDOS Y PLANA DOCENTE
+--------------------------------------------------------------------------------
+La web oficial NO publica la lista nominal de docentes. No inventes nombres.
+Lo que SI esta documentado en fuentes publicas:
+
+Actuales / recientes (con fuente):
+   - Milton Jesus Gonzales Tafur - Coordinador de Actividades, Colegio
+     Cristo Rey - Cajamarca - Hnos. Maristas (LinkedIn).
+     https://www.linkedin.com/in/milton-jesus-gonzales-tafur-2a9b0456/
+   - Karla Melendez - Docente en Colegio Cristo Rey Maristas (LinkedIn,
+     perfil relacionado). Sin area confirmada.
+   - "Pepe" - Profesor(a) del Taller de Futbol (web oficial, pagina Talleres).
+   - "Jean Werner" - Profesor(a) del Taller de Voleibol (web oficial).
+     https://cristoreycajamarca.edu.pe/voleibol/
+   - Facebook oficial publico una CONVOCATORIA para docente de Ciencias
+     Sociales a tiempo completo ("Nuestros estudiantes esperan un docente
+     del area de Ciencias Sociales..."). Indica vacante/rotacion, no nombre.
+     https://www.facebook.com/cristoreymaristas.cajamarca/
+
+Historicos (testimonio ex-alumno, blog Cronicas de Cajamarca, 2010):
+   - Prof. Zaldivar (sin nombre completo).
+   - Prof. "el Uva" - Ingles (apodo; nombre no recordado por el autor).
+   - Prof. Mendoza - Geografia.
+   - Prof. Carlos Melendez - Matematicas.
+   - Hermanos Carlos y Mario (religiosos docentes).
+   Fuente: https://cronicascajamarca.blogspot.com/2010/06/colegio-cristo-rey-de-cajamarca.html
+
+Personas vinculadas (NO son docentes, no confundir):
+   - Jose Carlos Galvez Angulo - Presidente del Club de Leones de Cajamarca;
+     entrego reconocimiento al colegio el 11-03-2024.
+   - Damaris Sarai Chilon Ayay - ALUMNA; ganadora nacional del Concurso de
+     dibujo Cartel de la Paz (Club de Leones), represento al Peru en la etapa
+     final con el ensayo "Mi Mundo Ideal de Paz" (marzo 2024).
+   - Gonzalo Munoz Hernandez - Asesor jurisdiccional del TC, expositor
+     "La Constitucion en el Cole" (19-07-2024). No es docente del colegio.
+   - Alex Ulloa Ibanez - Director academico del CEC-TC (2024). No es docente.
+
+Plana numerica (Censo 2025, ver seccion 5):
+   Secundaria: 27 docentes. Primaria: 14 docentes. Total local: 41.
+   La tesis de Vera Paredes (2020) estudio a los docentes JEC de Cristo Rey
+   y Hno. Miguel Carducci en 2018, pero no se extrajeron nombres.
+
+--------------------------------------------------------------------------------
+4. ESTADO, GESTION Y UBICACION ADMINISTRATIVA (MINEDU / ESCALE)
+--------------------------------------------------------------------------------
+Estado            : ACTIVA (Censo Educativo 2025, actualizacion 01-03-2026)
+Gestion           : Publica de gestion privada
+Dependencia       : Convenio con Sector Educacion
+                    (asociacion publico-privada con la Congregacion Marista;
+                    en resenas de Google se describe como "colegio nacional
+                    que trabaja en asociacion publico-privada con la
+                    Congregacion Marista" y "afiliada a la Catolica").
+                    OJO: algunas fichas secundarias dicen "publica de gestion
+                    directa"; la ficha MINEDU/ESCALE via colegiosdelperu dice
+                    "Publica de gestion privada / Convenio". Usa la segunda
+                    y verifica en ESCALE si necesitas cita formal.
+DRE / UGEL         : DRE Cajamarca / UGEL Cajamarca
+Nivel / Modalidad  : Educacion Basica Regular - Primaria y Secundaria
+Forma de atencion : Escolarizada
+Genero            : Mixto
+Turno             : Manana (continuo solo en la manana)
+Area              : Urbana (INEI, umbral 2,000 hab.)
+Localidad         : Chontapaccha / Centro poblado Cajamarca
+Direccion         : Jr. Angamos 890, Cajamarca 06001
+Ubigeo            : 060101
+Coordenadas       : -7.149571, -78.523111 (ESCALE) / -7.1494084, -78.5236672 (Maps)
+Telefono          : 076-633245 (oficial) / 076-362584 (directorio ESCALE)
+Email general     : tramites@cristoreymaristas.edu.pe
+                    cristorey@cristoreymaristas.edu.pe (Facebook)
+Fecha de registro : Secundaria 05-09-1975 / Primaria 08-11-1996
+Razon social / RUC: NO verificado en las fuentes revisadas. La obra es de la
+                    Congregacion de los Hermanos Maristas (fundada por
+                    San Marcelino Champagnat). Buscar RUC en SUNAT antes de
+                    ponerlo en la hoja.
+NO CONFUNDIR con otros "Cristo Rey" de Cajamarca:
+   - Cristo Rey Cutervo (CM 1051564, Av. Maria Elena Medina S/N, directora
+     Sonia del Carmen Alarcon Horna, inauguracion de infraestructura 2025).
+   - Cristo Rey Llama-Chota (CM 1159144, Carniche Bajo).
+   - 16479 Cristo Rey La Coipa-San Ignacio (CM 0917591).
+   - 16006 Cristo Rey Jaen (Primaria/Secundaria).
+   Todos tienen otro codigo modular y otra direccion. El de esta fila es
+   UNICAMENTE CM 0390617 (Sec.) + CM 1107481 (Prim.), local 094881.
+
+--------------------------------------------------------------------------------
+5. CENSOS EDUCATIVOS ESCALE - MINEDU (CENSO 2025)
+--------------------------------------------------------------------------------
+SECUNDARIA - Codigo Modular 0390617 / Codigo Local 094881
+   Alumnos totales : 454
+   Alumnos hombres : 237
+   Alumnos mujeres : 217
+   Docentes        : 27
+   Secciones       : 12
+   Ratio           : ~16.8 alumnos por docente
+   Fuente: https://colegiosdelperu.com/cajamarca/cajamarca/cristo-rey-secundaria-0390617
+           (presenta datos MINEDU Censo 2025; para cita formal, contrastar
+           en https://identicole.minedu.gob.pe/ o ESCALE)
+
+PRIMARIA - Codigo Modular 1107481 / Codigo Local 094881 (mismo local)
+   Alumnos totales : 446
+   Alumnos hombres : 241
+   Alumnos mujeres : 205
+   Docentes        : 14
+   Secciones       : 12
+   Caracteristica  : Polidocente completo
+   Ratio           : ~31.9 alumnos por docente
+   Fuente: https://colegiosdelperu.com/cajamarca/cajamarca/cristo-rey-primaria-1107481
+   Dato de contraste (DePeru, aprox.): 447 alumnos, 15 docentes, 12 secciones.
+   Fuente: https://www.deperu.com/educacion/educacion-primaria/escuela-cristo-rey-cajamarca-86379
+
+TOTAL DEL LOCAL (Primaria + Secundaria, mismo Jr. Angamos 890):
+   Alumnos : 900 (446 + 454)
+   Docentes: 41 (14 + 27)
+   Secciones: 24 (12 + 12)
+
+Google Maps (senial de reputacion, no censo):
+   165 resenas, promedio 4.6 / 5.0. Resenas destacan formacion en valores,
+   ayuda academica y vinculo con universidades catolicas. Verificar que las
+   resenas no sean verificadas por Google (aviso de la propia plataforma).
+
+--------------------------------------------------------------------------------
+6. RESENA HISTORICA, LEMA E INFRAESTRUCTURA
+--------------------------------------------------------------------------------
+Fundacion : 1953 (Congregacion Marista). En 2026 cumple 73 anos.
+   - 27-12-1952: llegan a Cajamarca los hermanos Placido y Jorge para ubicar
+     el local y formar el comite.
+   - Enero 1953: arriba el Hno. Jorge Denegri, director fundador; lo
+     acompanan los hermanos Tomas Garcia Rabanal y Manuel Vignate Zegarra.
+   - 02-03-1953: inician inscripciones (local alquilado, Jr. Tarapaca 76).
+   - 19-04-1953: inauguracion y bendicion con 83 alumnos (Transicion, 1ro,
+     2do y 3ro de primaria). Colegio particular de varones en origen.
+   - Resolucion Ministerial Nro. 556: autorizacion como Escuela de Primer
+     Ciclo; en 1959 se amplia a Segundo Ciclo; primera promocion en 1960.
+   - 1966: se separan Primaria y Secundaria. La Primaria pasa a la Escuela
+     de Aplicacion de la Normal Superior Tecnica ("La Aplicacion"), bajo
+     direccion marista hasta 1981.
+   - 2018: video "65 anos" (Camaleon Producciones).
+   Fuentes:
+     https://cristoreycajamarca.edu.pe/resena-historica/
+     http://maristasperu.blogspot.com/ (100 anos de presencia marista)
+     https://cronicascajamarca.blogspot.com/2010/06/colegio-cristo-rey-de-cajamarca.html
+
+Lemas / espiritualidad:
+   - "Todo a Jesus por Maria, todo a Maria para Jesus"
+   - "Para Educar hay que amar"
+   - Proposito (Facebook): "formar buenos cristianos y virtuosos ciudadanos"
+   - Fundador de la Congregacion: San Marcelino Champagnat.
+   - Pastoral: Cultura Vocacional, Espiritualidad y Laicado, Solidaridad,
+     GAMA (Grupo de amistad Marista), Marcha "Maria y Champagnat", Primera
+     Comunion, Confirmacion, Fe y Luz, Pastoral de Padres "Creciendo en la fe".
+   - Talleres deportivos: Futbol, Voleibol, Basquetbol (con profesores en
+     capacitacion y entrenadores reconocidos).
+
+Infraestructura / servicios (web oficial):
+   - Local Jr. Angamos 890 (Chontapaccha), zona urbana.
+   - Canchon, coliseo cerrado, ambientes para talleres.
+   - Acceso a SieWeb (https://cristoreymaristas.sieweb.com.pe/sistema/login)
+     y plataforma de Convivencia.
+   - Horario de atencion al publico: Lun-Vie 7:00-18:30 (Maps).
+
+--------------------------------------------------------------------------------
+7. NOTICIAS, LOGROS Y SUCESOS (2015-2026) - SOLO LO VERIFICADO
+--------------------------------------------------------------------------------
+2024-03-11 - Club de Leones de Cajamarca reconoce al colegio por su apoyo al
+   Concurso de dibujo Cartel de la Paz. La alumna Damaris Sarai Chilon Ayay
+   gano a nivel nacional y represento al Peru en la etapa final con el
+   ensayo "Mi Mundo Ideal de Paz". Entrega: Jose Carlos Galvez Angulo,
+   presidente del Club de Leones.
+   Fuente: https://cristoreycajamarca.edu.pe/ (seccion "Enterate")
+
+2024-03-07 / 2024-03-08 - Participacion de la Promocion 2024 (figuras
+   humanas) y Bienvenida de los nuevos maristas por alumnos de 5to de
+   secundaria (tradicion del colegio).
+   Fuente: https://cristoreycajamarca.edu.pe/
+
+2024-07-19 - Tribunal Constitucional (CEC) realiza "La Constitucion en el
+   Cole" en Cristo Rey Maristas: 300 alumnos de 4to y 5to de secundaria.
+   Expositor: Gonzalo Munoz Hernandez (asesor jurisdiccional TC). Director
+   academico CEC: Alex Ulloa Ibanez. Bienvenida: director Alain Almestar
+   Cieza. Marco: 20 aniversario del CEC.
+   Fuente: https://www.tc.gob.pe/institucional/notas-de-prensa/tribunal-constitucional-realizo-en-cajamarca-la-charla-la-constitucion-en-el-cole/
+
+2025 (sin fecha exacta en el extracto) - Facebook oficial publica
+   convocatoria para docente de Ciencias Sociales a tiempo completo.
+   Fuente: https://www.facebook.com/cristoreymaristas.cajamarca/
+
+2026 - Web oficial anuncia "Clarin de Plata" (bases en carpeta de Drive).
+   Es un aviso del colegio, no un resultado verificado.
+   Fuente: https://cristoreycajamarca.edu.pe/
+
+NO atribuir a esta fila (son de OTRO Cristo Rey):
+   - Inauguracion de moderna infraestructura en Cristo Rey de CUTERVO
+     (17-03-2025, gobernador Roger Guevara, inversion > S/ 17 millones,
+     directora Sonia del Carmen Alarcon Horna). Es CM 1051564, no 0390617.
+   - Losa deportiva en Cristo Rey de LLAMA-Chota (S/ 631,413.96). Otro local.
+
+--------------------------------------------------------------------------------
+8. REDES SOCIALES Y FUENTES (con URLs listas para pegar en la hoja)
+--------------------------------------------------------------------------------
+Web oficial      : https://cristoreycajamarca.edu.pe/
+Mensaje director : https://cristoreycajamarca.edu.pe/mensaje-del-director/
+Resena historica : https://cristoreycajamarca.edu.pe/resena-historica/
+Facebook oficial : https://www.facebook.com/cristoreymaristas.cajamarca/
+                   - 5,806 "Me gusta" / ~5.8K seguidores / 13 hablando de esto
+                     (dato de indice de busqueda; Facebook bloquea el
+                     acceso directo sin login, HTTP 403 al intentar leerlo).
+                   - Telefono +51 76 633245
+                   - Email cristorey@cristoreymaristas.edu.pe
+                   - Descripcion: "Institucion educativa cuyo proposito es
+                     formar buenos cristianos y virtuosos ciudadanos."
+Facebook antigua : https://www.facebook.com/Cristo-Rey-Cajamarca-177849262590388
+                   (citada en DePeru; puede ser pagina anterior)
+Facebook director: https://www.facebook.com/alain.almestarcieza/
+Instagram        : no encontrado (buscar como @cristoreymaristas.cajamarca)
+Twitter / X      : no encontrado
+YouTube          : videos "Generacion 93' - Hno. Jose Luis Marcos Diez -
+                   Colegio Marista Cristo Rey Cajamarca" (2009).
+                   https://www.youtube.com/watch?v=T7k6qHOp2o4
+LinkedIn         : Milton Jesus Gonzales Tafur (Coordinador de Actividades)
+Google Maps      : https://www.google.com/maps?cid=9962745587667516713
+                   Place ID ChIJB1rE3FhaspERKT2DvFPIQoo / Plus 6743VF2G+6G
+ESCALE / MINEDU  : Secundaria CM 0390617 / Primaria CM 1107481 / Local 094881
+                   Fichas espejo (datos Censo 2025):
+                   https://colegiosdelperu.com/cajamarca/cajamarca/cristo-rey-secundaria-0390617
+                   https://colegiosdelperu.com/cajamarca/cajamarca/cristo-rey-primaria-1107481
+UGEL Cajamarca   : Oficio 061-2025 (directores) y relacion de mantenimiento
+                   2019 (ver URLs en seccion 2).
+TC               : nota de prensa 19-07-2024 (ver seccion 7).
+
+--------------------------------------------------------------------------------
+9. TEXTO LISTO PARA PEGAR EN LAS COLUMNAS AD-AI DE LA HOJA
+--------------------------------------------------------------------------------
+Razon Social y RUC (AD):
+   Colegio Cristo Rey Maristas (obra de la Congregacion de los Hermanos
+   Maristas, fundada por San Marcelino Champagnat). RUC no verificado en
+   fuentes revisadas; buscar en SUNAT. No confundir con Cristo Rey Cutervo
+   (CM 1051564) ni Cristo Rey Llama (CM 1159144).
+
+Estado MINEDU/SUNAT (AE):
+   Activa (Censo 2025, act. 01-03-2026). Publica de gestion privada, Convenio
+   con Sector Educacion. DRE Cajamarca / UGEL Cajamarca. EBR Primaria y
+   Secundaria, escolarizada, mixto, turno manana, urbana. Registro Sec.
+   05-09-1975 / Prim. 08-11-1996.
+
+Codigos, Gestion y Ubicacion (AF):
+   Secundaria CM 0390617 / Primaria CM 1107481 / Local 094881. Jr. Angamos
+   890, Chontapaccha, Cajamarca 06001, ubigeo 060101. Coords. -7.149571,
+   -78.523111. Tel. 076-633245 / 076-362584. Email
+   tramites@cristoreymaristas.edu.pe.
+
+Director(a) y Plana Directiva (AG):
+   CONFLICTO DE FUENTES: Edward Alain Almestar Cieza (DNI 26689190,
+   aalmestar@cristoreymaristas.edu.pe, 996688680) documentado como director
+   en TC 19-07-2024 y Oficio UGEL 061-2025 (Prim. y Sec.). Vera Paredes
+   Walter Fernando figura como director en directorio Censo 2025
+   (act. 01-03-2026) y en MINEDU 2021-2023. Verificar vigencia en UGEL/
+   secretarial antes de publicar. Subdirector mencionado: Segundo Daniel
+   Mejia (UGEL 2025, rol por confirmar).
+
+Docentes Conocidos y Plana Docente (AH):
+   Sin lista nominal oficial publicada. Documentados: Milton Jesus Gonzales
+   Tafur (Coordinador de Actividades, LinkedIn); Karla Melendez (docente,
+   LinkedIn); "Pepe" (futbol) y "Jean Werner" (voley) en web oficial;
+   convocatoria Facebook 2025 para Ciencias Sociales. Historicos (blog
+   Cronicas): Zaldivar, "el Uva" (ingles), Mendoza (Geografia), Carlos
+   Melendez (Matematicas), Hnos. Carlos y Mario. Plana Censo 2025: 27
+   docentes Sec. + 14 Prim. = 41.
+
+Censos Educativos ESCALE-MINEDU (AI):
+   Censo 2025 - Secundaria CM 0390617: 454 alumnos (237 H, 217 M), 27
+   docentes, 12 secciones. Primaria CM 1107481: 446 alumnos (241 H, 205 M),
+   14 docentes, 12 secciones. Total local: 900 alumnos, 41 docentes,
+   24 secciones. Fuente espejo colegiosdelperu.com (contrastar en ESCALE).
+
+Resena Historica, Lema e Infraestructura (AJ):
+   Fundado 1953 por Hermanos Maristas (Hno. Jorge Denegri, director
+   fundador; Tomas Garcia Rabanal y Manuel Vignate Zegarra). Inauguracion
+   19-04-1953 con 83 alumnos en Jr. Tarapaca 76. RM 556 (Primer Ciclo),
+   1959 Segundo Ciclo, primera promocion 1960. Lemas: "Todo a Jesus por
+   Maria, todo a Maria para Jesus" / "Para Educar hay que amar". Local
+   actual Jr. Angamos 890, coliseo, canchon, talleres futbol/voley/basquet,
+   pastoral marista. 73 anos en 2026.
+
+Noticias, Logros y Sucesos 2015-2026 (AK):
+   11-03-2024 Club de Leones premia al colegio; alumna Damaris Sarai Chilon
+   Ayay gana Cartel de la Paz nacional y representa al Peru. 19-07-2024 TC
+   "La Constitucion en el Cole" (300 alumnos 4to-5to Sec., dir. Almestar
+   Cieza). 2024 bienvenida de nuevos maristas y participacion Promocion
+   2024. 2025 convocatoria docente Ciencias Sociales (Facebook). 2026
+   "Clarin de Plata" anunciado en web. No atribuir la obra de Cutervo 2025
+   (otro Cristo Rey).
+
+Redes Sociales y Fuentes (AL):
+   Web https://cristoreycajamarca.edu.pe/ | Facebook
+   https://www.facebook.com/cristoreymaristas.cajamarca/ (5.8K seg.) |
+   Maps cid 9962745587667516713 | ESCALE CM 0390617/1107481 local 094881 |
+   TC 19-07-2024 | UGEL Oficio 061-2025. Facebook bloquea scraping (403);
+   datos FB via indice de busqueda.
+
+--------------------------------------------------------------------------------
+10. ADVERTENCIAS Y QUE FALTA VERIFICAR
+--------------------------------------------------------------------------------
+1. Director vigente: hay dos nombres con fechas distintas (Almestar Cieza
+   2024-2025 vs. Vera Paredes en directorio 2026). Llamar a 076-633245 o
+   escribir a tramites@cristoreymaristas.edu.pe.
+2. RUC / razon social exacta: no se encontro en las fuentes revisadas.
+3. Plana docente nominal: el colegio no la publica; no inventar nombres.
+4. Facebook: la pagina oficial existe y es muy activa (5.8K), pero no se
+   pudo leer directamente (403 sin login). Los datos de Facebook vienen del
+   indice de busqueda; entra con tu cuenta para ver publicaciones recientes.
+5. Cifras de alumnos/docentes: son del Censo 2025 via espejo
+   colegiosdelperu.com. Para uso formal, descargar la ficha ESCALE.
+6. No mezclar con Cristo Rey de Cutervo, Llama, La Coipa o Jaen (mismo
+   nombre, distinto codigo modular y direccion).
+
+================================================================================
+FIN DE LA FICHA - Colegio Cristo Rey Maristas (CM 0390617 / 1107481)
+================================================================================
