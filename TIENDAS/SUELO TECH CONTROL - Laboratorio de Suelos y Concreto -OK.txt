@@ -1,7 +1,7 @@
 Nombre: SUELO TECH CONTROL - Laboratorio de Suelos y Concreto
-Macro-Sector: 04_Salud_y_Medicina
-Rubro: Farmacia_y_Laboratorio
-Subrubro: Laboratorios_Clinicos_y_Analisis
+Macro-Sector: 11_Inmobiliaria_y_Proyectos
+Rubro: Diseno_y_Topografia
+Subrubro: Ingenieria_Civil_y_Estructural
 Categoría Maps: Empresa de ingeniería civil, Laboratorio, Servicio de análisis de suelos
 Dirección: Jiron, Javier Heraud 130, Cajamarca 06001
 Teléfono: 983 157 792

@@ -1,7 +1,7 @@
 Nombre: ARJESS - Uniformes y Accesorios Médicos
-Macro-Sector: 04_Salud_y_Medicina
-Rubro: Centros_Medicos
-Subrubro: Clinicas_y_Policlinicos
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
 Categoría Maps: Tienda de uniformes
 Dirección: Jirón Puno 131, Cajamarca 06001
 Teléfono: 985 310 058
