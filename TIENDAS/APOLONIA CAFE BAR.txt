@@ -2,172 +2,180 @@ Nombre: APOLONIA CAFE BAR
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Bar
+Categoría Maps: Bar, Cafetería, Pub restaurante
 Dirección: Jirón del Comercio 702, Cajamarca 06001
 Teléfono: 940 179 650
 Rating: 4.6
 Reseñas: 43
-Sitio web: 
-Latitud: -7.1566583999999995
+Sitio web:
+Latitud: -7.1566584
 Longitud: -78.5191652
 Google Maps: https://www.google.com/maps?cid=13210953749304678965
 Place Id: ChIJf0nWVm9bspERNZpru3C8Vrc
 Fotos: APOLONIA CAFE BAR.jpg
 Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdwqYAg4kaBrt3P_3iMNzUO01cByiF6OXZ8uwqKUNJoHoBbw9JCxhdPMxY2teb-nSi82lFOTS5eh1PyZ9he28SSJnwcNFUAj2HbjnHxmflE9zfemtqy8Rr6KMn_0yO_yyjmvZgf=w1600-h1200-k-no
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a APOLONIA CAFE BAR. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Jirón del Comercio 702, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+================================================================================
+================================================================================
+Texto de bienvenida:
+En APOLONIA CAFE BAR te damos la bienvenida a un espacio emblemático de tertulia, buen café y coctelería selecta en la histórica esquina del jirón del Comercio 702 en Cajamarca. Con más de cuarenta opiniones elogiosas y una calificación de 4.6 estrellas, servimos café de especialidad de altura, cervezas artesanales bien frías, piqueos andinos y cócteles clásicos en un ambiente bohemio inolvidable. Disfruta de buena música, vista colonial y atención personalizada. ¡Ven a vivir momentos especiales en el centro!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué especialidades de café de altura y bebidas calientes destacan en la barra?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: Es mi primer día conociendo Cajamarca y no sé por dónde empezar, ¿qué me recomiendan probar para aclimatarme?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Te recibimos con los brazos abiertos en la ciudad del Cumbe.
+En nuestra barra cafetera preparamos cafés de especialidad empleando granos selectos de las provincias de Jaén y San Ignacio, tostados artesanalmente para resaltar sus notas de panela, chocolate amargo y frutos secos.
 
-Para aclimatarte del viaje y del fresco andino, te recomendamos pedir un café de especialidad pasado en método artesanal con granos de Jaén, acompañado de una porción tibia de queque o alfajor cajamarquino con manjar blanco tradicional.
+Servimos espressos puros bien concentrados con crema color avellana, cappuccinos aterciopelados con leche emulsionada a temperatura precisa, lattes suaves y café americano tradicional pasado con filtro de tela. Cada taza se elabora al instante.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿A cuántos pasos me encuentro desde la Plaza de Armas de Cajamarca si vengo a pie?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Nos encontramos a tan solo 140 metros de la Plaza de Armas, a la vuelta de la esquina, papachito.
+Para quienes desean bebidas calientes reconfortantes, ofrecemos chocolate artesanal espeso con cacao cajamarquino, café con toques de licor andino e infusiones digestivas de muña y menta fresca.
 
-Puedes llegar caminando en escasos dos minutos en línea recta por el Jirón del Comercio, siendo la parada más cómoda para descansar los pies después de recorrer la plaza principal.
+2. ¿A qué distancia se encuentra APOLONIA CAFE BAR respecto a la Plaza de Armas de Cajamarca?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: Tengo una llamada urgente de trabajo y poco tiempo, ¿me despachan un café expreso rápido al mostrador?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Entendemos tu prisa.
+El café bar se sitúa a solo 170 metros (0.17 km) de la Plaza de Armas de Cajamarca, representando una breve caminata de apenas dos minutos recorriendo la histórica calle del Comercio. Es una ubicación inmejorable dentro del casco monumental.
 
-Al ingresar avísale a nuestro barista en barra y en menos de dos minutos tendrás un café expreso caliente y aromático listo para tomar al paso o llevar en vaso térmico sin demorarte nada.
+Turistas nacionales y extranjeros, funcionarios y familias que pasean por la plaza mayor pueden llegar sin esfuerzo para tomar un descanso reparador con café caliente o un cóctel refrescante. La calle es mayormente peatonal y muy segura.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: No tengo efectivo en la billetera, ¿puedo cancelar mi consumo con cualquier aplicación móvil?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Puedes pagar con total libertad usando Yape o Plin desde tu celular, además de tarjetas de crédito o débito sin recargos adicionales.
+Esta cercanía facilita utilizar el local como punto de encuentro neurálgico antes o después de emprender recorridos turísticos por la ciudad.
 
-Queremos que tu única preocupación sea disfrutar del momento.
+3. ¿Cuáles son los cócteles de autor y tragos tradicionales de la casa?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: Estoy bajando del Mirador Santa Apolonia con frío y cansancio, ¿cuánto demoro en llegar a su local?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-Estás a solo 400 metros bajando por las escalinatas tradicionales.
+Nuestra barra de coctelería prepara chilcanos clásicos y macerados de la casa con hierbas aromáticas de la sierra, frutos del bosque y maracuyá, logrando combinaciones aromáticas sumamente refrescantes al paladar.
 
-En cuatro o cinco minutos a pie desembocas directo en nuestra puerta en el Jirón del Comercio, convirtiéndose en el refugio perfecto para calentarte del viento de la colina con un buen chocolate caliente cajamarquino.
+Elaboramos también el cotizado pisco sour con destilados de uva pura y zumo de limón recién exprimido, cócteles a base de café como el espresso tonic con agua tónica helada, y gin tonics aromatizados con bayas de enebro y romero fresco.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: Mi laptop se quedó en 5% de batería y necesito avanzar un informe, ¿hay mesas con enchufes disponibles?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Contamos con tomacorrientes al pie de varias de nuestras mesas y conexión Wi-Fi de alta velocidad para que conectes tu equipo con tranquilidad y trabajes en un ambiente cómodo, iluminado y con música a volumen moderado.
+Disponemos además de cervezas artesanales producidas en el valle de Cajamarca con diversos perfiles de malta y lúpulo, además de cervezas industriales heladas y copas de vino tinto.
 
---------------------------------------------------------------------------------
-PREGUNTA 7: Quiero tener una cita tranquila en pareja esta noche, ¿tienen algún rincón íntimo y acogedor?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-Por la tarde y noche nuestro local adopta una iluminación cálida y atmósfera romántica ideal para conversar sin bullicio.
+4. ¿Qué piqueos criollos y tablas para compartir ofrecen en el salón?
 
-Disponemos de mesas apartadas donde pueden compartir una copa de vino, un macerado artesanal o dos cafés especiales en absoluta privacidad en APOLONIA CAFE BAR.
+Para acompañar las bebidas servimos tablas de quesos cajamarquinos variados que incluyen queso mantecoso tradicional, queso andino tipo suizo y quesos curados acompañados de frutos secos, aceitunas y tostadas campesinas.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué tan cerca queda del histórico Cuarto del Rescate si salgo del recorrido turístico?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-La distancia es de apenas 320 metros cruzando las calles coloniales.
+Ofrecemos también tequeños rellenos de queso artesanal dorados al punto crocante servidos con salsa guacamole fresca, porciones de chicharrón con yucas fritas y sándwiches gourmet con jamón serrano y lechuga hidropónica.
 
-En tres minutos a paso suave llegas desde el monumento arqueológico hasta nuestra entrada, siendo una caminata clásica, segura y muy agradable dentro del casco histórico.
+Son opciones diseñadas para propiciar la conversación distendida en grupos de amigos, parejas o colegas de trabajo durante la tarde y noche.
 
---------------------------------------------------------------------------------
-PREGUNTA 9: Llego con maletas pesadas antes de entrar a mi hospedaje, ¿me permiten sentarme con equipaje en el salón?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-El cansancio de viajar con bultos es comprensible.
+5. ¿Cuál es la separación exacta hacia el emblemático Mercado Central de Cajamarca?
 
-Te asignamos una mesa amplia en planta baja donde podrás colocar tus maletas de forma segura y estirar las piernas con total comodidad mientras disfrutas de una bebida reconfortante.
+La separación hacia el Mercado Central de Cajamarca es de 247 metros (0.25 km), demandando una caminata de unos tres minutos a paso pausado por vías comerciales céntricas. Conecta dos áreas sumamente vivas del centro urbano.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: Tengo intolerancia a los lácteos, ¿me pueden preparar bebidas con alternativas vegetales?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Preparamos tus cafés y capuchinos con leche de almendras o soya según nos indiques al ordenar, además de contar con infusiones digestivas de hierbas aromáticas locales para que tu digestión sea ligera y placentera.
+Compradores habituales y turistas que visitan los puestos tradicionales de artesanías y quesos pueden acercarse con facilidad hacia nuestra sede para gozar de una sobremesa tranquila. El trayecto es enteramente plano y seguro.
 
---------------------------------------------------------------------------------
-PREGUNTA 11: Vengo desde el Mercado Central con varias bolsas, ¿cuál es la forma más fácil de llegar caminando?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-Nos ubicamos a solo 615 metros del Mercado Central.
+La proximidad permite combinar visitas comerciales tradicionales con un momento de descanso placentero en un ambiente bohemio y ordenado.
 
-Solo debes caminar unas seis cuadras en línea recta por el centro de la ciudad, un trayecto plano que te tomará unos siete minutos a paso tranquilo.
+6. ¿Cómo opera el servicio de reservas para reuniones de amigos o tertulias?
 
---------------------------------------------------------------------------------
-PREGUNTA 12: Caemos en grupo después de un tour y queremos picar algo salado, ¿tienen tablas o bocaditos para compartir?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Disponemos de raciones generosas de tequeños con salsa de palta, empanadas recién horneadas y tablas de quesos cajamarquinos de la región, perfectas para acompañar la conversación y saciar el apetito de varias personas a la vez.
+Recibimos reservas de mesas para grupos de amigos, aniversarios o eventos culturales pequeños coordinando directamente a través de nuestro teléfono celular y canal de WhatsApp. Asignamos la mejor ubicación disponible en el salón.
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿Pueden enviarme un pedido de café y postres por delivery hasta mi hotel en el centro histórico?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-Coordinamos entregas directas a través de nuestro canal de WhatsApp.
+Quienes realizan reservaciones pueden solicitar de forma previa paquetes de piqueos o rondas de café y cócteles para agilizar el servicio al momento de la llegada de sus invitados. Brindamos una atención esmerada y personalizada.
 
-Empacamos tus bebidas en recipientes térmicos sellados para que el café llegue caliente y los bocaditos crujientes hasta la recepción de tu hotel en pocos minutos.
+Aconsejamos asegurar las reservas con anticipación para las noches de viernes y sábado a fin de garantizar la disponibilidad de mesas en horarios de mayor concurrencia.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: Si me encuentro en el centro comercial Real Plaza, ¿a cuántos minutos en taxi queda el local?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-La distancia es de aproximadamente 1.5 kilómetros.
+7. ¿Qué opciones de postres caseros y repostería tienen en las tardes?
 
-Tomando un taxi en la salida del centro comercial llegarás en apenas cinco a seis minutos hasta el Jirón del Comercio 702 en el centro histórico, pasando del ambiente comercial moderno al encanto de nuestra cafetería.
+En las tardes de café ofrecemos porciones de tarta de manzana tibia con canela en rama servida con crema suave, torta artesanal de chocolate con relleno cremoso y carrot cake especiado con nueces tostadas.
 
---------------------------------------------------------------------------------
-PREGUNTA 15: Se me apagó el celular y necesito avisar a mi familia que ya llegué bien a Cajamarca, ¿me pueden ayudar?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Te brindamos apoyo inmediato en barra facilitándote cargadores compatibles para revivir tu equipo en minutos, además de nuestra red Wi-Fi para que envíes tus mensajes de inmediato.
+Servimos también alfajores tradicionales rellenos con abundante manjar blanco cajamarquino elaborado a fuego de leña y galletas artesanales de avena que maridan de forma excelente con el café americano o cappuccino.
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Atienden los domingos por la tarde para salir a tomar un café en familia?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Abrimos nuestras puertas todos los días de la semana, incluidos los domingos en horario corrido.
+Nuestras opciones dulces se preparan con ingredientes de primera línea para garantizar frescura, aroma apetitoso y textura delicada en cada porción.
 
-Es uno de los momentos más bonitos para visitarnos con padres, hijos o abuelos y compartir una tarde de postres y bebidas calientes.
+8. ¿Qué distancia media hay hacia la histórica Iglesia San Francisco?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: Deseo llevarme café cajamarquino de recuerdo para mi familia, ¿tienen opciones en grano o molido para viaje?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-En barra disponemos de paquetes seleccionados de café de altura que molemos al instante según el tipo de cafetera que utilicen en casa, empacados con válvula hermética para que conserven todo el aroma y frescura durante el viaje de regreso.
+Nos localizamos a solo 264 metros (0.26 km) de la Iglesia San Francisco de Cajamarca, lo que supone un paseo de escasos tres minutos a pie cruzando hacia el perímetro monumental. Conecta de inmediato con los claustros coloniales.
 
---------------------------------------------------------------------------------
-PREGUNTA 18: Salimos apurados en la mañana y los niños no han tomado desayuno, ¿tienen opciones suaves para ellos?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Tenemos alternativas que les encantan a los pequeños como sándwiches triples suaves de jamón y queso, jugos de fruta natural recién exprimidos y leche caliente con chocolate artesanal, servidos con rapidez y cariño.
+Feligreses, comitivas culturales y viajeros que recorren las catacumbas y el museo virreinal encuentran en nuestro salón el refugio propicio para disfrutar de una merienda tranquila o un café al atardecer. El acceso peatonal es directo.
 
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo es el acceso para personas mayores o con movilidad reducida hasta el local?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-El ingreso a nuestro salón principal es directo a nivel de la acera en el Jirón del Comercio, sin desniveles pronunciados, lo que facilita el acceso cómodo para adultos mayores o coches de paseo.
+Es una parada altamente conveniente para complementar la apreciación arquitectónica religiosa con el calor de la hospitalidad local.
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por qué medio puedo consultar la carta actualizada o separar una mesa para esta noche?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-Escríbenos directamente a nuestro WhatsApp oficial antes de salir.
+9. ¿Tienen promociones especiales en cócteles y café durante la semana?
 
-Te responderemos al instante compartiéndote las opciones del día y confirmando tu mesa para que llegues directo a disfrutar de la velada.
-================================================================================
+Durante las tardes aplicamos combos cafeteros que integran taza grande de café pasado o cappuccino con un postre artesanal a un precio promocional muy asequible para incentivar las sobremesas laborales y estudiantiles.
+
+En el horario nocturno contamos con promociones de chilcanos dos por uno en días seleccionados de la semana, además de descuentos en botellas de cerveza artesanal para grupos de amigos. Fomentamos un ambiente distendido y cordial.
+
+Las promociones vigentes se comunican periódicamente en la pizarra de nuestra barra y a través de recomendaciones de los mozos de salón.
+
+10. ¿De qué formas se puede cancelar la cuenta en mesa?
+
+Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, extendiendo la respectiva boleta de venta electrónica de inmediato con cambio sencillo y trato sumamente cordial por parte de los meseros.
+
+Recibimos pagos electrónicos a través de transferencias instantáneas mediante los códigos QR de Yape y Plin ubicados en cada mesa y en la barra de atención. Es un procedimiento rápido, seguro y sin recargos.
+
+Aceptamos también cobros con tarjetas bancarias de crédito y débito Visa y Mastercard a través de terminales electrónicos inalámbricos POS.
+
+11. ¿A cuántos metros queda el célebre Cuarto del Rescate?
+
+El establecimiento dista 325 metros (0.33 km) del Cuarto del Rescate, lo que representa una caminata de apenas cuatro minutos recorriendo las calles empedradas del casco histórico. Une el monumento inca con el jirón del Comercio.
+
+Turistas nacionales y extranjeros que culminan su visita al legendario cuarto de oro y plata pueden desplazarse rápidamente hacia nuestro local para catar un café peruano de calidad o un trago de pisco. El recorrido es enteramente peatonal.
+
+Esta corta distancia sitúa a nuestro café bar como un enclave gastronómico insuperable para turistas en tránsito cultural.
+
+12. ¿Qué atmósfera y ambientación musical caracterizan a APOLONIA CAFE BAR?
+
+En APOLONIA CAFE BAR ofrecemos una atmósfera bohemia, íntima y acogedora en una casona tradicional con balcones y paredes de arquitectura colonial que respiran historia. La iluminación cálida resalta los acabados de madera.
+
+La selección musical combina géneros como trova, rock clásico en español e inglés, jazz y música instrumental latinoamericana reproducidos a un volumen ideal que permite la conversación fluida sin elevar la voz.
+
+Es un ambiente muy frecuentado por intelectuales, artistas, profesionales y parejas que buscan un espacio sereno y con auténtica personalidad.
+
+13. ¿Disponen de internet Wi-Fi y facilidades para leer o conversar?
+
+Contamos con red de internet inalámbrico Wi-Fi libre para nuestros clientes, lo que permite revisar correspondencia digital o realizar consultas académicas mientras se disfruta de una taza de café en las mesas del salón.
+
+Disponemos de mesas confortables con buena iluminación natural durante el día junto a los ventanales coloniales, idóneas para la lectura tranquila de un buen libro o el desarrollo de tertulias literarias prolongadas.
+
+El personal procura mantener un ambiente ordenado y silencioso durante las horas diurnas para beneficio de los comensales que buscan tranquilidad.
+
+14. ¿Qué tan lejos se ubica el Mirador del Cerro Santa Apolonia?
+
+El local se sitúa a 404 metros (0.40 km) del Mirador de Santa Apolonia, representando una caminata de unos cinco a seis minutos hacia el pie de la colina. Conecta el jirón del Comercio con el acceso a las escalinatas de piedra.
+
+Visitantes que descienden de admirar la vista panorámica del valle o la capilla de la cima suelen hacer una pausa obligada en nuestro local para refrescarse con un trago o reconfortarse con un café caliente. La senda es directa y bien iluminada.
+
+La proximidad con el cerro tutelar inspira además el nombre de nuestra marca y refuerza nuestra profunda identidad cajamarquina.
+
+15. ¿Qué variedades de granos y perfil de tostado utilizan?
+
+Seleccionamos granos de café arábica de estricta altura procedentes de fincas cafetaleras sostenibles de Jaén y San Ignacio, reconocidas internacionalmente por su calidad de taza y notas de caramelo, cítricos dulces y chocolate.
+
+El grano recibe un tostado medio equilibrado que preserva los aceites esenciales aromáticos y evita el amargor excesivo de los tuestes industriales oscuros. La molienda se realiza al instante para cada extracción.
+
+Este cuidado artesanal en cada etapa de la preparación garantiza que cada sorbo transmita la autenticidad del café peruano de origen.
+
+16. ¿Cómo es el trato y la hospitalidad brindada por el personal?
+
+Nuestro personal se caracteriza por una hospitalidad atenta, respetuosa y conocedora de la carta, siempre dispuesto a brindar recomendaciones acertadas sobre cócteles, cafés y piqueos según la ocasión del cliente.
+
+Atendemos con presteza y discreción en cada mesa, preocupándonos por el bienestar de los comensales sin interrumpir sus conversaciones privadas. Buscamos que cada visita se sienta como una estancia entre amigos de toda la vida.
+
+La calidez y empatía de nuestro servicio representan uno de los sellos más destacados por quienes nos recomiendan en plataformas turísticas.
+
+17. ¿Qué facilidades existen para el aparcamiento en las inmediaciones?
+
+Al encontrarse en una zona de alta prioridad peatonal y céntrica en el jirón del Comercio, el estacionamiento frente al establecimiento está restringido para preservar la tranquilidad y el patrimonio arquitectónico colonial.
+
+Recomendamos a quienes acuden en vehículo particular utilizar las playas de estacionamiento privadas custodiadas situadas a dos cuadras del local en los jirones Apurímac o Bellavista. Son seguras y de fácil acceso vehicular.
+
+Quienes se trasladan a pie o en taxi disfrutan de un acceso directo y confortable hasta las puertas mismas de nuestro café bar.
+
+18. ¿Cómo protegen las bebidas y alimentos en pedidos para llevar?
+
+Para quienes solicitan café caliente para llevar, utilizamos vasos de polipapel térmico con tapas herméticas que conservan el calor y evitan derrames accidentales mientras se camina por las calles céntricas.
+
+Los sándwiches y porciones de postre se empacan en envoltorios biodegradables antigrasa y cajas rígidas que resguardan su presentación, temperatura y textura crocante original. Se suministran servilletas de cortesía.
+
+Cada pedido para llevar se entrega de manera diligente para que el usuario disfrute de la calidad de nuestra barra en su oficina u hogar.
+
+19. ¿Cómo se fundó el espacio bohemio y artístico de APOLONIA CAFE BAR?
+
+APOLONIA CAFE BAR nació con el propósito de rendir tributo a la rica tradición cultural, literaria y social de Cajamarca, habilitando un punto de encuentro cálido donde las ideas, el arte y la amistad fluyan al calor del buen café.
+
+A lo largo de los años, el establecimiento se ha afianzado como una parada obligada en el circuito bohemio del centro histórico, acogiendo a poetas, historiadores, viajeros del mundo y ciudadanos que valoran la buena música y la conversación amena.
+
+Seguimos firmes en nuestra misión de resguardar ese ambiente auténtico y acogedor que convierte a cada noche en una memoria imborrable.
+
+20. ¿En qué franja horaria atienden al público en el jirón del Comercio?
+
+Atendemos al público de lunes a sábado desde las tres de la tarde hasta la medianoche de forma continua, abarcando las horas predilectas para el café vespertino, sobremesas de trabajo y la coctelería nocturna bohemia.
+
+Durante los fines de semana el horario de atención se extiende para acoger las reuniones de amigos y celebraciones en un marco de respeto y buena música. Toda la carta de cafés, tragos y piqueos está operativa toda la jornada.
+
+Para coordinar reservas especiales o consultar sobre presentaciones musicales, los usuarios pueden comunicarse directamente a nuestras líneas oficiales.

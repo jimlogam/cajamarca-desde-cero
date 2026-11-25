@@ -2,182 +2,180 @@ Nombre: 40&20 café bar
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Pub restaurante
+Categoría Maps: Pub restaurante, Cafetería, Bar
 Dirección: Paul Rivet 117, Cajamarca 06001
 Teléfono: 923 229 151
-Rating: 5
+Rating: 5.0
 Reseñas: 1
-Sitio web: 
+Sitio web:
 Latitud: -7.1493793
 Longitud: -78.5077637
 Google Maps: https://www.google.com/maps?cid=16314938205678792662
 Place Id: ChIJl8BILthbspER1u_umdtNauI
 Fotos: 40&20 café bar.jpg
 Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcqEyu9xwGyKdalf00ZzznEMHE2Nha2JqZuv8yto5NaY2hHnBa3RyKOlfVbMQhgVkoBKqvVkXYpPznR8cdTGMls3gfSxVCAUOIFvvQdYy69k6Ns8xfvfTP7wdg4Or6sYKqNWlH__Q=w1600-h1200-k-no
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a 40&20 café bar. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Paul Rivet 117, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+================================================================================
+================================================================================
+Texto de bienvenida:
+En 40&20 café bar te damos la bienvenida a un refugio íntimo y acogedor en la calle Paul Rivet 117 en Cajamarca. Con una calificación de cinco estrellas, fusionamos el arte del café de especialidad norteño con coctelería selecta, piqueos artesanales, cervezas heladas y postres caseros ideales para disfrutar en buena compañía. Sumérgete en un ambiente bohemio con música selecta, atención personalizada y la calidez de nuestras tardes y noches. ¡Ven a vivir momentos memorables e inolvidables!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué métodos de extracción y cafés de especialidad sirven en la barra?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: Llego apurado y con el tiempo justo, ¿me pueden atender de emergencia para llevar mi pedido al paso?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Nuestra prioridad es atender tus exigencias y tiempos ajustados.
+Nuestra barra de café prepara espressos intensos con crema dorada persistente, cappuccinos aterciopelados con leche vaporizada a temperatura óptima y lattes decorados con delicado arte latte. Empleamos granos arábicos de altura de Jaén y San Ignacio.
 
-Solo te pedimos enviarnos tu mensaje al WhatsApp con tu pedido unos minutos antes o avisarnos apenas entres al local, y te lo tendremos listo, empacado y humeante para que no pierdas ni un minuto de tu día.
+Ofrecemos además métodos de filtrado manual como V60, Chemex y prensa francesa, extrayendo las notas florales, cítricas y achocolatadas que caracterizan a los cafés de especialidad peruanos. Cada método resalta atributos aromáticos singulares.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿Qué tan cerca queda del Real Plaza si salgo de hacer compras por la tarde?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Estamos a tan solo 620 metros de distancia, prácticamente al lado, papachito.
+Para quienes prefieren bebidas frías de autor, preparamos cold brew infusionado en frío durante doce horas, iced latte con caramelo y frappés refrescantes.
 
-Puedes venirte a pie en una caminata fresca de siete u ocho minutos en dirección a Paul Rivet. Si vienes cargado con bolsas o paquetes pesados, una mototaxi te deja en nuestra puerta en menos de tres minutos para que cierres tus compras con un buen café caliente.
+2. ¿A qué distancia se encuentra 40&20 café bar respecto al Centro Comercial El Quinde?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: Olvidé el efectivo y solo tengo saldo en el celular, ¿puedo pagar todo con billetera digital?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-No necesitas cargar monedas ni billetes para darte un gusto.
+El establecimiento se localiza a solo 651 metros (0.65 km) del C.C. El Quinde, representando una caminata de unos siete a ocho minutos por calles tranquilas y residenciales. Conecta de forma sumamente ágil ambos puntos urbanos.
 
-Aceptamos transferencias inmediatas por Yape y Plin, además de cobros directos con tarjetas de débito o crédito para que consumas con absoluta comodidad y sin enredos de cambio.
+Compradores, trabajadores de oficinas bancarias y parejas que visitan las tiendas departamentales pueden acercarse fácilmente para disfrutar de un café reconfortante o un cóctel fuera del bullicio comercial. La caminata es plana y segura.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: Se me fue el internet en casa y tengo una reunión virtual urgente de trabajo, ¿tienen buena conexión y enchufes?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Entendemos perfectamente la urgencia de tus entregas y llamadas laborales.
+Esta cercanía convierte a nuestro local en un punto de encuentro predilecto para desconectarse de la rutina y charlar con serenidad.
 
-Disponemos de mesas con tomas de corriente cercanas y una red Wi-Fi estable y rápida de cortesía para que conectes tu laptop al instante, pidas un buen expreso y trabajes con total fluidez.
+3. ¿Cuáles son los cócteles de autor y bebidas que integran la propuesta nocturna?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Cómo llego caminando desde la histórica Plaza de Armas y cuánto demoro en el trayecto?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-Desde la Plaza de Armas son aproximadamente 1.4 kilómetros.
+En nuestra carta de bar destacan cócteles clásicos y creaciones de autor como el pisco sour elaborado con destilado quebranta de uva selecta, chilcanos aromatizados con macerados de hierbas andinas y frutos rojos, y mojitos cubanos frescos.
 
-Al ser el centro monumental zona rígida para mototaxis, un taxi te traslada en apenas cinco minutos directos, o puedes dar un paseo tranquilo bajando un par de cuadras hacia avenidas abiertas. Es un trayecto sumamente corto para escapar del ruido del centro y relajarte en un ambiente agradable.
+Preparamos también cócteles elaborados a base de espresso como el cotizado espresso martini que combina vodka, licor de café y una carga fresca de café filtrado, logrando un balance sublime entre energía y sofisticación. Es uno de los más solicitados.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: El frío de la tarde me agarró desprevenido y necesito calentarme rápido, ¿qué me sirven al instante?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-En Cajamarca el clima cambia de pronto y el frío se siente en los huesos.
+Contamos además con una cuidada selección de cervezas artesanales cajamarquinas, cervezas industriales heladas y copas de vino tinto y blanco para maridar la velada.
 
-Al entrar te servimos de inmediato un chocolate caliente artesanal bien espeso o un café pasado de altura con el calor exacto para templar el cuerpo y reconfortarte en minutos.
+4. ¿Qué piqueos calientes y alternativas saladas tienen para acompañar?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: Llego con una maleta pesada y mochilas antes de hacer mi check-in en el hotel, ¿puedo dejarlas a un costado mientras descanso?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-Viajar con equipaje pesado es incómodo y agotador.
+Ofrecemos tablas de quesos madurados cajamarquinos acompañados de jamón serrano, frutos secos tostados, aceitunas marinadas y tostadas con finas hierbas. Son porciones perfectas para compartir entre copas o tazas de café.
 
-Con todo gusto te ubicamos en una mesa espaciosa y resguardamos tus bultos en un rincón seguro del salón para que puedas estirar las piernas, tomarte un café tranquilo y cargar tu teléfono sin preocupaciones.
+Disponemos asimismo de tequeños crocantes rellenos de queso andino mantecoso servidos con salsa guacamole fresca, alitas glaseadas en salsa barbacoa agridulce y sándwiches gourmet prensados a la plancha con pan artesanal. Todo se elabora al momento.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: Estoy en el Mercado Central, ¿me conviene ir a pie o tomar una mototaxi?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-La distancia es de aproximadamente 930 metros, menos de un kilómetro.
+Para antojos ligeros, preparamos bruschettas mediterráneas con tomate confitado, albahaca fresca y toques de aceite de oliva virgen extra.
 
-Si estás con tiempo y el clima está agradable, caminar unas diez cuadras a paso suave es un paseo reconfortante por la ciudad. Pero si vas con prisa o cargando compras del mercado, cualquier mototaxi de barrio te deja en cuatro minutos directos en nuestro salón.
+5. ¿Cuál es la separación exacta hacia el Centro Comercial Real Plaza?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Pueden prepararme un desayuno o café sorpresa para enviar a la oficina de mi pareja con una dedicatoria?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Nos encanta ser cómplices de tus detalles especiales.
+La separación hacia el C.C. Real Plaza es de 985 metros (0.99 km), lo que equivale a un trayecto de unos doce minutos a pie o apenas tres minutos en taxi o mototaxi. Une la zona comercial de la avenida Evitamiento con la calle Paul Rivet.
 
-Coordinamos contigo por WhatsApp los postres y bebidas que más le gusten, le añadimos una tarjeta con el mensaje que nos dictes y lo despachamos en un empaque impecable directamente a su lugar de trabajo.
+Turistas y residentes que concluyen sus compras pueden trasladarse con gran facilidad hacia nuestro café bar para rematar la tarde con un postre artesanal o un trago relajado. La ruta peatonal es continua y muy bien pavimentada.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: Mi estómago es delicado con la lactosa y el azúcar, ¿tienen opciones que pueda disfrutar sin culpa ni malestar?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Cuidamos tu salud como si fueras de la familia.
+La ubicación estratégica permite gozar de una atmósfera bohemia y exclusiva a muy poca distancia de los grandes centros comerciales.
 
-Podemos prepararte tus cafés con bebidas vegetales y disponemos de infusiones digestivas naturales de muña o manzanilla, además de bocaditos ligeros bajos en dulce para que disfrutes sin preocupaciones.
+6. ¿Cómo opera el servicio de reservas de mesas para veladas íntimas?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿A cuántos minutos en transporte está desde el campus de la Universidad Nacional de Cajamarca?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-El recorrido es de unos 2.3 kilómetros desde la universidad.
+Aceptamos reservas anticipadas para parejas que celebran aniversarios, grupos de amigos o pequeñas reuniones de trabajo a través de nuestro número telefónico y canal de WhatsApp oficial. Coordinamos la disposición de la mesa con esmero.
 
-Abordando una mototaxi o taxi en la avenida principal tardarás unos ocho minutos sin desvíos complicados, convirtiéndose en el punto de encuentro ideal para universitarios y docentes que buscan tranquilidad, enchufes y buen Wi-Fi.
+Quienes reservan pueden solicitar detalles especiales como preparación de postres personalizados con dedicatoria, velas aromáticas o selección de una ubicación reservada dentro del salón. Brindamos una atención muy personalizada.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: Caigo con un grupo de amigos sin haber reservado y queremos sentarnos juntos, ¿nos hacen un espacio rápido?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Reorganizamos el salón en un abrir y cerrar de ojos.
+Recomendamos reservar con anticipación especialmente para las noches de viernes y sábado dado el carácter íntimo y exclusivo de nuestro espacio.
 
-Nuestro equipo junta las mesas necesarias para que todo tu grupo se acomode cómodamente sin quedar apretados, atendiéndolos con rondas de bebidas y bocaditos con gran rapidez.
+7. ¿Qué repostería casera y postres dulces ofrecen en las tardes?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: Me quedé casi sin batería en el celular y necesito hacer una llamada urgente, ¿tienen cargadores o tomas libres?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-Te prestamos asistencia al instante.
+Nuestra vitrina de postres exhibe porciones de tarta de queso con salsa de frutos del bosque frescos, torta húmeda de chocolate con ganache artesanal y carrot cake especiado con nueces y frosting de queso crema. Son postres preparados con dedicación.
 
-Contamos con tomacorrientes disponibles junto a nuestras mesas e incluso podemos facilitarte cables de carga compatibles en barra mientras disfrutas de una pausa reconfortante.
+Servimos también pie de manzana clásico tibio con canela andina servido con una bola de helado artesanal, alfajores suaves de maicena rellenos de manjar blanco de leche cajamarquina y brownies fudge intensos. Todos maridan magníficamente con café.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: Acabo de bajar en el Terminal Terrestre con equipaje, ¿cuál es la ruta más rápida para llegar?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Te encuentras a solo 2.0 kilómetros al desembarcar de tu viaje interprovincial.
+Las recetas se renuevan periódicamente para ofrecer a nuestra clientela habitual dulces sorpresas en cada visita vespertina.
 
-En los exteriores del terminal cualquier taxi te trae en siete u ocho minutos hasta Paul Rivet, siendo la mejor escala para reponerte del viaje con una bebida caliente artesanal y algo rico para comer.
+8. ¿Qué distancia media hay hacia el histórico Mercado Central?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: Necesito un lugar tranquilo para conversar un tema confidencial de negocios, ¿tienen alguna zona más apartada?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Disponemos de esquinas más reservadas dentro del local, alejadas del paso principal y con iluminación tenue, donde podrás dialogar con total privacidad y tranquilidad mientras comparten un café selecto.
+Nos situamos a 1255 metros (1.25 km) del Mercado Central de Cajamarca, demandando un traslado vehicular de cuatro a cinco minutos o una caminata de unos catorce minutos. Conecta el casco urbano tradicional con el sector de Paul Rivet.
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Puedo pedir que me muelan café fresco para llevarme a casa con la molienda exacta para mi cafetera?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Te asesoramos con mucho gusto en barra.
+Quienes realizan recorridos por el centro cívico pueden desplazarse cómodamente hacia nuestro rincón acogedor para disfrutar de una sobremesa distendida lejos del ajetreo comercial. El camino discurre por arterias asfaltadas y fluidas.
 
-Molemos los granos en el momento exacto según utilices cafetera de gota a gota, prensa francesa o cafetera italiana, asegurando que mantengas todo el aroma y cuerpo en tu hogar.
+Desde las inmediaciones del local se consigue transporte urbano y taxis con rapidez hacia cualquier punto de la ciudad.
 
---------------------------------------------------------------------------------
-PREGUNTA 17: Estoy de paso por Cajamarca y no sé qué pedir de la repostería local, ¿cuál es el postre que no me puedo perder?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Te recomendamos probar nuestros alfajores y porciones elaboradas con auténtico manjar blanco cajamarquino, suave y de leche pura de establo.
+9. ¿Tienen promociones especiales durante las tardes de café o noches de bar?
 
-Es el maridaje perfecto para contrastar con las notas tostadas de nuestro café de especialidad en 40&20 café bar.
+Durante las tardes aplicamos combos de café que incluyen una taza de filtrado o cappuccino con una porción de tarta casera a un precio promocional muy conveniente. Es la opción preferida para charlas vespertinas o lectura personal.
 
---------------------------------------------------------------------------------
-PREGUNTA 18: Salgo temprano de viaje a primera hora, ¿a qué hora exacta abren para alcanzar a tomar un desayuno al paso?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Abrimos nuestras puertas desde temprano para atender a quienes inician su jornada o toman ruta interprovincial.
+En horario nocturno presentamos promociones de dos por uno en cócteles seleccionados como chilcanos y gin tonic en días específicos de la semana, complementados con canastillas de cortesía de piqueos secos. Fomentamos un ambiente distendido.
 
-Puedes avisarnos por mensaje la noche anterior y te tenemos el café pasado y sándwich empacado a la hora que pases por nuestro local.
+Las promociones se anuncian semanalmente en nuestra pizarra de bienvenida y a través de las redes sociales del local.
 
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Tienen piqueos salados por si nos provoca quedarnos conversando hasta la noche?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-Si la conversación se alarga, nuestra carta cuenta con sándwiches calientes, tostadas especiales y empanadas recién horneadas para acompañar la noche y seguir disfrutando de un momento ameno entre amigos.
+10. ¿De qué formas se puede cancelar la cuenta en mesa?
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Cómo me comunico rápidamente para confirmar si hay mesas libres antes de ir?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-La forma más directa es enviarnos un mensaje rápido a nuestro WhatsApp oficial.
+Aceptamos pagos en efectivo en billetes y monedas en soles, brindando cambio exacto con cortesía y emitiendo la correspondiente boleta electrónica al instante. La atención en caja es sumamente ágil y ordenada.
 
-Te confirmamos la disponibilidad al segundo o te separamos una mesa para que llegues directo a sentarte sin esperar.
-================================================================================
+Recibimos pagos electrónicos mediante billeteras digitales como Yape y Plin escaneando el código QR que nuestros colaboradores acercan hasta la mesa. Es un procedimiento seguro y sin recargos.
+
+Aceptamos asimismo tarjetas de débito y crédito nacionales e internacionales mediante terminal inalámbrico POS para mayor comodidad de los clientes.
+
+11. ¿A cuántos metros queda el célebre Cuarto del Rescate?
+
+La distancia hacia el Cuarto del Rescate es de 1356 metros (1.36 km), lo que se traduce en un viaje de unos cinco minutos en mototaxi o taxi. Conecta el histórico recinto del encuentro inca con la calle Paul Rivet.
+
+Viajeros que terminan su circuito guiado por los monumentos coloniales e incaicos pueden acudir a nuestra barra para catar cafés de origen peruano premiados y reposar en un ambiente cálido. La conexión vial es directa y despejada.
+
+La cercanía facilita programar visitas culturales matutinas y finalizar la jornada en una atmósfera sofisticada y amigable.
+
+12. ¿Qué atmósfera musical y ambientación define el salón de 40&20 café bar?
+
+En 40&20 café bar cultivamos una atmósfera acústica selecta compuesta por música jazz suave, bossa nova, boleros clásicos y pop acústico reproducidos a un volumen moderado que permite conversar sin esfuerzo. El ambiente es íntimo y cálido.
+
+La decoración integra maderas nobles, iluminación tenue con focos vintage y mobiliario cómodo compuesto por sillones mullidos y mesas de café que invitan a una permanencia prolongada. Es un verdadero oasis de calma.
+
+El espacio resulta sumamente propicio tanto para tertulias amenas como para momentos individuales de lectura o trabajo con computadora personal.
+
+13. ¿Disponen de conectividad inalámbrica a internet y enchufes para laptops?
+
+Contamos con red de internet inalámbrico Wi-Fi de alta velocidad disponible de forma gratuita para todos los comensales, ideal para quienes realizan teletrabajo, reuniones virtuales o tareas académicas mientras toman café.
+
+Disponemos de enchufes y tomas de corriente accesibles junto a las mesas principales para facilitar la recarga de baterías de computadoras portátiles y teléfonos celulares. El personal brinda la clave de acceso amablemente.
+
+El ambiente tranquilo durante las horas de la tarde favorece la máxima concentración y productividad en un entorno estimulante.
+
+14. ¿Qué tan lejos se ubica la Iglesia San Francisco de Cajamarca?
+
+El local se encuentra a 1445 metros (1.44 km) de la Iglesia San Francisco de Cajamarca, demandando un trayecto de unos cinco a seis minutos en transporte urbano. Conecta el templo patrimonial con la urbanización de Paul Rivet.
+
+Turistas y ciudadanos que disfrutan de paseos por el centro histórico pueden dirigirse hacia nuestro establecimiento para culminar la velada con una cata de café o una copa de vino selecto. La ruta vehicular es ágil.
+
+Desde la puerta del café bar es muy sencillo solicitar taxis seguros para retornar hacia los alojamientos u hoteles céntricos.
+
+15. ¿Qué tipos de granos de café seleccionan para el tostado?
+
+Trabajamos exclusivamente con granos de café 100% arábica de variedades típicas, caturra y bourbon cultivados bajo sombra a más de 1600 metros sobre el nivel del mar en las serranías de Jaén y San Ignacio.
+
+Los granos pasan por un tostado medio artesanal que resalta sus azúcares naturales, acidez brillante y notas aromáticas complejas sin quemar la semilla. Molinamos el café inmediatamente antes de la extracción en taza.
+
+Este rigor técnico asegura que cada bebida servida preserve las propiedades organolépticas originales del terroir cajamarquino y norperuano.
+
+16. ¿Cómo es el trato y la atención personalizada del equipo?
+
+Nuestro equipo se distingue por un trato respetuoso, cálido y apasionado por la hospitalidad, brindando asesoría sobre las características de cada método de café o recomendando el cóctel adecuado para cada preferencia.
+
+Nos esforzamos por crear un lazo cercano con cada visitante, recordando sus preferencias de consumo habituales para brindarles una atención a la medida en cada retorno. La calidez en el trato es nuestra firma.
+
+Cada requerimiento se atiende con prestancia para que el comensal disfrute de una experiencia sensorial verdaderamente placentera.
+
+17. ¿Qué facilidades existen para el estacionamiento en los alrededores?
+
+La calle Paul Rivet es una vía residencial tranquila y con poco tráfico pesado, lo que permite estacionar vehículos particulares y motocicletas con comodidad en las zonas delimitadas frente al local. La iluminación pública es excelente.
+
+Quienes nos visitan en automóvil pueden parquear con serenidad gracias a la tranquilidad del vecindario y la presencia de vigilancia vecinal permanente en el sector. No se registran dificultades de acceso vehicular.
+
+Recomendamos aparcar respetando los vados residenciales vecinos para mantener una convivencia armoniosa con la comunidad del barrio.
+
+18. ¿Cómo protegen las bebidas y alimentos para llevar?
+
+Empacamos las bebidas calientes en vasos térmicos biodegradables con tapas herméticas antiderrame que conservan el calor y el aroma del café intactos durante el traslado. Las bebidas frías se expiden en vasos resistentes sellados.
+
+Los postres y piqueos se acondicionan en cajas de cartón ecológico rígido que preservan la estructura, humedad y presentación estética de cada porción dulce o salada. Incluimos servilletas y cubiertos biodegradables de cortesía.
+
+Los pedidos para llevar se entregan con pulcritud garantizando una experiencia de consumo óptima en casa o la oficina.
+
+19. ¿Cómo se concibió la propuesta bohemia de 40&20 café bar?
+
+40&20 café bar nació como un homenaje a las buenas conversaciones, los recuerdos entrañables y los momentos compartidos donde la edad y el tiempo se desvanecen ante la magia de una buena taza de café o una copa de licor selecto.
+
+El concepto combina la sobriedad y la sutileza de una cafetería de especialidad contemporánea con el encanto nocturno de un bar bohemio, ofreciendo un refugio idóneo para todas las generaciones que aprecian el buen gusto.
+
+Nuestra misión continúa siendo brindar un escenario entrañable donde cada visita se convierta en una grata historia por contar.
+
+20. ¿En qué franja horaria atienden al público visitante?
+
+Atendemos al público de martes a domingo a partir de las cuatro de la tarde hasta la medianoche de forma continua, facilitando la transición perfecta desde el café de la tarde hacia la coctelería nocturna. La barra funciona sin pausas.
+
+Los fines de semana el horario se puede prolongar ligeramente para acompañar la tertulia de nuestros clientes en un clima festivo y respetuoso. Toda la carta de bebidas, cafés y piqueos está disponible durante la jornada.
+
+Para consultas sobre eventos privados o reservas grupales, los comensales pueden escribir a nuestras líneas de atención telefónica oficial.
