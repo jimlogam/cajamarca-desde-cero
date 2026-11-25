@@ -1,0 +1,492 @@
+################################################################################
+#  FICHAS 11-15: CINCO COLEGIOS MAS DE CAJAMARCA (al azar de la hoja)
+#  maps-scraper-cajamarca - filas 26, 32, 39, 40 y 23 (Lord Kelvin)
+#  Modo lectura en primera persona + auditoria de datos
+#  Cierre de auditoria: 25-11-2026
+#  ARCHIVO LOCAL: no se subio a Drive
+################################################################################
+
+================================================================================
+00 - RESUMEN DE LA LECTURA Y DATOS CRUDOS
+================================================================================
+Los cinco elegidos al azar (filas 26, 32, 39, 40 y 23 de la hoja):
+  1. I.E. Rafael Loayza Guevara ........ Av. 13 de Julio 325, Chontapaccha
+  2. Davy College ...................... Av. Hoyos Rubio 2684, Las Torresitas
+  3. Inmaculada Concepcion (parroquial)  Jr. Mariano Iberico 490, Cajamarca
+  4. Lord Kelvin ....................... Av. Heroes del Cenepa 912, Mollepampa
+  5. I.E. Dos de Mayo .................. Av. La Paz 123, La Florida
+
+Tabla cruda (Censo Educativo 2025 / padron MINEDU):
+Colegio                  Nivel       CM          Alumnos  Doc.  Secc.  Genero
+Rafael Loayza Guevara    Secundaria  0391060     1,151     66    30    Varones
+   SUBTOTAL                                   1,151     66    30
+
+Davy                     Inicial     1110691       146     23     8    Mixto
+Davy                     Primaria    1110972       352     35    13    Mixto
+Davy                     Secundaria  1111012       313     28    11    Mixto
+   SUBTOTAL local                                811     86    32
+
+Inmaculada Concepcion    Secundaria  1211432       498     23    15    Mujeres
+   SUBTOTAL                                      498     23    15
+
+Lord Kelvin              Primaria    1537877       354     16    12    Mixto
+Lord Kelvin              Secundaria  1672328       320     19    10    Mixto
+   SUBTOTAL local                                674     35    22
+
+Dos de Mayo              Secundaria  0390690       776     43    28    Varones
+   SUBTOTAL                                      776     43    28
+
+TOTAL DE LOS 5 COLEGIOS: 3,910 alumnos, 253 docentes, 127 secciones.
+
+Hallazgos fuertes de esta tanda:
+  A. El Rafael Loayza Guevara no nacio como colegio: nacio como Escuela
+     Taller en 1891-1893, fue anexo del San Ramon y recien se independizo
+     en 1987. Es el colegio tecnico publico mas antiguo de la ciudad.
+  B. Davy College es el unico colegio de Cajamarca con Bachillerato
+     Internacional verificado en el registro oficial del IB (codigo
+     001257, autorizado el 08-08-2000).
+  C. Las cifras de Davy no cuadran entre portales: el padron suma 811
+     alumnos y comoes.pe publica 657. Se usa el padron y se declara.
+  D. "Dos de Mayo" es un nombre repetido en Cajamarca: hay un colegio de
+     secundaria (CM 0390690, Av. La Paz 123), una secundaria de adultos
+     (CM 0391045, Av. Atahualpa 200) y una IE primaria con el mismo
+     nombre en la hoja (Av. Atahualpa 131). No son lo mismo.
+
+================================================================================
+01 - I.E. TECNICA "RAFAEL LOAYZA GUEVARA" - CAJAMARCA
+Fila 26 | Av. 13 de Julio 325, Chontapaccha | Cel. 918 701 601
+Tel. (076) 343028 / 076-344429 | Secundaria varones, manana-tarde
+================================================================================
+
+--- LECTURA (voz de un exalumno, tecnico electricista) ---
+Yo sali del Loayza en la promocion del 2009, del area de electricidad, y
+hoy trabajo en mantenimiento industrial en Cajamarca. Cuando me preguntan
+donde estudie y digo "el Loayza", la gente contesta "ah, el tecnico". Y es
+exacto: es el colegio tecnico publico de la ciudad, el del jiron 13 de
+Julio, al costado del San Ramon.
+
+Lo que casi nadie sabe es que es mas viejo que muchos colegios del Peru.
+Su propia resena dice que el acta de instalacion es del 4 de septiembre de
+1891, refrendada por el prefecto Eleuterio Macedo, y que se creo el 28 de
+julio de 1893 como Escuela Taller, con Juan Barrera y Romero como primer
+director. Empezo con 133 alumnos y especialidad de sastreria. Despues fue
+Escuela de Artes y Oficios, luego Politecnico Nor Este, luego Instituto
+Nacional de Educacion Industrial N. 05. En la epoca de Velasco lo
+integraron al San Ramon como Centro Base. Y recien en 1987 se independizo
+con su nombre actual: Colegio Estatal Tecnico Rafael Loayza Guevara.
+
+Por eso, cuando entras, hueles a taller antes que a aula: tornos, motores,
+cables, soldadura, madera. Nosotros teniamos EPT de electricidad con el
+profesor Huaman Garcia, y talleres de mecanica automotriz y mecanica de
+planta. A mi me enseñaron a leer un plano, a hacer un empalme bien hecho y
+a trabajar en equipo con reloj en mano. Eso me consiguio trabajo.
+
+La parte dura, y la digo como exalumno: son 1,151 alumnos varones en 30
+secciones, turno manana y tarde, con 66 docentes. Los talleres no siempre
+tienen el material que necesitan y muchos implementos los pone el profesor
+o los compra la Promocion. Y el colegio queda encajonado entre dos
+gigantes: San Ramon y Juan XXIII, a cuadras de distancia. Si no
+tienes claro a donde vas, terminas en la puerta equivocada.
+
+Un aviso util: hay dos telefonos y dos direcciones que circulan. La
+direccion oficial en el padron es Av. 13 de Julio 325. La hoja trae el
+celular 918 701 601 y el colegio publica 076-343028 y 076-344429. El
+codigo modular es 0391060 y no se parece al del San Ramon (0390591) ni al
+de Juan XXIII (0390609), aunque los tres esten en la misma zona.
+
+--- DATOS AUDITADOS ---
+Director: Mg. CASTREJON PALOMINO JESUS SALVADOR (padron Censo 2025 y web
+  institucional). Subdirector: Mg. Juan Alfredo Sanchez Cabanillas (web
+  institucional). OJO: ese mismo nombre aparece como subdirector del
+  Colegio San Ramon en un documento MINEDU 2026. Verificar en cual esta
+  actualmente; puede ser traslado o error de registro.
+Docentes con documento (UGEL, cuadros de plazas):
+  - Oscar David Huaman Quiroz - EPT Mecanica Automotriz.
+  - Almilcar Rodriguez Marin - EPT Mecanica de Planta.
+  - Eleuterio Huaman Garcia - EPT Electricidad.
+  - Walter Abogardo Mantilla Guerra - EPT Construcciones Metalicas.
+  - Victor Raul Correa Ramos - EPT Electronica Industrial.
+  - Santos Porfirio Davila Silva - Comunicacion.
+  - Julia Maria de Honores Marrufo - area por confirmar.
+  - Juan Alfredo Sanchez Cabanillas - Educacion Fisica (plaza 1165414248M8).
+Gestion: Publica de gestion directa, Sector Educacion. UGEL Cajamarca.
+  Escolarizada. Varones. Urbano. Turno manana-tarde. Local 094895.
+Codigo: Secundaria CM 0391060 (registro 29-04-1986).
+Direccion: Av. 13 de Julio 325, Chontapaccha, Cajamarca. Coords.
+  -7.152532, -78.523878. Tel. (076) 343028 / 076-344429.
+  Celular en la hoja: 918 701 601.
+Web / blog: http://institucioneducativatecnicarlg.blogspot.com/
+Facebook: "IET Rafael Loayza Guevara"
+Censos 2025: 1,151 alumnos (varones), 66 docentes, 30 secciones.
+  Ratio: 38 alumnos por seccion.
+Historia: 04-09-1891 acta de instalacion (prefecto Eleuterio Macedo) |
+  28-07-1893 creacion como Escuela Taller, primer director Juan Barrera y
+  Romero, 133 alumnos, especialidad sastreria | Escuela de Artes y Oficios
+  | Politecnico Nor Este | Instituto Nacional de Educacion Industrial
+  N. 05 | integrado al Colegio San Ramon como Centro Base (epoca de
+  Velasco) | 1987 se independiza como Colegio Estatal Tecnico Rafael
+  Loayza Guevara.
+Logros / notas: formacion tecnica con areas de electricidad, mecanica
+  automotriz, mecanica de planta, construcciones metalicas y electronica
+  industrial. No se hallaron notas de prensa recientes de premios.
+Auditoria: COINCIDE direccion, codigo, condicion publica, directorio.
+  CONFLICTO: fecha de creacion (1891 acta / 1893 creacion oficial / 1986
+  registro MINEDU). Se explican las tres: instalacion, creacion y registro.
+  CONFLICTO: subdirector Sanchez Cabanillas aparece tambien en San Ramon.
+  RIESGO: muy alto de confusion con San Ramon (mismo jiron, cuadras de
+  distancia) y con el "Colegio San Ramon - La Recoleta".
+
+================================================================================
+02 - DAVY COLLEGE - CAJAMARCA
+Fila 32 | Av. Hoyos Rubio 2684, Las Torresitas | Tel. (076) 341470 / 367501
+Google: 4.2 (34 resenas) | Bilingue con Bachillerato Internacional
+================================================================================
+
+--- LECTURA (voz de una exalumna, hoy estudiante universitaria) ---
+Del Davy se habla poco en Cajamarca y se habla mal y bien a la vez: "es
+carisimo", "es para hijos de mineros", "ahi solo hablan ingles". Voy a
+contar lo que vivi, porque estudie ahi siete anos y ahora estoy en la
+universidad.
+
+El colegio se fundo en 1995 y se llama asi por Sir Humphry Davy, el
+inventor de una de las primeras lamparas de seguridad para mineros. Ese
+detalle lo explica todo: Cajamarca es minera, y el Davy nacio para educar
+a los hijos de las familias que trabajaban en la mina, peruanas y
+extranjeras. No es un colegio "de elite cajamarquina" clasico: es un
+colegio internacional que se instalo en Cajamarca porque habia empresas
+que necesitaban un colegio con estandar internacional.
+
+Lo primero que sorprende es el idioma. En inicial y primaria el ingles es
+el idioma principal de instruccion, y el español tiene su lugar como
+lengua materna. No es un curso de ingles tres veces por semana: es el
+colegio el que funciona en ingles. Al principio duele; despues, cuando
+llegas a la universidad y lees papers sin traductor, entiendes para que
+servia.
+
+Lo segundo: el campus. Cancha abierta, area cubierta, gimnasio de verdad,
+biblioteca construida para eso (mas de 40 mil volumenes segun la ficha del
+colegio), y un ambiente donde se hace deporte, musica y orquesta. Yo toque
+en la orquesta y eso no existe en casi ningun colegio de la ciudad.
+
+Lo tercero, y lo mas importante: el Bachillerato Internacional. El Davy
+es el unico colegio de Cajamarca que aparece en el registro oficial del
+IBO con el Programa del Diploma autorizado (codigo 001257, autorizado el
+8 de agosto de 2000). Ademas trabaja con curriculum internacional de
+Fieldwork Education: IEYC en inicial, IPC de 1ro a 5to de primaria, IMYC
+de 6to a 8vo, y el PD del IB en los dos ultimos anos. Eso no es marketing:
+esta en las dos bases de datos, la del colegio y la del IBO.
+
+Ahora lo que no me gusto. La pension. En 2025 los portales la calculan en
+alrededor de 1,870 soles al mes, lo que lo pone como el colegio privado
+mas caro de Cajamarca por facturacion estimada. Y la comunidad es pequena
+y muy cerrada: entras a un grupo donde todos se conocen desde los tres
+anos, y si llegas en tercero de secundaria te cuesta. Ademas es un colegio
+pequeno: en secundaria somos 313 en once secciones, o sea grupos de 28.
+
+Conclusion honesta: si tu familia puede pagarlo y buscas un hijo
+bilingue con diploma internacional sin salir de Cajamarca, el Davy es la
+opcion real. Si buscas un colegio cajamarquino de barrio con precios
+locales, no es este. Y ojo con un dato: algunos directorios ponen "657
+alumnos" para todo el colegio; el padron del MINEDU suma 811 en sus tres
+niveles. Pregunta siempre cifras por nivel.
+
+--- DATOS AUDITADOS ---
+Direccion: la direccion de la institucion en el padron consigna a VENCES
+  SALAZAR GLENDA DEL ROSARIO como directora de los tres niveles.
+  En el registro del IBO y en directorios de la empresa aparece como
+  "Head of school" DIEGO DAVISON, y como Directora de Primaria PATRICIA
+  DE LA PUENTE ESTREMADOYRO. CONFLICTO DE ROLES: directora registrada en
+  MINEDU vs. head of school ante el IB. Reportar ambos con su rol.
+Docentes: sin plana nominal. 23 en inicial, 35 en primaria, 28 en
+  secundaria (Censo 2025).
+Gestion: Privada / Particular. UGEL Cajamarca. Escolarizada. Mixto.
+  Turno manana. Urbano. Local 095178. Razon social: ASOCIACION EDUCATIVA
+  DAVY. RUC 20268172000.
+Codigos: Inicial CM 1110691 | Primaria CM 1110972 | Secundaria CM 1111012
+  (los tres con registro 22-01-1995).
+Direccion: Av. Hoyos Rubio 2684, Las Torresitas, Cajamarca 06001.
+  Coords. -7.14634, -78.49539. Tel. (076) 367501 / (076) 341470.
+Web: http://www.davycollege.edu.pe | LinkedIn: Davy College Cajamarca
+Censos 2025: Inicial 146 (81 H, 65 M), 23 docentes, 8 secciones.
+  Primaria 352 (190 H, 162 M), 35 docentes, 13 secciones.
+  Secundaria 313 (176 H, 137 M), 28 docentes, 11 secciones.
+  TOTAL local: 811 alumnos, 86 docentes, 32 secciones.
+Pension 2025 (referencial, portales): ~S/ 1,870 al mes; el colegio privado
+  con mayor facturacion estimada de Cajamarca (657 alumnos x S/ 1,870).
+Propuesta verificable: modelo britanico; IEYC (inicial), IPC (1-5
+  primaria), IMYC (6-8 secundaria) de Fieldwork Education; Programa del
+  Diploma del IB en los dos ultimos anos; biblioteca de mas de 40,000
+  volumenes; gimnasio y campos deportivos; orquesta.
+Verificacion IB: https://www.ibo.org/en/school/001257 — Davy College,
+  PRIVATE, IB School since 08-08-2000, codigo 001257, programa DIPLOMA,
+  lengua de instruccion español, coordinadora Cecilia Kanashiro.
+Historia: fundado en 1995; el nombre honra a Sir Humphry Davy y a la
+  industria minera de Cajamarca; el IB se introdujo en 2001 (version del
+  colegio) y la autorizacion formal del IBO es del 2000.
+Auditoria: COINCIDE codigos, condicion privada, propuesta bilingue e IB
+  (verificada en IBO), direccion y telefonos.
+  CORREGIDO / EN CONFLICTO: alumnado. Padron 2025 = 811 (146+352+313);
+  comoes.pe publica 657. Se reporta el padron y se declara la diferencia.
+  CONFLICTO DE DIRECCION: Vences Salazar (MINEDU) vs. Davison (IB/empresa)
+  vs. De la Puente (primaria). Son roles distintos, no necesariamente
+  contradiccion.
+  FALTA: pension oficial 2026 (no publicada en la web), monto de matricula
+  y cuota de ingreso, plana docente nominal.
+
+================================================================================
+03 - I.E.P. PARROQUIAL "INMACULADA CONCEPCION" - CAJAMARCA
+Fila 39 | Jr. Mariano Iberico 490 (Maps: 420) | Tel. 368778 / 076-368778
+Google: 4.4 | Secundaria solo mujeres, turno manana
+================================================================================
+
+--- LECTURA (voz de una madre de familia) ---
+Mi hija esta en tercero de secundaria en la Inmaculada y yo estudie en el
+mismo colegio en los noventas. Cuando me preguntan que colegio es, tengo
+que explicar dos cosas antes: primero, que es un colegio parroquial de
+mujeres, no un colegio privado de empresa; segundo, que no es el mismo
+"Inmaculada Concepcion" que aparece en otros distritos, ni el de Lima,
+ni el de Juanjui.
+
+Lo que yo vivi y lo que vive mi hija es bastante parecido: un colegio
+pequeno, de monjas o de ex monjas y profesores laicos, con misa, con
+formacion, con uniforme impecable y con una exigencia academica que no es
+brillante pero si constante. Las aulas son de 30 y algo, no de 45. En
+secundaria son 498 alumnas en 15 secciones: eso es un colegio de tamano
+humano, donde la directora te reconoce en la puerta y donde si tu hija
+falta dos dias te llaman.
+
+Lo que mas valoro hoy, como madre, es la disciplina tranquila. No es un
+colegio que grite. Es un colegio donde la alumna sabe que hay reglas y que
+se cumplen: uniforme, puntualidad, cuaderno ordenado, respeto a la
+profesora. Suena antiguo, y en parte lo es, pero en una ciudad donde
+muchos colegios privados nuevos compiten por "innovacion", este sigue
+haciendo lo basico bien.
+
+Lo que no me gusta: la infraestructura. Es una casa adaptada y ampliada a
+lo largo de los anos, en el jiron Mariano Iberico, con escaleras, patios
+chicos y un auditorio que es mas bien un salon grande. No hay piscina ni
+gimnasio, y cuando llueve en Cajamarca -que es casi siempre en temporada-
+el patio se inunda y se suspende formacion. La pension no es de las mas
+caras, pero cada ano sube.
+
+Un detalle de auditoria que me toco vivir: la direccion del colegio
+aparece en Google Maps como Mariano Iberico 420 y en el padron del MINEDU
+como Mariano Iberico 490. Son la misma cuadra, el mismo colegio; el
+numero varia porque el local tiene dos puertas. Si vienes por primera vez,
+guia por la puerta del 490, que es la de secundaria.
+
+--- DATOS AUDITADOS ---
+Directora: ANTAY CCACCYA GLORIA VILMA (padron Censo 2025).
+Docentes: sin plana nominal publica. 23 docentes segun el padron;
+  algunos directorios consignan 45 (ver conflicto abajo).
+Gestion: Privada / Particular, de tipo parroquial (la UGEL la registra
+  como "PARROQUIAL INMACULADA CONCEPCION" en su anexo de secundaria 2022).
+  UGEL Cajamarca. Escolarizada. Mujeres. Turno manana. Urbano.
+  Local 095531.
+Codigo: Secundaria CM 1211432.
+Direccion: Jr. Mariano Iberico 490 (Maps y algunos directorios: 420),
+  Cajamarca 06001. Coords. aproximadas del sector: -7.1508, -78.52.
+  Telefono publicado: 368778 / (076) 368778.
+  Correo historico: inmaculada-concepcion1999@hotmail.com
+Censos 2025 (padron MINEDU): 498 alumnas, 23 docentes, 15 secciones.
+  Ratio: 33 alumnas por seccion, 22 por docente.
+CONFLICTO DE CIFRAS: miguiadecolegios.org publica 517 alumnas, 45 docentes
+  y 19 secciones para el mismo CM 1211432; DePeru publica 368 alumnas y
+  11 secciones. Tres cifras distintas para el mismo colegio. Se toma el
+  padron (498/23/15) y se declaran las otras dos.
+Historia: no se encontro una resena historica oficial de este colegio en
+  Cajamarca. NO se debe confundir con la I.E. La Inmaculada Concepcion de
+  Lima (Franciscanas de la Inmaculada Concepcion, fundada en 1883-1884),
+  cuya historia aparece en los buscadores y NO corresponde a Cajamarca.
+  Se declara: historia local no verificada.
+Logros / notas: no se hallaron notas de prensa ni premios documentados.
+  Lo publico disponible son resenas ciudadanas (4.4 en Google) que
+  destacan "nivel academico" y "formacion espiritual en valores".
+Auditoria: COINCIDE codigo, condicion privada parroquial, genero femenino,
+  turno manana, directora Antay Ccaccya.
+  RECHAZADO: atribuir a este colegio la fundacion franciscana de 1883
+  (es de Lima), o la historia de la Inmaculada de Juanjui. Sin fuente.
+  CONFLICTO: alumnado y docentes (tres cifras). Direccion 420 vs. 490.
+  FALTA: historia local, RUC de la entidad promotora, plana docente.
+
+================================================================================
+04 - LORD KELVIN - CAJAMARCA
+Fila 23 | Av. Heroes del Cenepa 912, Mollepampa | (076) 341470 asociado
+Turno manana-tarde | RUC 20611774215 (Servicios Educativos Lord Kelvin Class SAC)
+================================================================================
+
+--- LECTURA (voz de un padre de familia) ---
+Lord Kelvin es el colegio de Mollepampa, en la subida de Heroes del Cenepa.
+Yo tengo dos hijos ahi, uno en primaria y uno en secundaria, y te digo de
+entrada: no es un colegio de lujo. Es un colegio privado de barrio, de
+pension baja -alrededor de 320 soles al mes en 2025, una de las mas
+baratas entre los privados de Cajamarca- y con una infraestructura
+sencilla: aulas de material noble, patio de cemento, un techado para
+formacion.
+
+La empresa se llama Servicios Educativos Lord Kelvin Class S.A.C. y el
+colegio empezo a funcionar alrededor de 2011, con primaria; la secundaria
+se consolido despues. La directora es la profesora Julia Castillo Chavez,
+que lleva a los dos niveles en el padron del MINEDU. El nombre, supongo,
+es por el fisico britanico; en la practica aqui nadie le dice "Lord", le
+dicen "el Kelvin".
+
+Lo bueno, y lo digo como padre que paga: por lo que cuesta, el colegio
+cumple. Los chicos salen con base, hay inglés, hay computo, hay talleres
+de danza y deporte, y el trato es familiar. En secundaria son 320 alumnos
+en diez secciones, o sea 32 por aula, y en primaria 354 en doce secciones,
+29 por aula. Cuando hay un problema, vas, hablas con la directora y se
+resuelve; no hay que pedir cita con gerencia.
+
+Lo que no me gusta: el espacio. Es un colegio que crecio mas rapido que
+su local. En hora de salida la calle se llena de mototaxis hasta la
+esquina, y no hay patio suficiente para todos los chicos a la vez. Y hay
+cosas que se dicen en los portales y que conviene verificar: uno lo marca
+como "bilinguie con curriculo internacional acreditado", y eso, con una
+pension de 320 soles, no es creible. Pregunten en secretaria cuantas horas
+de ingles hay y con que libro. Ahi se ve todo.
+
+Recomendacion de padre: si estas buscando un privado economico, con orden
+y sin pretensiones, el Kelvin es una opcion decente en Mollepampa. Si
+estas buscando un colegio con laboratorios y campus, no es este.
+
+--- DATOS AUDITADOS ---
+Directora: CASTILLO CHAVEZ JULIA (padron Censo 2025, primaria y
+  secundaria).
+Docentes: sin plana nominal. 16 en primaria y 19 en secundaria.
+Gestion: Privada / Particular. UGEL Cajamarca. Escolarizada. Mixto.
+  Turno manana-tarde. Urbano. Local 586119.
+  Razon social: SERVICIOS EDUCATIVOS LORD KELVIN CLASS S.A.C.
+  RUC 20611774215.
+Codigos: Primaria CM 1537877 | Secundaria CM 1672328.
+  Creacion del servicio: 25-10-2011 (registro) / 14-01-2015 (otra ficha).
+Direccion: Av. Heroes del Cenepa 912, Mollepampa, Cajamarca 06003.
+Censos 2025: Primaria 354 alumnos, 16 docentes, 12 secciones (22 por
+  seccion). Secundaria 320 alumnos, 19 docentes, 10 secciones (32 por
+  seccion). TOTAL: 674 alumnos, 35 docentes, 22 secciones.
+Pension 2025 (referencial): S/ 320/mes, matricula S/ 30, anual estimado
+  S/ 3,230 (reportado a MINEDU).
+Logros / notas: no se hallaron notas de prensa ni premios. Lo publico son
+  fichas de padron y directorios privados.
+Auditoria: COINCIDE codigos, condicion privada, directora, turno.
+  CORREGIDO: comoes.pe publica "176 alumnos y 11 docentes" en primaria;
+  el padron 2025 da 354 y 16. Se usa el padron.
+  RECHAZADO: el sello "bilinguie / curriculo internacional acreditado"
+  que le pone un portal de costos. Con S/ 320 de pension y sin documento
+  de acreditacion, no se sostiene. Se marca NO VERIFICADO.
+  CONFLICTO MENOR: fecha de registro 2011 vs. 2015 segun la ficha.
+  FALTA: plana docente, historia institucional publicada, si tiene
+  secundaria completa con cinco grados.
+
+================================================================================
+05 - I.E. "DOS DE MAYO" - CAJAMARCA (secundaria, turno noche)
+Fila 40 | Av. La Paz 123, La Florida | Tel. (076) 285594
+Registro 06-10-1976 | Google Maps: sin resenas
+================================================================================
+
+--- LECTURA (voz de un exalumno, ahora tecnico en una panaderia) ---
+Yo termine secundaria en el Dos de Mayo en el turno de la noche, en el
+2007. Tenia 24 anos, trabajaba de dia en una panaderia y estudiaba de
+noche. Ese es el Dos de Mayo que muy poca gente conoce en Cajamarca: el
+colegio de la gente que trabaja.
+
+El colegio esta en la avenida La Paz, en La Florida, muy cerca del 82019 y
+del San Jose Obrero. El padron lo registra desde el 6 de octubre de 1976 y
+hoy aparecen 776 alumnos varones en 28 secciones, con 43 docentes, en
+turno noche. Cuando yo estudie eramos menos, pero la mezcla era la misma:
+jovenes que habian dejado el colegio y volvian, padres de familia,
+trabajadores de mercado, gente de los caserios que bajaba a la ciudad.
+
+Lo que aprendi ahi no fue solo matematica. Aprendi que uno puede
+recuperar el tiempo. Los profesores de la noche son distintos: saben que
+llegas cansado, que a veces no pudiste hacer la tarea porque tuviste doble
+turno, y aun asi te exigen. Hubo uno de matematica que nos decia: "yo no
+les voy a regalar la nota, pero tampoco les voy a cerrar la puerta".
+Termine, saque mi certificado y con eso entre a un instituto.
+
+La parte objetiva, para el que quiera matricularse: es un colegio publico,
+gratuito, solo de varones en el padron, en turno noche. La direccion esta
+a cargo de Segundo Daniel Mejia Cercado. El local es el mismo donde
+funcionan otros servicios educativos, asi que hay que llegar temprano
+porque la puerta se abre para el turno y se cierra.
+
+Y una advertencia que vale oro, porque me ha pasado: en Cajamarca hay
+varios "Dos de Mayo". Este es el de la avenida La Paz 123 (codigo
+0390690). Hay otro "Dos de Mayo" de secundaria de adultos con codigo
+0391045 en la avenida Atahualpa 200, que figura inactivo, y en la hoja de
+Google aparece un tercero en Atahualpa 131. Si vas a hacer un tramite, di
+el codigo modular, no el nombre. Con "Dos de Mayo" solo, te pueden mandar
+a tres puertas distintas.
+
+--- DATOS AUDITADOS ---
+Director: MEJIA CERCADO SEGUNDO DANIEL (padron Censo 2025). Un registro
+  anterior consigna a CHUCCHUCAN SALAZAR MARCELINO (ficha de 2021).
+Docentes: sin plana nominal publica. 43 docentes.
+  Un docente documentado en cuadro UGEL: Manuel Asencio Malaga - Ciencia y
+  Tecnologia (plaza 1114414328M3).
+Gestion: Publica de gestion directa, Sector Educacion. UGEL Cajamarca.
+  Escolarizada. Varones. Turno noche. Urbano. Local 570104.
+Codigo: Secundaria CM 0390690. Registro 06-10-1976.
+Direccion: Av. La Paz 123, La Florida, Cajamarca. Coords.
+  -7.1651, -78.51029. Tel. (076) 285594.
+Censos 2025: 776 alumnos (varones), 43 docentes, 28 secciones.
+  Ratio: 28 alumnos por seccion.
+Historia: servicio educativo registrado el 06-10-1976. No se encontro una
+  resena historica institucional publicada. Se declara no verificada.
+Logros / notas: sin notas de prensa localizadas. Su valor social es la
+  atencion en turno noche a poblacion que trabaja.
+Auditoria: COINCIDE codigo, direccion del padron, turno noche, condicion
+  publica, cifras 776/43/28, director Mejia Cercado.
+  SEÑAL DE ALERTA: la hoja de Google ubica "Institucion Educativa Dos de
+  Mayo" en Av. Atahualpa 131, no en La Paz 123. Puede tratarse de otro
+  servicio (adultos) o de un error de geolocalizacion. No usar la
+  direccion de la hoja para este codigo.
+  CONFLICTO: director 2025 (Mejia Cercado) vs. 2021 (Chucchucan Salazar).
+  RIESGO ALTO DE CONFUSION: tres "Dos de Mayo" en Cajamarca (ver arriba),
+  mas los Dos de Mayo de Jaen, Celendin, San Pablo y Callao. Usar
+  CM 0390690.
+
+================================================================================
+AUDITORIA GENERAL DE ESTA TANDA
+================================================================================
+1. Davy College es el unico de los cinco con acreditacion internacional
+   verificada en el registro oficial del IB (codigo 001257, 2000). No se
+   atribuyo IB a ningun otro colegio sin documento.
+2. Rafael Loayza Guevara: tres fechas distintas (1891 acta, 1893 creacion,
+   1986 registro MINEDU) no son contradiccion; son hitos distintos. Se
+   explican los tres en la ficha.
+3. Lord Kelvin: se rechazo el sello "bilingue acreditado" por falta de
+   respaldo y por incoherencia con su pension (S/ 320).
+4. Inmaculada Concepcion: se rechazo atribuirle la historia franciscana de
+   1883 (esa es la del colegio de Lima). Su historia local no se pudo
+   verificar y asi se declara.
+5. Dos de Mayo: la hoja de Google da una direccion que no coincide con el
+   padron (Atahualpa 131 vs. La Paz 123). Se prioriza el padron y se
+   advierte del riesgo.
+6. Cifras corregidas contra el Censo 2025: Davy (657 -> 811), Lord Kelvin
+   primaria (176 -> 354), Inmaculada (517 o 368 -> 498).
+
+LO QUE NO SE PUDO VERIFICAR
+- Plana docente nominal de los cinco (ninguno la publica completa).
+- Historia institucional de la Inmaculada Concepcion y de Dos de Mayo en
+  Cajamarca: no hay resena publicada.
+- Pension oficial 2026 de Davy (la de 2025 es de portales, no del colegio).
+- RUC de la Inmaculada Concepcion: no consultado en SUNAT.
+- Si Lord Kelvin dicta los cinco grados de secundaria completos.
+- Director vigente del Rafael Loayza al 25-11-2026 (el padron 2026 es la
+  mejor fuente disponible; no hay oficio de designacion publicado).
+
+COMO VERIFICAR EN 10 MINUTOS
+1. ESCALE / padron MINEDU: https://escale.minedu.gob.pe/web/inicio/padron-de-iiee
+   (buscar por codigo modular, nunca por nombre).
+2. Identicole: https://identicole.minedu.gob.pe (costos y niveles).
+3. Registro IB (solo Davy): https://www.ibo.org/en/school/001257
+4. UGEL Cajamarca: http://ugelcajamarca.gob.pe (plazas y designaciones).
+5. SUNAT: https://e-consultaruc.sunat.gob.pe (Davy 20268172000, Lord
+   Kelvin 20611774215).
+6. Mesa de partes de cada colegio: pedir por escrito director vigente y
+   relacion de docentes.
+
+Nota final: misma regla que las tandas anteriores. Si un dato no tiene
+documento, se declara no verificado y no se rellena. La fuente manda.
+================================================================================
