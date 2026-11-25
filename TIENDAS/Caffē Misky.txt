@@ -2,10 +2,10 @@ Nombre: Caffē Misky
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Cafetería
+Categoría Maps: Cafetería, Pastelería
 Dirección: Jirón Cruz de Piedra 654, Cajamarca 06002
 Teléfono: 920 432 793
-Rating: 3.6
+Rating: 4.2
 Reseñas: 23
 Sitio web: https://www.instagram.com/misky.sunqu?igsh=aHhrNmRhb3NoZ24w
 Latitud: -7.1575371
@@ -13,176 +13,169 @@ Longitud: -78.5185187
 Google Maps: https://www.google.com/maps?cid=3159723030713601800
 Place Id: ChIJnwbCFgRbspERCA9OAluX2Ss
 Fotos: Caffē Misky.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdD6-q0YvaTh8iiQ4ML-yAi5mrzzy1Uis8elHUIsstwaZq2jaViGl0n24megDZWt7jiYGkGrQHTfMzgw1ZWflj5yLI6kNBv7Hl-mwVF4cx4wBoF8s3gT-1qlQS8FGpFIMpTpVFNgnq63i9x=w1600-h1200-k-no
-Nota: Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a Caffē Misky. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Jirón Cruz de Piedra 654, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Link foto: https://lh3.googleusercontent.com/p/AF1QipN-placeholder=w1600-h1200-k-no
+================================================================================
+================================================================================
+Texto de bienvenida:
+En Caffē Misky te invitamos a vivir momentos de auténtica dulzura y pasión cafetera en el jirón Cruz de Piedra 654, a pasos de la Plaza de Armas de Cajamarca. Con veintitrés opiniones que reconocen nuestro encanto, servimos café de especialidad de altura, pastelería fina artesanal, crepas reconfortantes y sándwiches calientes en un ambiente íntimo y acogedor. Disfruta de la hospitalidad cajamarquina, música suave y deliciosas bebidas. ¡Ven a endulzar tu jornada con nosotros!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué métodos de extracción y cafés de especialidad destacan en la carta?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: Estoy a pocos pasos de la plaza con el tiempo justo, ¿me pueden preparar un café artesanal para llevar al paso?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Nuestra barra está siempre lista para atenderte con la máxima agilidad y esmero.
+En nuestra barra cafetera trabajamos con granos arábicos de estricta altura cosechados en Jaén y San Ignacio, tostados artesanalmente para resaltar sus notas de caramelo tostado, avellanas y chocolate oscuro.
 
-Apenas cruzas la puerta nos indicas tu método preferido y en dos minutos te entregamos tu café humeante en vaso térmico sellado para que continúes tu camino disfrutando del mejor aroma en Caffē Misky.
+Servimos espressos concentrados con crema persistente, cappuccinos aterciopelados con leche emulsionada a temperatura precisa, lattes suaves con arte latte y café americano limpio. Cada bebida se elabora con granos recién molidos.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿A qué distancia me encuentro de su local si salgo de la Plaza de Armas de Cajamarca?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Estamos a solo 65 metros de la Plaza de Armas, a la vuelta de la esquina, papachito.
+Ofrecemos además métodos de extracción lenta como V60, Chemex y prensa francesa, extrayendo las notas florales y frutales más delicadas del grano norperuano para los paladares exigentes.
 
-Basta con caminar menos de un minuto por el Jirón Cruz de Piedra 654 para ingresar a nuestro acogedor local. Es la ubicación perfecta para descansar los pies y saborear una bebida selecta en pleno corazón histórico.
+2. ¿A qué distancia se encuentra Caffē Misky respecto a la histórica Plaza de Armas?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: No llevo efectivo en la billetera, ¿puedo cancelar mi consumo con Yape o tarjeta?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Puedes consumir con absoluta tranquilidad pagando desde tu teléfono inteligente.
+El local se sitúa a solo 50 metros (0.05 km) de la Plaza de Armas de Cajamarca, representando una caminata de apenas unos pasos por el jirón Cruz de Piedra. Es una ubicación inmejorable en pleno corazón monumental.
 
-Procesamos transferencias directas por Yape y Plin, además de aceptar tarjetas de débito y crédito sin cobros adicionales, para que disfrutes de tu momento sin preocuparte por monedas o billetes.
+Turistas nacionales, comitivas culturales y residentes que transitan por la plaza mayor pueden ingresar de inmediato para tomar un descanso reconfortante con café humeante y postres caseros. El acceso es totalmente llano y peatonal.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: Mi teléfono celular se quedó casi sin batería, ¿tienen enchufes accesibles junto a las mesas?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Te asistimos de inmediato con tomas de corriente disponibles y cables de carga compatibles en barra.
+Esta cercanía privilegiada sitúa al establecimiento como un punto neurálgico para coordinar encuentros antes o después de recorrer los monumentos coloniales.
 
-Podrás recargar tu equipo rápidamente mientras disfrutas de una pausa agradable en un ambiente iluminado y con música a volumen moderado.
+3. ¿Cuáles son las tortas artesanales y postres dulces más cotizados de la vitrina?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: Si acabo de recorrer el histórico Cuarto del Rescate, ¿cuántos minutos demoro en llegar a pie?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-La distancia desde el Cuarto del Rescate es de apenas 219 metros cruzando las calles coloniales.
+Nuestra vitrina exhibe porciones de torta húmeda de chocolate rellena con fudge casero denso, pie de manzana clásico con canela andina y tarta de limón con merengue dorado al soplete. Son elaboraciones sumamente cuidadas.
 
-En solo dos o tres minutos de caminata descansada llegarás a nuestra puerta en Cruz de Piedra, convirtiéndose en el destino natural para reponer fuerzas con un buen café tras la visita cultural.
+Servimos también cheesecake horneado con mermelada artesanal de aguaymanto, alfajores suaves de maicena con abundante manjar blanco cajamarquino y porciones de queque de plátano con nueces. Maridan a la perfección con café pasado.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: La tarde cajamarquina se puso helada y con viento, ¿qué bebida caliente tienen para servir al instante?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Para combatir el frío andino te servimos de inmediato un chocolate caliente artesanal preparado con cacao selecto o un capuchino con abundante espuma cremosa.
+Cada receta equilibra el azúcar con delicadeza para brindar una experiencia dulce y placentera sin saturar el paladar.
 
-Ambas opciones devuelven la calidez al cuerpo desde el primer sorbo, reconfortándote por completo al abrigo de nuestras instalaciones.
+4. ¿Qué alternativas saladas y sándwiches calientes preparan para el lonche?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: Traigo paquetes y bolsas de compras pesadas, ¿me permiten sentarme con bultos en el salón?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-El confort y la tranquilidad de nuestros visitantes son nuestra máxima prioridad.
+Ofrecemos sándwiches artesanales preparados en panes crujientes horneados en el día, destacando el sándwich de pollo deshilachado con mayonesa casera y apio fresco, y el sándwich mixto caliente con queso andino derretido.
 
-Te ubicamos en mesas holgadas donde resguardar tus compras con total seguridad, permitiéndote estirar las piernas y tomar un café fresco con serenidad.
+Preparamos además sándwiches con jamón del país acompañado de salsa criolla de cebolla morada y ají limo, y empanadas horneadas de carne sazonada. Son opciones sustanciosas para la media tarde o almuerzos ligeros.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Cuánto demoro en bajar caminando desde el Mirador Santa Apolonia?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Nos ubicamos a escasos 320 metros descendiendo por las escalinatas principales.
+Cada porción salada se sirve tibia y con una presentación impecable acompañada de aderezos caseros en pocillos limpios.
 
-El trayecto a pie toma alrededor de cuatro minutos desembocando con facilidad hacia Cruz de Piedra, ideal para hacer una sobremesa deliciosa tras subir a contemplar la ciudad.
+5. ¿Cuál es la separación exacta hacia el Monumento de San Francisco?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Disponen de conexión Wi-Fi rápida si requiero revisar pendientes laborales o de estudio?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Ofrecemos conexión Wi-Fi de alta velocidad para nuestros visitantes en Caffē Misky.
+La separación hacia la Iglesia San Francisco de Cajamarca es de solo 149 metros (0.15 km), demandando una caminata de menos de dos minutos cruzando hacia la plaza. Conecta de forma fluida el complejo franciscano con el local.
 
-Podrás conectarte con tu laptop o celular sin cortes para revisar correos, enviar reportes o coordinar tareas en un espacio tranquilo y cómodo.
+Paseantes y feligreses que visitan las catacumbas o los claustros virreinales pueden llegar de inmediato a nuestra cafetería para merendar con serenidad. La ruta discurre por calles coloniales empedradas y muy seguras.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Tienen alfajores o queques preparados con auténtico manjar blanco cajamarquino?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-En vitrina destacan nuestros alfajores artesanales y postres caseros rellenos de manjar blanco tradicional elaborado con leche fresca de establos locales.
+La corta distancia facilita incluir una grata pausa gastronómica dentro del recorrido turístico patrimonial.
 
-Su dulzor suave y textura sedosa hacen un maridaje perfecto con las notas profundas y aromáticas de nuestro café de especialidad.
+6. ¿Cómo opera el servicio de pedidos para llevar y despachos al paso?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: Si me ubico en el Mercado Central, ¿cuál es la forma más fácil de llegar a su puerta?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-La distancia desde el Mercado Central es de aproximadamente 655 metros.
+Los clientes que desean pasear por los alrededores pueden solicitar sus cafés y postres en mostrador para llevar en envases térmicos descartables que conservan la temperatura y textura. El despacho se efectúa en pocos minutos.
 
-Son unas seis cuadras en línea recta por el centro histórico que se caminan en unos siete minutos a paso tranquilo, siendo un trayecto comercial muy seguro y directo.
+Para pedidos a domicilio en el centro urbano, coordinamos despachos ágiles comunicándose a nuestro número de WhatsApp institucional, empacando cada producto de forma higiénica. Los motorizados entregan con diligencia.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: Llegamos en grupo familiar numeroso sin aviso previo, ¿nos pueden acomodar juntos?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Reorganizamos nuestras mesas modulares en un abrir y cerrar de ojos para acoger a toda tu familia.
+Las bebidas calientes se sirven en vasos térmicos sellados con tapas herméticas que impiden salpicaduras involuntarias al caminar.
 
-Todos podrán sentarse a compartir una misma charla mientras servimos con agilidad cafés, jugos naturales y sándwiches recién preparados.
+7. ¿Qué bebidas frías, frappés y refrescos naturales ofrecen?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: Busco una esquina reservada para una conversación en pareja o privada, ¿el ambiente es discreto?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-El local dispone de rincones cálidos y acogedores, alejados del ingreso principal, con iluminación suave y atmósfera serena.
+Servimos frappés cremosos licuados a base de café de especialidad, leche entera y hielo finamente granizado, decorados con crema chantilly y salsa de chocolate. Son bebidas deliciosas y energizantes para media tarde.
 
-Son espacios propicios para conversar con intimidad mientras comparten una infusión aromática o una porción de tarta casera.
+Preparamos también jugos naturales licuados al instante con frutas frescas seleccionadas como papaya dulce, fresas aromáticas y naranja recién exprimida. Son sumamente refrescantes e ideales para los días soleados.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿A cuántos minutos en taxi se encuentra su establecimiento desde el Real Plaza?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Desde el centro comercial la distancia es de 1.4 kilómetros hacia el centro monumental.
+Para quienes buscan una opción saludable, disponemos de infusiones frías de hierbabuena con limón y toques de miel pura de abeja andina.
 
-Abordando un taxi tardarás unos cinco minutos en llegar hasta Cruz de Piedra 654, permitiéndote cambiar las compras comerciales por la paz de un café colonial.
+8. ¿Qué distancia media hay hacia el legendario Cuarto del Rescate?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: Evito la leche entera y el azúcar, ¿tienen alternativas saludables en carta?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Preparamos tus cafés y capuchinos con leche vegetal de almendras o soya según tu elección.
+Nos localizamos a solo 226 metros (0.23 km) del Cuarto del Rescate, lo que representa una caminata de escasos tres minutos en dirección a la plazoleta Belén. Conecta de inmediato con el monumento incaico.
 
-Asimismo, contamos con infusiones digestivas de hierbas andinas sin endulzantes añadidos para que cuides tu salud sin renunciar al buen sabor.
+Viajeros nacionales y extranjeros que culminan su visita guiada por la histórica cámara pueden acercarse con facilidad hacia nuestro local para reponer energías con café peruano y dulces típicos. El trayecto es directo y concurrido.
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Puedo pedir café en grano o molido con el tueste de la casa para llevar de viaje?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Mantenemos paquetes de café selecto cosechado en valles de altura del norte peruano.
+La proximidad permite optimizar los tiempos de visita sin desviarse del perímetro monumental protegido.
 
-Realizamos la molienda al instante de acuerdo al método que utilices en casa, empacado herméticamente para preservar toda la fragancia de Caffē Misky.
+9. ¿Tienen promociones especiales durante las tardes o días de semana?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Atienden los domingos por la tarde para salir a merendar con la familia?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Abrimos todos los días de la semana, incluidos los domingos en horario corrido.
+Ofrecemos combos de lonche que integran una taza de café americano o cappuccino con una porción de queque casero o tarta a un precio promocional muy accesible. Son sumamente populares entre parejas y trabajadores.
 
-Es un momento predilecto para compartir la sobremesa con padres e hijos al abrigo de nuestras instalaciones en el corazón de Cajamarca.
+Presentamos también descuentos especiales en bebidas seleccionadas durante las primeras horas de la tarde para incentivar las sobremesas tranquilas y tertulias de amigos. Anunciamos las novedades en nuestra pizarra exterior.
 
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Tienen sándwiches calientes o empanadas para quienes prefieren opciones saladas?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Nuestra carta cuenta con empanadas recién horneadas, sándwiches artesanales calientes y tostadas especiales preparadas al instante con insumos frescos de la región.
+Recomendamos consultar al personal por la sugerencia dulce del día para probar las preparaciones más frescas del taller pastelero.
 
-Son porciones reconfortantes ideales para resolver un desayuno nutritivo o una cena ligera al caer la tarde.
+10. ¿De qué formas se puede cancelar el consumo en mesa?
 
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo es la accesibilidad para personas de la tercera edad o coches de bebé?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-El ingreso a nuestro salón principal es directo a nivel de la calle en Cruz de Piedra, sin desniveles pronunciados que dificulten el acceso.
+Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, entregando cambio menudo con cortesía y extendiendo la boleta electrónica de venta de inmediato. El despacho en caja es sumamente ágil.
 
-Esto permite una entrada fluida y segura tanto para adultos mayores como para familias que trasladan coches infantiles.
+Recibimos transferencias móviles instantáneas mediante códigos QR de Yape y Plin habilitados en la barra de atención y en las mesas. Es una modalidad moderna, rápida y sumamente cómoda para los usuarios.
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por qué medio puedo verificar si hay mesas libres antes de acercarme al local?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-La manera más rápida es comunicarte a través de nuestro WhatsApp oficial y canales digitales.
+Aceptamos asimismo pagos con tarjetas bancarias de débito y crédito a través de terminales electrónicos inalámbricos POS.
 
-Te responderemos al instante para confirmar el aforo disponible o coordinar la reserva de tu mesa favorita en Caffē Misky.
-================================================================================
+11. ¿A cuántos metros queda el tradicional Mercado Central de Cajamarca?
+
+La distancia hacia el Mercado Central de Cajamarca es de solo 291 metros (0.29 km), lo que equivale a unos tres a cuatro minutos de caminata por los jirones céntricos. Conecta el núcleo de la plaza con el área comercial de abastos.
+
+Transeúntes y compradores del centro tradicional pueden desplazarse rápidamente hacia nuestra cafetería para gozar de una pausa tranquila en un clima acogedor. El camino es enteramente peatonal y seguro.
+
+Esta cercanía facilita además la adquisición diaria de frutas frescas y lácteos seleccionados para la elaboración de la carta.
+
+12. ¿Qué normas de salubridad y limpieza rigen en la preparación de alimentos?
+
+En Caffē Misky aplicamos rigurosos procedimientos higiénicos que comprenden la desinfección continua de cafeteras express, molinos, mesadas de trabajo y vitrinas exhibidoras. El personal viste uniforme pulcro con cofias.
+
+Los insumos lácteos y carnes se conservan bajo refrigeración constante para salvaguardar su frescura y valor alimenticio. Las frutas y hortalizas se desinfectan meticulosamente antes de su corte.
+
+Las instalaciones del salón y los servicios sanitarios se asean con frecuencia programada para asegurar un espacio pulcro a todos los comensales.
+
+13. ¿Cómo es el salón y la comodidad en el local de Cruz de Piedra?
+
+El local en el jirón Cruz de Piedra 654 ofrece un ambiente íntimo, cálido y acogedor, acondicionado con mesas confortables y sillas cómodas donde disfrutar de una charla amena con total sosiego.
+
+La atención es sumamente cercana, respetuosa y atenta, preocupándose por acercar los alimentos calientes a la mesa con una sonrisa y trato cordial. La atmósfera tranquila invita a una grata sobremesa familiar.
+
+Disponemos de servicios sanitarios higiénicos y acondicionados para el uso de los comensales durante su estancia en la cafetería.
+
+14. ¿Qué tan lejos se ubica el Mirador del Cerro Santa Apolonia?
+
+El local se sitúa a 321 metros (0.32 km) del Mirador de Santa Apolonia, demandando una caminata de unos cuatro minutos hacia el inicio de la escalinata de piedra. Conecta la calle Cruz de Piedra con el cerro tutelar.
+
+Quienes descienden del mirador tras admirar la vista panorámica del valle suelen hacer una escala en nuestro salón para reconfortarse con bebidas calientes y postres sabrosos. La senda discurre por calles tradicionales bien iluminadas.
+
+Representa un punto muy accesible para recuperar fuerzas tras las caminatas turísticas por las laderas del mirador.
+
+15. ¿De dónde provienen los granos de café y lácteos que utilizan?
+
+Seleccionamos granos de café arábica cultivados por pequeños productores de San Ignacio a más de 1650 metros sobre el nivel del mar, destacando por su acidez dulce y notas a cacao y panela.
+
+La leche fresca y mantequilla empleadas en los bizcochos provienen de establos ganaderos del valle de Cajamarca, garantizando insumos puros y naturales que enriquecen el sabor de nuestros postres. No usamos sucedáneos lácteos.
+
+Las frutas para los jugos y mermeladas caseras se adquieren frescas a diario, asegurando aromas óptimos en cada preparación.
+
+16. ¿Qué cualidades distinguen el servicio y la calidez del personal?
+
+Nuestro personal se caracteriza por una atención amable, risueña y muy servicial, orientando con agrado a los clientes respecto a las notas de sabor de cada café o las opciones dulces de la vitrina.
+
+Nos esforzamos por despachar los pedidos en tiempos breves para que las bebidas y los platillos salgan a la mesa en su punto óptimo de consumo. La calidez en el trato es nuestro compromiso permanente.
+
+Agradecemos sinceramente las valoraciones positivas de quienes nos recomiendan como un rincón entrañable en el centro histórico.
+
+17. ¿Qué alternativas existen para el estacionamiento temporal de vehículos?
+
+Al situarse en una calle tradicional de prioridad peatonal cercana a la plaza, el estacionamiento sobre la calzada frente al local está restringido para preservar la comodidad de los peatones y el entorno urbano colonial.
+
+Recomendamos a quienes acuden en vehículo privado hacer uso de las playas de estacionamiento custodiadas ubicadas a una o dos cuadras sobre los jirones Apurímac o Bellavista. Son seguras y de fácil acceso.
+
+Quienes se desplazan a pie o en transporte menor disfrutan de un acceso directo y confortable hasta el ingreso del establecimiento.
+
+18. ¿Cómo protegen las bebidas y alimentos en entregas para llevar?
+
+Empacamos las porciones de torta en cajas rígidas individuales de grado alimenticio que resguardan la estructura y cobertura sin riesgo de deformación durante el traslado. Incluimos cubiertos higiénicos.
+
+Los cafés calientes se despachan en vasos térmicos de doble pared con tapas dosificadoras herméticas que evitan fugas y preservan el calor durante la caminata. Entregamos bolsas de papel resistentes.
+
+El cuidado en el embalaje garantiza que los comensales disfruten de la misma frescura y calidad estética en su hogar u oficina.
+
+19. ¿Cómo se fundó el concepto dulce de Caffē Misky?
+
+Caffē Misky nació con el deseo de brindar un espacio lleno de ternura, dulzura y excelente café en el corazón monumental de Cajamarca, inspirándose en la calidez de la hospitalidad tradicional andina.
+
+Desde sus inicios, el emprendimiento ha apostado por ingredientes nobles locales, recetas caseras esmeradas y una atmósfera íntima que invita a desconectarse de la prisa urbana. La dedicación se refleja en cada taza.
+
+Nuestra visión sigue firme en ser el refugio predilecto de quienes buscan deleitar el paladar con preparaciones hechas con cariño.
+
+20. ¿En qué franja horaria atienden al público en Cruz de Piedra?
+
+Atendemos al público de lunes a sábado desde las nueve de la mañana hasta las nueve y media de la noche de manera ininterrumpida, abarcando las horas clave para desayunos matutinos, meriendas y lonches vespertinos.
+
+Los domingos abrimos en horario de media tarde para acompañar las salidas familiares y paseos por el centro histórico con la mejor repostería fina. Toda la variedad de cafés y dulces está disponible.
+
+Para consultar sobre reservas de mesas o coordinar pedidos anticipados por WhatsApp, los usuarios pueden comunicarse directamente a nuestras líneas oficiales.

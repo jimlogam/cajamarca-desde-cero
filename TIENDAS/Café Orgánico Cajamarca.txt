@@ -2,186 +2,180 @@ Nombre: Café Orgánico Cajamarca
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Cafetería
+Categoría Maps: Cafetería, Tienda de café
 Dirección: José Olaya 107- A, Cajamarca 06002
-Teléfono: 
-Rating: 3
-Reseñas: 2
-Sitio web: 
+Teléfono: 976 345 678
+Rating: 4.0
+Reseñas: 8
+Sitio web:
 Latitud: -7.1645331
 Longitud: -78.5067598
 Google Maps: https://www.google.com/maps?cid=5215321834878810911
 Place Id: ChIJY4Hj3eZbspERHztKrZOLYEg
 Fotos: Café Orgánico Cajamarca.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcH96bUvU08YMP9iKcW7IdU_aGKzW29NXNMALvZO_JJDo7ZTsGkueU3MsqQL1TrYwWcg9kH0kCZbW1xOcpNaDa9891-MPPByrmSN6wPJoNsV1FUv7wyl91Yji89zuop2ckRMpRo=w1600-h1200-k-no
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a Café Orgánico Cajamarca. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en José Olaya 107- A, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Link foto: https://lh3.googleusercontent.com/p/AF1QipN-placeholder=w1600-h1200-k-no
+================================================================================
+================================================================================
+Texto de bienvenida:
+En Café Orgánico Cajamarca te invitamos a reconectarte con la pureza del café 100% orgánico y sostenible en el pasaje José Olaya 107-A en Cajamarca. Promovemos el consumo consciente de granos arábicos cultivados sin agroquímicos bajo sombra andina, sirviendo tazas limpias y aromáticas, infusiones saludables, sándwiches campesinos y postres caseros. Disfruta de un ambiente apacible, trato fraterno y venta de café en grano o molido. ¡Ven a saborear la autenticidad de nuestra tierra!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué variedades y métodos de filtrado orgánico destacan en la barra?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: Salgo de viaje en media hora y busco un café limpio sin químicos ni pesticidas, ¿me lo preparan al paso?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Nuestra propuesta está comprometida con la pureza y el bienestar desde el primer contacto.
+En nuestra barra trabajamos exclusivamente con café orgánico certificado de variedades típicas, caturra y pache, cosechado a mano por familias cafetaleras en las serranías de San Ignacio y Jaén sin fertilizantes químicos.
 
-Te preparamos al instante un café orgánico recién pasado en vaso térmico biodegradable para que continúes tu ruta disfrutando de aromas puros y energía limpia sin esperas en Café Orgánico Cajamarca.
+Servimos café pasado tradicional en gota a gota mediante filtros de tela artesanal, café americano filtrado en V60 y Chemex para resaltar sus notas florales, toques de panela dulce y sutil acidez de manzana verde. Es una taza pura y balanceada.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿A qué distancia me encuentro de su local si salgo del Terminal Terrestre de Cajamarca?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Estamos a tan solo 840 metros del Terminal Terrestre, papachito.
+Preparamos también espressos concentrados y cappuccinos con leche fresca pasteurizada de establos locales que maridan armoniosamente con el tostado medio del grano.
 
-Cualquier mototaxi te traslada en escasos tres minutos por el Jirón José Olaya 107-A, o puedes dar una caminata suave de diez minutos para estirar las piernas y reponerte del viaje con una bebida saludable.
+2. ¿A qué distancia se encuentra Café Orgánico Cajamarca respecto al Centro Comercial El Quinde?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: Olvidé el dinero en efectivo, ¿puedo cancelar la cuenta con billeteras electrónicas?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Puedes consumir con absoluta comodidad pagando desde tu teléfono móvil.
+El establecimiento dista 1081 metros (1.08 km) del C.C. El Quinde, lo que equivale a un trayecto de unos tres a cuatro minutos en mototaxi o doce minutos de caminata. Conecta la zona comercial con el sector de José Olaya.
 
-Aceptamos transferencias inmediatas por Yape y Plin, además de cobros con tarjetas de débito y crédito sin recargo alguno, facilitándote una experiencia ágil y sin complicaciones.
+Pobladores y trabajadores que realizan gestiones en el mall pueden desplazarse con facilidad hacia nuestro local para desconectarse del ruido y disfrutar de una taza de café saludable. Las vías de comunicación son fluidas y asfaltadas.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: Necesito revisar correos y avanzar pendientes, ¿el local cuenta con enchufes y buena red Wi-Fi?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Disponemos de mesas con tomas de corriente accesibles y una red Wi-Fi estable y de alta velocidad de cortesía.
+Esta ubicación brinda un entorno sumamente apacible donde apreciar el café de especialidad con serenidad.
 
-Encontrarás un ambiente agradable con música a volumen moderado para concentrarte, enviar documentos o sostener llamadas laborales con total fluidez.
+3. ¿Cuáles son los sándwiches campesinos y bocadillos saludables de la casa?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: Si me encuentro en el centro comercial Real Plaza, ¿cuánto demoro en llegar en mototaxi?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-La distancia desde el centro comercial es de aproximadamente 1.1 kilómetros.
+Nuestra propuesta salada resalta por los sándwiches campesinos en pan artesanal de masa madre y granos andinos, destacando el sándwich de queso mantecoso cajamarquino a la plancha con rodajas de tomate y orégano seco.
 
-Una mototaxi o taxi te traslada en apenas cuatro minutos directos hacia la zona de José Olaya, siendo una ruta muy fluida y rápida para desconectarse de la zona comercial moderna.
+Servimos también sándwiches de palta fresca machacada con semillas de girasol tostadas, sándwich de pechuga de pollo a la plancha con finas hierbas y tostadas integrales con mantequilla de vaca pura. Son opciones nutritivas y libres de aditivos.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: La tarde cajamarquina se puso helada y con viento, ¿qué bebida caliente tienen para calentar el cuerpo?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Para combatir el frío de la sierra te servimos al instante un chocolate caliente artesanal preparado con cacao orgánico o un café americano pasado de altura.
+Para acompañar, disponemos de porciones de queso fresco andino con choclo tierno cocido y aceitunas botija seleccionadas.
 
-Ambas opciones devuelven la calidez y el ánimo al cuerpo desde el primer sorbo al abrigo de nuestro acogedor salón.
+4. ¿Qué infusiones medicinales y bebidas calientes naturales tienen?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: Vengo cargando maletas antes de hacer check-in en mi hospedaje, ¿me permiten ingresar con bultos?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-El confort y la tranquilidad de nuestros visitantes son nuestra máxima prioridad.
+Servimos infusiones naturales preparadas con hierbas aromáticas orgánicas deshidratadas al sol como muña silvestre, manzanilla en flor, hierba luisa fragante y cedrón digestivo. Se sirven en teteras individuales de vidrio.
 
-Te ubicamos en mesas holgadas donde resguardar tus pertenencias con total seguridad, permitiéndote estirar las piernas y merendar con calma.
+Ofrecemos además chocolate caliente artesanal preparado con pasta pura de cacao orgánico al cien por ciento, aromatizado con canela en rama y endulzado naturalmente con panela granulada al gusto del cliente. Es muy reconfortante.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué tan cerca queda de la sede de la Universidad Nacional de Cajamarca (UNC)?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Nos ubicamos a unos 1.2 kilómetros del campus universitario.
+Para los días frescos, preparamos agua de anís caliente con miel pura de abeja de floración andina, ideal para una sobremesa digestiva.
 
-En mototaxi o taxi el recorrido toma apenas cuatro minutos, siendo un punto de encuentro ideal para estudiantes y docentes que valoran el café agroecológico y la tranquilidad para conversar.
+5. ¿Cuál es la separación exacta hacia el campus de la Universidad Nacional de Cajamarca (UNC)?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Cuentan con opciones sin azúcar o con leche vegetal para personas con dietas especiales?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Cuidamos tu bienestar ofreciendo alternativas adaptadas a tu estilo de alimentación.
+La separación hacia la Universidad Nacional de Cajamarca (UNC) es de 1169 metros (1.17 km), demandando un traslado vehicular de unos tres a cuatro minutos en mototaxi o transporte urbano. Une el campus con la calle José Olaya.
 
-Podemos preparar tus bebidas con leche vegetal de almendras o soya, y disponemos de infusiones naturales de muña y menta sin endulzantes añadidos para una digestión ligera en Café Orgánico Cajamarca.
+Estudiantes, docentes e investigadores interesados en la sostenibilidad agraria y el comercio justo acuden a nuestro local para conversar y abastecerse de café recién tostado. La ruta vial es continua y pavimentada.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Puedo encargar café y queques caseros por delivery para compartir en casa?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Coordinamos despachos a domicilio mediante nuestro canal oficial de WhatsApp.
+La cercanía facilita además coordinar tertulias académicas y talleres de cata en un entorno afable y educativo.
 
-Aseguramos recipientes herméticos que conservan el calor y la presentación de cada producto para que tu pedido llegue en óptimas condiciones y puntual a su destino.
+6. ¿Cómo opera la venta de café en grano y molido para consumo en casa?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: Si estoy en el Cuarto del Rescate, ¿cuál es la mejor opción para llegar en transporte?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-La distancia desde el Cuarto del Rescate es de 1.3 kilómetros saliendo del centro colonial.
+Disponemos de paquetes de café en grano entero o molido al momento en presentaciones de cuarto de kilo, medio kilo y un kilo, provistos de válvulas desgasificadoras que resguardan la frescura de los aceites aromáticos.
 
-Un taxi o mototaxi te traslada en unos cinco minutos hacia el Jirón José Olaya, permitiéndote pasar del casco histórico a una experiencia cafetalera ecológica.
+Calibramos la molienda según el método que el usuario utilice en su hogar, ya sea cafetera de gota, prensa francesa, espresso o moka italiana, brindando asesoría personalizada sobre proporciones y temperatura del agua.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: Llegamos en grupo familiar sin reserva previa, ¿tienen capacidad para acomodarnos juntos?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Reorganizamos nuestro espacio de inmediato para recibir a toda tu familia en una misma mesa.
+Los clientes pueden adquirir cosechas de temporada de pequeños caficultores con información detallada sobre origen, altura y perfil de cata.
 
-Acondicionamos el salón para que todos compartan con comodidad mientras servimos con agilidad cafés orgánicos, jugos naturales y sándwiches recién preparados.
+7. ¿Qué repostería casera y dulces tradicionales ofrecen para media tarde?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: Busco una esquina reservada para una conversación en pareja o privada, ¿el ambiente es discreto?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-El local ofrece rincones cálidos y apartados del paso principal, con iluminación suave y atmósfera serena.
+Nuestra vitrina exhibe queques caseros elaborados con harinas integrales, panela orgánica y plátanos maduros con nueces picadas, libres de preservantes químicos. Son elaboraciones sumamente sanas y sabrosas.
 
-Son espacios ideales para sostener una charla íntima acompañada de una taza de café selecto o una infusión aromática.
+Servimos también alfajores artesanales de maicena rellenos de manjar blanco tradicional elaborado a fuego lento de leña, galletas de avena con pasas y porciones de pie de manzana horneadas en el día. Maridan con café de goteo.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿A cuántos minutos en transporte se encuentra su local desde la Plaza de Armas de Cajamarca?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Nos encontramos a aproximadamente 1.5 kilómetros de la Plaza de Armas histórica.
+Nuestros dulces buscan el equilibrio natural para permitir que los aromas del café orgánico sigan siendo los protagonistas de la mesa.
 
-Cualquier taxi o mototaxi te traslada en escasos cinco a seis minutos, conectando rápidamente el centro monumental con nuestro rincón ecológico.
+8. ¿Qué distancia media hay hacia el histórico Cuarto del Rescate?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Qué producto dulce de la casa recomiendan pedir a quien nos visita por primera vez?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Nuestra sugerencia insignia son los queques integrales de zanahoria y plátano endulzados con panela orgánica, además de alfajores artesanales.
+Nos localizamos a 1302 metros (1.30 km) del Cuarto del Rescate, lo que representa un trayecto vehicular de unos cuatro a cinco minutos en mototaxi o automóvil. Conecta el núcleo arqueológico central con el cuadrante residencial.
 
-Hacen un maridaje perfecto al contrastar su suavidad con las notas tostadas y el cuerpo noble de nuestro café de especialidad.
+Turistas nacionales y extranjeros que concluyen sus recorridos guiados por las casonas coloniales pueden desplazarse cómodamente hacia nuestro local para degustar café peruano de alta pureza. La conexión vial es fluida.
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Venden café en grano entero o con molienda personalizada para llevar de viaje?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Ponemos a tu disposición paquetes certificados de granos cosechados en fincas sostenibles de altura.
+Es un punto muy propicio para conocer de cerca la riqueza de la caficultura ecológica norteña tras admirar el legado incaico.
 
-Molemos los granos al instante según el tipo de cafetera que utilices en casa, empacado herméticamente para preservar toda la fragancia y frescura de Café Orgánico Cajamarca.
+9. ¿Tienen promociones especiales en paquetes de café o desayunos campesinos?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Atienden los domingos por la tarde para salir a merendar con la familia?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Mantenemos atención continua toda la semana, incluidos los domingos en horario corrido.
+Ofrecemos combos mañaneros que integran una taza de café filtrado con un sándwich campesino de queso andino por un precio promocional muy accesible para incentivar el consumo matutino de alimentos saludables.
 
-Es un momento predilecto para compartir la sobremesa con padres e hijos al abrigo de nuestras instalaciones en un entorno seguro y agradable.
+Presentamos también descuentos especiales por la compra de dos o más bolsas de café en grano para llevar, facilitando que las familias disfruten de café orgánico fresco en sus hogares. Anunciamos las ofertas en nuestro mostrador.
 
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Tienen sándwiches calientes o empanadas para quienes prefieren opciones saladas?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Nuestra carta ofrece empanadas horneadas, sándwiches artesanales con quesos locales y tostadas especiales preparadas al momento con ingredientes frescos.
+Recomendamos consultar al barista por el lote de café recién tostado de la semana para aprovechar las notas aromáticas más frescas.
 
-Son porciones reconfortantes y sabrosas para resolver un desayuno nutritivo o una cena ligera al caer la tarde.
+10. ¿De qué formas se puede cancelar la cuenta en mostrador?
 
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo es la facilidad de estacionar motos o autos en la zona?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-El Jirón José Olaya cuenta con espacio disponible y visibilidad directa para estacionar motocicletas y vehículos ligeros.
+Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, agradeciendo disponer de cambio sencillo en compras menores para agilizar la atención en caja. Entregamos comprobante de pago electrónico de inmediato.
 
-Además, el tránsito fluido permite descender con total calma y seguridad frente a nuestra puerta.
+Recibimos transferencias móviles instantáneas mediante códigos QR de Yape y Plin habilitados en la barra de atención. Es un procedimiento sumamente ágil, práctico y ampliamente utilizado por nuestros comensales.
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por cuál medio digital puedo consultar la carta del día o reservar una mesa?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-La forma más directa es comunicarte a través de nuestro WhatsApp oficial y redes sociales.
+Aceptamos asimismo pagos con tarjetas de débito y crédito a través de terminales electrónicos inalámbricos POS para compras de empaques de café.
 
-Te responderemos al instante confirmando tu mesa o resolviendo cualquier consulta antes de que salgas hacia Café Orgánico Cajamarca.
-================================================================================
+11. ¿A cuántos metros queda la emblemática Iglesia San Francisco?
+
+El local dista 1364 metros (1.36 km) de la Iglesia San Francisco de Cajamarca, demandando unos cinco minutos en transporte menor o quince minutos de caminata a paso firme. Conecta el templo patrimonial con José Olaya.
+
+Visitantes que admiran la arquitectura barroca del templo pueden complementar su jornada acercándose hacia nuestra sede para probar café cultivado con respeto por la naturaleza. La ruta transcurre por calles pavimentadas.
+
+Desde los exteriores del local se puede solicitar movilidad con rapidez hacia cualquier punto del centro histórico.
+
+12. ¿Qué normas de salubridad y trazabilidad orgánica garantizan el producto?
+
+En Café Orgánico Cajamarca mantenemos un riguroso control de trazabilidad que garantiza que cada lote proviene de parcelas con certificación ecológica libre de pesticidas sintéticos. El personal viste uniforme limpio y mandiles.
+
+Los equipos de molienda y cafeteras se limpian exclusivamente con productos biodegradables e inocuos para no alterar la pureza organoléptica de las infusiones. El agua pasa por filtros de carbón activado y sedimentos.
+
+El salón de atención y los baños se asean periódicamente a lo largo de la jornada para brindar un ambiente pulcro y transparente a todos los visitantes.
+
+13. ¿Cómo es el ambiente y la tranquilidad en el local de José Olaya?
+
+El local en el pasaje José Olaya 107-A ofrece una atmósfera sumamente apacible, hogareña y relajante, ambientada con plantas vivas, maderas recicladas y detalles rústicos que transmiten el sosiego del campo andino.
+
+Disponemos de mesas confortables de madera y sillas ergonómicas donde disfrutar de la lectura o mantener conversaciones pausadas sin el ruido de las grandes avenidas. La música ambiental es instrumental y serena.
+
+El personal atiende con afecto, paciencia y respeto, preocupándose por brindar una estancia reconfortante a cada visitante.
+
+14. ¿Qué tan lejos se ubica la histórica Plaza de Armas de Cajamarca?
+
+El establecimiento se encuentra a 1464 metros (1.46 km) de la Plaza de Armas de Cajamarca, lo que representa un trayecto vehicular de unos cinco a seis minutos en mototaxi o taxi. Une la plaza mayor con el pasaje José Olaya.
+
+Pobladores y turistas que pasean por el centro histórico pueden movilizarse con comodidad hacia nuestro espacio para disfrutar de café puro lejos de las aglomeraciones comerciales. El recorrido es directo y seguro.
+
+La conectividad con el transporte público facilita retornar con prontitud hacia los principales hoteles de la urbe.
+
+15. ¿Qué perfil de tueste y características sensoriales tienen los granos?
+
+El café recibe un tueste medio artesanal en tostadoras de lecho fluido que resalta su dulzor natural sin quemar la semilla, preservando los antioxidantes y compuestos aromáticos propios de los granos de altura.
+
+En taza, el café presenta una acidez cítrica suave y brillante, cuerpo medio sedoso y notas aromáticas que recuerdan a la flor de café, la miel de caña y las almendras tostadas. No deja regustos amargos ásperos en boca.
+
+Este cuidado garantiza una bebida ligera, digestiva y sumamente agradable que puede disfrutarse a cualquier hora del día.
+
+16. ¿Qué cualidades distinguen el servicio y la calidez del personal?
+
+Nuestro personal se caracteriza por una vocación pedagógica, amable y transparente, compartiendo con agrado detalles sobre el origen del café, los procesos de cultivo orgánico y la historia de las familias productoras.
+
+Nos esforzamos por atender a cada comensal con dedicación y presteza, procurando que su experiencia trascienda el mero consumo y se convierta en un vínculo con el campo andino. Tratamos a los visitantes como amigos de la casa.
+
+Agradecemos las valoraciones positivas de quienes respaldan el consumo consciente y el comercio justo en Cajamarca.
+
+17. ¿Qué facilidades existen para el estacionamiento temporal de vehículos?
+
+En el pasaje José Olaya y las calles laterales del sector es posible aparcar motocicletas y automóviles particulares en zonas autorizadas de la calzada de forma momentánea. El flujo de vehículos es muy bajo y tranquilo.
+
+Quienes se detienen brevemente para adquirir bolsas de café molido o granos pueden estacionar frente al establecimiento con total serenidad. La zona cuenta con buena visibilidad y seguridad vecinal.
+
+Se recomienda estacionar con prudencia respetando los accesos residenciales para una convivencia armónica con los vecinos del barrio.
+
+18. ¿Cómo protegen los paquetes de café y alimentos para el traslado?
+
+Envasamos el café en bolsas trilaminadas con cierre hermético tipo zipper y válvula desgasificadora unidireccional que protege los granos de la humedad, la luz y el oxígeno exterior. El producto mantiene su aroma por meses.
+
+Los sándwiches campesinos y postres para llevar se acondicionan en envoltorios de papel kraft ecológico biodegradable que preservan la frescura y temperatura sin generar residuos contaminantes. Entregamos servilletas de cortesía.
+
+Este cuidadoso empaque garantiza que el café llegue en óptimas condiciones hasta el hogar o la maleta de viaje de los turistas.
+
+19. ¿Cómo se originó la misión y filosofía de Café Orgánico Cajamarca?
+
+Café Orgánico Cajamarca nació con la convicción de promover la salud humana, la justicia social con los caficultores de la región y el cuidado del medio ambiente mediante el consumo de café ecológico de altísima calidad.
+
+La filosofía del negocio se basa en el comercio directo con los productores, asegurando precios dignos en el campo y ofreciendo al público urbano un producto honesto, fresco y cargado de vitalidad natural. La sostenibilidad es nuestra guía.
+
+Nuestra meta permanente sigue siendo educar el paladar cajamarquino en los valores del café limpio y el respeto por la tierra andina.
+
+20. ¿En qué franja horaria atienden al público en José Olaya?
+
+Atendemos al público de lunes a sábado desde las ocho de la mañana hasta las ocho de la noche de manera corrida, cubriendo desde las primeras tazas matutinas hasta las compras de café y lonches de la tarde.
+
+Los sábados abrimos en horario continuado para facilitar las compras de café en grano para el hogar y recibir a visitantes interesados en métodos de filtrado. Toda la variedad de cafés y productos campesinos se encuentra disponible.
+
+Para consultar sobre envíos de café a nivel local o nacional por WhatsApp, los usuarios pueden comunicarse directamente a nuestras líneas de contacto oficiales.

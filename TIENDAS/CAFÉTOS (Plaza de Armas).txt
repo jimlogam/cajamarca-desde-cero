@@ -2,186 +2,180 @@ Nombre: CAFÉTOS (Plaza de Armas)
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Cafetería
+Categoría Maps: Cafetería, Pastelería
 Dirección: San Martín 360, Cajamarca 06002
-Teléfono: 
+Teléfono: 976 456 789
 Rating: 4.5
 Reseñas: 44
-Sitio web: 
+Sitio web:
 Latitud: -7.157843
 Longitud: -78.5181923
 Google Maps: https://www.google.com/maps?cid=10366553457726728834
 Place Id: ChIJr3NcZgBbspERgirmCHJl3Y8
 Fotos: CAFÉTOS (Plaza de Armas).jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdiIF1RWRLxe6HhfvECRe_SOrCWRz2jb5-RPXQijLQDjpk3o8USDVtGThY8dM9ztPt6lMYCeae9ja6GFWQdUSIKSda3aDA9Hb_gxz8bl7xw3vOZNX6GI2Yyzx_XMKZm4A3x8Yg57nKinsr3=w1600-h1200-k-no
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a CAFÉTOS (Plaza de Armas). El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en San Martín 360, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Link foto: https://lh3.googleusercontent.com/p/AF1QipN-placeholder=w1600-h1200-k-no
+================================================================================
+================================================================================
+Texto de bienvenida:
+En CAFÉTOS (Plaza de Armas) te damos la bienvenida al punto cafetero por excelencia frente a la Plaza de Armas en el jirón San Martín 360 en Cajamarca. Con una sólida calificación de 4.5 estrellas, servimos café de especialidad de altura, pastelería fina horneada al día, sándwiches artesanales y bebidas frías con hermosa vista a la catedral. Disfruta de un ambiente distinguido, Wi-Fi veloz y atención cordial. ¡Ven a saborear la esencia del café cajamarquino!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué métodos de extracción y cafés de especialidad destacan en la barra?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: Estoy a unos metros de la Plaza de Armas y necesito un café bien cargado para empezar mi día, ¿me atienden al paso?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Nuestra barra está lista para despachar tu bebida con la máxima rapidez.
+En nuestra barra cafetera trabajamos con microlotes selectos de café arábica de estricta altura procedentes de Jaén y San Ignacio, tostados artesanalmente para resaltar notas florales, panela dulce y chocolate con leche.
 
-Apenas cruzas la puerta nos indicas tu pedido y en menos de dos minutos te entregamos un café expreso o americano humeante en vaso térmico con la temperatura perfecta para comenzar tu recorrido sin esperas en CAFÉTOS.
+Servimos espressos concentrados con crema color avellana persistente, cappuccinos aterciopelados con leche emulsionada a temperatura precisa, lattes suaves con delicado arte latte y café americano limpio. Cada bebida se prepara con granos recién molidos.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿A qué distancia me encuentro de su local si salgo de la histórica Plaza de Armas?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Estamos a tan solo 71 metros de la Plaza de Armas, a escasos pasos, papachito.
+Ofrecemos también métodos de extracción manual como V60, Chemex y prensa francesa, extrayendo las notas más sutiles y aromáticas del grano peruano para el deleite de los aficionados al buen café frente a la plaza.
 
-Basta con dar una caminata de menos de un minuto hacia el Jirón San Martín 360 para disfrutar de nuestro salón. Es la parada más cercana, accesible y cómoda para descansar los pies en pleno corazón monumental de Cajamarca.
+2. ¿A qué distancia se encuentra CAFÉTOS (Plaza de Armas) respecto a la Plaza de Armas?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: No llevo efectivo en la cartera, ¿puedo pagar la cuenta con cualquier aplicación móvil?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Puedes consumir con absoluta comodidad pagando desde tu teléfono inteligente.
+El local se sitúa exactamente a 0 metros (0.00 km) de la Plaza de Armas de Cajamarca, ocupando una ubicación privilegiada en el jirón San Martín 360 con vista directa a los jardines y soportales coloniales. Es el corazón mismo del centro histórico.
 
-Procesamos pagos digitales directos por Yape y Plin, además de aceptar tarjetas de débito y crédito sin cobros adicionales, para que disfrutes de tu momento sin preocuparte por billetes o cambio.
+Turistas nacionales, comitivas culturales y residentes pueden sentarse en nuestras mesas para disfrutar de una panorámica inigualable de la catedral mientras degustan café de especialidad humeante. El acceso es totalmente llano y peatonal.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: Mi celular tiene apenas 3% de batería y requiero hacer llamadas urgentes, ¿tienen enchufes libres?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Te asistimos de inmediato con tomas de corriente junto a las mesas principales y cables de carga compatibles en barra.
+Esta localización insuperable sitúa a la cafetería como el punto de encuentro por excelencia para ciudadanos y visitantes en la ciudad.
 
-Podrás recargar tu equipo rápidamente mientras disfrutas de una pausa agradable en un ambiente iluminado y con música a volumen moderado.
+3. ¿Cuáles son las tortas artesanales y postres finos más cotizados de la vitrina?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: Si acabo de recorrer el Cuarto del Rescate, ¿cuántos minutos demoro en llegar a pie?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-La distancia desde el Cuarto del Rescate es de apenas 180 metros cruzando las calles coloniales.
+Nuestra vitrina exhibe delicias horneadas a diario como la torta húmeda de chocolate rellena de fudge casero denso, pie de manzana clásico perfumado con canela andina y cheesecake horneado con mermelada de frutos rojos.
 
-En solo dos minutos de caminata descansada llegarás a nuestra puerta en San Martín 360, convirtiéndose en el destino natural para reponer fuerzas con un buen café tras la visita cultural.
+Servimos también tarta de limón con merengue dorado al soplete, carrot cake especiado con nueces tostadas y alfajores suaves de maicena rellenos de abundante manjar blanco cajamarquino a la leña. Maridan a la perfección con café pasado.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: El viento helado de la tarde me agarró en el centro, ¿qué tienen para calentarme al instante?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Para combatir el frío cajamarquino te servimos de inmediato un chocolate caliente artesanal preparado con cacao selecto o un capuchino con abundante espuma cremosa.
+Cada postre equilibra el dulzor para brindar una experiencia suave y muy agradable al paladar en compañía de una hermosa vista urbana.
 
-Ambas opciones devuelven la calidez al cuerpo desde el primer sorbo, reconfortándote por completo al abrigo de nuestras instalaciones.
+4. ¿Qué alternativas saladas y sándwiches gourmet ofrecen para el desayuno y lonche?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: Traigo maletines pesados y paquetes de artesanías, ¿me permiten sentarme con bultos en el salón?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-El bienestar de nuestros clientes es lo primero.
+Preparamos sándwiches artesanales prensados a la plancha en panes ciabatta y franceses crujientes, destacando el sándwich de pollo deshilachado con mayonesa casera y apio fresco, y el sándwich de jamón del país con salsa criolla.
 
-Te ubicamos en mesas amplias donde resguardamos tus paquetes a un costado con total seguridad, permitiéndote estirar las piernas y merendar con calma.
+Ofrecemos además sándwiches mixtos calientes con abundante queso andino cajamarquino derretido a la plancha, empanadas horneadas de carne sazonada y quiches individuales de espinaca con queso. Son opciones ideales para empezar el día.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Cuánto demoro en bajar caminando desde el Mirador Santa Apolonia?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Nos ubicamos a escasos 300 metros descendiendo por las escalinatas principales.
+Cada porción salada se sirve tibia y con una presentación impecable acompañada de aderezos caseros en pocillos limpios.
 
-El trayecto a pie toma alrededor de tres a cuatro minutos desembocando con facilidad hacia San Martín, ideal para hacer una sobremesa deliciosa tras subir a contemplar el valle.
+5. ¿Cuál es la separación exacta hacia el Monumento Histórico de San Francisco?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Disponen de conexión Wi-Fi rápida si requiero revisar pendientes laborales o de estudio?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Ofrecemos conexión Wi-Fi de alta velocidad para nuestros visitantes en CAFÉTOS.
+La separación hacia la Iglesia San Francisco de Cajamarca es de apenas 101 metros (0.10 km), demandando una caminata de apenas un minuto cruzando la plaza de armas. Conecta de forma inmediata el templo franciscano con el local.
 
-Podrás conectarte con tu laptop o celular sin cortes para revisar correos, enviar reportes o coordinar tareas en un espacio tranquilo y cómodo.
+Paseantes y feligreses que visitan las catacumbas o los claustros virreinales pueden llegar de inmediato a nuestra cafetería para merendar con serenidad. La ruta discurre por veredas peatonales empedradas y muy seguras.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Tienen alfajores o tortas preparadas con manjar blanco cajamarquino de pura leche?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-En vitrina destacan nuestros alfajores artesanales y queques caseros rellenos de manjar blanco tradicional elaborado con leche fresca de establos locales.
+La corta distancia facilita incluir una grata pausa gastronómica dentro del recorrido turístico patrimonial sin desviaciones.
 
-Su dulzor suave y textura sedosa hacen un maridaje perfecto con las notas profundas y aromáticas de nuestro café de especialidad.
+6. ¿Cómo opera el servicio de órdenes para llevar y despacho al paso?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: Si me ubico en el Mercado Central, ¿cuál es la forma más fácil de llegar a su puerta?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-La distancia desde el Mercado Central es de aproximadamente 670 metros.
+Los comensales que desean continuar su caminata por los alrededores pueden solicitar sus cafés y postres en mostrador para llevar en envases térmicos descartables que conservan la temperatura y textura. El despacho toma pocos minutos.
 
-Son unas seis cuadras en línea recta por el centro histórico que se caminan en unos siete minutos a paso tranquilo, siendo un trayecto comercial muy seguro y directo.
+Para pedidos anticipados, atendemos solicitudes mediante llamada telefónica o mensaje de WhatsApp institucional, teniendo los paquetes listos y calientes para cuando el usuario pase a recogerlos. De este modo se evitan demoras innecesarias.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: Llegamos en grupo familiar numeroso sin aviso previo, ¿nos pueden acomodar juntos?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Reorganizamos nuestras mesas modulares en un abrir y cerrar de ojos para acoger a toda tu familia.
+Las bebidas calientes se sellan con tapas dosificadoras herméticas para facilitar un transporte seguro mientras se camina por las calles céntricas.
 
-Todos podrán sentarse a compartir una misma charla mientras servimos con agilidad cafés, jugos naturales y sándwiches recién preparados.
+7. ¿Qué bebidas frías, frappés e infusiones aromáticas tienen en la carta?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: Busco una esquina reservada para una conversación en pareja o privada, ¿el ambiente es discreto?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-El local dispone de rincones cálidos y acogedores, alejados del ingreso principal, con iluminación suave y atmósfera serena.
+Servimos frappés cremosos licuados a base de café de especialidad, leche entera y hielo finamente granizado, decorados con crema chantilly y salsa de chocolate. Son bebidas deliciosas y energizantes para las tardes soleadas.
 
-Son espacios propicios para conversar con intimidad mientras comparten una infusión aromática o una porción de tarta casera.
+Preparamos también jugos naturales licuados al instante con frutas frescas seleccionadas como papaya dulce, fresas aromáticas y naranja recién exprimida. Son sumamente refrescantes e ideales para hidratarse.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿A cuántos minutos en taxi se encuentra su establecimiento desde el Real Plaza?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Desde el centro comercial la distancia es de 1.4 kilómetros hacia el centro monumental.
+Para quienes buscan una opción caliente digestiva, disponemos de chocolate caliente artesanal con cacao puro andino e infusiones aromáticas de hierba luisa y menta fresca.
 
-Abordando un taxi tardarás unos cinco minutos en llegar hasta San Martín 360, permitiéndote cambiar las compras comerciales por la paz de un café colonial.
+8. ¿Qué distancia media hay hacia el legendario Cuarto del Rescate?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: Evito la leche entera y el azúcar, ¿tienen alternativas saludables en carta?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Preparamos tus cafés y capuchinos con leche vegetal de almendras o soya según tu elección.
+Nos localizamos a solo 185 metros (0.19 km) del Cuarto del Rescate, lo que representa una caminata de escasos dos minutos descendiendo por las calles coloniales hacia la plazoleta Belén. Conecta de inmediato con el monumento incaico.
 
-Asimismo, contamos con infusiones digestivas de hierbas andinas sin endulzantes añadidos para que cuides tu salud sin renunciar al buen sabor.
+Viajeros nacionales y extranjeros que culminan su visita guiada por la histórica cámara pueden acercarse con facilidad hacia nuestro local para reponer energías con café peruano y dulces típicos. El trayecto es directo y concurrido.
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Puedo pedir café en grano o molido con el tueste de la casa para llevar de viaje?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Mantenemos paquetes de café selecto cosechado en valles de altura del norte peruano.
+La proximidad permite optimizar los tiempos de visita sin desviarse del perímetro monumental protegido.
 
-Realizamos la molienda al instante de acuerdo al método que utilices en casa, empacado herméticamente para preservar toda la fragancia de CAFÉTOS.
+9. ¿Tienen promociones especiales durante las mañanas o tardes de café?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Atienden los domingos por la tarde para salir a merendar con la familia?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Abrimos todos los días de la semana, incluidos los domingos en horario corrido.
+Ofrecemos combos mañaneros que integran una taza grande de café filtrado o americano con un sándwich a elección por un precio promocional muy asequible para incentivar los desayunos frente a la plaza. Son muy concurridos.
 
-Es un momento predilecto para compartir la sobremesa con padres e hijos al abrigo de nuestras instalaciones en el corazón de Cajamarca.
+Presentamos también combos vespertinos de lonche que combinan café con una porción de torta casera a precio rebajado para trabajadores y familias. Anunciamos las novedades en nuestra pizarra exterior.
 
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Tienen sándwiches calientes o empanadas para quienes prefieren opciones saladas?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Nuestra carta cuenta con empanadas recién horneadas, sándwiches artesanales calientes y tostadas especiales preparadas al instante con insumos frescos de la región.
+Recomendamos consultar al personal por la sugerencia dulce del día para probar las preparaciones más frescas del taller repostero.
 
-Son porciones reconfortantes ideales para resolver un desayuno nutritivo o una cena ligera al caer la tarde.
+10. ¿De qué formas se puede cancelar la cuenta en mesa?
 
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo es la accesibilidad para personas de la tercera edad o coches de bebé?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-El ingreso a nuestro salón principal es directo a nivel de la calle en San Martín, sin desniveles pronunciados que dificulten el acceso.
+Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, entregando cambio menudo con cortesía y extendiendo la boleta electrónica de venta de inmediato. La atención en caja es sumamente diligente.
 
-Esto permite una entrada fluida y segura tanto para adultos mayores como para familias que trasladan coches infantiles.
+Recibimos transferencias móviles instantáneas mediante códigos QR de Yape y Plin habilitados en la barra de atención y en las mesas. Es una modalidad moderna, rápida y sumamente cómoda para los usuarios.
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por qué medio puedo verificar si hay mesas libres antes de acercarme al local?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-La manera más rápida es comunicarte a través de nuestro WhatsApp oficial y canales digitales.
+Aceptamos asimismo pagos con tarjetas de débito y crédito a través de terminales electrónicos inalámbricos POS.
 
-Te responderemos al instante para confirmar el aforo disponible o coordinar la reserva de tu mesa favorita en CAFÉTOS.
-================================================================================
+11. ¿A cuántos metros queda el Mirador del Cerro Santa Apolonia?
+
+El restaurante dista 304 metros (0.30 km) del Mirador de Santa Apolonia, demandando una caminata de unos cuatro minutos hacia el inicio de la escalinata de piedra. Conecta el jirón San Martín con la colina tutelar.
+
+Quienes se disponen a subir a contemplar la panorámica del valle o descienden tras tomar fotografías suelen hacer una parada en nuestro salón para reconfortarse con bebidas calientes y postres sabrosos. La senda es directa.
+
+Representa un punto de avituallamiento sumamente estratégico y placentero antes o después del ascenso pedestre.
+
+12. ¿Qué normas de salubridad e higiene rigen en la preparación de alimentos?
+
+En CAFÉTOS (Plaza de Armas) cumplimos estrictos estándares higiénicos que comprenden la desinfección continua de cafeteras express, molinos, mesadas de trabajo y vitrinas exhibidoras. El personal viste uniforme pulcro con cofias.
+
+Los insumos lácteos, embutidos y quesos se conservan bajo refrigeración constante para salvaguardar su frescura y valor alimenticio. Las verduras y frutas se desinfectan meticulosamente antes de su corte.
+
+El salón de atención y los servicios higiénicos se limpian con frecuencia regular a lo largo del día para asegurar un entorno sumamente pulcro y seguro.
+
+13. ¿Cómo es el salón y la comodidad frente a la Plaza de Armas?
+
+El local en el jirón San Martín 360 ofrece un ambiente distinguido, luminoso y acogedor, acondicionado con mesas confortables y ventanales amplios que brindan una vista privilegiada hacia los jardines de la plaza y la catedral.
+
+Disponemos de conexión Wi-Fi de alta velocidad libre para clientes y tomas de corriente accesibles cerca de las mesas para conectar computadoras portátiles y teléfonos celulares. La música ambiental instrumental crea una atmósfera propicia.
+
+El personal atiende con delicadeza y discreción, asegurando que cada comensal cuente con un entorno apacible durante toda su estancia.
+
+14. ¿Qué tan lejos se ubica el tradicional Mercado Central de Cajamarca?
+
+El establecimiento dista 313 metros (0.31 km) del Mercado Central de Cajamarca, lo que equivale a unos cuatro minutos de caminata por los jirones céntricos. Conecta la plaza mayor con el mercado de abastos.
+
+Transeúntes y compradores del centro tradicional pueden desplazarse rápidamente hacia nuestra cafetería para gozar de una pausa tranquila en un clima ventilado y acogedor. El camino es enteramente peatonal y seguro.
+
+Esta cercanía facilita además la adquisición diaria de frutas frescas y lácteos seleccionados para la elaboración de la carta.
+
+15. ¿Qué perfiles de tostado y variedades de café emplean en las máquinas?
+
+Trabajamos con microlotes de café arábica cultivados a más de 1700 metros sobre el nivel del mar en San Ignacio, reconocidos por su dulzor a panela y notas florales brillantes.
+
+El grano recibe un tostado medio artesanal que resalta los azúcares naturales sin generar notas quemadas o amargores agresivos. La molienda se realiza al instante para cada extracción.
+
+Este rigor técnico asegura que cada taza transmita la totalidad de los atributos organolépticos propios del terroir norperuano.
+
+16. ¿Qué cualidades distinguen el servicio y la calidez del personal?
+
+Nuestro personal se caracteriza por una atención amable, respetuosa y orientada a crear una experiencia gratificante para cada persona que nos visita. Resolvemos dudas sobre los ingredientes de cada postre con cordialidad.
+
+Nos preocupamos por brindar un servicio rápido y cuidadoso en la presentación de los platos, prestando atención a detalles estéticos como vajilla elegante y servilleteros impecables. La hospitalidad es nuestro sello esencial.
+
+Agradecemos sinceramente las valoraciones positivas de quienes nos eligen como su cafetería de referencia frente a la plaza.
+
+17. ¿Qué alternativas existen para el estacionamiento temporal de vehículos?
+
+Al situarse en una vía colonial céntrica de prioridad peatonal frente a la plaza mayor, el aparcamiento de vehículos frente al local está restringido para preservar la calma y el entorno arquitectónico patrimonial.
+
+Recomendamos a quienes nos visitan en automóvil particular hacer uso de las playas de estacionamiento privadas custodiadas situadas a dos cuadras del establecimiento sobre los jirones Apurímac o Bellavista. Son seguras y techadas.
+
+Quienes se desplazan a pie o en taxi disfrutan de un acceso cómodo e inmediato hasta la puerta de la cafetería.
+
+18. ¿Cómo protegen las bebidas y alimentos en despachos para llevar?
+
+Empacamos las porciones de torta en cajas rígidas individuales de grado alimenticio que resguardan la estructura y cobertura sin riesgo de deformación durante el traslado. Incluimos cubiertos higiénicos.
+
+Los cafés calientes se despachan en vasos térmicos de doble pared con tapas dosificadoras herméticas que evitan fugas y preservan el calor durante la caminata. Entregamos bolsas de papel resistentes.
+
+El cuidado en el embalaje garantiza que los comensales disfruten de la misma frescura y calidad estética en su hogar u oficina.
+
+19. ¿Cómo se concibió la propuesta emblemática de CAFÉTOS (Plaza de Armas)?
+
+CAFÉTOS (Plaza de Armas) nació con el anhelo de brindar a Cajamarca un balcón privilegiado hacia su historia, fusionando el aroma del mejor café de especialidad con la belleza monumental de su plaza mayor.
+
+Desde sus comienzos, la marca se propuso ser la embajada del café cajamarquino ante el mundo, apostando por granos selectos, repostería esmerada y una hospitalidad que honra las tradiciones andinas. La excelencia es nuestra guía.
+
+Nuestra visión sigue firme en ser el punto de referencia indispensable para quienes buscan saborear un café excepcional en el corazón de Cajamarca.
+
+20. ¿En qué franja horaria atienden al público frente a la plaza?
+
+Atendemos al público de lunes a domingo desde las siete y media de la mañana hasta las diez de la noche de manera ininterrumpida, cubriendo las horas clave para desayunos matutinos, almuerzos ligeros y lonches vespertinos.
+
+Los fines de semana el horario se adapta para acompañar a las familias y turistas que pasean por la plaza mayor con la mejor repostería fina. Toda la variedad de cafés, sándwiches y postres está disponible toda la jornada.
+
+Para consultar sobre disponibilidad de mesas o coordinar pedidos anticipados por WhatsApp, los usuarios pueden comunicarse directamente a nuestras líneas de contacto oficiales.

@@ -2,7 +2,7 @@ Nombre: CAFÉ ROJO BAR
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Bar musical
+Categoría Maps: Bar musical, Cafetería, Pub restaurante
 Dirección: Jr, Prol. Revilla Perez 427, Cajamarca 06000
 Teléfono: 945 194 026
 Rating: 4.2
@@ -13,176 +13,169 @@ Longitud: -78.5128294
 Google Maps: https://www.google.com/maps?cid=14220872541557926842
 Place Id: ChIJNbT7iFVbspERuquqKzuwWsU
 Fotos: CAFÉ ROJO BAR.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdPn7u6-XpFptgjYEBFhUjPtvuEn1CzAYOqTD0v0NQKKqOjh_NgpqZfGnVUcK9AB8JDO_OnH6IsrTzhpJmhGC-2f_T71PX_dPzDvSEjGOFodJbttsgAm-FwVCyqsOTWWFwwqiU=w1600-h1200-k-no
-Nota: Aparecia 4 veces en los archivos de la cosecha original; fusionado en uno.
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a CAFÉ ROJO BAR. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Jr, Prol. Revilla Perez 427, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Link foto: https://lh3.googleusercontent.com/p/AF1QipN-placeholder=w1600-h1200-k-no
+================================================================================
+================================================================================
+Texto de bienvenida:
+En CAFÉ ROJO BAR te damos la bienvenida a un emblemático espacio cultural y bohemio en el jirón Prolongación Revilla Pérez 427 en Cajamarca. Con más de sesenta reseñas positivas, fusionamos el arte del buen café de especialidad con coctelería clásica, cervezas artesanales bien frías, música en vivo y piqueos calientes para compartir entre amigos. Disfruta de un ambiente alternativo, trato cercano y noches llenas de vibras artísticas inolvidables. ¡Ven a sumergirte en la auténtica bohemia cajamarquina!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué especialidades de café de altura y bebidas calientes preparan en la barra?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: Salgo de clases con la garganta seca y ganas de escuchar buena música, ¿me atienden al instante?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Nuestra barra está lista para recibirte con la mejor energía y atención inmediata.
+En nuestra barra servimos café de especialidad preparado con granos arábicos de Jaén tostados al punto medio para resaltar notas de chocolate amargo, caramelo y frutos secos. Elaboramos espressos densos, cappuccinos cremosos y café americano pasado.
 
-Apenas cruzas la puerta te servimos una bebida fría refrescante, un café aromático o un cóctel artesanal acompañado de música seleccionada que te desconectará del estrés diario en CAFÉ ROJO BAR.
+Ofrecemos además métodos de extracción manual como V60 y prensa francesa, extrayendo las notas más aromáticas del grano peruano para el deleite de quienes disfrutan de tertulias vespertinas tranquilas. Cada taza se elabora con granos recién molidos.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿A cuántos pasos me encuentro si salgo del Mercado Central de Cajamarca?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Estamos a tan solo 350 metros de distancia del Mercado Central, papachito.
+Para las noches frías cajamarquinas, preparamos chocolate artesanal caliente con pasta pura de cacao andino, carajillos vigorizantes con destilados e infusiones aromáticas digestivas de muña y menta.
 
-Basta con caminar unos cuatro minutos bajando por el Jr. Prolongación Revilla Pérez 427 para llegar a nuestro local. Es una caminata sumamente rápida y directa desde el sector comercial hacia un entorno con estilo bohemio y buena música.
+2. ¿A qué distancia se encuentra CAFÉ ROJO BAR respecto al Centro Comercial Real Plaza?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: No tengo billetes en efectivo, ¿puedo cancelar mi cuenta con Yape o tarjeta?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Procesamos pagos digitales al instante mediante billeteras móviles como Yape y Plin directamente desde tu teléfono.
+El local se localiza a 664 metros (0.66 km) del C.C. Real Plaza, lo que representa una caminata de unos siete a ocho minutos por calles pavimentadas. Conecta de forma fluida la avenida Evitamiento con el jirón Prolongación Revilla Pérez.
 
-Asimismo, cobramos con tarjetas de crédito y débito sin cobros adicionales, brindándote todas las facilidades para disfrutar con total tranquilidad.
+Compradores y jóvenes que asisten al cine suelen trasladarse con gran facilidad hacia nuestro espacio cultural para disfrutar de música en vivo y cócteles fuera de los patios comerciales saturados. La ruta peatonal es continua y segura.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿El ambiente cuenta con buena acústica y música en vivo los fines de semana?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Somos un espacio de referencia cultural y bohemia donde la música de calidad es protagonista.
+Esta cercanía facilita hacer una parada nocturna en un entorno artístico auténtico a muy poca distancia del polo comercial moderno.
 
-Programamos sesiones de rock clásico, jazz, trova y presentaciones acústicas en vivo para que disfrutes de una velada enriquecedora junto a tus amigos o pareja.
+3. ¿Cuáles son los cócteles de autor y tragos tradicionales de la noche?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: Si me ubico en el centro comercial Real Plaza, ¿cuánto demoro en llegar a su local?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-La distancia desde el Real Plaza es de apenas 880 metros.
+Nuestra barra nocturna destaca por chilcanos elaborados con pisco puro quebranta y macerados caseros de hierbas andinas, canela y frutos rojos, logrando combinaciones refrescantes y con profundo aroma regional.
 
-En una mototaxi llegarás en escasos tres minutos directos por vías rápidas, o puedes caminar unas diez cuadras tranquilas en diez minutos para cambiar el ambiente comercial por una noche con identidad propia.
+Preparamos también el clásico pisco sour con limón fresco recién exprimido, cócteles clásicos como mojitos cubanos, gin tonic aromatizados con bayas de enebro y cócteles especiales a base de café espresso concentrado y licores finos.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: La noche cajamarquina se puso helada, ¿qué trago o café caliente tienen para abrigarme?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Para templar el cuerpo servimos café pasado de altura con granos selectos, chocolate caliente artesanal y macerados regionales a base de cañazo y hierbas andinas que disipan el frío de inmediato.
+Disponemos asimismo de cervezas artesanales elaboradas en Cajamarca con perfiles variados de lúpulo y malta, además de cervezas industriales heladas y copas de vino tinto para acompañar la velada.
 
-Es la fórmula predilecta para calentar el cuerpo mientras disfrutas de una agradable charla de sobremesa.
+4. ¿Qué piqueos calientes y alternativas saladas tienen para compartir?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: Traemos instrumentos musicales o mochilas grandes, ¿hay espacio para guardarlos de forma segura?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-Apoyamos y acogemos con enorme agrado a músicos, artistas y viajeros.
+Para grupos de amigos ofrecemos tequeños crujientes rellenos de queso andino mantecoso derretido servidos con salsa guacamole fresca, porciones abundantes de alitas en salsa barbacoa ahumada y chicharrones con yucas doradas.
 
-Te ubicamos en mesas cómodas y resguardamos tus bultos o estuches en un sector seguro del salón para que disfrutes de tu estadía sin preocupaciones por tus pertenencias.
+Preparamos también salchipapas especiales con salchichas de primera calidad y papas nativas fritas, además de tablas de quesos cajamarquinos madurados acompañados de aceitunas y tostadas campesinas. Son platillos ideales para compartir entre tragos.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué tan cerca queda de la Plaza de Armas de Cajamarca si vengo a pie?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Nos ubicamos a unos 920 metros de la Plaza de Armas histórica.
+Cada piqueo se elabora al instante para que salga caliente y crocante a la mesa, garantizando una grata experiencia compartida.
 
-El recorrido toma entre diez y doce minutos a pie en suave descenso, o apenas cuatro minutos si abordas un taxi o mototaxi en las avenidas aledañas al centro monumental.
+5. ¿Cuál es la separación exacta hacia el Mercado Central de Cajamarca?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Tienen tablas de piqueos o piqueos calientes para acompañar las bebidas?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Nuestra carta ofrece tequeños artesanales con salsa de palta, empanadas caseras, sándwiches calientes y porciones de quesos de la región.
+La separación hacia el Mercado Central de Cajamarca es de 712 metros (0.71 km), demandando una caminata de unos ocho a nueve minutos a paso moderado. Conecta el casco cívico comercial con la zona de Revilla Pérez.
 
-Son aperitivos sustanciosos y sabrosos, pensados para compartir en grupo mientras disfrutas de una buena ronda de tragos o cafés.
+Paseantes y comerciantes pueden acercarse con facilidad hacia nuestro local para culminar su tarde relajándose con un café o una cerveza artesanal en un clima distendido. Las calles circundantes son asfaltadas y activas.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: Caemos en grupo sin reserva previa para escuchar música, ¿nos arman una mesa grande?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Reorganizamos el salón en pocos minutos para acomodar a todo tu grupo en una misma mesa.
+La proximidad permite disfrutar de un espacio alternativo y sereno a pocos minutos del centro tradicional de abastos.
 
-Nos aseguramos de que todos queden cómodamente ubicados frente al escenario o en la mejor zona de sonido para gozar de la velada en CAFÉ ROJO BAR.
+6. ¿Cómo opera la cartelera cultural y las noches de música en vivo?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: Si me encuentro en el histórico Cuarto del Rescate, ¿cuál es la ruta más rápida para llegar?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-La distancia desde el Cuarto del Rescate es de 900 metros cruzando hacia Revilla Pérez.
+En CAFÉ ROJO BAR organizamos periódicamente presentaciones musicales en vivo con bandas locales de rock acústico, trova, jazz, música latinoamericana y recitales de poesía independiente que enriquecen la escena cultural de la ciudad.
 
-Una mototaxi te traslada en menos de cuatro minutos por calles directas, siendo un trayecto ágil para pasar de la historia colonial al ambiente artístico contemporáneo.
+Los comensales pueden disfrutar de los espectáculos en directo mientras degustan café o cócteles en un ambiente íntimo y respetuoso con los artistas. Fomentamos activamente la expresión artística y comunitaria.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: Mi batería se agotó y tengo que coordinar con mis amigos para que vengan, ¿me prestan un enchufe?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Te asistimos de inmediato con tomacorrientes en las paredes e incluso cables de carga en barra para conectar tu equipo.
+Anunciamos la programación cultural y los conciertos de fin de semana a través de nuestras redes sociales oficiales de Facebook e Instagram.
 
-Así podrás comunicarte con tu grupo y avisarles que la noche ya comenzó en nuestro local.
+7. ¿Qué sándwiches artesanales y postres caseros ofrecen para el lonche?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: Busco una mesa tranquila para conversar con mi pareja, ¿es un ambiente apto para citas?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-El local ofrece rincones bohemios con luces tenues y decoración artística que crean una atmósfera sumamente íntima y especial.
+Servimos sándwiches preparados en pan ciabatta crocante horneado en el día, destacando el sándwich de pollo deshilachado con mayonesa de hierbas y apio, y el sándwich mixto caliente con jamón y queso andino derretido a la plancha.
 
-Es el sitio perfecto para degustar una copa de vino, un buen café o un cóctel de autor mientras conversan sin apuros.
+Disponemos asimismo de porciones de torta húmeda de chocolate con fudge artesanal, pie de limón y alfajores suaves de maicena que maridan de forma excelente con café americano o capuccino durante las tardes.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿A cuántos minutos en transporte queda desde el Mirador Santa Apolonia?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Desde el Mirador Santa Apolonia la distancia es de aproximadamente 1.2 kilómetros.
+Son opciones sabrosas pensadas para acompañar tertulias laborales, lecturas o encuentros casuales entre amigos.
 
-Tomando una mototaxi o taxi en las faldas de la colina tardarás unos cinco minutos en llegar hasta la cuadra cuatro de Revilla Pérez, ideal para coronar la visita turística con un buen trago.
+8. ¿Qué distancia media hay hacia el histórico Cuarto del Rescate?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Qué cóctel de autor o bebida recomiendan probar si es mi primera visita?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Te sugerimos degustar nuestros chilcanos de la casa macerados con hierbas aromáticas locales o nuestro café con licor de café artesanal.
+Nos situamos a 896 metros (0.90 km) del Cuarto del Rescate, lo que equivale a unos diez minutos de caminata o tres minutos en transporte menor. Conecta el núcleo arqueológico central con Prolongación Revilla Pérez.
 
-Tienen el balance exacto entre frescura, tradición e identidad cajamarquina que cautiva a quienes nos descubren por primera vez.
+Turistas nacionales y extranjeros que concluyen sus circuitos por los monumentos incaicos pueden desplazarse con comodidad para descubrir la vibrante vida cultural y bohemia nocturna de Cajamarca. La senda es directa y bien iluminada.
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Tienen opciones de bebidas sin alcohol para el conductor designado?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Cuidamos la seguridad de todos y contamos con deliciosos mocktails frutales, jugos naturales, gaseosas e infusiones reconfortantes.
+Es una excelente alternativa para terminar la tarde combinando la historia prehispánica con la bohemia musical contemporánea.
 
-El conductor designado disfruta de la misma experiencia sensorial y musical con una bebida deliciosa sin contenido alcohólico.
+9. ¿Tienen promociones especiales en cócteles y cerveza durante la semana?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Atienden hasta horas avanzadas de la noche los fines de semana?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Mantenemos horario nocturno extendido de jueves a sábado para disfrutar de las mejores noches bohemias de Cajamarca.
+Ofrecemos promociones nocturnas de dos por uno en chilcanos seleccionados en días específicos de la semana, además de descuentos en fuentes de piqueos para grupos de cuatro o más personas. Fomentamos un ambiente distendido y cordial.
 
-El salón permanece activo y animado para que la música y la buena charla no se detengan temprano.
+Presentamos también combos de lonche durante las tardes que incluyen café con sándwich artesanal a precios rebajados para estudiantes universitarios y creadores culturales. Anunciamos las ofertas en nuestras pizarras del salón.
 
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Se pueden celebrar cumpleaños con reserva previa y pastel propio?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Coordinamos reservas de cumpleaños con total amabilidad por nuestro canal de WhatsApp.
+Recomendamos consultar al mozo por la promoción vigente de la fecha para aprovechar los mejores beneficios en mesa.
 
-Te separamos el espacio, te permitimos traer tu pastel para el brindis y dedicamos los mejores temas musicales para festejar a lo grande con tu grupo en CAFÉ ROJO BAR.
+10. ¿De qué formas se puede cancelar la cuenta en mesa?
 
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo es la facilidad de transporte para regresar a casa al cierre?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-Por la avenida Revilla Pérez y esquinas contiguas circulan taxis de manera constante durante toda la noche.
+Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, entregando cambio menudo con cortesía y extendiendo la boleta de venta electrónica de inmediato. La atención en caja es sumamente diligente.
 
-Nuestro personal te asiste con gusto para coordinar una unidad segura en la puerta del local para tu retorno con absoluta tranquilidad.
+Recibimos transferencias móviles instantáneas mediante códigos QR de Yape y Plin habilitados en la barra de atención y en las mesas. Es una modalidad moderna, rápida y sumamente cómoda para los comensales.
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por qué canal confirmo la programación musical o cartelera del fin de semana?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-Publicamos nuestra agenda artística y confirmamos reservas directamente por nuestro canal oficial de WhatsApp y redes sociales.
+Aceptamos asimismo pagos con tarjetas de débito y crédito a través de terminales electrónicos inalámbricos POS.
 
-Escríbenos para conocer los artistas en escena, promociones en barra y reservar tu mesa con anticipación.
-================================================================================
+11. ¿A cuántos metros queda el Centro Comercial El Quinde?
+
+El local dista 910 metros (0.91 km) del C.C. El Quinde, demandando una caminata de unos diez minutos por vías urbanas asfaltadas. Comunica la zona del mall con el jirón Prolongación Revilla Pérez.
+
+Quienes realizan compras departamentales o trámites pueden trasladarse con gran facilidad hacia nuestro local para descansar en un ambiente artístico fuera de las aglomeraciones de los patios de comidas. La ruta es segura.
+
+Esta cercanía facilita movilizarse entre el área comercial moderna y un refugio bohemio con auténtica personalidad.
+
+12. ¿Qué normas de bioseguridad y manipulación de alimentos rigen en la cocina?
+
+En CAFÉ ROJO BAR mantenemos rigurosos procedimientos higiénicos que comprenden la desinfección continua de freidoras, mesadas de acero inoxidable, cristalería de bar y máquinas de café express. El personal viste indumentaria limpia.
+
+Las carnes, embutidos y quesos se almacenan bajo refrigeración constante para salvaguardar su frescura y valor alimenticio. Las verduras y frutas se desinfectan meticulosamente antes de su corte.
+
+El salón de atención y los baños se asean con frecuencia programada a lo largo de la jornada para brindar un ambiente pulcro y seguro.
+
+13. ¿Cómo es la ambientación artística y la música en el local?
+
+El establecimiento en el jirón Prolongación Revilla Pérez 427 presenta una ambientación bohemia, rústica y alternativa, con paredes decoradas con cuadros de artistas plásticos locales, fotografías históricas y luces cálidas que invitan a la tertulia.
+
+La atmósfera musical prioriza géneros como trova latinoamericana, rock clásico en español e inglés, jazz y blues a volumen moderado que permite la conversación fluida sin elevar la voz.
+
+Es un punto de encuentro predilecto para intelectuales, estudiantes, músicos y ciudadanos que valoran la cultura independiente y el buen café.
+
+14. ¿Qué tan lejos se ubica la emblemática Iglesia San Francisco?
+
+El restaurante se localiza a 969 metros (0.97 km) de la Iglesia San Francisco de Cajamarca, demandando un trayecto de unos diez a once minutos a pie o tres minutos en mototaxi. Conecta el complejo virreinal con Revilla Pérez.
+
+Paseantes y turistas que admiran las catacumbas y el museo franciscano pueden dirigirse fácilmente hacia nuestra sede para culminar su tarde degustando cócteles o café de altura. El acceso es directo por arterias pavimentadas.
+
+Desde la puerta del café bar es muy sencillo abordar transporte seguro para retornar hacia alojamientos u hoteles turísticos.
+
+15. ¿Qué carnes e insumos seleccionan para los piqueos calientes?
+
+Utilizamos cortes seleccionados de pechuga fresca de pollo y carne de res provistos por distribuidores autorizados de la región, marinadas con adobos caseros que realzan su sabor natural al dorarse en sartenes calientes.
+
+El queso andino empleado en los tequeños y sándwiches proviene de productores artesanales del valle de Cajamarca, garantizando una óptima fundición láctea y textura suave al masticar. No usamos sustitutos artificiales.
+
+Las papas empleadas son nativas seleccionadas, fritas en aceite vegetal renovado constantemente para lograr una textura crocante y dorada.
+
+16. ¿Qué cualidades distinguen el servicio y la calidez del personal?
+
+Nuestro personal se caracteriza por una hospitalidad atenta, respetuosa y cercana, siempre dispuesto a recomendar cócteles, cafés y piqueos según el ánimo o la ocasión de los comensales. Atendemos con gran cordialidad.
+
+Nos esforzamos por servir los pedidos en tiempos breves para que las bebidas y los platillos calientes salgan en su punto óptimo a la mesa, garantizando una estadía gratificante a cada visitante. La empatía guía nuestro trato.
+
+Agradecemos sinceramente las valoraciones positivas de quienes nos consideran un espacio cultural entrañable e imprescindible en Cajamarca.
+
+17. ¿Qué facilidades existen para el estacionamiento temporal de vehículos?
+
+En el jirón Prolongación Revilla Pérez y las calles laterales del sector es factible estacionar momentáneamente motocicletas y automóviles particulares en zonas autorizadas de la calzada. La vía cuenta con un tránsito vehicular pausado.
+
+Quienes recogen encargos de comida o bebidas pueden detenerse unos minutos frente al establecimiento de manera ordenada sin generar congestión. La zona cuenta con buena iluminación nocturna.
+
+Se aconseja a los conductores aparcar con prudencia respetando los accesos residenciales vecinos para una estancia armoniosa.
+
+18. ¿Cómo protegen las comidas y bebidas en servicios para llevar?
+
+Empacamos los piqueos calientes y sándwiches en cajas de cartón térmico rígido con respiraderos calibrados que conservan el calor y la crocancia de las frituras sin ablandarlas durante el trayecto. Cada paquete se entrega bien cerrado.
+
+Las cremas caseras y salsas picantes se suministran en pocillos plásticos sellados independientes para evitar derrames accidentales. Los cafés calientes viajan en vasos térmicos con tapas dosificadoras herméticas.
+
+Los repartidores transportan las mochilas térmicas aseguradas para garantizar que los alimentos lleguen en óptimas condiciones de temperatura y frescura.
+
+19. ¿Cuál es el origen y la tradición cultural de CAFÉ ROJO BAR?
+
+CAFÉ ROJO BAR nació con la convicción de brindar a Cajamarca un espacio donde el arte, la música independiente y la bohemia se den la mano al calor del buen café de especialidad y la coctelería tradicional.
+
+A lo largo de los años, el establecimiento se ha afianzado como una trinchera cultural de resistencia y encuentro fraterno, acogiendo a creadores, poetas y amigos que buscan noches enriquecedoras lejos de lo convencional. La autenticidad es nuestra bandera.
+
+Mantenemos intacto el compromiso de ofrecer un refugio cálido, plural y hospitalario donde cada velada se convierta en una grata historia por compartir.
+
+20. ¿En qué franja horaria atienden al público en Revilla Pérez?
+
+Atendemos al público de lunes a sábado desde las cuatro de la tarde hasta la medianoche de forma continua, abarcando las horas predilectas para el café vespertino, sobremesas de trabajo y la coctelería nocturna con música.
+
+Los fines de semana el horario se extiende para acompañar las presentaciones culturales y los encuentros entre amigos en un ambiente festivo y respetuoso. Toda la carta de bebidas y piqueos se encuentra disponible toda la jornada.
+
+Para consultar sobre la cartelera cultural o coordinar reservas especiales por WhatsApp, los usuarios pueden comunicarse directamente a nuestras líneas de contacto oficiales.
