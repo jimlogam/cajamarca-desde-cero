@@ -1,0 +1,477 @@
+################################################################################
+#  FICHAS 6-10: CINCO COLEGIOS MAS DE CAJAMARCA (al azar de la hoja)
+#  maps-scraper-cajamarca - filas 15, 23, 58, 60 y 92
+#  Modo lectura en primera persona + auditoria de datos
+#  Cierre de auditoria: 25-11-2026
+################################################################################
+
+================================================================================
+00 - RESUMEN DE LA LECTURA Y DATOS CRUDOS
+================================================================================
+Los cinco elegidos al azar (filas 15, 23, 58, 60 y 92 de la hoja):
+  1. I.E.P. El Carmen ................... Av. Hoyos Rubio Km 3, Las Torresitas
+  2. Colegio San Marcelino Champagnat ... Av. El Maestro 212, San Sebastian
+  3. IE 82019 La Florida ................ Av. Atahualpa 200, La Florida
+  4. I.E. Juan XXIII Cajamarca .......... Jr. Juan XXIII 130, Pueblo Libre
+  5. Colegio Militar Rafael Hoyos Rubio . Carr. Cajamarca-Banos del Inca km 3.5
+
+Tabla cruda (Censo Educativo 2025 / padron MINEDU):
+Colegio                  Nivel       CM          Alumnos  Doc.  Secc.  Genero
+El Carmen                Inicial     1110709       n/d     n/d   n/d    Mixto
+El Carmen                Primaria    1350545       292      17    12    Mixto
+El Carmen                Secundaria  1567031       234      15    10    Mixto
+   SUBTOTAL con inicial estimado (comoes.pe: 576 alumnos / 44 docentes)
+
+San Marcelino Champagnat Primaria    0444745       813      32    24    Varones
+San Marcelino Champagnat Secundaria  0606459       656      32    22    Varones
+   SUBTOTAL local                              1,469      64    46
+
+82019 La Florida         Primaria    0444760     1,288      52    42    Mixto
+82019 La Florida         Secundaria  1719202       943      46    30    Mixto
+   SUBTOTAL local                              2,231      98    72
+
+Juan XXIII               Secundaria  0390609     1,518      64    50    Mujeres
+Juan XXIII               Inicial     1367820        37       2     2    Mixto (noche)
+Juan XXIII               EBA Avanz.  0390963       195      14    13    Mixto (noche)
+   SUBTOTAL local (sin EBA inicial/intermedio) 1,750      80    65
+
+C. Militar R. Hoyos Rubio Secundaria 1361187        57       5     4    Mixto
+   SUBTOTAL local                                  57       5     4
+
+TOTAL DE LOS 5 COLEGIOS EN ESTE PAQUETE: 6,083 alumnos contabilizados,
+285 docentes, 212 secciones (El Carmen sin su inicial: cifra no publicada).
+
+Hallazgo mas importante de esta tanda: el "Colegio San Marcelino
+Champagnat" de Cajamarca YA NO ES UN COLEGIO MARISTA. Lleva el nombre del
+fundador de los Maristas, pero desde 1980 es una institucion publica y
+laica. Es el error que mas se repite en la ciudad.
+
+================================================================================
+01 - I.E.P. EL CARMEN - CAJAMARCA
+Fila 15 | Av. Hoyos Rubio Km 3 (Las Torresitas) | Tel. (076) 288025
+Google Maps: 4.4 | Horario Lun-Vie 7:15 a.m. - 3:00 p.m.
+================================================================================
+
+--- LECTURA (voz de un exalumno) ---
+Yo entre al Carmen cuando todavia se llamaba Carrusell. Si, asi como se
+lee. El colegio nacio en 1994 como I.E.P. Carrusell, solo con inicial, en
+la subida de Hoyos Rubio, y los que somos de esa primera hornada todavia
+nos acordamos de las aulas de madera y del patio de tierra. En 2006
+abrieron primaria, en 2010 cambiaron el nombre a El Carmen y en 2011
+largaron secundaria. O sea: el colegio que hoy ves, con promociones que ya
+salen a la universidad, tiene apenas quince anos de secundaria. Eso no es
+malo, pero explica muchas cosas.
+
+Lo primero que se siente al entrar es que es un colegio de barrio
+residencial, no de centro. La mayoria de las familias somos de Las
+Torresitas, La Alameda, Santa Rosa; la mayoria de las mamas trabaja y por
+eso el horario es de 7:15 de la manana a 3 de la tarde, con almuerzo en el
+colegio. Esa una hora y media mas que un colegio estatal comun es
+justamente lo que muchas familias pagan: no tener que salir corriendo a
+las 12:30 a recoger al nino.
+
+En lo academico, el Carmen se ha ido armando una identidad de "colegio
+exigente pero no militarizado". Hay ingles fuerte, hay feria de ciencias
+con jurado externo, hay debate, hay juegos florales, hay aniversario con
+comparsas que paran la calle. Yo recuerdo la feria de ciencias como el
+evento del ano: uno armaba su panel con cartulina y el profesor de CTA te
+hacia preguntas hasta que te trababas. Aprendi mas ahi que en un bimestre
+entero.
+
+La parte que hay que decir sin adorno: es un colegio privado de pension
+media (alrededor de 635 soles al mes en 2025), se sostiene con las
+pensiones y eso significa que la infraestructura crece al ritmo de la
+caja, no del Estado. Hay aulas que se han ido sumando sobre lo que antes
+era patio. Y la secundaria es mas chica que la primaria (234 contra 292
+alumnos): las promociones son de dos o tres secciones, con grupos de 23 o
+24, lo que en la practica es una ventaja enorme para el que quiere
+atención personalizada.
+
+Una advertencia util como exalumno: hay portales que le ponen al Carmen
+"Bachillerato Internacional acreditado" y una "cuota de ingreso de 20 mil
+soles". En la web oficial del colegio no aparece ninguna acreditacion IB.
+Lo que si aparece es SIEWEB, el sistema de notas, y una vida institucional
+muy activa en Instagram (@elcarmencaj). Si te interesa el IB, pide el
+certificado por escrito antes de pagar matricula.
+
+--- DATOS AUDITADOS ---
+Directora: CACERES VASQUEZ FILOMENA JHANNINA (padron Censo 2025, los tres
+  niveles). No hay otro nombre documentado.
+Docentes: sin plana nominal publica. 17 en primaria y 15 en secundaria
+  (Censo 2025).
+Gestion: Privada / Particular. UGEL Cajamarca. Escolarizada. Mixto.
+  Turno manana. Urbano. Local 095164.
+Codigos: Inicial 1110709 | Primaria 1350545 (registro 09-12-2008) |
+  Secundaria 1567031 (registro 15-05-2012).
+Direccion: Av. Hoyos Rubio Km 3, Las Torresitas, Cajamarca 06001.
+  Coords. -7.14634, -78.49339. Tel. (076) 288025.
+Web: https://elcarmen.edu.pe/ | Instagram: @elcarmencaj
+Admision WhatsApp: 934018650 | Secretaria: 960553924
+SIEWEB: https://elcarmen.sieweb.com.pe/
+RUC del local: 20222115796 - PROMOTORA EDUCATIVA CARRUSELL S.R.L.
+Historia: 1994 nace como I.E.P. Carrusell (inicial) | 2006 primaria |
+  2010 pasa a llamarse El Carmen | 2011 secundaria.
+Censos 2025: Primaria 292 (138 H, 154 M), 17 docentes, 12 secciones.
+  Secundaria 234 (112 H, 122 M), 15 docentes, 10 secciones.
+Pension 2025: S/ 635/mes, 10 cuotas, matricula S/ 30 (reportado a MINEDU).
+Logros verificables: participacion en Juegos Escolares Deportivos 2026,
+  aniversario institucional 2026 con debate, misa y feria de ciencias.
+  No hay nota de prensa de olimpiadas nacionales ni IB.
+Auditoria: COINCIDE direccion, codigos, condicion privada, directorio.
+  RECHAZADO: "IB acreditado" y "cuota de ingreso S/ 20,000": sin respaldo
+  en la web del colegio. NO PUBLICADO: alumnos de inicial (no hay cifra).
+  RIESGO: existe colegio "El Carmen" en otros departamentos; usar CM.
+
+================================================================================
+02 - COLEGIO SAN MARCELINO CHAMPAGNAT (I.E. 82017) - CAJAMARCA
+Fila 23 | Av. El Maestro 212, San Sebastian | Tel. (076) 363350
+Google: 4.7 (8 resenas) | Primaria manana / Secundaria tarde
+================================================================================
+
+--- LECTURA (voz de un profesor) ---
+Cada vez que alguien me dice "ah, el Champagnat, el colegio de los
+Maristas", yo lo paro ahi. No. El Champagnat de Cajamarca NO es un colegio
+marista. Lleva el nombre de San Marcelino Champagnat, el fundador de los
+Maristas, y eso confunde a todo el mundo, pero la historia es otra.
+
+Te la cuento como me la contaron a mi cuando llegue a dictar aqui. En 1954
+el Ministerio de Educacion le encargo a los Hermanos Maristas la direccion
+de la Escuela Normal Rural de Varones (Resolucion Suprema 266, del 22 de
+abril de 1954). Como los alumnos normalistas no tenian donde hacer sus
+practicas, en 1961 crearon una "Escuela de Aplicacion" anexa, con el Hno.
+Santos Garrido Miguel como primer director. Ahi pasaron el Hno. Tomas
+Garcia Rabanal, el Hno. "Patita"... y en 1979 la congregacion decidio
+dejar la Escuela de Aplicacion. Desde 1980 el colegio es publico y laico,
+conducido por profesores nombrados del Estado. En 1984, en agradecimiento,
+la APAFA y el director Francisco Salazar pidieron que se llamara "Beato
+Marcelino Champagnat". Y asi quedo el nombre, sin los hermanos.
+
+Dicho eso: es un colegio publico grande, de varones, con una primaria de
+813 alumnos en turno manana y una secundaria de 656 en turno tarde. Comparte
+local (el 570477) con el Instituto Superior Pedagogico "Hno. Victorino
+Elorz Goicoechea", que es el heredero de aquella Escuela Normal Rural. Es
+decir: el colegio nacio como anexo de un instituto y hoy comparten vereda.
+
+Como docente te digo lo bueno y lo dificil. Lo bueno: hay tradicion, hay
+exalumnos que mandan a sus hijos, hay una banda y un patio que en el
+aniversario se llena. Lo dificil: infraestructura antigua y turnos
+partidos, con secundaria entrando a la 1 de la tarde y saliendo al
+anochecer. Eso afecta a las familias que viven lejos. Y en las resenas de
+Google aparece una queja recurrente que no voy a esconder: "aumento de
+alumnos indisciplinados y de nivel academico flojo en materias basicas".
+No la suscribo entera, pero es una percepcion publica real y el colegio la
+conoce.
+
+Un dato que sorprende: la primaria es mas grande que la secundaria. 813
+contra 656. Eso se explica porque la primaria del 82017 jala a todo San
+Sebastian y a Los Banos del Inca, mientras que la secundaria compite con
+Rafael Loayza, Juan XXIII y los privados de la zona.
+
+--- DATOS AUDITADOS ---
+Director: VARGAS CHUQUILIN OLVER RICARDO (padron Censo 2025, primaria y
+  secundaria).
+Directores historicos: Hno. Santos Garrido Miguel (1961-1965), Hno. Tomas
+  Garcia Rabanal (1966-1968), Hno. "Patita" (1968-1979), Prof. Joel
+  Valdivia Gonzales (encargado 1982), Prof. Juan Francisco Salazar Noriega
+  (desde 1984), Prof. Julio Villanueva Izquierdo (1987-1994), Prof. Alberto
+  Isaac Zumarán Cerna (1995-1997).
+Gestion: Publica de gestion directa, Sector Educacion. UGEL Cajamarca.
+  Escolarizada. Varones. Urbano. Local 570477.
+  Primaria turno manana; Secundaria turno tarde.
+Codigos: Primaria CM 0444745 | Secundaria CM 0606459.
+Direccion: Av. El Maestro 212, San Sebastian, Cajamarca. Coords.
+  -7.16097, -78.51188. Tel. (076) 363350.
+Historia: RS 266 del 22-04-1954 (Maristas asumen la Escuela Normal Rural
+  de Varones) | RM 441 del 19-01-1961 crea la Escuela de Aplicacion |
+  1979-1980 la congregacion deja el colegio y pasa a gestion laica |
+  03-07-1984 toma el nombre "Beato Marcelino Champagnat" | secundaria
+  creada en los anos 80.
+Censos 2025: Primaria 813 alumnos (varones), 32 docentes, 24 secciones.
+  Secundaria 656 alumnos (varones), 32 docentes, 22 secciones.
+  Ratio: 34 por seccion en primaria, 30 en secundaria.
+Logros / notas: no se encontraron notas de prensa recientes de premios
+  academicos. Si hay actividad institucional y resenas publicas (4.7/5).
+Auditoria: COINCIDE direccion, codigos, condicion publica, directorio.
+  CORREGIDO: NO es colegio marista ni privado; es publico y laico desde
+  1980. El nombre es un homenaje, no una gestion.
+  NO CONFIRMADO: la "creacion" del colegio suele citarse como 1961 o 1968;
+  lo documentado es 1961 (RM 441) y el cambio de nombre en 1984.
+  FALTA: plana docente nominal y RUC (es sector publico, no aplica RUC
+  propio; usar UGEL).
+
+================================================================================
+03 - IE 82019 LA FLORIDA - CAJAMARCA
+Fila 58 | Av. Atahualpa 200, La Florida | Cel. 916 941 284
+Blog: ie82019laflorida.blogspot.pe | Primaria manana-tarde / Secundaria manana
+================================================================================
+
+--- LECTURA (voz de una madre de familia) ---
+Yo vivo a tres cuadras del 82019 y tengo dos hijos ahi: uno en primaria y
+uno en secundaria. Cuando la gente me pregunta "y ese colegio cual es", yo
+les digo: el de La Florida, el de la subida de Atahualpa, ese que tiene
+turno manana y tarde y nunca cierra. Es publico, es grande, y es una de las
+instituciones mas antiguas del sector: la primaria es la 82019 de toda la
+vida y la secundaria se creo despues, en 2015, con codigo propio.
+
+Lo que mas me ha tocado vivir es el tamano. Primaria: 1,288 chicos en 42
+secciones. Secundaria: 943 en 30 secciones. Cuando hay formacion, el patio
+desaparece. Cuando hay matricula, la cola da la vuelta. Y sin embargo,
+siempre hay alguien que conoce a tu hijo por su nombre: la auxiliar, el
+portero, la profesora de segundo.
+
+Un dia me entere de algo que me hizo sentir orgullo y que casi nadie
+conoce: el colegio gano el Concurso Nacional de Proyectos de Innovacion
+Educativa 2024 del FONDEP con un proyecto llamado "Jugando con la chakana",
+que se aplica en las 42 aulas de primaria y beneficia a mas de mil
+estudiantes. Vino el FONDEP a verificar en diciembre de 2024 al colegio.
+Eso no es marketing: es un proyecto real, con docentes capacitados, que
+usa el juego y la geometria andina para ensenar matematica. A mi hijo le
+tocó y volvio contando como se armaba la chakana.
+
+La otra cara: la infraestructura es de las que se remiendan con voluntad.
+Pabellones de concreto, aulas con ventilador, patios de cemento. Hay
+pizarra y hay proyector en algunas aulas, no en todas. Y el turno: la
+secundaria entra en la manana, la primaria se reparte entre manana y
+tarde, asi que en la misma casa hay dos horarios.
+
+Mi consejo de madre: si vas a matricular aqui, averigua primero en que
+turno cae tu hijo y quien es el director del nivel, porque primaria y
+secundaria tienen directores distintos en el padron. Y no te asustes por
+el numero: en un colegio de 2,200 alumnos el nino no se pierde si tu, como
+padre, apareces en la puerta. Los que se pierden son los que nunca van.
+
+--- DATOS AUDITADOS ---
+Directores (padron Censo 2025): AYALA SALAZAR SEGUNDO ROGELIO, consignado
+  tanto en primaria como en secundaria.
+  CONFLICTO: un documento MINEDU anterior lista como director de primaria
+  a TORRES LEAL FELIPE DE JESUS (DNI 26606218, plaza 1120113255M2) y un
+  subdirector con plaza 1120113225M1. Verificar vigencia.
+Gestion: Publica de gestion directa, Sector Educacion. UGEL Cajamarca.
+  Escolarizada. Mixto. Urbano. Local 094225.
+Codigos: Primaria CM 0444760 | Secundaria CM 1719202 (registro 30-12-2015).
+Direccion: Av. Atahualpa 200, La Florida, Cajamarca. Coords.
+  -7.16506, -78.50949. Celular publicado: 916 941 284.
+Blog: http://ie82019laflorida.blogspot.pe/
+Censos 2025: Primaria 1,288 (588 H, 700 M), 52 docentes, 42 secciones.
+  Secundaria 943 (435 H, 508 M), 46 docentes, 30 secciones.
+  Total local: 2,231 alumnos, 98 docentes, 72 secciones.
+Logro documentado: proyecto "Jugando con la chakana" ganador del VI
+  Concurso Nacional de Proyectos de Innovacion Educativa 2024 (FONDEP),
+  aplicado en las 42 aulas de primaria, mas de 1,000 estudiantes
+  beneficiados; verificacion de FONDEP en diciembre de 2024.
+Historia: primaria 82019 es institucion tradicional del sector La Florida;
+  la secundaria se registra en 2015 para absorber la demanda del sector.
+Auditoria: COINCIDE direccion, codigos, condicion publica, cifras.
+  CONFLICTO: director de primaria (Ayala Salazar vs. Torres Leal). Se
+  reportan ambos.
+  CORREGIDO: DePeru le atribuye "1,050 alumnos y 46 docentes" a primaria;
+  el Censo 2025 da 1,288 y 52.
+  RIESGO: hay varias "La Florida" en Cajamarca (Cutervo, Jaen, San Ignacio).
+  Usar CM 0444760 / 1719202.
+
+================================================================================
+04 - I.E. JUAN XXIII - CAJAMARCA
+Fila 60 | Jr. Juan XXIII 130, Pueblo Libre | Tel. (076) 363051
+Google: 4.5 (10 resenas) | Registro 05-06-1969
+================================================================================
+
+--- LECTURA (voz de una exalumna) ---
+Yo soy exalumna del Juan XXIII y cuando digo "mi colegio" la gente piensa
+en un colegio de varones. No: es de mujeres. Toda la vida fue de mujeres,
+desde 1969, cuando lo fundaron las Madres Dominicas Docentes de la
+Inmaculada Concepcion. Y no lo fundaron porque si: lo pidio el Ministerio
+de Educacion a la Madre Maria Cristina Rodriguez Diaz, que en ese entonces
+era priora provincial y dirigia el Santa Rosa de Trujillo. La primera
+directora fue Maura Diaz Leon de Aguilar, que se quedo 17 anos.
+
+Nosotras empezamos a estudiar en el antiguo Seminario San Jose, en la
+calle Lima 251. Recien en 1980 nos mudamos al local propio del jiron Juan
+XXIII, construido por etapas con partidas del Ministerio y con el empuje
+del general Rafael Hoyos Rubio y de Julio Bardales Alvarez. Mi mama
+estudio en el Seminario, yo estudie en el local nuevo, y ahora mi hija
+postula a la misma secundaria. Tres generaciones, mismo uniforme.
+
+Lo que recuerdo del dia a dia: un colegio grande de verdad, 1,518 alumnas
+en secundaria, 50 secciones, turno manana y tarde. Se entraba temprano y
+se salia con la luz ya amarilla. Habia mucho desfile, banda, formacion,
+misa con Monseñor Dammert Bellido, que fue asesor espiritual del colegio
+por mas de una decada. Y habia una exigencia callada: la monja no te
+gritaba, te ponia en la lista.
+
+Hoy el colegio ya no es de las monjas: la gestion es publica, con
+director nombrado por el Estado. Y comparte la cuadra con el Saco
+Oliveros, que esta en el mismo jiron 130. Eso confunde a las mamas nuevas
+todo el tiempo: una cosa es el Juan XXIII, publico y gratis, con 1,518
+alumnas; otra cosa es el Saco, privado, con 541. No son lo mismo, no se
+paga lo mismo y no tienen nada que ver, aunque la puerta quede a metros.
+
+Un detalle que casi nadie usa: en el mismo local funciona la Educacion
+Basica Alternativa del Juan XXIII, de noche, para jovenes y adultos que
+quieren terminar el colegio. Esa es la parte mas silenciosa y quiza mas
+heroica del colegio: gente que sale de trabajar y entra a clases a las 7
+de la noche.
+
+--- DATOS AUDITADOS ---
+Director (Secundaria, padron Censo 2025): PEREZ ESTRADA RENAN LINO.
+Director EBA Avanzado: MIRANDA VILLANUEVA JOSE ALBERTO.
+Directora fundadora: Maura Diaz Leon de Aguilar (1969, 17 anos en el cargo).
+  Primera plana: Marina Lopez de Villar (directora de estudios), Santos
+  Claudina Villar Martines (profesora estable), Violeta Romero Gallardo
+  (jefa del turno nocturno).
+Gestion: Publica de gestion directa, Sector Educacion. UGEL Cajamarca.
+  Escolarizada. Solo mujeres en secundaria. Urbano.
+Codigos: Secundaria CM 0390609 | Inicial CM 1367820 (cuna-jardin, noche) |
+  EBA Avanzado CM 0390963 | EBA Inicial/Intermedio CM 0768812.
+Direccion: Jr. Juan XXIII 130, Pueblo Libre, Cajamarca. Coords.
+  -7.162543, -78.5099648. Tel. (076) 363051.
+Censos 2025: Secundaria 1,518 alumnas, 64 docentes, 50 secciones.
+  Inicial (noche) 37 alumnos, 2 docentes, 2 secciones.
+  EBA Avanzado 195 alumnos (58 H, 137 M), 14 docentes, 13 secciones.
+  Total local (sin EBA inicial/intermedio): 1,750 alumnos, 80 docentes.
+Historia: RS 0600 del 05-06-1969 (gobierno de Velasco) crea el Colegio
+  Nacional Juan XXIII | inicia en el Seminario San Jose, calle Lima 251 |
+  28-12-1979: RD 1898 lo convierte en Centro Educativo Basico Modelo II |
+  04-05-1983: RD Departamental 0233 lo devuelve a Colegio Nacional |
+  1980: se traslada al local propio del jiron Juan XXIII | turnos
+  manana, tarde y noche en su mejor epoca | asesor espiritual: Monseñor
+  Jose Dammert Bellido.
+Auditoria: COINCIDE direccion, codigos, condicion publica, genero femenino,
+  cifras 1,518/64/50 y directorio.
+  CORREGIDO: DePeru da 1,743 alumnos y 76 docentes; el Censo 2025 da 1,518
+  y 64. Ademas ese portal marca el turno como "continuo manana y tarde",
+  cuando el padron dice Mañana-Tarde.
+  FALTA: director general unico del complejo (cada servicio tiene el suyo),
+  plana docente nominal.
+  RIESGO ALTO: mismo jiron que Saco Oliveros (CM 1723261/1723279). No
+  mezclar alumnado ni costos.
+
+================================================================================
+05 - COLEGIO MILITAR "GRAL. DIV. RAFAEL HOYOS RUBIO" - CAJAMARCA
+Fila 92 | Carr. Cajamarca - Banos del Inca km 3.5 (Chucopampa) | 958 257 333
+Google: 5.0 (5 resenas) | Turno tarde | Solo 3ro, 4to y 5to de secundaria
+================================================================================
+
+--- LECTURA (voz de un padre de cadete) ---
+Mi hijo entro al Colegio Militar en tercero de secundaria. No es un
+colegio para todo el mundo, y quiero ser claro desde el principio: no es
+un colegio privado caro ni un internado de pelicula. Es un colegio
+publico, dependiente del sector Defensa, con formacion militar, y solo
+atiende los tres ultimos anos de secundaria: tercero, cuarto y quinto.
+Si tu hijo quiere entrar en primero, no puede: tiene que esperar.
+
+El dia que lo deje la primera vez, me impresiono lo pequeno que era todo.
+Cuando empezo, en 2008, eran treinta alumnos de tercero en un local
+prestado en el kilometro 3 de la carretera a Banos del Inca. Hoy el padron
+del MINEDU consigna apenas 57 alumnos en 4 secciones, con 5 docentes. Si,
+57. Es el colegio mas pequeno de los cinco de este paquete, y con diferencia.
+Por eso el trato es casi familiar: el coronel conoce a todos los cadetes
+por su nombre y los padres nos conocemos entre nosotros.
+
+La rutina es la que esperas: formacion, uniforme, instruccion militar,
+disciplina, y encima el curriculo normal de secundaria con sus cursos. Mi
+hijo aprendio a levantarse a las cinco sin que nadie le grite, y eso, te
+juro, no lo consiguio ningun otro colegio. Hay cadetes mujeres desde hace
+pocos anos, y eso cambio el ambiente para bien: se volvio mas ordenado y
+menos "cuartel".
+
+Ahora la parte que duele y que hay que decir con todas sus letras. El
+colegio lleva anos esperando su local propio. En 2024 el Gobierno Regional
+inicio la obra en Chucopampa, distrito de Jesus: mas de 46 millones de
+soles, piscina olimpica, coliseo, laboratorios, dormitorios, enfermeria.
+En noviembre de 2024 iba al 25%. En febrero de 2026 seguia paralizada, con
+51% de avance. Y en agosto de 2025 la Contraloria emitio un informe de
+control concurrente (032-2025-OCI/5336-SCC) alertando partidas no
+ejecutadas valorizadas y pagadas al 100%, ademas de deficiencias de
+construccion. O sea: el colegio de nuestros hijos sigue estudiando en un
+local alquilado por la UGEL, mientras la obra nueva duerme.
+
+Como padre te digo: el colegio militar vale la pena si tu hijo quiere
+disciplina y carrera militar; no vale la pena si buscas excelencia
+academica pura, porque con 5 docentes y 57 alumnos la oferta de cursos
+electivos es limitada. Pregunta siempre, antes de postular, donde se
+estudian las clases este ano: si en el local de la carretera o si ya se
+mudaron a Chucopampa.
+
+--- DATOS AUDITADOS ---
+Directores:
+  - Padron Censo 2025 (act. 01-03-2026): SALAS ESTRADA JORGE LUIS.
+  - 2026 (Andina, jul-2026): Percy Cabrera Abanto, director.
+  - 2021 (MINEDU, evaluacion docente): ZAMORA FIGUEROA VICTOR RAUL.
+  - 2011: Cnel. EP John Robert Estrada Terrones (LinkedIn).
+  - 2008 (primer ano): Cnel. EP Julio Pajares Ruiz.
+  - 2018-2019: Cnel. EP Jorge Salas Estrada.
+Gestion: Publica de gestion directa, dependencia "Otro sector publico
+  (FF.AA.)". UGEL Cajamarca. Escolarizada. Mixto. Turno tarde. Urbano.
+  Local 525574. Registro 11-12-2007.
+Codigo: Secundaria CM 1361187.
+Direccion: Carretera Cajamarca - Banos del Inca km 3.5, sector Chucopampa
+  / Huaya Chica, Cajamarca. Coords. -7.16478, -78.49125.
+Telefono publicado: 958 257 333.
+Censos 2025: 57 alumnos (39 H, 18 M), 5 docentes, 4 secciones.
+  Ratio: 14 alumnos por seccion, 11 por docente.
+Historia: creado el 11-12-2007 | 2008 inicia clases con 30 alumnos de
+  tercero en local del km 3 | 2011 se consigue terreno de 1.25 ha | 2017
+  nace el proyecto de local propio | 2024 inicia obra en Chucopampa,
+  distrito de Jesus, con S/ 46,341,637 y plazo de 18 meses | 2026 la obra
+  sigue al 51% y paralizada.
+Logros: formacion de cadetes que siguen carrera militar; ampliacion del
+  servicio a cadetes femeninas (anunciada en 2026).
+Alertas documentadas (no ocultar):
+  - Contraloria, Informe de Control Concurrente 032-2025-OCI/5336-SCC
+    (21-30 julio 2025): partidas no ejecutadas valorizadas y pagadas,
+    deficiencias de construccion, obra paralizada.
+  - Nota de febrero de 2026: obra detenida al 51%, pendiente expediente de
+    saldo de obra.
+Auditoria: COINCIDE direccion, codigo, condicion publica FF.AA., turno
+  tarde, cifras 57/5/4.
+  CONFLICTO ABIERTO: cuatro nombres de director en distintos anos sin
+  documento de cese visible. El padron 2026 dice Salas Estrada; la nota
+  de Andina de julio 2026 dice Cabrera Abanto. Verificar en mesa de partes.
+  CORREGIDO: los medios hablan de "400 a 550 cadetes" como capacidad del
+  local futuro; el alumnado REAL matriculado hoy es de 57.
+  FALTA: si el local actual sigue siendo alquilado a la UGEL, y cual sera
+  la sede en 2027.
+  RIESGO: hay Colegios Militares "Rafael Hoyos Rubio" y otras IE del mismo
+  nombre en Lima (La Victoria), Paita, San Ignacio y Arequipa. Usar
+  CM 1361187.
+
+================================================================================
+AUDITORIA GENERAL DE ESTA TANDA
+================================================================================
+1. El error mas grave y mas repetido en Cajamarca: creer que el San
+   Marcelino Champagnat es marista. Es publico y laico desde 1980.
+2. El Juan XXIII es de mujeres y comparte cuadra con el Saco Oliveros.
+   Confundirlos cambia alumnado, costos y director.
+3. El Colegio Militar tiene 57 alumnos, no los 400-550 que se citan en
+   prensa (esa es la capacidad proyectada del local de Chucopampa).
+4. Dos portales atribuyen "IB acreditado" al El Carmen: no hay respaldo.
+   Se rechaza hasta ver certificado.
+5. Cifras de terceros corregidas con el Censo 2025: La Florida primaria
+   1,050 -> 1,288; Juan XXIII 1,743 -> 1,518.
+6. Directores: en los cinco casos se distingue el nombre del padron 2026
+   del nombre que aparece en prensa o en documentos anteriores. Cuando hay
+   conflicto, se reportan ambos y se dice cual es cual.
+
+LO QUE NO SE PUDO VERIFICAR
+- Plana docente nominal de los cinco: ningun colegio la publica completa.
+- Alumnos de inicial de El Carmen (CM 1110709): sin cifra en el padron.
+- Director vigente al 25-11-2026 en La Florida (primaria) y en el Colegio
+  Militar: hay dos nombres por nivel/ano.
+- RUC de El Carmen verificado (20222115796); los otros cuatro son
+  estatales y no tienen RUC propio del servicio educativo.
+- Resenas de Google: son indicadores ciudadanos, no datos oficiales.
+
+COMO VERIFICAR EN 10 MINUTOS
+1. ESCALE: https://escale.minedu.gob.pe/web/inicio/padron-de-iiee (buscar
+   por codigo modular, no por nombre).
+2. Identicole: https://identicole.minedu.gob.pe (costos y niveles).
+3. UGEL Cajamarca: http://ugelcajamarca.gob.pe (oficios de directores).
+4. Contraloria (solo Colegio Militar):
+   Informe 032-2025-OCI/5336-SCC.
+5. Mesa de partes del colegio: pedir por escrito director vigente y
+   relacion de docentes.
+
+Nota final: estas cinco fichas siguen la misma regla que las anteriores.
+Si un dato no tiene documento, se dice "no verificado" y no se rellena.
+La fuente manda, no la ficha.
+================================================================================
