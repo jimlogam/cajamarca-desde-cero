@@ -4,10 +4,10 @@ Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
 Categoría Maps: Restaurante
 Dirección: RFXV+WMC, Cajamarca 06002
-Teléfono: 
+Teléfono:
 Rating: 4.1
 Reseñas: 14
-Sitio web: 
+Sitio web:
 Latitud: -7.150192799999999
 Longitud: -78.505864
 Google Maps: https://www.google.com/maps?cid=8016785002660773496
@@ -18,7 +18,7 @@ Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdcy9hxztp0_ksir_2XZA
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-Te damos la bienvenida a Cafetín2 UPN Cajamarca. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en RFXV+WMC, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Te damos la bienvenida a Cafetín2 UPN Cajamarca, el punto de encuentro universitario predilecto dentro de nuestro campus. Te ofrecemos desayunos nutritivos, café recién pasado, sándwiches al paso, menús diarios balanceados, bebidas energizantes y snacks frescos con la velocidad y calidez que exige tu jornada académica. Visítanos entre clases para recargar energías, estudiar en equipo o compartir gratos momentos con tus compañeros en un ambiente cómodo y juvenil.
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -26,162 +26,201 @@ Te damos la bienvenida a Cafetín2 UPN Cajamarca. El rincón perfecto para hacer
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
-PREGUNTA 1: Tengo receso de diez minutos entre clases, ¿me despachan un café y snack al paso sin demoras?
+PREGUNTA 1: ¿Qué promociones de desayuno y combos universitarios tienen al iniciar la jornada de clases?
 --------------------------------------------------------------------------------
 RESPUESTA 1:
-Nuestra atención está sincronizada con los timbres y recesos universitarios.
+Diseñamos promociones mañaneras pensadas especialmente para el presupuesto y la energía de los estudiantes que inician sus cátedras desde temprano. Ofrecemos combos de café pasado con leche o jugo de frutas acompañado de un sándwich de pollo, jamón o huevo a precio accesible.
 
-En barra te servimos al instante un café humeante en vaso térmico y un sándwich caliente o bocadito empacado para que regreses a tu aula a tiempo y con las energías recargadas en Cafetín2 UPN Cajamarca.
+También contamos con porciones de queques caseros, avena caliente con manzana y panqueques recién preparados para comenzar el día con óptimo rendimiento mental.
+
+En Cafetín2 UPN Cajamarca encuentras el balance perfecto entre economía, nutrición completa y atención sumamente rápida para no llegar tarde a clase.
 
 --------------------------------------------------------------------------------
-PREGUNTA 2: ¿A qué distancia me encuentro si salgo del centro comercial Real Plaza?
+PREGUNTA 2: ¿A qué distancia se encuentra su sede respecto al concurrido Centro Comercial El Quinde?
 --------------------------------------------------------------------------------
 RESPUESTA 2:
-Estamos a tan solo 496 metros del centro comercial, papachito.
+Nos encontramos situados a solo 520 metros de distancia respecto al Centro Comercial El Quinde, en el entorno de la Vía de Evitamiento Norte.
 
-Basta con cruzar hacia el sector universitario en una caminata fresca de cinco o seis minutos para llegar a nuestras instalaciones. Es un acceso directo y rápido para disfrutar de un café reconfortante a precios muy accesibles.
+El trayecto peatonal demanda entre seis y siete minutos caminando por aceras amplias y seguras que conectan el centro comercial con el ingreso universitario.
+
+Esta notable cercanía facilita a estudiantes y docentes complementar sus trámites, compras o actividades recreativas con una comida rápida y sabrosa.
 
 --------------------------------------------------------------------------------
-PREGUNTA 3: Solo tengo saldo en mi celular, ¿puedo cancelar mi consumo con billeteras digitales?
+PREGUNTA 3: ¿Ofrecen opciones de almuerzos o menús ejecutivos balanceados para la comunidad estudiantil?
 --------------------------------------------------------------------------------
 RESPUESTA 3:
-Aceptamos pagos rápidos mediante transferencias de Yape y Plin directamente desde tu teléfono.
+Brindamos un servicio diario de almuerzos completos que incluye entrada fresca, plato de fondo contundente y refresco natural de fruta. Nuestra carta semanal rota preparaciones clásicas de la gastronomía peruana como lomo saltado, pollo al horno, secos norteños y milanesas doradas.
 
-También recibimos cobros con tarjetas de débito o crédito para que consumas con absoluta comodidad sin preocuparte por cargar monedas o billetes sueltos.
+Cada menú se elabora bajo supervisión de manipulación higiénica asegurando porciones generosas de proteínas, carbohidratos saludables y ensaladas variadas.
+
+Servimos de manera ágil en horarios escalonados para que dispongas de tiempo holgado para almorzar con tranquilidad entre tus bloques lectivos.
 
 --------------------------------------------------------------------------------
-PREGUNTA 4: Mi computadora se quedó sin batería y tengo entrega de informe, ¿tienen enchufes accesibles?
+PREGUNTA 4: ¿Cuentan con variedad de sándwiches, empanadas y snacks rápidos entre cambio de horas?
 --------------------------------------------------------------------------------
 RESPUESTA 4:
-Disponemos de mesas con tomas de corriente cercanas y red Wi-Fi de alta velocidad para la comunidad estudiantil y académica.
+Nuestra vitrina exhibe permanentemente opciones saladas calientes y prácticas para quienes cuentan con solo diez minutos de receso. Encontrarás empanadas horneadas de carne y pollo, hamburguesas caseras, enrollados de jamón y queso, y sándwiches en pan ciabatta o baguette.
 
-Podrás conectar tus equipos, revisar plataformas virtuales o avanzar trabajos grupales con total fluidez en un entorno dinámico y agradable.
+Disponemos además de snacks envasados, frutos secos, barras de cereal y galletas integrales ideales para calmar el apetito de manera inmediata.
+
+Todos los productos se mantienen bajo calor moderado para servirse al instante en empaques limpios para llevar a cualquier punto del campus.
 
 --------------------------------------------------------------------------------
-PREGUNTA 5: Si me ubico en el Mercado Central de Cajamarca, ¿cuánto tiempo toma llegar en mototaxi?
+PREGUNTA 5: ¿Cuál es la separación exacta medida en kilómetros hacia el Centro Comercial Real Plaza?
 --------------------------------------------------------------------------------
 RESPUESTA 5:
-La distancia desde el Mercado Central es de aproximadamente 1.1 kilómetros.
+La separación que nos vincula con el Centro Comercial Real Plaza es de exactamente 1.21 km (1213 metros) hacia el sector norte de la urbe.
 
-Cualquier mototaxi de barrio te traslada en apenas tres a cuatro minutos directos por la vía de circunvalación hacia el campus, siendo una ruta muy fluida y conocida.
+El traslado vehicular en mototaxi o combi se efectúa en unos cuatro minutos circulando por el eje de la Vía de Evitamiento.
+
+Es un corredor universitario y comercial altamente conectado que asegura fácil acceso y transporte continuo a cualquier hora del día.
 
 --------------------------------------------------------------------------------
-PREGUNTA 6: La mañana comenzó con viento frío en el campus, ¿qué bebida tienen lista para calentar el cuerpo?
+PREGUNTA 6: ¿Qué alternativas de bebidas energéticas, café caliente y jugos naturales despachan en barra?
 --------------------------------------------------------------------------------
 RESPUESTA 6:
-Para combatir el frío de las primeras horas te servimos de inmediato un café expreso bien cargado, capuchino con espuma caliente o un chocolate artesanal espeso.
+Servimos café pasado aromático preparado con granos de la región, capuchinos calientes, té de frutas y chocolate andino para reconfortar en mañanas frías. En la línea fría despachamos jugos recién licuados de papaya, piña, maracuyá y combinaciones surtidas con naranjas frescas.
 
-Ambas opciones te devolverán el calor y la concentración necesaria para rendir al máximo en tus labores académicas.
+Contamos igualmente con gaseosas heladas, aguas minerales con o sin gas, energizantes autorizados y bebidas isotónicas para hidratarse luego de actividades deportivas.
+
+Cada opción se entrega a la temperatura ideal para asegurar frescura y disfrute inmediato en tu rutina estudiantil.
 
 --------------------------------------------------------------------------------
-PREGUNTA 7: Traemos maquetas, libros y mochilas pesadas, ¿nos brindan espacio suficiente en las mesas?
+PREGUNTA 7: ¿Aceptan pagos mediante aplicaciones móviles como Yape o Plin para agilizar las filas?
 --------------------------------------------------------------------------------
 RESPUESTA 7:
-El espacio está acondicionado pensando en el día a día estudiantil.
+Implementamos sistemas modernos de cobro digital para que puedas pagar tus compras de forma instantánea sin necesidad de llevar dinero en efectivo. Disponemos de códigos QR visibles en caja para transferir a través de las billeteras móviles más populares del país.
 
-Contamos con mesas amplias donde resguardar tus materiales de trabajo y bultos con holgura para que descanses y meriendes sin incomodidades.
+Aceptamos además tarjetas bancarias de débito y crédito sin recargo alguno, además del pago tradicional en monedas y billetes.
+
+Esta flexibilidad operativa reduce al mínimo el tiempo de espera en colas, permitiendo a los comensales de Cafetín2 UPN Cajamarca disfrutar al máximo de sus descansos.
 
 --------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué tan cerca queda de la histórica Plaza de Armas de Cajamarca?
+PREGUNTA 8: ¿Cuántos kilómetros median en línea directa hasta el emblemático Mercado Central de Cajamarca?
 --------------------------------------------------------------------------------
 RESPUESTA 8:
-Nos ubicamos a unos 1.5 kilómetros de la Plaza de Armas.
+Nos separan 1.40 km (1402 metros) de distancia respecto al concurrido Mercado Central situado en la zona tradicional de la ciudad.
 
-En taxi o mototaxi llegarás en aproximadamente cinco minutos desde el centro monumental, siendo una alternativa muy cercana y económica para cambiar de ambiente.
+En transporte público o vehículo particular el recorrido se completa en unos cinco a seis minutos transitando por los jirones que conectan hacia el este.
+
+Constituye una ruta directa y habitual para el abastecimiento diario de insumos frescos y para el desplazamiento de la comunidad académica.
 
 --------------------------------------------------------------------------------
-PREGUNTA 9: ¿Tienen opciones saludables o jugos naturales para quienes cuidan su alimentación?
+PREGUNTA 9: ¿El salón dispone de mobiliario adecuado para sentarse a repasar apuntes o hacer trabajos grupales?
 --------------------------------------------------------------------------------
 RESPUESTA 9:
-Disponemos de jugos preparados con fruta fresca del día, infusiones aromáticas digestivas y opciones de sándwiches ligeros con quesos locales.
+Nuestras instalaciones cuentan con mesas amplias y sillas confortables organizadas para permitir tanto el consumo individual como reuniones de estudio en grupo. El espacio es ventilado e iluminado, ofreciendo un entorno agradable para revisar lecturas o coordinar presentaciones académicas.
 
-Podrás disfrutar de una pausa nutritiva y ligera en Cafetín2 UPN Cajamarca.
+Mantenemos las áreas despejadas y limpias gracias a un equipo dedicado a la desinfección continua de mesas tras la salida de cada grupo.
+
+Es el lugar idóneo para complementar tus horas libres entre clases combinando alimentación nutritiva con productividad universitaria.
 
 --------------------------------------------------------------------------------
-PREGUNTA 10: ¿Se pueden hacer pedidos grupales para compartir durante reuniones de facultad o talleres?
+PREGUNTA 10: ¿Manejan alternativas saludables con frutas picadas, yogur con cereales o ensaladas frescas?
 --------------------------------------------------------------------------------
 RESPUESTA 10:
-Coordinamos pedidos al por mayor con anticipación por nuestro canal de WhatsApp.
+Fomentamos hábitos de vida equilibrados ofreciendo opciones frescas y livianas para quienes cuidan su alimentación diaria. Preparamos boles de ensalada de frutas de estación con plátano, papaya, piña y melón acompañadas de miel y algarrobina.
 
-Preparamos bandejas de sándwiches, empanadas y termos de café para tus eventos académicos o reuniones de equipo con entrega puntual y caliente.
+Disponemos de porciones de yogur natural con granola artesanal y semillas, además de ensaladas verdes con pollo deshilachado y vinagretas ligeras.
+
+Estas alternativas proporcionan energía sostenida sin provocar pesadez durante las largas sesiones de estudio y exámenes.
 
 --------------------------------------------------------------------------------
-PREGUNTA 11: Si llego desde el Terminal Terrestre de Cajamarca, ¿cuál es la mejor opción de transporte?
+PREGUNTA 11: ¿Qué trayecto recorre una persona que se desplaza desde el histórico Cuarto del Rescate?
 --------------------------------------------------------------------------------
 RESPUESTA 11:
-La distancia desde el terminal es de 1.8 kilómetros.
+Desde el monumento histórico del Cuarto del Rescate se debe cubrir una distancia de 1.46 km (1457 metros) para llegar a nuestro local en el campus.
 
-Cualquier taxi o mototaxi te traslada en unos seis minutos directos hasta las inmediaciones del campus, permitiéndote tomar un desayuno al paso apenas ingresas a la ciudad.
+El trayecto en mototaxi o transporte urbano toma cerca de seis a siete minutos saliendo del centro colonial hacia la prolongación norte.
+
+Esta conexión rápida permite a visitantes y universitarios alternar entre el patrimonio céntrico y las dependencias modernas del sector educativo.
 
 --------------------------------------------------------------------------------
-PREGUNTA 12: Caemos en grupo de estudio sin reserva, ¿tienen capacidad para sentarnos a todos juntos?
+PREGUNTA 12: ¿Tienen servicio veloz de empaque para llevar alimentos directamente a las aulas de estudio?
 --------------------------------------------------------------------------------
 RESPUESTA 12:
-Reorganizamos nuestras mesas modulares en un instante para que todo tu equipo trabaje en conjunto.
+Disponemos de empaques térmicos descartables, bolsas biodegradables y portavasos adaptados para trasladar tus pedidos con total comodidad y seguridad. Al solicitar tu orden indícanos que es para llevar y nuestro personal la envolverá de inmediato con servilletas y cubiertos descartables.
 
-Disfrutarán de un espacio cómodo para debatir ideas mientras disfrutan de bebidas calientes, refrescos y piqueos salados.
+Sellamos cuidadosamente los recipientes de sopas y bebidas calientes para impedir filtraciones durante tu caminata por los pasillos del campus.
+
+Podrás disfrutar de tus alimentos en salas de estudio, bancas al aire libre o bibliotecas sin complicaciones.
 
 --------------------------------------------------------------------------------
-PREGUNTA 13: Busco un rincón tranquilo para una videollamada o entrevista virtual, ¿el entorno es adecuado?
+PREGUNTA 13: ¿Es posible solicitar pedidos con antelación para eventos académicos o talleres universitarios?
 --------------------------------------------------------------------------------
 RESPUESTA 13:
-Disponemos de zonas con menor afluencia dentro del local donde podrás conectarte con audífonos y sostener tus reuniones con buen nivel de audio e iluminación.
+Brindamos atención personalizada para delegaciones, grupos de investigación o facultades que organicen seminarios, debates o reuniones de fin de ciclo. Preparamos paquetes especiales de refrigerios que incluyen sándwiches gourmet, bocaditos, galletas y bebidas envasadas.
 
-Es el punto ideal para cumplir con compromisos a distancia sin salir del entorno universitario.
+Coordinamos las cantidades requeridas y la hora exacta de entrega para que los asistentes reciban su refrigerio fresco y puntual en el auditorio indicado.
+
+El servicio institucional de Cafetín2 UPN Cajamarca respalda el éxito de tus iniciativas académicas con seriedad y excelencia culinaria.
 
 --------------------------------------------------------------------------------
-PREGUNTA 14: ¿A cuántos minutos en transporte queda desde el Cuarto del Rescate?
+PREGUNTA 14: ¿Cuántos metros de separación existen en dirección a la céntrica Plaza de Armas de Cajamarca?
 --------------------------------------------------------------------------------
 RESPUESTA 14:
-Desde el Cuarto del Rescate la distancia es de 1.4 kilómetros hacia el sector norte.
+La separación métrica hacia la céntrica Plaza de Armas de Cajamarca es de 1.60 km (1604 metros) en dirección suroccidental.
 
-Abordando una mototaxi o taxi en las calles adyacentes tardarás escasos cinco minutos en llegar a nuestras instalaciones.
+El traslado vehicular demanda de seis a ocho minutos de viaje fluido siguiendo las arterias que enlazan el casco histórico con la zona universitaria.
+
+Representa un trayecto común para estudiantes que residen en el centro histórico y acuden a diario a sus clases en el campus.
 
 --------------------------------------------------------------------------------
-PREGUNTA 15: ¿Qué producto dulce recomiendan para una merienda rápida entre clases?
+PREGUNTA 15: ¿Qué estándares de salubridad y manipulación de alimentos aplican rigurosamente en cocina?
 --------------------------------------------------------------------------------
 RESPUESTA 15:
-Nuestros alfajores caseros y queques de vainilla o chocolate son los favoritos indiscutibles.
+Operamos bajo estrictos protocolos de bioseguridad, limpieza e inocuidad alimentaria fiscalizados de manera permanente. El personal de cocina utiliza gorros protectores, mascarillas, mandiles limpios y guantes adecuados en cada fase de preparación.
 
-Son porciones suaves, rendidoras y con el dulzor exacto para complementar una taza de café recién pasado.
+Efectuamos desinfección profunda de frutas, verduras y carnes, además de mantener cadena de frío regulada en nuestros conservadores industriales.
+
+Esta disciplina garantiza que cada menú y snack servido sea absolutamente seguro, fresco y saludable para toda la comunidad universitaria.
 
 --------------------------------------------------------------------------------
-PREGUNTA 16: ¿Venden bebidas frías embotelladas para llevar al aula de clase?
+PREGUNTA 16: ¿Ofrecen opciones vegetarianas o alternativas libres de carne en la carta diaria?
 --------------------------------------------------------------------------------
 RESPUESTA 16:
-Mantenemos refrigeradores con aguas minerales, gaseosas, néctares y bebidas energizantes bien heladas para que lleves contigo a tus jornadas de estudio.
+Pensando en las preferencias diversas de los estudiantes, preparamos alternativas vegetarianas deliciosas y nutricionalmente balanceadas. Disponemos de tortillas de verduras con queso regional, salteados de champiñones con vegetales, ensaladas completas con palta y legumbres.
 
-Atendemos en mostrador con agilidad para que no tengas demoras antes de tu siguiente clase.
+También puedes solicitar sándwiches vegetarianos en pan artesanal con tomate, lechuga, queso andino y huevo duro al gusto.
+
+Solo basta con consultar a nuestro personal en barra para que te orienten sobre las opciones vegetarianas disponibles en la jornada.
 
 --------------------------------------------------------------------------------
-PREGUNTA 17: ¿Atienden los sábados para quienes tienen clases semipresenciales o posgrado?
+PREGUNTA 17: ¿Cuáles son las horas de atención establecidas de acuerdo al calendario y turnos universitarios?
 --------------------------------------------------------------------------------
 RESPUESTA 17:
-Mantenemos nuestras puertas abiertas durante las jornadas sabatinas para apoyar a los estudiantes de fin de semana.
+Nuestros horarios se sincronizan con las actividades del campus, abriendo desde las 6:45 a.m. para atender a los alumnos del primer turno lectivo. Mantenemos atención ininterrumpida a lo largo del día cubriendo desayunos, almuerzos y lonches hasta las 8:30 p.m. de lunes a viernes.
 
-Es el lugar idóneo para hacer una pausa entre cátedras y recargar energías con un buen café en Cafetín2 UPN Cajamarca.
+Los sábados brindamos servicio continuo durante el turno matutino y vespertino para los programas para adultos y talleres extracurriculares.
+
+Nos aseguramos de mantener stock permanente de alimentos frescos hasta el cierre de cada jornada.
 
 --------------------------------------------------------------------------------
-PREGUNTA 18: ¿Tienen sándwiches calientes o empanadas recién horneadas para el almuerzo?
+PREGUNTA 18: ¿Disponen de tomas de corriente eléctrica para conectar computadoras portátiles mientras se consume?
 --------------------------------------------------------------------------------
 RESPUESTA 18:
-Nuestra vitrina ofrece sándwiches triples, empanadas de carne y pollo, y tostadas calientes preparadas en el acto.
+Ciertas secciones de nuestro salón cuentan con puntos de conexión eléctrica accesibles para recargar computadoras portátiles, tabletas o teléfonos celulares. Esto permite a los comensales trabajar en presentaciones, redactar informes o cargar sus dispositivos mientras degustan un café o almuerzo.
 
-Son opciones sustanciosas y económicas pensadas para resolver un almuerzo rápido o una merienda de tarde.
+Fomentamos el uso responsable de estos tomacorrientes para que varios estudiantes puedan compartir la facilidad durante horas pico.
+
+Es un beneficio pensado para hacer más productivo tu tiempo dentro de las instalaciones universitarias.
 
 --------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo es la seguridad y el control de acceso en las inmediaciones del local?
+PREGUNTA 19: ¿Cómo se diseñó la carta para responder a las exigencias nutricionales y de tiempo de los jóvenes?
 --------------------------------------------------------------------------------
 RESPUESTA 19:
-El área cuenta con vigilancia permanente, excelente iluminación y un flujo continuo y ordenado de la comunidad universitaria.
+La propuesta gastronómica fue concebida escuchando de manera constante las opiniones y requerimientos de la comunidad universitaria local. Priorizamos platos caseros ricos en nutrientes, preparados con ingredientes frescos que proporcionen vitalidad para las exigencias académicas.
 
-Podrás disfrutar de tus momentos de descanso con absoluta tranquilidad y resguardo.
+Simultáneamente adaptamos las presentaciones y flujos de despacho para responder a la prisa habitual de los recesos de clase sin descuidar el sazón.
+
+Ese compromiso con el bienestar y el tiempo del estudiante es lo que consolida a Cafetín2 UPN Cajamarca como el espacio de confianza dentro del campus.
 
 --------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por cuál medio digital puedo consultar promociones o el menú del día?
+PREGUNTA 20: ¿Por qué canal digital o presencial se atienden sugerencias o consultas de los comensales?
 --------------------------------------------------------------------------------
 RESPUESTA 20:
-Puedes escribirnos con total comodidad a través de nuestro WhatsApp oficial y redes sociales.
+Mantenemos un canal de comunicación directo y abierto para recibir opiniones, consultas de menú o pedidos grupales especiales. Puedes acercarte con total confianza a nuestro personal administrativo en barra para hacernos llegar cualquier comentario o sugerencia.
 
-Te responderemos al instante compartiéndote las alternativas vigentes y atendiendo tus requerimientos en Cafetín2 UPN Cajamarca.
-================================================================================
+Asimismo disponemos de canales de mensajería para responder dudas sobre menús ejecutivos del día o coordinaciones para delegaciones estudiantiles.
+
+Valoramos enormemente tus aportes diarios para continuar perfeccionando nuestro servicio y ofrecerte siempre la mejor experiencia culinaria.

@@ -4,10 +4,10 @@ Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
 Categoría Maps: Cafetería
 Dirección: RG73+PJ3, Cajamarca 06003
-Teléfono: 
-Rating: 
-Reseñas: 
-Sitio web: 
+Teléfono:
+Rating:
+Reseñas:
+Sitio web:
 Latitud: -7.1857334999999996
 Longitud: -78.4959623
 Google Maps: https://www.google.com/maps?cid=8238418210602521888
@@ -18,7 +18,7 @@ Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dgAuWN
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-Te damos la bienvenida a Cafeteria. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en RG73+PJ3, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Te damos una cordial bienvenida a Cafeteria en el sector sur de Cajamarca. Ponemos a tu disposición un espacio acogedor y tranquilo para deleitarte con café recién pasado, bebidas reconfortantes, jugos naturales y ricos complementos dulces o salados para cualquier momento del día. Te esperamos en nuestro local con atención amable y esmerada. Ven a visitarnos durante tus recorridos por la zona y haz una pausa reparadora junto a nosotros.
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -26,162 +26,201 @@ Te damos la bienvenida a Cafeteria. El rincón perfecto para hacer una pausa y r
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
-PREGUNTA 1: Estoy a media cuadra de la Plaza de Armas con el tiempo justo, ¿me sirven un café para llevar de emergencia?
+PREGUNTA 1: ¿Qué tipo de desayunos tradicionales y bebidas calientes sirven a primera hora del día?
 --------------------------------------------------------------------------------
 RESPUESTA 1:
-Nuestra prioridad es atender tus urgencias con rapidez y cordialidad.
+Iniciamos la jornada ofreciendo un menú matinal reconfortante pensado para recargar energías antes de comenzar tus actividades. Servimos café pasado aromático de tueste medio, tazas de chocolate caliente con leche fresca de establos locales y variedad de infusiones herbales.
 
-Apenas cruzas la puerta nos indicas tu pedido en barra y en escasos dos minutos te entregamos tu café caliente pasado en vaso térmico sellado para que continúes tus trámites en el centro sin perder tiempo en Cafetería.
+Acompañamos nuestras bebidas con panes campesinos crocantes rellenos de queso mantecoso cajamarquino, chicharrón dorado con camote frito o huevos revueltos al gusto. Cada plato se elabora al momento para preservar texturas crujientes y aromas intensos.
+
+Nuestra propuesta matutina en Cafeteria se enfoca en brindar calidez y rapidez para quienes necesitan desayunar con sabor casero sin perder tiempo valioso.
 
 --------------------------------------------------------------------------------
-PREGUNTA 2: ¿A cuántos pasos me encuentro de su local si salgo de la Plaza de Armas de Cajamarca?
+PREGUNTA 2: ¿Cuál es la distancia métrica que los separa de la Universidad Nacional de Cajamarca (UNC)?
 --------------------------------------------------------------------------------
 RESPUESTA 2:
-Estamos a tan solo 45 metros de la Plaza de Armas, cruzando la esquina de San Martín con Jirón del Comercio, papachito.
+Nos situamos a una distancia aproximada de 2.07 km (2066 metros) respecto al campus principal de la Universidad Nacional de Cajamarca.
 
-Basta con caminar menos de un minuto para disfrutar de nuestras mesas. Es la ubicación más céntrica y privilegiada para hacer una pausa reconfortante en pleno casco monumental.
+El traslado en transporte público o taxi toma entre cinco y siete minutos siguiendo el corredor vial de la Avenida Atahualpa en sentido sur.
+
+Representa un punto intermedio muy accesible para estudiantes, docentes y trabajadores que se desplazan hacia el sector periurbano y buscan un refrigerio al paso.
 
 --------------------------------------------------------------------------------
-PREGUNTA 3: Olvidé retirar efectivo del cajero, ¿puedo cancelar la cuenta con Yape o tarjeta?
+PREGUNTA 3: ¿Manejan opciones de café pasado e infusiones naturales para acompañar el paso por la zona?
 --------------------------------------------------------------------------------
 RESPUESTA 3:
-Puedes consumir con absoluta tranquilidad pagando desde tu teléfono inteligente.
+Elaboramos café filtrado mediante el método tradicional de gota a gota que extrae notas dulces y cuerpo balanceado sin amargor excesivo. Seleccionamos granos arábicos de valles cercanos que garantizan un aroma profundo reconocible desde la entrada.
 
-Procesamos transferencias directas por Yape y Plin, además de aceptar tarjetas de débito y crédito sin cobros adicionales, para que disfrutes de tu momento sin preocuparte por monedas o billetes.
+Para quienes buscan bebidas descafeinadas, disponemos de mates de hierbaluisa, manzanilla, menta fresca y cedrón cosechados en huertos de la región. Servimos cada infusión humeante con la opción de endulzar con miel de abeja pura o panela granulada.
+
+Nuestras tazas están diseñadas tanto para beber con calma en salón como para llevar en envases térmicos sellados.
 
 --------------------------------------------------------------------------------
-PREGUNTA 4: Mi teléfono celular se quedó casi sin batería, ¿tienen enchufes accesibles junto a las mesas?
+PREGUNTA 4: ¿Tienen disponibles sándwiches artesanales o empanadas recién horneadas para llevar?
 --------------------------------------------------------------------------------
 RESPUESTA 4:
-Te asistimos de inmediato con tomas de corriente disponibles y cables de carga compatibles en barra.
+Mantenemos en exhibición permanente una variedad de opciones saladas horneadas y recién prensadas para solucionar tus antojos diurnos. Destacan nuestras empanadas de carne troceada con cebollita caramelizada y empanadas de pollo con especias andinas.
 
-Podrás recargar tu equipo rápidamente mientras disfrutas de una pausa agradable en un ambiente iluminado y con música a volumen moderado.
+También preparamos sándwiches calientes en pan ciabatta con jamón del país, palta cremosa, lechuga fresca y queso fresco regional. Servimos cada preparación debidamente envuelta para que conserve su temperatura durante el trayecto hacia tu destino.
+
+Todos los alimentos se elaboran a diario respetando los más altos estándares de higiene y rotación constante.
 
 --------------------------------------------------------------------------------
-PREGUNTA 5: Si acabo de recorrer el histórico Cuarto del Rescate, ¿cuántos minutos demoro en llegar a pie?
+PREGUNTA 5: ¿Qué trayecto vehicular o peatonal conecta su ubicación con el Centro Comercial El Quinde?
 --------------------------------------------------------------------------------
 RESPUESTA 5:
-La distancia desde el Cuarto del Rescate es de apenas 150 metros cruzando las calles coloniales.
+La distancia hacia el Centro Comercial El Quinde es de 3.60 km (3596 metros) recorriendo las principales vías colectoras de la ciudad.
 
-En solo dos minutos de caminata descansada llegarás a nuestra puerta en San Martín 382, convirtiéndose en el destino natural para reponer fuerzas con un buen café tras la visita cultural.
+En vehículo particular o transporte urbano el recorrido demanda entre ocho y diez minutos conectando por la Vía de Evitamiento o la Avenida Atahualpa.
+
+Es una conexión fluida que permite a quienes transitan desde el núcleo comercial hacia la salida sur detenerse a disfrutar de un reconfortante refrigerio.
 
 --------------------------------------------------------------------------------
-PREGUNTA 6: La tarde cajamarquina se puso helada y con viento, ¿qué bebida caliente tienen para servir al instante?
+PREGUNTA 6: ¿Se pueden ordenar jugos naturales preparados al instante con frutas frescas del valle?
 --------------------------------------------------------------------------------
 RESPUESTA 6:
-Para combatir el frío andino te servimos de inmediato un chocolate caliente artesanal preparado con cacao selecto o un capuchino con abundante espuma cremosa.
+Preparamos una selección variada de jugos de pura fruta sin conservantes ni esencias artificiales licuados al momento de solicitar tu orden. Podrás disfrutar de jugos de papaya, piña dorada, maracuyá y mezclas surtidas con naranja recién exprimida.
 
-Ambas opciones devuelven la calidez al cuerpo desde el primer sorbo, reconfortándote por completo al abrigo de nuestras instalaciones.
+Ofrecemos además opciones especiales como jugo de fresa con leche fresca o batidos de plátano con avena y algarrobina para un aporte energético superior. Adaptamos la cantidad de dulce según tus preferencias personales o prescindimos del azúcar si lo prefieres.
+
+Cada vaso se sirve bien frío para brindar una sensación refrescante en los días soleados de la serranía.
 
 --------------------------------------------------------------------------------
-PREGUNTA 7: Traigo paquetes y bolsas de artesanías pesadas, ¿me permiten sentarme con bultos en el salón?
+PREGUNTA 7: ¿Aceptan cancelaciones mediante transferencias bancarias o billeteras electrónicas móviles?
 --------------------------------------------------------------------------------
 RESPUESTA 7:
-El confort y la tranquilidad de nuestros visitantes son nuestra máxima prioridad.
+Facilitamos la cancelación de todos tus consumos admitiendo transferencias interbancarias directas y pagos mediante aplicaciones móviles de uso extendido. Ponemos a tu disposición códigos QR impresos en el mostrador para escanear y abonar en cuestión de segundos.
 
-Te ubicamos en mesas holgadas donde resguardar tus compras con total seguridad, permitiéndote estirar las piernas y tomar un café fresco con serenidad.
+Aceptamos igualmente dinero en efectivo en billetes y monedas nacionales con cambio disponible para evitar inconvenientes en tus compras cotidianas.
+
+Completar tu pago en Cafeteria resulta sumamente práctico y seguro, garantizando una atención fluida y sin demoras en tu cuenta.
 
 --------------------------------------------------------------------------------
-PREGUNTA 8: ¿Cuánto demoro en bajar caminando desde el Mirador Santa Apolonia?
+PREGUNTA 8: ¿Cuántos kilómetros deben recorrerse para llegar aquí partiendo desde el Cuarto del Rescate?
 --------------------------------------------------------------------------------
 RESPUESTA 8:
-Nos ubicamos a escasos 340 metros descendiendo por las escalinatas principales.
+Desde el histórico Cuarto del Rescate median 3.83 km (3833 metros) de separación hacia nuestro establecimiento en el sector meridional.
 
-El trayecto a pie toma alrededor de cuatro minutos desembocando con facilidad hacia San Martín, ideal para hacer una sobremesa deliciosa tras subir a contemplar la ciudad.
+El viaje en automóvil o mototaxi toma entre diez y doce minutos descendiendo por el Jirón Amalia Puga hacia la avenida principal que conecta con la zona sur.
+
+Esta ubicación apartada del bullicio céntrico brinda una parada tranquila para transportistas, turistas que exploran la campiña y residentes locales.
 
 --------------------------------------------------------------------------------
-PREGUNTA 9: ¿Disponen de conexión Wi-Fi rápida si requiero revisar pendientes laborales o de estudio?
+PREGUNTA 9: ¿Cuentan con espacio cómodo y tranquilo para tomar un descanso en su salón?
 --------------------------------------------------------------------------------
 RESPUESTA 9:
-Ofrecemos conexión Wi-Fi de alta velocidad para nuestros visitantes en Cafetería.
+Disponemos de un salón sencillo, pulcro y ventilado con mesas bien dispuestas para acoger a familias, trabajadores y viajeros de paso. El mobiliario resulta cómodo y espacioso, permitiendo conversar sin agobios ni ruidos molestos.
 
-Podrás conectarte con tu laptop o celular sin cortes para revisar correos, enviar reportes o coordinar tareas en un espacio tranquilo y cómodo.
+Cuidamos la limpieza de cada mesa retirando vajillas de inmediato y desinfectando superficies tras cada servicio para tu total tranquilidad.
+
+Es el ambiente perfecto para relajarse unos minutos mientras disfrutas de una bebida caliente y revisas tus pendientes con calma.
 
 --------------------------------------------------------------------------------
-PREGUNTA 10: ¿Tienen alfajores o queques preparados con auténtico manjar blanco cajamarquino?
+PREGUNTA 10: ¿Brindan atención rápida para transportistas y personas que transitan por la vía?
 --------------------------------------------------------------------------------
 RESPUESTA 10:
-En vitrina destacan nuestros alfajores artesanales y postres caseros rellenos de manjar blanco tradicional elaborado con leche fresca de establos locales.
+Entendemos las necesidades de quienes viajan por trabajo o cumplen rutas de transporte y disponen de tiempos ajustados para comer. Por ello optimizamos nuestros procesos de barra para servir café caliente y comida empaquetada en menos de tres minutos.
 
-Su dulzor suave y textura sedosa hacen un maridaje perfecto con las notas profundas y aromáticas de nuestro café de especialidad.
+Puedes ingresar, pedir tu refrigerio para llevar y recibirlo en envases herméticos listos para continuar tu viaje sin contratiempos.
+
+Nuestra vocación de servicio prioriza la amabilidad y la eficiencia operativa en cada turno para respaldar tus jornadas laborales.
 
 --------------------------------------------------------------------------------
-PREGUNTA 11: Si me ubico en el Mercado Central, ¿cuál es la forma más fácil de llegar a su puerta?
+PREGUNTA 11: ¿Qué distancia aproximada existe en dirección al Mirador Santa Apolonia?
 --------------------------------------------------------------------------------
 RESPUESTA 11:
-La distancia desde el Mercado Central es de aproximadamente 630 metros.
+La separación que nos vincula con el Mirador del Cerro Santa Apolonia es de 3.84 km (3837 metros) en dirección noroccidental.
 
-Son unas seis cuadras en línea recta por el centro histórico que se caminan en unos siete minutos a paso tranquilo, siendo un trayecto comercial muy seguro y directo.
+El trayecto vehicular se cubre habitualmente en unos doce minutos atravesando la vía rápida hacia las faldas de la colina monumental.
+
+Resulta una referencia clara para los conductores que provienen del circuito sur de Cajamarca y se dirigen hacia los atractivos paisajísticos de la urbe.
 
 --------------------------------------------------------------------------------
-PREGUNTA 12: Llegamos en grupo familiar numeroso sin aviso previo, ¿nos pueden acomodar juntos?
+PREGUNTA 12: ¿Ofrecen alternativas dulces y pasteles para una merienda reconfortante a media tarde?
 --------------------------------------------------------------------------------
 RESPUESTA 12:
-Reorganizamos nuestras mesas modulares en un abrir y cerrar de ojos para acoger a toda tu familia.
+Nuestra vitrina de repostería ofrece porciones generosas de queques caseros elaborados con recetas tradicionales de la región. Servimos queque esponjoso de vainilla con chispas de chocolate, queque de naranja y alfajores rellenos con manjar blanco cajamarquino.
 
-Todos podrán sentarse a compartir una misma charla mientras servimos con agilidad cafés, jugos naturales y sándwiches recién preparados.
+También contamos con porciones de tortas clásicas y galletas artesanales horneadas en el día, perfectas para sumergir en café recién pasado o té caliente.
+
+Estas delicias dulces proporcionan el toque placentero que reconforta el cuerpo y el espíritu durante las tardes frescas del valle.
 
 --------------------------------------------------------------------------------
-PREGUNTA 13: Busco una esquina reservada para una conversación en pareja o privada, ¿el ambiente es discreto?
+PREGUNTA 13: ¿Manejan combos económicos o promociones combinadas de café con bocadillo?
 --------------------------------------------------------------------------------
 RESPUESTA 13:
-El local dispone de rincones cálidos y acogedores, alejados del ingreso principal, con iluminación suave y atmósfera serena.
+Diseñamos promociones especiales que combinan una bebida caliente o jugo natural con un sándwich o empanada a un precio accesible y conveniente. Estas alternativas permiten disfrutar de un desayuno o merienda completa cuidando la economía de nuestros clientes frecuentes.
 
-Son espacios propicios para conversar con intimidad mientras comparten una infusión aromática o una porción de tarta casera.
+Renovamos nuestras sugerencias del día según la temporada para ofrecer variedad constante de combinaciones apetitosas y contundentes.
+
+Elegir un combo en Cafeteria te garantiza nutrición, frescura y ahorro en una sola experiencia gastronómica.
 
 --------------------------------------------------------------------------------
-PREGUNTA 14: ¿A cuántos minutos en taxi se encuentra su establecimiento desde el Real Plaza?
+PREGUNTA 14: ¿A cuántos kilómetros de distancia se ubican respecto al Complejo Termal Baños del Inca?
 --------------------------------------------------------------------------------
 RESPUESTA 14:
-Desde el centro comercial la distancia es de 1.3 kilómetros hacia el centro monumental.
+La distancia hacia el afamado Complejo Termal Baños del Inca es de 3.90 km (3905 metros) conectando a través de las vías transversales del valle.
 
-Abordando un taxi tardarás unos cinco minutos en llegar hasta San Martín con Jirón del Comercio, permitiéndote cambiar las compras comerciales por la paz de un café colonial.
+En automóvil o colectivo el trayecto se realiza en aproximadamente ocho a diez minutos de viaje panorámico y despejado.
+
+Constituye una parada estratégica para quienes regresan o van camino a los baños termales y desean detenerse a tomar un café reconfortante.
 
 --------------------------------------------------------------------------------
-PREGUNTA 15: Evito la leche entera y el azúcar, ¿tienen alternativas saludables en carta?
+PREGUNTA 15: ¿Garantizan la frescura y la higiene adecuada en todos los insumos de su barra?
 --------------------------------------------------------------------------------
 RESPUESTA 15:
-Preparamos tus cafés y capuchinos con leche vegetal de almendras o soya según tu elección.
+Cumplimos con estrictas prácticas de manipulación higiénica de alimentos en todas las etapas de recepción, almacenaje y servicio diario. El personal mantiene su indumentaria limpia, utiliza implementos de protección y desinfecta periódicamente mesas y vajillas.
 
-Asimismo, contamos con infusiones digestivas de hierbas andinas sin endulzantes añadidos para que cuides tu salud sin renunciar al buen sabor.
+Los productos lácteos y cárnicos se resguardan en equipos de refrigeración con monitoreo constante para asegurar su óptimo estado biológico.
+
+Comer en nuestro local te brinda la certeza de recibir preparaciones sanas, limpias y elaboradas con ingredientes de excelente calidad.
 
 --------------------------------------------------------------------------------
-PREGUNTA 16: ¿Puedo pedir café en grano o molido con el tueste de la casa para llevar de viaje?
+PREGUNTA 16: ¿Disponen de opciones de bebidas calientes sin cafeína o aptas para niños?
 --------------------------------------------------------------------------------
 RESPUESTA 16:
-Mantenemos paquetes de café selecto cosechado en valles de altura del norte peruano.
+Pensando en los más pequeños y en quienes evitan la cafeína, ofrecemos leche caliente sola o con toques de vainilla natural, cocoa tibia e infusiones suaves. Preparamos además ricas avenas espesas cocidas con manzana, canela y clavo de olor para un desayuno muy nutritivo.
 
-Realizamos la molienda al instante de acuerdo al método que utilices en casa, empacado herméticamente para preservar toda la fragancia de Cafetería.
+Nuestras bebidas infantiles se sirven a temperaturas templadas y seguras para evitar quemaduras accidentales en los comensales menudos.
+
+Toda la familia encuentra opciones adaptadas a sus gustos y necesidades particulares en nuestra carta.
 
 --------------------------------------------------------------------------------
-PREGUNTA 17: ¿Atienden los domingos por la tarde para salir a merendar con la familia?
+PREGUNTA 17: ¿En qué rango horario brindan servicio continuo durante los días laborables y fines de semana?
 --------------------------------------------------------------------------------
 RESPUESTA 17:
-Abrimos todos los días de la semana, incluidos los domingos en horario corrido.
+Atendemos de lunes a sábado desde primeras horas de la mañana, habitualmente a partir de las 7:00 a.m., para abastecer a los trabajadores matutinos. Nuestro servicio se extiende de manera continua a lo largo de la tarde para acompañar almuerzos ligeros y lonches hasta las 8:00 p.m.
 
-Es un momento predilecto para compartir la sobremesa con padres e hijos al abrigo de nuestras instalaciones en el corazón de Cajamarca.
+Los fines de semana mantenemos horarios similares para atender a viajeros y familias que recorren la campiña cajamarquina en sus días libres.
+
+Te garantizamos la misma disponibilidad de alimentos frescos y café recién preparado sin importar la hora en que decidas visitarnos.
 
 --------------------------------------------------------------------------------
-PREGUNTA 18: ¿Tienen sándwiches calientes o empanadas para quienes prefieren opciones saladas?
+PREGUNTA 18: ¿Tienen facilidades para estacionar vehículos o motos de manera rápida al frente del local?
 --------------------------------------------------------------------------------
 RESPUESTA 18:
-Nuestra carta cuenta con empanadas recién horneadas, sándwiches artesanales calientes y tostadas especiales preparadas al instante con insumos frescos de la región.
+En las inmediaciones exteriores del local existe espacio suficiente en la calzada para parquear automóviles, camionetas o motocicletas de forma momentánea. Esta amplitud permite realizar paradas rápidas sin obstaculizar el tránsito ni perder tiempo buscando estacionamientos cerrados.
 
-Son porciones reconfortantes ideales para resolver un desayuno nutritivo o una cena ligera al caer la tarde.
+Puedes descender con tranquilidad, hacer tu pedido en barra o consumir en salón manteniendo siempre tu movilidad a la vista.
+
+Esta ventaja vial resulta especialmente apreciada por choferes de reparto, transportistas y personas que se trasladan en vehículo propio.
 
 --------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo es la accesibilidad para personas de la tercera edad o coches de bebé?
+PREGUNTA 19: ¿De qué manera conciben la atención al cliente para que cada visita sea grata y cercana?
 --------------------------------------------------------------------------------
 RESPUESTA 19:
-El ingreso a nuestro salón principal es directo a nivel de la calle en San Martín, sin desniveles pronunciados que dificulten el acceso.
+Consideramos que la amabilidad sincera y el trato respetuoso son tan esenciales como el buen sabor de nuestras comidas y bebidas. Nos esmeramos por saludar con calidez, escuchar con atención tus pedidos y servirte con prontitud y una sonrisa genuina.
 
-Esto permite una entrada fluida y segura tanto para adultos mayores como para familias que trasladan coches infantiles.
+Buscamos que te sientas como en casa desde el primer instante, disfrutando de un servicio honesto que valora tu preferencia diaria.
+
+Esa cercanía humana y familiar es el sello que distingue a Cafeteria como un punto querido por los vecinos y transeúntes del sector.
 
 --------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por qué medio puedo verificar si hay mesas libres antes de acercarme al local?
+PREGUNTA 20: ¿Cómo puedo contactarme para encargar paquetes de refrigerios o consultar la disponibilidad diaria?
 --------------------------------------------------------------------------------
 RESPUESTA 20:
-La manera más rápida es comunicarte a través de nuestro WhatsApp oficial y canales digitales.
+Puedes visitarnos de forma directa en nuestro mostrador o consultar la preparación de pedidos especiales comunicándote en tus paradas habituales. Con anticipación podemos alistar docenas de sándwiches, empanadas y termos de café para cuadrillas de trabajo o delegaciones.
 
-Te responderemos al instante para confirmar el aforo disponible o coordinar la reserva de tu mesa favorita en Cafetería.
-================================================================================
+Nos aseguramos de tener tu encargo debidamente empaquetado y a la temperatura adecuada para la hora convenida con total responsabilidad.
+
+Estaremos encantados de atenderte y brindarte soluciones prácticas para la alimentación de tus grupos o tu rutina personal diaria.
