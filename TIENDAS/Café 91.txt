@@ -3,7 +3,7 @@ Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
 Categoría Maps: Cafetería, Tienda de postres, Hamburguesería, Restaurante
-Dirección: Jr, Amalia Puga 961, Cajamarca 06002
+Dirección: Jr. Amalia Puga 961, Cajamarca 06002
 Teléfono: 976 891 091
 Rating: 4.3
 Reseñas: 128
@@ -13,169 +13,153 @@ Longitud: -78.5147795
 Google Maps: https://www.google.com/maps?cid=15803893670781427193
 Place Id: ChIJKcmoWtdbspER-Z34mo-1Uts
 Fotos: Café 91.jpg
-Link foto: https://lh3.googleusercontent.com/p/AF1QipN-placeholder=w1600-h1200-k-no
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la más cordial bienvenida a Café 91! Situados en Jr. Amalia Puga 961, somos el punto de encuentro moderno y vibrante en el centro histórico de Cajamarca. Disfruta de selectos cafés de especialidad con arte latte, frappuccinos indulgentes, hamburguesas gourmet caseras, alitas crujientes, sándwiches artesanales y repostería recién horneada en una atmósfera acogedora y juvenil. Visítanos en cualquier momento del día y vive una experiencia gastronómica llena de sabor y buena onda.
 ================================================================================
-================================================================================
-Texto de bienvenida:
-En Café 91 te damos la bienvenida a un vibrante espacio gastronómico en el jirón Amalia Puga 961 en Cajamarca. Con más de ciento veinte reseñas favorables, combinamos la pasión por el café de especialidad de altura con hamburguesas artesanales smash, postres caseros de autor, sándwiches contundentes y bebidas refrescantes. Disfruta de un ambiente juvenil, música selecta y atención dinámica para tus salidas con amigos o en familia. ¡Ven a vivir una experiencia cargada de sabor y buen rollo!
-================================================================================
 
-1. ¿Qué métodos de extracción y cafés especiales destacan en la barra?
+--------------------------------------------------------------------------------
+20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
+--------------------------------------------------------------------------------
 
-En nuestra barra cafetera trabajamos con granos arábicos de estricta altura procedentes de Jaén y San Ignacio, tostados artesanalmente para resaltar sus notas de panela dulce, cacao puro y frutos secos.
+1. ¿Qué métodos de preparación y variedades de café de especialidad ofrecen en su barra?
+En nuestra barra barista preparamos café expreso concentrado, americano aromático, capuchinos con arte latte en leche cremosa y lattes saborizados con vainilla o caramelo.
 
-Servimos espressos concentrados con densa crema avellana, cappuccinos aterciopelados con leche emulsionada a temperatura precisa, lattes suaves con arte latte y café americano limpio. Cada bebida se prepara con granos recién molidos.
+Disponemos asimismo de métodos filtrados como chemex y v60 empleando granos arábicos de estricta altura procedentes de Jaén y San Ignacio con tueste medio fresco.
 
-Ofrecemos también métodos de extracción manual como V60, Chemex y prensa francesa, extrayendo las notas más sutiles y aromáticas del grano peruano para el deleite de los aficionados al buen café.
+Café 91 calibra sus molinos a diario para asegurar extracciones limpias que resaltan una acidez brillante, notas achocolatadas y un aroma intenso en cada taza.
 
-2. ¿A qué distancia se encuentra Café 91 respecto al Cuarto del Rescate?
+2. ¿A qué distancia se encuentra el establecimiento respecto al Mercado Central de Cajamarca?
+El local se sitúa a solo 125 metros en línea recta hacia el sur de las instalaciones del Mercado Central de Cajamarca.
 
-El restaurante se localiza a solo 249 metros (0.25 km) del Cuarto del Rescate, lo que representa una caminata de apenas tres minutos recorriendo el jirón Amalia Puga. Es una conexión peatonal directa y sumamente cómoda.
+Esta cercanía representa una caminata de escasamente dos minutos transitando por la tradicional calle Amalia Puga en el casco monumental.
 
-Turistas nacionales y extranjeros que concluyen sus visitas guiadas por el monumento incaico pueden acercarse con facilidad para almorzar hamburguesas o disfrutar de un café reconfortante. La ruta discurre por calles coloniales seguras.
+Dicha proximidad resulta muy práctica para quienes realizan compras cotidianas en el centro y desean disfrutar de una merienda moderna y reconfortante.
 
-Esta corta distancia sitúa al local como una excelente alternativa gastronómica céntrica sin necesidad de tomar transporte motorizado.
+3. ¿Qué tipos de hamburguesas caseras gourmet y alitas crujientes tienen en su carta?
+Preparamos hamburguesas artesanales con carne de res jugosa seleccionada, queso cheddar fundido, tocino crocante, cebolla caramelizada y salsa especial de la casa.
 
-3. ¿Cuáles son las hamburguesas artesanales smash y sándwiches contundentes de la carta?
+En alitas servimos porciones doradas y crujientes bañadas en salsa barbecue ahumada, salsa de maracuyá agridulce o salsa picante estilo búfalo.
 
-Nuestra carta resalta por las hamburguesas smash elaboradas con medallones de pura res prensados al calor vivo de la plancha para lograr una costra crocante y caramelizada deliciosa. Se sirven en panes brioche suaves tostados con mantequilla.
+Todas las hamburguesas y alitas se acompañan de papas nativas fritas doradas al momento garantizando una textura crocante y un sabor irresistible.
 
-Sobresalen la hamburguesa clásica con queso cheddar fundido y tocino ahumado, la opción con cebolla caramelizada y salsa BBQ de la casa, y la hamburguesa con huevo montado. Cada creación se acompaña de papas fritas rústicas doradas.
+4. ¿Qué variedad de repostería casera, cheesecakes y postres tienen en vitrina?
+Nuestras vitrinas exhiben cheesecakes horneados con frutos rojos andinos, torta húmeda de chocolate con abundante fudge artesanal y pie de limón dorado.
 
-Disponemos asimismo de sándwiches contundentes de pollo crispy, mixto caliente con abundante queso andino cajamarquino y sándwich de lomo saltado al wok.
+Disponemos además de brownies tibios con helado artesanal, queques esponjosos del día, galletas con chispas de cacao y alfajores de maicena con manjar blanco.
 
-4. ¿Qué variedad de postres caseros y repostería fina ofrecen para el lonche?
+Cada postre se hornea en el día siguiendo recetas caseras que combinan técnicas modernas con la riqueza de los lácteos de los establos cajamarquinos.
 
-Nuestra vitrina exhibe porciones generosas de torta húmeda de chocolate cubierta de fudge artesanal denso, pie de manzana clásico perfumado con canela andina y cheesecake horneado con mermelada de frutos rojos.
+5. ¿Cuál es la distancia entre la cafetería y la histórica Plaza de Armas de Cajamarca?
+El establecimiento está ubicado a 299 metros en línea recta en dirección suroeste respecto a la Plaza de Armas de Cajamarca.
 
-Servimos además carrot cake especiado con nueces tostadas y frosting de queso crema, brownies tibios con nueces acompañados de helado artesanal y alfajores suaves de maicena con manjar blanco cajamarquino. Maridan a la perfección con café.
+El recorrido peatonal se completa con facilidad en unos tres a cuatro minutos caminando tranquilamente por las calles coloniales de la zona monumental.
 
-Cada postre equilibra la dulzura para brindar una experiencia suave y muy agradable al paladar en compañía de amigos.
+Esta localización céntrica permite a turistas y residentes acceder rápidamente sin necesidad de utilizar transporte motorizado ni alejarse del patrimonio histórico.
 
-5. ¿Cuál es la separación exacta hacia la histórica Iglesia San Francisco?
+6. ¿Cuentan con frappuccinos batidos, iced lattes y bebidas frías refrescantes?
+Preparamos frappuccinos cremosos batidos con hielo, café expreso, jarabes dulces y crema chantilly, además de iced lattes refrescantes con leche texturizada en frío.
 
-La separación hacia la Iglesia San Francisco de Cajamarca es de 312 metros (0.31 km), demandando una caminata de unos cuatro minutos por las vías tradicionales. Conecta de forma continua el complejo religioso con el local.
+Ofrecemos también jugos de frutas naturales recién licuados de papaya y piña, tés helados aromatizados con cítricos andinos y gaseosas heladas en formatos personales.
 
-Paseantes y feligreses que visitan las catacumbas y los claustros coloniales pueden llegar de inmediato a nuestra sede para almorzar o merendar en un ambiente alegre. La ruta es sumamente segura, vistosa y comercial.
+Estas opciones frías son sumamente cotizadas durante los mediodías soleados brindando frescura y energía para continuar la jornada con el mejor ánimo.
 
-La corta distancia sitúa al negocio como uno de los espacios preferidos para encuentros juveniles y familiares en el centro histórico.
+7. ¿Qué opciones de desayunos y sándwiches artesanales preparan durante la mañana?
+Servimos sándwiches en pan ciabatta rústico con pechuga de pollo deshilachada y palta, cruasanes calientes con jamón y queso andino fundido y tostadas doradas.
 
-6. ¿Cómo opera el servicio de órdenes para llevar y despacho a domicilio?
+Contamos además con desayunos completos que incluyen ensalada de frutas de estación, yogur artesanal con granola, jugo natural y café caliente recién pasado.
 
-Los comensales pueden realizar sus pedidos en el mostrador del jirón Amalia Puga 961 y aguardar cómodamente en el local mientras el personal elabora los platillos al instante. El empaque térmico preserva el calor y la frescura.
+Nuestras alternativas matutinas brindan el balance nutricional ideal para comenzar el día con dinamismo en un salón cómodo, ventilado y lleno de luz.
 
-Para despachos a domicilio en el centro urbano, coordinamos pedidos comunicándose al número de WhatsApp oficial del establecimiento y plataformas de delivery locales. Los motorizados entregan con diligencia y cuidado.
+8. ¿Qué distancia separa al local del mirador de la Colina Santa Apolonia?
+El negocio dista 423 metros en línea recta en dirección este respecto al mirador y escalinatas de la Colina Santa Apolonia.
 
-Las hamburguesas y postres viajan en cajas térmicas rígidas con respiraderos adecuados para que no pierdan su textura crujiente durante el transporte.
+El trayecto a pie toma alrededor de cinco a seis minutos transitando por las vías empedradas tradicionales del entorno colonial cajamarquino.
 
-7. ¿Qué bebidas frías, milkshakes y cócteles ligeros preparan?
+Constituye una escala gastronómica perfecta tras visitar las alturas del mirador para reponer fuerzas con una hamburguesa gourmet o un café aromático.
 
-Preparamos milkshakes espesos licuados al momento con helados artesanales de vainilla o chocolate y leche fresca del valle, decorados con crema chantilly y chispas de cacao. Son los preferidos de los jóvenes.
+9. ¿Cómo es el ambiente y la decoración interior del local para reuniones de amigos?
+El local presenta un diseño contemporáneo y juvenil con iluminación cálida, detalles de vegetación natural, mesas amplias y cómodos sillones acolchados.
 
-Servimos frappés licuados a base de café de especialidad, hielo finamente granizado y esencias caseras de caramelo o avellana, perfectos para las tardes soleadas. Son bebidas energizantes y muy deliciosas.
+La música pop e independiente a volumen moderado crea una atmósfera alegre y dinámica que propicia amenas conversaciones entre amigos, citas o reuniones de estudio.
 
-Disponemos también de limonadas caseras saborizadas con hierbabuena fresca, jugos naturales de frutas andinas y cervezas bien heladas para acompañar las hamburguesas.
+Café 91 se ha consolidado como uno de los espacios favoritos de la juventud y las familias cajamarquinas gracias a su onda moderna y trato hospitalario.
 
-8. ¿Qué distancia media hay hacia la histórica Plaza de Armas de Cajamarca?
+10. ¿Se pueden solicitar pedidos para llevar o empaque seguro para entrega rápida?
+Empacamos todas nuestras hamburguesas, sándwiches calientes, cafés y postres en envases térmicos rígidos y biodegradables que conservan la comida caliente.
 
-Nos situamos a 413 metros (0.41 km) de la Plaza de Armas de Cajamarca, representando una caminata de unos cinco minutos descendiendo por las aceras de Amalia Puga. Conecta directamente la plaza mayor con el restaurante.
+Los clientes pueden coordinar sus pedidos previamente vía mensajería o redes sociales para retirarlos en barra rápidamente sin demoras innecesarias.
 
-Familias y parejas que pasean por los soportales y la catedral suelen acercarse para cenar o merendar en un ambiente relajado y moderno. El acceso peatonal es totalmente directo y seguro.
+Esta modalidad express se adapta a la dinámica de trabajadores y estudiantes con horarios ajustados que desean comer sabroso y de calidad en casa u oficina.
 
-Es un punto muy cómodo para reunirse tras culminar gestiones administrativas o paseos turísticos por la ciudad.
+11. ¿A qué distancia aproximada se encuentra el local de MegaPlaza El Quinde?
+El establecimiento está situado a 843 metros en línea recta en dirección oeste respecto al centro comercial MegaPlaza El Quinde.
 
-9. ¿Tienen combos de hamburguesa o promociones especiales durante la semana?
+En taxi o mototaxi el recorrido se realiza fluidamente en unos tres minutos transitando por las avenidas transversales que comunican el centro con el sector este.
 
-Ofrecemos combos personales que integran hamburguesa smash a elección, porción generosa de papas fritas y bebida personal por un precio promocional muy asequible para incentivar las salidas juveniles. Son muy concurridos.
+Esta cercanía permite a quienes concluyen sus compras en la zona moderna desplazarse fácilmente hacia nuestro local para cenar o merendar con tranquilidad.
 
-Presentamos también promociones vespertinas de café con postre casero a precio especial durante los días laborables para trabajadores y estudiantes. Anunciamos las novedades en nuestras cartillas y redes sociales.
+12. ¿Qué tipos de infusiones naturales andinas y chocolates calientes sirven en la carta?
+Servimos chocolate caliente tradicional preparado con pasta de cacao puro al setenta por ciento, leche entera de establo andino y un toque suave de canela.
 
-Recomendamos consultar al personal por la promoción vigente del día para aprovechar los mejores descuentos en cada visita.
+En infusiones naturales ofrecemos mezclas de hierbaluisa aromática, menta silvestre, muña serrana digestiva y flor de manzanilla recolectadas en huertos del valle.
 
-10. ¿De qué formas se puede cancelar la cuenta en mesa?
+Estas bebidas calientes abrigan el cuerpo durante las tardes frescas de la sierra andina proporcionando aromas limpios y una reconfortante sensación de calor.
 
-Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, entregando cambio menudo con cortesía y extendiendo la boleta electrónica de venta de inmediato. La atención en caja es sumamente diligente.
+13. ¿Qué medios de pago electrónicos y modalidades aceptan en el mostrador?
+Aceptamos pagos móviles inmediatos a través de las aplicaciones digitales Yape y Plin mediante la lectura del código QR oficial disponible en caja.
 
-Recibimos transferencias móviles instantáneas mediante códigos QR de Yape y Plin habilitados en la barra de atención y en las mesas. Es una modalidad moderna, rápida y sumamente cómoda para los comensales.
+Procesamos cobros con tarjetas bancarias de débito y crédito a través de terminales electrónicos inalámbricos y recibimos pagos en efectivo con cambio en soles.
 
-Aceptamos asimismo pagos con tarjetas de débito y crédito a través de terminales electrónicos inalámbricos POS.
+Emitimos boletas y facturas electrónicas de venta garantizando formalidad comercial, transparencia y rapidez en cada cuenta atendida.
 
-11. ¿A cuántos metros queda el Mirador del Cerro Santa Apolonia?
+14. ¿Cuál es la distancia hacia las instalaciones del Terminal Terrestre de Cajamarca?
+El establecimiento se localiza a 1.51 kilómetros en línea recta hacia el noroeste de las instalaciones del Terminal Terrestre de Cajamarca.
 
-El restaurante dista 525 metros (0.52 km) del Mirador de Santa Apolonia, demandando una caminata de unos seis a siete minutos hacia la escalinata de piedra. Conecta la calle Amalia Puga con el mirador tutelar.
+El tiempo de traslado vehicular en taxi privado o servicio de mototaxi suele tardar entre cuatro y seis minutos por las vías colectoras directas.
 
-Visitantes que descienden tras contemplar la panorámica del valle suelen hacer una escala en nuestro salón para recuperar energías con hamburguesas contundentes o café caliente. La senda discurre por calles tradicionales bien iluminadas.
+Dicha cercanía resulta muy conveniente para los viajeros que acaban de llegar a la ciudad y buscan un refugio moderno donde comer una buena hamburguesa o tomar café.
 
-Representa un punto de avituallamiento sumamente estratégico y placentero antes o después del ascenso pedestre.
+15. ¿Cómo garantizan la frescura y la calidad de los ingredientes empleados en su cocina?
+Elaboramos todos nuestros productos bajo estrictas normas de higiene alimentaria, desinfección continua de vegetales y almacenamiento refrigerado de carnes.
 
-12. ¿Qué normas de inocuidad y salubridad rigen en la cocina del establecimiento?
+Adquirimos granos de café de tostado reciente, carnes de primera calidad y lácteos frescos de establos locales asegurando pureza y sabor excepcional.
 
-En Café 91 aplicamos rigurosos procedimientos higiénicos que comprenden la sanitización continua de planchas, freidoras, mesadas de trabajo y barras de servicio. El equipo de cocina viste uniformes reglamentarios con cofias.
+Café 91 asume el compromiso inquebrantable de brindar alimentos sabrosos, frescos y seguros para cuidar el bienestar de todos sus comensales.
 
-Los medallones cárnicos y embutidos se conservan en cámaras refrigeradas bajo temperaturas controladas para asegurar frescura absoluta en cada hamburguesa. Las verduras se lavan y desinfectan minuciosamente antes del corte.
+16. ¿Se pueden coordinar reservas de mesas para aniversarios o cumpleaños grupales?
+Coordinamos reservas de mesas con anticipación para celebraciones de cumpleaños juveniles, aniversarios de parejas o reuniones de amigos en horarios pactados.
 
-El salón de atención y los baños se asean con frecuencia programada a lo largo del día para brindar absoluta tranquilidad a los clientes.
+Brindamos facilidades para acordar combos de hamburguesas, rondas de alitas, bebidas frías y porciones de torta para una atención ordenada y sin esperas.
 
-13. ¿Cómo es el diseño y la ambientación en el salón de Amalia Puga 961?
+El equipo de salón se esmera por brindar un trato dinámico y entusiasta procurando que los homenajeados y sus invitados disfruten de una velada inolvidable.
 
-El local en el jirón Amalia Puga 961 presenta un diseño juvenil, contemporáneo y urbano, combinando elementos industriales, maderas cálidas, murales decorativos y luminarias modernas que generan un entorno muy instagrameable.
+17. ¿Cuentan con conexión a internet inalámbrica gratuita para los clientes del salón?
+Ofrecemos red wifi de alta velocidad gratuita en todo el local permitiendo que los comensales revisen redes sociales, trabajen o compartan fotos de su visita.
 
-Disponemos de mesas confortables para grupos de amigos y parejas, además de una barra cómoda donde sentarse a disfrutar de bebidas o café. La música de fondo combina indie rock, pop latino y ritmos actuales a volumen moderado.
+La comodidad de las instalaciones y la buena cobertura de señal complementan la experiencia haciendo que la estancia resulte muy grata y conectada.
 
-El personal atiende con energía, amabilidad y buen humor, preocupándose por mantener un ambiente dinámico y muy ameno en cada mesa.
+Esta facilidad digital es muy valorada por jóvenes universitarios y turistas que desean planificar sus recorridos por la ciudad mientras degustan su pedido.
 
-14. ¿Qué tan lejos se ubica el tradicional Mercado Central de Cajamarca?
+18. ¿Disponen de opciones de bebidas calientes con leches vegetales para dietas especiales?
+Contamos con alternativas de leche vegetal de almendra y soya para sustituir la leche tradicional en cafés y capuchinos a solicitud del cliente.
 
-El establecimiento se encuentra a 565 metros (0.57 km) del Mercado Central de Cajamarca, demandando unos seis a siete minutos de caminata a paso regular. Conecta el mercado de abastos con la parte alta de Amalia Puga.
+En nuestra carta indicamos con claridad opciones vegetarianas en sándwiches y postres reducidos en azúcar refinada para comensales con requerimientos específicos.
 
-Compradores y comerciantes del casco urbano pueden trasladarse con gran facilidad hacia nuestra sede para almorzar sabroso o merendar en un clima relajado. El trayecto discurre por arterias comerciales pavimentadas.
+Nos esforzamos por brindar alternativas inclusivas que permitan a todas las personas disfrutar plenamente de la gastronomía de nuestra casa.
 
-Esta cercanía facilita además la adquisición diaria de hortalizas frescas y carnes de primera calidad empleadas en nuestras preparaciones.
+19. ¿Cuál es el horario de atención al público durante la semana y días festivos?
+Atendemos de lunes a sábado desde las nueve de la mañana hasta las diez de la noche cubriendo desayunos, almuerzos, lonches y cenas juveniles.
 
-15. ¿Qué carnes e insumos seleccionan para las hamburguesas smash?
+Los días domingos abrimos en horario continuado de tarde y noche para recibir a las familias y grupos de amigos que pasean por el centro histórico.
 
-Utilizamos carne molida fresca proveniente de cortes seleccionados de res con la proporción óptima de grasa para asegurar que el medallón se caramelice intensamente en la plancha sin perder su jugosidad interior.
+Durante temporadas festivas y carnavales mantenemos atención ininterrumpida para brindar una cálida bienvenida a los numerosos visitantes de Cajamarca.
 
-Los panes brioche son elaborados artesanalmente por panaderos locales con mantequilla de vaca pura, presentando una miga esponjosa y resistente que sostiene los jugos y salsas sin desarmarse. No usamos panes industriales.
+20. ¿Qué hace tan popular y querida la propuesta de este establecimiento en Cajamarca?
+La combinación de café de especialidad de alto nivel con hamburguesas artesanales contundentes y una repostería tentadora define nuestra identidad.
 
-Las papas fritas son cortadas en bastones regulares y fritas en aceite vegetal renovado constantemente, asegurando una textura crocante y dorada.
+La frescura de los ingredientes, el ambiente juvenil y moderno y la atención ágil y cercana convierten cada visita en un auténtico deleite urbano.
 
-16. ¿Qué cualidades distinguen el servicio y la calidez del personal?
-
-Nuestro personal se caracteriza por una atención dinámica, risueña y muy atenta, explicando con entusiasmo los tipos de hamburguesas y sugiriendo combinaciones con bebidas frías o cafés según la ocasión.
-
-Nos esforzamos por despachar los pedidos en tiempos breves para que las hamburguesas y los platillos calientes salgan humeantes a la mesa, garantizando una estadía gratificante a cada visitante. El cliente es siempre la prioridad.
-
-Agradecemos sinceramente las valoraciones positivas de quienes nos recomiendan en redes sociales como un punto imperdible de sabor urbano.
-
-17. ¿Qué alternativas existen para el estacionamiento temporal de vehículos?
-
-En el jirón Amalia Puga y las calles aledañas es posible estacionar momentáneamente motocicletas y vehículos particulares en zonas autorizadas de la calzada. La vía presenta una circulación vehicular pausada.
-
-Quienes recogen encargos para llevar pueden detenerse unos minutos frente al establecimiento de manera ordenada sin generar congestión de tránsito. La zona cuenta con buena visibilidad e iluminación nocturna.
-
-Se aconseja estacionar respetando los accesos residenciales y peatonales contiguos para preservar el orden y la armonía comunitaria.
-
-18. ¿Cómo protegen las hamburguesas y postres en despachos para llevar?
-
-Empacamos las hamburguesas en papeles antigrasa especiales y cajas térmicas rígidas con respiraderos que evitan que el pan se humedezca durante el transporte. Cada porción llega caliente y compacta.
-
-Las salsas caseras y cremas se suministran en pocillos plásticos sellados independientes para que el comensal dosifique los aderezos a su gusto. Las bebidas calientes viajan en vasos térmicos con tapas dosificadoras herméticas.
-
-Los repartidores manejan mochilas térmicas aisladas asegurando que los alimentos lleguen en óptimas condiciones de temperatura y frescura.
-
-19. ¿Cómo se concibió la propuesta gastronómica de Café 91?
-
-Café 91 nació con la visión de fusionar lo mejor de la cafetería de especialidad con la energía de la comida rápida artesanal urbana, creando un espacio moderno y acogedor donde converjan diversas generaciones de cajamarquinos.
-
-Desde sus comienzos, la marca apostó por insumos frescos de alta calidad, técnicas gastronómicas contemporáneas y un servicio cercano y lleno de buena onda. La dedicación se refleja en cada bocado y cada taza servida.
-
-Nuestra meta permanente sigue siendo brindar una experiencia sabrosa, divertida y memorable para compartir entre amigos.
-
-20. ¿En qué franja horaria atienden al público en Amalia Puga?
-
-Atendemos al público de lunes a sábado desde las diez de la mañana hasta las diez y media de la noche de manera corrida, abarcando desde los almuerzos tempranos hasta las meriendas y cenas nocturnas.
-
-Los domingos abrimos en horario vespertino para acompañar las salidas de fin de semana con las mejores hamburguesas y postres caseros. Toda la variedad de cafés, sándwiches y bebidas se encuentra disponible.
-
-Para consultar sobre reservas de mesas o coordinar pedidos anticipados por WhatsApp, los usuarios pueden comunicarse directamente a nuestras líneas de contacto oficiales.
+Café 91 se consagra como uno de los destinos gastronómicos predilectos del centro monumental para compartir buena mesa, amistad y momentos inolvidables.
