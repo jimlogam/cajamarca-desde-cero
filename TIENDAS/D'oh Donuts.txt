@@ -1,7 +1,7 @@
 Nombre: D'oh Donuts
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Comercio_Minorista
-Subrubro: Bodegas
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Panaderias_y_Pastelerias
+Subrubro: Pasteleria_y_Tortas
 Categoría Maps: Tienda de donuts
 Dirección: Los Cedros 122, Cajamarca 06001
 Teléfono: 959 890 076
@@ -13,257 +13,153 @@ Longitud: -78.52118449999999
 Google Maps: https://www.google.com/maps?cid=1603778573204954703
 Place Id: ChIJMYhnl2pbspERT55Deh3EQRY
 Fotos: D'oh Donuts.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLe_LJwK28IqSTIY7gFVlAmvRfEPeDXC6DY0q7327ChuLsu5MFIZV0U6Ybhh3dhVH04O2obmY7yJ23WjL58is9yfgHdSfy1sdISl6HUGaZjCBcd1Sf9tDVnDh1_tRcRjwdZkbyk2Fw=w1600-h1200-k-no
-Nota: Sin categoria clara en Maps; clasificado como restaurante general
 
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-¡Te damos la más cálida bienvenida a D'oh Donuts! Ven a disfrutar de la auténtica comida tradicional cajamarquina y platos a la carta preparados con recetas caseras, insumos frescos del valle y la sazón incomparable de nuestra cocina. Te esperamos en Los Cedros 122, Cajamarca para brindarte un ambiente acogedor, porciones generosas y atención esmerada. Haz tu reserva o pide por delivery escribiéndonos al WhatsApp hoy.
+¡Te damos la más dulce bienvenida a D'oh Donuts! Ubicados en Los Cedros 122, somos la primera donutería y pastelería artesanal temática de Cajamarca. Disfruta de donas esponjosas recién horneadas con glaseados de chocolate belga, fresa, manjarblanco cajamarquino, crema pastelera y toppings crocantes. Acompáñalas con cafés aromáticos, frappés y bebidas frías en un ambiente acogedor. Ven a celebrar tus momentos especiales o pide tus cajas surtidas para llevar y compartir.
 ================================================================================
 
 --------------------------------------------------------------------------------
 20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
 --------------------------------------------------------------------------------
 
---------------------------------------------------------------------------------
-PREGUNTA 1: ¿Qué ingredientes, preparación y presentación destacan en Seco de cabrito con frejoles en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-La preparación de Seco de cabrito con frejoles se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de restaurante campestre.
+1. ¿Qué sabores de donas artesanales y rellenos especiales preparan a diario?
+Elaboramos masas fermentadas con mantequilla pura que dan como resultado donas suaves, aireadas y con la esponjosidad perfecta en cada mordisco.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Ofrecemos rellenos clásicos de manjarblanco cajamarquino de leche pura, crema pastelera a la vainilla, fudge de chocolate intenso y mermeladas de frutos rojos.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+En D'oh Donuts decoramos cada unidad con glaseados brillantes de fresa, chocolate blanco, oreo triturado, grageas de colores y canela fina espolvoreada.
 
-En D'oh Donuts cuidamos cada detalle en Los Cedros 122, Cajamarca para hacer de tu experiencia con Seco de cabrito con frejoles un motivo para volver siempre.
+2. ¿A qué distancia se encuentra la tienda respecto a la histórica Plaza de Armas de Cajamarca?
+El establecimiento está situado a 1.12 kilómetros en línea recta hacia el noroeste de la Plaza de Armas de Cajamarca.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Mazamorra morada en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Cada orden de Mazamorra morada se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+En mototaxi o vehículo particular el recorrido suele tomar entre cuatro y cinco minutos bordeando las calles del barrio San José y Los Cedros.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Esta separación del bullicio vehicular del damero central convierte a nuestro local en un rincón tranquilo para disfrutar de un postre a media tarde.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+3. ¿Venden cajas surtidas de donas para cumpleaños, reuniones y eventos familiares?
+Disponemos de cajas de regalo diseñadas para cuatro, seis y doce donas surtidas donde tú mismo puedes elegir la combinación de sabores y decoraciones.
 
-Haz tu reserva o visítanos en D'oh Donuts, en Los Cedros 122, Cajamarca, donde preparamos Mazamorra morada con el cariño de la buena mesa.
+Para cumpleaños y agasajos preparamos donas personalizadas con letras decorativas de chocolate que forman dedicatorias y felicitaciones festivas.
 
---------------------------------------------------------------------------------
-PREGUNTA 3: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Turrón de Doña Pepa artesanal en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Disfrutar de Turrón de Doña Pepa artesanal en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Las cajas cuentan con separadores interiores que evitan que las coberturas se estropeen durante el traslado, asegurando una presentación impecable al abrirse.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+4. ¿Qué bebidas calientes y frías ofrecen para acompañar las donas en salón?
+Servimos café americano y espresso preparado con granos de café arábica seleccionados de los valles cafetaleros de Jaén y San Ignacio.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Para las tardes frías ofrecemos chocolate caliente espeso con leche fresca, capuchinos con espuma densa y tés e infusiones de hierbas andinas.
 
-En D'oh Donuts te esperamos en Los Cedros 122, Cajamarca para que compartas y disfrutes de Turrón de Doña Pepa artesanal con la mejor atención y calidez.
+En bebidas refrescantes disponemos de frappés de café, batidos de frutas naturales, jugos recién exprimidos y gaseosas bien heladas.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Menú campestre del día en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Al elegir Menú campestre del día disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
+5. ¿Cuál es el tiempo de desplazamiento hacia el centro comercial MegaPlaza Cajamarca?
+MegaPlaza Cajamarca se localiza a 1.39 kilómetros en dirección este desde nuestra pastelería en Los Cedros.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+En transporte motorizado el trayecto suele completarse en un lapso aproximado de cinco a siete minutos transitando de oeste a este.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Es una ruta muy directa que permite a estudiantes y familias conectar sus compras habituales de tiendas con una parada dulce en nuestro salón.
 
-Ven con tus familiares o amigos a D'oh Donuts en Los Cedros 122, Cajamarca y déjate consentir por la sazón de Menú campestre del día.
+6. ¿Cuentan con opciones de mini donas para mesas de postres y fiestas infantiles?
+Elaboramos bandejas de mini donas en porciones de bocado con coberturas coloridas y glaseados temáticos que lucen espectaculares en mesas de fiesta.
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Arroz blanco graneado en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-Disfrutar de Arroz blanco graneado en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Puedes solicitar que los colores del glaseado y los confites combinen armoniosamente con la temática elegida para el festejo infantil o baby shower.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Recomendamos coordinar estos pedidos especiales con cuarenta y ocho horas de anticipación para asegurar un horneado exclusivo y decoración minuciosa.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+7. ¿Cómo garantizan la frescura y textura esponjosa de las donas durante el día?
+Horneamos y freímos en lotes pequeños a primera hora de la mañana y a media tarde para que las donas en exhibición mantengan su textura tierna.
 
-En D'oh Donuts te esperamos en Los Cedros 122, Cajamarca para que compartas y disfrutes de Arroz blanco graneado con la mejor atención y calidez.
+El aceite empleado en la fritura se renueva constantemente y se mantiene a temperatura regulada para evitar que la masa absorba grasa excedente.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Tamales cajamarquinos en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Cada orden de Tamales cajamarquinos se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+D'oh Donuts no expende donas guardadas del día anterior, garantizando a cada cliente un dulce recién elaborado con sabor limpio y masa ligera.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+8. ¿A qué distancia está situado el tradicional Mercado Central de Cajamarca?
+El Mercado Central de la ciudad se ubica a 1.43 kilómetros en dirección sureste respecto a nuestras instalaciones en Los Cedros.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+El traslado vehicular toma habitualmente entre seis y ocho minutos descendiendo por las calles intermedias hacia el núcleo comercial céntrico.
 
-Haz tu reserva o visítanos en D'oh Donuts, en Los Cedros 122, Cajamarca, donde preparamos Tamales cajamarquinos con el cariño de la buena mesa.
+Nuestros clientes aprecian la cercanía relativa pero valoran sobre todo la comodidad de disfrutar de repostería fina en un vecindario apacible.
 
---------------------------------------------------------------------------------
-PREGUNTA 7: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Trucha a la plancha en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-En nuestra cocina tratamos Trucha a la plancha como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+9. ¿Tienen donas con sabores gourmet como pie de limón, maracuyá o toffee?
+Nuestra carta de autor incluye donas inspiradas en postres célebres como la dona lemon pie con crema cítrica y merengue suizo flameado con soplete.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+También ofrecemos donas de maracuyá silvestre con glaseado agridulce, donas de toffee con sal marina andina y donas rellenas de nutella auténtica.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Estas combinaciones audaces sorprenden el paladar y se han convertido en las favoritas del público juvenil y amantes de la pastelería contemporánea.
 
-Te invitamos a visitarnos en D'oh Donuts, situado en Los Cedros 122, Cajamarca, listos para servirte Trucha a la plancha con el sabor que te mereces.
+10. ¿Ofrecen promociones especiales o combos de donas más bebida durante la semana?
+De lunes a viernes brindamos promociones de media tarde que combinan dos donas tradicionales con un café americano o capuchino a precio preferencial.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Rosquitas cajamarquinas en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Al elegir Rosquitas cajamarquinas disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
+Los días miércoles activamos promociones de cajas de media docena con descuentos especiales para compartir entre compañeros de trabajo o estudio.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Puedes consultar las promociones vigentes de cada semana a través de nuestras redes sociales o directamente al ingresar a nuestro mostrador.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+11. ¿Cuál es la ruta y distancia para conectar con el Mercado Modelo de Cajamarca?
+El Mercado Modelo de Cajamarca se localiza a 1.91 kilómetros hacia el sureste desde el Jr. Los Cedros 122.
 
-Ven con tus familiares o amigos a D'oh Donuts en Los Cedros 122, Cajamarca y déjate consentir por la sazón de Rosquitas cajamarquinas.
+En taxi o mototaxi el recorrido se realiza en un promedio de ocho a diez minutos atravesando el cono urbano central.
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Caldo de patasca en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Cada orden de Caldo de patasca se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Esta ubicación en el sector Los Cedros resulta muy conveniente para familias que residen en las urbanizaciones altas y desean evitar el tránsito del mercado.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+12. ¿Qué alternativas tienen para personas que prefieren donas menos dulces o con glaseado simple?
+Disponemos de la clásica dona glaseada tradicional con una capa transparente y delicada de azúcar que aporta un dulzor sutil sin empalagar.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Ofrecemos además donas espolvoreadas con azúcar impalpable y canela molida, así como donas bañadas en chocolate amargo al 70% de cacao peruano.
 
-Haz tu reserva o visítanos en D'oh Donuts, en Los Cedros 122, Cajamarca, donde preparamos Caldo de patasca con el cariño de la buena mesa.
+Son opciones equilibradas y elegantes pensadas para acompañar una taza de café negro sin saturar los sabores naturales de la masa fermentada.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Guiso de gallina de corral en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Cada orden de Guiso de gallina de corral se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+13. ¿Qué comodidades ofrece el salón para pasar la tarde con amigos o hacer teletrabajo?
+Nuestras instalaciones cuentan con mesas cómodas, sillones acogedores, iluminación cálida y música ambiental a volumen suave para conversar o leer.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Disponemos de conexión a internet inalámbrica de alta velocidad gratuita y enchufes cercanos a las mesas para conectar laptops y teléfonos móviles.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Es el ambiente ideal para estudiantes universitarios y profesionales independientes que buscan una atmósfera placentera para trabajar con un buen café.
 
-Haz tu reserva o visítanos en D'oh Donuts, en Los Cedros 122, Cajamarca, donde preparamos Guiso de gallina de corral con el cariño de la buena mesa.
+14. ¿A qué distancia se encuentra el Terminal Terrestre de Cajamarca respecto a D'oh Donuts?
+El Terminal Terrestre principal de la ciudad se sitúa a 2.90 kilómetros en dirección sureste desde nuestra donutería.
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Banquete campestre para grupos en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-En nuestra cocina tratamos Banquete campestre para grupos como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+En vehículo particular o taxi el tiempo habitual de viaje oscila entre diez y doce minutos siguiendo las vías colectoras hacia el cono sur.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Muchos viajeros hacen una parada previa en Los Cedros para adquirir cajas de donas como un presente dulce y original antes de abordar sus buses.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+15. ¿Qué modalidades de pago reciben para las compras en el mostrador y para llevar?
+Aceptamos pagos móviles instantáneos mediante las aplicaciones digitales Yape y Plin escaneando el código QR visible en el área de caja.
 
-Te invitamos a visitarnos en D'oh Donuts, situado en Los Cedros 122, Cajamarca, listos para servirte Banquete campestre para grupos con el sabor que te mereces.
+Recibimos dinero en efectivo en soles en billetes de todas las denominaciones, disponiendo de sencillo permanente para facilitar la entrega de tus vueltos.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: ¿Qué ingredientes, preparación y presentación destacan en Yuca frita con salsa criolla en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-La preparación de Yuca frita con salsa criolla se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de restaurante campestre.
+Para compras con tarjetas de débito o crédito contamos con terminales electrónicos POS que aceptan pagos sin contacto de todas las entidades bancarias.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+16. ¿Realizan servicio de entrega a domicilio o delivery de cajas de donas en Cajamarca?
+Coordinamos entregas directas a domicilio en diversos sectores urbanos de Cajamarca a través de servicios locales de reparto motorizado de confianza.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+Puedes escribirnos vía WhatsApp para revisar el menú de sabores del día, indicar la dirección de entrega y coordinar el pago digital previo.
 
-En D'oh Donuts cuidamos cada detalle en Los Cedros 122, Cajamarca para hacer de tu experiencia con Yuca frita con salsa criolla un motivo para volver siempre.
+Las cajas se embalan con sellos de seguridad adhesivos para que tus donas lleguen impecables, frescas y listas para disfrutar en la comodidad de tu casa.
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Mate de muña en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-Disfrutar de Mate de muña en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+17. ¿Cómo aconsejan conservar las donas si no se consumen inmediatamente?
+Aconsejamos mantener las donas dentro de su caja cerrada en un lugar fresco y seco del hogar, alejadas de fuentes directas de calor o luz solar.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Si las consumes al día siguiente, puedes darles un golpe de calor de cinco a siete segundos en el microondas para reactivar la esponjosidad original de la masa.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+No recomendamos refrigerar las donas con glaseado tradicional ya que la humedad del frío puede disolver el azúcar y apelmazar la textura interior.
 
-En D'oh Donuts te esperamos en Los Cedros 122, Cajamarca para que compartas y disfrutes de Mate de muña con la mejor atención y calidez.
+18. ¿Cuál es el horario habitual de atención al público en la donutería de Los Cedros?
+Abrimos de lunes a sábado desde las diez de la mañana hasta las ocho y media de la noche en horario continuado para cubrir almuerzos y lonches.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Lawa de maíz en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Disfrutar de Lawa de maíz en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Los domingos atendemos en horario vespertino de tres a ocho de la noche para acompañar las tardes de descanso y paseos familiares de fin de semana.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Aconsejamos acudir entre las tres y cuatro de la tarde para disfrutar de las bandejas recién salidas del horno con el surtido completo de rellenos.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+19. ¿Atienden pedidos temáticos para empresas o marcas corporativas locales?
+Elaboramos donas corporativas personalizadas con placas comestibles impresas en papel de arroz con el logotipo de tu empresa o colores institucionales.
 
-En D'oh Donuts te esperamos en Los Cedros 122, Cajamarca para que compartas y disfrutes de Lawa de maíz con la mejor atención y calidez.
+Es un detalle de bienvenida muy cotizado para lanzamientos de marca, talleres de capacitación, celebraciones de aniversario laboral y pausas de café.
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Chancho a la caja china en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-En nuestra cocina tratamos Chancho a la caja china como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Brindamos presupuestos personalizados según el tiraje solicitado con empaque individual transparente o en cajas institucionales para reparto masivo.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+20. ¿Por qué elegir a D'oh Donuts para endulzar tus momentos en Cajamarca?
+En D'oh Donuts combinamos creatividad pastelera, ingredientes de primera calidad, frescura de horneado diario y una pasión genuina por el detalle dulce.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Cada dona es una pieza de arte culinario diseñada para arrancarte una sonrisa y transformar una simple merienda en un recuerdo placentero.
 
-Te invitamos a visitarnos en D'oh Donuts, situado en Los Cedros 122, Cajamarca, listos para servirte Chancho a la caja china con el sabor que te mereces.
-
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Humitas saladas en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Disfrutar de Humitas saladas en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
-
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
-
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
-
-En D'oh Donuts te esperamos en Los Cedros 122, Cajamarca para que compartas y disfrutes de Humitas saladas con la mejor atención y calidez.
-
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Cachangas en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Cada orden de Cachangas se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
-
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
-
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
-
-Haz tu reserva o visítanos en D'oh Donuts, en Los Cedros 122, Cajamarca, donde preparamos Cachangas con el cariño de la buena mesa.
-
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Chicha de maní en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Al elegir Chicha de maní disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
-
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
-
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
-
-Ven con tus familiares o amigos a D'oh Donuts en Los Cedros 122, Cajamarca y déjate consentir por la sazón de Chicha de maní.
-
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Qué ingredientes, preparación y presentación destacan en Estofado de carnero en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-La preparación de Estofado de carnero se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de restaurante campestre.
-
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
-
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
-
-En D'oh Donuts cuidamos cada detalle en Los Cedros 122, Cajamarca para hacer de tu experiencia con Estofado de carnero un motivo para volver siempre.
-
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Seco de carnero en D'oh Donuts?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-Al elegir Seco de carnero disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
-
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
-
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
-
-Ven con tus familiares o amigos a D'oh Donuts en Los Cedros 122, Cajamarca y déjate consentir por la sazón de Seco de carnero.
-
-================================================================================
+Te invitamos a visitarnos en Los Cedros 122, Cajamarca, y descubrir la magia, color y sabor irresistible de las donas más esponjosas de la región.

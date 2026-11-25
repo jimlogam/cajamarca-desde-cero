@@ -3,267 +3,163 @@ Macro-Sector: 02_Alimentacion_y_Abastecimiento
 Rubro: Comercio_Minorista
 Subrubro: Minimarkets
 Categoría Maps: Tienda general
-Dirección: Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca 06001
+Dirección: Jr. Amancaes 131, Cajamarca 06001
 Teléfono: 921 533 187
-Rating: 
-Reseñas: 
+Rating: 5
+Reseñas: 1
 Sitio web: 
 Latitud: -7.150509
 Longitud: -78.5096283
 Google Maps: https://www.google.com/maps?cid=12756144557433082445
 Place Id: ChIJB8EhJqRbspERTdJU2ePtBrE
 Fotos: Minimarket El Quindecito.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLf3QVTRQ43tpsw2T63v0jY-sdkeHYRjlC65siLdhzHMxT-EYtDM8NjyilE5Fu6l1j5XxZpLUnVR2mmytAon1-LFgXjVW_cm4KAGUg_1-Iln4q3A5EJnH22mKdQxV9VuGPqmFoyEbv0k_1_g=w1600-h1200-k-no
-Nota: Sin categoria clara en Maps; clasificado como restaurante general Aparecia 2 veces en los archivos de la cosecha original; fusionado en uno.
 
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-¡Te damos la bienvenida a Minimarket El Quindecito! Todo lo que necesitas para tu hogar y tu familia en un solo lugar: abarrotes de primera necesidad, bebidas frías, lácteos, golosinas y artículos de limpieza con la mejor atención. Te esperamos en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca con precios justos y atención rápida y cordial. Visítanos todos los días o coordina entregas a domicilio escribiéndonos al WhatsApp.
+¡Te damos la más cálida bienvenida a Minimarket El Quindecito! Ubicados en el Jr. Amancaes 131, somos tu punto de abastecimiento confiable en Cajamarca para tus compras diarias y antojos al paso. Te ofrecemos abarrotes esenciales, lácteos de calidad, bebidas bien frías, embutidos, confitería y artículos de aseo con precios justos y atención cercana. Visítanos todos los días y disfruta de una experiencia de compra rápida, ordenada y con múltiples opciones de pago digital.
 ================================================================================
 
 --------------------------------------------------------------------------------
 20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
 --------------------------------------------------------------------------------
 
---------------------------------------------------------------------------------
-PREGUNTA 1: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Habas sancochadas con queso en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Disfrutar de Habas sancochadas con queso en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+1. ¿Qué artículos de despensa básica y abarrotes del hogar ofrecen para el día a día?
+En nuestros anaqueles disponemos de arroz envasado de calidad superior, azúcar rubia, aceites vegetales en diferentes capacidades, fideos variados y sal yodada para la cocina de cada hogar.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Complementamos este surtido con avena en hojuelas, conservas de atún en lomo y trozos, menestras empacadas, salsas preparadas, galletas familiares y harinas listas para repostería o frituras.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Minimarket El Quindecito mantiene una rotación continua de mercadería que asegura a las familias cajamarquinas adquirir siempre alimentos de primera necesidad frescos y con fechas de vencimiento garantizadas.
 
-En Minimarket El Quindecito te esperamos en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca para que compartas y disfrutes de Habas sancochadas con queso con la mejor atención y calidez.
+2. ¿A qué distancia se encuentra el establecimiento comercial respecto a la Plaza de Armas de Cajamarca?
+El minimarket se ubica a una distancia aproximada de 961 metros en línea recta hacia el noreste de la histórica Plaza de Armas.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Chicha de maní en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Al elegir Chicha de maní disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
+Esta cercanía representa un recorrido de apenas doce minutos de caminata relajada o un viaje vehicular de tres a cuatro minutos en mototaxi por el tejido urbano céntrico.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Dicha proximidad resulta sumamente conveniente para los vecinos del sector que requieren abastecer su alacena sin desplazarse hacia las zonas de mayor tráfico comercial del centro histórico.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+3. ¿Cuentan con bebidas gaseosas, hidratantes y cervezas heladas disponibles para consumo inmediato?
+Mantenemos conservadoras y visicoolers permanentemente conectados que garantizan gaseosas personales, aguas purificadas sin gas y energizantes a la temperatura perfecta para calmar la sed.
 
-Ven con tus familiares o amigos a Minimarket El Quindecito en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca y déjate consentir por la sazón de Chicha de maní.
+También ponemos a tu disposición cervezas nacionales en presentaciones individuales de lata y botella de vidrio, así como néctares frutales y jugos ideales para el refrigerio escolar o laboral.
 
---------------------------------------------------------------------------------
-PREGUNTA 3: ¿Qué ingredientes, preparación y presentación destacan en Pachamanca a la olla en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-La preparación de Pachamanca a la olla se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de restaurante campestre.
+Cada cliente puede elegir libremente sus bebidas favoritas desde las vitrinas de autoservicio disfrutando de refrescos conservados con una cadena de frío controlada en cada jornada.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+4. ¿Qué variedad de lácteos y embutidos frescos tienen a disposición del público?
+En el área de refrigeración contamos con leches evaporadas enteras, yogures bebibles en sabores clásicos, mantequillas de mesa y quesos frescos tradicionales para el desayuno familiar.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+En embutidos ofrecemos jamonadas especiales, salchichas para freír, hot dogs selectos y tocinos ahumados procedentes de marcas prestigiosas con altos estándares sanitarios de elaboración.
 
-En Minimarket El Quindecito cuidamos cada detalle en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca para hacer de tu experiencia con Pachamanca a la olla un motivo para volver siempre.
+Cuidamos celosamente la refrigeración ininterrumpida de estos productos perecibles para que conserven intacto su valor nutritivo, textura suave y agradable sabor casero.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Pan chapla en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-En nuestra cocina tratamos Pan chapla como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+5. ¿Cuál es la distancia que separa al local del centro comercial MegaPlaza El Quinde?
+El negocio se encuentra situado a solo 805 metros en línea recta en dirección norte respecto al concurrido centro comercial MegaPlaza El Quinde.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+En trayecto vehicular en taxi o mototaxi este tramo se cubre fluidamente en aproximadamente dos a tres minutos a través de las calles de interconexión barrial.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Para los vecinos y transeúntes de la zona, esta ubicación estratégica permite realizar compras de urgencia y despensa rápida sin necesidad de hacer largas colas en grandes almacenes comerciales.
 
-Te invitamos a visitarnos en Minimarket El Quindecito, situado en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca, listos para servirte Pan chapla con el sabor que te mereces.
+6. ¿Disponen de golosinas, chocolates y pasabocas para disfrutar entre comidas?
+Ofrecemos una atractiva exhibición de golosinas que incluye chocolates rellenos, barras de cereal, galletas dulces y saladas, caramelos variados y bombones de reconocidas marcas.
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Pachamanca a la tierra en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-Cada orden de Pachamanca a la tierra se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Para quienes prefieren bocadillos crocantes disponemos de papas fritas embolsadas, chifles norteños, maní salado, frutos secos y tortillas tostadas en empaques individuales y familiares.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Minimarket El Quindecito atiende con entusiasmo los antojos espontáneos de estudiantes, jóvenes y familias que buscan un snack delicioso a cualquier hora del día.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+7. ¿Qué productos de higiene personal y cuidado facial o corporal se pueden adquirir?
+En nuestra sección de cuidado personal encontrarás jabones de tocador, pastas dentales de diversas fórmulas, cepillos de cerdas suaves y champús en sachet y frascos medianos.
 
-Haz tu reserva o visítanos en Minimarket El Quindecito, en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca, donde preparamos Pachamanca a la tierra con el cariño de la buena mesa.
+Adicionalmente comercializamos desodorantes en barra y aerosol, toallas higiénicas femeninas, máquinas de afeitar descartables y cremas humectantes para el uso cotidiano.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Arroz con leche en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Disfrutar de Arroz con leche en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Esta selección permite resolver de forma inmediata el desabastecimiento repentino de artículos esenciales en el tocador de cualquier hogar cajamarquino.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+8. ¿Qué distancia existe entre el minimarket y el Mercado Central de Cajamarca?
+El establecimiento dista 1.01 kilómetros en línea recta en dirección noreste respecto al tradicional Mercado Central de Cajamarca.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+El desplazamiento en vehículo de servicio público o mototaxi toma habitualmente de cuatro a cinco minutos según las condiciones de circulación vehicular en la zona circundante.
 
-En Minimarket El Quindecito te esperamos en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca para que compartas y disfrutes de Arroz con leche con la mejor atención y calidez.
+Contar con esta tienda cercana evita tener que internarse en los conglomerados mercantiles cuando solo se precisa adquirir productos básicos y envasados de reposición inmediata.
 
---------------------------------------------------------------------------------
-PREGUNTA 7: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Agua de cebada en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-Al elegir Agua de cebada disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
+9. ¿Venden útiles escolares, artículos de papelería y productos de librería básica?
+Contamos con un surtido de emergencia compuesto por cuadernos rayados y cuadriculados, lapiceros de tinta seca en colores fundamentales, lápices grafito y borradores suaves.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Asimismo disponemos de tajadores, reglas de plástico, plumones delgados, barras de pegamento adhesivo, tijeras escolares y cintas adhesivas transparentes de uso común.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Este abastecimiento resulta de gran utilidad para los estudiantes y padres de familia del barrio frente a trabajos escolares o requerimientos de última hora.
 
-Ven con tus familiares o amigos a Minimarket El Quindecito en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca y déjate consentir por la sazón de Agua de cebada.
+10. ¿Qué artículos de limpieza y desinfección doméstica comercializan en sus estanterías?
+Ofrecemos detergentes en polvo de alta disolución, lejías cloradas para desinfección de pisos y baños, desinfectantes con fragancias florales y limpiadores multiusos líquidos.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Pan campesino de horno de leña en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Al elegir Pan campesino de horno de leña disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
+Para las labores de lavado y orden contamos además con esponjas abrasivas, paños absorbentes de microfibra, lavavajillas en pasta y crema, escobas y bolsas para residuos.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Brindamos soluciones integrales de higiene hogareña para que cada cliente mantenga sus ambientes perfectamente desinfectados y con aromas limpios y perdurables.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+11. ¿A qué distancia aproximada se encuentra el local del mirador de la Colina Santa Apolonia?
+El local está ubicado a 1.42 kilómetros en línea recta hacia el noreste del emblemático mirador turístico de la Colina Santa Apolonia.
 
-Ven con tus familiares o amigos a Minimarket El Quindecito en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca y déjate consentir por la sazón de Pan campesino de horno de leña.
+En automóvil o mototaxi el recorrido toma en promedio unos seis minutos transitando por las vías que bordean el núcleo histórico de la urbe andina.
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Qué ingredientes, preparación y presentación destacan en Picarones con miel de chancaca en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-La preparación de Picarones con miel de chancaca se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de restaurante campestre.
+Esta conveniente ubicación brinda a vecinos y visitantes un acceso ágil tanto a los circuitos turísticos como a los servicios cotidianos del vecindario.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+12. ¿Qué tipos de licores, vinos y destilados se encuentran en exhibición para celebraciones?
+Disponemos de vinos de mesa semidulces y secos de bodegas nacionales de renombre, piscos puros y acholados con denominación de origen y rones añejos en botella.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+También mantenemos en mostrador whiskies clásicos y mezclas de aperitivos listas para preparar tragos sencillos durante pequeñas reuniones o brindis familiares en casa.
 
-En Minimarket El Quindecito cuidamos cada detalle en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca para hacer de tu experiencia con Picarones con miel de chancaca un motivo para volver siempre.
+Cada bebida alcohólica se comercializa con sello de fábrica y garantía de procedencia formal para resguardar la seguridad y bienestar de todos nuestros clientes.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Qué ingredientes, preparación y presentación destacan en Chocolate caliente en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-La preparación de Chocolate caliente se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de restaurante campestre.
+13. ¿Qué medios de pago electrónicos y digitales aceptan para facilitar la compra?
+Aceptamos pagos rápidos mediante billeteras digitales escaneando códigos QR oficiales sin ningún recargo adicional sobre el precio publicado en el producto.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Asimismo facilitamos transacciones bancarias mediante transferencias interbancarias inmediatas y cobros en efectivo con cambio disponible para billetes de curso legal.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+Estas facilidades aseguran compras veloces y confortables sin depender exclusivamente de dinero en efectivo para llevar los productos que el cliente precisa.
 
-En Minimarket El Quindecito cuidamos cada detalle en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca para hacer de tu experiencia con Chocolate caliente un motivo para volver siempre.
+14. ¿Qué distancia hay que recorrer desde el minimarket hasta el Terminal Terrestre de Cajamarca?
+El minimarket se sitúa a 1.72 kilómetros en línea recta en dirección norte respecto a las instalaciones del Terminal Terrestre de Cajamarca.
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Banquete campestre para grupos en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-En nuestra cocina tratamos Banquete campestre para grupos como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+El tiempo estimado de transporte en mototaxi o taxi oscila entre cinco y siete minutos por las arterias viales que conectan el sector este con la terminal.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Esta ubicación favorece a los viajeros y usuarios del transporte interprovincial que necesitan proveerse de refrigerios, bebidas o artículos de viaje antes de emprender su ruta.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+15. ¿Ofrecen panes frescos, empanadas y productos de pastelería para el desayuno o la lonche?
+En horas tempranas de la mañana y a media tarde recibimos panes artesanales recién horneados ideales para acompañar con mantequilla, queso mantecoso o jamón.
 
-Te invitamos a visitarnos en Minimarket El Quindecito, situado en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca, listos para servirte Banquete campestre para grupos con el sabor que te mereces.
+En vitrinas secas contamos con queques porcionados, bizcochuelos esponjosos y panes dulces tradicionales que complementan la hora del té familiar o el desayuno escolar.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Cecina con yuca sancochada en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Cada orden de Cecina con yuca sancochada se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Los clientes aprecian la suavidad y el agradable aroma del pan del día, convirtiendo a nuestra tienda en su parada fija matutina y vespertina.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+16. ¿Comercializan pilas, recargas telefónicas y pequeños accesorios de uso cotidiano?
+Disponemos de pilas alcalinas en tamaños comunes para linternas, juguetes y controles remotos de televisores hogareños, además de adaptadores eléctricos simples.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Brindamos soporte para el abono de recargas virtuales hacia todos los operadores de telefonía móvil que operan activamente en el territorio nacional.
 
-Haz tu reserva o visítanos en Minimarket El Quindecito, en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca, donde preparamos Cecina con yuca sancochada con el cariño de la buena mesa.
+Esta variedad de servicios complementarios ahorra tiempo y resuelve pequeñas contingencias diarias en una sola visita al establecimiento de confianza.
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Guiso de gallina de corral en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-Cada orden de Guiso de gallina de corral se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+17. ¿Cómo garantizan el orden, la limpieza y la seguridad sanitaria en los pasillos de venta?
+Realizamos limpiezas periódicas de estanterías, pisos y mostradores empleando soluciones desinfectantes para asegurar una exhibición pulcra y libre de polvo.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+El orden de los productos por categorías definidas y etiquetas claras facilita la localización independiente de cada artículo reduciendo tiempos de espera innecesarios.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Minimarket El Quindecito prioriza un entorno ventilado, higiénico y agradable para que cada visita de compras constituya un momento cómodo y confiable.
 
-Haz tu reserva o visítanos en Minimarket El Quindecito, en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca, donde preparamos Guiso de gallina de corral con el cariño de la buena mesa.
+18. ¿Atienden pedidos y consultas a distancia para coordinar recojos rápidos en el mostrador?
+Mantenemos activa la comunicación remota para que los clientes habituales puedan consultar precios vigentes, marcas disponibles y solicitar el alistamiento previo de su pedido.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Medio pollo a la leña en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Al elegir Medio pollo a la leña disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
+Al llegar al mostrador la mercadería solicitada se encuentra separada y embalada con prolijidad agilizando la entrega y el pago en cuestión de minutos.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Este servicio de preparación anticipada resulta perfecto para personas ocupadas que requieren optimizar al máximo sus tiempos en trayectos diarios.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+19. ¿Cuál es el horario de atención al público durante la semana y los fines de semana?
+Atendemos en un horario continuado y extendido desde las primeras horas de la mañana hasta avanzadas horas de la noche de lunes a sábado de manera ininterrumpida.
 
-Ven con tus familiares o amigos a Minimarket El Quindecito en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca y déjate consentir por la sazón de Medio pollo a la leña.
+Los días domingos y feriados calendario abrimos nuestras puertas para brindar soporte oportuno a las familias que necesitan reponer provisiones hogareñas.
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Qué ingredientes, preparación y presentación destacan en Chicha morada en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-La preparación de Chicha morada se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de restaurante campestre.
+La constancia en nuestros horarios de atención otorga la tranquilidad de encontrar siempre una tienda abierta cuando se presenta cualquier necesidad imprevista.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+20. ¿Qué distingue la propuesta de servicio de esta tienda frente a otros comercios del sector?
+Nos caracterizamos por un trato empático, cordial y cercano que reconoce las preferencias y requerimientos específicos de cada vecino que nos visita.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+Combinamos un surtido equilibrado de abarrotes de alta rotación con precios sumamente competitivos, productos frescos y agilidad en el cobro de cada compra.
 
-En Minimarket El Quindecito cuidamos cada detalle en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca para hacer de tu experiencia con Chicha morada un motivo para volver siempre.
-
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Chancho a la caja china en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-En nuestra cocina tratamos Chancho a la caja china como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
-
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
-
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
-
-Te invitamos a visitarnos en Minimarket El Quindecito, situado en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca, listos para servirte Chancho a la caja china con el sabor que te mereces.
-
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Ají de la casa en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-En nuestra cocina tratamos Ají de la casa como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
-
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
-
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
-
-Te invitamos a visitarnos en Minimarket El Quindecito, situado en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca, listos para servirte Ají de la casa con el sabor que te mereces.
-
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Manjar blanco cajamarquino en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Cada orden de Manjar blanco cajamarquino se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
-
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
-
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
-
-Haz tu reserva o visítanos en Minimarket El Quindecito, en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca, donde preparamos Manjar blanco cajamarquino con el cariño de la buena mesa.
-
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Cuy al horno con papas doradas en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-En nuestra cocina tratamos Cuy al horno con papas doradas como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
-
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
-
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
-
-Te invitamos a visitarnos en Minimarket El Quindecito, situado en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca, listos para servirte Cuy al horno con papas doradas con el sabor que te mereces.
-
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Rosquitas cajamarquinas en Minimarket El Quindecito?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-Al elegir Rosquitas cajamarquinas disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de restaurante campestre.
-
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
-
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
-
-Ven con tus familiares o amigos a Minimarket El Quindecito en Jr.Amancaes 131, Jr. Amancaes 125, Cajamarca y déjate consentir por la sazón de Rosquitas cajamarquinas.
-
-================================================================================
+Minimarket El Quindecito reafirma diariamente su vocación de servicio constituyéndose en el aliado indispensable para el abastecimiento cómodo y seguro del hogar.
