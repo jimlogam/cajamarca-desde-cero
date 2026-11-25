@@ -1,24 +1,24 @@
-Nombre: YAYI'S Masa Madre & Café
+Nombre: YAYI’S Masa Madre & Café
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Panadería, Tienda de postres, Cafetería
-Dirección: Mariano Melgar 193, Cajamarca 06000
-Teléfono: 940 387 724
+Categoría Maps: Cafetería, Panadería, Restaurante de postres
+Dirección: Junín 1219, Cajamarca 06000
+Teléfono: 987 805 994
 Rating: 4.9
-Reseñas: 99
-Sitio web: https://yayis.com.pe/
-Latitud: -7.1476991
-Longitud: -78.5203301
-Google Maps: https://www.google.com/maps?cid=7334914131870241850
-Place Id: ChIJjbp0jLNbspEROlQeeIrZymU
-Fotos: YAYI'S Masa Madre & Café.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdGzqPs_cqSe4P-ONj7nAcgU3pnGxqMBaoqsSwrcUr48YotSwHee3cq2l98c1PTxnrMYk2sXgE-hcbd32ZK8d74D-j37AFipX0p8JHlrGew7P9rruZLfUHgLjKX6cLQfNsQt2X2ssqhPYt-=w1600-h1200-k-no
+Reseñas: 109
+Sitio web: https://www.yayis.com.pe/
+Latitud: -7.158379999999999
+Longitud: -78.5184132
+Google Maps: https://www.google.com/maps?cid=9629968287453140170
+Place Id: ChIJXd0lb5lbspERytTruyKFpIU
+Fotos: YAYI’S Masa Madre & Café.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLd4KBEnNdlWXnzn61bxdxcVGgI71CpYr1zQYI-1-rlWGmppgubYjivINCeJkio2hYaJJ91TP6yKv-e74y-IFr528nc6JBDCXzRzEvYp97fAZ3JfBYgMyp2pCoTO6OKeiTYBhTUM2ayfICAe=w1600-h1200-k-no
 
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-Te damos la bienvenida a YAYI'S Masa Madre & Café. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Mariano Melgar 193, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Te damos la bienvenida a YAYI’S Masa Madre & Café en el centro histórico de Cajamarca. Somos un espacio gastronómico artesanal especializado en panificación de fermentación lenta natural y café de especialidad de origen norperuano. Te ofrecemos hogazas rústicas de masa madre, croissants hojaldrados con mantequilla pura, sándwiches gourmet y repostería fina. Encuéntranos en Junín 1219 a pasos de la Plaza Mayor para disfrutar de un ambiente cálido y contemporáneo. Visítanos o solicita para llevar.
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -26,243 +26,201 @@ Te damos la bienvenida a YAYI'S Masa Madre & Café. El rincón perfecto para hac
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
-PREGUNTA 1: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Merengues en YAYI'S Masa Madre & Café?
+PREGUNTA 1: ¿Qué panes artesanales de masa madre y bollería hornean a primera hora?
 --------------------------------------------------------------------------------
 RESPUESTA 1:
-En nuestra cocina tratamos Merengues como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Nuestros hornos encienden temprano para ofrecer hogazas rústicas elaboradas con fermentación natural de veinticuatro horas, corteza crujiente y miga aireada. Horneamos pan de campo tradicional, panes integrales con semillas tostadas, focaccias aromáticas con romero y pan de aceitunas.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+En bollería francesa preparamos croissants hojaldrados con mantequilla pura, pains au chocolat rellenos de chocolate amargo y rollos de canela glaseados.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
-
-Te invitamos a visitarnos en YAYI'S Masa Madre & Café, situado en Mariano Melgar 193, Cajamarca, listos para servirte Merengues con el sabor que te mereces.
+En YAYI’S Masa Madre & Café garantizamos alimentos vivos, digestibles y nutritivos elaborados sin aditivos químicos ni levaduras industriales rápidas.
 
 --------------------------------------------------------------------------------
-PREGUNTA 2: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Pan integral en YAYI'S Masa Madre & Café?
+PREGUNTA 2: ¿A cuántos metros de distancia se ubican respecto a la Plaza de Armas de Cajamarca?
 --------------------------------------------------------------------------------
 RESPUESTA 2:
-Cada orden de Pan integral se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Nos encontramos a tan solo 64 metros de separación respecto al perímetro suroccidental de la Plaza de Armas de Cajamarca.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Puedes llegar a pie en menos de un minuto caminando por el Jirón Junín en un trayecto peatonal plano, seguro y sumamente accesible.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
-
-Haz tu reserva o visítanos en YAYI'S Masa Madre & Café, en Mariano Melgar 193, Cajamarca, donde preparamos Pan integral con el cariño de la buena mesa.
+Esta ubicación de privilegio convierte a nuestro local en una parada obligatoria para desayunar o merendar en pleno corazón monumental.
 
 --------------------------------------------------------------------------------
-PREGUNTA 3: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Medialunas en YAYI'S Masa Madre & Café?
+PREGUNTA 3: ¿Qué cafés de especialidad y métodos de extracción manual manejan en barra?
 --------------------------------------------------------------------------------
 RESPUESTA 3:
-Al elegir Medialunas disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de panadería y pastelería.
+Seleccionamos microlotes de café arábico de variedad geisha, bourbon y caturra cultivados a más de mil ochocientos metros en Jaén y San Ignacio. Sus perfiles sensoriales expresan notas complejas de jazmín, durazno maduro, panela y chocolate con una acidez brillante y sedosa.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Disponemos de máquina espresso calibrada a diario para ristrettos y flat whites, además de métodos filtrados como V60, Chemex y Aeropress.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
-
-Ven con tus familiares o amigos a YAYI'S Masa Madre & Café en Mariano Melgar 193, Cajamarca y déjate consentir por la sazón de Medialunas.
+Molemos los granos al instante de cada comanda para resguardar la plenitud de los aceites aromáticos volátiles en tu taza.
 
 --------------------------------------------------------------------------------
-PREGUNTA 4: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Keke de naranja en YAYI'S Masa Madre & Café?
+PREGUNTA 4: ¿Tienen disponibles sándwiches gourmet preparados en pan rústico para almorzar?
 --------------------------------------------------------------------------------
 RESPUESTA 4:
-Disfrutar de Keke de naranja en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Elaboramos una selecta carta de sándwiches calientes servidos en rebanadas gruesas de hogaza de masa madre recién tostadas a la plancha. Destacan nuestras opciones de roast beef con queso fundido y cebollas caramelizadas, pechuga de pavo horneada con palta y jamón serrano con tomate confitado.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Para comensales vegetarianos ofrecemos sándwiches con champiñones salteados al tomillo, queso andino de cajabamba y pesto de albahaca fresca.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
-
-En YAYI'S Masa Madre & Café te esperamos en Mariano Melgar 193, Cajamarca para que compartas y disfrutes de Keke de naranja con la mejor atención y calidez.
+Cada preparación se acompaña de chips crujientes de papa nativa o ensalada fresca de hojas verdes con vinagreta artesanal.
 
 --------------------------------------------------------------------------------
-PREGUNTA 5: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Budín de pan en YAYI'S Masa Madre & Café?
+PREGUNTA 5: ¿Cuál es la separación métrica y el recorrido hacia la Iglesia San Francisco?
 --------------------------------------------------------------------------------
 RESPUESTA 5:
-Cada orden de Budín de pan se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+La distancia que nos separa de la plazoleta monumental de la Iglesia San Francisco es de aproximadamente 117 metros a pie.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Basta con caminar desde el templo cruzando el sector sur de la Plaza Mayor hacia la calle Junín en un paseo de menos de dos minutos.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
-
-Haz tu reserva o visítanos en YAYI'S Masa Madre & Café, en Mariano Melgar 193, Cajamarca, donde preparamos Budín de pan con el cariño de la buena mesa.
+Es una ruta peatonal muy atractiva rodeada de casonas virreinales y balcones tallados que embellecen tu visita cultural.
 
 --------------------------------------------------------------------------------
-PREGUNTA 6: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Torta de zanahoria en YAYI'S Masa Madre & Café?
+PREGUNTA 6: ¿Qué postres de repostería fina ofrecen para acompañar las tardes de café?
 --------------------------------------------------------------------------------
 RESPUESTA 6:
-Disfrutar de Torta de zanahoria en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Nuestra vitrina exhibe a diario postres finos elaborados con técnicas de pastelería europea e insumos locales de primera categoría. Podrás degustar porciones generosas de tarta de frutos rojos con crema diplomática, cheesecake horneado al estilo vasco y pastel húmedo de chocolate belga.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Disponemos además de galletas de mantequilla con sal marina, financiers de almendra y alfajores suaves con manjar blanco cajamarquino.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
-
-En YAYI'S Masa Madre & Café te esperamos en Mariano Melgar 193, Cajamarca para que compartas y disfrutes de Torta de zanahoria con la mejor atención y calidez.
+Cualquiera de estas delicias marida de forma impecable con un café americano limpio o una infusión caliente de hierbas aromáticas.
 
 --------------------------------------------------------------------------------
-PREGUNTA 7: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Empanadas de queso en YAYI'S Masa Madre & Café?
+PREGUNTA 7: ¿Disponen de facilidades de empaque térmico para llevar panadería y café al paso?
 --------------------------------------------------------------------------------
 RESPUESTA 7:
-Al elegir Empanadas de queso disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de panadería y pastelería.
+Contamos con vasos térmicos biodegradables de cierre hermético que preservan la temperatura y microespuma de tus bebidas calientes. Empacamos el pan de masa madre y los croissants en bolsas de papel kraft microperforadas que conservan la corteza crocante durante los traslados.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Puedes ordenar tu pedido en mostrador o comunicarte por mensajería móvil para recogerlo completamente alistado sin esperas.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
-
-Ven con tus familiares o amigos a YAYI'S Masa Madre & Café en Mariano Melgar 193, Cajamarca y déjate consentir por la sazón de Empanadas de queso.
+El servicio para llevar de YAYI’S Masa Madre & Café te permite disfrutar de la mejor panadería artesanal en tu hogar, oficina o viaje.
 
 --------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Sándwich de pollo en YAYI'S Masa Madre & Café?
+PREGUNTA 8: ¿Cuántos metros median entre su puerta y el monumento del Cuarto del Rescate?
 --------------------------------------------------------------------------------
 RESPUESTA 8:
-Cada orden de Sándwich de pollo se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Nos separan 215 metros de distancia respecto al monumento histórico del Cuarto del Rescate en el centro colonial.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+El recorrido a pie toma escasos tres minutos caminando por el Jirón Amalia Puga hacia la Plaza Mayor y doblando hacia Junín.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
-
-Haz tu reserva o visítanos en YAYI'S Masa Madre & Café, en Mariano Melgar 193, Cajamarca, donde preparamos Sándwich de pollo con el cariño de la buena mesa.
+Constituye una parada sumamente cómoda para viajeros que culminan su circuito histórico y desean relajarse con panadería de autor.
 
 --------------------------------------------------------------------------------
-PREGUNTA 9: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Chancay en YAYI'S Masa Madre & Café?
+PREGUNTA 9: ¿Qué métodos de pago reciben al momento de cancelar la cuenta en su mostrador?
 --------------------------------------------------------------------------------
 RESPUESTA 9:
-Cada orden de Chancay se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Aceptamos transferencias electrónicas inmediatas mediante las aplicaciones de billeteras digitales móviles más populares del país con códigos QR en caja. Admitimos igualmente dinero en efectivo en billetes y monedas nacionales con cambio disponible permanentemente.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Procesamos tarjetas bancarias de débito y crédito nacionales o internacionales en nuestro terminal de cobro seguro sin recargos.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
-
-Haz tu reserva o visítanos en YAYI'S Masa Madre & Café, en Mariano Melgar 193, Cajamarca, donde preparamos Chancay con el cariño de la buena mesa.
+Emitimos boletas y facturas electrónicas de forma rápida y transparente para facilitar el control de tus compras cotidianas.
 
 --------------------------------------------------------------------------------
-PREGUNTA 10: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Pionono en YAYI'S Masa Madre & Café?
+PREGUNTA 10: ¿El salón ofrece un ambiente cómodo para trabajar con laptop o tener reuniones?
 --------------------------------------------------------------------------------
 RESPUESTA 10:
-Cada orden de Pionono se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Acondicionamos nuestro salón con mesas amplias de madera maciza, sillas ergonómicas e iluminación natural que estimula la concentración y el descanso. Mantenemos una atmósfera tranquila con música indie e instrumental a volumen discreto que permite dialogar o leer con comodidad.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Disponemos de enchufes para conectar computadoras portátiles y teléfonos celulares mientras saboreas una bebida caliente.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
-
-Haz tu reserva o visítanos en YAYI'S Masa Madre & Café, en Mariano Melgar 193, Cajamarca, donde preparamos Pionono con el cariño de la buena mesa.
+Es un punto de encuentro predilecto para profesionales independientes, creativos y nómadas digitales que aprecian el buen café y el silencio.
 
 --------------------------------------------------------------------------------
-PREGUNTA 11: ¿Qué ingredientes, preparación y presentación destacan en Croissant en YAYI'S Masa Madre & Café?
+PREGUNTA 11: ¿Qué distancia aproximada existe en dirección al Mirador del Cerro Santa Apolonia?
 --------------------------------------------------------------------------------
 RESPUESTA 11:
-La preparación de Croissant se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de panadería y pastelería.
+La distancia que nos separa del inicio de las escalinatas hacia el Mirador Santa Apolonia es de 240 metros en sentido suroeste.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Puedes ascender caminando por el Jirón Dos de Mayo hacia las faldas de la colina en un paseo de escasos tres minutos.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
-
-En YAYI'S Masa Madre & Café cuidamos cada detalle en Mariano Melgar 193, Cajamarca para hacer de tu experiencia con Croissant un motivo para volver siempre.
+Resulta el punto perfecto para reponer energías con un café caliente y un croissant recién horneado tras contemplar la vista panorámica del valle.
 
 --------------------------------------------------------------------------------
-PREGUNTA 12: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Rosquillas en YAYI'S Masa Madre & Café?
+PREGUNTA 12: ¿Ofrecen bebidas frías refrescantes como cold brew, frappés o tés helados?
 --------------------------------------------------------------------------------
 RESPUESTA 12:
-En nuestra cocina tratamos Rosquillas como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Preparamos una refrescante línea de bebidas frías artesanales para las tardes templadas del valle andino. Destaca nuestro cold brew macerado en frío durante dieciséis horas que ofrece un licor denso, dulce y con delicados matices achocolatados.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Servimos además espresso tónica con rodajas de cítricos, iced lattes espumosos y tés helados de frutos rojos infusionados con hierbaluisa.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
-
-Te invitamos a visitarnos en YAYI'S Masa Madre & Café, situado en Mariano Melgar 193, Cajamarca, listos para servirte Rosquillas con el sabor que te mereces.
+Todas nuestras opciones frías se preparan con hielo purificado e ingredientes naturales para brindar máxima frescura e hidratación.
 
 --------------------------------------------------------------------------------
-PREGUNTA 13: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Bocaditos dulces por ciento en YAYI'S Masa Madre & Café?
+PREGUNTA 13: ¿Es factible solicitar pedidos corporativos de hogazas y bocaditos para empresas?
 --------------------------------------------------------------------------------
 RESPUESTA 13:
-En nuestra cocina tratamos Bocaditos dulces por ciento como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Atendemos pedidos especiales para instituciones y empresas preparando paquetes de desayuno corporativo o coffee break con panes gourmet y bollería. Alistamos cajas individuales con sándwiches de masa madre, mini croissants y termos dosificadores con café de especialidad caliente.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Coordinamos las entregas con estricta puntualidad desde primeras horas de la mañana para respaldar tus eventos directivos o capacitaciones.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
-
-Te invitamos a visitarnos en YAYI'S Masa Madre & Café, situado en Mariano Melgar 193, Cajamarca, listos para servirte Bocaditos dulces por ciento con el sabor que te mereces.
+Puedes contar con el respaldo de YAYI’S Masa Madre & Café para agasajar a tus clientes y colaboradores con distinción culinaria.
 
 --------------------------------------------------------------------------------
-PREGUNTA 14: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Pan tradicional cajamarquino en YAYI'S Masa Madre & Café?
+PREGUNTA 14: ¿Cuántos metros de separación existen en dirección al Mercado Central?
 --------------------------------------------------------------------------------
 RESPUESTA 14:
-Al elegir Pan tradicional cajamarquino disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de panadería y pastelería.
+Nos encontramos ubicados a 377 metros de distancia respecto a los accesos comerciales del Mercado Central de Cajamarca.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+El trayecto a pie demanda aproximadamente cuatro a cinco minutos transitando hacia el norte por vías céntricas tradicionales.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
-
-Ven con tus familiares o amigos a YAYI'S Masa Madre & Café en Mariano Melgar 193, Cajamarca y déjate consentir por la sazón de Pan tradicional cajamarquino.
+Esta cercanía facilita abastecerse de pan rústico recién salido del horno durante tus actividades regulares por el centro de la ciudad.
 
 --------------------------------------------------------------------------------
-PREGUNTA 15: ¿Qué ingredientes, preparación y presentación destacan en Torta de chocolate en YAYI'S Masa Madre & Café?
+PREGUNTA 15: ¿Qué protocolos de fermentación e inocuidad garantizan la digestibilidad del pan?
 --------------------------------------------------------------------------------
 RESPUESTA 15:
-La preparación de Torta de chocolate se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de panadería y pastelería.
+Nuestra masa madre se alimenta a diario con harinas integrales y agua pura, manteniendo un ecosistema activo de levaduras salvajes y lactobacilos. La fermentación lenta de veinticuatro horas descompone los fitatos y pre-digiere el gluten, logrando un pan de fácil asimilación estomacal.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Cumplimos estrictos controles sanitarios en nuestros talleres de amasado y horneado para garantizar absoluta inocuidad alimentaria.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
-
-En YAYI'S Masa Madre & Café cuidamos cada detalle en Mariano Melgar 193, Cajamarca para hacer de tu experiencia con Torta de chocolate un motivo para volver siempre.
+Esta rigurosidad técnica asegura que cada hogaza sea sana, nutritiva y tolerada incluso por personas con digestiones sensibles.
 
 --------------------------------------------------------------------------------
-PREGUNTA 16: ¿Qué ingredientes, preparación y presentación destacan en Pan de molde blanco en YAYI'S Masa Madre & Café?
+PREGUNTA 16: ¿Disponen de alternativas con leches vegetales para comensales veganos o intolerantes?
 --------------------------------------------------------------------------------
 RESPUESTA 16:
-La preparación de Pan de molde blanco se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de panadería y pastelería.
+Ofrecemos alternativas vegetales de calidad como leche de almendras y bebida de avena para personalizar cualquiera de nuestros cafés calientes o fríos. Mantenemos además leche de vaca deslactosada para quienes buscan una digestión liviana sin perder la textura cremosa tradicional.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Nuestras hogazas de masa madre clásica son cien por ciento veganas elaboradas únicamente con harina, agua, sal de maras y masa madre viva.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
-
-En YAYI'S Masa Madre & Café cuidamos cada detalle en Mariano Melgar 193, Cajamarca para hacer de tu experiencia con Pan de molde blanco un motivo para volver siempre.
+Solo debes consultar a nuestro barista al ordenar para que prepare tu bebida y sándwich con el cuidado que tu alimentación requiere.
 
 --------------------------------------------------------------------------------
-PREGUNTA 17: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Torta infantil temática en YAYI'S Masa Madre & Café?
+PREGUNTA 17: ¿Cuáles son los horarios de atención continua durante los días hábiles y domingos?
 --------------------------------------------------------------------------------
 RESPUESTA 17:
-Disfrutar de Torta infantil temática en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Atendemos de lunes a sábado desde las 7:30 a.m. de manera ininterrumpida hasta las 9:00 p.m., cubriendo las hornadas matutinas y lonches de la tarde. Los domingos brindamos servicio a partir de las 8:00 a.m. hasta las 2:00 p.m. para abastecer los desayunos familiares de fin de semana.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Las primeras hogazas calientes salen del horno a partir de las 8:00 a.m. para que las disfrutes recién salidas del calor de la piedra.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
-
-En YAYI'S Masa Madre & Café te esperamos en Mariano Melgar 193, Cajamarca para que compartas y disfrutes de Torta infantil temática con la mejor atención y calidez.
+Te sugerimos visitarnos temprano para elegir entre la variedad completa de panes especiales antes de que se agoten las tandas del día.
 
 --------------------------------------------------------------------------------
-PREGUNTA 18: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Torta de maracuyá en YAYI'S Masa Madre & Café?
+PREGUNTA 18: ¿Disponen de conexión wifi de alta velocidad gratuita para los comensales?
 --------------------------------------------------------------------------------
 RESPUESTA 18:
-Al elegir Torta de maracuyá disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de panadería y pastelería.
+Contamos con una red de internet inalámbrico de alta velocidad mediante fibra óptica disponible de forma gratuita para nuestros clientes en salón. La red brinda una señal veloz y estable que permite revisar correos de trabajo, enviar archivos pesados o realizar videollamadas breves.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Puedes solicitar la clave de acceso a nuestro personal en la barra al momento de registrar tu consumo.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
-
-Ven con tus familiares o amigos a YAYI'S Masa Madre & Café en Mariano Melgar 193, Cajamarca y déjate consentir por la sazón de Torta de maracuyá.
+Nos aseguramos de que dispongas de todas las facilidades tecnológicas para una estancia placentera, productiva y conectada.
 
 --------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Jugo de naranja natural en YAYI'S Masa Madre & Café?
+PREGUNTA 19: ¿Cómo nació la pasión por la panificación rústica y el café de origen en Cajamarca?
 --------------------------------------------------------------------------------
 RESPUESTA 19:
-Al elegir Jugo de naranja natural disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de panadería y pastelería.
+Nuestra panadería nació con la convicción de devolverle al pan su dignidad artesanal mediante procesos lentos y respetuosos de la naturaleza. Quisimos unir la tradición milenaria de la masa madre con la riqueza extraordinaria de los cafés especiales cultivados en el norte peruano.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Diseñamos un taller abierto donde el cliente puede apreciar el amasado paciente y el horneado sobre piedra que dan vida a cada hogaza.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
-
-Ven con tus familiares o amigos a YAYI'S Masa Madre & Café en Mariano Melgar 193, Cajamarca y déjate consentir por la sazón de Jugo de naranja natural.
+Ese amor por lo auténtico y la búsqueda de la excelencia es la identidad viva que define a YAYI’S Masa Madre & Café cada jornada.
 
 --------------------------------------------------------------------------------
-PREGUNTA 20: ¿Qué ingredientes, preparación y presentación destacan en Torta de cumpleaños personalizada en YAYI'S Masa Madre & Café?
+PREGUNTA 20: ¿Por qué canales puedo reservar hogazas especiales o consultar la carta del día?
 --------------------------------------------------------------------------------
 RESPUESTA 20:
-La preparación de Torta de cumpleaños personalizada se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de panadería y pastelería.
+Puedes contactarnos a través de nuestra mensajería móvil de WhatsApp o visitar nuestro sitio web oficial para conocer las variedades del día. Nuestro personal responderá con agrado tus dudas sobre hogazas especiales de granos ancestrales, bollería fresca y opciones de sándwiches.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+En caso de requerir varias hogazas o pedidos para eventos familiares, te sugerimos reservar con veinticuatro horas de anticipación.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
-
-En YAYI'S Masa Madre & Café cuidamos cada detalle en Mariano Melgar 193, Cajamarca para hacer de tu experiencia con Torta de cumpleaños personalizada un motivo para volver siempre.
-
-================================================================================
+Estamos siempre a tu disposición para brindarte una atención esmerada y llenar tu mesa con el mejor pan artesanal de Cajamarca.
