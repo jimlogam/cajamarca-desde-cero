@@ -1,7 +1,7 @@
 Nombre: SERVICIOS GENERALES ELECTROCENTER E.I.R.L
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Distribucion_Alimentos
-Subrubro: Distribuidoras_Mayoristas
+Macro-Sector: 08_Construccion_Ferreteria_y_Hogar
+Rubro: Materiales_y_Ferreteria
+Subrubro: Ferreterias_Generales
 Categoría Maps: Mayorista de productos electrónicos
 Dirección: AV SAN MARTIN N°1750, Cajamarca 06003
 Teléfono: 947 496 404

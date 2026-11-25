@@ -1,7 +1,7 @@
 Nombre: NES Cajamarca - Neabit Electronic Store
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Comercio_Minorista
-Subrubro: Bodegas
+Macro-Sector: 07_Tecnologia_y_Comunicaciones
+Rubro: Dispositivos_y_Hardware
+Subrubro: Venta_de_Laptops_y_Computadoras
 Categoría Maps: Tienda de electrónica
 Dirección: Los Leones 167, Cajamarca 06002
 Teléfono: 997 356 685
