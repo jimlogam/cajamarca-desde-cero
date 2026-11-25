@@ -14,5 +14,155 @@ Google Maps: https://www.google.com/maps?cid=10921541213742742318
 Place Id: ChIJcUlljPhaspERLrvsfN4bkZc
 Fotos: MIFARMA.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rIQpX2S87bPpKwfRkZlsAw&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=1.0310737&pitch=0&thumbfov=100
-Nota: Sin categoria clara en Maps; clasificado como restaurante general
 
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Mifarma en Jirón del Comercio 673 te da la bienvenida en una de las arterias más dinámicas y tradicionales de Cajamarca. Disponemos de un completo portafolio de medicamentos recetados, productos dermocosméticos de vanguardia, nutrición avanzada y artículos de higiene familiar. Nuestro compromiso inquebrantable con la salud pública se refleja en la rigurosa preservación de la cadena de frío, la trazabilidad farmacológica y la atención técnica respetuosa brindada por profesionales comprometidos.
+================================================================================
+
+--------------------------------------------------------------------------------
+20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
+--------------------------------------------------------------------------------
+
+1. ¿Qué principios de Buenas Prácticas Farmacéuticas guían la atención en Mifarma de Jirón del Comercio?
+En nuestro establecimiento priorizamos la seguridad del paciente aplicando con rigor los manuales de Buenas Prácticas de Dispensación y Almacenamiento regulados por las autoridades del sector salud.
+
+Antes de entregar cualquier preparado farmacéutico, verificamos la concordancia entre la prescripción médica, la concentración requerida y las características fisiológicas del paciente destinatario.
+
+Acompañamos la entrega con información comprensible sobre la toma correcta, evitando duplicidades y garantizando que el usuario resuelva cualquier inquietud antes de abandonar la botica.
+
+2. ¿Cuál es la distancia y mejor ruta para llegar desde Plaza de Armas de Cajamarca?
+Plaza de Armas de Cajamarca se localiza a solo 195 metros en dirección sureste desde nuestras instalaciones en Cajamarca.
+
+A pie el trayecto toma aproximadamente 3 minutos en caminata relajada, mientras que en mototaxi o vehículo particular se arriba en escasos 2 a 2 minutos transitando por las vías colectoras principales.
+
+Esta extraordinaria cercanía facilita acudir a tus citas, consultas o sesiones de atención mientras realizas tus actividades cotidianas en las inmediaciones.
+
+3. ¿Cómo se mantiene la integridad de la cadena de frío en fármacos termosensibles?
+Disponemos de refrigeradores farmacéuticos certificados con control automático que conservan las medicinas en el intervalo térmico reglamentario de dos a ocho grados Celsius.
+
+Monitores térmicos de lectura continua registran el comportamiento de la temperatura en bitácoras diarias, respaldados por generadores auxiliares para asegurar funcionamiento ininterrumpido.
+
+Para el traslado seguro del paciente, brindamos bolsas térmicas y geles refrigerantes, enfatizando la importancia de colocar el fármaco en frío inmediatamente al llegar a su residencia.
+
+4. ¿Qué surtido de medicamentos genéricos y alternativas accesibles se encuentra disponible?
+Contamos con una extensa gama de medicamentos genéricos en Denominación Común Internacional (DCI) con certificación de calidad, bioequivalencia y registro sanitario aprobado por la DIGEMID.
+
+Orientamos con total transparencia al usuario sobre la disponibilidad de opciones económicas que poseen idéntico principio activo, potencia y vía de absorción que los productos de marca.
+
+Esto garantiza que los tratamientos farmacológicos sean viables y sostenibles para todos los presupuestos familiares cajamarquinos, promoviendo el derecho universal a la salud.
+
+5. ¿A qué distancia se encuentra el establecimiento respecto a Cuarto del Rescate?
+Cuarto del Rescate se localiza a solo 373 metros en dirección sureste desde nuestras instalaciones en Cajamarca.
+
+A pie el trayecto toma aproximadamente 5 minutos en caminata relajada, mientras que en mototaxi o vehículo particular se arriba en escasos 2 a 2 minutos transitando por las vías colectoras principales.
+
+Esta extraordinaria cercanía facilita acudir a tus citas, consultas o sesiones de atención mientras realizas tus actividades cotidianas en las inmediaciones.
+
+6. ¿Qué recomendaciones se ofrecen para la administración segura de medicamentos pediátricos?
+Explicamos detalladamente a los padres y cuidadores cómo medir las dosis infantiles utilizando únicamente las jeringas dosificadoras o vasitos graduados provistos por el laboratorio.
+
+Advertimos sobre el error común de usar cucharas soperas caseras, las cuales varían de volumen y pueden inducir a infradosificación o sobredosificación peligrosa en niños pequeños.
+
+Recordamos verificar si las suspensiones orales requieren agitarse vigorosamente antes de cada toma y si deben conservarse refrigeradas una vez reconstituido el polvo medicinal.
+
+7. ¿Qué catálogo de dermofarmacia y fotoprotección se adapta a las condiciones climáticas de Cajamarca?
+Ofrecemos fotoprotectores solares de amplio espectro contra radiación UVA, UVB y luz visible, formulados en texturas de gel acuoso, fluidos toque seco y cremas emolientes.
+
+La altitud andina de Cajamarca intensifica los niveles de radiación solar, haciendo imperativo el uso diario de protectores solares con FPS cincuenta y su reaplicación cada dos a tres horas.
+
+Asimismo, contamos con sérums con ácido hialurónico, vitamina C antioxidante y cremas con ceramidas para restaurar la barrera epidérmica afectada por el viento seco de la serranía.
+
+8. ¿Cuál es la distancia y mejor ruta para llegar desde Mirador del cerro Santa Apolonia?
+Mirador del cerro Santa Apolonia se localiza a solo 454 metros en dirección sur desde nuestras instalaciones en Cajamarca.
+
+A pie el trayecto toma aproximadamente 6 minutos en caminata relajada, mientras que en mototaxi o vehículo particular se arriba en escasos 2 a 2 minutos transitando por las vías colectoras principales.
+
+Esta extraordinaria cercanía facilita acudir a tus citas, consultas o sesiones de atención mientras realizas tus actividades cotidianas en las inmediaciones.
+
+9. ¿Cuál es el procedimiento técnico para la dispensación de medicamentos controlados y psicofármacos?
+La entrega de medicamentos sujetos a control especial se realiza exclusivamente mediante receta médica física emitida por un profesional colegiado, la cual es retenida según normativa sanitaria.
+
+El Químico Farmacéutico valida la vigencia temporal de la receta, los sellos oficiales y la congruencia de los datos del paciente antes de realizar la anotación en el libro de control.
+
+Este procedimiento metódico salvaguarda la salud colectiva y previene el consumo irresponsable o no supervisado de sustancias que actúan sobre el sistema nervioso central.
+
+10. ¿Qué artículos y equipos médicos para cuidados domiciliarios se ofrecen?
+Disponemos de termómetros infrarrojos y digitales, apósitos avanzados para escaras o heridas crónicas, bolsas para agua caliente, nebulizadores a pistón y fajas de sujeción lumbar o postoperatoria.
+
+Nuestro personal brinda instrucciones sobre el montaje, higiene y desinfección de los accesorios de inhaloterapia para evitar colonizaciones bacterianas en las vías respiratorias.
+
+Todos los equipos cuentan con manuales en español, certificados de calibración y garantía técnica emitida por los representantes de marca oficiales.
+
+11. ¿A qué distancia se encuentra el establecimiento respecto a Mercado Central de Cajamarca?
+Mercado Central de Cajamarca se localiza a solo 598 metros en dirección noreste desde nuestras instalaciones en Cajamarca.
+
+A pie el trayecto toma aproximadamente 8 minutos en caminata relajada, mientras que en mototaxi o vehículo particular se arriba en escasos 2 a 2 minutos transitando por las vías colectoras principales.
+
+Esta extraordinaria cercanía facilita acudir a tus citas, consultas o sesiones de atención mientras realizas tus actividades cotidianas en las inmediaciones.
+
+12. ¿Cómo se asegura el cumplimiento de las Buenas Prácticas de Almacenamiento en el establecimiento?
+Las áreas de expendio y almacenamiento cuentan con aislamiento térmico y mediciones diarias de temperatura y humedad para garantizar que nunca se superen los veinticinco grados centígrados.
+
+Los productos se organizan siguiendo el principio de primeros en vencer, primeros en salir (FEFO), garantizando que los medicamentos dispensados cuenten con amplia vida útil restante.
+
+Se realizan limpiezas y fumigaciones periódicas certificadas para mantener los ambientes asépticos, secos y completamente libres de contaminantes ambientales.
+
+13. ¿Qué suplementación nutricional para adultos mayores y personas convalecientes se encuentra disponible?
+Mantenemos un stock de fórmulas nutricionales completas en polvo y líquidas enriquecidas con proteínas de alto valor biológico, calcio, zinc, fibra prebiótica y ácidos grasos esenciales.
+
+Estas preparaciones están diseñadas para complementar la alimentación en personas con dificultad para deglutir sólidos, inapetencia o en recuperación tras intervenciones médicas.
+
+Instruimos sobre el modo correcto de dilución en agua a temperatura ambiente para no degradar las vitaminas y minerales termosensibles contenidos en la fórmula.
+
+14. ¿Cuánto tiempo toma desplazarse desde el establecimiento hasta Real Plaza Cajamarca?
+Nos encontramos a una distancia de 1.51 kilómetros con respecto a Real Plaza Cajamarca, siguiendo el rumbo este a través del entramado vial de la ciudad.
+
+El traslado vehicular en taxi o mototaxi requiere habitualmente entre 4 y 4 minutos, dependiendo del flujo del tránsito en horas punta matutinas o vespertinas.
+
+Nuestra localización estratégica te permite conectar rápidamente con este emblemático punto urbano sin tener que enfrentar embotellamientos prolongados.
+
+15. ¿Cómo se garantiza el origen legítimo y la seguridad de todos los productos en stock?
+Mifarma trabaja con cadenas de suministro totalmente auditadas, recibiendo despachos directamente desde almacenes centrales regulados e inspeccionados por el Ministerio de Salud.
+
+Cada caja y frasco posee códigos de lote legibles, fechas de vencimiento impresas por el fabricante y precintos de seguridad que impiden cualquier adulteración.
+
+Esta política corporativa rigurosa elimina cualquier posibilidad de comercialización de medicinas no autorizadas, brindando absoluta tranquilidad a los hogares de Cajamarca.
+
+16. ¿Qué productos de cuidado materno durante el embarazo y postparto están a disposición?
+Contamos con vitaminas prenatales con ácido fólico y hierro polimaltosado, cremas antiestrías con centella asiática, discos absorbentes para lactancia y pezoneras de silicona grado médico.
+
+Orientamos a las futuras madres sobre la importancia de no consumir ningún fármaco sin previa autorización obstétrica o ginecológica durante los meses de gestación.
+
+Para el postparto disponemos de compresas higiénicas de alta absorción y productos de higiene íntima con pH fisiológico equilibrado que favorecen la recuperación tisular.
+
+17. ¿Qué alternativas terapéuticas de venta libre se recomiendan para malestares digestivos comunes?
+Ofrecemos antiácidos en suspensión y tabletas masticables, sales de rehidratación oral, probióticos para restauración de la flora intestinal y enzimas digestivas.
+
+Se enfatiza que los antiácidos deben consumirse de forma puntual y distanciados al menos dos horas de otros medicamentos para no interferir con su absorción gastrointestinal.
+
+Si los síntomas digestivos van acompañados de pérdida de peso, dolor agudo o vómitos persistentes, se orienta al usuario para que busque atención médica hospitalaria inmediata.
+
+18. ¿Qué productos para la salud articular y alivio de molestias musculares se encuentran disponibles?
+Disponemos de geles y cremas analgésicas con diclofenaco o árnica, parches térmicos adhesivos, así como suplementos nutricionales de colágeno hidrolizado, glucosamina y condroitina.
+
+Explicamos que los geles tópicos deben aplicarse sobre la piel limpia e íntegra mediante masajes suaves, lavándose las manos cuidadosamente tras la aplicación para no irritar mucosas.
+
+Los suplementos articulares requieren un consumo continuo durante varias semanas para evidenciar mejoras funcionales en la movilidad y confort de las articulaciones.
+
+19. ¿Cómo se promueve el descarte responsable y ecológico de medicamentos vencidos?
+Sensibilizamos a los usuarios sobre los riesgos ecológicos y de salud pública que representa arrojar medicamentos vencidos al desagüe común o a la basura domiciliaria.
+
+Informamos sobre las campañas periódicas de recolección de envases y medicamentos caducos para su destrucción térmica controlada mediante empresas de residuos autorizadas.
+
+Incentivamos la revisión semestral de los botiquines familiares para retirar de circulación tabletas desmoronadas, jarabes abiertos antiguos o productos sin fecha visible.
+
+20. ¿Qué facilidades de pago, promociones y convenios corporativos se ofrecen a los usuarios?
+Aceptamos todas las tarjetas bancarias de crédito y débito, transferencias a través de aplicaciones móviles interoperables y dinero en efectivo con entrega de boletas y facturas electrónicas.
+
+Nuestros clientes pueden afiliarse al programa Monedero del Ahorro para acumular beneficios directos y descuentos especiales en días promocionales fijados durante la semana.
+
+Mantenemos convenios con diversas entidades de salud y seguros para facilitar el acceso rápido a medicamentos cubiertos por sus pólizas asistenciales.
+
+================================================================================
