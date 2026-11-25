@@ -14,256 +14,155 @@ Google Maps: https://www.google.com/maps?cid=15015216427823726979
 Place Id: ChIJnfNY-wdbspERgwELfsnDYNA
 Fotos: FARMACIA LA UNICA.jpg
 Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=X85tUoE8yjq2uh4syvU6cQ&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=156.19064&pitch=0&thumbfov=100
-Nota: Sin categoria clara en Maps; clasificado como restaurante general
 
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-¡Te damos la bienvenida a FARMACIA LA UNICA! Cuidamos la salud y tranquilidad de tu familia brindándote una completa variedad de medicamentos de marca y genéricos, productos para el cuidado del bebé y artículos de higiene personal. Visítanos en Jr. Shucapampa CUADRA 9, Cajamarca donde nuestro personal farmacéutico te atenderá con calidez, rapidez y confianza. Consulta disponibilidad o solicita delivery escribiéndonos al WhatsApp ahora.
+Farmacia La Única le da la más cordial bienvenida en el Jirón Shucapampa cuadra 9 en Cajamarca. Ponemos al servicio de nuestra comunidad un catálogo completo de medicamentos éticos y genéricos certificados, productos de primeros auxilios, fórmulas de nutrición y artículos para el cuidado infantil e higiene diaria. Nuestro calificado equipo técnico le brinda una orientación farmacéutica oportuna y responsable, cuidando de su salud con calidez, esmero y precios plenamente solidarios.
 ================================================================================
 
 --------------------------------------------------------------------------------
 20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
 --------------------------------------------------------------------------------
 
---------------------------------------------------------------------------------
-PREGUNTA 1: ¿Qué protocolos de bioseguridad, higiene y equipamiento respaldan Jarabes para la tos en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-La atención en Jarabes para la tos se realiza con un enfoque preventivo y correctivo para asegurar resultados efectivos que mejoren tu calidad de vida.
+1. ¿Qué estándares de Buenas Prácticas de Dispensación rigen el servicio en Farmacia La Única?
+En Farmacia La Única operamos bajo el estricto cumplimiento del Manual de Buenas Prácticas de Dispensación emitido por DIGEMID. Garantizamos la autenticidad y seguridad de cada medicamento comercializado, abasteciéndonos exclusivamente a través de distribuidores formales autorizados y laboratorios con certificación de buenas prácticas de manufactura.
 
-Utilizamos instrumental debidamente esterilizado, insumos médicos certificados por DIGEMID y tecnología diagnóstica de alta precisión.
+Para la dispensación de fármacos bajo receta médica, tales como antibacterianos, corticoides y medicamentos psicotrópicos sujetos a fiscalización, nuestro personal exige la exhibición de la prescripción facultativa vigente, revisando meticulosamente la firma, sello profesional y dosis pautada.
 
-Facilitamos la entrega de informes médicos claros y recetas detalladas para un adecuado seguimiento farmacológico o terapéutico.
+Promovemos activamente el acceso a alternativas genéricas bioequivalentes en Denominación Común Internacional (DCI), asesorando al paciente con honestidad para que pueda adquirir tratamientos eficaces acordes con su capacidad económica sin descuidar su seguridad biológica.
 
-Tu bienestar es nuestra prioridad en FARMACIA LA UNICA, ubicado en Jr. Shucapampa CUADRA 9, Cajamarca, donde te orientamos con dedicación en Jarabes para la tos.
+2. ¿Cuánto tiempo toma desplazarse desde el establecimiento hasta Terminal Terrestre de Cajamarca?
+Nos encontramos a una distancia de 2.66 kilómetros con respecto a Terminal Terrestre de Cajamarca, siguiendo el rumbo noreste a través del entramado vial de la ciudad.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿Cómo se realiza la evaluación profesional previa y diagnóstico para Protectores solares en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Al acudir por Protectores solares recibes una valoración médica integral que prioriza un diagnóstico certero y un plan terapéutico adaptado a tu condición de salud.
+El traslado vehicular en taxi o mototaxi requiere habitualmente entre 7 y 6 minutos, dependiendo del flujo del tránsito en horas punta matutinas o vespertinas.
 
-Mantenemos ambientes desinfectados bajo estrictas normas de bioseguridad, protegiendo la salud de cada paciente que ingresa a nuestro consultorio.
+Nuestra localización estratégica te permite conectar rápidamente con este emblemático punto urbano sin tener que enfrentar embotellamientos prolongados.
 
-Al finalizar la sesión te proporcionamos indicaciones precisas sobre cuidados en casa, medicación si corresponde y pautas preventivas a largo plazo.
+3. ¿Cómo aseguran la correcta conservación y monitoreo térmico de medicamentos refrigerados?
+Para garantizar la potencia de medicamentos biológicos y termolábiles —incluyendo insulinas humanas, análogos, vacunas, interferones y gotas oftálmicas especiales— contamos con refrigeradores farmacéuticos dedicados que sostienen de forma continua un rango térmico de dos a ocho grados Celsius.
 
-Agenda tu cita en FARMACIA LA UNICA en Jr. Shucapampa CUADRA 9, Cajamarca y atiende tu salud con la tranquilidad y profesionalismo que requieres en Protectores solares.
+Realizamos un control continuo y riguroso de la temperatura mediante termohigrómetros digitales calibrados, anotando formalmente las mediciones en nuestras bitácoras de control ambiental dos veces al día para detectar cualquier desvío térmico preventivamente.
 
---------------------------------------------------------------------------------
-PREGUNTA 3: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Tiras reactivas para glucosa en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-El servicio de Tiras reactivas para glucosa está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de farmacia.
+Al momento del expendio, brindamos recomendaciones precisas para el transporte del producto hasta el hogar, sugiriendo el empleo de bolsos térmicos con gel refrigerante para evitar que el calor del ambiente cajamarquino degrade la estructura molecular del principio activo.
 
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
+4. ¿Qué insumos y antisépticos ofrecen para el tratamiento de primeros auxilios y laceraciones?
+Disponemos de un amplio stock de material de curación estéril para brindar soporte inmediato ante traumatismos domésticos, caídas o heridas superficiales, incluyendo gasas estériles fraccionadas, vendas de gasa y elásticas de sujeción, apósitos autoadhesivos y esparadrapo microporoso.
 
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
+Contamos con antisépticos tópicos fundamentales como alcohol etílico de setenta grados, solución desinfectante de clorhexidina al dos por ciento, povidona yodada dérmica y suero fisiológico estéril para lavado mecánico no traumático de lesiones cutáneas.
 
-Confía tu atención a FARMACIA LA UNICA, situado en Jr. Shucapampa CUADRA 9, Cajamarca, donde protegemos tu salud y la de tu familia en Tiras reactivas para glucosa.
+Asimismo, suministramos dispositivos médicos complementarios que comprenden jeringas descartables de diversos calibres con aguja hipodérmica, termómetros clínicos digitales de alta exactitud y guantes de examen de nitrilo y látex estériles.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿Qué protocolos de bioseguridad, higiene y equipamiento respaldan Extractores de leche materna en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-La atención en Extractores de leche materna se realiza con un enfoque preventivo y correctivo para asegurar resultados efectivos que mejoren tu calidad de vida.
+5. ¿A qué distancia se encuentra el establecimiento respecto a Universidad Nacional de Cajamarca?
+Nos encontramos a una distancia de 2.71 kilómetros con respecto a Universidad Nacional de Cajamarca, siguiendo el rumbo noreste a través del entramado vial de la ciudad.
 
-Utilizamos instrumental debidamente esterilizado, insumos médicos certificados por DIGEMID y tecnología diagnóstica de alta precisión.
+El traslado vehicular en taxi o mototaxi requiere habitualmente entre 7 y 6 minutos, dependiendo del flujo del tránsito en horas punta matutinas o vespertinas.
 
-Facilitamos la entrega de informes médicos claros y recetas detalladas para un adecuado seguimiento farmacológico o terapéutico.
+Nuestra localización estratégica te permite conectar rápidamente con este emblemático punto urbano sin tener que enfrentar embotellamientos prolongados.
 
-Tu bienestar es nuestra prioridad en FARMACIA LA UNICA, ubicado en Jr. Shucapampa CUADRA 9, Cajamarca, donde te orientamos con dedicación en Extractores de leche materna.
+6. ¿Cómo orientan al paciente para evitar el uso inapropiado de antibióticos y resistencias?
+Sensibilizamos a nuestra clientela sobre el peligro global de la resistencia a los antibióticos, absteniéndonos terminantemente de vender antibacterianos sin la debida receta médica o recomendarlos ante cuadros gripales o resfríos de naturaleza viral.
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Qué protocolos de bioseguridad, higiene y equipamiento respaldan Productos naturales y fitoterapia en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-La atención en Productos naturales y fitoterapia se realiza con un enfoque preventivo y correctivo para asegurar resultados efectivos que mejoren tu calidad de vida.
+Al despachar un antibiótico debidamente prescrito, recalcamos al paciente la importancia vital de no saltear tomas, cumplir con los horarios programados y completar la duración total indicada por el médico, incluso si los síntomas remiten a los pocos días.
 
-Utilizamos instrumental debidamente esterilizado, insumos médicos certificados por DIGEMID y tecnología diagnóstica de alta precisión.
+Explicamos que abandonar el tratamiento tempranamente deja con vida a bacterias resistentes que pueden volver a multiplicarse con mayor agresividad, requiriendo en el futuro fármacos más potentes, costosos y potencialmente tóxicos.
 
-Facilitamos la entrega de informes médicos claros y recetas detalladas para un adecuado seguimiento farmacológico o terapéutico.
+7. ¿Qué opciones de fotoprotección y cremas reparadoras disponen para la piel en Cajamarca?
+La elevada altitud y radiación UV de Cajamarca hacen imprescindible el uso diario de fotoprotectores solares de amplio espectro. En nuestra botica disponemos de protectores con FPS 50+ formulados contra radiaciones UVA, UVB y luz visible.
 
-Tu bienestar es nuestra prioridad en FARMACIA LA UNICA, ubicado en Jr. Shucapampa CUADRA 9, Cajamarca, donde te orientamos con dedicación en Productos naturales y fitoterapia.
+Contamos con fluidos toque seco para cutis graso o mixto, emulsiones enriquecidas para pieles secas y fórmulas hipoalergénicas con pantallas físicas minerales recomendadas para infantes y personas con piel reactiva o atópica.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: ¿Cómo se realiza la evaluación profesional previa y diagnóstico para Chupones en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Al acudir por Chupones recibes una valoración médica integral que prioriza un diagnóstico certero y un plan terapéutico adaptado a tu condición de salud.
+Aconsejamos aplicar generosamente el bloqueador solar en el rostro y áreas expuestas al menos veinte minutos antes de salir al sol, repitiendo la aplicación cada dos a tres horas y manteniendo la hidratación cutánea con cremas ricas en ceramidas.
 
-Mantenemos ambientes desinfectados bajo estrictas normas de bioseguridad, protegiendo la salud de cada paciente que ingresa a nuestro consultorio.
+8. ¿Cuál es la distancia y mejor ruta para llegar desde Mirador del cerro Santa Apolonia?
+Nos encontramos a una distancia de 3.02 kilómetros con respecto a Mirador del cerro Santa Apolonia, siguiendo el rumbo norte a través del entramado vial de la ciudad.
 
-Al finalizar la sesión te proporcionamos indicaciones precisas sobre cuidados en casa, medicación si corresponde y pautas preventivas a largo plazo.
+El traslado vehicular en taxi o mototaxi requiere habitualmente entre 8 y 7 minutos, dependiendo del flujo del tránsito en horas punta matutinas o vespertinas.
 
-Agenda tu cita en FARMACIA LA UNICA en Jr. Shucapampa CUADRA 9, Cajamarca y atiende tu salud con la tranquilidad y profesionalismo que requieres en Chupones.
+Nuestra localización estratégica te permite conectar rápidamente con este emblemático punto urbano sin tener que enfrentar embotellamientos prolongados.
 
---------------------------------------------------------------------------------
-PREGUNTA 7: ¿A qué tipo de pacientes o condiciones de salud está indicado el tratamiento de Suplementos de calcio y magnesio en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-Cada procedimiento vinculado a Suplementos de calcio y magnesio se planifica para ser seguro, mínimamente invasivo y con el máximo confort para el paciente.
+9. ¿Qué metodología logística aplican para controlar el vencimiento de los fármacos en stock?
+Gestionamos nuestras estanterías aplicando el principio FEFO (First Expired, First Out), disponiendo los lotes de manera que los productos con fecha de vencimiento más próxima sean dispensados prioritariamente, garantizando al cliente medicamentos con prolongada vida útil.
 
-Nos apoyamos en guías de práctica clínica actualizadas para garantizar que cada indicación médica tenga un respaldo científico sólido.
+Efectuamos auditorías mensuales de existencias para identificar productos que ingresen a su ventana límite previa a la expiración, retirándolos inmediatamente del área de venta y colocándolos en una zona de baja precautoria para su destino normado.
 
-Disponemos de horarios de atención programados para evitar tiempos de espera prolongados y brindarte la dedicación que mereces.
+Durante el despacho final en mostrador, el personal examina ocularmente la caja y blíster del medicamento, constatando la legibilidad del lote, fecha de vencimiento y registro sanitario ante la vista del usuario antes de embolsarlo.
 
-En FARMACIA LA UNICA estamos comprometidos con tu bienestar en Jr. Shucapampa CUADRA 9, Cajamarca, brindándote soluciones médicas confiables en Suplementos de calcio y magnesio.
+10. ¿Qué preparados disponen para el tratamiento de molestias digestivas frecuentes?
+Mantenemos disponibilidad de antiácidos en suspensión y comprimidos masticables, inhibidores de la bomba de protones como omeprazol y protectores de la mucosa gástrica para aliviar el ardor de estómago y la acidez ocasional.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Cómo se realiza la evaluación profesional previa y diagnóstico para Bacinicas e inodoros portátiles en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Al acudir por Bacinicas e inodoros portátiles recibes una valoración médica integral que prioriza un diagnóstico certero y un plan terapéutico adaptado a tu condición de salud.
+Disponemos también de antiespasmódicos orales para el alivio de cólicos estomacales, probióticos para restablecer la microflora intestinal alterada y sales de rehidratación oral con electrolitos balanceados para reponer líquidos ante cuadros diarreicos agudos.
 
-Mantenemos ambientes desinfectados bajo estrictas normas de bioseguridad, protegiendo la salud de cada paciente que ingresa a nuestro consultorio.
+Instruimos a los usuarios a consultar a un médico especialista ante signos de alarma como dolor abdominal agudo persistente, vómitos incesantes o presencia de sangre en heces, desaconsejando la automedicación prolongada.
 
-Al finalizar la sesión te proporcionamos indicaciones precisas sobre cuidados en casa, medicación si corresponde y pautas preventivas a largo plazo.
+11. ¿A qué distancia se encuentra el establecimiento respecto a Cuarto del Rescate?
+Nos encontramos a una distancia de 3.20 kilómetros con respecto a Cuarto del Rescate, siguiendo el rumbo norte a través del entramado vial de la ciudad.
 
-Agenda tu cita en FARMACIA LA UNICA en Jr. Shucapampa CUADRA 9, Cajamarca y atiende tu salud con la tranquilidad y profesionalismo que requieres en Bacinicas e inodoros portátiles.
+El traslado vehicular en taxi o mototaxi requiere habitualmente entre 9 y 8 minutos, dependiendo del flujo del tránsito en horas punta matutinas o vespertinas.
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Preservativos en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-El servicio de Preservativos está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de farmacia.
+Nuestra localización estratégica te permite conectar rápidamente con este emblemático punto urbano sin tener que enfrentar embotellamientos prolongados.
 
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
+12. ¿Qué precauciones y recomendaciones posológicas señalan al despachar analgésicos?
+Recordamos a los clientes los límites posológicos seguros para analgésicos de venta libre como paracetamol e ibuprofeno, advirtiendo sobre el riesgo de toxicidad hepática al sobrepasar los cuatro gramos diarios de paracetamol o daño gastrointestinal por abuso de AINEs.
 
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
+Indagamos si el usuario sufre de gastritis erosiva, úlceras o hipertensión arterial antes de sugerir antiinflamatorios, aconsejando tomarlos preferentemente tras las comidas principales para minimizar la irritación estomacal.
 
-Confía tu atención a FARMACIA LA UNICA, situado en Jr. Shucapampa CUADRA 9, Cajamarca, donde protegemos tu salud y la de tu familia en Preservativos.
+Remarcamos que los analgésicos proporcionan alivio sintomático del dolor pero no corrigen la causa originaria del problema, recomendando evaluación facultativa si el malestar físico perdura por más de tres días consecutivos.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Toallas higiénicas en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-El servicio de Toallas higiénicas está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de farmacia.
+13. ¿Qué suplementos multivitamínicos y nutricionales tienen disponibles para la familia?
+Contamos con complementos vitamínicos balanceados que contienen vitamina C, zinc, complejo B, vitamina D3 y minerales indispensables para vigorizar el sistema inmunitario y optimizar la vitalidad física en periodos de sobreexigencia.
 
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
+Para niños ofrecemos jarabes y gotas con hierro y aminoácidos que apoyan el desarrollo psicomotriz, mientras que para adultos mayores disponemos de fórmulas enriquecidas con calcio, magnesio y colágeno para la salud musculoesquelética.
 
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
+Informamos con claridad que los suplementos actúan como apoyo preventivo y nutricional, pero en ningún momento sustituyen una alimentación variada y saludable basada en productos naturales frescos.
 
-Confía tu atención a FARMACIA LA UNICA, situado en Jr. Shucapampa CUADRA 9, Cajamarca, donde protegemos tu salud y la de tu familia en Toallas higiénicas.
+14. ¿Cuál es la distancia y mejor ruta para llegar desde Plaza de Armas de Cajamarca?
+Nos encontramos a una distancia de 3.31 kilómetros con respecto a Plaza de Armas de Cajamarca, siguiendo el rumbo norte a través del entramado vial de la ciudad.
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Jeringas descartables en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-El servicio de Jeringas descartables está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de farmacia.
+El traslado vehicular en taxi o mototaxi requiere habitualmente entre 9 y 8 minutos, dependiendo del flujo del tránsito en horas punta matutinas o vespertinas.
 
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
+Nuestra localización estratégica te permite conectar rápidamente con este emblemático punto urbano sin tener que enfrentar embotellamientos prolongados.
 
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
+15. ¿Qué artículos y accesorios de puericultura ofrecen para recién nacidos y madres?
+Disponemos de cremas protectoras para escaldaduras a base de óxido de zinc, limpiadores neutros syndet sin fragancias abrasivas, toallitas húmedas sin alcohol y aceites emolientes para el cuidado dermatológico del lactante.
 
-Confía tu atención a FARMACIA LA UNICA, situado en Jr. Shucapampa CUADRA 9, Cajamarca, donde protegemos tu salud y la de tu familia en Jeringas descartables.
+Para madres en período de lactancia suministramos parches absorbentes antifugas, pezoneras de silicona de grado médico, extractores de leche manuales y bálsamos cicatrizantes de lanolina para el cuidado de los pezones agrietados.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: ¿Qué protocolos de bioseguridad, higiene y equipamiento respaldan Pañales para bebé en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-La atención en Pañales para bebé se realiza con un enfoque preventivo y correctivo para asegurar resultados efectivos que mejoren tu calidad de vida.
+Orientamos a los padres primerizos sobre la cura higiénica del muñón umbilical empleando alcohol medicinal al setenta por ciento y gasa estéril, promoviendo con firmeza la lactancia materna exclusiva durante los primeros meses del infante.
 
-Utilizamos instrumental debidamente esterilizado, insumos médicos certificados por DIGEMID y tecnología diagnóstica de alta precisión.
+16. ¿Qué productos para la higiene y prevención bucodental especializada tienen en exhibición?
+Proveemos dentífricos formulados para encías sensibles, cremas dentales con flúor de alta eficacia anticaries, geles tópicos con clorhexidina para gingivitis y pastas dentales blanqueadoras no agresivas con el esmalte dental.
 
-Facilitamos la entrega de informes médicos claros y recetas detalladas para un adecuado seguimiento farmacológico o terapéutico.
+Disponemos de enjuagues bucales sin alcohol, sedas dentales enceradas, limpiadores linguales anatómicos y cepillos de dientes periodontales con filamentos ultrasuaves que cuidan el tejido gingival.
 
-Tu bienestar es nuestra prioridad en FARMACIA LA UNICA, ubicado en Jr. Shucapampa CUADRA 9, Cajamarca, donde te orientamos con dedicación en Pañales para bebé.
+Asimismo, contamos con ceras de ortodoncia para prevenir rozaduras de brackets y cepillos interproximales para facilitar una higienización minuciosa entre piezas dentales con aparatos de ortodoncia.
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿Qué protocolos de bioseguridad, higiene y equipamiento respaldan Proteína en polvo para deportistas en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-La atención en Proteína en polvo para deportistas se realiza con un enfoque preventivo y correctivo para asegurar resultados efectivos que mejoren tu calidad de vida.
+17. ¿Qué sugerencias ofrecen para la organización y ubicación del botiquín doméstico?
+Aconsejamos que el botiquín del hogar sea un maletín o mueble portátil, limpio y seguro, situado en un espacio fresco, ventilado y oscuro, resguardado estrictamente de la luz solar directa.
 
-Utilizamos instrumental debidamente esterilizado, insumos médicos certificados por DIGEMID y tecnología diagnóstica de alta precisión.
+Enfatizamos la importancia de no ubicar el botiquín en el baño ni en la cocina, debido a que el vapor constante de agua y las fluctuaciones térmicas deterioran con rapidez la estabilidad química de las formulaciones farmacéuticas.
 
-Facilitamos la entrega de informes médicos claros y recetas detalladas para un adecuado seguimiento farmacológico o terapéutico.
+Recomendamos mantener los fármacos dentro de sus cajas originales con prospecto, guardar el botiquín fuera del alcance de menores e inspeccionar sus existencias cada seis meses para retirar productos expirados.
 
-Tu bienestar es nuestra prioridad en FARMACIA LA UNICA, ubicado en Jr. Shucapampa CUADRA 9, Cajamarca, donde te orientamos con dedicación en Proteína en polvo para deportistas.
+18. ¿Qué formulaciones tienen para el alivio de afecciones respiratorias estacionales?
+Disponemos de antigripales en comprimidos y sobres para solución caliente, jarabes para tos seca o con flema (con dextrometorfano, ambroxol o acetilcisteína) y sprays o soluciones descongestionantes nasales de libre venta.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Crema para pañalitis en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-El servicio de Crema para pañalitis está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de farmacia.
+Orientamos al usuario para diferenciar entre la tos irritativa y la tos productiva, sugiriendo el principio activo idóneo y desaconsejando el uso indiscriminado de antibióticos ante infecciones de etiología netamente viral.
 
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
+Recomendamos medidas higiénicas complementarias como el reposo en cama, abundante ingesta de líquidos calientes y lavados nasales salinos para facilitar la descongestión de las vías aéreas superiores.
 
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
+19. ¿Qué facilidades de pago tienen disponibles para las compras en el establecimiento?
+Admitimos pagos en efectivo con moneda nacional en todas sus denominaciones oficiales, asegurando disponibilidad permanente de cambio para hacer ágil la atención de nuestros clientes.
 
-Confía tu atención a FARMACIA LA UNICA, situado en Jr. Shucapampa CUADRA 9, Cajamarca, donde protegemos tu salud y la de tu familia en Crema para pañalitis.
+Aceptamos todas las tarjetas de débito y crédito del sistema financiero bancario mediante modernos dispositivos POS inalámbricos compatibles con chip y tecnología sin contacto, sin aplicar comisiones sobre el valor de los artículos.
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Qué protocolos de bioseguridad, higiene y equipamiento respaldan Control de peso y talla en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-La atención en Control de peso y talla se realiza con un enfoque preventivo y correctivo para asegurar resultados efectivos que mejoren tu calidad de vida.
+De igual manera, recibimos pagos digitales inmediatos mediante las aplicaciones móviles Yape y Plin escaneando los códigos QR disponibles en el mostrador, brindando una experiencia de compra rápida y segura.
 
-Utilizamos instrumental debidamente esterilizado, insumos médicos certificados por DIGEMID y tecnología diagnóstica de alta precisión.
+20. ¿Cómo deben desechar los vecinos de la zona los medicamentos vencidos en sus hogares?
+Aconsejamos jamás arrojar fármacos vencidos por el inodoro o en la basura común sin precauciones, ya que pueden contaminar las reservas hídricas y propiciar la intoxicación accidental de terceros o mascotas.
 
-Facilitamos la entrega de informes médicos claros y recetas detalladas para un adecuado seguimiento farmacológico o terapéutico.
+Sugerimos retirar las pastillas de sus empaques o tachar las leyendas de los frascos, introduciéndolos en bolsas opacas bien selladas antes de desecharlos si no hay campañas próximas de recolección de residuos sanitarios.
 
-Tu bienestar es nuestra prioridad en FARMACIA LA UNICA, ubicado en Jr. Shucapampa CUADRA 9, Cajamarca, donde te orientamos con dedicación en Control de peso y talla.
-
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿A qué tipo de pacientes o condiciones de salud está indicado el tratamiento de Papillas y cereales infantiles en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Cada procedimiento vinculado a Papillas y cereales infantiles se planifica para ser seguro, mínimamente invasivo y con el máximo confort para el paciente.
-
-Nos apoyamos en guías de práctica clínica actualizadas para garantizar que cada indicación médica tenga un respaldo científico sólido.
-
-Disponemos de horarios de atención programados para evitar tiempos de espera prolongados y brindarte la dedicación que mereces.
-
-En FARMACIA LA UNICA estamos comprometidos con tu bienestar en Jr. Shucapampa CUADRA 9, Cajamarca, brindándote soluciones médicas confiables en Papillas y cereales infantiles.
-
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Cremas hidratantes dermatológicas en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-El servicio de Cremas hidratantes dermatológicas está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de farmacia.
-
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
-
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
-
-Confía tu atención a FARMACIA LA UNICA, situado en Jr. Shucapampa CUADRA 9, Cajamarca, donde protegemos tu salud y la de tu familia en Cremas hidratantes dermatológicas.
-
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Termómetros digitales en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-El servicio de Termómetros digitales está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de farmacia.
-
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
-
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
-
-Confía tu atención a FARMACIA LA UNICA, situado en Jr. Shucapampa CUADRA 9, Cajamarca, donde protegemos tu salud y la de tu familia en Termómetros digitales.
-
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Qué cuidados posteriores, seguimiento y recomendaciones incluye Shampoo medicinal anticaspa en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-Ofrecemos Shampoo medicinal anticaspa respaldado por profesionales de la salud debidamente colegiados y comprometidos con una atención ética y humana.
-
-Diseñamos un plan de tratamiento personalizado considerando tus antecedentes clínicos, edad, estilo de vida y requerimientos fisiológicos específicos.
-
-Mantenemos un canal de comunicación continuo para resolver dudas post-consulta y coordinar citas de control o reevaluación médica.
-
-En FARMACIA LA UNICA te recibimos en Jr. Shucapampa CUADRA 9, Cajamarca con un equipo médico profesional dispuesto a cuidar de ti en Shampoo medicinal anticaspa.
-
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿A qué tipo de pacientes o condiciones de salud está indicado el tratamiento de Pomadas para golpes y dolores musculares en FARMACIA LA UNICA?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-Cada procedimiento vinculado a Pomadas para golpes y dolores musculares se planifica para ser seguro, mínimamente invasivo y con el máximo confort para el paciente.
-
-Nos apoyamos en guías de práctica clínica actualizadas para garantizar que cada indicación médica tenga un respaldo científico sólido.
-
-Disponemos de horarios de atención programados para evitar tiempos de espera prolongados y brindarte la dedicación que mereces.
-
-En FARMACIA LA UNICA estamos comprometidos con tu bienestar en Jr. Shucapampa CUADRA 9, Cajamarca, brindándote soluciones médicas confiables en Pomadas para golpes y dolores musculares.
+Alentamos a la población a sumarse a las campañas periódicas de acopio de medicamentos caducados organizadas por las autoridades de salud en Cajamarca para su destrucción térmica controlada mediante incineración ecológica.
 
 ================================================================================
