@@ -1,7 +1,7 @@
 Nombre: ALMACEN CIA ROCA BLANCA SERVICIOS - CAJAMARCA
-Macro-Sector: 02_Alimentacion_y_Abastecimiento
-Rubro: Distribucion_Alimentos
-Subrubro: Distribuidoras_Mayoristas
+Macro-Sector: 06_Comercio_Moda_y_Regalos
+Rubro: Moda_y_Textil
+Subrubro: Ropa_Damas_Caballeros_Ninos
 Categoría Maps: Centro comercial
 Dirección: A6-B, Av. Universitaria, Cajamarca
 Teléfono: 
