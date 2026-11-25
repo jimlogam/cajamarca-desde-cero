@@ -1,7 +1,7 @@
 Nombre: Dr. Valdivia Clinica
-Macro-Sector: 04_Salud_y_Medicina
-Rubro: Centros_Medicos
-Subrubro: Clinicas_y_Policlinicos
+Macro-Sector: 16_Agropecuario_y_Mascotas
+Rubro: Mascotas_y_Veterinaria
+Subrubro: Clinicas_Veterinarias
 Categoría Maps: Cuidados veterinarios
 Dirección: Jirón Manuel Seoane 96, Cajamarca 06001
 Teléfono: 
@@ -18,251 +18,151 @@ Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cCkFXb
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-Te damos una cordial bienvenida a Dr. Valdivia Clinica. Comprometidos con tu bienestar integral, ponemos a tu disposición atención médica profesional, diagnóstico certero y tratamientos personalizados en un ambiente seguro y confiable. Encuéntranos en Jirón Manuel Seoane 96, Cajamarca con profesionales de vocación listos para cuidar de ti y de tus seres queridos. Agenda tu consulta o solicita información escribiéndonos al WhatsApp con total confianza.
+Dr. Valdivia Clínica Veterinaria le extiende una afectuosa bienvenida en el Jirón Manuel Seoane 96 en Cajamarca. Somos un centro de salud animal de reconocida trayectoria comprometido con el cuidado y bienestar integral de caninos y felinos. Ponemos a su servicio consultas médicas veterinarias, vacunación, desparasitación interna y externa, cirugía de tejidos blandos, profilaxis dental y atención de emergencias. Nuestro equipo profesional atiende a su mascota con calidez, solvencia técnica y tarifas plenamente justas.
 ================================================================================
 
 --------------------------------------------------------------------------------
 20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
 --------------------------------------------------------------------------------
 
---------------------------------------------------------------------------------
-PREGUNTA 1: ¿Qué protocolos de bioseguridad, higiene y equipamiento respaldan Quimioterapia ambulatoria en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-La atención en Quimioterapia ambulatoria se realiza con un enfoque preventivo y correctivo para asegurar resultados efectivos que mejoren tu calidad de vida.
+1. ¿Qué servicios de consulta médica veterinaria y medicina preventiva brindan en la clínica?
+En Dr. Valdivia Clínica Veterinaria brindamos atención médica integral para perros y gatos en todas sus etapas vitales, desde cachorros hasta pacientes geriátricos. Realizamos exámenes clínicos sistemáticos evaluando constantes fisiológicas, frecuencia cardíaca, condición corporal, pelaje y mucosas.
 
-Utilizamos instrumental debidamente esterilizado, insumos médicos certificados por DIGEMID y tecnología diagnóstica de alta precisión.
+Diseñamos planes preventivos personalizados que contemplan esquemas de desparasitación interna y externa contra pulgas, garrapatas y parásitos gastrointestinales, así como programas de nutrición clínica adaptada a cada raza y estilo de vida.
 
-Facilitamos la entrega de informes médicos claros y recetas detalladas para un adecuado seguimiento farmacológico o terapéutico.
+Promovemos la medicina veterinaria preventiva como la vía idónea para evitar enfermedades infectocontagiosas complejas, orientando a los tutores en la detección temprana de signos de dolor, letargo o inapetencia en sus mascotas.
 
-Tu bienestar es nuestra prioridad en Dr. Valdivia Clinica, ubicado en Jirón Manuel Seoane 96, Cajamarca, donde te orientamos con dedicación en Quimioterapia ambulatoria.
+2. ¿A qué distancia se encuentra el establecimiento respecto a Mercado Central de Cajamarca?
+Mercado Central de Cajamarca se localiza a solo 380 metros en dirección suroeste desde nuestras instalaciones en Cajamarca.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿Qué protocolos de bioseguridad, higiene y equipamiento respaldan Consulta de geriatría en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-La atención en Consulta de geriatría se realiza con un enfoque preventivo y correctivo para asegurar resultados efectivos que mejoren tu calidad de vida.
+A pie el trayecto toma aproximadamente 5 minutos en caminata relajada, mientras que en mototaxi o vehículo particular se arriba en escasos 2 a 2 minutos transitando por las vías colectoras principales.
 
-Utilizamos instrumental debidamente esterilizado, insumos médicos certificados por DIGEMID y tecnología diagnóstica de alta precisión.
+Esta extraordinaria cercanía facilita acudir a tus citas, consultas o sesiones de atención mientras realizas tus actividades cotidianas en las inmediaciones.
 
-Facilitamos la entrega de informes médicos claros y recetas detalladas para un adecuado seguimiento farmacológico o terapéutico.
+3. ¿Cómo estructuran el calendario de vacunación para cachorros y perros adultos en Cajamarca?
+Aplicamos biológicos veterinarios de alta calidad que protegen contra patologías víricas de alta letalidad como parvovirosis canina, distémper (moquillo), hepatitis infecciosa, leptospirosis, parainfluenza y rabia.
 
-Tu bienestar es nuestra prioridad en Dr. Valdivia Clinica, ubicado en Jirón Manuel Seoane 96, Cajamarca, donde te orientamos con dedicación en Consulta de geriatría.
+Para cachorros iniciamos el esquema a partir de las seis a ocho semanas de vida con refuerzos seriados cada tres semanas hasta completar la primovacunación, garantizando que el animal desarrolle títulos de anticuerpos protectores sólidos.
 
---------------------------------------------------------------------------------
-PREGUNTA 3: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Terapia ocupacional en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-El servicio de Terapia ocupacional está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de clínicas y hospitales.
+En perros adultos administramos refuerzos anuales obligatorios de la vacuna séxtuple u óctuple y la vacuna antirrábica oficial, entregando el carné de vacunación formalmente sellado por el médico veterinario colegiado.
 
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
+4. ¿Qué esquema de inmunización y cuidados sanitarios aplican para gatitos y gatos adultos?
+Para los felinos domésticos implementamos programas de vacunación con la vacuna triple felina, la cual confiere inmunidad frente a panleucopenia felina, calicivirus y rinotraqueítis viral felina, patologías respiratorias y digestivas muy contagiosas.
 
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
+Recomendamos la prueba diagnóstica serológica previa para descartar Leucemia e Inmunodeficiencia Felina (SIDA felino) antes de administrar la vacuna contra el virus de la leucemia en gatos con acceso al exterior.
 
-Confía tu atención a Dr. Valdivia Clinica, situado en Jirón Manuel Seoane 96, Cajamarca, donde protegemos tu salud y la de tu familia en Terapia ocupacional.
+Asesoramos sobre desparasitaciones periódicas trimestrales con pipetas y tabletas palatables, subrayando que incluso los felinos de interior absoluto requieren prevención frente a parásitos transportados en el calzado de sus tutores.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Radiografía de columna en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-El servicio de Radiografía de columna está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de clínicas y hospitales.
+5. ¿Cuánto tiempo toma desplazarse desde el establecimiento hasta Real Plaza Cajamarca?
+Real Plaza Cajamarca se localiza a solo 883 metros en dirección sureste desde nuestras instalaciones en Cajamarca.
 
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
+A pie el trayecto toma aproximadamente 12 minutos en caminata relajada, mientras que en mototaxi o vehículo particular se arriba en escasos 2 a 2 minutos transitando por las vías colectoras principales.
 
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
+Esta extraordinaria cercanía facilita acudir a tus citas, consultas o sesiones de atención mientras realizas tus actividades cotidianas en las inmediaciones.
 
-Confía tu atención a Dr. Valdivia Clinica, situado en Jirón Manuel Seoane 96, Cajamarca, donde protegemos tu salud y la de tu familia en Radiografía de columna.
+6. ¿Qué procedimientos de cirugía veterinaria y esterilización programada efectúan?
+Disponemos de un quirófano veterinario completamente equipado para la realización de cirugías electivas de esterilización (ovariohisterectomía en hembras y orquiectomía en machos), fundamentales para el control reproductivo y la prevención de tumores mamarios y piometras.
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Qué protocolos de bioseguridad, higiene y equipamiento respaldan Hemograma completo en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-La atención en Hemograma completo se realiza con un enfoque preventivo y correctivo para asegurar resultados efectivos que mejoren tu calidad de vida.
+Efectuamos asimismo cirugías de tejidos blandos como resolución de heridas lacerantes, extirpación de nódulos cutáneos, herniorrafias y corrección de cuerpos extraños gastrointestinales bajo rigurosos protocolos de bioseguridad.
 
-Utilizamos instrumental debidamente esterilizado, insumos médicos certificados por DIGEMID y tecnología diagnóstica de alta precisión.
+Implementamos anestesia equilibrada y monitorización continua de signos vitales (pulsioximetría, frecuencia respiratoria y temperatura), prescribiendo analgesia postoperatoria multimodal para asegurar una recuperación indolora.
 
-Facilitamos la entrega de informes médicos claros y recetas detalladas para un adecuado seguimiento farmacológico o terapéutico.
+7. ¿Cómo realizan la profilaxis dental y limpieza por ultrasonido en mascotas?
+La acumulación de sarro dental y placa bacteriana provoca enfermedad periodontal grave, pérdida prematura de piezas dentales e infecciones secundarias en riñones y válvulas cardíacas por bacteriemia.
 
-Tu bienestar es nuestra prioridad en Dr. Valdivia Clinica, ubicado en Jirón Manuel Seoane 96, Cajamarca, donde te orientamos con dedicación en Hemograma completo.
+Realizamos la profilaxis dental canina y felina empleando un equipo de ultrasonido veterinario de precisión que fragmenta el sarro subgingival y supragingival sin rayar el esmalte dental, bajo anestesia general controlada.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Consulta de hematología en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-El servicio de Consulta de hematología está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de clínicas y hospitales.
+Finalizamos el procedimiento con el pulido dental profesional para retardar la adhesión de nueva placa bacteriana, asesorando a los tutores sobre técnicas de cepillado doméstico y snacks dentales enzimáticos.
 
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
+8. ¿A qué distancia se encuentra el establecimiento respecto a Cuarto del Rescate?
+Cuarto del Rescate se localiza a solo 929 metros en dirección suroeste desde nuestras instalaciones en Cajamarca.
 
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
+A pie el trayecto toma aproximadamente 12 minutos en caminata relajada, mientras que en mototaxi o vehículo particular se arriba en escasos 3 a 2 minutos transitando por las vías colectoras principales.
 
-Confía tu atención a Dr. Valdivia Clinica, situado en Jirón Manuel Seoane 96, Cajamarca, donde protegemos tu salud y la de tu familia en Consulta de hematología.
+Esta extraordinaria cercanía facilita acudir a tus citas, consultas o sesiones de atención mientras realizas tus actividades cotidianas en las inmediaciones.
 
---------------------------------------------------------------------------------
-PREGUNTA 7: ¿Cómo se realiza la evaluación profesional previa y diagnóstico para Atención de emergencia 24 horas en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-Al acudir por Atención de emergencia 24 horas recibes una valoración médica integral que prioriza un diagnóstico certero y un plan terapéutico adaptado a tu condición de salud.
+9. ¿Qué protocolos de diagnóstico por laboratorio y análisis clínicos disponen?
+Contamos con soporte de laboratorio clínico veterinario para la realización de hemogramas completos, perfiles bioquímicos (función renal y hepática), electrolitos séricos y análisis microscópicos de orina.
 
-Mantenemos ambientes desinfectados bajo estrictas normas de bioseguridad, protegiendo la salud de cada paciente que ingresa a nuestro consultorio.
+Efectuamos raspados cutáneos y citologías dérmicas y óticas para la identificación inmediata de ácaros (sarna), bacterias y levaduras (Malassezia) en cuadros dermatológicos alérgicos o pruriginosos.
 
-Al finalizar la sesión te proporcionamos indicaciones precisas sobre cuidados en casa, medicación si corresponde y pautas preventivas a largo plazo.
+Realizamos además pruebas rápidas inmunocromatográficas de alta sensibilidad para el descarte en minutos de enfermedades virales críticas como parvovirus, distémper canino y leucemia felina.
 
-Agenda tu cita en Dr. Valdivia Clinica en Jirón Manuel Seoane 96, Cajamarca y atiende tu salud con la tranquilidad y profesionalismo que requieres en Atención de emergencia 24 horas.
+10. ¿Qué atención brindan ante urgencias veterinarias comunes en el hogar?
+Atendemos cuadros de urgencia médica veterinaria como intoxicaciones accidentales por venenos o plantas tóxicas, traumatismos por caídas o accidentes vehiculares, mordeduras por peleas y dilatación-torsión gástrica.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué protocolos de bioseguridad, higiene y equipamiento respaldan Consulta de traumatología y ortopedia en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-La atención en Consulta de traumatología y ortopedia se realiza con un enfoque preventivo y correctivo para asegurar resultados efectivos que mejoren tu calidad de vida.
+Disponemos de oxigenoterapia, terapia de fluidos intravenosos para estabilización de choque hipovolémico y fármacos de reanimación y analgesia intensiva para estabilizar al paciente crítico.
 
-Utilizamos instrumental debidamente esterilizado, insumos médicos certificados por DIGEMID y tecnología diagnóstica de alta precisión.
+Orientamos telefónicamente al tutor sobre los primeros auxilios básicos antes de movilizar al animal, enfatizando la importancia de acudir de inmediato a la clínica sin administrar medicamentos humanos tóxicos como paracetamol o ibuprofeno.
 
-Facilitamos la entrega de informes médicos claros y recetas detalladas para un adecuado seguimiento farmacológico o terapéutico.
+11. ¿Cuál es la distancia y mejor ruta para llegar desde Plaza de Armas de Cajamarca?
+Plaza de Armas de Cajamarca se localiza a solo 946 metros en dirección suroeste desde nuestras instalaciones en Cajamarca.
 
-Tu bienestar es nuestra prioridad en Dr. Valdivia Clinica, ubicado en Jirón Manuel Seoane 96, Cajamarca, donde te orientamos con dedicación en Consulta de traumatología y ortopedia.
+A pie el trayecto toma aproximadamente 13 minutos en caminata relajada, mientras que en mototaxi o vehículo particular se arriba en escasos 3 a 2 minutos transitando por las vías colectoras principales.
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Qué cuidados posteriores, seguimiento y recomendaciones incluye Examen de agudeza visual y fondo de ojo en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Ofrecemos Examen de agudeza visual y fondo de ojo respaldado por profesionales de la salud debidamente colegiados y comprometidos con una atención ética y humana.
+Esta extraordinaria cercanía facilita acudir a tus citas, consultas o sesiones de atención mientras realizas tus actividades cotidianas en las inmediaciones.
 
-Diseñamos un plan de tratamiento personalizado considerando tus antecedentes clínicos, edad, estilo de vida y requerimientos fisiológicos específicos.
+12. ¿Por qué es altamente peligroso automedicar a perros y gatos con fármacos humanos?
+Informamos con firmeza que medicamentos humanos comunes como el paracetamol, aspirina o ibuprofeno son extremadamente tóxicos y con frecuencia letales para perros y, muy especialmente, para los gatos.
 
-Mantenemos un canal de comunicación continuo para resolver dudas post-consulta y coordinar citas de control o reevaluación médica.
+Los felinos carecen de enzimas hepáticas esenciales para metabolizar el paracetamol, provocando metahemoglobinemia y necrosis hepática fulminante con dosis mínimas, mientras que los AINEs generan úlceras gástricas perforadas e insuficiencia renal aguda en caninos.
 
-En Dr. Valdivia Clinica te recibimos en Jirón Manuel Seoane 96, Cajamarca con un equipo médico profesional dispuesto a cuidar de ti en Examen de agudeza visual y fondo de ojo.
+Instamos a los dueños de mascotas a consultar siempre al médico veterinario colegiado antes de administrar cualquier sustancia, empleando exclusivamente formulaciones y dosis calculadas estrictamente por especie y peso animal.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Cómo se realiza la evaluación profesional previa y diagnóstico para Cirugía de hernia inguinal en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Al acudir por Cirugía de hernia inguinal recibes una valoración médica integral que prioriza un diagnóstico certero y un plan terapéutico adaptado a tu condición de salud.
+13. ¿Qué cuidados y recomendaciones prescriben para animales geriátricos o de edad avanzada?
+Las mascotas mayores de siete años requieren una vigilancia médica geriátrica semestral para detectar precozmente enfermedades crónicas degenerativas como osteoartrosis, insuficiencia renal crónica, cardiopatías y disfunción cognitiva.
 
-Mantenemos ambientes desinfectados bajo estrictas normas de bioseguridad, protegiendo la salud de cada paciente que ingresa a nuestro consultorio.
+Recomendamos chequeos que incluyan medición de presión arterial veterinaria, análisis de sangre y orina, prescribiendo condroprotectores articulares, dietas renales bajas en fósforo y suplementos neuroprotectores con ácidos grasos omega 3.
 
-Al finalizar la sesión te proporcionamos indicaciones precisas sobre cuidados en casa, medicación si corresponde y pautas preventivas a largo plazo.
+Asesoramos a las familias en la adaptación del entorno hogareño en Cajamarca: proporcionar camas acolchadas aisladas del suelo frío, rampas para desniveles y platos elevados para agua y comida.
 
-Agenda tu cita en Dr. Valdivia Clinica en Jirón Manuel Seoane 96, Cajamarca y atiende tu salud con la tranquilidad y profesionalismo que requieres en Cirugía de hernia inguinal.
+14. ¿Cuál es la distancia y mejor ruta para llegar desde Mirador del cerro Santa Apolonia?
+Nos encontramos a una distancia de 1.31 kilómetros con respecto a Mirador del cerro Santa Apolonia, siguiendo el rumbo suroeste a través del entramado vial de la ciudad.
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Prueba de esfuerzo cardíaco en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-El servicio de Prueba de esfuerzo cardíaco está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de clínicas y hospitales.
+El traslado vehicular en taxi o mototaxi requiere habitualmente entre 4 y 3 minutos, dependiendo del flujo del tránsito en horas punta matutinas o vespertinas.
 
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
+Nuestra localización estratégica te permite conectar rápidamente con este emblemático punto urbano sin tener que enfrentar embotellamientos prolongados.
 
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
+15. ¿Cómo abordan las enfermedades dermatológicas y alérgicas en caninos?
+Las dermatitis alérgicas (dermatitis atópica, alergia por pulgas y alergia alimentaria) representan uno de los principales motivos de consulta veterinaria, manifestándose con prurito intenso, alopecia y lamido constante de patas.
 
-Confía tu atención a Dr. Valdivia Clinica, situado en Jirón Manuel Seoane 96, Cajamarca, donde protegemos tu salud y la de tu familia en Prueba de esfuerzo cardíaco.
+Establecemos un protocolo diagnóstico escalonado para descartar ectoparásitos e infecciones secundarias, empleando dietas de eliminación hipoalergénicas con proteína novel o hidrolizada para corroborar alergias alimentarias.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Banco de sangre y transfusión en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-El servicio de Banco de sangre y transfusión está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de clínicas y hospitales.
+Instauramos tratamientos moduladores del prurito con moléculas veterinarias seguras de última generación (como oclacitinib o anticuerpos monoclonales caninos), combinados con baños terapéuticos antiseborreicos y restauradores de barrera dérmica.
 
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
+16. ¿Qué medidas de desparasitación y control parasitario recomiendan para proteger a la familia?
+Muchos parásitos gastrointestinales de las mascotas (como Toxocara canis, Giardia y dipylidium) son agentes zoonóticos que pueden transmitirse a las personas, afectando especialmente a niños pequeños y adultos mayores.
 
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
+Recomendamos desparasitar internamente a perros y gatos cada tres meses con antiparasitarios de amplio espectro que eliminen nematodos y cestodos, acompañando de un control estricto de pulgas y garrapatas durante todo el año.
 
-Confía tu atención a Dr. Valdivia Clinica, situado en Jirón Manuel Seoane 96, Cajamarca, donde protegemos tu salud y la de tu familia en Banco de sangre y transfusión.
+Aconsejamos recoger diariamente las heces en bolsas plásticas, lavarse las manos con agua y jabón tras acariciar a las mascotas y no permitir que los animales laman la cara de los infantes.
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿Qué cuidados posteriores, seguimiento y recomendaciones incluye Unidad de cuidados intensivos pediátricos en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-Ofrecemos Unidad de cuidados intensivos pediátricos respaldado por profesionales de la salud debidamente colegiados y comprometidos con una atención ética y humana.
+17. ¿Qué asesoramiento nutricional proporcionan según la etapa de desarrollo de la mascota?
+Orientamos sobre los requerimientos energéticos y de macronutrientes específicos para cachorros en rápido crecimiento, hembras en gestación o lactancia, animales adultos activos y pacientes sénior con metabolismo enlentecido.
 
-Diseñamos un plan de tratamiento personalizado considerando tus antecedentes clínicos, edad, estilo de vida y requerimientos fisiológicos específicos.
+Ayudamos al tutor a interpretar los ingredientes de los alimentos balanceados comerciales, distinguiendo entre opciones económicas, prémium y superprémium con carne deshidratada como primer ingrediente.
 
-Mantenemos un canal de comunicación continuo para resolver dudas post-consulta y coordinar citas de control o reevaluación médica.
+Desaconsejamos dietas caseras desbalanceadas que suelen provocar deficiencias de calcio, fósforo y taurina (en gatos), guiando la transición dietética gradual durante siete a diez días para prevenir diarreas osmóticas.
 
-En Dr. Valdivia Clinica te recibimos en Jirón Manuel Seoane 96, Cajamarca con un equipo médico profesional dispuesto a cuidar de ti en Unidad de cuidados intensivos pediátricos.
+18. ¿Qué recomendaciones postoperatorias proporcionan tras una cirugía en la clínica?
+Tras una intervención quirúrgica entregamos indicaciones escritas detalladas que abarcan el reposo estricto del paciente en un ambiente tibio y limpio, evitando saltos, carreras o humedad en la zona de incisión.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Pruebas de coagulación en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-El servicio de Pruebas de coagulación está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de clínicas y hospitales.
+Indicamos el uso ininterrumpido del collar isabelino o body postquirúrgico para impedir que el animal se lama o retire los puntos de sutura con los dientes, lo que provocaría dehiscencia o infecciones graves.
 
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
+Prescribimos el plan analgésico y antibiótico postoperatorio exacto y programamos la cita de control a los tres días y el retiro definitivo de puntos entre los diez y doce días posteriores a la cirugía.
 
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
+19. ¿Cuáles son los medios de pago disponibles para los tutores de mascotas?
+Para mayor comodidad y tranquilidad de las familias, aceptamos pagos en efectivo en moneda nacional para todos los servicios clínicos, medicamentos y accesorios.
 
-Confía tu atención a Dr. Valdivia Clinica, situado en Jirón Manuel Seoane 96, Cajamarca, donde protegemos tu salud y la de tu familia en Pruebas de coagulación.
+Disponemos de terminales de pago POS modernos que admiten tarjetas de débito y crédito de las principales redes financieras (Visa, Mastercard, etc.), permitiendo pagos sin contacto rápidos y seguros.
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Hemocultivo en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-El servicio de Hemocultivo está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de clínicas y hospitales.
+Asimismo, facilitamos transferencias digitales inmediatas a través de billeteras móviles como Yape y Plin escaneando el código QR en caja, agilizando la atención médica sin demoras innecesarias.
 
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
+20. ¿Cómo deben gestionar los tutores los desechos y medicamentos veterinarios sobrantes?
+Aconsejamos nunca arrojar sobrantes de jarabes o pastillas veterinarias caducadas por los desagües domésticos, ya que los residuos químicos pueden perjudicar la fauna acuática y contaminar las aguas locales.
 
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
+Recomendamos no guardar medicamentos antibióticos o antiinflamatorios abiertos para usarlos en el futuro ante síntomas similares sin una nueva evaluación veterinaria, dado que las dosis varían según el peso y estado del paciente.
 
-Confía tu atención a Dr. Valdivia Clinica, situado en Jirón Manuel Seoane 96, Cajamarca, donde protegemos tu salud y la de tu familia en Hemocultivo.
-
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Cirugía de próstata en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-El servicio de Cirugía de próstata está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de clínicas y hospitales.
-
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
-
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
-
-Confía tu atención a Dr. Valdivia Clinica, situado en Jirón Manuel Seoane 96, Cajamarca, donde protegemos tu salud y la de tu familia en Cirugía de próstata.
-
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Qué protocolos de bioseguridad, higiene y equipamiento respaldan Examen completo de orina en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-La atención en Examen completo de orina se realiza con un enfoque preventivo y correctivo para asegurar resultados efectivos que mejoren tu calidad de vida.
-
-Utilizamos instrumental debidamente esterilizado, insumos médicos certificados por DIGEMID y tecnología diagnóstica de alta precisión.
-
-Facilitamos la entrega de informes médicos claros y recetas detalladas para un adecuado seguimiento farmacológico o terapéutico.
-
-Tu bienestar es nuestra prioridad en Dr. Valdivia Clinica, ubicado en Jirón Manuel Seoane 96, Cajamarca, donde te orientamos con dedicación en Examen completo de orina.
-
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿A qué tipo de pacientes o condiciones de salud está indicado el tratamiento de Cirugía laparoscópica abdominal en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Cada procedimiento vinculado a Cirugía laparoscópica abdominal se planifica para ser seguro, mínimamente invasivo y con el máximo confort para el paciente.
-
-Nos apoyamos en guías de práctica clínica actualizadas para garantizar que cada indicación médica tenga un respaldo científico sólido.
-
-Disponemos de horarios de atención programados para evitar tiempos de espera prolongados y brindarte la dedicación que mereces.
-
-En Dr. Valdivia Clinica estamos comprometidos con tu bienestar en Jirón Manuel Seoane 96, Cajamarca, brindándote soluciones médicas confiables en Cirugía laparoscópica abdominal.
-
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿En qué consiste y qué beneficios preventivos o curativos aporta el servicio de Colonoscopía en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-El servicio de Colonoscopía está enfocado en brindar una atención clínica especializada, orientada a recuperar y preservar tu bienestar dentro del campo de clínicas y hospitales.
-
-El profesional a cargo explica de manera sencilla y clara cada etapa del procedimiento, resolviendo todas tus dudas antes de iniciar cualquier intervención.
-
-Priorizamos una atención cálida y respetuosa para que te sientas en confianza y con la tranquilidad de estar en manos calificadas.
-
-Confía tu atención a Dr. Valdivia Clinica, situado en Jirón Manuel Seoane 96, Cajamarca, donde protegemos tu salud y la de tu familia en Colonoscopía.
-
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Cómo se realiza la evaluación profesional previa y diagnóstico para Consulta de otorrinolaringología en Dr. Valdivia Clinica?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-Al acudir por Consulta de otorrinolaringología recibes una valoración médica integral que prioriza un diagnóstico certero y un plan terapéutico adaptado a tu condición de salud.
-
-Mantenemos ambientes desinfectados bajo estrictas normas de bioseguridad, protegiendo la salud de cada paciente que ingresa a nuestro consultorio.
-
-Al finalizar la sesión te proporcionamos indicaciones precisas sobre cuidados en casa, medicación si corresponde y pautas preventivas a largo plazo.
-
-Agenda tu cita en Dr. Valdivia Clinica en Jirón Manuel Seoane 96, Cajamarca y atiende tu salud con la tranquilidad y profesionalismo que requieres en Consulta de otorrinolaringología.
+Alentamos a entregar fármacos caducados en campañas de acopio sanitario de la ciudad para su disposición final segura mediante destrucción térmica controlada por las entidades ambientales competentes.
 
 ================================================================================
