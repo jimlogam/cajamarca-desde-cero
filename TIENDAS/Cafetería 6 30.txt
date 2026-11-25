@@ -2,186 +2,180 @@ Nombre: Cafetería 6:30
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Cafetería
+Categoría Maps: Cafetería, Pastelería
 Dirección: Jr. Guillermo Urrelo 855, Cajamarca 06002
 Teléfono: 997 476 508
-Rating: 4
+Rating: 4.0
 Reseñas: 22
 Sitio web: https://630.cafe/
 Latitud: -7.158169
-Longitud: -78.51510549999999
+Longitud: -78.5151055
 Google Maps: https://www.google.com/maps?cid=5053349075215995779
 Place Id: ChIJe6cWMABbspERg1NMyjUaIUY
 Fotos: Cafetería 6 30.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdXZ2FxoC335UKuhGx4mAcD608Vi4h0P7-Q2TQAJmjziLdMkh5Lzqo3Br62G15GsCuWAxKyLaMsEh3DWjuY_GYbIQEMJlDOwMDBSxtxmiVssT8Ngke0ahcw6Q-TrUfjr4gPjs99kw26-XF1=w1600-h1200-k-no
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a Cafetería 6:30. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Jr. Guillermo Urrelo 855, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Link foto: https://lh3.googleusercontent.com/p/AF1QipN-placeholder=w1600-h1200-k-no
+================================================================================
+================================================================================
+Texto de bienvenida:
+En Cafetería 6:30 te damos la bienvenida a un moderno templo del café de especialidad y desayunos energéticos en el tradicional jirón Guillermo Urrelo 855 en Cajamarca. Con más de veinte reseñas positivas, abrimos desde temprano para servir espressos calibrados, métodos de filtrado manual, tostadas francesas, bowls nutritivos y sándwiches gourmet en un ambiente juvenil y dinámico. Disfruta de Wi-Fi veloz, buena música y atención cordial. ¡Ven a iniciar tus mañanas con energía y excelente sabor!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué métodos de extracción y cafés calibrados caracterizan la barra?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: Tengo una reunión temprano por la mañana, ¿abren a las 6:30 para tomar un café antes de empezar?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Haciendo honor a nuestro nombre, iniciamos la atención desde las seis y media de la mañana para recibir a madrugadores y trabajadores.
+En nuestra barra cafetera trabajamos exclusivamente con granos de café arábica de estricta altura procedentes de Jaén y San Ignacio, tostados en perfil medio para exaltar notas florales, panela y chocolate amargo.
 
-Te servimos al instante un café de altura recién extraído y sándwiches calientes crujientes para que comiences tu jornada con la mejor energía y puntualidad en Cafetería 6:30.
+Servimos espressos calibrados con balanza digital y cronómetro, cappuccinos con leche emulsionada sedosa a sesenta grados centígrados, lattes con delicado arte latte y café americano limpio. Cada taza se elabora con precisión barista.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿A qué distancia me encuentro de su local si salgo del Cuarto del Rescate?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Estamos a solo 164 metros del histórico Cuarto del Rescate, a escasos dos minutos a pie, papachito.
+Ofrecemos además métodos de extracción manual como V60, Chemex y Aeropress, permitiendo a los comensales descubrir los matices más complejos y aromáticos del café norperuano.
 
-Basta con caminar una cuadra y media hacia el Jirón Guillermo Urrelo 855 para encontrar nuestro salón. Es la parada más cercana y cómoda para relajarse tras una visita turística en el centro histórico.
+2. ¿A qué distancia se encuentra Cafetería 6:30 respecto al histórico Cuarto del Rescate?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: Olvidé el efectivo en casa, ¿puedo cancelar con billeteras móviles como Yape o tarjeta?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Aceptamos pagos electrónicos al instante mediante transferencias de Yape y Plin directamente desde tu teléfono.
+El establecimiento se localiza a solo 158 metros (0.16 km) del célebre Cuarto del Rescate, lo que representa una caminata de apenas dos minutos por el jirón Guillermo Urrelo. Es una ubicación inmejorable junto al monumento arqueológico.
 
-Asimismo, cobramos con tarjetas de crédito y débito sin recargo alguno, permitiéndote consumir con absoluta libertad y comodidad.
+Turistas nacionales y extranjeros que inician sus recorridos culturales pueden ingresar en pocos pasos para tomar un desayuno de especialidad y planificar su jornada con café de alta gama. El acceso peatonal es plano y muy seguro.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: Necesito conectar mi laptop para una entrega urgente, ¿tienen enchufes y buena red Wi-Fi?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Disponemos de mesas con tomas de corriente accesibles y una red Wi-Fi estable y de alta velocidad de cortesía.
+Esta corta distancia sitúa a nuestra cafetería como uno de los espacios más convenientes para conectar el turismo histórico con la gastronomía contemporánea.
 
-Encontrarás una atmósfera tranquila y luminosa, con música a volumen moderado para trabajar o estudiar con total fluidez mientras tomas un buen expreso.
+3. ¿Cuáles son las opciones de desayunos energéticos y bowls nutritivos?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: Si estoy en la Plaza de Armas de Cajamarca, ¿cuántos minutos me toma llegar caminando?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-La distancia desde la Plaza de Armas es de apenas 337 metros.
+Nuestra propuesta mañanera destaca por los açai bowls y smoothie bowls elaborados con frutas congeladas, leche vegetal, granola artesanal crocante, semillas de chía y miel pura de abeja andina. Son opciones frescas y revitalizantes.
 
-Son unas tres o cuatro cuadras a paso suave que se recorren en cuatro minutos por calles seguras del centro monumental, siendo un salto corto para escapar del ruido de la plaza.
+Preparamos también tostadas francesas doradas a la mantequilla servidas con frutas del bosque y sirope de maple, además de tostadas con palta machacada, semillas de ajonjolí tostado y huevos pochados al punto exacto.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: La brisa helada de la tarde me sorprendió en la calle, ¿qué bebida caliente tienen para servir al instante?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Para combatir el frío cajamarquino servimos de inmediato chocolate caliente artesanal preparado con cacao puro o un capuchino con espuma sedosa.
+Para quienes buscan un desayuno contundente, servimos omelettes de verduras frescas con queso andino cajamarquino derretido y pan brioche tostado.
 
-Ambas bebidas templan el cuerpo y devuelven el ánimo al abrigo de nuestras acogedoras instalaciones.
+4. ¿Qué alternativas saladas y sándwiches gourmet ofrecen para el almuerzo ligero?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: Vengo de viaje con equipaje pesado, ¿me permiten ubicarme con mochilas en el salón?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-El confort de nuestros visitantes es fundamental en todo momento.
+Elaboramos sándwiches artesanales prensados a la plancha en panes ciabatta y focaccias recién salidas del horno, destacando el sándwich de pollo marinado con finas hierbas y palta fresca, y el sándwich de jamón serrano con queso madurado.
 
-Te ubicamos en mesas holgadas donde resguardamos tus maletas de manera segura, permitiéndote descansar las piernas y tomar una merienda reconfortante con total serenidad.
+Disponemos asimismo de opciones vegetarianas con champiñones salteados al wok, tomates confitados, queso ricota y hojas de rúcula con toques de aceite de oliva virgen extra. Cada porción se sirve tibia y con impecable presentación.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué tan cerca queda su cafetería si vengo caminando desde el Mirador Santa Apolonia?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Nos ubicamos a unos 530 metros de distancia descendiendo por los senderos tradicionales.
+Son platillos ideales para un almuerzo rápido y balanceado entre horas de trabajo o estudio.
 
-El trayecto a pie toma alrededor de seis minutos desembocando con facilidad hacia Guillermo Urrelo, siendo la escala perfecta para merendar tras admirar la vista de Cajamarca.
+5. ¿Cuál es la separación exacta hacia el Monumento de San Francisco?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Tienen opciones saludables para personas que evitan el azúcar o la lactosa?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Nos adaptamos con gusto a tus requerimientos nutricionales para cuidar tu bienestar.
+La separación hacia la Iglesia San Francisco de Cajamarca es de solo 249 metros (0.25 km), demandando una caminata de escasos tres minutos por las vías céntricas. Conecta de forma fluida el complejo franciscano con el local.
 
-Preparamos tus cafés con leche vegetal de almendras o soya, y contamos con infusiones digestivas naturales de hierbas andinas sin endulzantes añadidos en Cafetería 6:30.
+Paseantes y feligreses que visitan las catacumbas y claustros coloniales pueden llegar de inmediato hacia nuestro salón para merendar con serenidad. La ruta discurre por calles pavimentadas y muy comerciales.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Puedo encargar café y sándwiches por delivery para un desayuno de oficina?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Coordinamos despachos corporativos y familiares mediante nuestro canal oficial de WhatsApp y sitio web.
+La proximidad vial hace muy cómodo integrar un descanso cafetero dentro del recorrido arquitectónico colonial.
 
-Utilizamos empaques térmicos sellados que protegen la temperatura y frescura de tus bebidas y bocaditos hasta llegar a tu mesa de trabajo.
+6. ¿Cómo opera el servicio de órdenes para llevar y despacho a domicilio?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: Si me ubico en el Mercado Central, ¿cuál es la mejor opción para trasladarme a pie?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-La distancia desde el Mercado Central es de aproximadamente 640 metros.
+Los comensales pueden adquirir sus bebidas calientes y desayunos en mostrador para llevar en empaques térmicos ecológicos que resguardan la temperatura y estética de los alimentos. El despacho toma pocos minutos.
 
-Son unas seis cuadras en línea recta por el centro de la ciudad que se recorren en unos siete minutos a paso tranquilo, siendo un trayecto plano, directo y seguro a cualquier hora del día.
+Para despachos a domicilio en el centro urbano, coordinamos envíos comunicándose a nuestro canal de WhatsApp oficial y plataforma web, empacando cada producto de forma higiénica. Los motorizados entregan con diligencia.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: Llegamos en grupo familiar sin reserva previa, ¿tienen capacidad para sentarnos juntos?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Reorganizamos nuestras mesas modulares en un abrir y cerrar de ojos para acoger a toda tu familia.
+Las bebidas calientes se sirven en vasos térmicos biodegradables con tapas herméticas que impiden salpicaduras involuntarias al caminar o viajar.
 
-Todos podrán sentarse a compartir una misma conversación mientras servimos con agilidad cafés, jugos naturales y sándwiches recién preparados.
+7. ¿Qué bebidas frías, cold brew y frappés tienen en temporada cálida?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: Busco una mesa tranquila para dialogar un tema personal o de negocios, ¿es el ambiente adecuado?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-El local ofrece esquinas acogedoras y rincones apartados de la puerta principal donde podrás conversar con total tranquilidad y privacidad.
+Servimos cold brew artesanal macerado en frío durante catorce horas consecutivas, extrayendo una bebida con baja acidez, gran dulzor natural y cuerpo sedoso muy refrescante. Se puede disfrutar solo o con leche vegetal.
 
-La iluminación cálida y la atmósfera serena favorecen el diálogo ameno acompañado de infusiones aromáticas o copas selectas.
+Preparamos también frappés cremosos de café moka con crema chantilly, iced lattes saborizados con jarabes caseros de vainilla o avellana y limonadas refrescantes con extracto de maracuyá y toques de jengibre.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿A cuántos minutos en taxi se encuentra su establecimiento desde el Real Plaza?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Desde el centro comercial la distancia es de apenas 1.0 kilómetro hacia el centro histórico.
+Para los jóvenes y niños, ofrecemos milkshakes espesos preparados con helado artesanal y leche fresca entera del valle.
 
-Cualquier taxi o mototaxi te traslada en unos tres o cuatro minutos hasta el Jirón Guillermo Urrelo 855, conectando la modernidad comercial con la calidez de nuestro café.
+8. ¿Qué distancia media hay hacia la histórica Plaza de Armas de Cajamarca?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Qué especialidad de café o postre casero no me puedo perder en mi primera visita?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Te recomendamos probar nuestras extracciones de café de especialidad de orígenes selectos, acompañadas de una porción tibia de queque artesanal o tarta casera.
+Nos situamos a solo 342 metros (0.34 km) de la Plaza de Armas de Cajamarca, representando una caminata de unos cuatro minutos por las veredas tradicionales de Guillermo Urrelo. Conecta la plaza mayor con la cafetería.
 
-El balance entre las notas dulces y ácidas del grano cajamarquino conquista el paladar desde el primer sorbo.
+Familias y parejas que pasean por la catedral y los jardines céntricos suelen acercarse para disfrutar de un café de especialidad en un ambiente tranquilo y moderno. El acceso peatonal es totalmente directo.
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Venden café en grano entero o con molienda personalizada para llevar a casa?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Disponemos de paquetes de granos cosechados en valles de altura de la región norte.
+Es un punto sumamente accesible para acordar reuniones de trabajo o descansos de media tarde en pleno centro histórico.
 
-Los molemos en el acto de acuerdo al grosor que demande tu cafetera para que disfrutes del mismo cuerpo y aroma en casa o sorprendas a un familiar con un regalo de calidad.
+9. ¿Tienen promociones especiales durante las mañanas tempranas?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Atienden los domingos y días festivos para compartir en familia?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Mantenemos atención continua toda la semana, incluyendo los fines de semana y feriados festivos.
+Ofrecemos combos madrugadores que integran una taza grande de café filtrado o americano con una porción de tostadas o queque casero a un precio promocional muy accesible durante las primeras horas del servicio. Son muy concurridos.
 
-Es un punto de encuentro ideal para familias y turistas que buscan consentirse con una buena merienda en un entorno seguro y agradable.
+Presentamos también descuentos especiales para trabajadores que realizan teletrabajo prolongado en nuestras mesas, incluyendo recargas con tarifa preferencial en métodos de goteo seleccionados. Fomentamos un ambiente productivo.
 
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Tienen sándwiches calientes o bocaditos salados para una merienda sustanciosa?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Nuestra carta ofrece empanadas horneadas, sándwiches artesanales con quesos locales y tostadas especiales preparadas al momento.
+Las promociones se publican periódicamente en nuestras cartillas de barra y a través de nuestra web y redes sociales oficiales.
 
-Son opciones muy sabrosas y reconfortantes para cerrar la jornada con una merienda de calidad en Cafetería 6:30.
+10. ¿De qué formas se puede cancelar la cuenta en mesa?
 
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo es la accesibilidad para personas de la tercera edad o coches de bebé?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-El ingreso a nuestro establecimiento sobre el Jirón Guillermo Urrelo se encuentra a nivel de la vereda, sin desniveles pronunciados que dificulten el acceso.
+Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, entregando cambio menudo con cortesía y emitiendo la boleta electrónica de venta de inmediato. La atención en caja es sumamente diligente.
 
-Esto permite una entrada fluida y segura tanto para adultos mayores como para familias que trasladan coches infantiles.
+Recibimos transferencias móviles instantáneas mediante códigos QR de Yape y Plin habilitados en la barra y en cada mesa. Es una opción sumamente práctica, higiénica y libre de recargos adicionales.
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por cuál medio digital puedo consultar la carta del día o reservar una mesa?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-La forma más directa es comunicarte a través de nuestro WhatsApp oficial y canales web.
+Aceptamos asimismo pagos con tarjetas de crédito y débito Visa y Mastercard a través de terminales electrónicos inalámbricos POS.
 
-Te responderemos al instante confirmando tu mesa o resolviendo cualquier consulta antes de que salgas hacia Cafetería 6:30.
-================================================================================
+11. ¿A cuántos metros queda el concurrido Mercado Central de Cajamarca?
+
+El restaurante dista 437 metros (0.44 km) del Mercado Central de Cajamarca, lo que equivale a unos cinco a seis minutos de caminata por los jirones céntricos. Conecta el mercado de abastos con la calle Guillermo Urrelo.
+
+Transeúntes y compradores del centro tradicional pueden trasladarse rápidamente hacia nuestra cafetería para gozar de un refrigerio de alta gama en un clima ventilado y acogedor. El camino es enteramente peatonal.
+
+Esta cercanía facilita además la compra diaria de fresas frescas, plátanos y hortalizas seleccionadas para los desayunos.
+
+12. ¿Qué normas de salubridad y bioseguridad rigen en la barra barista?
+
+En Cafetería 6:30 aplicamos rigurosos procedimientos higiénicos que comprenden la purga y limpieza constante de las lanzas de vapor, portafiltros y molinos micrométricos. El equipo barista viste mandiles reglamentarios.
+
+Los insumos frescos se conservan en cámaras refrigeradas bajo temperaturas controladas para asegurar frescura absoluta en cada preparación. El agua empleada en los cafés pasa por sistemas avanzados de filtración y desmineralización controlada.
+
+El salón de atención y los baños se asean con frecuencia programada para asegurar una experiencia confiable a todos los visitantes.
+
+13. ¿Cómo es el diseño y la atmósfera para teletrabajar en el local?
+
+El establecimiento en el jirón Guillermo Urrelo 855 presenta un diseño nórdico minimalista y luminoso, combinando mesas de madera clara, plantas decorativas y amplios ventanales que permiten el ingreso de luz natural.
+
+Disponemos de conexión Wi-Fi de alta velocidad libre para clientes y múltiples enchufes accesibles cerca de los asientos para conectar computadoras portátiles y teléfonos celulares. La música ambiental es instrumental y estimulante.
+
+El ambiente matutino es especialmente tranquilo, favoreciendo la concentración individual, reuniones virtuales o lecturas concentradas.
+
+14. ¿Qué tan lejos se ubica el Mirador del Cerro Santa Apolonia?
+
+El local se encuentra a 533 metros (0.53 km) del Mirador de Santa Apolonia, demandando una caminata de unos seis a siete minutos hacia la escalinata de piedra. Conecta la calle Guillermo Urrelo con la falda de la colina.
+
+Visitantes que descienden tras contemplar la panorámica del valle suelen hacer una pausa obligada en nuestro local para reponer energías con café frío o desayunos energéticos. La senda discurre por calles tradicionales bien iluminadas.
+
+Representa un punto de avituallamiento sumamente estratégico y placentero antes o después del ascenso pedestre.
+
+15. ¿Qué perfiles de tostado y variedades de café emplean en las máquinas?
+
+Trabajamos con microlotes de café arábica de variedades caturra y bourbon cultivados a más de 1750 metros sobre el nivel del mar en San Ignacio, reconocidos por su dulzor a caña de azúcar y notas cítricas brillantes.
+
+El grano recibe un tostado medio claro artesanal que resalta los azúcares naturales sin generar notas quemadas o amargores agresivos. La molienda se realiza al instante para cada extracción.
+
+Este rigor técnico asegura que cada taza transmita la totalidad de los atributos organolépticos propios del terroir norperuano.
+
+16. ¿Qué cualidades distinguen el servicio y la calidez del personal?
+
+Nuestro personal se caracteriza por una atención dinámica, apasionada por la cultura cafetera y orientada a brindar explicaciones sobre las características de cada método de extracción según las preferencias del cliente.
+
+Nos esmeramos por servir los pedidos en tiempos breves manteniendo un estándar visual cuidado en el arte latte y la presentación de los platos. La satisfacción de cada visitante guía nuestra labor diaria.
+
+Agradecemos sinceramente las valoraciones positivas de quienes nos eligen como su cafetería de referencia matutina en Cajamarca.
+
+17. ¿Qué facilidades existen para el estacionamiento temporal de vehículos?
+
+En el jirón Guillermo Urrelo y las calles contiguas es posible aparcar momentáneamente motocicletas y automóviles particulares en zonas autorizadas de la calzada. La vía presenta un tránsito vehicular pausado.
+
+Quienes se detienen brevemente para retirar pedidos de café o sándwiches para llevar pueden estacionar sin entorpecer el tránsito fluido de la calle. La zona cuenta con buena visibilidad y seguridad diurna.
+
+Se aconseja aparcar respetando los vados de acceso vehicular de los vecinos para preservar el orden y la convivencia comunitaria.
+
+18. ¿Cómo protegen los bowls y bebidas calientes en servicios para llevar?
+
+Empacamos los bowls nutritivos y ensaladas en envases biodegradables rígidos con tapas herméticas que impiden cualquier derrame, suministrando los toppings secos en compartimentos independientes para que no pierdan crocancia.
+
+Los cafés calientes se sirven en vasos térmicos descartables de doble pared que preservan el calor sin quemar las manos durante la caminata. Incluimos servilletas y cubiertos de madera biodegradables.
+
+Este cuidadoso empaquetado asegura que los desayunos lleguen en óptimas condiciones de temperatura y frescura hasta su destino.
+
+19. ¿Cuál es el concepto y la visión de Cafetería 6:30 en Cajamarca?
+
+Cafetería 6:30 nació con la misión de transformar la rutina matutina cajamarquina, abriendo temprano para brindar café de especialidad de nivel internacional y desayunos frescos pensados para personas activas y dinámicas.
+
+El nombre rinde homenaje a la hora en que los primeros trabajadores y estudiantes inician su jornada, buscando inspirarlos con un espacio luminoso, positivo y con los más altos estándares de calidad en cada grano tostado.
+
+Nuestra visión continúa orientada a democratizar la cultura del buen café en Cajamarca, haciendo de cada mañana un momento memorable.
+
+20. ¿En qué franja horaria atienden al público en Guillermo Urrelo?
+
+Atendemos al público de lunes a sábado desde muy temprano a partir de las seis y media de la mañana hasta las ocho y media de la noche de manera corrida, abarcando desde los primeros cafés madrugadores hasta los lonches de la tarde.
+
+Los domingos abrimos en horario matutino para acompañar a las familias que salen a pasear o realizar deporte en el centro histórico. Toda la variedad de métodos de café, desayunos y sándwiches está disponible.
+
+Para consultar sobre reservas de mesas o coordinar pedidos anticipados por WhatsApp, los usuarios pueden comunicarse directamente a nuestras líneas de contacto oficiales.

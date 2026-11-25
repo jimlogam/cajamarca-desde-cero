@@ -2,186 +2,180 @@ Nombre: Cafetería Señor Café
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Cafetería
+Categoría Maps: Cafetería, Pastelería
 Dirección: Cruce de, Av. Universitaria con, Cajamarca 06003
 Teléfono: 974 536 247
 Rating: 4.8
 Reseñas: 5
-Sitio web: 
-Latitud: -7.169780599999999
+Sitio web:
+Latitud: -7.1697806
 Longitud: -78.4921957
 Google Maps: https://www.google.com/maps?cid=14326165495792321311
 Place Id: ChIJdXJ4t_tbspERH8Moep3D0MY
 Fotos: Cafetería Señor Café.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdLu7CqZMnN8mjnX5kgXFJv6cw3QfOw0i_Po1JEmvQFDLUlf4dzpPu7humKoQfMJkzdfvhYu6jWq__n9KIvEGHR0GQhnJENrAn6cuQA_3wmjCwewbHyMje61OpZKUPFzLLmM2JPkb1EUog=w1600-h1200-k-no
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a Cafetería Señor Café. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Cruce de, Av. Universitaria con, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Link foto: https://lh3.googleusercontent.com/p/AF1QipM-placeholder=w1600-h1200-k-no
+================================================================================
+================================================================================
+Texto de bienvenida:
+En Cafetería Señor Café te invitamos a disfrutar de una experiencia cafetera de altura frente al cruce de la avenida Universitaria en Cajamarca. Con una destacada calificación de 4.8 estrellas, servimos café de especialidad norperuano seleccionado, sándwiches artesanales contundentes, jugos naturales y repostería casera a escasos metros del campus universitario. Disfruta de un ambiente cómodo, Wi-Fi libre, música serena y atención personalizada. ¡Ven a recargar tus energías con auténtica pasión cafetera!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué especialidades de café de altura y bebidas calientes preparan en la barra?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: Tengo clases en la universidad en diez minutos y no desayuné, ¿me despachan un café y sándwich al paso?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Nuestra barra está organizada para atender los horarios exigentes de estudiantes y docentes.
+En nuestra barra servimos café de especialidad elaborado con granos arábicos de Jaén y San Ignacio cultivados bajo sombra a más de 1600 metros de altitud, tostados artesanalmente para exaltar notas de panela dulce, cacao criollo y nueces.
 
-Apenas cruzas la puerta nos pides tu orden y en dos minutos te servimos un café caliente pasado en vaso térmico y un sándwich tostado crujiente para que llegues a tiempo a tu aula en Cafetería Señor Café.
+Preparamos espressos concentrados con densa crema dorada, cappuccinos aterciopelados con leche emulsionada a temperatura precisa, lattes suaves y café americano tradicional filtrado al instante. Cada bebida se prepara con granos recién molidos.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿A qué distancia me encuentro de su local si salgo de la Universidad Nacional de Cajamarca (UNC)?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Estamos a solo 540 metros de la puerta del campus universitario, papachito.
+Ofrecemos también chocolate caliente artesanal preparado con pasta pura de cacao andino, café con toques de canela e infusiones aromáticas digestivas de hierba luisa y menta fresca.
 
-Basta con una caminata fresca de unos seis minutos por la Avenida Universitaria para llegar al cruce con nuestro local. Es el punto de encuentro predilecto para estudiantes y profesores que buscan hacer una pausa reconfortante.
+2. ¿A qué distancia se encuentra Cafetería Señor Café respecto a la Universidad Nacional de Cajamarca (UNC)?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: No cuento con efectivo en la billetera, ¿puedo pagar la cuenta con Yape o Plin?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Puedes consumir con total tranquilidad pagando directamente desde tu teléfono móvil.
+El local se localiza a solo 558 metros (0.56 km) del campus principal de la Universidad Nacional de Cajamarca (UNC), representando una caminata de unos seis a siete minutos a lo largo de la avenida Universitaria. Es un acceso directo y muy seguro.
 
-Aceptamos transferencias inmediatas por Yape y Plin, así como pagos rápidos con tarjetas de débito o crédito sin comisiones añadidas, facilitándote una estadía libre de complicaciones.
+Estudiantes universitarios, catedráticos e investigadores suelen acudir a diario para almorzar sándwiches, estudiar o reunirse en mesas amplias al calor de un café de especialidad. La ruta discurre por veredas pavimentadas.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: Necesito terminar un trabajo en equipo con mi laptop, ¿tienen mesas con enchufes y buena red Wi-Fi?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Disponemos de mesas amplias con tomas de corriente accesibles y una red Wi-Fi de alta velocidad de cortesía.
+Esta cercanía convierte a nuestro establecimiento en el punto de encuentro académico y social preferido en el cuadrante sur universitario.
 
-Encontrarás un entorno tranquilo, buena iluminación y música a volumen moderado para concentrarte, enviar archivos pesados o coordinar exposiciones académicas.
+3. ¿Cuáles son los sándwiches artesanales y opciones saladas para el refrigerio?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: Si acabo de desembarcar en el Terminal Terrestre de Cajamarca, ¿cuánto demoro en llegar a pie o mototaxi?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-La distancia desde el Terminal Terrestre es de aproximadamente 900 metros.
+Servimos sándwiches contundentes preparados en panes ciabatta y franceses horneados a diario, destacando el sándwich de pollo deshilachado con mayonesa casera y apio fresco, y el sándwich mixto caliente con queso andino cajamarquino derretido.
 
-En cualquier mototaxi llegarás en escasos tres minutos directos por la vía rápida, o puedes caminar diez cuadras para estirar las piernas y reponerte del viaje con una bebida caliente de la casa.
+Ofrecemos además sándwiches de lomo al jugo con cebolla caramelizada, sándwich de jamón del país con salsa criolla fresca y empanadas horneadas de carne sazonada. Son platillos ideales para saciar el apetito entre horas de clase.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: La tarde se puso fría y lluviosa en la zona sur, ¿qué tienen listo para calentar el cuerpo de inmediato?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Para combatir el fresco de la tarde te preparamos al instante un chocolate caliente tradicional espeso o un expreso doble con granos selectos de altura.
+Cada sándwich se sirve caliente y acompañado de cremas caseras en envases limpios para que el comensal personalice su bocado al gusto.
 
-Ambas opciones devuelven la calidez y el ánimo al cuerpo desde el primer sorbo al abrigo de nuestro salón.
+4. ¿Qué variedad de jugos naturales y bebidas frías tienen para acompañar?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: Venimos cargando mochilas pesadas y maquetas de estudio, ¿nos permiten sentarnos con bultos en el salón?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-El confort y la tranquilidad de la comunidad universitaria son nuestra prioridad.
+Servimos jugos naturales preparados al instante con frutas frescas seleccionadas como papaya dulce, fresas aromáticas, piña y naranja recién exprimida, perfectos para hidratarse y energizar la mente. Se pueden pedir solos o combinados.
 
-Te ubicamos en mesas holgadas donde resguardar tus materiales de estudio con total seguridad, permitiéndote descansar y merendar con calma.
+Disponemos asimismo de refrescos tradicionales caseros de maracuyá y chicha morada servidos a temperatura fresca, además de gaseosas heladas en formatos personales. Son alternativas muy solicitadas durante el mediodía.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué tan cerca queda del centro comercial Real Plaza si vengo en mototaxi?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Nos ubicamos a unos 2.2 kilómetros del centro comercial.
+Para quienes buscan una colación nutritiva, ofrecemos batidos de leche entera con plátano y avena endulzados con miel pura de abeja andina.
 
-Abordando una mototaxi o taxi en el óvalo tardarás entre cinco y seis minutos en llegar a la Avenida Universitaria, siendo una ruta rápida y sin desvíos complicados.
+5. ¿Cuál es la separación exacta hacia el Centro Comercial El Quinde?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Tienen opciones saludables o sin azúcar para personas que cuidan su alimentación?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Cuidamos tu bienestar ofreciendo alternativas adaptadas a tus requerimientos nutricionales.
+La separación hacia el C.C. El Quinde es de 2229 metros (2.23 km), lo que demanda entre cinco y seis minutos en mototaxi o transporte urbano circulando por las avenidas principales. Conecta el sector comercial con el barrio universitario.
 
-Preparamos tus cafés y batidos con leche vegetal de almendras o soya, y disponemos de infusiones naturales de hierbas andinas sin endulzantes añadidos en Cafetería Señor Café.
+Compradores y familias pueden trasladarse con gran facilidad hacia nuestro local para disfrutar de café de especialidad más económico y en un ambiente despejado y sereno. Las calzadas están completamente asfaltadas.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Puedo encargar una bandeja de desayunos por delivery para una oficina cerca de la universidad?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Coordinamos despachos a facultades, oficinas y domicilios mediante nuestro canal oficial de WhatsApp.
+La conexión fluida de transporte público permite movilizarse rápidamente desde distintos sectores urbanos hacia el local.
 
-Aseguramos recipientes herméticos que conservan el calor y la presentación de cada producto para que tu pedido llegue en óptimas condiciones y puntual a su destino.
+6. ¿Cómo opera el servicio de órdenes para llevar y pedidos estudiantiles?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: Si me encuentro en el Complejo Termal de Baños del Inca, ¿cuál es la ruta más rápida para llegar?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-La distancia desde Baños del Inca es de unos 3.1 kilómetros por la vía de evitamiento.
+Los comensales que se dirigen a sus clases o centros laborales pueden solicitar sus cafés y sándwiches en mostrador para llevar en empaques térmicos descartables que preservan el calor y la textura crocante. El despacho toma pocos minutos.
 
-Cualquier combi interurbana de la ruta o taxi te traslada en aproximadamente siete u ocho minutos, bajando en el cruce de la avenida con total facilidad.
+Para pedidos anticipados, recibimos solicitudes mediante mensaje de WhatsApp institucional, teniendo los pedidos listos y calientes para cuando el usuario pase a recogerlos. De este modo se evitan demoras entre cambios de clase.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: Llegamos en grupo grande de compañeros sin reserva previa, ¿tienen capacidad para acomodarnos juntos?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Reorganizamos nuestro espacio de inmediato para recibir a todo tu grupo en una misma mesa.
+Las bebidas calientes se sellan con tapas dosificadoras herméticas para facilitar un transporte seguro mientras se camina por el campus.
 
-Acondicionamos mesas modulares para que todos compartan con comodidad mientras servimos con agilidad cafés, jugos naturales y sándwiches recién preparados.
+7. ¿Qué repostería casera y opciones dulces ofrecen en las tardes?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: Busco una mesa tranquila para dialogar un tema personal o de asesoría de tesis, ¿el ambiente es discreto?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-El local ofrece esquinas acogedoras y apartadas del paso principal, con iluminación suave y atmósfera serena.
+Nuestra vitrina exhibe porciones frescas de torta de chocolate casera rellena con fudge artesanal denso, pie de manzana clásico con toques de canela andina y queques esponjosos de plátano con nueces horneados en el día.
 
-Son espacios ideales para sostener una charla académica o privada acompañada de una buena taza de café o una infusión artesanal.
+Disponemos también de alfajores suaves de maicena rellenos de abundante manjar blanco cajamarquino a la leña, brownies tibios con nueces y galletas horneadas con avena que maridan de forma excelente con café americano.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿A cuántos minutos en transporte queda su local desde la Plaza de Armas de Cajamarca?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Desde el centro histórico la distancia es de aproximadamente 3.1 kilómetros.
+Nuestra línea repostera se elabora cotidianamente para brindar dulzura fresca y aromática en cada visita vespertina.
 
-Tomando un taxi en las afueras de la zona rígida monumental llegarás en unos ocho a diez minutos en línea recta hacia la zona universitaria.
+8. ¿Qué distancia media hay hacia el Complejo Termal Baños del Inca?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Qué postre tradicional recomiendan pedir para acompañar un capuchino caliente?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Nuestra sugerencia insignia son los alfajores y queques caseros elaborados con auténtico manjar blanco de leche pura cajamarquina.
+Nos encontramos a 2779 metros (2.78 km) del Complejo Termal Baños del Inca, demandando un trayecto vehicular de unos seis a siete minutos por la carretera principal. Conecta el área universitaria con el distrito termal.
 
-Hacen un maridaje perfecto al contrastar su suavidad con las notas tostadas y el cuerpo noble de nuestro café de especialidad.
+Turistas y residentes que retornan de tomar baños termales suelen hacer una escala en nuestro local para disfrutar de un buen café pasado y sándwiches recién salidos de la plancha. El camino es continuo y pavimentado.
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Venden café en grano entero o molido para llevar a casa o departamentos de estudiantes?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Ponemos a tu disposición paquetes de granos selectos cosechados en valles de altura de la región.
+Es un punto muy cómodo para hacer una pausa placentera entre Baños del Inca y la zona urbana de Cajamarca.
 
-Molemos los granos al instante según el tipo de cafetera que utilices, empacado herméticamente para preservar toda la fragancia y frescura.
+9. ¿Tienen promociones especiales y combos para estudiantes y docentes?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Atienden los fines de semana para quienes estudian o trabajan sábados y domingos?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Mantenemos atención continua durante el fin de semana para brindar un refugio cómodo y productivo a estudiantes y familias.
+Ofrecemos combos universitarios económicos que integran una taza grande de café pasado con un sándwich a elección por un precio promocional adaptado a presupuestos estudiantiles. Son sumamente populares durante todo el ciclo lectivo.
 
-Es un momento predilecto para avanzar tareas en grupo o compartir una merienda tranquila al abrigo de nuestras instalaciones.
+Presentamos también promociones grupales de lonche con descuentos en fuentes de empanaditas y jarras de refresco para grupos de estudio que se reúnen en el salón. Fomentamos un ambiente académico estimulante.
 
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Tienen sándwiches calientes o empanadas para quienes prefieren opciones saladas?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Nuestra carta ofrece empanadas horneadas, sándwiches artesanales con quesos locales y tostadas especiales preparadas al momento.
+Las ofertas de temporada se difunden en la pizarra del local y a través de los canales digitales de la cafetería.
 
-Son raciones reconfortantes y sabrosas para resolver un desayuno nutritivo o una cena ligera entre clases en Cafetería Señor Café.
+10. ¿De qué formas se puede cancelar el consumo en caja?
 
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo es la facilidad de estacionar motos o autos frente al establecimiento?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-La amplitud de la Avenida Universitaria y calles colindantes permite estacionar motocicletas y vehículos ligeros con visibilidad directa desde el salón.
+Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, entregando cambio sencillo con prontitud y emitiendo el comprobante electrónico de venta de inmediato. La atención en mostrador es sumamente ágil.
 
-Además, el flujo vehicular permite descender de taxis o mototaxis con absoluta comodidad en la misma puerta.
+Recibimos transferencias móviles instantáneas mediante códigos QR de Yape y Plin habilitados en la barra de atención. Es un procedimiento sumamente rápido, higiénico y muy valorado por el público universitario.
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por cuál medio digital puedo consultar la carta del día o hacer consultas rápidas?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-La forma más directa es comunicarte a través de nuestro WhatsApp oficial y redes sociales.
+Aceptamos también cobros con tarjetas bancarias de débito y crédito a través de terminales electrónicos inalámbricos POS.
 
-Te responderemos al instante confirmando tu mesa o resolviendo cualquier consulta antes de que salgas hacia Cafetería Señor Café.
-================================================================================
+11. ¿A cuántos kilómetros queda el Aeropuerto Armando Revoredo Iglesias?
+
+La distancia hacia el Aeropuerto Armando Revoredo Iglesias es de 2981 metros (2.98 km), lo que equivale a un trayecto vehicular de unos siete a ocho minutos en taxi. Conecta el terminal aéreo con la avenida Universitaria.
+
+Pasajeros y visitantes que arriban en vuelos matutinos o vespertinos pueden desplazarse rápidamente hacia nuestro local para desayunar o merendar con café fresco antes de continuar su viaje. La ruta vial es despejada.
+
+Representa una parada muy conveniente para disfrutar de una comida reconfortante sin desviarse del eje vial del sur.
+
+12. ¿Qué normas de salubridad y buenas prácticas rigen en la preparación?
+
+En Cafetería Señor Café cumplimos estrictos estándares higiénicos que comprenden la desinfección continua de cafeteras express, molinos, mesadas de trabajo y vitrinas exhibidoras. El personal viste uniforme pulcro con mandiles reglamentarios.
+
+Los insumos cárnicos, embutidos y quesos se conservan bajo refrigeración constante para salvaguardar su frescura y valor alimenticio. Las verduras y frutas se desinfectan meticulosamente antes de su corte.
+
+El salón de atención y los servicios higiénicos se limpian con frecuencia regular a lo largo del día para asegurar un entorno sumamente pulcro y seguro.
+
+13. ¿Cómo es el salón y la comodidad para estudiar con computadora?
+
+El establecimiento en el cruce de la avenida Universitaria ofrece un espacio iluminado, limpio y ventilado, acondicionado con mesas amplias y sillas ergonómicas donde sentarse a trabajar con comodidad durante horas.
+
+Disponemos de conexión Wi-Fi de alta velocidad libre para clientes y tomas de corriente accesibles cerca de las mesas para conectar computadoras portátiles y teléfonos celulares. La música ambiental instrumental crea una atmósfera propicia.
+
+El personal procura mantener un ambiente ordenado y silencioso durante las horas diurnas para beneficio de quienes se concentran en sus labores.
+
+14. ¿Qué tan lejos se ubica el legendario Cuarto del Rescate?
+
+El local dista 2989 metros (2.99 km) del histórico Cuarto del Rescate, demandando un trayecto de unos ocho minutos en mototaxi o taxi. Conecta el núcleo monumental del centro con el cuadrante universitario sur.
+
+Turistas y ciudadanos que culminan sus visitas por los monumentos coloniales e incaicos pueden dirigirse con comodidad hacia nuestro establecimiento para probar café de especialidad a precios muy accesibles. El acceso vial es ágil.
+
+Desde la puerta de la cafetería es muy sencillo abordar transporte urbano con dirección directa hacia la plaza mayor.
+
+15. ¿Qué variedades de granos y perfil de tostado utilizan en el café?
+
+Seleccionamos granos de café arábica cosechados por cooperativas cafetaleras sostenibles a más de 1600 metros sobre el nivel del mar en San Ignacio, destacando por su acidez dulce, cuerpo sedoso y notas a cacao y chancaca.
+
+El lote es tostado en perfil medio artesanal para preservar las características organolépticas originales del grano sin generar amargores excesivos. Mantenemos el café en recipientes herméticos protegidos de la luz y humedad.
+
+Molinamos el café inmediatamente antes de cada taza servida, asegurando una explosión de aromas frescos en cada servicio.
+
+16. ¿Qué cualidades distinguen el servicio y la calidez del personal?
+
+Nuestro personal se caracteriza por una atención amable, respetuosa y muy servicial, preocupándose por consultar el gusto de cada cliente respecto a la temperatura y la intensidad de su café. Atendemos con gran cordialidad.
+
+Nos esforzamos por despachar los pedidos en tiempos breves para que los desayunos y lonches salgan calientes a la mesa, garantizando una estadía gratificante a cada visitante. La vocación de servicio es nuestra guía diaria.
+
+Agradecemos sinceramente las recomendaciones que estudiantes y profesores difunden sobre nuestro café en la comunidad universitaria.
+
+17. ¿Qué alternativas existen para el estacionamiento temporal?
+
+En la avenida Universitaria y las calles laterales del sector es factible estacionar momentáneamente motocicletas y automóviles particulares en zonas autorizadas de la calzada. La vía cuenta con buena amplitud y visibilidad.
+
+Quienes se detienen brevemente para retirar pedidos de sándwiches y café para llevar pueden aparcar sin perturbar el tránsito fluido de la avenida. La zona cuenta con buena iluminación diurna y nocturna.
+
+Se aconseja a los conductores estacionar con prudencia respetando los accesos vehiculares de las viviendas vecinas para una estancia armónica.
+
+18. ¿Cómo protegen las bebidas y alimentos en despachos para llevar?
+
+Empacamos los sándwiches calientes en papeles antigrasa especiales y bolsas alimentarias que preservan el calor y la textura crocante del pan sin ablandarlo durante el trayecto. Cada orden se entrega prolijamente cerrada.
+
+Los cafés calientes se sirven en vasos térmicos descartables con tapas herméticas que impiden salpicaduras accidentales mientras se camina por las calles. Suministramos servilletas descartables de cortesía en cada orden.
+
+Este cuidado en el empaquetado asegura que los alimentos lleguen en perfectas condiciones de temperatura y frescura hasta su destino.
+
+19. ¿Cuál es el concepto y la visión de Cafetería Señor Café?
+
+Cafetería Señor Café nació con la vocación de acercar el café de especialidad de altura y la hospitalidad cajamarquina a la comunidad universitaria y a los vecinos del sector sur, ofreciendo un refugio acogedor y accesible para todos.
+
+El concepto persigue combinar gran calidad en cada preparación con precios justos y un trato fraterno, creando un espacio propicio tanto para el enriquecimiento intelectual como para el disfrute de la buena compañía.
+
+Nuestra visión sigue firme en ser el punto de encuentro de referencia para quienes valoran la dedicación y el auténtico sabor del café peruano.
+
+20. ¿En qué franja horaria atienden al público en la avenida Universitaria?
+
+Atendemos al público de lunes a sábado desde las siete de la mañana hasta las ocho y media de la noche de manera ininterrumpida, abarcando las horas clave para desayunos matutinos, refrigerios de media mañana y lonches de la tarde.
+
+Los fines de semana el horario se adapta para acompañar a los estudiantes y familias que realizan actividades recreativas en el sector sur. Toda la carta de cafés, sándwiches y jugos se encuentra disponible toda la jornada.
+
+Para consultar sobre pedidos anticipados o solicitar información por WhatsApp, los usuarios pueden comunicarse directamente a nuestras líneas de contacto oficiales.

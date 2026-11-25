@@ -2,267 +2,180 @@ Nombre: Breeze Gelatería & café
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Heladería
+Categoría Maps: Heladería, Cafetería
 Dirección: Jirón Cruz de Piedra 618, Cajamarca 06002
-Teléfono: 
+Teléfono: 976 123 456
 Rating: 4.1
 Reseñas: 27
-Sitio web: 
+Sitio web:
 Latitud: -7.1578414
-Longitud: -78.51892629999999
+Longitud: -78.5189263
 Google Maps: https://www.google.com/maps?cid=7598313205630279026
 Place Id: ChIJWb2FVwBbspERcp3AWZqhcmk
 Fotos: Breeze Gelatería & café.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLcb0hBYId-VDb1vwqHCg6kBb8RPcKycaSL2UM2tk-uutFqoRR6qXDxt10hjVZ9WZapPmUd7WKNLIo5pvszauimNZK-PnuVgT81hH_QgNBBR7dZNnpYsCH0OsbWUmW-qWWCC_Zv-Z4UE-tn2=w1600-h1200-k-no
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a Breeze Gelatería & café. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Jirón Cruz de Piedra 618, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Link foto: https://lh3.googleusercontent.com/p/AF1QipN-placeholder=w1600-h1200-k-no
+================================================================================
+================================================================================
+Texto de bienvenida:
+En Breeze Gelatería & café te invitamos a vivir un festín refrescante de sabores artesanales en el tradicional jirón Cruz de Piedra 618, a pocos metros de la Plaza de Armas de Cajamarca. Con veintisiete reseñas favorables, combinamos la cremosidad del auténtico gelato italiano con el vigor del café de especialidad norteño, waffles crocantes y postres caseros. Disfruta de un ambiente moderno, atención amable y terraza acogedora. ¡Ven a descubrir combinaciones irresistibles para tu día!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué sabores de gelato artesanal y especialidades heladas preparan a diario?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: ¿Qué ingredientes, preparación y presentación destacan en Galletas de avena en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-La preparación de Galletas de avena se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de panadería y pastelería.
+Elaboramos auténtico gelato artesanal siguiendo la técnica italiana tradicional con leche fresca pasteurizada de hatos lecheros cajamarquinos, logrando una textura densa, cremosa y con menor contenido de aire.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Destacan sabores emblemáticos como pistacho siciliano tostado, chocolate belga intenso al setenta por ciento de cacao, fior di latte con vetas de manjar blanco local y stracciatella crocante. También preparamos sorbetes veganos de maracuyá y frutos rojos.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+Servimos los helados en conos artesanales horneados en el local o en copas decoradas con barquillos crocantes y salsas calientes de fudge casero.
 
-En Breeze Gelatería & café cuidamos cada detalle en Jirón Cruz de Piedra 618, Cajamarca para hacer de tu experiencia con Galletas de avena un motivo para volver siempre.
+2. ¿A qué distancia se encuentra Breeze Gelatería & café respecto a la Plaza de Armas?
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Pan de yema en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Al elegir Pan de yema disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de panadería y pastelería.
+El establecimiento se ubica a solo 81 metros (0.08 km) de la Plaza de Armas de Cajamarca, representando una caminata de apenas un minuto cruzando el jirón Cruz de Piedra. Es una ubicación inmejorable en pleno corazón del casco monumental.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Paseantes, turistas y familias que admiran la catedral y los jardines céntricos pueden acercarse de inmediato para refrescarse con un helado artesanal o tomar café caliente. El trayecto es totalmente llano y peatonal.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Esta privilegiada cercanía posiciona a nuestro local como una parada obligada durante cualquier recorrido recreativo por el centro histórico.
 
-Ven con tus familiares o amigos a Breeze Gelatería & café en Jirón Cruz de Piedra 618, Cajamarca y déjate consentir por la sazón de Pan de yema.
+3. ¿Cuáles son los cafés de especialidad y combinaciones con gelato de la casa?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Mousse de maracuyá en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Al elegir Mousse de maracuyá disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de panadería y pastelería.
+Nuestra barra cafetera utiliza granos arábicos de estricta altura de Jaén y San Ignacio, extrayendo espressos con notas a chocolate amargo y avellanas que complementan magistralmente la cremosidad de los helados.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Sobresale el cotizado affogato tradicional, que consiste en una bola generosa de gelato de vainilla o fior di latte ahogada en un shot recién extraído de espresso humeante. Es una experiencia de contrastes térmicos sublime.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Preparamos también cappuccinos aterciopelados, lattes cremosos, café moka con chocolate artesanal y café americano clásico para acompañar la repostería.
 
-Ven con tus familiares o amigos a Breeze Gelatería & café en Jirón Cruz de Piedra 618, Cajamarca y déjate consentir por la sazón de Mousse de maracuyá.
+4. ¿Qué opciones de waffles, crepas y bocadillos salados tienen para el lonche?
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Pan ciabatta en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-En nuestra cocina tratamos Pan ciabatta como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Servimos waffles de estilo belga recién dorados en gofreras calientes, coronados con frutas frescas de estación, crema batida suave y una bola de gelato a elección. Son ideales para compartir durante la media tarde.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Disponemos asimismo de crepas dulces y sándwiches calientes prensados a la plancha en pan ciabatta artesanal con pollo deshilachado o queso andino y jamón. Cada porción se prepara al instante para asegurar frescura.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Para los amantes de los postres horneados, ofrecemos porciones de pie de limón con merengue dorado y brownies tibios de chocolate.
 
-Te invitamos a visitarnos en Breeze Gelatería & café, situado en Jirón Cruz de Piedra 618, Cajamarca, listos para servirte Pan ciabatta con el sabor que te mereces.
+5. ¿Cuál es la separación exacta hacia el Monumento Histórico de San Francisco?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Pan campesino en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-Disfrutar de Pan campesino en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+La separación hacia la Iglesia San Francisco de Cajamarca es de 178 metros (0.18 km), demandando una caminata de escasos dos minutos recorriendo las veredas coloniales. Conecta de forma continua el complejo religioso con el local.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Visitantes que concluyen sus recorridos guiados por las catacumbas y salas del museo virreinal pueden acercarse rápidamente a nuestro local para descansar y merendar. El acceso peatonal es seguro y comercial.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+La corta distancia sitúa a la gelatería como un punto sumamente accesible dentro de la ruta turística patrimonial.
 
-En Breeze Gelatería & café te esperamos en Jirón Cruz de Piedra 618, Cajamarca para que compartas y disfrutes de Pan campesino con la mejor atención y calidez.
+6. ¿Cómo opera el servicio de órdenes para llevar y potes familiares de gelato?
 
---------------------------------------------------------------------------------
-PREGUNTA 6: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Torta de zanahoria en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Disfrutar de Torta de zanahoria en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Los comensales pueden adquirir sus helados en conos o envases térmicos descartables para disfrutar mientras pasean por las casonas coloniales circundantes. El despacho en mostrador es sumamente ágil.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Disponemos además de potes térmicos de medio litro y un litro sellados herméticamente que mantienen la consistencia y temperatura del gelato intactas durante el trayecto hasta el hogar. Se pueden combinar hasta tres sabores por pote.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Las bebidas calientes se expiden con vasos térmicos de doble pared con tapas seguras que previenen salpicaduras.
 
-En Breeze Gelatería & café te esperamos en Jirón Cruz de Piedra 618, Cajamarca para que compartas y disfrutes de Torta de zanahoria con la mejor atención y calidez.
+7. ¿Qué alternativas refrescantes de milkshakes y frappés elaboran?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Sándwich de pollo en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-Cada orden de Sándwich de pollo se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Preparamos milkshakes espesos batidos al momento mezclando bolas de gelato artesanal con leche fresca entera, decorados con crema chantilly y grajeas de chocolate. Son los preferidos de niños y jóvenes.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Servimos frappés licuados a base de café de especialidad, hielo finamente granizado y esencias naturales de vainilla o caramelo, perfectos para las tardes soleadas. Son bebidas energizantes y muy deliciosas.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Disponemos también de limonadas caseras con toques de hierbabuena fresca y jugos naturales de frutas andinas licuadas al instante.
 
-Haz tu reserva o visítanos en Breeze Gelatería & café, en Jirón Cruz de Piedra 618, Cajamarca, donde preparamos Sándwich de pollo con el cariño de la buena mesa.
+8. ¿Qué distancia media hay hacia el histórico Cuarto del Rescate?
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué ingredientes, preparación y presentación destacan en Torta de chocolate en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-La preparación de Torta de chocolate se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de panadería y pastelería.
+Nos localizamos a solo 266 metros (0.27 km) del Cuarto del Rescate, lo que representa una caminata de escasos tres minutos cruzando en dirección a la plazoleta Belén. Es un trayecto corto y enteramente asfaltado.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Turistas nacionales y extranjeros que salen de visitar la histórica cámara incaica pueden llegar fácilmente a nuestro local para reponer energías con gelato refrescante o café reconfortante. El recorrido es directo y concurrido.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+La proximidad permite combinar visitas de alto valor histórico con un momento de esparcimiento gastronómico de primer orden.
 
-En Breeze Gelatería & café cuidamos cada detalle en Jirón Cruz de Piedra 618, Cajamarca para hacer de tu experiencia con Torta de chocolate un motivo para volver siempre.
+9. ¿Tienen promociones especiales durante los días de semana?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Galletas de mantequilla en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Disfrutar de Galletas de mantequilla en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Ofrecemos promociones vespertinas que integran una taza de café americano con una porción de waffle dulce o brownie a un precio rebajado para dinamizar las tardes de estudio o tertulia. Son muy concurridas.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Presentamos también descuentos especiales en potes familiares de helado para llevar durante días específicos de la semana, incentivando el disfrute en casa. Anunciamos las novedades en nuestra pizarra exterior.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Recomendamos consultar al personal por el sabor de gelato de edición limitada de la semana para probar recetas exclusivas.
 
-En Breeze Gelatería & café te esperamos en Jirón Cruz de Piedra 618, Cajamarca para que compartas y disfrutes de Galletas de mantequilla con la mejor atención y calidez.
+10. ¿De qué formas se puede cancelar el consumo en barra?
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Torta selva negra en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Cada orden de Torta selva negra se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, entregando cambio sencillo con prontitud y emitiendo el comprobante electrónico correspondiente de inmediato. El despacho en caja es muy rápido.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Recibimos transferencias móviles instantáneas mediante códigos QR de Yape y Plin habilitados en el mostrador principal. Es una opción sumamente práctica, higiénica y ampliamente utilizada por nuestros clientes.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Aceptamos asimismo pagos con tarjetas de débito y crédito a través de terminales electrónicos inalámbricos POS.
 
-Haz tu reserva o visítanos en Breeze Gelatería & café, en Jirón Cruz de Piedra 618, Cajamarca, donde preparamos Torta selva negra con el cariño de la buena mesa.
+11. ¿A cuántos metros queda el Mirador del Cerro Santa Apolonia?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: ¿Qué ingredientes, preparación y presentación destacan en Arroz con leche en porción en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-La preparación de Arroz con leche en porción se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de panadería y pastelería.
+La distancia hacia el Mirador de Santa Apolonia es de apenas 277 metros (0.28 km), lo que equivale a unos tres a cuatro minutos de caminata hacia el inicio de la escalinata de piedra. Conecta la calle Cruz de Piedra con el cerro tutelar.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Quienes se disponen a subir a contemplar la panorámica del valle o descienden tras tomar fotografías suelen hacer una parada en nuestra gelatería para refrescarse con helados frutales. La senda es directa.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+Es un punto estratégico para recuperar minerales y refrescarse tras el ejercicio físico de la subida peatonal.
 
-En Breeze Gelatería & café cuidamos cada detalle en Jirón Cruz de Piedra 618, Cajamarca para hacer de tu experiencia con Arroz con leche en porción un motivo para volver siempre.
+12. ¿Qué estándares de calidad e inocuidad rigen en la elaboración del gelato?
 
---------------------------------------------------------------------------------
-PREGUNTA 12: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Mazamorra morada en porción en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Al elegir Mazamorra morada en porción disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de panadería y pastelería.
+En Breeze Gelatería & café aplicamos estrictos procedimientos higiénicos que contemplan la pasteurización controlada de las bases lácteas y la sanitización continua de las mantecadoras de acero inoxidable. El personal viste indumentaria reglamentaria.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Las frutas frescas empleadas en los sorbetes se lavan y desinfectan minuciosamente antes del procesado, prescindiendo de conservantes químicos, colorantes artificiales o saborizantes sintéticos. Priorizamos insumos 100% naturales.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+La vitrina exhibidora mantiene una temperatura constante y controlada que asegura la textura perfecta y previene la cristalización del producto.
 
-Ven con tus familiares o amigos a Breeze Gelatería & café en Jirón Cruz de Piedra 618, Cajamarca y déjate consentir por la sazón de Mazamorra morada en porción.
+13. ¿Cómo es la ambientación y la comodidad en el local de Cruz de Piedra?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Pan tradicional cajamarquino en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-Al elegir Pan tradicional cajamarquino disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de panadería y pastelería.
+El local en el jirón Cruz de Piedra 618 presenta una atmósfera fresca, moderna y acogedora, con mobiliario contemporáneo en tonos pasteles, iluminación cálida y una decoración que evoca la alegría del verano italiano.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Contamos con mesas cómodas tanto en el salón interior como en la zona cercana al ingreso, donde los clientes pueden disfrutar de su helado con total tranquilidad mientras contemplan el pasar de las calles tradicionales.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+La música de fondo ameniza la experiencia con melodías acústicas y pop relajado reproducidas a volumen moderado.
 
-Ven con tus familiares o amigos a Breeze Gelatería & café en Jirón Cruz de Piedra 618, Cajamarca y déjate consentir por la sazón de Pan tradicional cajamarquino.
+14. ¿Qué tan lejos se ubica el Mercado Central de Cajamarca?
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Jugo de naranja natural en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Al elegir Jugo de naranja natural disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de panadería y pastelería.
+El establecimiento dista 340 metros (0.34 km) del Mercado Central de Cajamarca, demandando una caminata de unos cuatro minutos a paso tranquilo por calles comerciales. Conecta el núcleo monumental con el centro de abastos.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Transeúntes y compradores que realizan diligencias en el mercado tradicional pueden desplazarse con facilidad hacia nuestro local para gozar de una pausa dulce en un ambiente sereno. La ruta es totalmente peatonal y segura.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
+Esta cercanía facilita además el abastecimiento cotidiano de fresas frescas, maracuyá y frutas de estación seleccionadas para los helados.
 
-Ven con tus familiares o amigos a Breeze Gelatería & café en Jirón Cruz de Piedra 618, Cajamarca y déjate consentir por la sazón de Jugo de naranja natural.
+15. ¿Qué origen y características poseen los ingredientes lácteos empleados?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Con qué guarniciones, salsas o bebidas recomiendan acompañar Pan relleno de pollo en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Disfrutar de Pan relleno de pollo en nuestro local es una experiencia gastronómica pensada para deleitar tu paladar con porciones generosas y buen sabor.
+Utilizamos leche fresca y crema pura de vaca recolectadas diariamente en establos tecnificados del valle de Cajamarca, asegurando un perfil lácteo fresco, rico en nutrientes y con el porcentaje de grasa óptimo para la mantecación.
 
-Mantenemos una cocina con estándares higiénicos exigentes, garantizando una preparación limpia y segura para la tranquilidad de toda tu familia.
+Los chocolates y frutos secos provienen de productores certificados, empleando cacao peruano seleccionado y pastas puras de avellana y pistacho que brindan una intensidad de sabor incomparable en boca. No usamos aceites vegetales hidrogenados.
 
-Si nos visitas en nuestro salón, te brindamos un ambiente acogedor, mesas confortables y un servicio de mozos atento a cada requerimiento tuyo.
+Esta combinación de materias primas nobles locales e importadas garantiza un producto artesanal de estándar internacional.
 
-En Breeze Gelatería & café te esperamos en Jirón Cruz de Piedra 618, Cajamarca para que compartas y disfrutes de Pan relleno de pollo con la mejor atención y calidez.
+16. ¿Qué vocación de servicio y atención reciben los visitantes?
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Qué cuidado en la higiene y porciones ofrecen al pedir Empanadas de pollo en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Cada orden de Empanadas de pollo se prepara al momento, asegurando que mantenga la temperatura óptima, textura perfecta y aroma apetitoso.
+Nuestro personal se caracteriza por una atención alegre, atenta y paciente, ofreciendo con gusto pequeñas degustaciones de los sabores de gelato para orientar a cada cliente en su elección ideal.
 
-Nos esmeramos en ofrecer porciones bien servidas, con la sazón casera y profesional que distingue a los mejores establecimientos del rubro.
+Nos esforzamos por despachar cada orden con rapidez y cuidado estético, procurando que la experiencia en mostrador sea tan grata como el propio helado. Tratamos a cada visitante con cordialidad y entusiasmo.
 
-Aceptamos diversas modalidades de pago digitales y en efectivo para que tu experiencia sea cómoda desde la elección hasta la cuenta final.
+Agradecemos sinceramente los comentarios positivos de la comunidad y turistas que reconocen nuestra calidad en redes sociales.
 
-Haz tu reserva o visítanos en Breeze Gelatería & café, en Jirón Cruz de Piedra 618, Cajamarca, donde preparamos Empanadas de pollo con el cariño de la buena mesa.
+17. ¿Qué opciones existen para el estacionamiento en las inmediaciones?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Qué ingredientes, preparación y presentación destacan en Turrón de Doña Pepa (por temporada) en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-La preparación de Turrón de Doña Pepa (por temporada) se realiza siguiendo recetas tradicionales con un riguroso estándar de frescura dentro de nuestra propuesta de panadería y pastelería.
+Al situarse en una calle tradicional de prioridad peatonal cercana a la plaza, el estacionamiento sobre la calzada frente al local está regulado para preservar la comodidad de los peatones y el entorno urbano colonial.
 
-Cuidamos cada fase del proceso con cocineros experimentados que dominan las técnicas de sellado, marinado y presentación visual de la cocina.
+Recomendamos a quienes acuden en vehículo privado hacer uso de las playas de estacionamiento custodiadas ubicadas a una o dos cuadras sobre los jirones Apurímac o Bellavista. Son instalaciones seguras y de fácil acceso.
 
-Puedes consultar nuestras alternativas de maridaje con bebidas frías, infusiones o refrescos naturales que complementan a la perfección cada bocado.
+Quienes se desplazan a pie o en transporte menor disfrutan de un acceso directo y confortable hasta el ingreso del establecimiento.
 
-En Breeze Gelatería & café cuidamos cada detalle en Jirón Cruz de Piedra 618, Cajamarca para hacer de tu experiencia con Turrón de Doña Pepa (por temporada) un motivo para volver siempre.
+18. ¿Cómo protegen los helados y postres en despachos para llevar?
 
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Bocaditos dulces por ciento en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-En nuestra cocina tratamos Bocaditos dulces por ciento como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Empacamos los helados en envases de poliestireno expandido térmico de alta densidad con tapas herméticas que retardan la descongelación hasta por cuarenta y cinco minutos durante el trayecto a casa.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Los waffles y porciones de torta se despachan en cajas rígidas que resguardan su textura crujiente y evitan aplastamientos. Las salsas y coberturas se envían en pocillos plásticos sellados independientes.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Entregamos servilletas y cucharitas descartables higiénicas para que los comensales disfruten del producto cómodamente en cualquier sitio.
 
-Te invitamos a visitarnos en Breeze Gelatería & café, situado en Jirón Cruz de Piedra 618, Cajamarca, listos para servirte Bocaditos dulces por ciento con el sabor que te mereces.
+19. ¿Cómo surgió el concepto artesanal de Breeze Gelatería & café?
 
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Ofrecen opciones de consumo en salón o empaque adecuado para llevar en Empanadas de jamón y queso en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-En nuestra cocina tratamos Empanadas de jamón y queso como un plato representativo donde el equilibrio de condimentos y la cocción precisa son la prioridad.
+Breeze Gelatería & café nació con la ilusión de traer a Cajamarca la auténtica tradición del gelato italiano, fusionándola armoniosamente con la riqueza lechera y la excelencia del café de especialidad de la sierra norte.
 
-Seleccionamos insumos de primera calidad, carnes tiernas, verduras del día y sazón equilibrada que realzan las notas características del plato sin saturar el paladar.
+Desde sus inicios, la marca apostó por la honestidad en los ingredientes, elaborando lotes pequeños y frescos a diario para garantizar una cremosidad y un sabor natural que marcan una clara diferencia. La pasión artesanal guía cada receta.
 
-Atendemos pedidos individuales y familiares, manteniendo siempre tiempos de despacho ágiles para que no tengas esperas incómodas en tu mesa.
+Nuestra misión continúa siendo brindar momentos dulces, refrescantes e inolvidables a cada persona que cruza nuestras puertas.
 
-Te invitamos a visitarnos en Breeze Gelatería & café, situado en Jirón Cruz de Piedra 618, Cajamarca, listos para servirte Empanadas de jamón y queso con el sabor que te mereces.
+20. ¿En qué franja horaria atienden al público en Cruz de Piedra?
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Cómo garantizan el sabor auténtico, frescura y calidad de Pan de molde integral en Breeze Gelatería & café?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-Al elegir Pan de molde integral disfrutas de una elaboración cuidada desde la selección misma de los insumos en nuestra carta de panadería y pastelería.
+Atendemos al público de lunes a domingo desde las diez de la mañana hasta las nueve y media de la noche de manera ininterrumpida, abarcando las horas predilectas para refrescarse a media mañana o merendar en la tarde.
 
-Nuestra propuesta se basa en ingredientes naturales, evitando preservantes innecesarios y respetando los tiempos justos de reposo y horneado o salteado.
+Los fines de semana la atención se mantiene activa para acompañar a las numerosas familias y grupos de amigos que pasean por el centro histórico. Toda la variedad de sabores de gelato y cartas de café se encuentra disponible.
 
-Disponemos de empaques térmicos biodegradables que conservan el calor y la humedad exacta si prefieres pedirlo para llevar o solicitar entrega a domicilio.
-
-Ven con tus familiares o amigos a Breeze Gelatería & café en Jirón Cruz de Piedra 618, Cajamarca y déjate consentir por la sazón de Pan de molde integral.
-
-================================================================================
+Para consultar disponibilidad de sabores o coordinar pedidos anticipados por WhatsApp, los usuarios pueden comunicarse directamente a nuestras líneas oficiales.

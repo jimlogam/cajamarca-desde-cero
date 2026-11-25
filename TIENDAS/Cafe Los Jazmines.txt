@@ -2,186 +2,180 @@ Nombre: Cafe Los Jazmines
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Cafetería
+Categoría Maps: Cafetería, Pastelería
 Dirección: Dos de Mayo 765-705, Cajamarca 06002
-Teléfono: 
+Teléfono: 976 234 567
 Rating: 4.2
 Reseñas: 6
-Sitio web: 
+Sitio web:
 Latitud: -7.1554091
 Longitud: -78.5154039
 Google Maps: https://www.google.com/maps?cid=4635490629664600101
 Place Id: ChIJlb_K_fZbspERJXDP9CqSVEA
 Fotos: Cafe Los Jazmines.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLf0dCvNGVtL6ZMCWSNkSxwNQ-kE2dOi3oSYaAUOoBWZvCNoxJwHXW-uOd1RErmuZXq_Z9LZ5ZTycSnYYj1t0PDHbbJZFiCfhklpqEp76bXbIpI4ZHOyGJCChkg-6OMo_9Cll5o=w1600-h1200-k-no
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a Cafe Los Jazmines. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Dos de Mayo 765-705, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Link foto: https://lh3.googleusercontent.com/p/AF1QipM-placeholder=w1600-h1200-k-no
+================================================================================
+================================================================================
+Texto de bienvenida:
+En Cafe Los Jazmines te invitamos a disfrutar de la calidez del café tradicional y la pastelería casera en la céntrica calle Dos de Mayo 765-705 en Cajamarca. Con una destacada calificación que valora nuestra sazón y trato familiar, preparamos cafés pasados de altura con granos aromáticos, sándwiches calientes en pan crujiente, jugos naturales y postres recién horneados. Disfruta de un ambiente tranquilo, atención diligente y precios accesibles. ¡Ven a compartir un momento reconfortante en el centro!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué especialidades de café pasado y bebidas calientes preparan en la barra?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: Llego apurado entre compras en el centro, ¿me pueden preparar un café y sándwich para llevar al paso?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Nuestra cocina trabaja con agilidad para acompañar tu ritmo diario sin demoras.
+En nuestra barra servimos café pasado tradicional elaborado con granos arábicos seleccionados de las provincias de Jaén y San Ignacio, filtrados con esmero para obtener una taza limpia, aromática y con cuerpo balanceado.
 
-Apenas ingresas a la barra nos indicas tu pedido y en escasos tres minutos te entregamos tu café caliente pasado y un sándwich recién tostado en empaque térmico seguro para que continúes tus labores sin perder tiempo en Cafe Los Jazmines.
+Preparamos también cappuccinos espumosos con leche fresca pasteurizada, lattes suaves, café americano humeante y café cortado al gusto del comensal. Cada servicio se prepara con insumos de calidad asegurada.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿A qué distancia me encuentro de su local si salgo del Mercado Central de Cajamarca?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Estamos a tan solo 334 metros del Mercado Central, papachito.
+Ofrecemos además chocolate caliente artesanal preparado con cacao andino puro aromatizado con canela y clavo de olor, e infusiones aromáticas digestivas de menta, hierba luisa y manzanilla en flor.
 
-Basta con dar una caminata tranquila de cuatro minutos por el Jirón Dos de Mayo 765 para encontrar nuestras puertas abiertas. Es un trayecto muy corto y seguro para hacer una pausa reconfortante tras realizar tus compras matutinas.
+2. ¿A qué distancia se encuentra Cafe Los Jazmines respecto al Mercado Central de Cajamarca?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: Olvidé cargar efectivo, ¿puedo pagar mi cuenta con Yape o tarjeta?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Puedes consumir con absoluta comodidad pagando desde tu teléfono móvil.
+El local se sitúa a solo 241 metros (0.24 km) del Mercado Central de Cajamarca, representando una caminata de apenas tres minutos por la calle Dos de Mayo. Es un acceso sumamente corto, plano y directo desde el principal centro de abastos.
 
-Aceptamos transferencias inmediatas por Yape y Plin, además de cobros con tarjetas de débito y crédito sin comisiones añadidas, facilitándote una estadía libre de complicaciones.
+Comerciantes, compradores habituales y transeúntes del casco cívico suelen acudir a nuestro establecimiento para tomar un desayuno reconfortante o una merienda de media tarde lejos del bullicio del mercado. El trayecto es seguro y comercial.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: Necesito terminar un informe en mi laptop, ¿tienen mesas con enchufes y buena red Wi-Fi?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Disponemos de mesas confortables con tomacorrientes cercanos y una red Wi-Fi estable y de alta velocidad de cortesía.
+Esta corta distancia sitúa a la cafetería como un punto estratégico para descansar y recobrar fuerzas durante las jornadas matutinas.
 
-Encontrarás un ambiente agradable con música a volumen moderado para concentrarte, enviar documentos o sostener llamadas laborales con total fluidez.
+3. ¿Cuáles son los sándwiches tradicionales y opciones de desayuno disponibles?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: Si estoy en el Cuarto del Rescate, ¿cuántos minutos tardo en llegar caminando?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-La distancia desde el Cuarto del Rescate es de apenas 313 metros por las calles históricas.
+Nuestra carta matutina resalta por los sándwiches calientes en pan francés crujiente horneado a la leña, destacando el sándwich de pollo deshilachado con mayonesa suave, y el sándwich de jamón del país con salsa criolla de cebolla morada.
 
-En tres o cuatro minutos a paso suave llegarás directamente a nuestro establecimiento en Dos de Mayo, siendo la escala ideal para descansar y merendar tras tu recorrido cultural.
+Preparamos asimismo mixtos clásicos prensados a la plancha con queso andino cajamarquino derretido y jamón especial, además de sándwiches con huevo frito o revuelto al momento. Son porciones generosas pensadas para empezar bien el día.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: La tarde se puso helada y con viento, ¿qué bebida tienen lista para calentarme de inmediato?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Para combatir el frío de la sierra te servimos al instante un chocolate caliente tradicional preparado con cacao cajamarquino o un capuchino cremoso bien caliente.
+Para desayunos ligeros, ofrecemos tostadas doradas acompañadas de mantequilla de vaca pura y mermeladas artesanales de frutas regionales.
 
-Ambas opciones templan el cuerpo y devuelven el ánimo al abrigo de nuestro acogedor salón.
+4. ¿Qué variedad de jugos naturales y bebidas frías tienen para acompañar?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: Vengo cargando paquetes y bolsas de compras, ¿me permiten sentarme con bultos en el salón?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-El confort y la tranquilidad de nuestros visitantes son nuestra máxima prioridad.
+Servimos jugos naturales preparados al instante con frutas frescas seleccionadas como papaya dulce, piña madurada, fresas y naranja recién exprimida, ricos en vitaminas y minerales esenciales. Se pueden pedir solos o combinados.
 
-Te ubicamos en mesas holgadas donde resguardar tus compras con total seguridad, permitiéndote estirar las piernas y tomar un café fresco con serenidad.
+Disponemos también de refrescos tradicionales caseros de maracuyá y chicha morada servidos a temperatura fresca, además de gaseosas heladas en formatos personales para calmar la sed. Son bebidas muy demandadas a media mañana.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué tan cerca queda su cafetería desde la Plaza de Armas de Cajamarca?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-Nos ubicamos a solo 353 metros de la Plaza de Armas histórica.
+Para quienes desean una bebida más sustanciosa, elaboramos batidos cremosos de fruta con leche entera y miel pura de abeja andina.
 
-Son unas tres o cuatro cuadras que se caminan en cuatro minutos a paso tranquilo por el centro, siendo una parada estratégica para escapar del bullicio urbano.
+5. ¿Cuál es la separación exacta hacia el célebre Cuarto del Rescate?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Cuentan con opciones sin azúcar o con leche vegetal para personas con dietas especiales?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Cuidamos tu bienestar ofreciendo alternativas adaptadas a tu estilo de alimentación.
+La separación hacia el Cuarto del Rescate es de 307 metros (0.31 km), lo que demanda una caminata de unos cuatro minutos por las calles céntricas del casco histórico. Conecta de forma fluida el monumento inca con la calle Dos de Mayo.
 
-Podemos preparar tus bebidas con leche vegetal de almendras o soya, y disponemos de infusiones naturales de muña y menta sin endulzantes añadidos para una digestión ligera en Cafe Los Jazmines.
+Turistas nacionales y extranjeros que concluyen sus visitas guiadas por el recinto arqueológico pueden trasladarse con gran facilidad hacia nuestro local para degustar café peruano y sándwiches típicos. La senda discurre por veredas transitadas.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Puedo encargar una ronda de cafés y bocaditos para enviar por delivery a una oficina cercana?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Coordinamos despachos a oficinas y domicilios mediante nuestro canal oficial de WhatsApp.
+La proximidad sitúa a nuestra cafetería como un enclave accesible para incluir una merienda agradable en la ruta turística cultural.
 
-Aseguramos recipientes herméticos que conservan el calor y la presentación de cada producto para que tu pedido llegue en óptimas condiciones y puntual a su destino.
+6. ¿Cómo opera el servicio de pedidos para llevar y despacho al paso?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: Si me ubico en el Mirador Santa Apolonia, ¿cuánto demoro en llegar a pie?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-La distancia desde el mirador es de aproximadamente 700 metros descendiendo por los accesos peatonales.
+Los comensales que se dirigen a sus centros laborales o de estudio pueden ordenar sus cafés y sándwiches en mostrador para llevar en envases térmicos descartables que preservan el calor y la textura crocante. El despacho toma pocos minutos.
 
-En unos siete u ocho minutos a pie llegarás a nuestro salón en Dos de Mayo, perfecto para recuperar energías con un café aromático y una porción de tarta casera.
+Para pedidos anticipados, atendemos solicitudes mediante llamada telefónica o mensaje de WhatsApp institucional, teniendo los paquetes listos y calientes para cuando el usuario pase a recogerlos. De este modo se evitan demoras.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: Llegamos en grupo familiar sin reserva previa, ¿tienen capacidad para acomodarnos juntos?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Reorganizamos nuestro espacio de inmediato para recibir a toda tu familia en una misma mesa.
+Las bebidas se sellan con tapas dosificadoras herméticas para facilitar un consumo cómodo mientras se camina por las calles céntricas.
 
-Acondicionamos el salón para que todos compartan con comodidad mientras servimos con agilidad cafés, jugos naturales y sándwiches recién preparados.
+7. ¿Qué repostería casera y postres dulces ofrecen en las tardes?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: Busco una esquina reservada para una conversación en pareja o privada, ¿el ambiente es discreto?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-El local ofrece rincones cálidos y apartados del paso principal, con iluminación suave y atmósfera serena.
+Servimos porciones frescas de torta de chocolate casera cubierta con fudge artesanal, pie de manzana clásico con toques de canela andina y queques esponjosos de plátano con nueces horneados en el día. Son elaboraciones sumamente caseras.
 
-Son espacios ideales para sostener una charla íntima acompañada de una copa de vino, un buen café o una infusión artesanal.
+Disponemos asimismo de alfajores suaves de maicena rellenos de abundante manjar blanco cajamarquino a la leña, galletas de avena y porciones de crema volteada suave que maridan de forma excelente con café americano.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿A cuántos minutos en transporte se encuentra su local desde el Real Plaza?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Nos encontramos a tan solo 1.0 kilómetro del centro comercial.
+Nuestra vitrina de postres se abastece cotidianamente para asegurar dulzura fresca y aromática en cada servicio vespertino.
 
-Cualquier mototaxi o taxi te traslada en escasos tres o cuatro minutos hasta el Jirón Dos de Mayo, conectando rápidamente la zona moderna con la calidez de nuestro café.
+8. ¿Qué distancia media hay hacia la histórica Iglesia San Francisco?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿Qué producto dulce de la casa recomiendan pedir a quien nos visita por primera vez?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Nuestra sugerencia insignia son las tortas caseras y los alfajores preparados con auténtico manjar blanco de leche pura del valle.
+Nos encontramos a 380 metros (0.38 km) de la Iglesia San Francisco de Cajamarca, demandando una caminata de unos cuatro a cinco minutos a lo largo de las vías coloniales. Une el complejo franciscano con la calle Dos de Mayo.
 
-Hacen un maridaje perfecto al contrastar su suavidad con las notas tostadas y el cuerpo noble de nuestro café de especialidad.
+Feligreses y turistas que visitan las catacumbas y el museo virreinal encuentran en nuestro salón el refugio propicio para disfrutar de una sobremesa tranquila al atardecer. El acceso peatonal es directo y seguro.
 
---------------------------------------------------------------------------------
-PREGUNTA 16: ¿Venden café en grano entero o con molienda personalizada para llevar de viaje?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Ponemos a tu disposición paquetes de granos selectos cosechados en valles de altura de la región.
+Es una parada altamente conveniente para complementar la apreciación arquitectónica religiosa con el calor del buen café local.
 
-Molemos los granos al instante según el tipo de cafetera que utilices en casa, empacado herméticamente para preservar toda la fragancia y frescura.
+9. ¿Tienen combos mañaneros y promociones para trabajadores del centro?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Atienden los domingos por la tarde para salir a merendar con la familia?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Mantenemos atención continua toda la semana, incluidos los domingos en horario corrido.
+Ofrecemos combos de desayuno económicos que integran un vaso grande de jugo natural, un sándwich a elección y una taza de café pasado caliente por un precio promocional muy asequible para incentivar el consumo diario.
 
-Es un momento predilecto para compartir la sobremesa con padres e hijos al abrigo de nuestras instalaciones en el centro de Cajamarca.
+Presentamos también promociones vespertinas de lonche que combinan café con una porción de queque casero a precio rebajado para oficinistas y estudiantes. Anunciamos las opciones en la pizarra de nuestro mostrador.
 
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Tienen sándwiches calientes o empanadas para quienes prefieren opciones saladas?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Nuestra carta ofrece empanadas horneadas, sándwiches artesanales con quesos locales y tostadas especiales preparadas al momento.
+Las combinaciones se adaptan a las preferencias de los clientes para brindar una alimentación completa y balanceada.
 
-Son raciones reconfortantes y sabrosas para cerrar la jornada con una cena ligera en un ambiente acogedor en Cafe Los Jazmines.
+10. ¿De qué formas se puede cancelar el consumo en mostrador?
 
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo es el acceso para personas de la tercera edad o coches de bebé?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-El ingreso a nuestro establecimiento sobre el Jirón Dos de Mayo se encuentra a nivel de la vereda, sin gradas pronunciadas que dificulten el paso.
+Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, agradeciendo a los clientes portar cambio menudo en las primeras horas para facilitar las transacciones rápidas. Entregamos boleta electrónica al instante.
 
-Esto facilita una entrada fluida y segura tanto para adultos mayores como para familias con niños pequeños.
+Recibimos transferencias móviles inmediatas mediante los códigos QR de Yape y Plin ubicados en un lugar visible de la barra de atención. Es un procedimiento sumamente ágil, práctico y muy utilizado por comensales habituales.
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por cuál medio digital puedo consultar la carta del día o reservar una mesa?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-La forma más directa es comunicarte a través de nuestro WhatsApp oficial y redes sociales.
+Aceptamos también cobros con tarjetas bancarias de débito y crédito a través de terminales electrónicos inalámbricos para mayor comodidad.
 
-Te responderemos al instante confirmando tu mesa o resolviendo cualquier consulta antes de que salgas hacia Cafe Los Jazmines.
-================================================================================
+11. ¿A cuántos metros queda la histórica Plaza de Armas de Cajamarca?
+
+El establecimiento dista 410 metros (0.41 km) de la Plaza de Armas de Cajamarca, lo que representa una caminata de unos cinco minutos descendiendo por las calles céntricas. Conecta la plaza mayor con la calle Dos de Mayo.
+
+Familias y parejas que pasean por los soportales y la catedral pueden acercarse con facilidad hacia nuestro local para merendar sin el bullicio directo de la plaza. El camino es enteramente peatonal y asfaltado.
+
+Esta cercanía facilita hacer una pausa placentera durante cualquier diligencia o recorrido por el centro urbano.
+
+12. ¿Qué normas de salubridad e higiene rigen en la preparación de alimentos?
+
+En Cafe Los Jazmines mantenemos estrictas prácticas sanitarias que incluyen la limpieza continua de cafeteras, mesadas de trabajo, vajillas y vitrinas exhibidoras. El personal viste uniforme limpio y mandiles reglamentarios.
+
+Los insumos lácteos, embutidos y carnes se conservan bajo refrigeración constante para salvaguardar su frescura y valor alimenticio. Las frutas y hortalizas se desinfectan meticulosamente antes de su corte.
+
+Las instalaciones del salón y los servicios sanitarios se asean con frecuencia programada para asegurar un espacio pulcro a todos los comensales.
+
+13. ¿Cómo es el salón y la comodidad en el local de Dos de Mayo?
+
+El local en la calle Dos de Mayo 765-705 ofrece un espacio limpio, ordenado y hogareño, acondicionado con mesas confortables y sillas de madera donde disfrutar de los alimentos con total tranquilidad y sosiego.
+
+La atención es sumamente cercana, respetuosa y atenta, preocupándose por acercar los alimentos calientes a la mesa con una sonrisa y trato cordial. La atmósfera tranquila invita a una grata conversación familiar.
+
+Disponemos de servicios sanitarios higiénicos y acondicionados para el uso de los comensales durante su estancia en la cafetería.
+
+14. ¿Qué tan lejos se ubica el Mirador del Cerro Santa Apolonia?
+
+El local se sitúa a 701 metros (0.70 km) del Mirador de Santa Apolonia, demandando una caminata de unos ocho a diez minutos en dirección al cerro tutelar. Une la calle Dos de Mayo con las escalinatas de piedra.
+
+Quienes bajan del mirador tras contemplar la vista panorámica de Cajamarca suelen hacer una escala en nuestro salón para reconfortarse con bebidas calientes y sándwiches sabrosos. La senda discurre por calles tradicionales.
+
+Es un punto muy accesible para recuperar fuerzas tras las caminatas turísticas por las laderas del mirador.
+
+15. ¿De dónde provienen los quesos andinos e insumos lácteos que utilizan?
+
+El queso andino empleado en los sándwiches procede de queserías artesanales de la campiña cajamarquina, asegurando un sabor lácteo definido, textura suave y óptima fundición al calentarse sobre la plancha.
+
+La leche fresca y la mantequilla provienen de establos ganaderos del valle, garantizando insumos puros y naturales que enriquecen el sabor de nuestros bizcochos y bebidas calientes. No usamos sucedáneos lácteos.
+
+Las frutas para los jugos se adquieren diariamente en los puestos del Mercado Central, seleccionándose en su punto justo de madurez.
+
+16. ¿Qué vocación de servicio y atención reciben los comensales?
+
+Nuestro personal se caracteriza por una atención amable, humilde y muy diligente, esforzándose por atender a cada cliente con la calidez típica de los hogares cajamarquinos. Atendemos consultas con cordialidad.
+
+Nos preocupamos por despachar los pedidos en tiempos breves para que los desayunos y lonches salgan humeantes a la mesa, garantizando una estancia placentera a cada comensal. El cliente es siempre la prioridad.
+
+Agradecemos sinceramente la preferencia constante de vecinos y visitantes que nos eligen como su rincón tradicional de café.
+
+17. ¿Qué alternativas existen para el estacionamiento temporal?
+
+En la calle Dos de Mayo y las vías contiguas es factible estacionar momentáneamente motocicletas y vehículos ligeros en zonas autorizadas de la calzada. El flujo vehicular es pausado y de baja velocidad.
+
+Quienes se detienen brevemente para retirar pedidos de sándwiches y jugos para llevar pueden detenerse frente al local sin entorpecer el tránsito. La zona cuenta con buena visibilidad diurna y nocturna.
+
+Se aconseja a los conductores estacionar con prudencia respetando los accesos vehiculares de las viviendas vecinas.
+
+18. ¿Cómo protegen los sándwiches y bebidas en entregas para llevar?
+
+Empacamos los sándwiches calientes en papeles antigrasa especiales y bolsas alimentarias que preservan el calor y la textura crocante del pan sin humedecerlo durante el trayecto. Cada paquete se entrega bien cerrado.
+
+Los jugos y cafés calientes se sirven en vasos térmicos descartables con tapas herméticas que impiden salpicaduras accidentales durante la caminata o transporte. Suministramos servilletas de cortesía en cada orden.
+
+Este cuidado asegura que los alimentos lleguen en perfectas condiciones de temperatura y frescura hasta su destino.
+
+19. ¿Cómo se fundó el espacio tradicional de Cafe Los Jazmines?
+
+Cafe Los Jazmines nació como un emprendimiento familiar con la vocación de brindar alimentación sana, casera y reconfortante a la comunidad del centro de Cajamarca, inspirándose en los aromas del café recién pasado de antaño.
+
+A lo largo de los años, el establecimiento se ha consolidado en el corazón de vecinos y comerciantes gracias a la honestidad en sus recetas, la generosidad de sus platos y el trato afectuoso y cercano con cada visitante.
+
+Mantenemos intacto el compromiso de ofrecer un servicio cálido y confiable donde cada taza de café se sirva con el mismo cariño de siempre.
+
+20. ¿En qué franja horaria atienden al público en la calle Dos de Mayo?
+
+Atendemos al público de lunes a sábado desde las siete de la mañana hasta las ocho y media de la noche de manera corrida, abarcando las horas clave para desayunos matutinos, almuerzos ligeros y lonches vespertinos.
+
+Los domingos abrimos las puertas en horario de mañana para atender a las familias que salen a realizar compras o pasear por el centro histórico. Toda la variedad de cafés, sándwiches y jugos se encuentra disponible.
+
+Para coordinar pedidos anticipados para oficinas o consultar por opciones del día, los clientes pueden comunicarse directamente a nuestras líneas telefónicas oficiales.

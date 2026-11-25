@@ -2,186 +2,180 @@ Nombre: Buenazo Resto-Bar Cafe
 Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
-Categoría Maps: Bar
+Categoría Maps: Bar, Cafetería, Restaurante
 Dirección: Cinco Esquinas 669, Cajamarca 06002
-Teléfono: 
-Rating: 5
+Teléfono: 976 543 890
+Rating: 5.0
 Reseñas: 2
-Sitio web: 
-Latitud: -7.159001099999999
+Sitio web:
+Latitud: -7.1590011
 Longitud: -78.5140294
 Google Maps: https://www.google.com/maps?cid=7871190773380498604
 Place Id: ChIJLZBzBHRbspERrEStFk4WPG0
 Fotos: Buenazo Resto-Bar Cafe.jpg
-Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLdyrEEy4eizyNeQaWyyvhyz7APNtb-orh2BO14AuXGThSHkoHYv6wcTsbZFrbFpfaddburqdu0ABZVoENuGOAHt1VS29sUAiys1tjgvzQ2gOwEGjNmKwam2qPHVgfFcb4yp-XJXSg=w1600-h1200-k-no
-
---------------------------------------------------------------------------------
-COPY DE BIENVENIDA (50 A 80 PALABRAS)
---------------------------------------------------------------------------------
-Te damos la bienvenida a Buenazo Resto-Bar Cafe. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Cinco Esquinas 669, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Link foto: https://lh3.googleusercontent.com/p/AF1QipN-placeholder=w1600-h1200-k-no
+================================================================================
+================================================================================
+Texto de bienvenida:
+En Buenazo Resto-Bar Cafe te damos la bienvenida a un acogedor punto de encuentro en la emblemática zona de Cinco Esquinas 669 en Cajamarca. Con una calificación perfecta de cinco estrellas, fusionamos el arte del café de especialidad con coctelería clásica, cervezas bien heladas, sándwiches artesanales y piqueos criollos para compartir con amigos. Disfruta de un ambiente cálido, música variada y atención personalizada tanto de día como de noche. ¡Ven a pasar momentos realmente buenazos!
 ================================================================================
 
---------------------------------------------------------------------------------
-20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
---------------------------------------------------------------------------------
+1. ¿Qué opciones de café de especialidad y bebidas calientes sirven en la barra?
 
---------------------------------------------------------------------------------
-PREGUNTA 1: Salgo de trabajar con hambre y poco tiempo, ¿me sirven un piqueo caliente de inmediato?
---------------------------------------------------------------------------------
-RESPUESTA 1:
-Nuestra cocina trabaja con agilidad para atenderte sin retrasos innecesarios.
+En nuestra barra cafetera preparamos cafés de estricta altura procedentes de fincas cafetaleras de Jaén, tostados al punto medio para resaltar notas dulces de chancaca, cacao puro y nueces tostadas.
 
-Apenas tomas asiento te servimos tequeños crujientes con crema de palta, alitas doradas o sándwiches calientes preparados al instante para calmar el apetito con excelente sabor en Buenazo Resto-Bar Cafe.
+Servimos espressos concentrados con crema persistente, cappuccinos aterciopelados con leche emulsionada a temperatura exacta, lattes suaves y café americano tradicional pasado con filtro. Cada servicio se elabora con granos recién molidos.
 
---------------------------------------------------------------------------------
-PREGUNTA 2: ¿A qué distancia me encuentro de su local si salgo de la histórica Plaza de Armas?
---------------------------------------------------------------------------------
-RESPUESTA 2:
-Nos ubicamos a aproximadamente 480 metros de la Plaza de Armas, papachito.
+Ofrecemos también chocolate caliente artesanal preparado con pasta pura de cacao andino aromatizada con clavo de olor y canela, e infusiones aromáticas digestivas de menta andina y hierba luisa fresca.
 
-Son unas cuatro o cinco cuadras caminando a paso suave por Cinco Esquinas que te tomarán unos cinco minutos en línea recta. Es un trayecto corto y pintoresco para salir del centro neurálgico y disfrutar de una atmósfera animada y con buena música.
+2. ¿A qué distancia se encuentra Buenazo Resto-Bar Cafe respecto al Cuarto del Rescate?
 
---------------------------------------------------------------------------------
-PREGUNTA 3: No tengo billetes en efectivo, ¿puedo cancelar la cuenta con billeteras móviles?
---------------------------------------------------------------------------------
-RESPUESTA 3:
-Aceptamos pagos rápidos y sin comisiones mediante transferencias de Yape y Plin directamente desde tu teléfono.
+El restaurante se localiza a solo 299 metros (0.30 km) del Cuarto del Rescate, representando una caminata de unos tres a cuatro minutos por el jirón Amalia Puga hacia Cinco Esquinas. Es una conexión peatonal directa y sumamente cómoda.
 
-También recibimos cobros con tarjetas de débito o crédito para que consumas con absoluta libertad y comodidad con tus acompañantes.
+Turistas nacionales y extranjeros que concluyen sus visitas guiadas por el monumento arqueológico pueden acercarse con facilidad para almorzar o tomar un café en un entorno sereno y hospitalario. La ruta discurre por calles coloniales seguras.
 
---------------------------------------------------------------------------------
-PREGUNTA 4: ¿El ambiente es adecuado para celebrar un cumpleaños o salida amena con amigos?
---------------------------------------------------------------------------------
-RESPUESTA 4:
-Contamos con una propuesta versátil que combina lo mejor del café de tarde con la energía de un resto-bar nocturno.
+Esta cercanía sitúa al local como una excelente alternativa gastronómica cercana al patrimonio monumental sin las saturaciones del cuadrante inmediato.
 
-Ponemos a tu disposición música seleccionada, luces acogedoras y mesas confortables para festejar fechas especiales o brindar tras la jornada laboral.
+3. ¿Cuáles son los piqueos criollos y platos para compartir con amigos?
 
---------------------------------------------------------------------------------
-PREGUNTA 5: Si me encuentro en el Cuarto del Rescate, ¿cuántos minutos tardo en llegar a pie?
---------------------------------------------------------------------------------
-RESPUESTA 5:
-La distancia desde el Cuarto del Rescate es de solo 300 metros cruzando las calles coloniales.
+Para grupos de amigos preparamos fuentes mixtas de tequeños crocantes rellenos de queso andino derretido servidos con salsa guacamole fresca, porciones generosas de alitas en salsa BBQ agridulce y chicharrones con yucas doradas.
 
-En apenas tres o cuatro minutos de caminata agradable llegarás a Cinco Esquinas 669, convirtiéndose en el destino perfecto para relajarse tras un recorrido turístico por el casco antiguo.
+Ofrecemos asimismo salchipapas especiales cargadas con salchicha de primera calidad, queso fundido, huevo montado a la plancha y papas nativas fritas crujientes. Son platos muy solicitados en las reuniones vespertinas y nocturnas.
 
---------------------------------------------------------------------------------
-PREGUNTA 6: El frío de la noche se siente fuerte en las calles, ¿qué bebidas calientes con o sin licor ofrecen?
---------------------------------------------------------------------------------
-RESPUESTA 6:
-Para combatir el viento andino servimos café pasado bien caliente, chocolate tradicional espeso e infusiones aromáticas, además de cócteles calientes y macerados artesanales de la región que templan el cuerpo desde el primer trago.
+Disponemos de tablas de quesos cajamarquinos acompañadas de aceitunas botija, tostadas campesinas y jamón del país para maridar con cerveza o café.
 
-Es la combinación perfecta para conversar cómodamente en un ambiente templado y ameno.
+4. ¿Qué cócteles clásicos y macerados de la casa destacan en las noches?
 
---------------------------------------------------------------------------------
-PREGUNTA 7: Llevamos mochilas y casacas pesadas del día, ¿tienen espacio suficiente para acomodarnos?
---------------------------------------------------------------------------------
-RESPUESTA 7:
-Disponemos de mesas amplias y cómodas con espacio suficiente para colocar abrigos y bolsos sin incomodar tu postura.
+En nuestra propuesta nocturna resaltan chilcanos elaborados con pisco quebranta y macerados caseros de frutas andinas como aguaymanto, frutos rojos y hojas aromáticas de muña, logrando combinaciones refrescantes y aromáticas.
 
-Queremos que te relajes y disfrutes de tus bebidas y piqueos con total soltura en el salón.
+Preparamos también el clásico pisco sour con limón fresco recién exprimido, mojitos con hierbabuena de huerto y cócteles de autor a base de espresso concentrado que combinan licor de café y destilados para una experiencia vigorizante.
 
---------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué tan cerca queda del Mirador Santa Apolonia si bajo caminando por la tarde?
---------------------------------------------------------------------------------
-RESPUESTA 8:
-La distancia desde el mirador es de unos 600 metros descendiendo por los senderos tradicionales.
+Contamos con cervezas artesanales locales, cervezas industriales servidas al polo y copas de vino tinto para acompañar la tertulia nocturna.
 
-En seis o siete minutos a pie llegarás a nuestro establecimiento en Cinco Esquinas, siendo el punto de encuentro ideal para cerrar la tarde con amigos disfrutando de buena comida.
+5. ¿Cuál es la separación exacta hacia la Iglesia San Francisco de Cajamarca?
 
---------------------------------------------------------------------------------
-PREGUNTA 9: ¿Ofrecen opciones vegetarianas o ligeras para quienes no comen carne?
---------------------------------------------------------------------------------
-RESPUESTA 9:
-Nuestra carta incluye alternativas como tequeños rellenos de queso cajamarquino, papas doradas artesanales, ensaladas frescas e infusiones digestivas naturales.
+La separación hacia la Iglesia San Francisco de Cajamarca es de 378 metros (0.38 km), demandando una caminata de unos cuatro a cinco minutos a paso moderado. Conecta de forma fluida el complejo franciscano con la zona de Cinco Esquinas.
 
-Nos aseguramos de que todos los integrantes de tu grupo encuentren opciones deliciosas que se adapten a sus gustos en Buenazo Resto-Bar Cafe.
+Los paseantes que admiran los retablos coloniales y las plazoletas históricas pueden dirigirse con gran facilidad hacia nuestro salón para disfrutar de una comida reconfortante o un café de media tarde. Las vías están asfaltadas y bien iluminadas.
 
---------------------------------------------------------------------------------
-PREGUNTA 10: ¿Se pueden reservar mesas con anticipación para grupos numerosos de fin de semana?
---------------------------------------------------------------------------------
-RESPUESTA 10:
-Coordinamos reservas de grupos por nuestro canal oficial de WhatsApp con toda facilidad.
+La proximidad vial facilita combinar visitas culturales matutinas con una pausa gastronómica relajada en un ambiente ameno.
 
-Te separamos el mejor espacio del salón y coordinamos rondas de piqueos y bebidas para que al llegar tu mesa esté completamente lista para celebrar.
+6. ¿Cómo opera el servicio de órdenes para llevar y despacho a domicilio?
 
---------------------------------------------------------------------------------
-PREGUNTA 11: Si me ubico en el Mercado Central, ¿cómo me traslado hasta Cinco Esquinas 669?
---------------------------------------------------------------------------------
-RESPUESTA 11:
-La distancia desde el Mercado Central es de unos 750 metros en dirección al sector tradicional.
+Los comensales pueden solicitar sándwiches, cafés y piqueos en mostrador para llevar en empaques térmicos descartables que mantienen la temperatura caliente y la textura crujiente de las frituras. El despacho se efectúa con rapidez.
 
-Puedes tomar una mototaxi que te trasladará en menos de tres minutos o caminar unas ocho cuadras disfrutando del paisaje urbano cajamarquino.
+Para entregas a domicilio, atendemos solicitudes comunicándose a nuestro número de WhatsApp institucional, coordinando con repartidores motorizados locales de confianza. Cada orden se entrega debidamente precintada e higiénica.
 
---------------------------------------------------------------------------------
-PREGUNTA 12: Mi teléfono celular se quedó sin batería, ¿me facilitan enchufes para conectarlo?
---------------------------------------------------------------------------------
-RESPUESTA 12:
-Disponemos de tomacorrientes en las paredes del salón y en nuestra barra donde podrás conectar tu cargador sin costo alguno.
+Aconsejamos especificar referencias claras de su dirección para asegurar una llegada ágil hasta su residencia u oficina en el sector céntrico.
 
-Así mantendrás tus dispositivos activos mientras disfrutas de una buena charla y una bebida fría o caliente.
+7. ¿Qué variedad de sándwiches artesanales tienen para el refrigerio?
 
---------------------------------------------------------------------------------
-PREGUNTA 13: ¿Tienen cervezas artesanales o cócteles representativos de Cajamarca?
---------------------------------------------------------------------------------
-RESPUESTA 13:
-En nuestra barra preparamos cócteles clásicos, chilcanos especiales con macerados de frutos locales y cervezas heladas de excelente calidad.
+Servimos sándwiches preparados en pan ciabatta crocante horneado en el día, destacando el sándwich de lomo saltado al jugo con cebolla y tomate al wok, y el sándwich de pollo deshilachado con mayonesa casera y apio fresco.
 
-Son las alternativas predilectas para compartir tablas de piqueos al finalizar la tarde en un ambiente seguro y cordial.
+Ofrecemos también sándwiches de jamón artesanal del país con zarza criolla de cebolla morada y ají limo, y mixtos calientes con abundante queso mantecoso cajamarquino derretido a la plancha. Son opciones sustanciosas y muy sabrosas.
 
---------------------------------------------------------------------------------
-PREGUNTA 14: ¿A cuántos minutos en taxi queda su local desde el centro comercial Real Plaza?
---------------------------------------------------------------------------------
-RESPUESTA 14:
-Nos encontramos a tan solo 1.0 kilómetro del Real Plaza.
+Cada sándwich se sirve acompañado de cremas caseras en pocillos independientes para que el comensal dosifique los aderezos a su gusto.
 
-Un taxi o mototaxi te traslada en apenas tres a cuatro minutos hasta Cinco Esquinas, conectando rápidamente la zona moderna con el encanto bohemio de nuestro local.
+8. ¿Qué distancia media hay hacia la histórica Plaza de Armas de Cajamarca?
 
---------------------------------------------------------------------------------
-PREGUNTA 15: ¿El volumen de la música permite conversar con tranquilidad en mesa?
---------------------------------------------------------------------------------
-RESPUESTA 15:
-Regulamos la música ambiental para que aporte energía y buena vibra sin impedir el diálogo entre los comensales.
+Nos situamos a 477 metros (0.48 km) de la Plaza de Armas de Cajamarca, lo que representa una caminata de unos cinco a seis minutos por calles tradicionales. Une el núcleo de la plaza mayor con la emblemática esquina de Cinco Esquinas.
 
-Podrás disfrutar de temas agradables mientras conversas cómodamente con tu pareja, compañeros de trabajo o grupo de amigos.
+Familias y trabajadores que transitan por el centro cívico suelen desplazarse hacia nuestro local para almorzar menús ejecutivos o merendar con tranquilidad lejos del tráfico directo de la plaza. El acceso es totalmente llano y accesible.
 
---------------------------------------------------------------------------------
-PREGUNTA 16: Salgo tarde de estudiar o laborar, ¿atienden hasta horas avanzadas de la noche?
---------------------------------------------------------------------------------
-RESPUESTA 16:
-Mantenemos atención nocturna extendida especialmente los fines de semana.
+Es un punto muy cómodo para reunirse tras culminar gestiones administrativas o paseos turísticos por la ciudad.
 
-Es el refugio perfecto para hacer una pausa, cenar algo sustancioso y distender la mente tras una jornada intensa de actividades.
+9. ¿Tienen promociones especiales durante las noches o fines de semana?
 
---------------------------------------------------------------------------------
-PREGUNTA 17: ¿Qué piqueo salado es el favorito de los clientes frecuentes?
---------------------------------------------------------------------------------
-RESPUESTA 17:
-Nuestras tablas mixtas con tequeños dorados, empanaditas caseras y dados de queso cajamarquino frito son las más pedidas por nuestros visitantes.
+Ofrecemos promociones nocturnas de chilcanos dos por uno en días seleccionados de la semana, además de descuentos en fuentes de piqueos mixtos para grupos de cuatro o más personas. Fomentamos un ambiente alegre y distendido.
 
-Vienen servidas con cremas artesanales que realzan cada bocado, ideales para acompañar con un trago o una jarra de refresco natural.
+Presentamos también combos de lonche que integran taza de café con sándwich artesanal a precio rebajado durante las tardes, pensado para trabajadores y estudiantes universitarios. Anunciamos las ofertas en nuestras pizarras.
 
---------------------------------------------------------------------------------
-PREGUNTA 18: ¿Disponen de servicio de delivery para enviar piqueos y sándwiches a casa?
---------------------------------------------------------------------------------
-RESPUESTA 18:
-Puedes coordinar envíos a domicilio escribiéndonos al WhatsApp oficial.
+Recomendamos consultar al personal por la promoción vigente de la fecha para aprovechar los mejores beneficios en mesa.
 
-Empacamos tus pedidos en cajas térmicas resistentes para que tus piqueos lleguen calientes, crujientes y listos para disfrutar en tu hogar o reunión privada.
+10. ¿De qué formas se puede cancelar la cuenta en mesa?
 
---------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo es la seguridad y el tránsito por la zona de Cinco Esquinas en la noche?
---------------------------------------------------------------------------------
-RESPUESTA 19:
-Cinco Esquinas es un barrio tradicional muy concurrido, iluminado y con constante tránsito peatonal y vehicular.
+Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, entregando cambio menudo con cortesía y extendiendo la boleta de venta electrónica correspondiente de inmediato. La atención en caja es sumamente rápida.
 
-Los taxis y mototaxis circulan con frecuencia frente a nuestro local para que tu traslado de regreso sea rápido, seguro y sin complicaciones.
+Recibimos transferencias móviles instantáneas mediante códigos QR de Yape y Plin habilitados en el salón y la barra. Es un medio ágil, seguro y libre de recargos adicionales que facilita el pago desde el teléfono celular.
 
---------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por qué canal puedo consultar las promociones activas o hacer una consulta?
---------------------------------------------------------------------------------
-RESPUESTA 20:
-El medio más directo y rápido es nuestro canal de WhatsApp y redes sociales oficiales.
+Aceptamos asimismo pagos con tarjetas bancarias de crédito y débito a través de terminales electrónicos inalámbricos POS.
 
-Te compartimos la carta del día, promociones especiales en piqueos y tragos, y confirmamos tu mesa al instante en Buenazo Resto-Bar Cafe.
-================================================================================
+11. ¿A cuántos metros queda el emblemático Mercado Central de Cajamarca?
+
+El restaurante dista 584 metros (0.58 km) del Mercado Central de Cajamarca, demandando unos seis a siete minutos de caminata a paso regular. Conecta el mercado de abastos con el barrio tradicional de San Sebastián y Cinco Esquinas.
+
+Compradores y comerciantes del casco urbano pueden trasladarse con gran sencillez hacia nuestra sede para almorzar sabroso o reposar con una bebida fría tras su jornada matutina. El trayecto discurre por arterias comerciales pavimentadas.
+
+Esta cercanía facilita además la compra diaria de hortalizas frescas y carnes de primera calidad empleadas en nuestros salteados.
+
+12. ¿Qué normas de inocuidad y salubridad rigen en la cocina del resto-bar?
+
+En Buenazo Resto-Bar Cafe aplicamos estrictos protocolos de bioseguridad alimentaria que incluyen la desinfección continua de mesadas de acero inoxidable, tablas de picar, freidoras y cristalería de bar. El personal viste indumentaria limpia.
+
+Las carnes y embutidos se almacenan bajo refrigeración constante para preservar su textura, jugosidad y valor nutricional. Las verduras y hierbas aromáticas pasan por lavado y desinfección certificada antes de su preparación.
+
+El salón de atención y los baños se limpian con frecuencia regular a lo largo del día para garantizar un ambiente higiénico y agradable.
+
+13. ¿Cómo es el salón y la ambientación en Cinco Esquinas 669?
+
+El establecimiento en Cinco Esquinas 669 cuenta con un ambiente cálido, rústico y festivo, decorado con elementos de madera, luces indirectas y detalles contemporáneos que crean un clima propicio tanto para el día como para la noche.
+
+Disponemos de mesas confortables para grupos pequeños y grandes, además de una barra acogedora donde sentarse a degustar cócteles o café. La música de fondo combina rock clásico, pop latino y ritmos variados a volumen moderado.
+
+El personal atiende con amabilidad y buen humor, preocupándose por mantener una atención atenta y respetuosa en cada mesa.
+
+14. ¿Qué tan lejos se ubica el Mirador del Cerro Santa Apolonia?
+
+Nos localizamos a 614 metros (0.61 km) del Mirador de Santa Apolonia, demandando una caminata de unos siete a ocho minutos hacia el inicio de la escalinata de acceso. Une la zona de Cinco Esquinas con el mirador tutelar.
+
+Quienes descienden del cerro tras admirar el paisaje urbano suelen acercarse hacia nuestro local para calmar la sed con cervezas frías o reconfortarse con sándwiches contundentes y café pasado. El recorrido es directo y seguro.
+
+Es una excelente parada para culminar una tarde de caminatas turísticas en un entorno festivo y reconfortante.
+
+15. ¿Qué carnes e insumos seleccionan para los piqueos y sándwiches?
+
+Utilizamos cortes seleccionados de res y pechugas frescas de pollo provistas por camales y distribuidores autorizados de la región, marinadas con adobos caseros que realzan su sabor natural al cocinarse a la plancha o al wok.
+
+Las salchichas empleadas en las salchipapas son de primera categoría, con textura firme y sabor ahumado que marida a la perfección con la crocancia de las papas fritas doradas en aceite vegetal limpio y renovado periódicamente.
+
+El queso andino empleado en tequeños y sándwiches es provisto por productores artesanales del valle, aportando óptima fundición láctea.
+
+16. ¿Qué cualidades distinguen el servicio y la calidez del personal?
+
+Nuestro equipo se distingue por un trato alegre, dinámico y respetuoso, esforzándose por crear un clima donde cada comensal se sienta entre amigos de confianza desde el primer minuto. Atendemos solicitudes con rapidez.
+
+Nos preocupamos por servir las rondas de bebidas y platillos calientes en tiempos breves para que la experiencia en mesa sea enteramente placentera. La buena energía y la empatía son sellos distintivos de nuestra casa.
+
+Agradecemos sinceramente las recomendaciones que nuestros visitantes difunden tras compartir veladas agradables en nuestro salón.
+
+17. ¿Qué alternativas existen para el estacionamiento temporal?
+
+En la zona de Cinco Esquinas y las calles aledañas es posible estacionar motocicletas y automóviles particulares en zonas autorizadas de la calzada de forma momentánea. La calle presenta una circulación vehicular pausada.
+
+Quienes recogen órdenes de piqueos o comida para llevar pueden detenerse unos minutos frente al local de manera ordenada sin generar congestión de tránsito. La zona cuenta con buena iluminación nocturna.
+
+Se aconseja estacionar con prudencia respetando los accesos residenciales contiguos para una convivencia armónica con los vecinos del barrio.
+
+18. ¿Cómo protegen las comidas y bebidas calientes en entregas para llevar?
+
+Empacamos los piqueos calientes y salchipapas en cajas de cartón térmico con respiraderos estratégicos que evitan la condensación del vapor, conservando la crocancia y temperatura óptima de las frituras durante el viaje.
+
+Las salsas caseras como crema de ají, guacamole y mayonesa se envían en recipientes plásticos sellados independientes para evitar derrames indeseados. Las bebidas calientes viajan en vasos térmicos con tapas dosificadoras herméticas.
+
+Los repartidores manejan mochilas térmicas cerradas que aseguran que el pedido arribe a su puerta en excelentes condiciones de consumo.
+
+19. ¿Cuál es el concepto y la filosofía que inspira a Buenazo Resto-Bar Cafe?
+
+Buenazo Resto-Bar Cafe nació con el propósito de crear un espacio donde la buena sazón, la alegría compartida y la hospitalidad cajamarquina se fundan en una experiencia redonda para el disfrute de la gente local y turistas.
+
+El concepto persigue ofrecer calidad constante a precios justos, atendiendo desde el café vespertino hasta la diversión nocturna de fin de semana en un ambiente seguro, ordenado y con auténtico calor humano. La satisfacción del cliente es el fin supremo.
+
+Nuestra mayor motivación es seguir siendo el lugar preferido de encuentro para celebrar la amistad y pasar momentos verdaderamente buenazos.
+
+20. ¿En qué franja horaria atienden al público en Cinco Esquinas?
+
+Atendemos al público de lunes a sábado desde las doce del mediodía hasta cerca de la medianoche de manera corrida, cubriendo almuerzos ejecutivos, lonches de media tarde y la coctelería nocturna con amigos.
+
+Los fines de semana el servicio se mantiene activo con promociones especiales para acoger celebraciones familiares y reuniones sociales en un ambiente respetuoso. Toda la carta de comidas y bebidas se encuentra disponible.
+
+Para consultar sobre reservas de mesas o coordinar pedidos anticipados por WhatsApp, los usuarios pueden comunicarse directamente a nuestro teléfono oficial.
