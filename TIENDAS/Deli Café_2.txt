@@ -7,7 +7,7 @@ Dirección: Jr. Sor Manuela Gil 202, Cajamarca 06001
 Teléfono: 954 892 584
 Rating: 4.7
 Reseñas: 17
-Sitio web: 
+Sitio web:
 Latitud: -7.1480929
 Longitud: -78.50932519999999
 Google Maps: https://www.google.com/maps?cid=108616948272505103
@@ -18,7 +18,7 @@ Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=toMsKY
 --------------------------------------------------------------------------------
 COPY DE BIENVENIDA (50 A 80 PALABRAS)
 --------------------------------------------------------------------------------
-Te damos la bienvenida a Deli Café. El rincón perfecto para hacer una pausa y reconfortarte con el mejor café selecto de aroma profundo, bebidas calientes artesanales y exquisitos postres recién horneados. Te esperamos en nuestro agradable ambiente en Jr. Sor Manuela Gil 202, Cajamarca para conversar, trabajar o compartir con amigos. Pasa por nuestro local o haz tu pedido al WhatsApp y disfruta un momento único.
+Te damos la bienvenida a Deli Café en nuestra acogedora sede de Sor Manuela Gil. Te ofrecemos una experiencia reconfortante con selectos cafés de especialidad de origen norperuano, bebidas calientes artesanales, sándwiches gourmet recién prensados y fina pastelería horneada a diario. Encuéntranos en Jr. Sor Manuela Gil 202 para disfrutar de un ambiente tranquilo ideal para trabajar, estudiar o departir con amigos. Ven a visitarnos hoy mismo o pide tus favoritos para llevar.
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -26,162 +26,201 @@ Te damos la bienvenida a Deli Café. El rincón perfecto para hacer una pausa y 
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
-PREGUNTA 1: Salgo de clases en el sector norte y busco un lonche rápido con café de calidad, ¿me atienden al paso?
+PREGUNTA 1: ¿Qué opciones de desayunos completos y cafés especiales sirven por las mañanas?
 --------------------------------------------------------------------------------
 RESPUESTA 1:
-Nuestra cocina trabaja con agilidad para ofrecerte lo mejor sin demoras innecesarias.
+En nuestra sede de Sor Manuela Gil iniciamos cada día brindando alternativas nutritivas y reconfortantes preparadas con gran esmero. Podrás disfrutar de cafés pasados de aroma intenso, lattes con leche cremosa, chocolates calientes e infusiones aromáticas andinas.
 
-Te servimos al instante un café humeante en vaso térmico y un sándwich recién tostado para que continúes tus actividades con energía renovada en Deli Café.
+Acompañamos nuestras bebidas con crujientes tostadas artesanales, huevos revueltos con jamón regional, tostadas con palta y sándwiches calientes al gusto.
+
+Nuestra propuesta matutina en Deli Café está diseñada para llenarte de vitalidad en un entorno apacible antes de emprender tu jornada.
 
 --------------------------------------------------------------------------------
-PREGUNTA 2: ¿A qué distancia me encuentro de su local si salgo del centro comercial Real Plaza?
+PREGUNTA 2: ¿A cuántos metros de distancia se ubica este local respecto al Centro Comercial Real Plaza?
 --------------------------------------------------------------------------------
 RESPUESTA 2:
-Estamos a unos 820 metros del centro comercial, papachito.
+Nos encontramos situados a solo 770 metros de separación del concurrido Centro Comercial Real Plaza de Cajamarca.
 
-Basta con dar una caminata fresca de ocho o nueve minutos por el Jirón Sor Manuela Gil 202 para encontrar nuestras puertas abiertas. Es una ruta directa y tranquila para disfrutar de un café reconfortante.
+Puedes desplazarte a pie en unos ocho a diez minutos caminando por calles residenciales seguras y bien iluminadas del sector norte.
+
+Esta conveniente cercanía permite a quienes frecuentan la zona comercial disfrutar de una cafetería más íntima y serena a pocos minutos de marcha.
 
 --------------------------------------------------------------------------------
-PREGUNTA 3: No cuento con efectivo en la cartera, ¿puedo cancelar con Yape o tarjeta?
+PREGUNTA 3: ¿Qué granos de café y métodos de filtrado artesanal manejan en esta sucursal?
 --------------------------------------------------------------------------------
 RESPUESTA 3:
-Puedes consumir con absoluta comodidad pagando desde tu teléfono inteligente.
+Seleccionamos granos arábicos de alta especialidad provenientes de las cuencas cafetaleras de Cajamarca y Amazonas con puntuaciones de catación sobresalientes. Sus perfiles sensoriales expresan agradables notas achocolatadas, toques de frutos secos y una acidez balanceada.
 
-Procesamos transferencias directas por Yape y Plin, además de aceptar tarjetas de débito y crédito sin cobros adicionales, para que disfrutes de tu momento sin preocuparte por monedas o billetes.
+En barra preparamos bebidas espresso con balance perfecto entre cuerpo y crema, además de métodos de extracción como V60, prensa francesa y Aeropress.
+
+Molemos el café al instante de cada comanda para asegurar una taza aromática, limpia y llena de personalidad.
 
 --------------------------------------------------------------------------------
-PREGUNTA 4: Mi teléfono celular se quedó casi sin batería, ¿tienen enchufes accesibles junto a las mesas?
+PREGUNTA 4: ¿Cuentan con alternativas saladas y sándwiches para merendar a media tarde?
 --------------------------------------------------------------------------------
 RESPUESTA 4:
-Te asistimos de inmediato con tomas de corriente disponibles y cables de carga compatibles en barra.
+Disponemos de una tentadora variedad de opciones saladas elaboradas diariamente con ingredientes frescos y panadería de corteza crujiente. Servimos sándwiches de pollo deshilachado con apio y mayonesa casera, triples tradicionales y focaccias rellenas de queso andino y tomate asado.
 
-Podrás recargar tu equipo rápidamente mientras disfrutas de una pausa agradable en un ambiente iluminado y con música a volumen moderado.
+También horneamos empanadas de carne suavemente especiada, quiches de verduras del día y rollos de jamón y queso.
+
+Cada preparación se sirve caliente y recién salida del horno para asegurar la mejor experiencia culinaria en tus tardes de descanso.
 
 --------------------------------------------------------------------------------
-PREGUNTA 5: Si me ubico en el Mercado Central de Cajamarca, ¿cuánto tiempo toma llegar caminando?
+PREGUNTA 5: ¿Cuál es la distancia métrica y el trayecto para llegar desde el Centro Comercial El Quinde?
 --------------------------------------------------------------------------------
 RESPUESTA 5:
-La distancia desde el Mercado Central es de aproximadamente 840 metros.
+La distancia que nos separa de los accesos principales del Centro Comercial El Quinde es de exactamente 853 metros de recorrido urbano.
 
-Son unas ocho cuadras que se caminan en unos nueve minutos a paso tranquilo por vías seguras, o apenas tres minutos si tomas una mototaxi en las esquinas aledañas.
+El traslado peatonal toma entre nueve y once minutos transitando hacia el barrio San José, o apenas tres minutos en movilidad particular.
+
+Representa una ruta directa y muy accesible para conectarse con nuestra sede cafetera lejos del bullicio de los grandes bulevares comerciales.
 
 --------------------------------------------------------------------------------
-PREGUNTA 6: La tarde cajamarquina se puso helada y con viento, ¿qué bebida caliente tienen para servir al instante?
+PREGUNTA 6: ¿Qué variedad de postres y pasteles artesanales tienen disponibles en vitrina?
 --------------------------------------------------------------------------------
 RESPUESTA 6:
-Para combatir el frío andino te servimos de inmediato un chocolate caliente artesanal preparado con cacao selecto o un capuchino con abundante espuma cremosa.
+Nuestra vitrina refrigerada ofrece una selecta carta de pastelería artesanal horneada con insumos puros y recetas de equilibrio delicado. Podrás degustar porciones de cheesecake de maracuyá o sauco, torta húmeda de chocolate con fudge artesanal y tarta tibia de manzana.
 
-Ambas opciones devuelven la calidez al cuerpo desde el primer sorbo, reconfortándote por completo al abrigo de nuestras instalaciones.
+Contamos además con galletas de chispas de chocolate, alfajores suaves rellenos con manjar blanco cajamarquino y queques esponjosos de naranja.
+
+Estos manjares resultan el acompañamiento idóneo para equilibrar la intensidad de un café espresso o una infusión aromática.
 
 --------------------------------------------------------------------------------
-PREGUNTA 7: Traigo paquetes y bolsas de compras pesadas, ¿me permiten sentarme con bultos en el salón?
+PREGUNTA 7: ¿Tienen implementado el servicio de pedidos para llevar con empaques térmicos?
 --------------------------------------------------------------------------------
 RESPUESTA 7:
-El confort y la tranquilidad de nuestros visitantes son nuestra máxima prioridad.
+Facilitamos el despacho rápido de pedidos para llevar con vasos térmicos de doble pared que mantienen la temperatura sin quemar las manos. Los sándwiches y porciones de torta se empacan cuidadosamente en envases rígidos que previenen deformaciones durante el traslado.
 
-Te ubicamos en mesas holgadas donde resguardar tus compras con total seguridad, permitiéndote estirar las piernas y tomar un café fresco con serenidad.
+Puedes retirar tu orden en mostrador o avisarnos con minutos de antelación para que esté lista al momento de tu llegada.
+
+El servicio ágil de Deli Café asegura que continúes con tus actividades disfrutando de sabores excepcionales sin perder tiempo.
 
 --------------------------------------------------------------------------------
-PREGUNTA 8: ¿Qué tan cerca queda del histórico Cuarto del Rescate si vengo en mototaxi?
+PREGUNTA 8: ¿Cuántos kilómetros median de separación respecto al emblemático Mercado Central de Cajamarca?
 --------------------------------------------------------------------------------
 RESPUESTA 8:
-Nos ubicamos a unos 1.3 kilómetros del Cuarto del Rescate.
+Nos separan 1.20 km (1198 metros) de distancia en relación con las instalaciones del Mercado Central de la urbe.
 
-En mototaxi o taxi el trayecto toma alrededor de cuatro a cinco minutos por calles directas, siendo un trayecto ágil para salir del casco monumental hacia nuestro rincón acogedor.
+El viaje en vehículo particular o taxi requiere aproximadamente cuatro minutos circulando por las vías conectoras del sector norte hacia el centro.
+
+Esta ubicación permite disfrutar de un café de alta gama en un ambiente distendido y con amplias facilidades de acceso vehicular.
 
 --------------------------------------------------------------------------------
-PREGUNTA 9: ¿Disponen de conexión Wi-Fi rápida si requiero revisar pendientes laborales o de estudio?
+PREGUNTA 9: ¿Qué medios de pago electrónicos y presenciales reciben al momento de abonar la cuenta?
 --------------------------------------------------------------------------------
 RESPUESTA 9:
-Ofrecemos conexión Wi-Fi de alta velocidad para nuestros visitantes en Deli Café.
+Admitimos diversas modalidades de pago para mayor comodidad de nuestros comensales, incluyendo transferencias interbancarias y billeteras móviles. Ponemos a disposición códigos QR para transferir de manera inmediata y segura desde cualquier dispositivo inteligente.
 
-Podrás conectarte con tu laptop o celular sin cortes para revisar correos, enviar reportes o coordinar tareas en un espacio tranquilo y cómodo.
+Aceptamos igualmente tarjetas bancarias de débito y crédito nacionales o internacionales sin cobro de comisiones adicionales.
+
+También recibimos dinero en efectivo en billetes y monedas nacionales, emitiendo boletas o facturas electrónicas de manera ágil.
 
 --------------------------------------------------------------------------------
-PREGUNTA 10: ¿Tienen alfajores o queques preparados con auténtico manjar blanco cajamarquino?
+PREGUNTA 10: ¿El local brinda comodidades para estudiar o realizar sesiones de trabajo remoto?
 --------------------------------------------------------------------------------
 RESPUESTA 10:
-En vitrina destacan nuestros alfajores artesanales y postres caseros rellenos de manjar blanco tradicional elaborado con leche fresca de establos locales.
+Acondicionamos nuestra cafetería con mesas espaciosas, asientos cómodos e iluminación natural propicia para el estudio o la concentración laboral. Mantenemos un ambiente pacífico con música ambiental a volumen discreto que permite leer, escribir o dialogar con tranquilidad.
 
-Su dulzor suave y textura sedosa hacen un maridaje perfecto con las notas profundas y aromáticas de nuestro café de especialidad.
+Disponemos de enchufes para que puedas recargar la batería de tu ordenador portátil o teléfono móvil mientras disfrutas de tu café.
+
+Muchos profesionales y universitarios encuentran en esta sede el refugio idóneo para sus jornadas de trabajo intelectual.
 
 --------------------------------------------------------------------------------
-PREGUNTA 11: Si estoy en la Plaza de Armas de Cajamarca, ¿cuál es la mejor opción para trasladarme?
+PREGUNTA 11: ¿Qué distancia y recorrido peatonal existe desde el histórico Cuarto del Rescate?
 --------------------------------------------------------------------------------
 RESPUESTA 11:
-La distancia desde la Plaza de Armas es de aproximadamente 1.4 kilómetros.
+La distancia que nos vincula con el monumento del Cuarto del Rescate es de 1.35 km (1352 metros) en sentido nororiental.
 
-Cualquier taxi o mototaxi te traslada en unos cinco minutos hasta el Jirón Sor Manuela Gil 202, permitiéndote llegar con rapidez para consentir el paladar.
+En transporte urbano o mototaxi el trayecto se cubre en unos cinco a seis minutos desde el casco histórico hasta la calle Sor Manuela Gil.
+
+Esta conexión directa brinda a los visitantes una alternativa atractiva para descansar en un entorno residencial placentero.
 
 --------------------------------------------------------------------------------
-PREGUNTA 12: Llegamos en grupo familiar numeroso sin aviso previo, ¿nos pueden acomodar juntos?
+PREGUNTA 12: ¿Manejan bebidas frías refrescantes como jugos naturales, frappés o cold brew?
 --------------------------------------------------------------------------------
 RESPUESTA 12:
-Reorganizamos nuestras mesas modulares en un abrir y cerrar de ojos para acoger a toda tu familia.
+Preparamos una refrescante selección de bebidas frías ideales para los días soleados y las tardes templadas de la serranía. Servimos cold brew aromático infusionado en frío, iced lattes espumosos y frappés de café con salsa de caramelo artesanal.
 
-Todos podrán sentarse a compartir una misma charla mientras servimos con agilidad cafés, jugos naturales y sándwiches recién preparados.
+Para opciones frutales disponemos de jugos recién licuados de papaya, piña, maracuyá y limonadas con toques de hierbaluisa fresca.
+
+Elaboramos cada preparación fría con hielo purificado e insumos de primera calidad para garantizar máxima frescura e hidratación.
 
 --------------------------------------------------------------------------------
-PREGUNTA 13: Busco una esquina reservada para una conversación en pareja o privada, ¿el ambiente es discreto?
+PREGUNTA 13: ¿Es posible encargar paquetes de refrigerios corporativos para capacitaciones o talleres?
 --------------------------------------------------------------------------------
 RESPUESTA 13:
-El local dispone de rincones cálidos y acogedores, alejados del ingreso principal, con iluminación suave y atmósfera serena.
+Atendemos pedidos institucionales alistando paquetes de coffee break para empresas, instituciones educativas y grupos de trabajo. Preparamos cajas individuales con sándwiches gourmet, postres seleccionados y termos dosificadores con café caliente de especialidad.
 
-Son espacios propicios para conversar con intimidad mientras comparten una infusión aromática o una porción de tarta casera.
+Coordinamos las entregas con rigurosa puntualidad para respaldar la organización de tus reuniones académicas o directivas.
+
+Puedes confiar plenamente en Deli Café para agasajar a tus invitados con una atención gastronómica distinguida y profesional.
 
 --------------------------------------------------------------------------------
-PREGUNTA 14: ¿A cuántos minutos en transporte queda desde el Mirador Santa Apolonia?
+PREGUNTA 14: ¿A qué distancia aproximada se encuentra su puerta respecto a la Iglesia San Francisco?
 --------------------------------------------------------------------------------
 RESPUESTA 14:
-Desde el mirador la distancia es de aproximadamente 1.7 kilómetros.
+Nos encontramos a 1.43 km (1433 metros) de distancia respecto al atrio colonial de la Iglesia San Francisco.
 
-Tomando una mototaxi o taxi en las faldas de la colina tardarás unos seis minutos en llegar a Sor Manuela Gil, ideal para cerrar la tarde con broche de oro tras pasear por la colina.
+El traslado en taxi o mototaxi demanda entre cinco y siete minutos saliendo del centro por las avenidas principales hacia nuestro barrio.
+
+Constituye una distancia corta y de tránsito fluido que permite alejarse del bullicio céntrico en busca de serenidad y buena mesa.
 
 --------------------------------------------------------------------------------
-PREGUNTA 15: Evito la leche entera y el azúcar, ¿tienen alternativas saludables en carta?
+PREGUNTA 15: ¿Qué estándares de bioseguridad y frescura aplican en la elaboración diaria de sus cartas?
 --------------------------------------------------------------------------------
 RESPUESTA 15:
-Preparamos tus cafés y capuchinos con leche vegetal de almendras o soya según tu elección.
+Operamos bajo estrictos protocolos de manipulación higiénica de alimentos e insumos en todas nuestras estaciones de servicio. El equipo de barra y cocina cumple normas continuas de desinfección, lavado de manos y uso de indumentaria reglamentaria.
 
-Asimismo, contamos con infusiones digestivas de hierbas andinas sin endulzantes añadidos para que cuides tu salud sin renunciar al buen sabor.
+Los lácteos, embutidos y materias primas perecibles se conservan bajo cadena de frío permanentemente controlada.
+
+Esta rigurosidad garantiza a cada cliente la certeza de disfrutar de bebidas y alimentos saludables, inocuos y con sabor insuperable.
 
 --------------------------------------------------------------------------------
-PREGUNTA 16: ¿Puedo pedir café en grano o molido con el tueste de la casa para llevar de viaje?
+PREGUNTA 16: ¿Disponen de bebidas con leches vegetales para comensales con requerimientos especiales?
 --------------------------------------------------------------------------------
 RESPUESTA 16:
-Mantenemos paquetes de café selecto cosechado en valles de altura del norte peruano.
+Atendemos las preferencias de quienes llevan regímenes vegetarianos o presentan intolerancia a la lactosa ofreciendo alternativas vegetales selectas. Disponemos de leche de almendras y bebida de avena de textura sedosa que permiten crear cappuccinos con excelente microespuma.
 
-Realizamos la molienda al instante de acuerdo al método que utilices en casa, empacado herméticamente para preservar toda la fragancia de Deli Café.
+Ofrecemos además leche de vaca deslactosada y endulzantes naturales como stevia pura en hojas o panela ecológica.
+
+Indícanos tus requerimientos al hacer tu pedido para que nuestros baristas personalicen tu bebida con absoluto cuidado.
 
 --------------------------------------------------------------------------------
-PREGUNTA 17: ¿Atienden los domingos por la tarde para salir a merendar con la familia?
+PREGUNTA 17: ¿Cuáles son los horarios de atención al cliente en esta sede de Sor Manuela Gil?
 --------------------------------------------------------------------------------
 RESPUESTA 17:
-Abrimos todos los días de la semana, incluidos los domingos en horario corrido.
+Atendemos de lunes a sábado desde las 8:00 a.m. de manera continuada hasta las 9:00 p.m., cubriendo desayunos, almuerzos ligeros y lonches. Los domingos abrimos a partir de las 9:00 a.m. para acompañar el descanso de fin de semana con café recién pasado y postres.
 
-Es un momento predilecto para compartir la sobremesa con padres e hijos al abrigo de nuestras instalaciones en un entorno seguro y agradable.
+Nuestro personal mantiene la misma calidad de atención y disponibilidad de alimentos tanto en el primer turno matutino como al anochecer.
+
+Te sugerimos visitarnos en tus horas libres para disfrutar de un ambiente relajante con la mejor hospitalidad.
 
 --------------------------------------------------------------------------------
-PREGUNTA 18: ¿Tienen sándwiches calientes o empanadas para quienes prefieren opciones saladas?
+PREGUNTA 18: ¿Existe facilidad para estacionar automóviles o motocicletas cerca del establecimiento?
 --------------------------------------------------------------------------------
 RESPUESTA 18:
-Nuestra carta cuenta con empanadas recién horneadas, sándwiches artesanales calientes y tostadas especiales preparadas al instante con insumos frescos de la región.
+En las inmediaciones de la calle Sor Manuela Gil existe disponibilidad para estacionar vehículos particulares y motocicletas de forma ordenada. Al tratarse de una zona residencial de tránsito moderado, los conductores pueden parquear a pocos pasos de la entrada con comodidad.
 
-Son porciones reconfortantes ideales para resolver un desayuno nutritivo o una cena ligera al caer la tarde.
+Esto facilita descender con serenidad para consumir en salón o recoger pedidos para llevar sin contratiempos de tráfico.
+
+Esta comodidad vial es muy valorada por clientes que se desplazan en auto particular entre sus distintas actividades cotidianas.
 
 --------------------------------------------------------------------------------
-PREGUNTA 19: ¿Cómo es la seguridad y el estacionamiento en el Jirón Sor Manuela Gil?
+PREGUNTA 19: ¿Qué valores y principios inspiran el servicio cálido que brinda el equipo de la cafetería?
 --------------------------------------------------------------------------------
 RESPUESTA 19:
-El Jirón Sor Manuela Gil es una calle tranquila y segura con visibilidad directa para estacionar motocicletas y vehículos ligeros frente al establecimiento.
+Nos inspira el deseo genuino de brindar un trato cercano, amable y respetuoso que haga sentir a cada persona como un invitado especial. Creemos firmemente que una buena taza de café tiene el poder de transformar el ánimo y conectar a las personas en comunidad.
 
-Además, los mototaxis circulan de forma constante para que tu traslado de regreso sea cómodo e inmediato.
+Seleccionamos insumos nobles y cuidamos cada paso de la preparación con amor artesanal y respeto por la tradición cafetalera.
+
+Ese esmero por los detalles y la calidez humana son los pilares que definen a Deli Café como un rincón querido en Cajamarca.
 
 --------------------------------------------------------------------------------
-PREGUNTA 20: ¿Por qué medio puedo verificar si hay mesas libres antes de acercarme al local?
+PREGUNTA 20: ¿Cómo puedo consultar la carta actualizada o coordinar una reserva para una reunión pequeña?
 --------------------------------------------------------------------------------
 RESPUESTA 20:
-La manera más rápida es comunicarte a través de nuestro WhatsApp oficial y canales digitales.
+Puedes escribirnos a nuestra línea de WhatsApp o comunicarte directamente a través de nuestras redes sociales para recibir la carta digital. Nuestro personal te atenderá con gusto respondiendo consultas sobre precios, combinaciones de combos y variedades dulces de la jornada.
 
-Te responderemos al instante para confirmar el aforo disponible o coordinar la reserva de tu mesa favorita en Deli Café.
-================================================================================
+En caso de planificar una tertulia con amigos o una reunión de trabajo, puedes avisarnos para reservar una mesa adecuada.
+
+Estaremos encantados de abrirte las puertas y ofrecerte una experiencia grata, sabrosa y memorable en cada visita.
