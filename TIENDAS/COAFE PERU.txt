@@ -3,7 +3,7 @@ Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Cafeterias_y_Bebidas
 Subrubro: Cafeterias_de_Especialidad
 Categoría Maps: Cafetería, Barista school
-Dirección: Jr, Cinco Esquinas 528, Cajamarca 06001
+Dirección: Jr. Cinco Esquinas 528, Cajamarca 06001
 Teléfono: 913 423 008
 Rating: 5.0
 Reseñas: 14
@@ -13,169 +13,153 @@ Longitud: -78.5146987
 Google Maps: https://www.google.com/maps?cid=9900120972629472420
 Place Id: ChIJhWoGzY1bspERpHT5TpJLZIk
 Fotos: COAFE PERU.jpg
-Link foto: https://lh3.googleusercontent.com/p/AF1QipN-placeholder=w1600-h1200-k-no
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la más cordial bienvenida a COAFE PERU! Situados en Jr. Cinco Esquinas 528, en el histórico barrio de Cinco Esquinas, somos el laboratorio de café de especialidad y centro de formación barista líder en Cajamarca. Vive una experiencia sensorial única con microlotes selectos de estricta altura, métodos de filtrado manual de precisión, catas guiadas, arte latte y venta de granos tostados de origen. Visítanos y descubre la auténtica cultura del café andino de clase mundial.
 ================================================================================
-================================================================================
-Texto de bienvenida:
-En COAFE PERU te damos la bienvenida a un templo de formación, cata y culto al café de especialidad en el jirón Cinco Esquinas 528 en Cajamarca. Con una calificación impecable de cinco estrellas, somos una escuela y barra barista especializada en microlotes de estricta altura, métodos de filtrado de precisión, lattes calibrados y maridajes gourmet. Disfruta de un ambiente moderno, Wi-Fi libre y asesoría experta sobre el origen del café peruano. ¡Ven a vivir una experiencia sensorial verdaderamente extraordinaria!
-================================================================================
 
-1. ¿Qué microlotes y métodos de filtrado de precisión ofrecen en la barra?
+--------------------------------------------------------------------------------
+20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
+--------------------------------------------------------------------------------
 
-En nuestra barra trabajamos con microlotes selectos de café arábica con puntuaciones superiores a ochenta y cinco puntos en taza según el estándar SCA, procedentes de San Ignacio, Jaén y valles cajamarquinos.
+1. ¿Qué métodos de extracción manual y perfiles de taza ofrecen en su barra de especialidad?
+En nuestra barra trabajamos con métodos de extracción por goteo e inmersión como chemex, dripper v60, aeropress, prensa francesa y sifón japonés.
 
-Ofrecemos métodos de extracción manual como V60, Chemex, Aeropress, prensa francesa y sifón japonés, controlando rigurosamente molienda, temperatura del agua purificada y ratios de extracción con balanzas de precisión. Cada servicio es una cátedra sensorial.
+Empleamos cafés arábicos lavados, honeys y naturales provenientes de fincas premiadas de Jaén y San Ignacio con perfiles frutales, achocolatados y florales.
 
-Preparamos además espressos calibrados, cappuccinos con leche perfectamente emulsionada a sesenta grados y lattes decorados con arte latte avanzado.
+COAFE PERU calibra cada variable de preparación incluyendo granulometría del molido, temperatura del agua y ratios de infusión para lograr tazas nítidas y balanceadas.
 
-2. ¿A qué distancia se encuentra COAFE PERU respecto al histórico Cuarto del Rescate?
+2. ¿A qué distancia se encuentra el establecimiento respecto al Mercado Central de Cajamarca?
+El local se sitúa a solo 192 metros en línea recta hacia el sur de las instalaciones del Mercado Central de Cajamarca.
 
-El establecimiento se localiza a solo 304 metros (0.30 km) del Cuarto del Rescate, representando una caminata de unos cuatro minutos por las calles coloniales hacia Cinco Esquinas. Es una conexión peatonal directa y sumamente cómoda.
+Esta cercanía permite un desplazamiento a pie de escasamente dos minutos recorriendo la tradicional calle Cinco Esquinas en el centro histórico.
 
-Turistas nacionales y extranjeros que concluyen sus visitas guiadas por el monumento arqueológico pueden acercarse en breves minutos para catar café peruano de alta especialidad y aprender sobre su cultivo. La ruta discurre por veredas seguras.
+Dicha proximidad resulta muy práctica para los amantes del café que buscan una pausa sensorial de alta gama cerca del corazón comercial de la ciudad.
 
-Esta cercanía sitúa a nuestro espacio como una parada indispensable para los amantes del café que recorren el centro histórico cajamarquino.
+3. ¿Qué cursos y talleres de formación barista brindan en sus instalaciones?
+Impartimos talleres intensivos de barismo profesional que abarcan calibración de espresso, emulsión y texturizado de leche, fundamentos de cata y arte latte.
 
-3. ¿Cuáles son los sándwiches gourmet y bocadillos salados de la carta?
+Ofrecemos además cursos especializados en métodos de extracción alternativa, tostado artesanal de café y gestión integral de barras cafeteras de especialidad.
 
-Servimos sándwiches artesanales preparados en panes de masa madre de larga fermentación, destacando el sándwich de jamón serrano con queso andino madurado y tomates confitados, y el sándwich de pollo a la plancha con finas hierbas y palta.
+Nuestros programas están dirigidos a emprendedores, profesionales del sector gastronómico y entusiastas que desean dominar la técnica cafetera con estándares internacionales.
 
-Disponemos asimismo de tostadas con palta machacada y semillas de chía, quiches individuales de puerros con queso ricota y empanadas horneadas de carne sazonada. Son opciones ligeras diseñadas para maridar con cafés filtrados.
+4. ¿Comercializan café tostado en grano o molido para preparar en casa?
+Disponemos de bolsas de café de especialidad de doscientos cincuenta gramos y medio kilo con válvula desgasificadora para preservar la frescura aromática.
 
-Cada bocadillo se elabora con insumos frescos para garantizar un equilibrio de sabores que no opaque las notas sutiles de la bebida.
+Cada empaque detalla el origen exacto del lote, variedad botánica, altitud de cultivo, proceso de beneficio, notas de cata y fecha de tostado artesanal.
 
-4. ¿Qué talleres de barismo y catas sensoriales imparten en el local?
+Molinos profesionales calibran el café al instante según la cafetera que el cliente utilice en su hogar, ya sea moka italiana, filtro de papel o prensa.
 
-Como centro de formación barista, dictamos talleres prácticos de introducción al barismo, calibración de espresso, emulsión y texturización de leche para arte latte, y métodos de extracción manual para aficionados y profesionales.
+5. ¿Cuál es la distancia entre el laboratorio de café y la histórica Plaza de Armas?
+El establecimiento está ubicado a tan solo 369 metros en línea recta en dirección sur respecto a la Plaza de Armas de Cajamarca.
 
-Organizamos catas sensoriales guiadas donde los asistentes aprenden a identificar fragancias, aromas, acidez, cuerpo y notas de cata de diversos orígenes cafetaleros del Perú. Fomentamos activamente la cultura cafetera de calidad.
+El recorrido peatonal se completa en aproximadamente cuatro a cinco minutos caminando por las calles céntricas de la zona monumental andina.
 
-Las fechas de los talleres y cursos especializados se coordinan a través de nuestra página web y canal oficial de WhatsApp.
+Esta ubicación facilita a turistas y residentes acercarse a degustar cafés de concurso sin alejarse de los principales atractivos patrimoniales de la urbe.
 
-5. ¿Cuál es la separación exacta hacia el Monumento de San Francisco?
+6. ¿Qué variedad de postres artesanales y bocadillos salados tienen para maridar el café?
+Servimos porciones de galletas caseras de avena y chispas de chocolate belga, brownies húmedos de cacao orgánico y queques de frutos secos del valle.
 
-La separación hacia la Iglesia San Francisco de Cajamarca es de 354 metros (0.35 km), demandando una caminata de unos cuatro a cinco minutos a paso moderado. Conecta de forma fluida el complejo franciscano con Cinco Esquinas.
+En opciones saladas disponemos de cruasanes crocantes con mantequilla de establo, tostadas con palta fresca y sándwiches gourmet en panes de masa madre.
 
-Paseantes y feligreses que admiran los retablos y claustros coloniales pueden llegar de inmediato hacia nuestro local para descansar y merendar con café humeante. Las calles circundantes son asfaltadas y bien iluminadas.
+Nuestra carta de alimentos está diseñada para complementar y resaltar las notas sensoriales de las extracciones de café sin saturar el paladar del comensal.
 
-La corta distancia sitúa a la cafetería como un refugio accesible y tranquilo dentro del circuito turístico patrimonial.
+7. ¿Realizan sesiones de cata guiada de café para grupos y visitantes?
+Organizamos catas comentadas donde los participantes aprenden a identificar aromas, acidez, cuerpo y notas de sabor siguiendo protocolos de cata oficial.
 
-6. ¿Cómo opera la venta de café en grano y accesorios baristas?
+Durante la experiencia se evalúan diferentes orígenes y procesos cajamarquinos descubriendo la enorme agrobiodiversidad de los valles cafetaleros norperuanos.
 
-Disponemos de paquetes de café en grano entero o molido al momento en presentaciones de cuarto de kilo, medio kilo y un kilo, envasados en bolsas con válvula desgasificadora que resguardan los aromas originales del grano.
+COAFE PERU promueve estas actividades para democratizar el conocimiento del café de calidad y revalorar el trabajo de los caficultores de la región.
 
-Comercializamos también accesorios y equipos para la preparación de café en casa, como prensas francesas, goteros V60, filtros de papel, balanzas digitales y molinos manuales con muelas cerámicas. Brindamos asesoría en su uso.
+8. ¿Qué distancia separa al local del mirador de la Colina Santa Apolonia?
+El negocio dista 432 metros en línea recta en dirección sureste respecto al mirador y graderías de la Colina Santa Apolonia.
 
-Los aficionados pueden adquirir los mismos granos premiados que servimos en barra para disfrutar de una taza perfecta en su hogar.
+A pie el trayecto dura aproximadamente cinco a seis minutos transitando por las vías empedradas tradicionales del entorno colonial cajamarquino.
 
-7. ¿Qué repostería fina y opciones dulces tienen para media tarde?
+Constituye una escala formativa y de descanso perfecta tras visitar las alturas del mirador para sumergirse en la ciencia y el arte del buen café.
 
-Nuestra vitrina exhibe porciones de torta húmeda de chocolate con ganache artesanal, pie de manzana clásico con toques de canela andina, carrot cake con nueces tostadas y cheesecake horneado con mermelada de frutos rojos.
+9. ¿Cómo es el diseño y la atmósfera del local para trabajar o estudiar?
+El salón está acondicionado como un laboratorio contemporáneo con barra abierta de observación, mesas de madera maciza e iluminación focalizada.
 
-Servimos también alfajores suaves de maicena con manjar blanco cajamarquino, galletas de avena con chispas de cacao y porciones de queque de plátano horneadas en el día. Maridan a la perfección con cafés de método V60.
+Contamos con conexión wifi de alta velocidad gratuita y tomas de corriente para que profesionales y estudiantes realicen teletrabajo con total comodidad.
 
-Cada postre equilibra el dulzor para brindar una experiencia suave y muy agradable al paladar en compañía de una buena lectura.
+El ambiente se caracteriza por su serenidad y el constante aroma a granos recién tostados configurando un entorno estimulante para la creatividad y el enfoque.
 
-8. ¿Qué distancia media hay hacia la histórica Plaza de Armas de Cajamarca?
+10. ¿Qué alternativas de bebidas calientes sin café o descafeinadas ofrecen?
+Servimos infusiones naturales preparadas con hierbas aromáticas andinas como muña, manzanilla en flor y menta silvestre recolectadas en huertos orgánicos.
 
-Nos encontramos a 454 metros (0.45 km) de la Plaza de Armas de Cajamarca, lo que representa una caminata de unos cinco a seis minutos por calles tradicionales. Une el núcleo de la plaza mayor con la esquina de Cinco Esquinas.
+Ofrecemos también chocolate caliente preparado con pasta pura de cacao fino de aroma al setenta por ciento y leche entera de establos locales.
 
-Familias, profesionales y estudiantes que transitan por el centro cívico suelen desplazarse hacia nuestro local para concentrarse, estudiar o reunirse en un entorno tranquilo y estimulante. El acceso peatonal es directo.
+Asimismo disponemos de té de cáscara de café infusionada que brinda una bebida frutal, dulce y ligera rica en antioxidantes naturales.
 
-Es un punto muy cómodo para acordar reuniones laborales o pausas de media tarde lejos del tráfico directo de la plaza.
+11. ¿A qué distancia aproximada se encuentra el local de MegaPlaza El Quinde?
+El establecimiento está situado a 856 metros en línea recta en dirección oeste respecto al centro comercial MegaPlaza El Quinde.
 
-9. ¿Tienen promociones especiales y combos de café con postre?
+En taxi o mototaxi el recorrido se realiza en apenas tres minutos a través de las arterias viales que conectan el centro con la zona este.
 
-Ofrecemos combos de cata vespertina que integran un método de filtrado manual a elección acompañado de una porción de tarta artesanal por un precio promocional muy conveniente. Son sumamente populares entre parejas y aficionados.
+Esta ubicación permite a ejecutivos y visitantes de la zona comercial moderna desplazarse rápidamente hacia nuestra barra para disfrutar de café superior.
 
-Presentamos también descuentos especiales en paquetes de café en grano para los alumnos de nuestros talleres y clientes frecuentes. Fomentamos una comunidad apasionada por la excelencia cafetera.
+12. ¿Disponen de leches vegetales para la preparación de capuchinos y lattes?
+Contamos con alternativas de bebidas vegetales de avena, almendra y soya formuladas especialmente para baristas logrando un texturizado microespumoso sedoso.
 
-Las promociones se publican periódicamente en nuestras pizarras del salón y a través de nuestra web y redes sociales oficiales.
+Los clientes con intolerancia a la lactosa o que siguen dietas veganas pueden disfrutar de bebidas con arte latte con excelente equilibrio térmico y sabor.
 
-10. ¿De qué formas se puede cancelar el consumo en mesa?
+Cuidamos que la combinación con leches vegetales respete y ensalce las notas florales y acarameladas del espresso sin aportar sabores invasivos.
 
-Aceptamos pagos en efectivo en billetes y monedas nacionales en soles, entregando cambio menudo con cortesía y extendiendo la boleta electrónica de venta de inmediato. La atención en caja es sumamente diligente.
+13. ¿Qué medios de pago electrónicos y modalidades aceptan en caja?
+Aceptamos pagos móviles mediante las billeteras digitales Yape y Plin mediante la lectura del código QR visible en la barra de atención.
 
-Recibimos transferencias móviles instantáneas mediante códigos QR de Yape y Plin habilitados en la barra de atención y en las mesas. Es una modalidad moderna, rápida y sumamente cómoda para los usuarios.
+Procesamos cobros con tarjetas bancarias de débito y crédito a través de terminales electrónicos inalámbricos y recibimos pagos en efectivo con cambio en soles.
 
-Aceptamos asimismo pagos con tarjetas de débito y crédito a través de terminales electrónicos inalámbricos POS.
+Emitimos boletas y facturas electrónicas de venta garantizando formalidad comercial, transparencia y agilidad para todos nuestros clientes particulares y corporativos.
 
-11. ¿A cuántos metros queda el Mirador del Cerro Santa Apolonia?
+14. ¿Cuál es la distancia hacia las instalaciones del Terminal Terrestre de Cajamarca?
+El establecimiento se localiza a 1.48 kilómetros en línea recta hacia el noroeste del Terminal Terrestre principal de la ciudad de Cajamarca.
 
-El establecimiento dista 524 metros (0.52 km) del Mirador de Santa Apolonia, demandando una caminata de unos seis a siete minutos hacia la escalinata de piedra. Conecta la calle Cinco Esquinas con el cerro tutelar.
+El desplazamiento vehicular en taxi o mototaxi suele tardar entre cuatro y seis minutos siguiendo el trazado vial directo que conecta ambas zonas.
 
-Visitantes que descienden tras contemplar la panorámica del valle suelen hacer una parada en nuestro salón para reconfortarse con bebidas calientes y postres sabrosos. La senda discurre por calles tradicionales bien iluminadas.
+Esta accesibilidad favorece a viajeros recién llegados que buscan abastecerse de granos de café de concurso o disfrutar de una extracción energizante.
 
-Representa un punto de avituallamiento sumamente estratégico y placentero antes o después del ascenso pedestre.
+15. ¿Venden accesorios y cafeteras para la preparación de café en el hogar?
+Comercializamos drippers v60 de cerámica y acrílico, prensas francesas de émbolo de acero, filtros de papel originales, balanzas de precisión y molinos manuales.
 
-12. ¿Qué normas de bioseguridad y calibración rigen en la barra barista?
+Brindamos asesoría técnica personalizada a cada comprador explicando la molienda ideal, temperatura del agua y técnica de vertido para cada dispositivo.
 
-En COAFE PERU aplicamos rigurosos procedimientos técnicos e higiénicos que comprenden la purga continua de las lanzas de vapor, limpieza de duchas de extracción y desinfección de tolvas de molino. El personal viste mandiles reglamentarios.
+Equipar a nuestros clientes con las herramientas idóneas garantiza que puedan replicar en sus hogares la misma calidad sensorial de nuestra barra.
 
-El agua empleada en las preparaciones pasa por sistemas de filtración por ósmosis inversa y remineralización precisa para garantizar que los sólidos disueltos potencien los compuestos aromáticos del café. No usamos agua sin tratar.
+16. ¿Qué controles sanitarios y de inocuidad aplican en la manipulación y tostado del café?
+La barra y la zona de tueste operan bajo rigurosas prácticas de manufactura, desinfección de superficies y almacenamiento hermético de los granos verdes.
 
-El salón de atención y los servicios sanitarios se asean con frecuencia programada para asegurar un entorno pulcro a todos los comensales.
+La vajilla y herramientas de barismo se esterilizan con agua a alta temperatura y el personal aplica protocolos continuos de higiene de manos.
 
-13. ¿Cómo es el diseño y la atmósfera para teletrabajar en el local?
+COAFE PERU asegura la máxima pureza biológica y física en cada lote de café garantizando un producto limpio, saludable y de excelencia certificada.
 
-El local en el jirón Cinco Esquinas 528 presenta un diseño moderno, minimalista e iluminado, combinando mesas amplias de madera clara, barras de cata profesionales y tomas de corriente accesibles cerca de los asientos.
+17. ¿Atienden pedidos para llevar o retiro rápido en barra para clientes apurados?
+Servimos bebidas calientes y frías en vasos térmicos herméticos y biodegradables que mantienen la temperatura y crema del café durante el trayecto.
 
-Disponemos de conexión Wi-Fi de alta velocidad libre para clientes, ideal para quienes realizan teletrabajo, reuniones virtuales o sesiones de estudio individual con computadora portátil. La música ambiental es instrumental y serena.
+Los comensales pueden coordinar sus pedidos previamente vía mensajería para recoger sus extracciones o bolsas de café molido sin esperar en mostrador.
 
-El personal atiende con discreción y respeto, garantizando un ambiente ordenado y silencioso propicio para la máxima concentración.
+Esta opción express se adapta a la dinámica de trabajadores y transeúntes que valoran el café de alta gama en sus traslados cotidianos por el centro.
 
-14. ¿Qué tan lejos se ubica el tradicional Mercado Central de Cajamarca?
+18. ¿Brindan servicios de asesoría cafetera para cafeterías y restaurantes de la región?
+Ofrecemos consultoría integral para negocios gastronómicos incluyendo diseño de barras, selección de maquinaria espresso, calibración de agua y entrenamiento de personal.
 
-El local se encuentra a 630 metros (0.63 km) del Mercado Central de Cajamarca, demandando unos siete a ocho minutos de caminata a paso regular. Conecta el mercado de abastos con la zona de Cinco Esquinas.
+Abastecemos de café tostado al por mayor con perfiles personalizados según las necesidades comerciales y el público objetivo de cada establecimiento cliente.
 
-Compradores y comerciantes del casco urbano pueden trasladarse con gran facilidad hacia nuestra sede para gozar de café de especialidad de nivel internacional en un clima ventilado y acogedor. El camino es enteramente peatonal.
+Nuestro respaldo técnico permite a negocios locales elevar significativamente sus estándares de calidad en el servicio de bebidas calientes.
 
-Esta cercanía facilita además la compra diaria de insumos frescos empleados en los bocadillos de la carta.
+19. ¿Cuál es el horario de atención al público durante la semana y días festivos?
+Atendemos de lunes a sábado desde las ocho de la mañana hasta las ocho de la noche en horario continuado para servicio de barra, tienda y academia.
 
-15. ¿Qué perfiles sensoriales y procesos poseen los cafés de la casa?
+Los domingos abrimos en horario matutino y vespertino para acoger a familias y visitantes que recorren el centro histórico durante su descanso semanal.
 
-Trabajamos con cafés sometidos a procesos de beneficio lavado tradicional, honey y naturales de fermentación anaeróbica prolongada, logrando perfiles aromáticos que van desde notas a jazmín y durazno hasta frutos rojos y vino.
+Durante fechas festivas y feriados turísticos mantenemos la atención activa para recibir a viajeros que buscan una experiencia cafetera de nivel profesional.
 
-Cada lote es evaluado rigurosamente mediante protocolos de cata brasileña antes de ingresar a la barra, garantizando la consistencia y ausencia de defectos en taza. La fecha de tueste se registra en cada paquete.
+20. ¿Qué distingue la propuesta de este establecimiento en el panorama cafetero regional?
+Nos distingue el rigor técnico, la pasión pedagógica por la cultura barista y el compromiso directo con los caficultores de Jaén y San Ignacio.
 
-Este rigor técnico permite a nuestros comensales explorar la diversidad organoléptica de la caficultura peruana de vanguardia.
+La combinación de laboratorio de especialidad, tostaduría artesanal y escuela de formación profesional crea una experiencia formativa y degustativa sin precedentes.
 
-16. ¿Qué cualidades distinguen el servicio y la calidez del personal?
-
-Nuestro personal se caracteriza por una vocación pedagógica, apasionada y muy servicial, explicando con agrado los matices de cada método y guiando a los visitantes en la apreciación de los atributos del café.
-
-Nos esmeramos por servir los pedidos con precisión milimétrica y despachar las órdenes en tiempos adecuados para que la experiencia sea enteramente satisfactoria. El trato respetuoso y cálido es nuestra firma.
-
-Agradecemos sinceramente las valoraciones positivas de quienes nos consideran la mejor escuela y barra cafetera de Cajamarca.
-
-17. ¿Qué alternativas existen para el estacionamiento temporal de vehículos?
-
-En el jirón Cinco Esquinas y las calles laterales del sector es factible estacionar momentáneamente motocicletas y automóviles particulares en zonas autorizadas de la calzada. La vía presenta un tránsito vehicular pausado.
-
-Quienes se detienen brevemente para retirar pedidos de café en grano o bebidas para llevar pueden aparcar sin perturbar el tránsito fluido de la calle. La zona cuenta con buena visibilidad y seguridad diurna.
-
-Se aconseja a los conductores aparcar respetando los accesos residenciales vecinos para una convivencia comunitaria armoniosa.
-
-18. ¿Cómo protegen los cafés y bocadillos en entregas para llevar?
-
-Envasamos el café en grano en bolsas trilaminadas con cierre hermético y válvula unidireccional que protege los granos de la humedad y el oxígeno exterior, preservando la frescura aromática por semanas.
-
-Los cafés calientes se sirven en vasos térmicos descartables de doble pared con tapas dosificadoras herméticas que evitan salpicaduras involuntarias al caminar. Los sándwiches se empacan en envoltorios térmicos antigrasa.
-
-Este cuidadoso empaque garantiza que los productos lleguen en excelentes condiciones hasta el hogar o la oficina de nuestros clientes.
-
-19. ¿Cómo se originó la misión formativa de COAFE PERU?
-
-COAFE PERU nació con la misión de revalorar la caficultura peruana de especialidad a través de la educación, la formación técnica rigurosa y el servicio de tazas extraordinarias preparadas con conocimiento científico.
-
-La filosofía de la institución se basa en dignificar el trabajo de los productores cajamarquinos, promoviendo el comercio justo y formando baristas profesionales capaces de elevar los estándares de la gastronomía nacional. La pasión por el café es nuestro motor.
-
-Nuestra visión sigue firme en ser el referente formativo y la barra de especialidad más prestigiosa de la región norte del Perú.
-
-20. ¿En qué franja horaria atienden al público en Cinco Esquinas?
-
-Atendemos al público de lunes a sábado desde las ocho de la mañana hasta las ocho y media de la noche de manera ininterrumpida, cubriendo las horas clave para cafés matutinos, catas de media tarde y talleres baristas.
-
-Los sábados abrimos con sesiones de cata y demostraciones de filtrados para atender a los aficionados y estudiantes de café. Toda la variedad de métodos, cafés en grano y bocadillos se encuentra disponible toda la jornada.
-
-Para consultar sobre inscripciones en talleres o coordinar pedidos de café en grano por WhatsApp, los usuarios pueden comunicarse directamente a nuestras líneas oficiales.
+COAFE PERU se consolida como el epicentro del café de especialidad en Cajamarca elevando el grano andino a los más altos estándares gastronómicos mundiales.
