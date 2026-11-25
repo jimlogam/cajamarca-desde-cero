@@ -1,0 +1,207 @@
+================================================================================
+00 - RESUMEN GENERAL Y DATOS CRUDOS
+5 COLEGIOS DE CAJAMARCA - hoja "maps-scraper-cajamarca" (filas 7 a 11)
+Auditoria cerrada al 25-11-2026
+================================================================================
+
+--------------------------------------------------------------------------------
+A. QUE ES ESTE PAQUETE
+--------------------------------------------------------------------------------
+Cinco fichas de lectura (una por colegio), escritas en primera persona por un
+personaje local -profesor, exalumno o padre de familia- que conoce el colegio
+por dentro, y auditadas contra fuentes oficiales (padron MINEDU/ESCALE,
+documentos de UGEL, notas de prensa, web y redes del propio colegio).
+Cada ficha trae: lectura, datos claros y una seccion de auditoria que dice
+que coincide, que se corrigio y que falta verificar.
+
+Regla que se aplico en todo el trabajo: si un dato no tiene documento, no se
+inventa ni se completa "por sentido comun". Se marca NO VERIFICADO. Por eso
+algunas fichas dicen menos de lo que a uno le gustaria: es deliberado.
+
+--------------------------------------------------------------------------------
+B. TABLA COMPARATIVA (datos crudos, Censo Educativo 2025 / padron MINEDU)
+--------------------------------------------------------------------------------
+Colegio              Nivel        CM          Alumnos  Doc.  Secc.  Genero
+Cristo Rey Maristas  Secundaria   0390617       454      27    12    Mixto
+Cristo Rey Maristas  Primaria     1107481       446      14    12    Mixto
+   SUBTOTAL local                                900      41    24
+
+San Ramon            Secundaria   0390591     2,567     115    75    Varones
+82001 San Ramon      Primaria     0442863     1,836      59    48    Mixto
+   SUBTOTAL local (sin EBA)                    4,403     174   123
+
+Saco Oliveros        Secundaria   1723279       541      25    18    Mixto
+Saco Oliveros        Primaria     1723261       407      28    15    Mixto
+(Saco Oliveros       Inicial      3022811       n/d     n/d   n/d    Mixto)
+   SUBTOTAL local (sin inicial)                  948      53    33
+
+Santa Teresita       Secundaria   0390708     1,376      71    45    Mujeres
+Santa Teresita       Primaria     0444737     1,044      36    30    Mujeres
+   SUBTOTAL local                              2,420     107    75
+
+Antonio Raimondi     Secundaria   1790245       273      17    10    Mixto
+Antonio Raimondi     Primaria     1327881       286      18    12    Mixto
+Antonio Raimondi     Inicial      1377332        57       5     3    Mixto
+   SUBTOTAL local                                616      40    25
+
+TOTAL DE LOS 5 COLEGIOS (todos los niveles contabilizados): 9,287 alumnos,
+415 docentes, 280 secciones.
+
+--------------------------------------------------------------------------------
+C. FICHA RESUMEN POR COLEGIO
+--------------------------------------------------------------------------------
+1) COLEGIO CRISTO REY MARISTAS
+   Direccion: Jr. Angamos 890, Chontapaccha, Cajamarca 06001
+   Telefono: (076) 633245 / 076-362584
+   Web: cristoreycajamarca.edu.pe | Correo: tramites@cristoreymaristas.edu.pe
+   Gestion: publica de gestion privada, Convenio con el Sector Educacion
+   (Congregacion Marista). Turno manana. Mixto. Urbano.
+   Local: 094881. Secundaria CM 0390617 (registro 05-09-1975);
+   Primaria CM 1107481 (registro 08-11-1996).
+   Director documentado 2024-2025: Edward Alain Almestar Cieza
+   (aalmestar@cristoreymaristas.edu.pe / 996688680).
+   Director en padron 2026: Vera Paredes Walter Fernando. CONFLICTO ABIERTO.
+   Historia: 1953, Hermanos Maristas; RM 556; primera promocion 1960.
+   Maps: 4.6 con 165 resenas. Facebook: ~5,800 seguidores.
+   Nivel de confianza del bloque de datos: ALTO en estructura y censos,
+   MEDIO en director vigente.
+
+2) COLEGIO SAN RAMON (I.E. San Ramon y 82001 San Ramon)
+   Direccion: Jiron 13 de Julio 275, Chontapaccha, Cajamarca
+   Telefono: (076) 343427 / 076-362082
+   Web: sanramoncajamarca.edu.pe | Correo: mesadepartes@sanramoncajamarca.edu.pe
+   Gestion: publica de gestion directa, Sector Educacion. JEC.
+   Secundaria: varones, manana-tarde, CM 0390591, local 570081.
+   Primaria "82001": mixto, manana-tarde, CM 0442863, local 094112.
+   EBA en el mismo local: CM 1358555 (inicial/intermedio) y 0390955 (avanzado).
+   Director General (web oficial): Segundo Francisco Bustamante Hoyos.
+   Director Primaria (padron 2026): Caro Lopez Jorge Luis.
+   Subdirector Secundaria: Sanchez Cabanillas Juan Alfredo (DNI 26601967).
+   Directora EBA: Fatima del Milagro Mestanza Chilon.
+   Historia: 1825 Colegio de Patriotas; 08-09-1831 Colegio Central de
+   Ciencias y Artes; heroes de la Batalla de San Pablo (1882); 193 anos en 2024.
+   Maps: 4.4 con 147 resenas. Facebook: iesanramoncajamarca.
+   Nivel de confianza: ALTO. Es el colegio mas grande de los cinco.
+
+3) COLEGIO SACO OLIVEROS - CAJAMARCA
+   Direccion: Jiron Juan XXIII 132 (referencia 130), San Sebastian, Cajamarca
+   Telefono: 965 203 680
+   Web sede: sites.google.com/sacooliveros.edu.pe/cajamarca
+   Web red: sacooliveros.edu.pe
+   Gestion: privada / particular. Turno manana. Mixto. Urbano. Local 805169.
+   Inicial CM 3022811 | Primaria CM 1723261 | Secundaria CM 1723279
+   (registro local 22-03-2016).
+   Director (padron): Torres Huacal Jose Rodrigo.
+   Directores academicos: Ing. Eduardo Javier Mercado Huertas (inicial y
+   primaria) y Lic. Kumar Napoleon Cabrera Cruz (secundaria).
+   Coordinadora: Psic. Monica Huaman Segura.
+   Red fundada en Lima en 1997 por Wilmer Carrasco Beas (ing. UNI).
+   Pension 2025: S/ 560 (inicial/primaria) y S/ 580 (secundaria), 10 cuotas,
+   matricula S/ 30. Sistema Helicoidal.
+   Maps: 4.4 con 34 resenas. Facebook: ~4,194 seguidores.
+   Nivel de confianza: ALTO en estructura, MEDIO en logros (son de la red
+   nacional, no hay documento que los atribuya a la sede Cajamarca).
+
+4) I.E. EMBLEMATICO SANTA TERESITA
+   Direccion: Av. Mario Urteaga 360, La Colmena, Cajamarca
+   Telefono: (076) 362308 | Correo: santateresita@speedy.com.pe
+   Web: iesantateresita.edu.pe
+   Gestion: publica de gestion privada, Convenio con el Sector Educacion
+   (Hermanas Canonesas de la Cruz). Solo mujeres. Turno manana. Local 094211.
+   Primaria CM 0444737 | Secundaria CM 0390708 (registro 15-11-1934).
+   Directora vigente: Hna. Zarela Rene Rojas Aguinaga.
+   Directora en la inauguracion 2015: Margarita Castillo Felix.
+   Historia: 1934; LXXV aniversario en 2010; colegio emblematico inaugurado
+   el 06-03-2015 con inversion mayor a S/ 28 millones (piscina, gimnasio,
+   coliseo, laboratorios, auditorio, capilla, comedor, biblioteca).
+   Maps: 4.4 con 44 resenas. Instagram: @weboficialst (477 seguidores).
+   Nivel de confianza: ALTO en infraestructura e historia, ALTO en censos,
+   BAJO en nombres de docentes (los de la hoja no tienen respaldo).
+
+5) COLEGIO ANTONIO RAIMONDI - CAJAMARCA
+   Direccion: Av. Via de Evitamiento Norte 300, Urb. La Alameda, Cajamarca 06001
+   Telefonos: 973 264 935 (web) / 958 067 078 (directorios)
+   Web: ar.edu.pe | Correo: secretaria@ar.edu.pe | SIEWEB: ar.sieweb.com.pe
+   Gestion: privada / particular. Turno manana. Mixto. Local 856521.
+   Inicial CM 1377332 (2008) | Primaria CM 1327881 (2008) |
+   Secundaria CM 1790245 (2021).
+   Directora General: Laura Alcalde (padron: Alcalde Arce Laura).
+   Pension 2025: S/ 660/mes (inicial y primaria), S/ 680 (secundaria),
+   10 cuotas, matricula S/ 30.
+   Propuesta: 5 dimensiones formativas, curso semanal de desarrollo
+   socioemocional, programacion, finanzas, emprendimiento, investigacion,
+   Cambridge English con International House.
+   Maps: 4.4 con 29 resenas.
+   Nivel de confianza: ALTO en estructura y propuesta, NULO en "logros"
+   (no hay ninguno documentado publicamente).
+
+--------------------------------------------------------------------------------
+D. ERRORES DETECTADOS Y CORREGIDOS (por que la ficha dice otra cosa)
+--------------------------------------------------------------------------------
+1. "Saco Oliveros Cajamarca tiene 30 anos": falso. La red tiene 29-30 anos
+   (fundada 1997 en Lima); la sede Cajamarca se registro en 2016.
+2. "Saco Oliveros secundaria: 55 alumnos / 15 docentes": falso. El padron
+   da 541 alumnos / 25 docentes. El dato de 55 corresponde a otro corte.
+3. "San Ramon secundaria: 1,672 alumnos": desactualizado. Censo 2025: 2,567.
+4. "San Ramon tiene un solo director": falso. Primaria y secundaria tienen
+   titulares distintos en el padron.
+5. "Santa Teresita es publica de gestion directa": falso. Es publica de
+   gestion privada por convenio con el Sector Educacion.
+6. "Antonio Raimondi Cajamarca tiene Bachillerato Internacional (IB)
+   acreditado y cuota de ingreso de USD 8,000": sin respaldo. La web del
+   colegio ofrece Cambridge English y no menciona IB. Se rechaza.
+7. "Antonio Raimondi Cajamarca tiene 243 alumnos y 21 docentes": es solo
+   inicial+primaria de un corte previo. El Censo 2025 suma 616 alumnos.
+8. "Cristo Rey: gestion directa": falso, es convenio con el Sector Educacion.
+9. Nombres de docentes de Santa Teresita tomados de la hoja de calculo sin
+   fuente: no se publican como hecho.
+10. Mezcla de colegios homonimos: los Cristo Rey de Cutervo, Llama, Jaen,
+    San Ignacio, Callao, Huacho y Tacna; los Antonio Raimondi de Lima
+    (La Molina), Casma, Pacasmayo y Trujillo; el Santa Teresita de Surco;
+    la I.E. Juan XXIII que comparte cuadra con Saco Oliveros. Ninguno de
+    esos datos entra en estas fichas.
+
+--------------------------------------------------------------------------------
+E. LO QUE NO SE PUDO VERIFICAR (declarado, no escondido)
+--------------------------------------------------------------------------------
+- Director vigente del Cristo Rey al 25-11-2026 (dos nombres en documentos
+  de fechas distintas; falta oficio de designacion o padron ESCALE en vivo).
+- RUC de Cristo Rey y de San Ramon (no consultado en SUNAT).
+- Plana docente nominal de los cinco colegios: solo hay nombres parciales
+  con respaldo (UGEL, MINEDU, prensa, LinkedIn). Ningun colegio publica su
+  relación completa.
+- Numero de alumnas/os de inicial de Saco Oliveros (CM 3022811 sin cifra).
+- Pensiones 2026 de los cinco: las cifras son 2025 reportadas a MINEDU.
+- Facebook: las paginas no permiten lectura directa sin sesion (error 403);
+  los seguidores citados vienen de indices publicos y son aproximados.
+- Logros deportivos/academicos individuales de cada sede Cajamarca: no hay
+  notas de prensa locales que los documenten, asi que no se afirmaron.
+
+--------------------------------------------------------------------------------
+F. COMO VERIFICAR EN 10 MINUTOS (para el lector que quiera ir mas alla)
+--------------------------------------------------------------------------------
+1. ESCALE / padron MINEDU: buscar por codigo modular (no por nombre).
+   https://escale.minedu.gob.pe/web/inicio/padron-de-iiee
+2. Identicole (MINEDU): costos y niveles reportados por el colegio.
+   https://identicole.minedu.gob.pe
+3. UGEL Cajamarca: oficios multiples y plazas (fuente de directores y
+   docentes con nombre y DNI). http://ugelcajamarca.gob.pe
+4. SUNAT: RUC de la institucion o de la asociacion propietaria.
+   https://e-consultaruc.sunat.gob.pe
+5. Mesa de partes del colegio: pedir por escrito el nombre del director
+   vigente, la resolucion de designacion y la relacion de docentes.
+   Es un derecho de los padres y se responde por escrito.
+
+--------------------------------------------------------------------------------
+G. ARCHIVOS DE ESTE PAQUETE
+--------------------------------------------------------------------------------
+FICHAS_5_COLEGIOS_COMPLETO.txt   paquete unico: resumen de datos crudos +
+                                 las 5 fichas de lectura y auditoria
+00_RESUMEN_DATOS_CRUDOS.txt      solo el resumen (indice, tabla comparativa,
+                                 errores corregidos, pendientes, como verificar)
+
+Nota final de honestidad intelectual: estas fichas no reemplazan una visita
+ni una entrevista. Sirven para llegar a la puerta del colegio sabiendo que
+preguntar, con quien hablar y que dato esta flojo. Si un dato cambia, se
+corrige: la fuente manda, no la ficha.
+================================================================================

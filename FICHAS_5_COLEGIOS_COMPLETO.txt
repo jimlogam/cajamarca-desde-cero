@@ -1,0 +1,968 @@
+################################################################################
+#  FICHAS DE LECTURA + AUDITORIA - 5 COLEGIOS DE CAJAMARCA
+#  Paquete completo en un solo archivo (version consolidada)
+#  Cierre de auditoria: 25-11-2026
+################################################################################
+
+================================================================================
+00 - RESUMEN GENERAL Y DATOS CRUDOS
+5 COLEGIOS DE CAJAMARCA - hoja "maps-scraper-cajamarca" (filas 7 a 11)
+Auditoria cerrada al 25-11-2026
+================================================================================
+
+--------------------------------------------------------------------------------
+A. QUE ES ESTE PAQUETE
+--------------------------------------------------------------------------------
+Cinco fichas de lectura (una por colegio), escritas en primera persona por un
+personaje local -profesor, exalumno o padre de familia- que conoce el colegio
+por dentro, y auditadas contra fuentes oficiales (padron MINEDU/ESCALE,
+documentos de UGEL, notas de prensa, web y redes del propio colegio).
+Cada ficha trae: lectura, datos claros y una seccion de auditoria que dice
+que coincide, que se corrigio y que falta verificar.
+
+Regla que se aplico en todo el trabajo: si un dato no tiene documento, no se
+inventa ni se completa "por sentido comun". Se marca NO VERIFICADO. Por eso
+algunas fichas dicen menos de lo que a uno le gustaria: es deliberado.
+
+--------------------------------------------------------------------------------
+B. TABLA COMPARATIVA (datos crudos, Censo Educativo 2025 / padron MINEDU)
+--------------------------------------------------------------------------------
+Colegio              Nivel        CM          Alumnos  Doc.  Secc.  Genero
+Cristo Rey Maristas  Secundaria   0390617       454      27    12    Mixto
+Cristo Rey Maristas  Primaria     1107481       446      14    12    Mixto
+   SUBTOTAL local                                900      41    24
+
+San Ramon            Secundaria   0390591     2,567     115    75    Varones
+82001 San Ramon      Primaria     0442863     1,836      59    48    Mixto
+   SUBTOTAL local (sin EBA)                    4,403     174   123
+
+Saco Oliveros        Secundaria   1723279       541      25    18    Mixto
+Saco Oliveros        Primaria     1723261       407      28    15    Mixto
+(Saco Oliveros       Inicial      3022811       n/d     n/d   n/d    Mixto)
+   SUBTOTAL local (sin inicial)                  948      53    33
+
+Santa Teresita       Secundaria   0390708     1,376      71    45    Mujeres
+Santa Teresita       Primaria     0444737     1,044      36    30    Mujeres
+   SUBTOTAL local                              2,420     107    75
+
+Antonio Raimondi     Secundaria   1790245       273      17    10    Mixto
+Antonio Raimondi     Primaria     1327881       286      18    12    Mixto
+Antonio Raimondi     Inicial      1377332        57       5     3    Mixto
+   SUBTOTAL local                                616      40    25
+
+TOTAL DE LOS 5 COLEGIOS (todos los niveles contabilizados): 9,287 alumnos,
+415 docentes, 280 secciones.
+
+--------------------------------------------------------------------------------
+C. FICHA RESUMEN POR COLEGIO
+--------------------------------------------------------------------------------
+1) COLEGIO CRISTO REY MARISTAS
+   Direccion: Jr. Angamos 890, Chontapaccha, Cajamarca 06001
+   Telefono: (076) 633245 / 076-362584
+   Web: cristoreycajamarca.edu.pe | Correo: tramites@cristoreymaristas.edu.pe
+   Gestion: publica de gestion privada, Convenio con el Sector Educacion
+   (Congregacion Marista). Turno manana. Mixto. Urbano.
+   Local: 094881. Secundaria CM 0390617 (registro 05-09-1975);
+   Primaria CM 1107481 (registro 08-11-1996).
+   Director documentado 2024-2025: Edward Alain Almestar Cieza
+   (aalmestar@cristoreymaristas.edu.pe / 996688680).
+   Director en padron 2026: Vera Paredes Walter Fernando. CONFLICTO ABIERTO.
+   Historia: 1953, Hermanos Maristas; RM 556; primera promocion 1960.
+   Maps: 4.6 con 165 resenas. Facebook: ~5,800 seguidores.
+   Nivel de confianza del bloque de datos: ALTO en estructura y censos,
+   MEDIO en director vigente.
+
+2) COLEGIO SAN RAMON (I.E. San Ramon y 82001 San Ramon)
+   Direccion: Jiron 13 de Julio 275, Chontapaccha, Cajamarca
+   Telefono: (076) 343427 / 076-362082
+   Web: sanramoncajamarca.edu.pe | Correo: mesadepartes@sanramoncajamarca.edu.pe
+   Gestion: publica de gestion directa, Sector Educacion. JEC.
+   Secundaria: varones, manana-tarde, CM 0390591, local 570081.
+   Primaria "82001": mixto, manana-tarde, CM 0442863, local 094112.
+   EBA en el mismo local: CM 1358555 (inicial/intermedio) y 0390955 (avanzado).
+   Director General (web oficial): Segundo Francisco Bustamante Hoyos.
+   Director Primaria (padron 2026): Caro Lopez Jorge Luis.
+   Subdirector Secundaria: Sanchez Cabanillas Juan Alfredo (DNI 26601967).
+   Directora EBA: Fatima del Milagro Mestanza Chilon.
+   Historia: 1825 Colegio de Patriotas; 08-09-1831 Colegio Central de
+   Ciencias y Artes; heroes de la Batalla de San Pablo (1882); 193 anos en 2024.
+   Maps: 4.4 con 147 resenas. Facebook: iesanramoncajamarca.
+   Nivel de confianza: ALTO. Es el colegio mas grande de los cinco.
+
+3) COLEGIO SACO OLIVEROS - CAJAMARCA
+   Direccion: Jiron Juan XXIII 132 (referencia 130), San Sebastian, Cajamarca
+   Telefono: 965 203 680
+   Web sede: sites.google.com/sacooliveros.edu.pe/cajamarca
+   Web red: sacooliveros.edu.pe
+   Gestion: privada / particular. Turno manana. Mixto. Urbano. Local 805169.
+   Inicial CM 3022811 | Primaria CM 1723261 | Secundaria CM 1723279
+   (registro local 22-03-2016).
+   Director (padron): Torres Huacal Jose Rodrigo.
+   Directores academicos: Ing. Eduardo Javier Mercado Huertas (inicial y
+   primaria) y Lic. Kumar Napoleon Cabrera Cruz (secundaria).
+   Coordinadora: Psic. Monica Huaman Segura.
+   Red fundada en Lima en 1997 por Wilmer Carrasco Beas (ing. UNI).
+   Pension 2025: S/ 560 (inicial/primaria) y S/ 580 (secundaria), 10 cuotas,
+   matricula S/ 30. Sistema Helicoidal.
+   Maps: 4.4 con 34 resenas. Facebook: ~4,194 seguidores.
+   Nivel de confianza: ALTO en estructura, MEDIO en logros (son de la red
+   nacional, no hay documento que los atribuya a la sede Cajamarca).
+
+4) I.E. EMBLEMATICO SANTA TERESITA
+   Direccion: Av. Mario Urteaga 360, La Colmena, Cajamarca
+   Telefono: (076) 362308 | Correo: santateresita@speedy.com.pe
+   Web: iesantateresita.edu.pe
+   Gestion: publica de gestion privada, Convenio con el Sector Educacion
+   (Hermanas Canonesas de la Cruz). Solo mujeres. Turno manana. Local 094211.
+   Primaria CM 0444737 | Secundaria CM 0390708 (registro 15-11-1934).
+   Directora vigente: Hna. Zarela Rene Rojas Aguinaga.
+   Directora en la inauguracion 2015: Margarita Castillo Felix.
+   Historia: 1934; LXXV aniversario en 2010; colegio emblematico inaugurado
+   el 06-03-2015 con inversion mayor a S/ 28 millones (piscina, gimnasio,
+   coliseo, laboratorios, auditorio, capilla, comedor, biblioteca).
+   Maps: 4.4 con 44 resenas. Instagram: @weboficialst (477 seguidores).
+   Nivel de confianza: ALTO en infraestructura e historia, ALTO en censos,
+   BAJO en nombres de docentes (los de la hoja no tienen respaldo).
+
+5) COLEGIO ANTONIO RAIMONDI - CAJAMARCA
+   Direccion: Av. Via de Evitamiento Norte 300, Urb. La Alameda, Cajamarca 06001
+   Telefonos: 973 264 935 (web) / 958 067 078 (directorios)
+   Web: ar.edu.pe | Correo: secretaria@ar.edu.pe | SIEWEB: ar.sieweb.com.pe
+   Gestion: privada / particular. Turno manana. Mixto. Local 856521.
+   Inicial CM 1377332 (2008) | Primaria CM 1327881 (2008) |
+   Secundaria CM 1790245 (2021).
+   Directora General: Laura Alcalde (padron: Alcalde Arce Laura).
+   Pension 2025: S/ 660/mes (inicial y primaria), S/ 680 (secundaria),
+   10 cuotas, matricula S/ 30.
+   Propuesta: 5 dimensiones formativas, curso semanal de desarrollo
+   socioemocional, programacion, finanzas, emprendimiento, investigacion,
+   Cambridge English con International House.
+   Maps: 4.4 con 29 resenas.
+   Nivel de confianza: ALTO en estructura y propuesta, NULO en "logros"
+   (no hay ninguno documentado publicamente).
+
+--------------------------------------------------------------------------------
+D. ERRORES DETECTADOS Y CORREGIDOS (por que la ficha dice otra cosa)
+--------------------------------------------------------------------------------
+1. "Saco Oliveros Cajamarca tiene 30 anos": falso. La red tiene 29-30 anos
+   (fundada 1997 en Lima); la sede Cajamarca se registro en 2016.
+2. "Saco Oliveros secundaria: 55 alumnos / 15 docentes": falso. El padron
+   da 541 alumnos / 25 docentes. El dato de 55 corresponde a otro corte.
+3. "San Ramon secundaria: 1,672 alumnos": desactualizado. Censo 2025: 2,567.
+4. "San Ramon tiene un solo director": falso. Primaria y secundaria tienen
+   titulares distintos en el padron.
+5. "Santa Teresita es publica de gestion directa": falso. Es publica de
+   gestion privada por convenio con el Sector Educacion.
+6. "Antonio Raimondi Cajamarca tiene Bachillerato Internacional (IB)
+   acreditado y cuota de ingreso de USD 8,000": sin respaldo. La web del
+   colegio ofrece Cambridge English y no menciona IB. Se rechaza.
+7. "Antonio Raimondi Cajamarca tiene 243 alumnos y 21 docentes": es solo
+   inicial+primaria de un corte previo. El Censo 2025 suma 616 alumnos.
+8. "Cristo Rey: gestion directa": falso, es convenio con el Sector Educacion.
+9. Nombres de docentes de Santa Teresita tomados de la hoja de calculo sin
+   fuente: no se publican como hecho.
+10. Mezcla de colegios homonimos: los Cristo Rey de Cutervo, Llama, Jaen,
+    San Ignacio, Callao, Huacho y Tacna; los Antonio Raimondi de Lima
+    (La Molina), Casma, Pacasmayo y Trujillo; el Santa Teresita de Surco;
+    la I.E. Juan XXIII que comparte cuadra con Saco Oliveros. Ninguno de
+    esos datos entra en estas fichas.
+
+--------------------------------------------------------------------------------
+E. LO QUE NO SE PUDO VERIFICAR (declarado, no escondido)
+--------------------------------------------------------------------------------
+- Director vigente del Cristo Rey al 25-11-2026 (dos nombres en documentos
+  de fechas distintas; falta oficio de designacion o padron ESCALE en vivo).
+- RUC de Cristo Rey y de San Ramon (no consultado en SUNAT).
+- Plana docente nominal de los cinco colegios: solo hay nombres parciales
+  con respaldo (UGEL, MINEDU, prensa, LinkedIn). Ningun colegio publica su
+  relación completa.
+- Numero de alumnas/os de inicial de Saco Oliveros (CM 3022811 sin cifra).
+- Pensiones 2026 de los cinco: las cifras son 2025 reportadas a MINEDU.
+- Facebook: las paginas no permiten lectura directa sin sesion (error 403);
+  los seguidores citados vienen de indices publicos y son aproximados.
+- Logros deportivos/academicos individuales de cada sede Cajamarca: no hay
+  notas de prensa locales que los documenten, asi que no se afirmaron.
+
+--------------------------------------------------------------------------------
+F. COMO VERIFICAR EN 10 MINUTOS (para el lector que quiera ir mas alla)
+--------------------------------------------------------------------------------
+1. ESCALE / padron MINEDU: buscar por codigo modular (no por nombre).
+   https://escale.minedu.gob.pe/web/inicio/padron-de-iiee
+2. Identicole (MINEDU): costos y niveles reportados por el colegio.
+   https://identicole.minedu.gob.pe
+3. UGEL Cajamarca: oficios multiples y plazas (fuente de directores y
+   docentes con nombre y DNI). http://ugelcajamarca.gob.pe
+4. SUNAT: RUC de la institucion o de la asociacion propietaria.
+   https://e-consultaruc.sunat.gob.pe
+5. Mesa de partes del colegio: pedir por escrito el nombre del director
+   vigente, la resolucion de designacion y la relacion de docentes.
+   Es un derecho de los padres y se responde por escrito.
+
+--------------------------------------------------------------------------------
+G. ARCHIVOS DE ESTE PAQUETE
+--------------------------------------------------------------------------------
+FICHAS_5_COLEGIOS_COMPLETO.txt   paquete unico: resumen de datos crudos +
+                                 las 5 fichas de lectura y auditoria
+00_RESUMEN_DATOS_CRUDOS.txt      solo el resumen (indice, tabla comparativa,
+                                 errores corregidos, pendientes, como verificar)
+
+Nota final de honestidad intelectual: estas fichas no reemplazan una visita
+ni una entrevista. Sirven para llegar a la puerta del colegio sabiendo que
+preguntar, con quien hablar y que dato esta flojo. Si un dato cambia, se
+corrige: la fuente manda, no la ficha.
+================================================================================
+
+
+################################################################################
+================================================================================
+01 - COLEGIO CRISTO REY MARISTAS - CAJAMARCA
+Ficha en modo lectura + auditoria (sin datos falsos)
+================================================================================
+Fila de la hoja: Untitled fila 7 | Jr. Angamos 890, Cajamarca 06001
+Telefono hoja: (076) 633245 | Maps: 165 resenas, 4.6
+Fecha de esta ficha: 25-11-2026
+
+--------------------------------------------------------------------------------
+PARTE 1 - LECTURA (voz local, en primera persona)
+Soy exalumno y hoy padre de familia en Cajamarca. Cuando me preguntan por el
+Cristo Rey, lo primero que digo es: es el colegio de los Hermanos Maristas,
+el de Jr. Angamos 890, en Chontapaccha. No es un colegio cualquiera: es de
+esos que en Cajamarca se conocen por nombre y por historia. Primaria y
+secundaria funcionan en el mismo local, de manana, en zona urbana, y hoy es
+mixto aunque nacio como colegio de varones.
+
+Lo que mas valora la gente de aqui es la formacion en valores. El lema que
+se escucha en el patio es "Para educar hay que amar", y la pastoral es
+parte del dia a dia: Primera Comunion, Confirmacion, grupos de vida
+cristiana y solidaridad. El deporte tampoco es adorno: futbol, voley y
+basquet tienen talleres propios dentro del colegio.
+
+Si tu hijo entra al Cristo Rey, entra a un colegio en convenio con el
+Sector Educacion, conducido por la Congregacion Marista desde 1953. En 2026
+cumple 73 anos. La primera promocion salio en 1960. Yo conoci profesores de
+la epoca de los hermanos, y hoy la direccion ya es laica, elegida por los
+Maristas, no por la UGEL. Eso se nota: el colegio conserva el carisma
+marista, pero con gestion moderna, plataforma de convivencia y tramites en
+linea.
+
+En numeros, para que te hagas una idea clara: en secundaria son 454 alumnos
+con 27 docentes y 12 secciones; en primaria, 446 alumnos con 14 docentes y
+12 secciones. En total, unos 900 chicos en el mismo local. No es un colegio
+gigante como San Ramon, pero tampoco es chico: es de tamano medio, con
+trato cercano y secciones de 37 a 38 alumnos.
+
+Lo que si te digo como padre: verifica el nombre del director antes de
+tramitar algo. En 2024-2025 el director documentado fue Alain Almestar
+Cieza; en el directorio del Censo 2025-2026 aparece Walter Vera Paredes. No
+te confies con lo que dice internet: llama al 076-633245 o escribe a
+tramites@cristoreymaristas.edu.pe. Y no lo confundas con los otros Cristo
+Rey del pais, que son colegios distintos, con otros codigos y otros
+directores.
+
+--------------------------------------------------------------------------------
+PARTE 2 - DATOS CLAROS Y AUDITADOS
+--------------------------------------------------------------------------------
+Director(a):
+  - Edward Alain Almestar Cieza: director segun nota del Tribunal
+    Constitucional (19-07-2024) y Oficio Multiple 061-2025 de la UGEL
+    Cajamarca (primaria y secundaria), correo
+    aalmestar@cristoreymaristas.edu.pe, celular 996688680.
+  - Vera Paredes Walter Fernando: director segun el directorio del Censo
+    2025 (actualizado 01-03-2026) y documentos MINEDU de evaluacion
+    docente (DNI 26716979). CONFLICTO: verificar cual esta vigente.
+  - Directores historicos documentados: Hno. Jorge Denegri (primer
+    director, enero 1953, fundador).
+
+Docentes conocidos (solo con respaldo, sin inventar):
+  - Milton Jesus Gonzales Tafur, coordinador de actividades (LinkedIn).
+  - Convocatoria oficial en Facebook (2025) para docente de Ciencias
+    Sociales a tiempo completo: el colegio contrata por concurso.
+  - Talleres: futbol y voley a cargo de entrenadores externos
+    ("Pepe" y "Jean Werner") segun la web oficial.
+  - La web oficial NO publica plana docente nominal completa. Cualquier
+    lista de docentes que circule sin documento es invento.
+
+Estado / Gestion:
+  Activa (Censo 2025). Publica de gestion privada, Convenio con Sector
+  Educacion. DRE/UGEL Cajamarca. EBR Primaria y Secundaria, escolarizada,
+  mixto, turno manana, urbana. Registro secundaria 05-09-1975; primaria
+  08-11-1996. RUC: no verificado (consultar SUNAT).
+
+Codigos:
+  Secundaria CM 0390617. Primaria CM 1107481. Local 094881.
+  Jr. Angamos 890, Chontapaccha, ubigeo 060101.
+  Coords. -7.149571, -78.523111. Tel. 076-633245 / 076-362584.
+
+Censos ESCALE Censo 2025:
+  Secundaria: 454 alumnos (237 H, 217 M), 27 docentes, 12 secciones.
+  Primaria: 446 alumnos (241 H, 205 M), 14 docentes, 12 secciones.
+  Total local: 900 alumnos, 41 docentes, 24 secciones.
+  Promedio: 38 alumnos por seccion en secundaria, 37 en primaria.
+
+Historia:
+  - 27-12-1952: llegan a Cajamarca los Hermanos Placido y Jorge.
+  - Enero 1953: el Hno. Jorge Denegri asume como primer director.
+  - 19-04-1953: inauguracion con 83 alumnos en Jr. Tarapaca 76.
+  - RM N. 556 autoriza el Primer Ciclo; en 1959 se amplia al Segundo
+    Ciclo; primera promocion en 1960.
+  - 1966: separacion administrativa de primaria y secundaria.
+  - 2026: 73 anos de presencia marista en Cajamarca.
+
+Noticias verificadas:
+  - 11-03-2024: reconocimiento del Club de Leones; la alumna Damaris
+    Sarai Chilon Ayay gana el concurso nacional "Cartel de la Paz".
+  - 19-07-2024: el Tribunal Constitucional dicta la charla "La
+    Constitucion en el Cole" a 300 alumnos de 4to y 5to de secundaria.
+  - 2026: la web oficial anuncia el "Clarin de Plata".
+  - NO atribuir a este colegio las notas de prensa de los Cristo Rey de
+    Cutervo, Llama, Jaen, San Ignacio, Callao, Huacho o Tacna.
+
+Redes / Fuentes:
+  Web: https://cristoreycajamarca.edu.pe/
+  Facebook: https://www.facebook.com/cristoreymaristas.cajamarca/
+    (~5,8 mil seguidores; correo cristorey@cristoreymaristas.edu.pe)
+  Maps: 165 resenas, 4.6 de calificacion.
+  Padron:
+    https://colegiosdelperu.com/cajamarca/cajamarca/cristo-rey-secundaria-0390617
+    https://colegiosdelperu.com/cajamarca/cajamarca/cristo-rey-primaria-1107481
+  TC: https://www.tc.gob.pe/institucional/notas-de-prensa/tribunal-constitucional-realizo-en-cajamarca-la-charla-la-constitucion-en-el-cole/
+  UGEL: http://ugelcajamarca.gob.pe/wp-content/uploads/2025/05/OFICIO-MULTIPLE-061-2025-AGP-1.pdf
+  Historia: https://cristoreycajamarca.edu.pe/resena-historica/
+
+--------------------------------------------------------------------------------
+PARTE 3 - AUDITORIA (que coincide, que no, que falta)
+--------------------------------------------------------------------------------
+COINCIDE: direccion Angamos 890, telefono 076-633245, codigos
+0390617/1107481/local 094881, estado activo, cifras 454/27/12 y 446/14/12,
+historia 1953, condicion de convenio.
+NO COINCIDE / CONFLICTO: director (Almestar Cieza 2024-2025 vs. Vera
+Paredes en el directorio 2026). No hay documento que diga quien ceso;
+se reportan ambos y se pide verificacion en mesa de partes.
+NO COINCIDE: algunas fichas de terceros dicen "gestion directa"; el
+padron MINEDU dice convenio con el Sector Educacion. Usar convenio.
+FALTA VERIFICAR: RUC, plana docente nominal, director vigente al
+25-11-2026, y si la primaria tiene director propio.
+NOTA DE METODO: Facebook bloquea la lectura directa (error 403); los
+datos de la pagina provienen de indices publicos, no de scraping.
+================================================================================
+
+
+################################################################################
+================================================================================
+02 - COLEGIO SAN RAMON - CAJAMARCA  (I.E. "San Ramon" / 82001)
+Ficha en modo lectura + auditoria (sin datos falsos)
+================================================================================
+Fila de la hoja: Untitled fila 8 | Jr. 13 de Julio 275, Cajamarca
+Telefono hoja: (076) 343427 | Maps: 147 resenas, 4.4
+Fecha de esta ficha: 25-11-2026
+
+--------------------------------------------------------------------------------
+PARTE 1 - LECTURA (voz local, en primera persona)
+Mira, si hay un colegio que en Cajamarca no necesita presentacion, es San
+Ramon. Yo estudie ahi y ahora trabajo cerca, en la esquina del jiron 13 de
+Julio, y te juro que el bullicio de la salida de Secundaria se escucha
+desde la otra cuadra. Es un colegio enorme: solo en secundaria hablamos de
+2,567 alumnos varones, 115 profesores y 75 secciones; y en primaria, 1,836
+alumnos mixtos con 59 docentes. Sumale la Educacion Basica Alternativa que
+funciona en el mismo local y te das cuenta: ahi pasa un Cajamarca entero,
+todos los dias, de manana y de tarde.
+
+Lo primero que la gente pregunta es: "y desde cuando existe?". La respuesta
+te deja frio: el colegio nacio con la republica. Se habla de 1825, de
+Colegio de Patriotas, y de su instalacion formal el 8 de setiembre de 1831
+como Colegio Central de Ciencias y Artes, en La Recoleta. Por eso en la
+ficha oficial del MINEDU la fecha de registro dice 07-09-1831: no es un
+error de digitacion, es la edad del colegio. En 2024 cumplio 193 anos. Y
+ojo con un dato que casi nadie repite: de sus aulas salieron los heroes de
+la Batalla de San Pablo, en 1882, cuando Cajamarca resistio a los chilenos.
+Eso, en un colegio, no es un adorno: es identidad.
+
+Yo, como exalumno, te digo lo que se siente. San Ramon no es un colegio de
+"ninos bonitos" ni de infraestructura de postal: es un colegio publico de
+gestion directa, con aulas llenas, con profesores que conocen a tres
+generaciones de la misma familia. Hay dias de Jornada Escolar Completa en
+que el colegio abre de 8 de la manana a 5 de la tarde, y el chico almuerza
+ahi. Los profesores son de los que te llaman por tu nombre y tambien te
+jalan las orejas. Yo tuve profesores de matematica que se quedaban despues
+de hora para explicarte otra vez, y un profe de educacion fisica que nos
+hacia correr la cuesta de Chontapaccha y nos dejaba muertos, pero nos
+enseno a no abandonar.
+
+Lo que hoy se comenta en la ciudad es otra cosa: que los alumnos de San
+Ramon salieron a donar implementos medicos al Hospital Simon Bolivar por
+mas de once mil soles, que ganan concursos de emprendimiento con la UGEL,
+que organizan campeonatos interpromociones que mueven a todo el barrio. Eso
+tambien es el colegio: no solo aulas, tambien ciudad.
+
+Y una advertencia practica que doy como padre de familia: no te confundas
+de puerta ni de director. En el mismo jiron 13 de Julio 275 conviven
+primaria (CM 0442863), secundaria (CM 0390591) y basica alternativa
+(CM 1358555). Si vas a hacer un tramite, di el codigo modular, no solo el
+nombre. Y el director general que se presenta en la web del colegio es
+Segundo Francisco Bustamante Hoyos; en el padron del Censo 2025 la
+secundaria aparece a nombre de Bustamante Hoyos Segundo Francisco, pero la
+primaria aparece a nombre de Caro Lopez Jorge Luis. Son dos direcciones
+distintas en el mismo local. Pregunta antes de reclamar.
+
+--------------------------------------------------------------------------------
+PARTE 2 - DATOS CLAROS Y AUDITADOS
+--------------------------------------------------------------------------------
+Direccion / Directivos:
+  - Director General (web oficial del colegio): Segundo Francisco
+    Bustamante Hoyos.
+  - Director Secundaria CM 0390591 (padron Censo 2025): BUSTAMANTE HOYOS
+    SEGUNDO FRANCISCO.
+  - Director Primaria 82001 CM 0442863 (padron Censo 2025): CARO LOPEZ
+    JORGE LUIS.
+  - Subdirector Secundaria: SANCHEZ CABANILLAS JUAN ALFREDO
+    (DNI 26601967, MINEDU, codigo de plaza 1146414298M0).
+  - Directora EBA San Ramon: Fatima del Milagro Mestanza Chilon (hoja).
+  - CONFLICTO A VERIFICAR: no hay un unico "director del colegio" valido
+    para los tres niveles; cada nivel tiene su titular en el padron.
+
+Docentes verificados (documentos UGEL/MINEDU, sin inventar):
+  - Felix Rodriguez Rojas - Ciencia y Tecnologia (UGEL 2022, plaza 30 h).
+  - Napoleon Cieza Padilla - Matematica (UGEL 2022).
+  - Cesar Saldana - EPT (Computacion e Informatica) (UGEL 2022).
+  - Segundo Correa Saenz - Educacion Fisica (UGEL 2022).
+  - Alfonso Castope - area por confirmar (UGEL 2022).
+  - Carmita Rocio Guallo Cayancela - Educacion Religiosa (MINEDU
+    nombramiento 2023, EBR Secundaria).
+  - La relacion completa de 115 docentes no es publica; el listado de
+    plazas 2022 de la UGEL si es publico y sirve como referencia.
+
+Estado / Gestion:
+  Activa (Censo 2025). Publica de gestion directa, Sector Educacion,
+  UGEL Cajamarca, DRE Cajamarca. Secundaria: varones, escolarizada,
+  manana-tarde, urbana. Primaria: mixto, polidocente completo,
+  manana-tarde. Fecha de registro 07-09-1831.
+  JEC: horario referencial lunes a sabado 8:00-17:00 (Google Maps), con
+  sabado solo manana. Confirmar en el colegio.
+
+Codigos:
+  Primaria CM 0442863 / CL 094112.
+  Secundaria CM 0390591 / CL 570081.
+  EBA CM 1358555 (inicial/intermedio) y CM 0390955 (avanzado).
+  Direccion: Jiron 13 de Julio 275, Chontapaccha, Cajamarca.
+  Coords. -7.153202, -78.523689. Tel. 076-343427 / 076-362082.
+  Correo institucional: mesadepartes@sanramoncajamarca.edu.pe
+
+Censos ESCALE Censo 2025:
+  Primaria: 1,836 alumnos (1,267 H, 569 M), 59 docentes, 48 secciones.
+  Secundaria: 2,567 alumnos (varones), 115 docentes, 75 secciones.
+  Total local (sin EBA): 4,403 alumnos, 174 docentes, 123 secciones.
+  Ratio Secundaria: ~34 alumnos por seccion; Primaria: ~38 por seccion.
+
+Historia:
+  1825: origen como Colegio de Patriotas (segun hoja y tradicion local).
+  08-09-1831: instalacion como Colegio Central de Ciencias y Artes en
+  La Recoleta (fecha de registro MINEDU 07-09-1831).
+  1882: participacion de sus alumnos en la Batalla de San Pablo.
+  2024: 193 aniversario.
+  Nota de auditoria: la fundacion de 1825 y la de 1831 son dos hitos
+  distintos y ambos aparecen en fuentes locales; no son contradictorios,
+  pero solo 1831 esta en el padron MINEDU.
+
+Noticias / logros:
+  - Donacion de implementos medicos al Hospital Simon Bolivar por mas de
+    S/ 11,000 (campana estudiantil, difundida en medios locales).
+  - Participacion en Crea y Emprende (UGEL Cajamarca).
+  - Campeonato Inter Promociones 2026 (actividad institucional).
+
+Redes / Fuentes:
+  Web: https://sanramoncajamarca.edu.pe/ (el sitio no siempre carga;
+  usar el PDF/indice si falla)
+  Facebook: https://www.facebook.com/iesanramoncajamarca
+  Facebook alterno: SANRAMONdecajamarcaOFFICIAL / colegiosanramon
+  Maps: busqueda "Colegio San Ramon Cajamarca"
+  Padron:
+    https://colegiosdelperu.com/cajamarca/cajamarca/san-ramon-secundaria-0390591
+    https://colegiosdelperu.com/cajamarca/cajamarca/82001-san-ramon-primaria-0442863
+  UGEL plazas 2022:
+    http://ugelcajamarca.gob.pe/wp-content/uploads/2022/01/PLAZAS-SECUNDARIA-2022.pdf
+
+--------------------------------------------------------------------------------
+PARTE 3 - AUDITORIA
+--------------------------------------------------------------------------------
+COINCIDE: direccion 13 de Julio 275, codigos 0442863/0390591/570081,
+estado activo, condicion publica de gestion directa, genero (primaria
+mixto, secundaria varones), historia 1831, directorio de secundaria.
+CORREGIDO: la cifra de "1,672 alumnos" que circula en fichas de terceros
+para secundaria esta desactualizada; el Censo 2025 da 2,567.
+NO COINCIDE: hay fichas que atribuyen un solo director a todo el colegio;
+el padron separa primaria (Caro Lopez) y secundaria (Bustamante Hoyos).
+FALTA VERIFICAR: RUC, director vigente al 25-11-2026, numero exacto de
+secciones EBA, y si la JEC sigue con el horario ampliado.
+RIESGO DE CONFUSION: "San Ramon" existe tambien como instituto superior y
+como CEBA en el mismo jiron; usar siempre el codigo modular.
+================================================================================
+
+
+################################################################################
+================================================================================
+03 - COLEGIO SACO OLIVEROS - CAJAMARCA
+Ficha en modo lectura + auditoria (sin datos falsos)
+================================================================================
+Fila de la hoja: Untitled fila 9 | Jr. Juan XXIII 130-132, Cajamarca
+Telefono hoja: 965 203 680 | Maps: 34 resenas, 4.4
+Fecha de esta ficha: 25-11-2026
+
+--------------------------------------------------------------------------------
+PARTE 1 - LECTURA (voz local, en primera persona)
+Yo trabaje varios anos en la sede de Saco Oliveros en Cajamarca, en el
+jiron Juan XXIII, barrio San Sebastian. Y cuando alguien me dice "ese
+coleccion de medallas", yo les respondo: si, pero no es magia, es metodo y
+es disciplina diaria.
+
+Te ubico. Saco Oliveros no es un colegio de barrio: es una red nacional.
+Nacio en Lima en 1997, de la mano de Wilmer Carrasco Beas, un ingeniero de
+la UNI que empezo con dos aulas y 38 alumnos de secundaria dando
+reforzamiento de matematicas en verano. Hoy la red habla de decenas de
+sedes y de decenas de miles de alumnos, y presume -con razon- de medallas
+internacionales en matematica, fisica, quimica, astronomia y ajedrez. En
+Cajamarca, la sede es mas joven de lo que la gente cree: el registro
+oficial del MINEDU para la primaria y secundaria local es del 22 de marzo
+de 2016. O sea, la sede cajamarquina tiene cerca de diez anos, no treinta.
+Los "30 anos" que aparecen en la web son de la red, no de la sede. Ese es
+el primer dato que hay que decir con honestidad.
+
+Como docente, lo que vi aqui fue un sistema muy ordenado. El famoso
+"Sistema Helicoidal" es, en la practica, un curriculo en espiral: cada tema
+vuelve a aparecer, mas profundo, en el siguiente grado; nada se ensena una
+vez y se olvida. Hay libros propios, cuadernos de trabajo, evaluaciones
+frecuentes y una tutoria que no es relleno: ahi se trabaja liderazgo,
+trabajo en equipo y proyecto de vida. Los chicos de Saco aprenden a
+competir, y eso tiene un costo: el ritmo es exigente, hay tareas, hay
+olimpiadas, hay presion por el resultado. No es un colegio para dejar al
+nino "a ver que pasa"; es un colegio para familias que aceptan el ritmo.
+
+En lo cotidiano, la sede es de turno manana y atiende inicial, primaria y
+secundaria. La pension es de clase media cajamarquina: alrededor de S/ 560
+a S/ 580 al mes en 2025, con matricula de S/ 30 reportada al MINEDU. No es
+la pension de un colegio de elite, pero tampoco es gratis, y muchas
+familias hacen un esfuerzo real por pagarla.
+
+Un detalle que casi nadie te dice y que a mi me toco vivir: esta sede
+comparte direccion fisica con la emblematica I.E. Juan XXIII, del Estado,
+en el mismo jiron 130/132. Por eso, si buscas en el padron, vas a
+encontrar dos instituciones en la misma cuadra: una publica, grande, de
+1,518 alumnos, y otra privada, de unos 950. No son lo mismo, no tienen el
+mismo director y no se paga lo mismo. Confundirlas es el error mas comun
+de los padres nuevos.
+
+--------------------------------------------------------------------------------
+PARTE 2 - DATOS CLAROS Y AUDITADOS
+--------------------------------------------------------------------------------
+Direccion / Directivos:
+  - Director (padron MINEDU, Primaria y Secundaria): TORRES HUACAL JOSE
+    RODRIGO.
+  - Director Academico Inicial/Primaria: Ing. Eduardo Javier Mercado
+    Huertas (web oficial de la sede).
+  - Director Academico Secundaria: Lic. Kumar Napoleon Cabrera Cruz
+    (web oficial de la sede).
+  - Coordinadora: Psic. Monica Huaman Segura (web oficial de la sede).
+  - Fundador de la red (Lima, 1997): Wilmer Carrasco Beas, ing. civil UNI.
+
+Docentes:
+  - La sede NO publica plana docente nominal. El padron MINEDU consigna
+    28 docentes en primaria y 25 en secundaria.
+  - No se listan nombres de docentes por area: no hay fuente publica
+    verificable. Cualquier nombre que circule sin documento es invento.
+
+Estado / Gestion:
+  Activa (Censo 2025). Privada / Particular, UGEL Cajamarca, DRE
+  Cajamarca. Escolarizada, mixto, turno manana, urbana.
+  Fecha de registro del local en Cajamarca: 22-03-2016.
+  Local educativo 805169.
+
+Codigos:
+  Primaria CM 1723261. Secundaria CM 1723279. Inicial CM 3022811.
+  Direccion: Jiron Juan XXIII 132 (referencia 130), San Sebastian,
+  Cajamarca. Coords. -7.16269, -78.510367.
+  Telefono: 965 203 680. Web de sede:
+  https://sites.google.com/sacooliveros.edu.pe/cajamarca
+  Web de red: https://sacooliveros.edu.pe
+
+Censos ESCALE Censo 2025:
+  Primaria: 407 alumnos (214 H, 193 M), 28 docentes, 15 secciones.
+  Secundaria: 541 alumnos (287 H, 254 M), 25 docentes, 18 secciones.
+  Total local (sin inicial): 948 alumnos, 53 docentes, 33 secciones.
+  Ratio: 27 alumnos por seccion en primaria, 30 en secundaria.
+  OJO: la ficha de comoes.pe muestra "55 alumnos / 15 docentes" para
+  secundaria; contradice el padron (541/25). Se descarta ese dato y se
+  usa el Censo 2025.
+
+Pensiones 2025 (referenciales, reportadas a MINEDU/Identicole):
+  - Secundaria: S/ 580/mes, 10 cuotas, matricula S/ 30, anual ~S/ 5,830.
+  - Inicial y Primaria: S/ 560/mes.
+  - Puesto #11 de 160 colegios privados con pension en Cajamarca (2025).
+
+Historia:
+  - Red fundada en Lima en 1997 por Wilmer Carrasco Beas (2 aulas,
+    38 alumnos, reforzamiento de matematica).
+  - Sistema Helicoidal como modelo propio; libros y material propios.
+  - Sede Cajamarca: registro MINEDU 22-03-2016 (unos 10 anos al 2026).
+  - La red declara 51 sedes y 29-30 anos de operacion (nivel nacional).
+
+Logros (de red, no exclusivos de la sede):
+  - 740 medallas internacionales declaradas (320 oro, 230 plata,
+    190 bronce) en matematicas, fisica, quimica, astronomia, ajedrez.
+  - Dhamaris Alarcon Huamani, alumna de la red, medalla de oro en
+    Olimpiada Mundial Copernico (Houston) y reconocimiento "Mujer Lider
+    2024" del Congreso.
+  - Ingresos a UNI, San Marcos y PUCP en primeros puestos (red).
+  - ADVERTENCIA: no hay fuente que atribuya esos logros a la sede de
+    Cajamarca en particular. No usar como logro local sin documento.
+
+Redes / Fuentes:
+  Facebook sede: https://www.facebook.com/sacooliveroscajamarca/
+    (~4,194 seguidores)
+  Facebook red: https://www.facebook.com/colegiosacooliveros
+  Web sede: https://sites.google.com/sacooliveros.edu.pe/cajamarca
+  Padron:
+    https://colegiosdelperu.com/cajamarca/cajamarca/saco-oliveros-secundaria-1723279
+    https://colegiosdelperu.com/cajamarca/cajamarca/saco-oliveros-primaria-1723261
+  Costos: https://comoes.pe/cajamarca/cajamarca/colegio/1723279-saco-oliveros/
+  Historia de la red:
+    https://larepublica.pe/sociedad/2024/09/08/el-ingeniero-de-la-uni-que-fundo-saco-oliveros-el-colegio-con-mas-medallas-internacionales-inicio-con-2-aulas-y-38-alumnos-wilmer-carrasco-beas-evat-ntpe-126455
+
+--------------------------------------------------------------------------------
+PARTE 3 - AUDITORIA
+--------------------------------------------------------------------------------
+COINCIDE: direccion Juan XXIII 132/130, codigos 1723261/1723279/3022811,
+condicion privada, turno manana, mixto, director Torres Huacal, cifras
+407/28/15 y 541/25/18.
+CORREGIDO: "30 anos en Cajamarca" es falso; en Cajamarca la sede se
+registro en 2016. Los 30 anos corresponden a la red (1997).
+CORREGIDO: la cifra de 55 alumnos en secundaria (comoes.pe) no cuadra
+con el padron (541). Se usa el Censo 2025.
+NO COINCIDE: no hay conflicto de director; el academico y el titular
+MINEDU son roles distintos y ambos son validos.
+FALTA VERIFICAR: pension 2026, numero de alumnos de inicial, plana
+docente nominal, y si la sede sigue compartiendo local con Juan XXIII.
+RIESGO DE CONFUSION: I.E. Juan XXIII (publica, CM 0390609, director
+Perez Estrada Renan Lino, 1,518 alumnos) esta en la misma cuadra. No
+mezclar cifras ni costos.
+================================================================================
+
+
+################################################################################
+================================================================================
+04 - I.E. EMBLEMATICO SANTA TERESITA - CAJAMARCA
+Ficha en modo lectura + auditoria (sin datos falsos)
+================================================================================
+Fila de la hoja: Untitled fila 10 | Av. Mario Urteaga 360, Cajamarca
+Telefono hoja: (076) 362308 | Maps: 44 resenas, 4.4
+Fecha de esta ficha: 25-11-2026
+
+--------------------------------------------------------------------------------
+PARTE 1 - LECTURA (voz local, en primera persona)
+Yo fui alumna de Santa Teresita y hoy mando a mi sobrina. Cuando me bajo en
+la avenida Mario Urteaga, en La Colmena, y veo ese porton, me pasa lo
+mismo: se me hace un nudo. Porque Santa Teresita no es solo un colegio de
+mujeres de Cajamarca; es la casa de las Hermanas Canonesas de la Cruz, y
+eso se siente en el trato antes que en el reglamento.
+
+Te cuento como era un dia. Entrabamos a las 7 y algo de la manana, turno
+unico de manana. Antes de entrar al aula, formacion y oracion. Las monjas
+no gritaban: te miraban y ya sabias. Habia una exigencia academica real
+-matematica fuerte, mucha lectura, ingles- pero lo que mas recuerdo es la
+formacion humana. Nos decian que una senorita de Santa Teresita se conoce
+por como trata a la gente, no por su nota. Suena a discurso, pero a mi me
+quedo.
+
+Y hay algo que en Cajamarca es motivo de orgullo: la infraestructura. En
+2015 el Estado inauguro el primer colegio emblematico de Cajamarca, y fue
+el nuestro. Mas de 28 millones de soles: laboratorios de biologia y
+quimica, centro de computo, biblioteca, comedor, auditorio, capilla y un
+polideportivo con piscina, gimnasio y coliseo. Si, piscina. En Cajamarca.
+Cuando lo cuento fuera, la gente no me cree. Durante los dos anos que duro
+la obra, las alumnas fueron acogidas en Juan XXIII y La Florida; mi
+promocion sabe lo que es estudiar en aula prestada y volver a estrenar
+colegio.
+
+Ahora, con honestidad, porque esta ficha sirve para decidir y no para
+hacer publicidad: es un colegio grande. En 2025 el padron registra 1,376
+alumnas en secundaria (71 docentes, 45 secciones) y 1,044 en primaria (36
+docentes, 30 secciones): mas de 2,400 alumnas en total. Eso significa
+secciones de 30 o mas, y no todas las ninas reciben la misma atencion
+individual. Y aunque es un colegio de "convenio con el Sector Educacion",
+no es gratuito como una escuela estatal comun: hay aportes de las familias.
+Pregunta claro antes de matricular.
+
+Un ultimo dato practico. La direccion vigente en el padron es la Hermana
+Zarela Rene Rojas Aguinaga. En 2015, cuando la inauguracion, la directora
+era Margarita Castillo Felix. Han pasado once anos y la gente sigue
+citando a la anterior: no te guies por el video viejo de YouTube.
+
+--------------------------------------------------------------------------------
+PARTE 2 - DATOS CLAROS Y AUDITADOS
+--------------------------------------------------------------------------------
+Direccion:
+  - Directora vigente (padron Censo 2025, act. 01-03-2026): ROJAS
+    AGUINAGA SOR. ZARELA RENE (Hna. Rene Zarela Rojas Aguinaga).
+  - Directora en la inauguracion 2015: Margarita Castillo Felix (historica).
+  - Congregacion: Hermanas Canonesas de la Cruz (Domingo Savio y Madre
+    Teresa de la Cruz). En 2015 se cumplian 18 anos de conduccion
+    congregacional del colegio (desde ~1997).
+  - Fundadoras reconocidas en el programa del LXXV aniversario (2010):
+    R.M. Provincial Esmilda Saavedra Gonzales y R.M. Consejera General
+    Maria Iriarte Blas (D. del S.R.).
+
+Docentes verificados (documento publico):
+  - Luis Miguel Espino Delgado, profesor asesor del blog "DivertHistoria",
+    ganador del Concurso Nacional "Construye un Blog en tu escuela"
+    (Fundacion Telefonica, 2009), con la direccion de la Hna. Zarela
+    Rojas Aguinaga. Es el unico docente con documento nominativo.
+  - La hoja de calculo lista nombres (Lidia Terrones, Angela Hinostroza,
+    Jesus Rendon Roman, Maika Santana, Elizabeth Herrera) SIN fuente
+    verificable. Se dejan como NO CONFIRMADOS; no usar en publico.
+
+Estado / Gestion:
+  Activa (Censo 2025). Publica de gestion privada, Convenio con Sector
+  Educacion. UGEL Cajamarca, DRE Cajamarca. EBR Primaria y Secundaria,
+  escolarizada, solo mujeres, turno manana, urbana.
+  Fecha de registro: 15-11-1934. Local educativo 094211.
+  OJO: DePeru la clasifica como "publica de gestion directa". Es un
+  error: MINEDU/ESCALE dice convenio con el Sector Educacion.
+
+Codigos:
+  Primaria CM 0444737. Secundaria CM 0390708. Local 094211.
+  Av. Mario Urteaga 360, La Colmena, Cajamarca. Coords. -7.156186,
+  -78.512358. Tel. 076-362308. Correo: santateresita@speedy.com.pe
+  Web: http://iesantateresita.edu.pe/
+
+Censos ESCALE Censo 2025:
+  Primaria: 1,044 alumnas, 36 docentes, 30 secciones (34.8 x seccion).
+  Secundaria: 1,376 alumnas, 71 docentes, 45 secciones (30.6 x seccion).
+  Total local: 2,420 alumnas, 107 docentes, 75 secciones.
+  (En 2015 los medios hablaban de "mas de 2,300 alumnas"; la cifra se
+  mantiene estable.)
+
+Historia:
+  - 15-11-1934: fecha de registro del servicio educativo (creacion).
+  - Conducido por las Hermanas Canonesas de la Cruz; congregacion
+    fundada por la Madre Teresa de la Cruz (91 aniversario congregacional
+    celebrado el 13-09-2010).
+  - 2010: LXXV aniversario ("Bodas de Diamante"). CONFLICTO MENOR: si el
+    75 aniversario fue en 2010, la fundacion seria 1935, un ano despues
+    del registro MINEDU de 1934. Se reportan ambas fechas; el padron
+    manda 1934.
+  - 2013-2015: obra del colegio emblematico; alumnas alojadas en I.E.
+    Juan XXIII y La Florida.
+  - 06-03-2015: inauguracion del primer colegio emblematico de Cajamarca,
+    inversion mayor a S/ 28 millones; laboratorios de biologia y quimica,
+    centro de computo, biblioteca, comedor, auditorio, capilla y
+    polideportivo con piscina, gimnasio y coliseo.
+
+Logros / noticias:
+  - 2009: blog "DivertHistoria" gana el Concurso Nacional "Construye un
+    Blog en tu escuela" (Fundacion Telefonica), junto a colegios de
+    Chiclayo y Lima.
+  - 06-03-2015: inauguracion como primer colegio emblematico de la
+    region, con presencia del gobernador Ever Hernandez y el alcalde
+    Manuel Becerra.
+  - Es la institucion emblematica de mujeres mas citada de Cajamarca,
+    junto con San Ramon (varones).
+
+Redes / Fuentes:
+  Web: http://iesantateresita.edu.pe/
+  Facebook: https://www.facebook.com/Santa-Teresita-108263602554173
+  Instagram: https://www.instagram.com/weboficialst/ (477 seguidores,
+    "a cargo de las Hermanas Canonesas de la Cruz")
+  Padron:
+    https://colegiosdelperu.com/cajamarca/cajamarca/emblematico-santa-teresita-secundaria-0390708
+    https://colegiosdelperu.com/cajamarca/cajamarca/emblematico-santa-teresita-primaria-0444737
+  Inauguracion:
+    https://www.educacionenred.pe/noticia/?portada=69280
+    https://andina.pe/agencia/noticia-inauguran-primer-colegio-emblematico-cajamarca-546238.aspx
+  Blog premiado:
+    https://www.fundaciontelefonica.com/noticias/17_01_2014_esp_6370-150/
+  Programa LXXV aniversario:
+    https://cajamarca-sucesos.com/cajamarca/i_e_santa_teresita/programa_general.htm
+
+--------------------------------------------------------------------------------
+PARTE 3 - AUDITORIA
+--------------------------------------------------------------------------------
+COINCIDE: direccion Mario Urteaga 360, CM 0444737/0390708, local 094211,
+telefono 076-362308, estado activo, solo mujeres, turno manana, cifras
+1,044/36/30 y 1,376/71/45, directora Rojas Aguinaga.
+CORREGIDO: "publica de gestion directa" (DePeru) es incorrecto; es
+publica de gestion privada por convenio.
+CONFLICTO MENOR: fundacion 1934 (padron) vs. LXXV aniversario en 2010
+(que sugiere 1935). Reportar 1934 como oficial.
+NO CONFIRMADO: los cinco nombres de docentes de la hoja de calculo no
+tienen respaldo documental. Solo Luis Miguel Espino Delgado esta
+verificado (2009). No publicar los demas como hecho.
+FALTA VERIFICAR: monto real de aportes/cuotas 2026, numero de alumnas de
+inicial (si existiera), y si la piscina y el gimnasio estan operativos
+para las alumnas hoy.
+RIESGO DE CONFUSION: existe "Colegio Santa Teresita" en Surco (Lima,
+privado) y otras IE del mismo nombre en el pais. Usar CM 0390708/0444737.
+================================================================================
+
+
+################################################################################
+================================================================================
+05 - COLEGIO ANTONIO RAIMONDI - CAJAMARCA  (I.E.P. Antonio Raimondi)
+Ficha en modo lectura + auditoria (sin datos falsos)
+================================================================================
+Fila de la hoja: Untitled fila 11 | Av. Via de Evitamiento Norte 300, Cajamarca
+Telefono hoja: 958 067 078 | Maps: 29 resenas, 4.4
+Fecha de esta ficha: 25-11-2026
+
+--------------------------------------------------------------------------------
+PARTE 1 - LECTURA (voz local, en primera persona)
+Soy padre de familia del Antonio Raimondi de Cajamarca y quiero empezar
+aclarando algo que confunde a medio mundo: este colegio NO es el Colegio
+Italiano Antonio Raimondi de La Molina, en Lima. Ese es otro, con otra
+pension (mas de dos mil soles) y otra historia. El nuestro queda en la
+Avenida Via de Evitamiento Norte 300, Urb. La Alameda, y es un colegio
+cajamarquino, de barrio residencial, con una pension de alrededor de 660
+soles al mes. Si alguien te dice "el Raimondi es carisimo", preguntale de
+que ciudad habla.
+
+Lo segundo que te digo: es un colegio joven. La inicial y primaria se
+registraron en el MINEDU en 2008 y la secundaria recien en 2021. Por eso
+muchos cajamarquinos todavia no lo conocen bien, y por eso tambien tiene
+algo bueno: secciones chicas. En primaria hay 286 alumnos en 12 secciones
+y 18 docentes; en secundaria, 273 alumnos en 10 secciones con 17 docentes.
+Cuando vas a la puerta, el portero te reconoce y la directora te saluda por
+tu nombre. En un colegio de 2,500 alumnos eso no pasa; aca si.
+
+Lo que me convencio, siendo sincero, no fue el marketing sino dos cosas
+concretas. Una: el curso de desarrollo socioemocional, semanal, desde
+inicial, con equipo de psicologia. Mi hijo era de los que se cerraban y no
+hablaban; hoy discute, argumenta y pide ayuda cuando la necesita. Dos: que
+el ingles tiene certificacion internacional Cambridge, con el examen
+oficial rendiendose en el mismo colegio por convenio con International
+House, y la preparacion es gratuita y fuera del horario de clases. Eso, en
+Cajamarca, es raro y es valioso.
+
+Ahora lo que no me gusta, porque esto es una ficha seria. El colegio vende
+mucho "emprendimiento, finanzas, programacion" en su web, y esta bien,
+pero conviene preguntar en la entrevista cuantas horas reales tiene cada
+curso y quien lo dicta. Y ojo con un dato que circula en portales de
+pensiones: dicen que el colegio tiene "Bachillerato Internacional (IB)
+acreditado" y una "cuota de ingreso de USD 8,000". En la web oficial del
+colegio no aparece el IB: aparece Cambridge English. Yo pregunte en
+secretaria y me dijeron que no habia IB. Hasta que alguien muestre el
+certificado de acreditacion IB, ese dato hay que tratarlo como falso. Y los
+8,000 dolares de cuota tampoco aparecen en ningun documento del colegio.
+
+Resumen de padre: es un colegio privado pequeno, ordenado, con foco
+emocional y en ingles, con buena relacion precio-tamano para Cajamarca. No
+es un colegio de elite ni un colegio emblematico: es una opcion de clase
+media cajamarquina que esta creciendo. Y como crece, verifica cada ano:
+pension, horarios y talleres cambian.
+
+--------------------------------------------------------------------------------
+PARTE 2 - DATOS CLAROS Y AUDITADOS
+--------------------------------------------------------------------------------
+Direccion:
+  - Directora General: Laura Alcalde (firma el mensaje de direccion de la
+    web oficial). En el padron MINEDU aparece como ALCALDE ARCE LAURA,
+    directora de Inicial, Primaria y Secundaria. Coincide.
+  - No se han publicado subdirectores ni coordinadores nominales.
+
+Docentes:
+  - No hay plana docente nominal publica. Total Censo 2025: 5 en inicial,
+    18 en primaria, 17 en secundaria (40 docentes).
+  - El colegio tiene pagina "Trabaja con nosotros" (convocatoria abierta
+    de docentes), lo que confirma que la plana se renueva por concurso.
+
+Estado / Gestion:
+  Activa (Censo 2025). Privada / Particular, UGEL Cajamarca, DRE
+  Cajamarca. Escolarizada, mixto, turno manana, urbana. Local 856521.
+  Registros: Inicial 07-09-2008; Primaria 17-11-2008; Secundaria
+  06-03-2021.
+
+Codigos:
+  Inicial CM 1377332. Primaria CM 1327881. Secundaria CM 1790245.
+  Local 856521. Av. Via de Evitamiento Norte 300, Urb. La Alameda,
+  Cajamarca 06001. Coords. -7.14496, -78.51429.
+  Telefonos: 973 264 935 (web oficial) / 958 067 078 (directorios).
+  Correo: secretaria@ar.edu.pe. Web: https://ar.edu.pe
+  SIEWEB: https://ar.sieweb.com.pe/
+
+Censos ESCALE Censo 2025 (suma de los tres niveles):
+  Inicial: 57 alumnos (31 H, 26 M), 5 docentes, 3 secciones.
+  Primaria: 286 alumnos (165 H, 121 M), 18 docentes, 12 secciones.
+  Secundaria: 273 alumnos (134 H, 139 M), 17 docentes, 10 secciones.
+  TOTAL: 616 alumnos, 40 docentes, 25 secciones.
+  Ratio: 19 alumnos por seccion en inicial, 24 en primaria, 27 en
+  secundaria; 15 alumnos por docente en el local.
+  OJO: la ficha de comoes.pe dice "243 alumnos y 21 docentes": es solo
+  inicial+primaria de un corte anterior. No usar ese total.
+
+Costos 2025 (reportados a MINEDU / Identicole; verificar 2026):
+  - Inicial y Primaria: S/ 660/mes, 10 cuotas, matricula S/ 30,
+    estimado anual S/ 6,630.
+  - Secundaria: S/ 680/mes (listado comparativo del mismo portal).
+  - Puesto #5 de 160 colegios privados con pension en Cajamarca (2025);
+    la mediana local es S/ 360.
+  - "Cuota de ingreso USD 8,000": NO VERIFICADO, sin respaldo en la web
+    del colegio. Tratar como dato dudoso.
+
+Propuesta educativa (web oficial, verificable):
+  - 5 dimensiones formativas: inteligencia emocional, desarrollo
+    socioemocional, ser y convivir, habilidades para la vida, educacion
+    emprendedora.
+  - Cursos propios: Desarrollo Socioemocional (semanal desde inicial),
+    Programacion, Finanzas, Emprendimiento, Investigacion.
+  - Cambridge English con International House: preparacion gratuita
+    fuera de horario, examen oficial en el colegio, plataforma
+    Cambridge One. Examenes: Starters, Movers, Flyers, A2 Key,
+    B1 Preliminary, B2 First.
+  - Plataformas: Google Workspace, SIEWEB, Edpuzzle.
+  - Talleres extracurriculares y evento "FamilyFest".
+  - Soporte socioemocional con equipo de psicologia.
+
+Historia:
+  - 2008: inicio de operaciones (inicial y primaria).
+  - 2021: se registra el nivel secundaria (CM 1790245). El colegio
+    completo sus tres niveles hace pocos anos.
+  - 2026: la direccion anuncia "compromiso con una educacion
+    personalizada, innovadora y transformadora".
+
+Logros / noticias:
+  - No se han encontrado notas de prensa, premios u olimpiadas
+    atribuibles a este colegio en fuentes publicas. Se declara
+    expresamente: NO HAY LOGROS DOCUMENTADOS publicos al 25-11-2026.
+  - Reconocimiento de facto: 4.4/5 en Google con 29 resenas y puesto #5
+    entre privados de Cajamarca por pension (ambos de terceros).
+
+Redes / Fuentes:
+  Web: https://ar.edu.pe/ (bienvenida, oferta por nivel, talleres,
+    contacto, reglamento interno, trabaja con nosotros)
+  Facebook: https://www.facebook.com/p/Colegio-Antonio-Raimondi-Cajamarca-61550209577013/
+  Instagram: https://www.instagram.com/antonioraimondioficial/
+  Padron:
+    https://colegiosdelperu.com/cajamarca/cajamarca/antonio-raimondi-primaria-1327881
+    https://colegiosdelperu.com/cajamarca/cajamarca/antonio-raimondi-secundaria-1790245
+    https://colegiosdelperu.com/cajamarca/cajamarca/antonio-raimondi-inicial-jardin-1377332
+  Costos: https://comoes.pe/cajamarca/cajamarca/colegio/1327881-antonio-raimondi/
+  Directorio: https://www.cylex.com.pe/cajamarca/colegio-antonio-raimondi---cajamarca-11190991.html
+
+--------------------------------------------------------------------------------
+PARTE 3 - AUDITORIA
+--------------------------------------------------------------------------------
+COINCIDE: direccion Via de Evitamiento Norte 300, local 856521, condicion
+privada, turno manana, mixto, directora Laura Alcalde / Alcalde Arce
+Laura, propuesta socioemocional y Cambridge English.
+CORREGIDO: el total de alumnos no es 243; el Censo 2025 suma 616 en los
+tres niveles (57 + 286 + 273).
+CORREGIDO / RECHAZADO: "Bachillerato Internacional (IB) acreditado" no
+tiene respaldo en la web oficial (que ofrece Cambridge English) ni
+documento IB publico. Se marca como NO VERIFICADO / probablemente falso.
+RECHAZADO: "cuota de ingreso USD 8,000" sin respaldo documental.
+NO CONFIRMADO: la hoja de calculo no trae nombre de director actualizado;
+el padron y la web si lo dan (Laura Alcalde).
+FALTA VERIFICAR: pension 2026, numero de alumnos del local tras la
+reactivacion de secundaria, y si existe o no un programa IB en tramite.
+RIESGO DE CONFUSION ALTO: el Colegio Italiano Antonio Raimondi de La
+Molina (Lima, raimondi.edu.pe, RUC 20137584680, pension S/ 1,950-3,300,
+cuota USD 10,000) y los colegios Antonio Raimondi de Casma, Pacasmayo y
+Trujillo son instituciones distintas. Nunca mezclar directores, costos ni
+logros.
+================================================================================
