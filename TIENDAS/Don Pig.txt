@@ -3,179 +3,163 @@ Macro-Sector: 01_Gastronomia_y_Cafeterias
 Rubro: Comida_Rapida_y_Snacks
 Subrubro: Hamburguesas_y_Sandwiches
 Categoría Maps: Restaurante de comida rápida
-Dirección: RFXR+QRQ Plazuela San Luis, Cajamarca 06002
+Dirección: Plazuela San Luis, Cajamarca 06002
 Teléfono: 965 179 940
-Rating:
-Reseñas:
-Sitio web:
-Latitud: -7.150548799999999
+Rating: 5.0
+Reseñas: 2
+Sitio web: 
+Latitud: -7.1505488
 Longitud: -78.507882
 Google Maps: https://www.google.com/maps?cid=9844833728261617092
 Place Id: ChIJ6S_eXwBbspERxHXRnR3gn4g
-Fotos: Don Pig.jpg, Don Pig-1.jpg
-Link foto: https://lh3.googleusercontent.com/grass-proxy/AIM7gW3LuDGksdOtjoYkXL-vpdZ2_XEI1hrTjNOn5IGJVsIRUc3Y2sF-D9L8HA0OKA_czOTuyOQJQSJsuFu8CF0TeU2vXqAxWJcKhB1bsvJUjZkBSrR1g7gvuY7D2PWCIzVYYXO50pX6W4tJgbDq2jkEsZAOV1yBQl1PdT8uHfCF4cwJURpiTO1rZZKUWw=w1600-h1200-k-no
+Fotos: Don Pig.jpg
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+¡Te damos la más cálida bienvenida a Don Pig! Situados frente a la pintoresca Plazuela San Luis, somos la sanguchería de Cajamarca especializada en la sublime cocina del cerdo. Deléitate con nuestros afamados sándwiches de chicharrón crocante con camote frito, pulled pork desmechado en pan brioche, costillas glaseadas en salsa barbecue, hamburguesas artesanales y salchipapas contundentes con papas nativas doradas. Visítanos y disfruta de una experiencia gastronómica llena de jugosidad, sabor y tradición.
 ================================================================================
-================================================================================
-Texto de bienvenida:
-En Don Pig te esperamos con las mejores especialidades de cerdo crujiente, chicharrones dorados y sándwiches contundentes en la hermosa Plazuela San Luis de Cajamarca. Nuestra cocina rinde tributo a la tradición porcina con cortes seleccionados de lechón, panceta crocante, salchipapas especiales y salsas caseras de sazón inconfundible. Disfruta de un ambiente tradicional, porciones bien servidas y atención cordial para compartir con amigos o en familia. ¡Ven a deleitarte con el verdadero sabor del cerdo bien preparado!
-================================================================================
 
-1. ¿Qué especialidades de cerdo y chicharrón destacan en la carta?
+--------------------------------------------------------------------------------
+20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
+--------------------------------------------------------------------------------
 
-Nuestra carta resalta por el chicharrón de cerdo dorado al estilo tradicional cajamarquino, cocinado en sus propios jugos con piel crocante y carne suave y jugosa. Se sirve acompañado de camotes dorados y mote fresco.
+1. ¿Qué especialidades de sándwiches de cerdo artesanal y pulled pork preparan?
+En nuestra cocina preparamos sándwiches de chicharrón con panceta tierna cocida a fuego lento y dorada al momento en pan francés crujiente con camote.
 
-Ofrecemos también sándwiches de lechón al cilindro con cebolla morada en salsa criolla, panceta crocante al estilo caja china y salchipapas especiales con trozos de tocino y chorizo parrillero. La abundancia caracteriza cada plato.
+Servimos además pulled pork desmechado cocinado por más de ocho horas con especias ahumadas, salsa barbecue dulce y ensalada coleslaw en pan brioche suave.
 
-Para grupos de comensales, preparamos fuentes mixtas de chicharrón y piqueos porcinos listas para compartir al centro de la mesa con hierbabuena fresca.
+Don Pig cuida minuciosamente la terneza y jugosidad de la carne de cerdo asegurando un balance inigualable entre crocancia exterior y sabor ahumado.
 
-2. ¿A qué distancia se encuentra Don Pig respecto al Centro Comercial El Quinde?
+2. ¿A qué distancia se encuentra el establecimiento respecto a MegaPlaza El Quinde?
+El local se sitúa a solo 764 metros en línea recta hacia el norte del centro comercial MegaPlaza El Quinde.
 
-El local se sitúa a solo 537 metros (0.54 km) del C.C. El Quinde, representando una caminata de unos seis a siete minutos cruzando la zona de San Luis. Es un trayecto corto, plano y enteramente accesible.
+Esta proximidad permite un trayecto vehicular de apenas dos a tres minutos transitando por la avenida Hoyos Rubio y vías colindantes a la plazuela.
 
-Quienes realizan compras o trámites en las tiendas departamentales pueden acercarse en breves instantes para disfrutar de un chicharrón caliente o sándwich al paso. La proximidad permite comer sabroso sin alejarse de la zona comercial.
+Dicha cercanía resulta muy cómoda para quienes realizan compras o paseos en el sector este y buscan almorzar o cenar sándwiches de cerdo excepcionales.
 
-Esta cercanía convierte al establecimiento en una opción preferida frente a las alternativas de comida rápida convencional.
+3. ¿Cómo preparan el clásico sándwich de chicharrón cajamarquino?
+Seleccionamos cortes nobles de panceta de cerdo alimentado con granos naturales, cocinándolos en su propia grasa hasta lograr una piel sumamente crujiente.
 
-3. ¿Cuáles son las salsas caseras y guarniciones que acompañan el cerdo?
+Montamos las piezas doradas sobre rodajas de camote frito dulce en pan campesino recién horneado, coronando con abundante salsa criolla de cebolla y hierbabuena.
 
-Preparamos una cotizada salsa criolla con cebolla morada finamente cortada en pluma, ají amarillo fresco, hojas de hierbabuena y zumo de limón recién exprimido. Es el acompañamiento indispensable para cortar la grasa del cerdo.
+Este tradicional sándwich representa un clásico indiscutible tanto para desayunos de fin de semana como para meriendas y cenas sustanciosas.
 
-Disponemos asimismo de crema de ají cajamarquino elaborada con huacatay y queso fresco andino, mayonesa casera densa, salsa tártara y mostaza dijon. Todas las cremas se elaboran diariamente en cocina con insumos frescos.
+4. ¿Qué variedad de costillitas barbecue y hamburguesas artesanales tienen en carta?
+Servimos costillitas de cerdo baby back glaseadas con salsa barbecue ahumada casera, servidas con papas nativas fritas y choclo desgranado con mantequilla.
 
-Los comensales disponen de porciones generosas de mote cocido suave, camote frito caramelizado y papas nativas doradas para acompañar cada pedido.
+En hamburguesas ofrecemos mezclas especiales de carne de cerdo y res a la parrilla con queso cheddar fundido, tocino crujiente y cebolla caramelizada.
 
-4. ¿Qué bebidas tradicionales y refrescos ofrecen en el menú?
+Cada plato se despacha con guarniciones abundantes satisfaciendo a los amantes de las carnes asadas con preparaciones contundentes y deliciosas.
 
-Servimos chicha morada natural preparada con maíz morado andino, cáscara de piña, canela y clavo de olor, servida bien fría para realzar la digestión de las carnes de cerdo. Es la bebida más solicitada de la casa.
+5. ¿Cuál es la distancia entre el local y la histórica Plaza de Armas de Cajamarca?
+El establecimiento está ubicado a 1.10 kilómetros en línea recta en dirección noreste respecto a la Plaza de Armas de Cajamarca.
 
-Contamos además con refrescos de maracuyá fresco, bebidas gaseosas heladas en presentaciones personales y familiares para saciar la sed al instante. Las servimos a temperatura ideal o con cubos de hielo.
+El recorrido vehicular en taxi o mototaxi toma habitualmente entre tres y cuatro minutos atravesando las calles de conexión del centro urbano.
 
-Para las mañanas y noches frescas, preparamos café pasado con granos cajamarquinos e infusiones calientes digestivas de anís y manzanilla.
+Esta localización permite disfrutar de una comida sabrosa frente a una plazuela tranquila sin padecer las congestiones directas del casco colonial.
 
-5. ¿Cuál es la separación exacta hacia el Centro Comercial Real Plaza?
+6. ¿Qué cremas caseras y salsas especiales acompañan las porciones de sándwich?
+Acompañamos cada orden con salsa criolla fresca preparada al instante con cebolla morada, ají limo y limón, crema tártara casera y ají de pollería.
 
-La separación hacia el C.C. Real Plaza Cajamarca es de aproximadamente 1037 metros (1.04 km), lo que toma unos diez a doce minutos a pie o tres minutos en mototaxi. Ambos puntos se conectan por vías urbanas continuas.
+Disponemos asimismo de mayonesa ahumada, mostaza dulce, salsa golf y salsa barbecue elaborada en casa con toques sutiles de miel andina.
 
-Permite a los comensales visitar nuestra sede tras realizar compras o actividades recreativas en el mall. El tránsito vehicular entre ambos puntos es continuo y fluido durante todo el día.
+Los comensales pueden solicitar sus salsas preferidas en porciones generosas para personalizar cada bocado según su gusto particular.
 
-Constituye una magnífica parada para disfrutar de la auténtica sazón de cerdo doradito en un entorno tradicional como la Plazuela San Luis.
+7. ¿Qué opciones de salchipapas con salchichas artesanales preparan en su cocina?
+Servimos salchipapas con papas nativas cajamarquinas cortadas a mano, fritas en aceite limpio y mezcladas con rodajas de salchicha parrillera artesanal.
 
-6. ¿Cómo se solicitan pedidos para llevar y despachos a domicilio?
+Ofrecemos también la salchipapa especial Don Pig que incluye trozos de chicharrón crujiente, huevo frito montado y abundante queso andino derretido.
 
-Los clientes pueden realizar sus pedidos en el mostrador de la Plazuela San Luis y esperar en el salón mientras el maestro chicharronero alista las porciones calientes. El empaque térmico preserva el aroma y la crocancia.
+Es un plato sumamente cotizado para compartir entre amigos o para una cena contundente al finalizar una jornada de trabajo o estudio.
 
-Para entregas a domicilio en Cajamarca, coordinamos envíos comunicándose directamente al WhatsApp oficial del establecimiento. Los motorizados de reparto transportan las órdenes en mochilas térmicas protegidas.
+8. ¿Qué distancia separa a la sanguchería del Mercado Central de Cajamarca?
+El negocio dista 1.12 kilómetros en línea recta en dirección noreste respecto al tradicional Mercado Central de Cajamarca.
 
-Aconsejamos realizar los pedidos con anticipación en horarios matutinos de fin de semana para garantizar una llegada ágil a su mesa.
+El tiempo de traslado en vehículo de servicio público o mototaxi promedia entre cuatro y cinco minutos por las vías transversales urbanas.
 
-7. ¿Qué alternativas se sugieren para comensales que prefieren opciones de ave?
+Esta conveniente ubicación brinda a los vecinos de San Luis y zonas aledañas una alternativa gastronómica de primer nivel sin desplazarse al mercado.
 
-Disponemos de sándwiches y porciones preparados con pechuga de pollo a la plancha marinada con hierbas finas, acompañada de lechuga fresca y tomate. Es una opción sumamente liviana y nutritiva.
+9. ¿Cómo es el ambiente del local y la vista frente a la Plazuela San Luis?
+El establecimiento cuenta con mesas confortables, buena iluminación y una vista directa a la apacible y arbolada Plazuela San Luis.
 
-Ofrecemos también porciones de papas nativas fritas servidas con ensalada criolla fresca y queso andino a la plancha para quienes buscan opciones variadas. La cocina atiende con gusto peticiones especiales.
+Mantenemos un ambiente acogedor, limpio y ventilado que invita al disfrute relajado de sándwiches calientes en un entorno urbano apacible.
 
-Basta con comunicar al personal de atención las preferencias al realizar la orden para que preparemos el platillo según su indicación.
+Don Pig se distingue por la calidez en el trato y la rapidez en el servicio asegurando que cada comensal viva una experiencia placentera y sabrosa.
 
-8. ¿Qué distancia media hay hacia el Mercado Central de Cajamarca?
+10. ¿Se pueden solicitar pedidos para llevar o empaque seguro para entrega rápida?
+Empacamos todos nuestros sándwiches, costillas barbecue y salchipapas en cajas térmicas rígidas que resguardan la temperatura y textura crujiente.
 
-El restaurante se localiza a 1183 metros (1.18 km) del Mercado Central de Cajamarca, un recorrido a pie de unos doce a catorce minutos o cuatro minutos en mototaxi. Conecta el centro histórico con el barrio de San Luis.
+La salsa criolla y las cremas caseras se entregan en recipientes separados para evitar que la humedad afecte la crocancia del pan campesino.
 
-Facilita que quienes transitan por el centro tradicional se trasladen con prontitud hacia esta plazuela para deleitarse con chicharrones y sándwiches tradicionales. Las vías de comunicación son amplias y de fácil circulación.
+Los clientes pueden coordinar sus pedidos previamente vía telefónica para recogerlos en barra en cuestión de minutos sin demoras innecesarias.
 
-La proximidad intermedia permite disfrutar de un ambiente apacible sin el congestionamiento de las calles comerciales centrales.
+11. ¿A qué distancia aproximada se encuentra el local de la Colina Santa Apolonia?
+El establecimiento está situado a 1.56 kilómetros en línea recta en dirección noreste respecto al mirador turístico de la Colina Santa Apolonia.
 
-9. ¿Tienen promociones o fuentes familiares para compartir?
+En mototaxi o taxi el trayecto se realiza en aproximadamente cinco a seis minutos transitando por el circuito de vías del sector centro-norte.
 
-Ofrecemos combos personales que incluyen sándwich de chicharrón o lechón, porción de camotes dorados y una bebida personal helada a un precio sumamente competitivo. Son muy elegidos para desayunos y lonches.
+Representa una escala ideal para coronar una tarde turística en los miradores con una cena abundante basada en la mejor gastronomía porcina.
 
-Presentamos también fuentes familiares por kilo o medio kilo de chicharrón que vienen acompañadas de abundante mote, camote frito, salsa criolla y bebidas familiares. Representan una alternativa de gran rendimiento económico para grupos.
+12. ¿Qué bebidas frías y refrescos tienen para acompañar las carnes de cerdo?
+Disponemos de jarras de chicha morada tradicional preparada en casa con maíz morado, piña y clavo, además de refresco helado de maracuyá y limonada.
 
-Las promociones vigentes se comunican de manera destacada en la cartelera del local y a través de recomendaciones de nuestro personal.
+Ofrecemos también cervezas industriales y artesanales nacionales bien frías, aguas minerales con y sin gas y gaseosas en formatos personales y familiares.
 
-10. ¿De qué formas se puede pagar la cuenta en mostrador?
+Nuestras bebidas frescas ayudan a limpiar el paladar y equilibrar los sabores intensos y caramelizados de las preparaciones de cerdo a la parrilla.
 
-Aceptamos pagos en efectivo en billetes y monedas nacionales, agradeciendo a los clientes contar con cambio sencillo para agilizar las operaciones en caja. Se hace entrega inmediata del comprobante electrónico respectivo.
+13. ¿Qué medios de pago electrónicos y modalidades aceptan en el mostrador?
+Aceptamos pagos móviles inmediatos a través de las aplicaciones digitales Yape y Plin mediante la lectura del código QR oficial disponible en caja.
 
-Recibimos transferencias móviles mediante Yape y Plin mediante la lectura del código QR expuesto en la barra de atención. Es un medio sumamente ágil, práctico y seguro para pagar directamente desde el teléfono móvil.
+Procesamos cobros con tarjetas bancarias de débito y crédito a través de terminales electrónicos inalámbricos y recibimos pagos en efectivo con cambio en soles.
 
-Para consumos mayores es factible consultar en mostrador sobre la disponibilidad de cobro con tarjetas bancarias mediante terminal electrónico POS.
+Emitimos boletas electrónicas de venta garantizando formalidad comercial, transparencia y rapidez en cada cuenta atendida.
 
-11. ¿Cuántos metros median hacia el histórico Cuarto del Rescate?
+14. ¿Cuál es la distancia hacia las instalaciones del Terminal Terrestre de Cajamarca?
+El establecimiento se localiza a 1.62 kilómetros en línea recta hacia el norte de las instalaciones del Terminal Terrestre de Cajamarca.
 
-La distancia hacia el Cuarto del Rescate es de 1258 metros (1.26 km), lo que equivale a un trayecto de unos cuatro a cinco minutos en taxi o mototaxi. Une el monumento incaico con la Plazuela San Luis.
+El tiempo de recorrido vehicular en taxi o mototaxi oscila habitualmente entre cinco y siete minutos utilizando las avenidas principales de conexión.
 
-Permite a los turistas conocer los recintos históricos durante el día y desplazarse luego hacia nuestra sede para una experiencia gastronómica típica cajamarquina. La conexión vial es directa y segura.
+Dicha cercanía resulta muy conveniente para los viajeros que acaban de llegar a Cajamarca y buscan degustar un auténtico sándwich de chicharrón andino.
 
-Desde los alrededores de la plazuela se puede conseguir transporte público con facilidad hacia cualquier punto de la urbe.
+15. ¿Cómo garantizan la frescura de la carne de cerdo y la higiene en cocina?
+Adquirimos carne de cerdo fresca proveniente de granjas avícolas y porcinas formalmente certificadas cumpliendo rigurosas pautas de salubridad.
 
-12. ¿Qué controles sanitarios y de calidad se aplican en la preparación?
+Las áreas de cocina, planchas y freidoras se someten a rutinas diarias de limpieza profunda y se emplean aceites vegetales limpios de primer uso.
 
-En Don Pig aplicamos estrictos procedimientos higiénicos que contemplan la desinfección continua de pailas, tablas de corte y mesadas de trabajo. El personal viste uniforme reglamentario con cofias y mandiles limpios.
+Don Pig mantiene un compromiso absoluto con la salud y bienestar de sus clientes ofreciendo alimentos frescos, jugosos y totalmente confiables.
 
-Los cortes de carne de cerdo provienen de camales y distribuidores autorizados con control veterinario riguroso, garantizando inocuidad total. Los vegetales para las salsas se desinfectan minuciosamente antes del corte.
+16. ¿Se pueden coordinar reservas de mesas para celebraciones de cumpleaños o grupos?
+Coordinamos reservas de mesas con anticipación para grupos de amigos, cumpleaños o reuniones familiares que desean disfrutar de tablas mixtas de cerdo.
 
-La cocción a fuego prolongado y altas temperaturas asegura la total cocción y salubridad de cada pieza de carne servida.
+Brindamos facilidades para acordar fuentes de chicharrón, rondas de sándwiches y jarras de chicha morada asegurando una atención fluida y sin esperas.
 
-13. ¿Se atienden visitas grupales o desayunos familiares de fin de semana?
+El equipo de salón se esmera por brindar una atención cercana y eficiente procurando que los comensales disfruten de un momento festivo y ameno.
 
-Recibimos con entusiasmo a familias y grupos de amigos que acostumbran reunirse para los tradicionales desayunos chicharroneros de domingo o cenas informales. El salón cuenta con mesas que se pueden agrupar.
+17. ¿Atienden pedidos a domicilio con cobertura en los barrios circundantes?
+Contamos con servicio de delivery motorizado que traslada los pedidos embalados directamente a los hogares y oficinas de los sectores este y norte.
 
-Aconsejamos comunicar la llegada de grupos numerosos con cierta anticipación vía WhatsApp para organizar el espacio y alistar las fuentes necesarias. Nuestro personal ofrece atención rápida y cordial.
+Los repartidores utilizan mochilas térmicas que protegen la temperatura de la comida asegurando que los sándwiches lleguen crujientes y listos para comer.
 
-El ambiente festivo de la plazuela brinda un entorno inmejorable para disfrutar de una comida compartida en familia.
+Esta modalidad facilita disfrutar de la calidad y sazón de nuestra casa sin necesidad de desplazarse de la comodidad del hogar.
 
-14. ¿Qué tan lejos se ubica la Iglesia San Francisco?
+18. ¿Disponen de café caliente o bebidas tradicionales para las mañanas y noches?
+Servimos café caliente pasado tradicional en taza térmica para acompañar los sándwiches de chicharrón durante las mañanas frescas de la sierra.
 
-Nos encontramos a 1350 metros (1.35 km) de la Iglesia San Francisco, demandando un trayecto de unos cinco minutos en mototaxi o taxi. Conecta el complejo religioso monumental con el sector de San Luis.
+Disponemos asimismo de infusiones naturales de hierbaluisa y menta silvestre digestivas ideales para concluir la merienda con sensación de alivio.
 
-Los visitantes que admiran la arquitectura virreinal pueden acercarse a nuestra sede para recargar energías con chicharrones doraditos y café caliente. La senda discurre por calles tradicionales pavimentadas.
+Estas alternativas calientes proporcionan calor y confort estomacal complementando armoniosamente la experiencia culinaria.
 
-Representa un punto de escala sumamente atractivo para los amantes del buen comer tradicional en Cajamarca.
+19. ¿Cuál es el horario de atención al público durante la semana y días feriados?
+Atendemos de lunes a domingo desde tempranas horas de la mañana para los desayunos de chicharrón hasta avanzadas horas de la noche de forma continuada.
 
-15. ¿Qué cortes de carne y técnicas de cocción se utilizan?
+Durante feriados patrios, carnavales y festividades locales mantenemos atención ininterrumpida para recibir a los numerosos comensales y turistas.
 
-Seleccionamos pancetas, costillares y cortes de pierna de cerdo fresco con la proporción ideal de carne magra y grasa para lograr una fritura dorada exterior con carne tierna y jugosa al interior.
+La constancia y puntualidad de nuestros horarios aseguran a los clientes encontrar siempre carnes crujientes y pan recién horneado en cualquier jornada.
 
-La cocción se inicia hirviendo la carne con sal marina y especias aromáticas en pailas de fondo grueso hasta que el agua se evapora y el cerdo se dora en su propia manteca natural. No añadimos grasas industriales externas.
+20. ¿Qué hace tan especial la experiencia gastronómica en esta sanguchería?
+La maestría en el punto exacto de cocción de la carne de cerdo, la frescura de la salsa criolla y el pan crujiente definen su éxito rotundo.
 
-Este método ancestral garantiza el auténtico sabor y la textura crocante que distinguen al verdadero chicharrón tradicional cajamarquino.
+La combinación de una ubicación privilegiada frente a la plazuela con porciones contundentes y sazón casera hace que cada visita sea memorable.
 
-16. ¿Cómo es el ambiente y la comodidad en el local de la Plazuela San Luis?
-
-El restaurante ofrece un salón acogedor y ventilado frente a la arboleda de la Plazuela San Luis, brindando una vista apacible y agradable para los comensales. El entorno es tranquilo y lleno de tradición barrial.
-
-El personal atiende con esmero y cortesía en todo momento, preocupándose por mantener despejadas las mesas y proveer salsa criolla adicional a solicitud de los clientes. El ambiente es familiar y muy animado.
-
-Disponemos de servicios sanitarios limpios y acondicionados para el uso de nuestros visitantes durante su estancia.
-
-17. ¿Qué posibilidades de estacionamiento existen alrededor de la plazuela?
-
-El contorno de la Plazuela San Luis dispone de calzadas donde es factible estacionar temporalmente motocicletas, mototaxis y automóviles particulares en zonas autorizadas. El sector cuenta con buena visibilidad e iluminación.
-
-Quienes se desplazan para recoger pedidos pueden detenerse con facilidad unos minutos frente al establecimiento sin perturbar el tránsito vehicular. La tranquilidad de la zona brinda seguridad a los conductores.
-
-Se recomienda estacionar de forma ordenada respetando los accesos peatonales de la plazuela para una experiencia agradable.
-
-18. ¿Cómo protegen los pedidos de chicharrón en los envíos para llevar?
-
-Empacamos el chicharrón y los camotes en cajas de cartón térmico con respiraderos que retienen el calor sin condensar vapor, impidiendo que la piel crocante se ablande en el trayecto. Cada pieza viaja crujiente.
-
-La salsa criolla y el mote se suministran en recipientes sellados independientes para que no humedezcan las carnes ni se derramen en la bolsa de entrega. Las cremas caseras van en envases plásticos seguros.
-
-Los motorizados transportan los pedidos en mochilas térmicas rígidas para garantizar una entrega caliente en la puerta del hogar.
-
-19. ¿Cómo surgió y evolucionó la propuesta gastronómica de Don Pig?
-
-Don Pig nació con el firme propósito de revalorar la tradición del chicharrón y el lechón cajamarquino en formato de comida rápida y piqueos de alta calidad, al alcance de todos los vecinos del sector San Luis.
-
-A lo largo de su trayectoria, el negocio ha conquistado el paladar de locales y visitantes gracias a la honestidad de sus recetas y la generosidad de sus porciones. La calidad constante respalda el crecimiento de la marca.
-
-Seguimos innovando en empaques y servicio para llevar el auténtico sabor del cerdo dorado a cada mesa cajamarquina.
-
-20. ¿En qué franja horaria atienden al público comensal?
-
-Atendemos al público de lunes a domingo desde las primeras horas de la mañana para los tradicionales desayunos chicharroneros hasta la noche para cenas al paso. La paila permanece activa durante toda la jornada.
-
-Durante los fines de semana la afluencia se incrementa notablemente, por lo que recomendamos acudir temprano o encargar pedidos anticipados por WhatsApp. Toda la carta de cerdo y piqueos se encuentra disponible.
-
-Para consultar sobre horarios en feriados especiales o apartar porciones por kilo, los comensales pueden escribir a nuestras líneas oficiales.
+Don Pig se posiciona como el templo del sándwich de cerdo por excelencia en Cajamarca para deleitar el paladar con sabor, generosidad y autenticidad.
