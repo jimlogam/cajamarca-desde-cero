@@ -1,0 +1,226 @@
+Nombre: Mi Jugueria
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Cafetería, Juguería
+Dirección: Luis Reyna Farge 187, Cajamarca 06003
+Teléfono: 
+Rating: 4.5
+Reseñas: 4
+Sitio web: 
+Latitud: -7.1668109
+Longitud: -78.5075067
+Google Maps: https://www.google.com/maps?cid=7115018477842890270
+Place Id: ChIJP5VS7xxbspERHn4qzpufvWI
+Fotos: Mi Jugueria.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KqO6qJTzII5UTPEWEZHWqg&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=103.219894&pitch=3.9334645&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cordial bienvenida a Mi Jugueria, tu rincón predilecto de salud, energía y nutrición natural en la zona de Luis Reyna Farge en Cajamarca. Ubicados en Luis Reyna Farge 187, cerca de la Universidad Nacional de Cajamarca, te ofrecemos jugos de fruta natural recién exprimidos, extractos depurativos, batidos cremosos con leche, ensaladas y sándwiches calientes preparados con pulcritud y calidez andina. Ven y empieza tus mañanas con vitalidad.
+================================================================================
+
+--------------------------------------------------------------------------------
+20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PREGUNTA 1: ¿Cuál es el concepto culinario y la propuesta saludable de este establecimiento?
+--------------------------------------------------------------------------------
+RESPUESTA 1:
+Nuestra propuesta se enfoca en brindar una alimentación fresca, nutritiva y revitalizante a base de frutas andinas y tropicales selectas.
+
+Preparamos jugos al momento, extractos terapéuticos depurativos, desayunos completos y sándwiches artesanales al gusto del comensal.
+
+El local resalta por su ambiente pulcro, la rapidez de atención y tarifas sumamente económicas para vecinos y estudiantes de la zona.
+
+--------------------------------------------------------------------------------
+PREGUNTA 2: ¿A cuántos metros de distancia se encuentra este local de la Universidad Nacional de Cajamarca?
+--------------------------------------------------------------------------------
+RESPUESTA 2:
+El establecimiento se sitúa a aproximadamente 1.21 km (1215 metros) de distancia de las puertas de la Universidad Nacional de Cajamarca.
+
+Se puede llegar en unos quince minutos de caminata constante o en un breve trayecto de cuatro minutos en mototaxi o transporte urbano.
+
+Muchos estudiantes universitarios y docentes acuden a nuestro mostrador para tomar un desayuno contundente antes de iniciar sus clases.
+
+--------------------------------------------------------------------------------
+PREGUNTA 3: ¿Cuáles son las bebidas frutales y combinaciones más pedidas de la carta?
+--------------------------------------------------------------------------------
+RESPUESTA 3:
+Entre las opciones más aclamadas sobresalen el clásico jugo especial con malta y huevo, el surtido tradicional y fresa con leche del valle.
+
+Elaboramos combinaciones de papaya con piña golden, plátano de seda con leche, mango norteño y lúcuma cremosa recién licuada.
+
+En Mi Jugueria cada cliente puede elegir el espesor de la bebida y solicitarla al natural o con el punto de dulzor de su preferencia.
+
+--------------------------------------------------------------------------------
+PREGUNTA 4: ¿Qué opciones de sándwiches y bocadillos calientes preparan para acompañar?
+--------------------------------------------------------------------------------
+RESPUESTA 4:
+Disponemos de sándwiches calientes en pan crujiente rellenos con pechuga de pollo deshilachada, jamón del país con sarsa criolla y queso mantecoso.
+
+Servimos triples frescos con palta y huevo duro, tostadas recién doradas con mantequilla del valle y crujientes empanadas caseras.
+
+Cada bocadillo se prensa y calienta al instante para garantizar un aroma apetitoso, textura crocante y temperatura muy agradable.
+
+--------------------------------------------------------------------------------
+PREGUNTA 5: ¿Cuántos metros de trayecto separan el local del centro comercial El Quinde?
+--------------------------------------------------------------------------------
+RESPUESTA 5:
+Una distancia aproximada de 1.34 km (1343 metros) de trayecto separa nuestro local de las instalaciones del centro comercial El Quinde.
+
+El recorrido en vehículo o transporte público toma cerca de cuatro a cinco minutos a lo largo de las vías conectadas del sector sur.
+
+Esta cercanía permite a los residentes de la zona acceder fácilmente a un refrigerio fresco y natural fuera del bullicio comercial.
+
+--------------------------------------------------------------------------------
+PREGUNTA 6: ¿Cómo aseguran la limpieza y frescura de las frutas en barra?
+--------------------------------------------------------------------------------
+RESPUESTA 6:
+Seleccionamos cada mañana frutas maduras y frescas directamente de productores y distribuidores agrícolas de los valles cajamarquinos.
+
+Aplicamos rigurosos procedimientos de lavado, desinfección y almacenamiento refrigerado antes de pelar y fraccionar cada fruta.
+
+Las licuadoras y superficies de preparación se higienizan continuamente entre servicio y servicio para salvaguardar la pureza de cada bebida.
+
+--------------------------------------------------------------------------------
+PREGUNTA 7: ¿Tienen alternativas de bebidas endulzadas de manera natural o sin azúcar refinada?
+--------------------------------------------------------------------------------
+RESPUESTA 7:
+Brindamos la opción de endulzar las bebidas con miel pura de abeja de la campiña, algarrobina norteña o edulcorantes naturales.
+
+Los comensales que siguen planes nutricionales específicos pueden solicitar sus extractos y jugos al natural, sin ningún endulzante añadido.
+
+Nuestro equipo de atención orienta amablemente a cada visitante para personalizar la preparación según sus hábitos saludables.
+
+--------------------------------------------------------------------------------
+PREGUNTA 8: ¿A qué distancia de caminata se halla el histórico monumento del Cuarto del Rescate?
+--------------------------------------------------------------------------------
+RESPUESTA 8:
+El célebre monumento del Cuarto del Rescate se halla a aproximadamente 1.40 km (1400 metros) de distancia de caminata desde nuestro local.
+
+La caminata hacia el casco histórico toma entre diecisiete y dieciocho minutos a paso moderado transitando por calles residenciales.
+
+Constituye una referencia urbana clara para quienes se desplazan entre el barrio de Luis Reyna Farge y el centro monumental de Cajamarca.
+
+--------------------------------------------------------------------------------
+PREGUNTA 9: ¿Cuáles variedades de ensaladas de fruta y complementos energéticos ofrecen?
+--------------------------------------------------------------------------------
+RESPUESTA 9:
+Preparamos generosas fuentes de ensalada de fruta de estación picada al momento con papaya, melón, piña, plátano, yogur natural y miel.
+
+Incorporamos complementos energéticos como semillas de chía, polen andino, maca, frutos secos seleccionados y trozos de queso fresco.
+
+En Mi Jugueria estas ensaladas representan una alternativa ligera, completa y nutritiva ideal para desayunos o meriendas reconstituyentes.
+
+--------------------------------------------------------------------------------
+PREGUNTA 10: ¿Qué medios de pago electrónicos y facilidades aceptan en el mostrador?
+--------------------------------------------------------------------------------
+RESPUESTA 10:
+Aceptamos transferencias inmediatas mediante billeteras digitales escaneando códigos QR de Yape y Plin dispuestos en el mostrador.
+
+Recibimos dinero en efectivo en moneda nacional contando con sencillo suficiente para agilizar las operaciones de cobro en horas punta.
+
+Entregamos boletas de venta para asegurar transparencia, formalidad y respaldo tributario en todas las compras realizadas por los clientes.
+
+--------------------------------------------------------------------------------
+PREGUNTA 11: ¿Cuánto trayecto en distancia media hacia el monumental templo de San Francisco?
+--------------------------------------------------------------------------------
+RESPUESTA 11:
+Media una distancia de aproximadamente 1.45 km (1447 metros) de trayecto hasta el conjunto monumental de la Iglesia San Francisco.
+
+El desplazamiento en vehículo o transporte urbano toma cerca de cinco a seis minutos conectando con el núcleo monumental de la ciudad.
+
+Es una referencia muy útil para orientar a turistas y vecinos que transitan habitualmente entre ambos sectores de la ciudad.
+
+--------------------------------------------------------------------------------
+PREGUNTA 12: ¿Disponen de servicio para llevar con envases térmicos adecuados?
+--------------------------------------------------------------------------------
+RESPUESTA 12:
+Contamos con vasos descartables térmicos resistentes con tapas herméticas especialmente diseñadas para transportar jugos y extractos sin derrames.
+
+Acondicionamos los sándwiches y porciones de fruta en empaques higiénicos que conservan la temperatura y frescura de los alimentos.
+
+Vecinos, universitarios y trabajadores del sector solicitan frecuentemente sus pedidos para llevar y consumirlos en sus hogares o centros de estudio.
+
+--------------------------------------------------------------------------------
+PREGUNTA 13: ¿Cuáles bebidas calientes tradicionales forman parte de la carta matutina?
+--------------------------------------------------------------------------------
+RESPUESTA 13:
+Servimos café pasado tradicional cajamarquino de aroma intenso, café con leche fresca del valle bien caliente y espeso chocolate artesanal.
+
+Mantenemos infusiones calientes de hierbas aromáticas como muña andina, manzanilla fresca, hierbaluisa, menta y anís serrano reconfortante.
+
+Estas bebidas son ideales para acompañar los desayunos en las mañanas frescas cajamarquinas y brindar una sensación reconfortante.
+
+--------------------------------------------------------------------------------
+PREGUNTA 14: ¿Qué distancia de recorrido separa este establecimiento del Mirador del Cerro Santa Apolonia?
+--------------------------------------------------------------------------------
+RESPUESTA 14:
+Una distancia de 1.50 km (1504 metros) de recorrido separa el establecimiento del inicio de las escalinatas de Santa Apolonia.
+
+Se puede llegar en unos dieciocho a veinte minutos a pie o en menos de seis minutos mediante transporte urbano por calles directas.
+
+Muchos vecinos de la zona acostumbran iniciar sus caminatas hacia el mirador tras degustar un nutritivo jugo matinal en nuestro local.
+
+--------------------------------------------------------------------------------
+PREGUNTA 15: ¿En qué horarios atienden habitualmente al público durante la semana y feriados?
+--------------------------------------------------------------------------------
+RESPUESTA 15:
+Atendemos de lunes a sábado desde las seis y media de la mañana hasta las ocho de la noche en horario continuo y esmerado.
+
+Los días domingos y feriados abrimos temprano para atender a las familias de la urbanización con desayunos frescos y completos.
+
+Sugerimos acudir en las primeras horas del día para saborear la más amplia variedad de frutas recién abastecidas de la campiña.
+
+--------------------------------------------------------------------------------
+PREGUNTA 16: ¿Cuentan con un espacio cómodo y limpio para degustar los pedidos en el salón?
+--------------------------------------------------------------------------------
+RESPUESTA 16:
+Disponemos de mesas acogedoras y bancos limpios en un ambiente debidamente ventilado y ordenado para disfrutar los desayunos con calma.
+
+La rotación del salón es ágil, lo cual permite que siempre haya asientos disponibles para comensales individuales o pequeños grupos familiares.
+
+La atmósfera de Mi Jugueria brinda un entorno amigable, apacible y familiar donde resulta un deleite saborear una bebida saludable.
+
+--------------------------------------------------------------------------------
+PREGUNTA 17: ¿Qué promociones o combinaciones especiales disponen para el desayuno cotidiano?
+--------------------------------------------------------------------------------
+RESPUESTA 17:
+Brindamos convenientes combos que incluyen un jugo surtido grande o especial con un sándwich caliente de pollo o queso y una infusión.
+
+Disponemos de promociones en ensaladas familiares de fruta y tarifas preferenciales para estudiantes universitarios con raciones abundantes.
+
+Nuestras promociones buscan cuidar la economía familiar asegurando que cada comensal acceda a alimentos saludables a precios solidarios.
+
+--------------------------------------------------------------------------------
+PREGUNTA 18: ¿Se pueden coordinar encargos para retirar rápidamente en barra sin demoras?
+--------------------------------------------------------------------------------
+RESPUESTA 18:
+Coordinamos pedidos directos en barra para clientes habituales que requieren retirar sus refrigerios empaquetados de forma puntual.
+
+Elaboramos las bebidas justo minutos antes del horario acordado para salvaguardar las vitaminas, la textura y el frescor natural.
+
+Esta alternativa es muy valorada por jóvenes universitarios y trabajadores con horarios ajustados en sus jornadas matinales.
+
+--------------------------------------------------------------------------------
+PREGUNTA 19: ¿Qué atención preferente y cuidados brindan a personas mayores y niños?
+--------------------------------------------------------------------------------
+RESPUESTA 19:
+Nuestro equipo atiende con particular paciencia, afecto y respeto, facilitando el acomodo preferente a adultos mayores y familias con niños.
+
+Ajustamos la textura de los batidos y servimos bebidas a temperatura tibia o templada a solicitud de los clientes para su confort.
+
+En Mi Jugueria nos esforzamos por ofrecer un trato cercano y bondadoso que refleje la calidez auténtica de la gente cajamarquina.
+
+--------------------------------------------------------------------------------
+PREGUNTA 20: ¿Por qué este rincón frutal de Luis Reyna Farge se ha ganado el aprecio de la comunidad?
+--------------------------------------------------------------------------------
+RESPUESTA 20:
+La constancia en servir fruta fresca de primera calidad, las porciones generosas y el trato afable han forjado una clientela muy fiel.
+
+Representa una alternativa saludable y accesible en un vecindario tranquilo alejado de las zonas más congestionadas de la urbe.
+
+Es un espacio confiable donde la buena alimentación andina y el servicio sincero forman parte esencial de la vida diaria del barrio.
