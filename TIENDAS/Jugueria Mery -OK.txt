@@ -1,0 +1,225 @@
+Nombre: Jugueria Mery
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Cafetería, Juguería
+Dirección: VG45+JWM, Av. Rafael Hoyos Rubio, Cajamarca 06001
+Teléfono: 
+Rating: 4.5
+Reseñas: 6
+Sitio web: 
+Latitud: -7.1434132
+Longitud: -78.4902092
+Google Maps: https://www.google.com/maps?cid=12317114966573535580
+Place Id: ChIJFYZBEsdaspERXFFDoM0u76o
+Fotos: Jugueria Mery.jpg
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una cordial bienvenida a Jugueria Mery, el rincón tradicional de frescura y nutrición ubicado estratégicamente frente al Aeropuerto de Cajamarca. Situados en la Av. Rafael Hoyos Rubio (VG45+JWM), te ofrecemos deliciosos jugos de pura fruta recién licuados, extractos energizantes, ensaladas nutritivas, sándwiches crujientes y reconfortante café caliente en un ambiente alegre, limpio y sumamente acogedor. Ven y recarga tus viajes con la mayor vitalidad y sabor.
+================================================================================
+
+--------------------------------------------------------------------------------
+20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PREGUNTA 1: ¿Cuál es la especialidad y el servicio distintivo de este establecimiento?
+--------------------------------------------------------------------------------
+RESPUESTA 1:
+Nuestra especialidad radica en la preparación rápida de jugos naturales de pura fruta fresca, extractos reconstituyentes y sándwiches al paso.
+
+Atendemos desde muy temprano a viajeros, conductores y vecinos con desayunos completos que combinan jugos de estación, pan crocante y café pasado.
+
+El local frente al aeropuerto se caracteriza por su dinamismo, higiene rigurosa y un trato hospitalario que reconforta a cada visitante.
+
+--------------------------------------------------------------------------------
+PREGUNTA 2: ¿A cuántos metros de distancia se encuentra el establecimiento del Aeropuerto Armando Revoredo?
+--------------------------------------------------------------------------------
+RESPUESTA 2:
+El local se ubica a escasos 52 metros de la puerta principal del Aeropuerto Mayor General FAP Armando Revoredo Iglesias de Cajamarca.
+
+Esta ubicación inmediata al cruzar la avenida permite a los pasajeros llegar en un minuto a pie para esperar sus vuelos cómodamente.
+
+Es la escala perfecta para desayunar un jugo fresco y un sándwich contundente a precios accesibles antes de abordar o al aterrizar.
+
+--------------------------------------------------------------------------------
+PREGUNTA 3: ¿Cuáles son las combinaciones de frutas más solicitadas por los clientes?
+--------------------------------------------------------------------------------
+RESPUESTA 3:
+Entre las opciones preferidas destacan el jugo especial con cerveza negra, huevo y algarrobina, el surtido clásico y fresa con leche fresca.
+
+Elaboramos combinaciones de papaya con piña golden, lúcuma cremosa con leche, mango norteño, plátano de seda y naranja recién exprimida.
+
+En Jugueria Mery los comensales pueden personalizar el nivel de azúcar y la consistencia de cada licuado para disfrutarlo a su gusto.
+
+--------------------------------------------------------------------------------
+PREGUNTA 4: ¿Qué opciones de sándwiches y bocadillos calientes tienen para la mañana?
+--------------------------------------------------------------------------------
+RESPUESTA 4:
+Ofrecemos sándwiches en panes crujientes con pollo deshilachado con mayonesa casera, jamón del país con salsa criolla y palta fresca.
+
+Preparamos triples recién elaborados con huevo duro y tomate, además de hamburguesas caseras y sándwiches calientes de queso derretido.
+
+Cada bocadillo se ensambla al momento asegurando que el pan conserve su crocancia y los ingredientes mantengan su temperatura ideal.
+
+--------------------------------------------------------------------------------
+PREGUNTA 5: ¿Cuántos kilómetros de trayecto separan esta juguería del centro comercial El Quinde?
+--------------------------------------------------------------------------------
+RESPUESTA 5:
+Una distancia de 2.13 kilómetros separa nuestras instalaciones del centro comercial El Quinde, unos cinco minutos de viaje en vehículo.
+
+El trayecto avanza por la avenida Rafael Hoyos Rubio comunicando fluidamente el área del aeropuerto con la moderna zona comercial.
+
+Muchos conductores y transeúntes hacen una parada en nuestro mostrador para tomar un jugo nutritivo en su ruta hacia el centro.
+
+--------------------------------------------------------------------------------
+PREGUNTA 6: ¿Qué alternativas de extractos naturales y desintoxicantes tienen para la salud?
+--------------------------------------------------------------------------------
+RESPUESTA 6:
+Preparamos extractos de piña con apio para favorecer la digestión, extractos de beterraga con zanahoria y naranja, y mezclas con sábila y alfalfa.
+
+Nuestros extractos se prensan al instante garantizando la conservación de todas sus vitaminas, enzimas y antioxidantes naturales.
+
+Son la elección predilecta de viajeros y trabajadores que buscan iniciar su jornada matutina con vitalidad y energía natural.
+
+--------------------------------------------------------------------------------
+PREGUNTA 7: ¿Disponen de bebidas calientes como café pasado o infusiones tradicionales?
+--------------------------------------------------------------------------------
+RESPUESTA 7:
+Contamos con café pasado tradicional por goteo con aroma profundo, café con leche bien caliente y chocolate espeso con cacao puro.
+
+Ofrecemos infusiones de hierbas aromáticas andinas como hierbaluisa fresca, menta silvestre, muña digestiva y flor de manzanilla.
+
+Jugueria Mery complementa su oferta fría con alternativas calientes pensadas para abrigar las mañanas frescas de la serranía.
+
+--------------------------------------------------------------------------------
+PREGUNTA 8: ¿A qué distancia en kilómetros se halla la Universidad Nacional de Cajamarca?
+--------------------------------------------------------------------------------
+RESPUESTA 8:
+Nos situamos a 2.73 kilómetros de distancia respecto al campus principal de la Universidad Nacional de Cajamarca (UNC).
+
+En transporte público o taxi el desplazamiento se realiza habitualmente en unos siete a ocho minutos por vías asfaltadas directas.
+
+Muchos universitarios y profesores que viajan o residen en los alrededores eligen nuestro local para desayunar al paso con total rapidez.
+
+--------------------------------------------------------------------------------
+PREGUNTA 9: ¿Cuáles variedades de ensaladas de fruta fresca con yogur y miel ofrecen?
+--------------------------------------------------------------------------------
+RESPUESTA 9:
+Presentamos ensaladas de frutas de estación con trozos selectos de papaya, piña dulce, plátano, fresas andinas y uvas recién lavadas.
+
+Las servimos bañadas en abundante yogur natural, miel de abeja andina, algarrobina pura y una lluvia de cereales y frutos secos picados.
+
+Es una merienda completa, nutritiva y ligera que satisface plenamente el apetito tanto en el desayuno como durante la tarde.
+
+--------------------------------------------------------------------------------
+PREGUNTA 10: ¿Cómo es el protocolo de servicio y el tiempo de despacho de las órdenes?
+--------------------------------------------------------------------------------
+RESPUESTA 10:
+En Jugueria Mery atendemos con gran celeridad en mostrador gracias a un equipo ágil en la estación de licuadoras y preparación de bocadillos.
+
+El tiempo promedio de preparación de un jugo es de apenas dos a tres minutos, permitiendo a los clientes continuar su viaje sin demoras.
+
+El personal brinda un trato atento, paciente y cordial que hace que cada cliente se sienta cómodo, bien atendido y complacido.
+
+--------------------------------------------------------------------------------
+PREGUNTA 11: ¿Qué distancia lineal media en dirección al centro comercial Real Plaza?
+--------------------------------------------------------------------------------
+RESPUESTA 11:
+Aproximadamente 2.84 kilómetros de distancia separan nuestras puertas de las instalaciones del centro comercial Real Plaza.
+
+El recorrido en taxi o vehículo particular se realiza en unos siete a ocho minutos transitando por avenidas pavimentadas y fluidas.
+
+Esta localización en la zona aeroportuaria brinda gran comodidad para quienes desean disfrutar de jugos frescos sin ingresar al tráfico céntrico.
+
+--------------------------------------------------------------------------------
+PREGUNTA 12: ¿Cuáles modalidades de pago son aceptadas para cancelar en el establecimiento?
+--------------------------------------------------------------------------------
+RESPUESTA 12:
+Aceptamos pagos en efectivo en moneda nacional, transferencias directas mediante billeteras móviles digitales y pagos con tarjetas bancarias.
+
+Disponemos de lectores de cobro inalámbricos que agilizan las transacciones de manera cómoda y segura directamente en el mostrador.
+
+Emitimos comprobantes de pago electrónicos de forma inmediata facilitando la rendición de cuentas de viáticos para viajeros.
+
+--------------------------------------------------------------------------------
+PREGUNTA 13: ¿Es posible solicitar jugos y sándwiches empacados para llevar al aeropuerto?
+--------------------------------------------------------------------------------
+RESPUESTA 13:
+Empacamos nuestras bebidas en vasos térmicos o descartables con tapa hermética que evitan derrames durante el transporte al terminal.
+
+Los sándwiches y empanadas se entregan en envases seguros con servilletas y porciones de cremas caseras perfectamente protegidas.
+
+Los pasajeros que disponen de poco tiempo pueden solicitar su orden para llevar y retirarla en pocos minutos con total practicidad.
+
+--------------------------------------------------------------------------------
+PREGUNTA 14: ¿Cuánto trayecto en kilómetros hay hacia la histórica Plaza de Armas?
+--------------------------------------------------------------------------------
+RESPUESTA 14:
+La Plaza de Armas de Cajamarca se ubica a 3.48 kilómetros de nuestro local, tomándose unos diez a doce minutos en taxi o transporte urbano.
+
+La ruta transita desde la zona norte del aeropuerto hacia el centro monumental a través de arterias principales asfaltadas.
+
+Constituye un excelente punto de recepción gastronómica para los turistas que recién aterrizan y desean iniciar su estadía con energía.
+
+--------------------------------------------------------------------------------
+PREGUNTA 15: ¿Cómo aseguran la frescura de los insumos y la higiene en la preparación?
+--------------------------------------------------------------------------------
+RESPUESTA 15:
+El personal de preparación utiliza indumentaria limpia, mandiles protectores y realiza una desinfección rigurosa de licuadoras y vajilla.
+
+Adquirimos frutas frescas seleccionadas diariamente en los centros de abasto, asegurando frutos en su punto ideal de maduración y perfume.
+
+En Jugueria Mery cumplimos estrictos protocolos de inocuidad para que cada bebida servida ofrezca total pureza, salud y confianza.
+
+--------------------------------------------------------------------------------
+PREGUNTA 16: ¿El local resulta acogedor y seguro para familias con niños pequeños?
+--------------------------------------------------------------------------------
+RESPUESTA 16:
+Disponemos de un ambiente limpio, ventilado y familiar donde personas de todas las edades disfrutan de meriendas reconfortantes con tranquilidad.
+
+A los más pequeños les encantan los jugos dulces de plátano con fresa y los sándwiches calientes con queso fundido en pan crujiente.
+
+El equipo de servicio atiende con amabilidad y cariño asegurando que las familias se sientan siempre como en casa durante su permanencia.
+
+--------------------------------------------------------------------------------
+PREGUNTA 17: ¿Qué facilidades de acceso y comodidades ofrece la Avenida Rafael Hoyos Rubio?
+--------------------------------------------------------------------------------
+RESPUESTA 17:
+La Avenida Rafael Hoyos Rubio es una arteria amplia, bien iluminada, con constante patrullaje policial y fluido transporte de taxis.
+
+El ingreso al establecimiento cuenta con acceso a nivel de vereda permitiendo la entrada cómoda de adultos mayores y cochecitos infantiles.
+
+Existen espacios cercanos en el frontis para aparcar vehículos momentáneamente mientras se recoge un pedido para llevar.
+
+--------------------------------------------------------------------------------
+PREGUNTA 18: ¿Presentan promociones o combinaciones especiales de jugo con sándwich?
+--------------------------------------------------------------------------------
+RESPUESTA 18:
+Ofrecemos combos que integran un jugo surtido o especial junto a un sándwich a elección a un precio sumamente económico.
+
+Durante las primeras horas del día brindamos promociones en extractos energéticos acompañados de tostadas campesinas recién horneadas.
+
+Buscamos ofrecer siempre porciones contundentes, saludables y al alcance de todos los presupuestos de viajeros y trabajadores.
+
+--------------------------------------------------------------------------------
+PREGUNTA 19: ¿Se pueden encargar pedidos especiales para delegaciones de viaje o comitivas?
+--------------------------------------------------------------------------------
+RESPUESTA 19:
+Atendemos pedidos por encargo de sándwiches triples, empanadas caseras y jarras de jugo natural para delegaciones que arriban al aeropuerto.
+
+Sugerimos coordinar con anticipación para tener las porciones recién elaboradas, empacadas y listas a la hora solicitada por el grupo.
+
+Nos aseguramos de que cada encargo cumpla con la misma calidad, abundancia y frescura que caracteriza a nuestro servicio diario.
+
+--------------------------------------------------------------------------------
+PREGUNTA 20: ¿Por cuáles canales de comunicación se pueden hacer consultas sobre la carta?
+--------------------------------------------------------------------------------
+RESPUESTA 20:
+Atendemos consultas de manera directa en nuestro mostrador en Av. Rafael Hoyos Rubio (VG45+JWM) y por los canales habituales.
+
+Invitamos a todos los pasajeros y vecinos a disfrutar de los sabores más ricos y refrescantes de la fruta en un ambiente cordial.
+
+Te esperamos con gran alegría en Av. Rafael Hoyos Rubio para compartir contigo la frescura y el sabor auténtico de la fruta en Cajamarca.

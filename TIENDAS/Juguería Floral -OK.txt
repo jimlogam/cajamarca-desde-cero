@@ -1,0 +1,226 @@
+Nombre: Juguería Floral
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Restaurante, Cafetería, Tienda de zumos
+Dirección: Jr. Apurimac 914, Cajamarca 06001
+Teléfono: 
+Rating: 4.5
+Reseñas: 8
+Sitio web: 
+Latitud: -7.1550242
+Longitud: -78.517663
+Google Maps: https://www.google.com/maps?cid=3589661317358280811
+Place Id: ChIJD7bFyAxbspERa-AZBfMJ0TE
+Fotos: Juguería Floral.jpg
+Link foto: https://lh3.googleusercontent.com/grass-cs/AABkmLfKyj4ULKqe7CcxAGwzBoLoSndk0wVvVF_NE37b1YI2_B_vhLOvmMX2paV_utMB-u532Us9IkprsCRY79XVB5d5ny7w1t5ZcePZ9uykSKiT0cckensoSdkx2xjWI7QHTwdFIcB1=w1600-h1200-k-no
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos la bienvenida a Juguería Floral, tu rincón predilecto de vitalidad, frescura y tradición frutera en el centro de Cajamarca. Situados en Jirón Apurímac 914, a escasos pasos del histórico Mercado Central, te deleitamos con jugos naturales recién exprimidos, nutritivos extractos depurativos, batidos cremosos con leche, ensaladas de fruta y deliciosos sándwiches calientes servidos con esmero, rapidez y calidez andina. Ven y empieza tu mañana recargando cuerpo y mente con energía auténtica.
+================================================================================
+
+--------------------------------------------------------------------------------
+20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PREGUNTA 1: ¿Cuál es la propuesta gastronómica y el concepto diario de este establecimiento?
+--------------------------------------------------------------------------------
+RESPUESTA 1:
+Nuestra propuesta se enfoca en ofrecer jugos de fruta natural de temporada preparados al instante, combinando nutrición, frescura y sabor.
+
+Servimos desayunos completos y reconstituyentes desde muy temprano, acompañados de sándwiches calientes, café aromático e infusiones.
+
+El local destaca por su atención rápida y cordial, altos estándares de higiene y tarifas accesibles para vecinos, comerciantes y visitantes.
+
+--------------------------------------------------------------------------------
+PREGUNTA 2: ¿A cuántos metros de distancia se ubica este punto respecto al Mercado Central?
+--------------------------------------------------------------------------------
+RESPUESTA 2:
+El establecimiento se encuentra a escasos 13 metros de distancia de la entrada del Mercado Central de Cajamarca, cruzando prácticamente la calle.
+
+La cercanía inmediata permite abastecernos a diario con las frutas más frescas, jugosas y selectas cosechadas en los valles cajamarquinos.
+
+Compradores habituales y turistas suelen iniciar sus recorridos matutinos disfrutando un jugo energizante antes de efectuar sus compras.
+
+--------------------------------------------------------------------------------
+PREGUNTA 3: ¿Cuáles son las opciones de jugos y extractos naturales más solicitados?
+--------------------------------------------------------------------------------
+RESPUESTA 3:
+Entre las preparaciones más requeridas sobresalen el clásico jugo especial con malta y huevo, el surtido tradicional y la fresa con leche.
+
+Preparamos extractos terapéuticos y depurativos que combinan beterraga, zanahoria, manzana verde, apio fresco y kion energizante.
+
+En Juguería Floral cada pedido se personaliza según la preferencia del comensal, permitiendo elegir el nivel de dulzor y temperatura.
+
+--------------------------------------------------------------------------------
+PREGUNTA 4: ¿Qué alternativas de sándwiches y piqueos calientes se pueden disfrutar aquí?
+--------------------------------------------------------------------------------
+RESPUESTA 4:
+Ofrecemos sándwiches clásicos en pan crocante rellenos con pechuga de pollo deshilachada, jamón del país con sarsa criolla y queso cajamarquino.
+
+Disponemos también de tostadas con mantequilla, huevos revueltos al gusto, triples vegetarianos con palta y deliciosas empanadas recién horneadas.
+
+Todos los panes y bocadillos se sirven calientes y tostados al momento para garantizar frescura, aroma apetitoso y textura crujiente.
+
+--------------------------------------------------------------------------------
+PREGUNTA 5: ¿Cuánta distancia a pie separa esta juguería de la céntrica Plaza de Armas?
+--------------------------------------------------------------------------------
+RESPUESTA 5:
+Una distancia de 319 metros separa el local de la histórica Plaza de Armas, lo que representa una caminata relajada de cuatro minutos.
+
+El trayecto sigue en línea recta por el Jirón Apurímac conectando el corazón comercial con el centro cívico y arquitectónico de la ciudad.
+
+Resulta una ubicación sumamente estratégica para quienes pasean por el centro histórico y desean hidratarse con una bebida saludable.
+
+--------------------------------------------------------------------------------
+PREGUNTA 6: ¿Cómo garantizan la frescura e higiene en la selección de sus ingredientes?
+--------------------------------------------------------------------------------
+RESPUESTA 6:
+Seleccionamos cada mañana frutas frescas de primera calidad directamente de agricultores locales y distribuidores del mercado aledaño.
+
+Cumplimos estrictos protocolos de lavado, desinfección y almacenamiento refrigerado para preservar las propiedades nutricionales y vitaminas.
+
+Todo el equipamiento, licuadoras y superficies de preparación se higienizan continuamente tras cada servicio para máxima seguridad.
+
+--------------------------------------------------------------------------------
+PREGUNTA 7: ¿Tienen alternativas especiales para personas que prefieren bebidas sin azúcar refinada?
+--------------------------------------------------------------------------------
+RESPUESTA 7:
+Brindamos la opción de endulzar las bebidas con miel pura de abeja de la campiña, algarrobina norteña o edulcorantes naturales.
+
+Los clientes que siguen pautas nutricionales estrictas pueden solicitar sus zumos al natural, sin ningún tipo de azúcar añadida.
+
+El equipo de atención asesora cordialmente a cada visitante para adaptar la preparación a sus hábitos saludables particulares.
+
+--------------------------------------------------------------------------------
+PREGUNTA 8: ¿Qué distancia de caminata separa este establecimiento del histórico Cuarto del Rescate?
+--------------------------------------------------------------------------------
+RESPUESTA 8:
+El célebre monumento del Cuarto del Rescate se ubica a exactamente 348 metros de trayecto a pie desde nuestras instalaciones.
+
+Se llega caminando durante cuatro minutos en dirección sur por las pintorescas calles virreinales del centro histórico cajamarquino.
+
+Es una parada perfecta para viajeros y exploradores que culminan su visita histórica y buscan un refrigerio nutritivo y refrescante.
+
+--------------------------------------------------------------------------------
+PREGUNTA 9: ¿Cuáles variedades de ensaladas de fruta y complementos energéticos ofrecen?
+--------------------------------------------------------------------------------
+RESPUESTA 9:
+Preparamos fuentes completas de ensalada de frutas de estación picadas al momento, acompañadas con yogur natural artesanal y granola crocante.
+
+Incorporamos complementos energéticos como semillas de chía, polen andino, maca, algarrobina, trozos de queso fresco y frutos secos.
+
+En Juguería Floral estas combinaciones constituyen una opción de desayuno o almuerzo ligero ideal para recargar energías durante el día.
+
+--------------------------------------------------------------------------------
+PREGUNTA 10: ¿Qué medios de pago reciben en caja para mayor comodidad del cliente?
+--------------------------------------------------------------------------------
+RESPUESTA 10:
+Aceptamos transferencias digitales rápidas a través de billeteras electrónicas como Yape y Plin mediante códigos QR visibles en caja.
+
+Recibimos dinero en efectivo en moneda nacional contando con cambio suficiente para facilitar transacciones ágiles sin demoras.
+
+Emitimos comprobantes de pago como boletas de venta para asegurar transparencia y total formalidad en cada consumo realizado.
+
+--------------------------------------------------------------------------------
+PREGUNTA 11: ¿Cuánto trayecto de caminata hay hacia el complejo monumental de la Iglesia San Francisco?
+--------------------------------------------------------------------------------
+RESPUESTA 11:
+Existe un trayecto de aproximadamente 357 metros de distancia hasta el templo y complejo franciscano situado frente a la plaza.
+
+El desplazamiento a pie toma cerca de cinco minutos atravesando calles comerciales apacibles del casco tradicional de Cajamarca.
+
+Representa una referencia geográfica muy conocida que permite a cualquier transeúnte ubicar nuestro establecimiento sin dificultad.
+
+--------------------------------------------------------------------------------
+PREGUNTA 12: ¿Disponen de servicio para llevar o empaques seguros para transportar bebidas?
+--------------------------------------------------------------------------------
+RESPUESTA 12:
+Contamos con vasos descartables térmicos y tapas herméticas diseñadas para transportar jugos, extractos y café caliente con total comodidad.
+
+Empacamos los sándwiches y porciones de fruta en recipientes higiénicos que resguardan la temperatura y la textura crujiente de los alimentos.
+
+Trabajadores de oficinas bancarias y negocios cercanos suelen solicitar sus pedidos para llevar y consumirlos en sus centros de labores.
+
+--------------------------------------------------------------------------------
+PREGUNTA 13: ¿Cuáles bebidas calientes tradicionales forman parte de la carta matutina?
+--------------------------------------------------------------------------------
+RESPUESTA 13:
+Servimos café pasado tradicional de aroma intenso, café con leche fresca del valle cajamarquino y espeso chocolate caliente con especias.
+
+Mantenemos infusiones calientes de hierbas digestivas como muña andina, manzanilla fresca, menta aromática, hierbaluisa y anís serrano.
+
+Estas alternativas resultan idóneas durante las mañanas frías cajamarquinas o para acompañar desayunos consistentes y calientes.
+
+--------------------------------------------------------------------------------
+PREGUNTA 14: ¿Qué distancia lineal media en dirección al Mirador del Cerro Santa Apolonia?
+--------------------------------------------------------------------------------
+RESPUESTA 14:
+Hacia el Mirador del Cerro Santa Apolonia media una distancia de 616 metros de recorrido a pie cuesta arriba por escalinatas y calles coloniales.
+
+La caminata demanda alrededor de nueve a diez minutos de paso moderado antes de iniciar el ascenso a la cima del mirador.
+
+Muchos caminantes y deportistas visitan nuestras mesas antes o después de subir al cerro para hidratarse con batidos reconstituyentes.
+
+--------------------------------------------------------------------------------
+PREGUNTA 15: ¿Cuál es el horario habitual de atención y qué días de la semana operan?
+--------------------------------------------------------------------------------
+RESPUESTA 15:
+Atendemos de lunes a domingo de forma ininterrumpida desde las seis y media de la mañana hasta el anochecer para abastecer a la comunidad.
+
+Los fines de semana y feriados mantenemos servicio continuo asegurando la misma calidad y frescura en cada jugo y sándwich servido.
+
+Sugerimos acudir temprano en horas de la mañana para disfrutar de la máxima variedad de frutas frescas recién recibidas del valle.
+
+--------------------------------------------------------------------------------
+PREGUNTA 16: ¿Cuentan con espacio cómodo para sentarse y degustar los pedidos en el salón?
+--------------------------------------------------------------------------------
+RESPUESTA 16:
+Disponemos de barras pulcras y mesas acogedoras debidamente acondicionadas para que los comensales disfruten su desayuno con tranquilidad.
+
+La rotación es fluida y dinámica, lo que garantiza disponibilidad constante de asientos incluso en horarios matutinos de alta afluencia.
+
+La atmósfera de Juguería Floral brinda un entorno amigable y familiar donde da gusto conversar y compartir un refrigerio saludable.
+
+--------------------------------------------------------------------------------
+PREGUNTA 17: ¿Qué promociones o combinaciones especiales ofrecen para el desayuno cotidiano?
+--------------------------------------------------------------------------------
+RESPUESTA 17:
+Ofrecemos combos accesibles que combinan un jugo surtido grande o especial con un sándwich de pollo o jamón y una infusión caliente.
+
+Armamos paquetes familiares de ensaladas de fruta con descuentos para grupos que buscan un tentempié nutritivo a media tarde.
+
+Las promociones se actualizan periódicamente manteniendo siempre precios solidarios y raciones abundantes para beneficio del cliente.
+
+--------------------------------------------------------------------------------
+PREGUNTA 18: ¿Se pueden realizar pedidos por teléfono con anticipación para recoger en mostrador?
+--------------------------------------------------------------------------------
+RESPUESTA 18:
+Coordinamos encargos previos de manera presencial o anticipada para que clientes habituales encuentren sus pedidos listos al llegar.
+
+Elaboramos las bebidas justo minutos antes del recojo coordinado para evitar la pérdida de vitaminas o alteración de consistencia.
+
+Esta modalidad resulta sumamente ventajosa para profesionales con tiempo limitado en sus pausas laborales y descansos matinales.
+
+--------------------------------------------------------------------------------
+PREGUNTA 19: ¿Qué cuidados especiales brindan en la atención a personas de la tercera edad y familias?
+--------------------------------------------------------------------------------
+RESPUESTA 19:
+El personal brinda un trato respetuoso, empático y paciente, facilitando acomodo preferente a personas adultas mayores y familias con niños.
+
+Adaptamos las bebidas según sugerencias médicas de nuestros comensales, ajustando consistencias o preparando extractos digestivos suaves.
+
+En Juguería Floral cuidamos cada aspecto para que cada visitante se sienta atendido como en su propio hogar cajamarquino.
+
+--------------------------------------------------------------------------------
+PREGUNTA 20: ¿Por qué este rincón fruteño se ha convertido en un referente querido en la zona?
+--------------------------------------------------------------------------------
+RESPUESTA 20:
+El compromiso constante con la fruta fresca, las porciones generosas y el trato afable han forjado una leal clientela a través de los años.
+
+La ubicación privilegiada a metros del mercado asegura insumos inmejorables y un pulso vibrante de vida cotidiana en el centro histórico.
+
+Representa una parada obligatoria para quienes aprecian la buena nutrición tradicional andina servida con cariño y honestidad.
