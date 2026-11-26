@@ -1,0 +1,226 @@
+Nombre: Juguería Mi Cielo
+Macro-Sector: 01_Gastronomia_y_Cafeterias
+Rubro: Cafeterias_y_Bebidas
+Subrubro: Juguerias_y_Fuentes_de_Soda
+Categoría Maps: Cafetería, Juguería
+Dirección: VF2P+8MR, Los Fresnos, Cajamarca 06001
+Teléfono: 
+Rating: 5.0
+Reseñas: 1
+Sitio web: 
+Latitud: -7.1491435
+Longitud: -78.5133555
+Google Maps: https://www.google.com/maps?cid=5015165728579810137
+Place Id: ChIJ_ZYSDqBbspERWXO2nahymUU
+Fotos: Juguería Mi Cielo.jpg
+Link foto: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RBluMKyGf8OqXniaJvve-Q&cb_client=search.gws-prod.grass&w=1600&h=1200&yaw=57.92897&pitch=0&thumbfov=100
+
+--------------------------------------------------------------------------------
+COPY DE BIENVENIDA (50 A 80 PALABRAS)
+--------------------------------------------------------------------------------
+Te damos una afectuosa bienvenida a Juguería Mi Cielo, tu acogedor espacio de salud, vitalidad y nutrición natural en la apacible urbanización Los Fresnos de Cajamarca. Ubicados a pocos minutos del centro comercial Real Plaza, te ofrecemos una selecta carta de jugos de pura fruta fresca, extractos depurativos, batidos energéticos con leche, ensaladas frutales con yogur y sándwiches crocantes preparados al instante con máxima higiene, esmero y cordialidad andina. Ven y regálate una pausa llena de sabor y frescura.
+================================================================================
+
+--------------------------------------------------------------------------------
+20 PREGUNTAS Y RESPUESTAS FRECUENTES PERSONALIZADAS
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PREGUNTA 1: ¿Cuál es el concepto culinario y la especialidad de esta juguería?
+--------------------------------------------------------------------------------
+RESPUESTA 1:
+Nuestra propuesta gastronómica se basa en la preparación artesanal de jugos naturales, batidos reconstituyentes y comida ligera al paso.
+
+Elaboramos bebidas con fruta fresca seleccionada minuciosamente cada día para conservar intactas todas sus propiedades nutricionales.
+
+El local brinda una atención personalizada, un espacio sumamente higiénico y porciones generosas que satisfacen a cada comensal.
+
+--------------------------------------------------------------------------------
+PREGUNTA 2: ¿A cuántos metros de distancia se encuentra el establecimiento del centro comercial Real Plaza?
+--------------------------------------------------------------------------------
+RESPUESTA 2:
+El establecimiento se ubica a escasos 481 metros de distancia peatonal del centro comercial Real Plaza, unos seis minutos de caminata.
+
+La ruta transcurre por calles tranquilas y residenciales que unen el eje comercial moderno de la ciudad con nuestro vecindario.
+
+Muchos compradores y colaboradores del centro comercial acuden a nuestro mostrador para disfrutar un jugo saludable y reconfortante.
+
+--------------------------------------------------------------------------------
+PREGUNTA 3: ¿Cuáles son las bebidas frutales y combinaciones más solicitadas por los clientes?
+--------------------------------------------------------------------------------
+RESPUESTA 3:
+Entre las preferencias más destacadas se encuentran el jugo especial con huevo y algarrobina, el surtido tradicional y fresa con leche.
+
+Servimos batidos cremosos de papaya, lúcuma con leche fresca del valle, piña golden, plátano de seda y extractos revitalizantes.
+
+En Juguería Mi Cielo cada comensal puede personalizar su bebida según su preferencia de espesor y nivel de dulzura deseado.
+
+--------------------------------------------------------------------------------
+PREGUNTA 4: ¿Qué opciones de sándwiches y bocadillos calientes ofrecen para acompañar las bebidas?
+--------------------------------------------------------------------------------
+RESPUESTA 4:
+Elaboramos sándwiches en pan crocante rellenos de pechuga de pollo deshilachada, jamón del país con sarsa criolla y queso cajamarquino.
+
+Disponemos de tostadas calientes con mantequilla, huevos revueltos con tomate, triples frescos con palta y crujientes empanadas caseras.
+
+Todos nuestros panes y bocadillos se sirven calientes y tostados al momento para garantizar frescura y una textura crujiente.
+
+--------------------------------------------------------------------------------
+PREGUNTA 5: ¿Cuántos metros de recorrido separan este punto del tradicional Mercado Central?
+--------------------------------------------------------------------------------
+RESPUESTA 5:
+Una distancia de 809 metros de recorrido separa nuestro local de las concurridas puertas del Mercado Central de Cajamarca.
+
+Se llega caminando de forma relajada en aproximadamente diez a once minutos atravesando calles céntricas de la ciudad.
+
+Es una distancia perfectamente caminable para quienes buscan abastecerse o disfrutar de un ambiente más tranquilo fuera del bullicio.
+
+--------------------------------------------------------------------------------
+PREGUNTA 6: ¿Cómo aseguran la higiene y frescura de los insumos en barra?
+--------------------------------------------------------------------------------
+RESPUESTA 6:
+Adquirimos frutas maduradas naturalmente seleccionando piezas de primera calidad de distribuidores y productores agrícolas locales.
+
+Aplicamos rigurosas normas de lavado y desinfección en cada fruta antes de proceder al picado y licuado en la estación de servicio.
+
+Los utensilios, licuadoras y mostradores se limpian y esterilizan permanentemente entre cada preparación para total tranquilidad.
+
+--------------------------------------------------------------------------------
+PREGUNTA 7: ¿Tienen alternativas especiales sin azúcar refinada para personas que cuidan su salud?
+--------------------------------------------------------------------------------
+RESPUESTA 7:
+Ofrecemos opciones para endulzar las bebidas utilizando miel pura de abeja de la campiña, algarrobina norteña o estevia natural.
+
+Los clientes que prefieren prescindir totalmente del azúcar pueden pedir sus jugos y extractos al natural, sin ningún aditivo dulce.
+
+Nuestro equipo adapta amablemente cada fórmula para ajustarse a las necesidades nutricionales o indicaciones médicas del comensal.
+
+--------------------------------------------------------------------------------
+PREGUNTA 8: ¿A qué distancia peatonal se halla el Terminal Terrestre de Cajamarca?
+--------------------------------------------------------------------------------
+RESPUESTA 8:
+El Terminal Terrestre se localiza a aproximadamente 990 metros de distancia a pie desde nuestro local en la urbanización Los Fresnos.
+
+El trayecto a pie toma alrededor de doce a trece minutos transitando por arterias asfaltadas y debidamente conectadas de la zona norte.
+
+Resulta muy conveniente para viajeros recién llegados o pasajeros a punto de viajar que desean un desayuno nutritivo y ligero.
+
+--------------------------------------------------------------------------------
+PREGUNTA 9: ¿Cuáles variedades de ensaladas de fruta y complementos nutritivos preparan?
+--------------------------------------------------------------------------------
+RESPUESTA 9:
+Servimos generosas fuentes de ensalada de fruta de estación con papaya, piña, plátano, manzana y melón con yogur artesanal y miel.
+
+Añadimos complementos energéticos como semillas de chía, polen andino, maca regional, frutos secos tostados y queso fresco en dados.
+
+En Juguería Mi Cielo estas preparaciones constituyen una opción de desayuno o merienda completa, nutritiva y revitalizante.
+
+--------------------------------------------------------------------------------
+PREGUNTA 10: ¿Qué medios de pago electrónicos y facilidades aceptan en el local?
+--------------------------------------------------------------------------------
+RESPUESTA 10:
+Aceptamos transferencias inmediatas a través de billeteras digitales como Yape y Plin mediante códigos QR visibles en mostrador.
+
+Recibimos dinero en efectivo en moneda nacional contando con sencillo suficiente para agilizar las operaciones de compra y cobro.
+
+Brindamos comprobantes de pago como boletas de venta para respaldar cada transacción con total formalidad y transparencia comercial.
+
+--------------------------------------------------------------------------------
+PREGUNTA 11: ¿Cuánto trayecto de caminata hay hacia el histórico monumento del Cuarto del Rescate?
+--------------------------------------------------------------------------------
+RESPUESTA 11:
+Existe una distancia aproximada de 1.04 km (1038 metros) de caminata hasta el monumento histórico del Cuarto del Rescate.
+
+Caminando con calma hacia el centro histórico de la ciudad el tiempo estimado de llegada es de trece a catorce minutos a pie.
+
+Constituye una excelente referencia urbana para quienes desean desplazarse entre la zona residencial de Los Fresnos y el casco histórico.
+
+--------------------------------------------------------------------------------
+PREGUNTA 12: ¿Disponen de servicio para llevar con envases térmicos seguros?
+--------------------------------------------------------------------------------
+RESPUESTA 12:
+Contamos con vasos descartables de calidad con tapas herméticas que impiden cualquier derrame durante el transporte de bebidas frías o calientes.
+
+Empacamos los sándwiches y ensaladas en envases biodegradables higiénicos que resguardan la temperatura y textura de los alimentos.
+
+Muchos vecinos y trabajadores de la zona solicitan sus pedidos para llevar y consumirlos cómodamente en sus casas u oficinas.
+
+--------------------------------------------------------------------------------
+PREGUNTA 13: ¿Cuáles bebidas calientes tradicionales forman parte de la carta matutina?
+--------------------------------------------------------------------------------
+RESPUESTA 13:
+Ofrecemos café pasado tradicional de aroma intenso, café con leche fresca de vaca del valle cajamarquino y chocolate caliente espeso.
+
+Preparamos infusiones naturales de hierbas digestivas como muña andina, manzanilla, hierbaluisa, menta silvestre y anís reconfortante.
+
+Estas bebidas son muy valoradas durante las mañanas frescas y noches serranas para acompañar bocadillos y calentar el organismo.
+
+--------------------------------------------------------------------------------
+PREGUNTA 14: ¿Qué distancia de desplazamiento separa este punto del centro comercial El Quinde?
+--------------------------------------------------------------------------------
+RESPUESTA 14:
+Una distancia de 1.06 km (1058 metros) de desplazamiento separa el local de las instalaciones del centro comercial El Quinde.
+
+Se puede llegar en unos trece a catorce minutos de caminata constante o en un breve trayecto de cuatro minutos en mototaxi o vehículo.
+
+Permite a los residentes y visitantes de la zona acceder fácilmente a dos importantes polos comerciales de la ciudad de Cajamarca.
+
+--------------------------------------------------------------------------------
+PREGUNTA 15: ¿En qué horarios atienden al público de manera cotidiana durante la semana y feriados?
+--------------------------------------------------------------------------------
+RESPUESTA 15:
+Atendemos de lunes a sábado desde las siete de la mañana de forma continua hasta las ocho de la noche atendiendo a los comensales.
+
+Los días domingos y feriados brindamos atención especial matinal para servir desayunos familiares completos a los vecinos del sector.
+
+Aconsejamos acudir durante las primeras horas del día para saborear la fruta más tierna y recién llegada de los campos locales.
+
+--------------------------------------------------------------------------------
+PREGUNTA 16: ¿Cuentan con un ambiente propicio para sentarse y degustar los pedidos?
+--------------------------------------------------------------------------------
+RESPUESTA 16:
+Disponemos de un salón pulcro y bien iluminado equipado con mesas confortables donde degustar jugos y sándwiches con total calma.
+
+La rotación es fluida y el trato amable garantiza que los visitantes se sientan cómodos tanto en visitas individuales como en grupo.
+
+La atmósfera de Juguería Mi Cielo invita a compartir un instante ameno y agradable en un entorno libre de ruidos excesivos.
+
+--------------------------------------------------------------------------------
+PREGUNTA 17: ¿Qué paquetes o promociones ofrecen para el desayuno cotidiano?
+--------------------------------------------------------------------------------
+RESPUESTA 17:
+Brindamos convenientes combos que incluyen un jugo surtido grande, un sándwich clásico de pollo o queso y una taza de café caliente.
+
+Disponemos de precios favorables en ensaladas familiares de fruta y promociones especiales para clientes habituales del barrio.
+
+Estas opciones permiten disfrutar de un desayuno balanceado, abundante y sumamente económico para cuidar la salud y el bolsillo.
+
+--------------------------------------------------------------------------------
+PREGUNTA 18: ¿Se pueden coordinar pedidos con anticipación para recoger al paso?
+--------------------------------------------------------------------------------
+RESPUESTA 18:
+Coordinamos pedidos telefónicos o presenciales para que los clientes retiren sus paquetes listos sin necesidad de hacer filas ni esperar.
+
+Licuamos y ensamblamos los productos con exactitud instantes antes de la hora acordada para preservar su máxima frescura y sabor.
+
+Esta modalidad es de gran utilidad para quienes cuentan con poco tiempo antes de incorporarse a sus jornadas escolares o de trabajo.
+
+--------------------------------------------------------------------------------
+PREGUNTA 19: ¿Qué cuidados brindan en la atención de adultos mayores y comensales jóvenes?
+--------------------------------------------------------------------------------
+RESPUESTA 19:
+El personal atiende con infinita paciencia y cordialidad, dando preferencia en mesas a personas adultas mayores y familias con niños pequeños.
+
+Ajustamos las preparaciones según indicaciones nutricionales sirviendo las bebidas a temperatura templada y con texturas más suaves.
+
+En Juguería Mi Cielo procuramos brindar una atención cálida y cercana que refleje la genuina cortesía y cariño de Cajamarca.
+
+--------------------------------------------------------------------------------
+PREGUNTA 20: ¿Por qué este rincón saludable se ha ganado la confianza de la urbanización Los Fresnos?
+--------------------------------------------------------------------------------
+RESPUESTA 20:
+La dedicación por emplear fruta fresca de calidad, la pulcritud del local y el trato honesto han afianzado la lealtad de la vecindad.
+
+Constituye un punto de referencia para quienes buscan alimentarse sanamente sin tener que trasladarse hasta el congestionado centro.
+
+Es un espacio familiar y querido donde el bienestar diario se sirve con devoción, esmero y verdadero sabor casero.
